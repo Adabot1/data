@@ -1,0 +1,344 @@
+{
+    "API": [
+        {
+            "Comments": "A Comparator that orders String objects as by compareToIgnoreCase.",
+            "Function": "CASE_INSENSITIVE_ORDER",
+            "Modifier and Type": "static Comparator<String>"
+        },
+        {
+            "Comments": "Returns the char value at the specified index.",
+            "Function": "charAt(int index)",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Returns the character (Unicode code point) at the specified index.",
+            "Function": "codePointAt(int index)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the character (Unicode code point) before the specified index.",
+            "Function": "codePointBefore(int index)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of Unicode code points in the specified text range of this String.",
+            "Function": "codePointCount(int beginIndex,int endIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares two strings lexicographically.",
+            "Function": "compareTo(String anotherString)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares two strings lexicographically, ignoring case differences.",
+            "Function": "compareToIgnoreCase(String str)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Concatenates the specified string to the end of this string.",
+            "Function": "concat(String str)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns true if and only if this string contains the specified sequence of char values.",
+            "Function": "contains(CharSequence s)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this string to the specified CharSequence.",
+            "Function": "contentEquals(CharSequence cs)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this string to the specified StringBuffer.",
+            "Function": "contentEquals(StringBuffer sb)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Equivalent to valueOf(char[]).",
+            "Function": "copyValueOf(char[] data)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Equivalent to valueOf(char[], int, int).",
+            "Function": "copyValueOf(char[] data, int offset, int count)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Tests if this string ends with the specified suffix.",
+            "Function": "endsWith(String suffix)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this string to the specified object.",
+            "Function": "equals(Object anObject)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this String to another String, ignoring case considerations.",
+            "Function": "equalsIgnoreCase(String anotherString)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a formatted string using the specified locale, format string, and arguments.",
+            "Function": "format(Locale l,String format,Object... args)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a formatted string using the specified format string and arguments.",
+            "Function": "format(String format,Object... args)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Encodes this String into a sequence of bytes using the platform's default charset, storing the result into a new byte array.",
+            "Function": "getBytes()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Encodes this String into a sequence of bytes using the given charset, storing the result into a new byte array.",
+            "Function": "getBytes(Charset charset)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Deprecated.\u00a0This method does not properly convert characters into bytes.  As of JDK\u00a01.1, the preferred way to do this is via the getBytes() method, which uses the platform's default charset.",
+            "Function": "getBytes(int srcBegin,int srcEnd,byte[] dst,int dstBegin)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Encodes this String into a sequence of bytes using the named charset, storing the result into a new byte array.",
+            "Function": "getBytes(String charsetName)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Copies characters from this string into the destination character array.",
+            "Function": "getChars(int srcBegin,int srcEnd,char[] dst,int dstBegin)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a hash code for this string.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index within this string of the first occurrence of the specified character.",
+            "Function": "indexOf(int ch)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index within this string of the first occurrence of the specified character, starting the search at the specified index.",
+            "Function": "indexOf(int ch, int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index within this string of the first occurrence of the specified substring.",
+            "Function": "indexOf(String str)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index within this string of the first occurrence of the specified substring, starting at the specified index.",
+            "Function": "indexOf(String str, int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a canonical representation for the string object.",
+            "Function": "intern()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns true if, and only if, length() is 0.",
+            "Function": "isEmpty()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a new String composed of copies of the CharSequence elements joined together with a copy of the specified delimiter.",
+            "Function": "join(CharSequence delimiter,CharSequence... elements)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a new String composed of copies of the CharSequence elements joined together with a copy of the specified delimiter.",
+            "Function": "join(CharSequence delimiter,Iterable<? extends CharSequence> elements)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the index within this string of the last occurrence of the specified character.",
+            "Function": "lastIndexOf(int ch)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index within this string of the last occurrence of the specified character, searching backward starting at the specified index.",
+            "Function": "lastIndexOf(int ch, int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index within this string of the last occurrence of the specified substring.",
+            "Function": "lastIndexOf(String str)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index within this string of the last occurrence of the specified substring, searching backward starting at the specified index.",
+            "Function": "lastIndexOf(String str, int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the length of this string.",
+            "Function": "length()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this string matches the given regular expression.",
+            "Function": "matches(String regex)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the index within this String that is offset from the given index by codePointOffset code points.",
+            "Function": "offsetByCodePoints(int index,int codePointOffset)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if two string regions are equal.",
+            "Function": "regionMatches(boolean ignoreCase, int toffset, String other, int ooffset, int len)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests if two string regions are equal.",
+            "Function": "regionMatches(int toffset, String other, int ooffset, int len)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a string resulting from replacing all occurrences of oldChar in this string with newChar.",
+            "Function": "replace(char oldChar, char newChar)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Replaces each substring of this string that matches the literal target sequence with the specified literal replacement sequence.",
+            "Function": "replace(CharSequence target, CharSequence replacement)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Replaces each substring of this string that matches the given regular expression with the given replacement.",
+            "Function": "replaceAll(String regex,String replacement)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Replaces the first substring of this string that matches the given regular expression with the given replacement.",
+            "Function": "replaceFirst(String regex,String replacement)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Splits this string around matches of the given regular expression.",
+            "Function": "split(String regex)",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Splits this string around matches of the given regular expression.",
+            "Function": "split(String regex, int limit)",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Tests if this string starts with the specified prefix.",
+            "Function": "startsWith(String prefix)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests if the substring of this string beginning at the specified index starts with the specified prefix.",
+            "Function": "startsWith(String prefix,int toffset)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a character sequence that is a subsequence of this sequence.",
+            "Function": "subSequence(int beginIndex, int endIndex)",
+            "Modifier and Type": "CharSequence"
+        },
+        {
+            "Comments": "Returns a string that is a substring of this string.",
+            "Function": "substring(int beginIndex)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string that is a substring of this string.",
+            "Function": "substring(int beginIndex, int endIndex)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts this string to a new character array.",
+            "Function": "toCharArray()",
+            "Modifier and Type": "char[]"
+        },
+        {
+            "Comments": "Converts all of the characters in this String to lower case using the rules of the default locale.",
+            "Function": "toLowerCase()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts all of the characters in this String to lower case using the rules of the given Locale.",
+            "Function": "toLowerCase(Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "This object (which is already a string!) is itself returned.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts all of the characters in this String to upper case using the rules of the default locale.",
+            "Function": "toUpperCase()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts all of the characters in this String to upper case using the rules of the given Locale.",
+            "Function": "toUpperCase(Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string whose value is this string, with any leading and trailing whitespace removed.",
+            "Function": "trim()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the string representation of the boolean argument.",
+            "Function": "valueOf(boolean b)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of the char argument.",
+            "Function": "valueOf(char c)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of the char array argument.",
+            "Function": "valueOf(char[] data)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of a specific subarray of the char array argument.",
+            "Function": "valueOf(char[] data, int offset, int count)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of the double argument.",
+            "Function": "valueOf(double d)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of the float argument.",
+            "Function": "valueOf(float f)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of the int argument.",
+            "Function": "valueOf(int i)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of the long argument.",
+            "Function": "valueOf(long l)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the string representation of the Object argument.",
+            "Function": "valueOf(Object obj)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

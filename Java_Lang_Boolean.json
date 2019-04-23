@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "The Boolean object corresponding to the primitive value false.",
+            "Function": "FALSE",
+            "Modifier and Type": "static Boolean"
+        },
+        {
+            "Comments": "The Boolean object corresponding to the primitive value true.",
+            "Function": "TRUE",
+            "Modifier and Type": "static Boolean"
+        },
+        {
+            "Comments": "The Class object representing the primitive type boolean.",
+            "Function": "TYPE",
+            "Modifier and Type": "static Class<Boolean>"
+        },
+        {
+            "Comments": "Returns the value of this Boolean object as a boolean primitive.",
+            "Function": "booleanValue()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares two boolean values.",
+            "Function": "compare(boolean x, boolean y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compares this Boolean instance with another.",
+            "Function": "compareTo(Boolean b)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if and only if the argument is not null and is a Boolean object that represents the same boolean value as this object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if and only if the system property named by the argument exists and is equal to the string \"true\".",
+            "Function": "getBoolean(String name)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns a hash code for this Boolean object.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code for a boolean value; compatible with Boolean.hashCode().",
+            "Function": "hashCode(boolean value)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the result of applying the logical AND operator to the specified boolean operands.",
+            "Function": "logicalAnd(boolean a,boolean b)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the result of applying the logical OR operator to the specified boolean operands.",
+            "Function": "logicalOr(boolean a, boolean b)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the result of applying the logical XOR operator to the specified boolean operands.",
+            "Function": "logicalXor(boolean a,boolean b)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Parses the string argument as a boolean.",
+            "Function": "parseBoolean(String s)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns a String object representing this Boolean's value.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a String object representing the specified boolean.",
+            "Function": "toString(boolean b)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a Boolean instance representing the specified boolean value.",
+            "Function": "valueOf(boolean b)",
+            "Modifier and Type": "static Boolean"
+        },
+        {
+            "Comments": "Returns a Boolean with a value represented by the specified string.",
+            "Function": "valueOf(String s)",
+            "Modifier and Type": "static Boolean"
+        }
+    ]
+}

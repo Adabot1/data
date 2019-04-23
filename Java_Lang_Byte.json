@@ -1,0 +1,134 @@
+{
+    "API": [
+        {
+            "Comments": "The number of bytes used to represent a byte value in two's complement binary form.",
+            "Function": "BYTES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A constant holding the maximum value a byte can have, 27-1.",
+            "Function": "MAX_VALUE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "A constant holding the minimum value a byte can have, -27.",
+            "Function": "MIN_VALUE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "The number of bits used to represent a byte value in two's complement binary form.",
+            "Function": "SIZE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The Class instance representing the primitive type byte.",
+            "Function": "TYPE",
+            "Modifier and Type": "static Class<Byte>"
+        },
+        {
+            "Comments": "Returns the value of this Byte as a byte.",
+            "Function": "byteValue()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Compares two byte values numerically.",
+            "Function": "compare(byte x, byte y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compares two Byte objects numerically.",
+            "Function": "compareTo(Byte anotherByte)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Decodes a String into a Byte.",
+            "Function": "decode(String nm)",
+            "Modifier and Type": "static Byte"
+        },
+        {
+            "Comments": "Returns the value of this Byte as a double after a widening primitive conversion.",
+            "Function": "doubleValue()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Compares this object to the specified object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of this Byte as a float after a widening primitive conversion.",
+            "Function": "floatValue()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns a hash code for this Byte; equal to the result of invoking intValue().",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code for a byte value; compatible with Byte.hashCode().",
+            "Function": "hashCode(byte value)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the value of this Byte as an int after a widening primitive conversion.",
+            "Function": "intValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the value of this Byte as a long after a widening primitive conversion.",
+            "Function": "longValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Parses the string argument as a signed decimal byte.",
+            "Function": "parseByte(String s)",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Parses the string argument as a signed byte in the radix specified by the second argument.",
+            "Function": "parseByte(String s, int radix)",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Returns the value of this Byte as a short after a widening primitive conversion.",
+            "Function": "shortValue()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Returns a String object representing this Byte's value.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a new String object representing the specified byte.",
+            "Function": "toString(byte b)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Converts the argument to an int by an unsigned conversion.",
+            "Function": "toUnsignedInt(byte x)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts the argument to a long by an unsigned conversion.",
+            "Function": "toUnsignedLong(byte x)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns a Byte instance representing the specified byte value.",
+            "Function": "valueOf(byte b)",
+            "Modifier and Type": "static Byte"
+        },
+        {
+            "Comments": "Returns a Byte object holding the value given by the specified String.",
+            "Function": "valueOf(String s)",
+            "Modifier and Type": "static Byte"
+        },
+        {
+            "Comments": "Returns a Byte object holding the value extracted from the specified String when parsed with the radix given by the second argument.",
+            "Function": "valueOf(String s, int radix)",
+            "Modifier and Type": "static Byte"
+        }
+    ]
+}

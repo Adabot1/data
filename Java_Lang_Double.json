@@ -1,0 +1,199 @@
+{
+    "API": [
+        {
+            "Comments": "The number of bytes used to represent a double value.",
+            "Function": "BYTES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Maximum exponent a finite double variable may have.",
+            "Function": "MAX_EXPONENT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A constant holding the largest positive finite value of type double, (2-2-52)\u00b721023.",
+            "Function": "MAX_VALUE",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Minimum exponent a normalized double variable may have.",
+            "Function": "MIN_EXPONENT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A constant holding the smallest positive normal value of type double, 2-1022.",
+            "Function": "MIN_NORMAL",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "A constant holding the smallest positive nonzero value of type double, 2-1074.",
+            "Function": "MIN_VALUE",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "A constant holding a Not-a-Number (NaN) value of type double.",
+            "Function": "NaN",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "A constant holding the negative infinity of type double.",
+            "Function": "NEGATIVE_INFINITY",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "A constant holding the positive infinity of type double.",
+            "Function": "POSITIVE_INFINITY",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "The number of bits used to represent a double value.",
+            "Function": "SIZE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The Class instance representing the primitive type double.",
+            "Function": "TYPE",
+            "Modifier and Type": "static Class<Double>"
+        },
+        {
+            "Comments": "Returns the value of this Double as a byte after a narrowing primitive conversion.",
+            "Function": "byteValue()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Compares the two specified double values.",
+            "Function": "compare(double d1, double d2)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compares two Double objects numerically.",
+            "Function": "compareTo(Double anotherDouble)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a representation of the specified floating-point value according to the IEEE 754 floating-point \"double format\" bit layout.",
+            "Function": "doubleToLongBits(double value)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns a representation of the specified floating-point value according to the IEEE 754 floating-point \"double format\" bit layout, preserving Not-a-Number (NaN) values.",
+            "Function": "doubleToRawLongBits(double value)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the double value of this Double object.",
+            "Function": "doubleValue()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of this Double as a float after a narrowing primitive conversion.",
+            "Function": "floatValue()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns a hash code for this Double object.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code for a double value; compatible with Double.hashCode().",
+            "Function": "hashCode(double value)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the value of this Double as an int after a narrowing primitive conversion.",
+            "Function": "intValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if the argument is a finite floating-point value; returns false otherwise (for NaN and infinity arguments).",
+            "Function": "isFinite(double d)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns true if this Double value is infinitely large in magnitude, false otherwise.",
+            "Function": "isInfinite()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the specified number is infinitely large in magnitude, false otherwise.",
+            "Function": "isInfinite(double v)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns true if this Double value is a Not-a-Number (NaN), false otherwise.",
+            "Function": "isNaN()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the specified number is a Not-a-Number (NaN) value, false otherwise.",
+            "Function": "isNaN(double v)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the double value corresponding to a given bit representation.",
+            "Function": "longBitsToDouble(long bits)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the value of this Double as a long after a narrowing primitive conversion.",
+            "Function": "longValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the greater of two double values as if by calling Math.max.",
+            "Function": "max(double a, double b)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the smaller of two double values as if by calling Math.min.",
+            "Function": "min(double a, double b)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns a new double initialized to the value represented by the specified String, as performed by the valueOf method of class Double.",
+            "Function": "parseDouble(String s)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the value of this Double as a short after a narrowing primitive conversion.",
+            "Function": "shortValue()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Adds two double values together as per the + operator.",
+            "Function": "sum(double a, double b)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns a hexadecimal string representation of the double argument.",
+            "Function": "toHexString(double d)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a string representation of this Double object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string representation of the double argument.",
+            "Function": "toString(double d)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a Double instance representing the specified double value.",
+            "Function": "valueOf(double d)",
+            "Modifier and Type": "static Double"
+        },
+        {
+            "Comments": "Returns a Double object holding the double value represented by the argument string s.",
+            "Function": "valueOf(String s)",
+            "Modifier and Type": "static Double"
+        }
+    ]
+}

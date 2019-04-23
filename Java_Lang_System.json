@@ -1,0 +1,154 @@
+{
+    "API": [
+        {
+            "Comments": "The \"standard\" error output stream.",
+            "Function": "err",
+            "Modifier and Type": "static PrintStream"
+        },
+        {
+            "Comments": "The \"standard\" input stream.",
+            "Function": "in",
+            "Modifier and Type": "static InputStream"
+        },
+        {
+            "Comments": "The \"standard\" output stream.",
+            "Function": "out",
+            "Modifier and Type": "static PrintStream"
+        },
+        {
+            "Comments": "Copies an array from the specified source array, beginning at the specified position, to the specified position of the destination array.",
+            "Function": "arraycopy(Object src, int srcPos, Object dest, int destPos, int length)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Removes the system property indicated by the specified key.",
+            "Function": "clearProperty(String key)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the unique Console object associated with the current Java virtual machine, if any.",
+            "Function": "console()",
+            "Modifier and Type": "static Console"
+        },
+        {
+            "Comments": "Returns the current time in milliseconds.",
+            "Function": "currentTimeMillis()",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Terminates the currently running Java Virtual Machine.",
+            "Function": "exit(int status)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Runs the garbage collector.",
+            "Function": "gc()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns an unmodifiable string map view of the current system environment.",
+            "Function": "getenv()",
+            "Modifier and Type": "static Map<String,String>"
+        },
+        {
+            "Comments": "Gets the value of the specified environment variable.",
+            "Function": "getenv(String name)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Determines the current system properties.",
+            "Function": "getProperties()",
+            "Modifier and Type": "static Properties"
+        },
+        {
+            "Comments": "Gets the system property indicated by the specified key.",
+            "Function": "getProperty(String key)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Gets the system property indicated by the specified key.",
+            "Function": "getProperty(String key, String def)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Gets the system security interface.",
+            "Function": "getSecurityManager()",
+            "Modifier and Type": "static SecurityManager"
+        },
+        {
+            "Comments": "Returns the same hash code for the given object as would be returned by the default method hashCode(), whether or not the given object's class overrides hashCode().",
+            "Function": "identityHashCode(Object x)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the channel inherited from the entity that created this Java virtual machine.",
+            "Function": "inheritedChannel()",
+            "Modifier and Type": "static Channel"
+        },
+        {
+            "Comments": "Returns the system-dependent line separator string.",
+            "Function": "lineSeparator()",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Loads the native library specified by the filename argument.",
+            "Function": "load(String filename)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Loads the native library specified by the libname argument.",
+            "Function": "loadLibrary(String libname)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Maps a library name into a platform-specific string representing a native library.",
+            "Function": "mapLibraryName(String libname)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds.",
+            "Function": "nanoTime()",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Runs the finalization methods of any objects pending finalization.",
+            "Function": "runFinalization()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Deprecated.\u00a0This method is inherently unsafe.  It may result in      finalizers being called on live objects while other threads are      concurrently manipulating those objects, resulting in erratic      behavior or deadlock.",
+            "Function": "runFinalizersOnExit(boolean value)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Reassigns the \"standard\" error output stream.",
+            "Function": "setErr(PrintStream err)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Reassigns the \"standard\" input stream.",
+            "Function": "setIn(InputStream in)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Reassigns the \"standard\" output stream.",
+            "Function": "setOut(PrintStream out)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the system properties to the Properties argument.",
+            "Function": "setProperties(Properties props)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the system property indicated by the specified key.",
+            "Function": "setProperty(String key, String value)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Sets the System security.",
+            "Function": "setSecurityManager(SecurityManager s)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}
