@@ -56,7 +56,7 @@
             "Modifier and Type": "static double"
         },
         {
-            "Comments": "Returns the angle theta from the conversion of rectangular coordinates (x,\u00a0y) to polar coordinates (r,\u00a0theta).",
+            "Comments": "Returns the angle theta from the conversion of rectangular coordinates (x, y) to polar coordinates (r, theta).",
             "Function": "atan2(double y, double x)",
             "Modifier and Type": "static double"
         },
@@ -106,7 +106,7 @@
             "Modifier and Type": "static double"
         },
         {
-            "Comments": "Returns ex\u00a0-1.",
+            "Comments": "Returns ex -1.",
             "Function": "expm1(double x)",
             "Modifier and Type": "static double"
         },
@@ -166,7 +166,7 @@
             "Modifier and Type": "static int"
         },
         {
-            "Comments": "Returns sqrt(x2\u00a0+y2) without intermediate overflow or underflow.",
+            "Comments": "Returns sqrt(x2 +y2) without intermediate overflow or underflow.",
             "Function": "hypot(double x, double y)",
             "Modifier and Type": "static double"
         },
@@ -331,12 +331,12 @@
             "Modifier and Type": "static int"
         },
         {
-            "Comments": "Returns d \u00d7 2scaleFactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the double value set.",
+            "Comments": "Returns d × 2scaleFactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the double value set.",
             "Function": "scalb(double d, int scaleFactor)",
             "Modifier and Type": "static double"
         },
         {
-            "Comments": "Returns f \u00d7 2scaleFactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the float value set.",
+            "Comments": "Returns f × 2scaleFactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the float value set.",
             "Function": "scalb(float f, int scaleFactor)",
             "Modifier and Type": "static float"
         },
