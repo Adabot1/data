@@ -122,6 +122,11 @@
         },
         {
             "Comments": "Returns the largest (closest to positive infinity) long value that is less than or equal to the algebraic quotient.",
+            "Function": "floorDiv(long x,int y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the largest (closest to positive infinity) long value that is less than or equal to the algebraic quotient.",
             "Function": "floorDiv(long x,long y)",
             "Modifier and Type": "static long"
         },
@@ -131,9 +136,24 @@
             "Modifier and Type": "static int"
         },
         {
+            "Comments": "Returns the floor modulus of the long and int arguments.",
+            "Function": "floorMod(long x,int y)",
+            "Modifier and Type": "static int"
+        },
+        {
             "Comments": "Returns the floor modulus of the long arguments.",
             "Function": "floorMod(long x,long y)",
             "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the fused multiply add of the three arguments; that is, returns the exact product of the first two arguments summed with the third argument and then rounded once to the nearest double.",
+            "Function": "fma(double a, double b, double c)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the fused multiply add of the three arguments; that is, returns the exact product of the first two arguments summed with the third argument and then rounded once to the nearest float.",
+            "Function": "fma(float a, float b, float c)",
+            "Modifier and Type": "static float"
         },
         {
             "Comments": "Returns the unbiased exponent used in the representation of a double.",
@@ -227,7 +247,22 @@
         },
         {
             "Comments": "Returns the product of the arguments, throwing an exception if the result overflows a long.",
+            "Function": "multiplyExact(long x, int y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the product of the arguments, throwing an exception if the result overflows a long.",
             "Function": "multiplyExact(long x, long y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the exact mathematical product of the arguments.",
+            "Function": "multiplyFull(int x,int y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns as a long the most significant 64 bits of the 128-bit product of two 64-bit factors.",
+            "Function": "multiplyHigh(long x,long y)",
             "Modifier and Type": "static long"
         },
         {
