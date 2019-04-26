@@ -1,0 +1,82 @@
+the double value that is closer than any other to e, the base of the natural logarithms.
+the double value that is closer than any other to pi, the ratio of the circumference of a circle to its diameter.
+returns the absolute value of a double value.
+returns the absolute value of a float value.
+returns the absolute value of an int value.
+returns the absolute value of a long value.
+returns the arc cosine of a value; the returned angle is in the range 0.0 through pi.
+returns the sum of its arguments, throwing an exception if the result overflows an int.
+returns the sum of its arguments, throwing an exception if the result overflows a long.
+returns the arc sine of a value; the returned angle is in the range -pi/2 through pi/2.
+returns the arc tangent of a value; the returned angle is in the range -pi/2 through pi/2.
+returns the angle theta from the conversion of rectangular coordinates (x, y) to polar coordinates (r, theta).
+returns the cube root of a double value.
+returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer.
+returns the first floating-point argument with the sign of the second floating-point argument.
+returns the first floating-point argument with the sign of the second floating-point argument.
+returns the trigonometric cosine of an angle.
+returns the hyperbolic cosine of a double value.
+returns the argument decremented by one, throwing an exception if the result overflows an int.
+returns the argument decremented by one, throwing an exception if the result overflows a long.
+returns euler's number e raised to the power of a double value.
+returns ex -1.
+returns the largest (closest to positive infinity) double value that is less than or equal to the argument and is equal to a mathematical integer.
+returns the largest (closest to positive infinity) int value that is less than or equal to the algebraic quotient.
+returns the largest (closest to positive infinity) long value that is less than or equal to the algebraic quotient.
+returns the largest (closest to positive infinity) long value that is less than or equal to the algebraic quotient.
+returns the floor modulus of the int arguments.
+returns the floor modulus of the long and int arguments.
+returns the floor modulus of the long arguments.
+returns the fused multiply add of the three arguments; that is, returns the exact product of the first two arguments summed with the third argument and then rounded once to the nearest double.
+returns the fused multiply add of the three arguments; that is, returns the exact product of the first two arguments summed with the third argument and then rounded once to the nearest float.
+returns the unbiased exponent used in the representation of a double.
+returns the unbiased exponent used in the representation of a float.
+returns sqrt(x2 +y2) without intermediate overflow or underflow.
+computes the remainder operation on two arguments as prescribed by the ieee 754 standard.
+returns the argument incremented by one, throwing an exception if the result overflows an int.
+returns the argument incremented by one, throwing an exception if the result overflows a long.
+returns the natural logarithm (base e) of a double value.
+returns the base 10 logarithm of a double value.
+returns the natural logarithm of the sum of the argument and 1.
+returns the greater of two double values.
+returns the greater of two float values.
+returns the greater of two int values.
+returns the greater of two long values.
+returns the smaller of two double values.
+returns the smaller of two float values.
+returns the smaller of two int values.
+returns the smaller of two long values.
+returns the product of the arguments, throwing an exception if the result overflows an int.
+returns the product of the arguments, throwing an exception if the result overflows a long.
+returns the product of the arguments, throwing an exception if the result overflows a long.
+returns the exact mathematical product of the arguments.
+returns as a long the most significant 64 bits of the 128-bit product of two 64-bit factors.
+returns the negation of the argument, throwing an exception if the result overflows an int.
+returns the negation of the argument, throwing an exception if the result overflows a long.
+returns the floating-point number adjacent to the first argument in the direction of the second argument.
+returns the floating-point number adjacent to the first argument in the direction of the second argument.
+returns the floating-point value adjacent to d in the direction of negative infinity.
+returns the floating-point value adjacent to f in the direction of negative infinity.
+returns the floating-point value adjacent to d in the direction of positive infinity.
+returns the floating-point value adjacent to f in the direction of positive infinity.
+returns the value of the first argument raised to the power of the second argument.
+returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0.
+returns the double value that is closest in value to the argument and is equal to a mathematical integer.
+returns the closest long to the argument, with ties rounding to positive infinity.
+returns the closest int to the argument, with ties rounding to positive infinity.
+returns d × 2scalefactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the double value set.
+returns f × 2scalefactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the float value set.
+returns the signum function of the argument; zero if the argument is zero, 1.0 if the argument is greater than zero, -1.0 if the argument is less than zero.
+returns the signum function of the argument; zero if the argument is zero, 1.0f if the argument is greater than zero, -1.0f if the argument is less than zero.
+returns the trigonometric sine of an angle.
+returns the hyperbolic sine of a double value.
+returns the correctly rounded positive square root of a double value.
+returns the difference of the arguments, throwing an exception if the result overflows an int.
+returns the difference of the arguments, throwing an exception if the result overflows a long.
+returns the trigonometric tangent of an angle.
+returns the hyperbolic tangent of a double value.
+converts an angle measured in radians to an approximately equivalent angle measured in degrees.
+returns the value of the long argument; throwing an exception if the value overflows an int.
+converts an angle measured in degrees to an approximately equivalent angle measured in radians.
+returns the size of an ulp of the argument.
+returns the size of an ulp of the argument.
