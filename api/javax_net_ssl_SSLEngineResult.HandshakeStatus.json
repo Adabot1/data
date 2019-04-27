@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The SSLEngine has just finished handshaking.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static SSLEngineResult.HandshakeStatus"
+        },
+        {
+            "Comments": "The SSLEngine needs the results of one (or more) delegated tasks before handshaking can continue.",
+            "Function": "values()",
+            "Modifier and Type": "static SSLEngineResult.HandshakeStatus[]"
+        }
+    ]
+}

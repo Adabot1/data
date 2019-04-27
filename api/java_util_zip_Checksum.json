@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the current checksum value.",
+            "Function": "getValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Resets the checksum to its initial value.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the current checksum with the specified array of bytes.",
+            "Function": "update(byte[] b)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Updates the current checksum with the specified array of bytes.",
+            "Function": "update(byte[] b,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the current checksum with the specified byte.",
+            "Function": "update(int b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the current checksum with the bytes from the specified buffer.",
+            "Function": "update(ByteBuffer buffer)",
+            "Modifier and Type": "default void"
+        }
+    ]
+}

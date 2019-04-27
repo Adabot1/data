@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Specifies automatic filtering mode based on the given Language Priority List consisting of language ranges.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Locale.FilteringMode"
+        },
+        {
+            "Comments": "Specifies extended filtering.",
+            "Function": "values()",
+            "Modifier and Type": "static Locale.FilteringMode[]"
+        }
+    ]
+}

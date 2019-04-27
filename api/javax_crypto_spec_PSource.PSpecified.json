@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The encoding input P whose value equals byte[0].",
+            "Function": "DEFAULT",
+            "Modifier and Type": "static PSource.PSpecified"
+        },
+        {
+            "Comments": "Constructs the source explicitly with the specified value p as the encoding input P.",
+            "Function": "getValue()",
+            "Modifier and Type": "byte[]"
+        }
+    ]
+}

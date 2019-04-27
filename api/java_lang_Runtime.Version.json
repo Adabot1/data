@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the build number.",
+            "Function": "build()",
+            "Modifier and Type": "Optional<Integer>"
+        },
+        {
+            "Comments": "Compares this version to another.",
+            "Function": "compareTo(Runtime.Version obj)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares this version to another disregarding optional build information.",
+            "Function": "compareToIgnoreOptional(Runtime.Version obj)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Determines whether this Version is equal to another object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Determines whether this Version is equal to another disregarding optional build information.",
+            "Function": "equalsIgnoreOptional(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the feature element of the version number.",
+            "Function": "feature()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hash code of this version.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the value of the interim element of the version number, or zero if it is absent.",
+            "Function": "interim()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.As of Java SE 10, the first element of a version number is not the major-release number but the feature-release counter, incremented for every time-based release.",
+            "Function": "major()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.As of Java SE 10, the second element of a version number is not the minor-release number but the interim-release counter, incremented for every interim release.",
+            "Function": "minor()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns optional additional identifying build information.",
+            "Function": "optional()",
+            "Modifier and Type": "Optional<String>"
+        },
+        {
+            "Comments": "Parses the given string as a valid version string containing a version number followed by pre-release and build information.",
+            "Function": "parse(String s)",
+            "Modifier and Type": "static Runtime.Version"
+        },
+        {
+            "Comments": "Returns the value of the patch element of the version number, or zero if it is absent.",
+            "Function": "patch()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the optional pre-release information.",
+            "Function": "pre()",
+            "Modifier and Type": "Optional<String>"
+        },
+        {
+            "Comments": "Deprecated.As of Java SE 10, the third element of a version number is not the security level but the update-release counter, incremented for every update release.",
+            "Function": "security()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string representation of this version.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the update element of the version number, or zero if it is absent.",
+            "Function": "update()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an unmodifiable List of the integers represented in the version number.",
+            "Function": "version()",
+            "Modifier and Type": "List<Integer>"
+        }
+    ]
+}

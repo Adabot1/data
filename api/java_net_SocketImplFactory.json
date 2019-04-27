@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new SocketImpl instance.",
+            "Function": "createSocketImpl()",
+            "Modifier and Type": "SocketImpl"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "The main computation performed by this task.",
+            "Function": "compute()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Implements execution conventions for RecursiveActions.",
+            "Function": "exec()",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Always returns null.",
+            "Function": "getRawResult()",
+            "Modifier and Type": "Void"
+        },
+        {
+            "Comments": "Requires null completion value.",
+            "Function": "setRawResult(Void mustBeNull)",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

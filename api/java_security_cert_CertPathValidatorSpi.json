@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The default constructor.",
+            "Function": "engineGetRevocationChecker()",
+            "Modifier and Type": "CertPathChecker"
+        },
+        {
+            "Comments": "Returns a CertPathChecker that this implementation uses to check the revocation status of certificates.",
+            "Function": "engineValidate(CertPath certPath,CertPathParameters params)",
+            "Modifier and Type": "abstract CertPathValidatorResult"
+        }
+    ]
+}

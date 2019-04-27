@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a parameter set for password-based encryption as defined in the PKCS #5 standard.",
+            "Function": "getIterationCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a parameter set for password-based encryption as defined in the PKCS #5 standard.",
+            "Function": "getParameterSpec()",
+            "Modifier and Type": "AlgorithmParameterSpec"
+        },
+        {
+            "Comments": "Returns the iteration count.",
+            "Function": "getSalt()",
+            "Modifier and Type": "byte[]"
+        }
+    ]
+}

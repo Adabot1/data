@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "acquiredBy()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "channel()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the channel upon whose file this lock was acquired.",
+            "Function": "close()",
+            "Modifier and Type": "Channel"
+        },
+        {
+            "Comments": "Returns the file channel upon whose file this lock was acquired.",
+            "Function": "isShared()",
+            "Modifier and Type": "FileChannel"
+        },
+        {
+            "Comments": "This method invokes the release() method.",
+            "Function": "isValid()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tells whether this lock is shared.",
+            "Function": "overlaps(long position,long size)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this lock is valid.",
+            "Function": "position()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not this lock overlaps the given lock range.",
+            "Function": "release()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the position within the file of the first byte of the locked region.",
+            "Function": "size()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Releases this lock.",
+            "Function": "toString()",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

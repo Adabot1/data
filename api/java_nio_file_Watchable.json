@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Registers an object with a watch service.",
+            "Function": "register(WatchService watcher,WatchEvent.Kind<?>... events)",
+            "Modifier and Type": "WatchKey"
+        },
+        {
+            "Comments": "Registers an object with a watch service.",
+            "Function": "register(WatchService watcher,WatchEvent.Kind<?>[] events,WatchEvent.Modifier... modifiers)",
+            "Modifier and Type": "WatchKey"
+        }
+    ]
+}

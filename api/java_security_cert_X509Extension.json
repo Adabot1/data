@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Gets a Set of the OID strings for the extension(s) marked CRITICAL in the certificate/CRL managed by the object implementing this interface.",
+            "Function": "getCriticalExtensionOIDs()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Gets the DER-encoded OCTET string for the extension value (extnValue) identified by the passed-in oid String.",
+            "Function": "getExtensionValue(String oid)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Gets a Set of the OID strings for the extension(s) marked NON-CRITICAL in the certificate/CRL managed by the object implementing this interface.",
+            "Function": "getNonCriticalExtensionOIDs()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Check if there is a critical extension that is not supported.",
+            "Function": "hasUnsupportedCriticalExtension()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

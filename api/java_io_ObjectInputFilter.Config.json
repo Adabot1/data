@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an ObjectInputFilter from a string of patterns.",
+            "Function": "createFilter(String pattern)",
+            "Modifier and Type": "static ObjectInputFilter"
+        },
+        {
+            "Comments": "Returns the process-wide serialization filter or null if not configured.",
+            "Function": "getSerialFilter()",
+            "Modifier and Type": "static ObjectInputFilter"
+        },
+        {
+            "Comments": "Set the process-wide filter if it has not already been configured or set.",
+            "Function": "setSerialFilter(ObjectInputFilter filter)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffer.",
+            "Function": "write(ByteBuffer src)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Produces a method handle equivalent to an invokedynamic instruction which has been linked to this call site.",
+            "Function": "dynamicInvoker()",
+            "Modifier and Type": "abstract MethodHandle"
+        },
+        {
+            "Comments": "Returns the target method of the call site, according to the behavior defined by this call site's specific class.",
+            "Function": "getTarget()",
+            "Modifier and Type": "abstract MethodHandle"
+        },
+        {
+            "Comments": "Updates the target method of this call site, according to the behavior defined by this call site's specific class.",
+            "Function": "setTarget(MethodHandle newTarget)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns the type of this call site's target.",
+            "Function": "type()",
+            "Modifier and Type": "MethodType"
+        }
+    ]
+}

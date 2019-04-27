@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Identifies the set of declared members of a class or interface.",
+            "Function": "DECLARED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Identifies the set of all public members of a class or interface, including inherited members.",
+            "Function": "PUBLIC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the Class object representing the class or interface that declares the member or constructor represented by this Member.",
+            "Function": "getDeclaringClass()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Returns the Java language modifiers for the member or constructor represented by this Member, as an integer.",
+            "Function": "getModifiers()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the simple name of the underlying member or constructor represented by this Member.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns true if this member was introduced by the compiler; returns false otherwise.",
+            "Function": "isSynthetic()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

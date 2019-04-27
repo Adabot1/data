@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes the key pair generator for a given modulus length (instead of parameters), and an optional SecureRandom bit source.",
+            "Function": "initialize(int modlen,boolean genParams,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes the key pair generator using the DSA family parameters (p,q and g) and an optional SecureRandom bit source.",
+            "Function": "initialize(DSAParams params,SecureRandom random)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

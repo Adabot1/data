@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an output stream with the specified Checksum.",
+            "Function": "getChecksum()",
+            "Modifier and Type": "Checksum"
+        },
+        {
+            "Comments": "Returns the Checksum for this output stream.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes an array of bytes.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

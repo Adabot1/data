@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Builds and returns a ModuleDescriptor from its components.",
+            "Function": "build()",
+            "Modifier and Type": "ModuleDescriptor"
+        },
+        {
+            "Comments": "Adds an exported package.",
+            "Function": "exports(ModuleDescriptor.Exports e)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an exported package.",
+            "Function": "exports(String pn)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an exported package.",
+            "Function": "exports(String pn, Set<String> targets)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an exported package with the given (and possibly empty) set of modifiers.",
+            "Function": "exports(Set<ModuleDescriptor.Exports.Modifier> ms, String pn)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an exported package with the given (and possibly empty) set of modifiers.",
+            "Function": "exports(Set<ModuleDescriptor.Exports.Modifier> ms, String pn, Set<String> targets)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Sets the module main class.",
+            "Function": "mainClass(String mc)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an open package.",
+            "Function": "opens(ModuleDescriptor.Opens obj)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an open package.",
+            "Function": "opens(String pn)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an open package.",
+            "Function": "opens(String pn, Set<String> targets)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an open package with the given (and possibly empty) set of modifiers.",
+            "Function": "opens(Set<ModuleDescriptor.Opens.Modifier> ms, String pn)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds an open package with the given (and possibly empty) set of modifiers.",
+            "Function": "opens(Set<ModuleDescriptor.Opens.Modifier> ms, String pn, Set<String> targets)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds packages to the module.",
+            "Function": "packages(Set<String> pns)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Provides a service with one or more implementations.",
+            "Function": "provides(ModuleDescriptor.Provides p)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Provides implementations of a service.",
+            "Function": "provides(String service,List<String> providers)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds a dependence on a module.",
+            "Function": "requires(ModuleDescriptor.Requires req)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds a dependence on a module with an empty set of modifiers.",
+            "Function": "requires(String mn)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds a dependence on a module with the given (and possibly empty) set of modifiers.",
+            "Function": "requires(Set<ModuleDescriptor.Requires.Modifier> ms,String mn)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds a dependence on a module with the given (and possibly empty) set of modifiers.",
+            "Function": "requires(Set<ModuleDescriptor.Requires.Modifier> ms,String mn,ModuleDescriptor.Version compiledVersion)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Adds a service dependence.",
+            "Function": "uses(String service)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Sets the module version.",
+            "Function": "version(ModuleDescriptor.Version v)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Sets the module version.",
+            "Function": "version(String vs)",
+            "Modifier and Type": "ModuleDescriptor.Builder"
+        }
+    ]
+}

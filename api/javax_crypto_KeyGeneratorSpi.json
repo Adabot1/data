@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Generates a secret key.",
+            "Function": "engineGenerateKey()",
+            "Modifier and Type": "protected abstract SecretKey"
+        },
+        {
+            "Comments": "Initializes this key generator for a certain keysize, using the given source of randomness.",
+            "Function": "engineInit(int keysize,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes the key generator.",
+            "Function": "engineInit(SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes the key generator with the specified parameter set and a user-provided source of randomness.",
+            "Function": "engineInit(AlgorithmParameterSpec params,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a cookie with a specified name and value.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Create and return a copy of this object.",
+            "Function": "domainMatches(String domain, String host)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "The utility method to check whether a host name is in a domain or not.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Test the equality of two HTTP cookies.",
+            "Function": "getComment()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the comment describing the purpose of this cookie, or null if the cookie has no comment.",
+            "Function": "getCommentURL()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the comment URL describing the purpose of this cookie, or null if the cookie has no comment URL.",
+            "Function": "getDiscard()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the discard attribute of the cookie",
+            "Function": "getDomain()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the domain name set for this cookie.",
+            "Function": "getMaxAge()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the maximum age of the cookie, specified in seconds.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the name of the cookie.",
+            "Function": "getPath()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the path on the server to which the browser returns this cookie.",
+            "Function": "getPortlist()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the port list attribute of the cookie",
+            "Function": "getSecure()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if sending this cookie should be restricted to a secure protocol, or false if the it can be sent using any protocol.",
+            "Function": "getValue()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the cookie.",
+            "Function": "getVersion()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the version of the protocol this cookie complies with.",
+            "Function": "hasExpired()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reports whether this HTTP cookie has expired or not.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hash code of this HTTP cookie.",
+            "Function": "isHttpOnly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this cookie contains the HttpOnly attribute.",
+            "Function": "parse(String header)",
+            "Modifier and Type": "static List<HttpCookie>"
+        },
+        {
+            "Comments": "Constructs cookies from set-cookie or set-cookie2 header string.",
+            "Function": "setComment(String purpose)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies a comment that describes a cookie's purpose.",
+            "Function": "setCommentURL(String purpose)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies a comment URL that describes a cookie's purpose.",
+            "Function": "setDiscard(boolean discard)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specify whether user agent should discard the cookie unconditionally.",
+            "Function": "setDomain(String pattern)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies the domain within which this cookie should be presented.",
+            "Function": "setHttpOnly(boolean httpOnly)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Indicates whether the cookie should be considered HTTP Only.",
+            "Function": "setMaxAge(long expiry)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum age of the cookie in seconds.",
+            "Function": "setPath(String uri)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies a path for the cookie to which the client should return the cookie.",
+            "Function": "setPortlist(String ports)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specify the portlist of the cookie, which restricts the port(s) to which a cookie may be sent back in a Cookie header.",
+            "Function": "setSecure(boolean flag)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Indicates whether the cookie should only be sent using a secure protocol, such as HTTPS or SSL.",
+            "Function": "setValue(String newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Assigns a new value to a cookie after the cookie is created.",
+            "Function": "setVersion(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the version of the cookie protocol this cookie complies with.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

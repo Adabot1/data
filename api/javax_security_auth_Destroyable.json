@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Destroy this Object.",
+            "Function": "destroy()",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Determine if this Object has been destroyed.",
+            "Function": "isDestroyed()",
+            "Modifier and Type": "default boolean"
+        }
+    ]
+}

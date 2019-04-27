@@ -1,0 +1,199 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a random access file stream to read from, and optionally to write to, the file specified by the File argument.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a random access file stream to read from, and optionally to write to, a file with the specified name.",
+            "Function": "getChannel()",
+            "Modifier and Type": "FileChannel"
+        },
+        {
+            "Comments": "Closes this random access file stream and releases any system resources associated with the stream.",
+            "Function": "getFD()",
+            "Modifier and Type": "FileDescriptor"
+        },
+        {
+            "Comments": "Returns the unique FileChannel object associated with this file.",
+            "Function": "getFilePointer()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the opaque file descriptor object associated with this stream.",
+            "Function": "length()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the current offset in this file.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the length of this file.",
+            "Function": "read(byte[] b)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a byte of data from this file.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads up to b.length bytes of data from this file into an array of bytes.",
+            "Function": "readBoolean()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads up to len bytes of data from this file into an array of bytes.",
+            "Function": "readByte()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Reads a boolean from this file.",
+            "Function": "readChar()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Reads a signed eight-bit value from this file.",
+            "Function": "readDouble()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Reads a character from this file.",
+            "Function": "readFloat()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Reads a double from this file.",
+            "Function": "readFully(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads a float from this file.",
+            "Function": "readFully(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads b.length bytes from this file into the byte array, starting at the current file pointer.",
+            "Function": "readInt()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads exactly len bytes from this file into the byte array, starting at the current file pointer.",
+            "Function": "readLine()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads a signed 32-bit integer from this file.",
+            "Function": "readLong()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Reads the next line of text from this file.",
+            "Function": "readShort()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Reads a signed 64-bit integer from this file.",
+            "Function": "readUnsignedByte()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a signed 16-bit number from this file.",
+            "Function": "readUnsignedShort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads an unsigned eight-bit number from this file.",
+            "Function": "readUTF()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads an unsigned 16-bit number from this file.",
+            "Function": "seek(long pos)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads in a string from this file.",
+            "Function": "setLength(long newLength)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the file-pointer offset, measured from the beginning of this file, at which the next read or write occurs.",
+            "Function": "skipBytes(int n)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Sets the length of this file.",
+            "Function": "write(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Attempts to skip over n bytes of input discarding the skipped bytes.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes b.length bytes from the specified byte array to this file, starting at the current file pointer.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes len bytes from the specified byte array starting at offset off to this file.",
+            "Function": "writeBoolean(boolean v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes the specified byte to this file.",
+            "Function": "writeByte(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a boolean to the file as a one-byte value.",
+            "Function": "writeBytes(String s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a byte to the file as a one-byte value.",
+            "Function": "writeChar(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes the string to the file as a sequence of bytes.",
+            "Function": "writeChars(String s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a char to the file as a two-byte value, high byte first.",
+            "Function": "writeDouble(double v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a string to the file as a sequence of characters.",
+            "Function": "writeFloat(float v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Converts the double argument to a long using the doubleToLongBits method in class Double, and then writes that long value to the file as an eight-byte quantity, high byte first.",
+            "Function": "writeInt(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Converts the float argument to an int using the floatToIntBits method in class Float, and then writes that int value to the file as a four-byte quantity, high byte first.",
+            "Function": "writeLong(long v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes an int to the file as four bytes, high byte first.",
+            "Function": "writeShort(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a long to the file as eight bytes, high byte first.",
+            "Function": "writeUTF(String str)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

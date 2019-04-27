@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": " Retrieve or display the information requested in the provided Callbacks.",
+            "Function": "handle(Callback[] callbacks)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

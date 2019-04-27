@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "The hostnameVerifier for this object.",
+            "Function": "hostnameVerifier",
+            "Modifier and Type": "protected HostnameVerifier"
+        },
+        {
+            "Comments": "Creates an HttpsURLConnection using the URL specified.",
+            "Function": "getCipherSuite()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the cipher suite in use on this connection.",
+            "Function": "getDefaultHostnameVerifier()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Gets the default HostnameVerifier that is inherited by new instances of this class.",
+            "Function": "getDefaultSSLSocketFactory()",
+            "Modifier and Type": "static HostnameVerifier"
+        },
+        {
+            "Comments": "Gets the default static SSLSocketFactory that is inherited by new instances of this class.",
+            "Function": "getHostnameVerifier()",
+            "Modifier and Type": "static SSLSocketFactory"
+        },
+        {
+            "Comments": "Gets the HostnameVerifier in place on this instance.",
+            "Function": "getLocalCertificates()",
+            "Modifier and Type": "HostnameVerifier"
+        },
+        {
+            "Comments": "Returns the certificate(s) that were sent to the server during handshaking.",
+            "Function": "getLocalPrincipal()",
+            "Modifier and Type": "abstract Certificate[]"
+        },
+        {
+            "Comments": "Returns the principal that was sent to the server during handshaking.",
+            "Function": "getPeerPrincipal()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Returns the server's principal which was established as part of defining the session.",
+            "Function": "getServerCertificates()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Returns the server's certificate chain which was established as part of defining the session.",
+            "Function": "getSSLSocketFactory()",
+            "Modifier and Type": "abstract Certificate[]"
+        },
+        {
+            "Comments": "Gets the SSL socket factory to be used when creating sockets for secure https URL connections.",
+            "Function": "setDefaultHostnameVerifier(HostnameVerifier v)",
+            "Modifier and Type": "SSLSocketFactory"
+        },
+        {
+            "Comments": "Sets the default HostnameVerifier inherited by a new instance of this class.",
+            "Function": "setDefaultSSLSocketFactory(SSLSocketFactory sf)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the default SSLSocketFactory inherited by new instances of this class.",
+            "Function": "setHostnameVerifier(HostnameVerifier v)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the HostnameVerifier for this instance.",
+            "Function": "setSSLSocketFactory(SSLSocketFactory sf)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

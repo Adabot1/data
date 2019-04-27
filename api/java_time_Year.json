@@ -1,0 +1,209 @@
+{
+    "API": [
+        {
+            "Comments": "The maximum supported year, '+999,999,999'.",
+            "Function": "MAX_VALUE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The minimum supported year, '-999,999,999'.",
+            "Function": "MIN_VALUE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Adjusts the specified temporal object to have this year.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Combines this year with a day-of-year to create a LocalDate.",
+            "Function": "atDay(int dayOfYear)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Combines this year with a month to create a YearMonth.",
+            "Function": "atMonth(int month)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Combines this year with a month to create a YearMonth.",
+            "Function": "atMonth(Month month)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Combines this year with a month-day to create a LocalDate.",
+            "Function": "atMonthDay(MonthDay monthDay)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Compares this year to another year.",
+            "Function": "compareTo(Year other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this year is equal to another year.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this year using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of Year from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static Year"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this year as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this year as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the year value.",
+            "Function": "getValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this year.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this year is after the specified year.",
+            "Function": "isAfter(Year other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this year is before the specified year.",
+            "Function": "isBefore(Year other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the year is a leap year, according to the ISO proleptic calendar system rules.",
+            "Function": "isLeap()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the year is a leap year, according to the ISO proleptic calendar system rules.",
+            "Function": "isLeap(long year)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the month-day is valid for this year.",
+            "Function": "isValidMonthDay(MonthDay monthDay)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the length of this year in days.",
+            "Function": "length()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a copy of this year with the specified amount subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "Year"
+        },
+        {
+            "Comments": "Returns a copy of this year with the specified amount subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "Year"
+        },
+        {
+            "Comments": "Returns a copy of this Year with the specified number of years subtracted.",
+            "Function": "minusYears(long yearsToSubtract)",
+            "Modifier and Type": "Year"
+        },
+        {
+            "Comments": "Obtains the current year from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static Year"
+        },
+        {
+            "Comments": "Obtains the current year from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static Year"
+        },
+        {
+            "Comments": "Obtains the current year from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static Year"
+        },
+        {
+            "Comments": "Obtains an instance of Year.",
+            "Function": "of(int isoYear)",
+            "Modifier and Type": "static Year"
+        },
+        {
+            "Comments": "Obtains an instance of Year from a text string such as 2007.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static Year"
+        },
+        {
+            "Comments": "Obtains an instance of Year from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static Year"
+        },
+        {
+            "Comments": "Returns a copy of this year with the specified amount added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "Year"
+        },
+        {
+            "Comments": "Returns a copy of this year with the specified amount added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "Year"
+        },
+        {
+            "Comments": "Returns a copy of this Year with the specified number of years added.",
+            "Function": "plusYears(long yearsToAdd)",
+            "Modifier and Type": "Year"
+        },
+        {
+            "Comments": "Queries this year using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Outputs this year as a String.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Calculates the amount of time until another year in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted copy of this year.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "Year"
+        },
+        {
+            "Comments": "Returns a copy of this year with the specified field set to a new value.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "Year"
+        }
+    ]
+}

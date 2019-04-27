@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an Enumeration of all session id's grouped under this SSLSessionContext.",
+            "Function": "getIds()",
+            "Modifier and Type": "Enumeration<byte[]>"
+        },
+        {
+            "Comments": "Returns the SSLSession bound to the specified session id.",
+            "Function": "getSession(byte[] sessionId)",
+            "Modifier and Type": "SSLSession"
+        },
+        {
+            "Comments": "Returns the size of the cache used for storing SSLSession objects grouped under this SSLSessionContext.",
+            "Function": "getSessionCacheSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the timeout limit of SSLSession objects grouped under this SSLSessionContext.",
+            "Function": "getSessionTimeout()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Sets the size of the cache used for storing SSLSession objects grouped under this SSLSessionContext.",
+            "Function": "setSessionCacheSize(int size)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the timeout limit for SSLSession objects grouped under this SSLSessionContext.",
+            "Function": "setSessionTimeout(int seconds)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

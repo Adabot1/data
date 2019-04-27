@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an AlgorithmParameters object.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the name of the algorithm associated with this parameter object.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the parameters in their primary encoding format.",
+            "Function": "getEncoded(String format)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the parameters encoded in the specified scheme.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns a parameter object for the specified algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static AlgorithmParameters"
+        },
+        {
+            "Comments": "Returns a parameter object for the specified algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static AlgorithmParameters"
+        },
+        {
+            "Comments": "Returns a parameter object for the specified algorithm.",
+            "Function": "getParameterSpec(Class<T> paramSpec)",
+            "Modifier and Type": "static AlgorithmParameters"
+        },
+        {
+            "Comments": "Returns a (transparent) specification of this parameter object.",
+            "Function": "getProvider()",
+            "Modifier and Type": "<T extends AlgorithmParameterSpec>T"
+        },
+        {
+            "Comments": "Returns the provider of this parameter object.",
+            "Function": "init(byte[] params)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Imports the specified parameters and decodes them according to the primary decoding format for parameters.",
+            "Function": "init(byte[] params,String format)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Imports the parameters from params and decodes them according to the specified decoding scheme.",
+            "Function": "init(AlgorithmParameterSpec paramSpec)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this parameter object using the parameters specified in paramSpec.",
+            "Function": "toString()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

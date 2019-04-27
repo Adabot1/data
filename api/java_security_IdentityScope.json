@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "addIdentity(Identity identity)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "This constructor is used for serialization only and should not be used by subclasses.",
+            "Function": "getIdentity(String name)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getIdentity(Principal principal)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Constructs a new identity scope with the specified name.",
+            "Function": "getIdentity(PublicKey key)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getSystemScope()",
+            "Modifier and Type": "abstract Identity"
+        },
+        {
+            "Comments": "Constructs a new identity scope with the specified name and scope.",
+            "Function": "identities()",
+            "Modifier and Type": "Identity"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "removeIdentity(Identity identity)",
+            "Modifier and Type": "abstract Identity"
+        },
+        {
+            "Comments": "Adds an identity to this identity scope.",
+            "Function": "setSystemScope(IdentityScope scope)",
+            "Modifier and Type": "static IdentityScope"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "size()",
+            "Modifier and Type": "abstract Enumeration<Identity>"
+        },
+        {
+            "Comments": "Returns the identity in this scope with the specified name (if any).",
+            "Function": "toString()",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

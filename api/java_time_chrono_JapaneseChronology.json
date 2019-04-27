@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Singleton instance for Japanese chronology.",
+            "Function": "INSTANCE",
+            "Modifier and Type": "static JapaneseChronology"
+        },
+        {
+            "Comments": "Obtains a local date in Japanese calendar system from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "date(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "JapaneseDate"
+        },
+        {
+            "Comments": "Obtains a local date in Japanese calendar system from the era, year-of-era, month-of-year and day-of-month fields.",
+            "Function": "date(Era era,int yearOfEra,int month,int dayOfMonth)",
+            "Modifier and Type": "JapaneseDate"
+        },
+        {
+            "Comments": "Obtains a local date in the Japanese calendar system from the epoch-day.",
+            "Function": "dateEpochDay(long epochDay)",
+            "Modifier and Type": "JapaneseDate"
+        },
+        {
+            "Comments": "Obtains a local date in Japanese calendar system from the proleptic-year and day-of-year fields.",
+            "Function": "dateYearDay(int prolepticYear, int dayOfYear)",
+            "Modifier and Type": "JapaneseDate"
+        },
+        {
+            "Comments": "Obtains a local date in Japanese calendar system from the era, year-of-era and day-of-year fields.",
+            "Function": "dateYearDay(Era era, int yearOfEra, int dayOfYear)",
+            "Modifier and Type": "JapaneseDate"
+        },
+        {
+            "Comments": "Returns the calendar system era object from the given numeric value.",
+            "Function": "eraOf(int eraValue)",
+            "Modifier and Type": "JapaneseEra"
+        },
+        {
+            "Comments": "Gets the calendar type of the underlying calendar system - 'japanese'.",
+            "Function": "getCalendarType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the ID of the chronology - 'Japanese'.",
+            "Function": "getId()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Checks if the specified year is a leap year.",
+            "Function": "isLeapYear(long prolepticYear)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

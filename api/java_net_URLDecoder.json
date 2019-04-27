@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.The resulting string may vary depending on the platform's          default encoding.",
+            "Function": "decode(String s)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Decodes an application/x-www-form-urlencoded string using a specific encoding scheme.",
+            "Function": "decode(String s,String enc)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Decodes an application/x-www-form-urlencoded string using a specific Charset.",
+            "Function": "decode(String s,Charset charset)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

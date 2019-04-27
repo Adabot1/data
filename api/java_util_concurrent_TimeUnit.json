@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Time unit representing twenty four hours.",
+            "Function": "convert(long sourceDuration, TimeUnit sourceUnit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Time unit representing sixty minutes.",
+            "Function": "convert(Duration duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Time unit representing one thousandth of a millisecond.",
+            "Function": "of(ChronoUnit chronoUnit)",
+            "Modifier and Type": "static TimeUnit"
+        },
+        {
+            "Comments": "Time unit representing one thousandth of a second.",
+            "Function": "sleep(long timeout)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Time unit representing sixty seconds.",
+            "Function": "timedJoin(Thread thread, long timeout)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Time unit representing one thousandth of a microsecond.",
+            "Function": "timedWait(Object obj, long timeout)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Time unit representing one second.",
+            "Function": "toChronoUnit()",
+            "Modifier and Type": "ChronoUnit"
+        },
+        {
+            "Comments": "Converts the given time duration in the given unit to this unit.",
+            "Function": "toDays(long duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Converts the given time duration to this unit.",
+            "Function": "toHours(long duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Converts a ChronoUnit to the equivalent TimeUnit.",
+            "Function": "toMicros(long duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Performs a Thread.sleep using this time unit.",
+            "Function": "toMillis(long duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Performs a timed Thread.join using this time unit.",
+            "Function": "toMinutes(long duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Performs a timed Object.wait using this time unit.",
+            "Function": "toNanos(long duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Converts this TimeUnit to the equivalent ChronoUnit.",
+            "Function": "toSeconds(long duration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Equivalent to DAYS.convert(duration, this).",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static TimeUnit"
+        },
+        {
+            "Comments": "Equivalent to HOURS.convert(duration, this).",
+            "Function": "values()",
+            "Modifier and Type": "static TimeUnit[]"
+        }
+    ]
+}

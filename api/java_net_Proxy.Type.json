@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Represents a direct connection, or the absence of a proxy.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Proxy.Type"
+        },
+        {
+            "Comments": "Represents proxy for high level protocols such as HTTP or FTP.",
+            "Function": "values()",
+            "Modifier and Type": "static Proxy.Type[]"
+        }
+    ]
+}

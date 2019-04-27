@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Annotations are to be recorded in the class file by the compiler but need not be retained by the VM at run time.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static RetentionPolicy"
+        },
+        {
+            "Comments": "Annotations are to be recorded in the class file by the compiler and retained by the VM at run time, so they may be read reflectively.",
+            "Function": "values()",
+            "Modifier and Type": "static RetentionPolicy[]"
+        }
+    ]
+}

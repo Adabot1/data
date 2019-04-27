@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The open package was implicitly declared in the source of the module declaration.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ModuleDescriptor.Opens.Modifier"
+        },
+        {
+            "Comments": "The open package was not explicitly or implicitly declared in the source of the module declaration.",
+            "Function": "values()",
+            "Modifier and Type": "static ModuleDescriptor.Opens.Modifier[]"
+        }
+    ]
+}

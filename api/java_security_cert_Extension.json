@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Generates the extension's DER encoding and writes it to the output stream.",
+            "Function": "encode(OutputStream out)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Gets the extensions's object identifier.",
+            "Function": "getId()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the extensions's DER-encoded value.",
+            "Function": "getValue()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Gets the extension's criticality setting.",
+            "Function": "isCritical()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

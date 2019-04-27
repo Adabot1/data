@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Indicates the containing annotation type for the repeatable annotation type.",
+            "Function": "value",
+            "Modifier and Type": "Class<? extends Annotation>"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "block(InetAddress source)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Block multicast datagrams from the given source address.",
+            "Function": "channel()",
+            "Modifier and Type": "abstract MembershipKey"
+        },
+        {
+            "Comments": "Returns the channel for which this membership key was created.",
+            "Function": "drop()",
+            "Modifier and Type": "abstract MulticastChannel"
+        },
+        {
+            "Comments": "Drop membership.",
+            "Function": "group()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns the multicast group for which this membership key was created.",
+            "Function": "isValid()",
+            "Modifier and Type": "abstract InetAddress"
+        },
+        {
+            "Comments": "Tells whether or not this membership is valid.",
+            "Function": "networkInterface()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the network interface for which this membership key was created.",
+            "Function": "sourceAddress()",
+            "Modifier and Type": "abstract NetworkInterface"
+        },
+        {
+            "Comments": "Returns the source address if this membership key is source-specific, or null if this membership is not source-specific.",
+            "Function": "unblock(InetAddress source)",
+            "Modifier and Type": "abstract InetAddress"
+        }
+    ]
+}

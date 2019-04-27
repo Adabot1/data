@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the empty configuration.",
+            "Function": "empty()",
+            "Modifier and Type": "static Configuration"
+        },
+        {
+            "Comments": "Finds a resolved module in this configuration, or if not in this configuration, the parent configurations.",
+            "Function": "findModule(String name)",
+            "Modifier and Type": "Optional<ResolvedModule>"
+        },
+        {
+            "Comments": "Returns an immutable set of the resolved modules in this configuration.",
+            "Function": "modules()",
+            "Modifier and Type": "Set<ResolvedModule>"
+        },
+        {
+            "Comments": "Returns an unmodifiable list of this configuration's parents, in search order.",
+            "Function": "parents()",
+            "Modifier and Type": "List<Configuration>"
+        },
+        {
+            "Comments": "Resolves a collection of root modules, with this configuration as its parent, to create a new configuration.",
+            "Function": "resolve(ModuleFinder before, ModuleFinder after, Collection<String> roots)",
+            "Modifier and Type": "Configuration"
+        },
+        {
+            "Comments": "Resolves a collection of root modules to create a configuration.",
+            "Function": "resolve(ModuleFinder before, List<Configuration> parents, ModuleFinder after, Collection<String> roots)",
+            "Modifier and Type": "static Configuration"
+        },
+        {
+            "Comments": "Resolves a collection of root modules, with service binding, and with this configuration as its parent, to create a new configuration.",
+            "Function": "resolveAndBind(ModuleFinder before,ModuleFinder after,Collection<String> roots)",
+            "Modifier and Type": "Configuration"
+        },
+        {
+            "Comments": "Resolves a collection of root modules, with service binding, to create configuration.",
+            "Function": "resolveAndBind(ModuleFinder before,List<Configuration> parents,ModuleFinder after,Collection<String> roots)",
+            "Modifier and Type": "static Configuration"
+        },
+        {
+            "Comments": "Returns a string describing this configuration.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

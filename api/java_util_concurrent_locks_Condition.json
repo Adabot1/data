@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Causes the current thread to wait until it is signalled or interrupted.",
+            "Function": "await()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Causes the current thread to wait until it is signalled or interrupted, or the specified waiting time elapses.",
+            "Function": "await(long time, TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Causes the current thread to wait until it is signalled or interrupted, or the specified waiting time elapses.",
+            "Function": "awaitNanos(long nanosTimeout)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Causes the current thread to wait until it is signalled.",
+            "Function": "awaitUninterruptibly()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Causes the current thread to wait until it is signalled or interrupted, or the specified deadline elapses.",
+            "Function": "awaitUntil(Date deadline)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Wakes up one waiting thread.",
+            "Function": "signal()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Wakes up all waiting threads.",
+            "Function": "signalAll()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

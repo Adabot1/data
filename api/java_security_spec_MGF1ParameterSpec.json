@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "The MGF1ParameterSpec which uses \"SHA-1\" message digest",
+            "Function": "SHA1",
+            "Modifier and Type": "static MGF1ParameterSpec"
+        },
+        {
+            "Comments": "The MGF1ParameterSpec which uses \"SHA-224\" message digest",
+            "Function": "SHA224",
+            "Modifier and Type": "static MGF1ParameterSpec"
+        },
+        {
+            "Comments": "The MGF1ParameterSpec which uses \"SHA-256\" message digest",
+            "Function": "SHA256",
+            "Modifier and Type": "static MGF1ParameterSpec"
+        },
+        {
+            "Comments": "The MGF1ParameterSpec which uses \"SHA-384\" message digest",
+            "Function": "SHA384",
+            "Modifier and Type": "static MGF1ParameterSpec"
+        },
+        {
+            "Comments": "The MGF1ParameterSpec which uses SHA-512 message digest",
+            "Function": "SHA512",
+            "Modifier and Type": "static MGF1ParameterSpec"
+        },
+        {
+            "Comments": "The MGF1ParameterSpec which uses SHA-512/224 message digest",
+            "Function": "SHA512_224",
+            "Modifier and Type": "static MGF1ParameterSpec"
+        },
+        {
+            "Comments": "The MGF1ParameterSpec which uses SHA-512/256 message digest",
+            "Function": "SHA512_256",
+            "Modifier and Type": "static MGF1ParameterSpec"
+        },
+        {
+            "Comments": "Constructs a parameter set for mask generation function MGF1 as defined in the PKCS #1 standard.",
+            "Function": "getDigestAlgorithm()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getContents()",
+            "Modifier and Type": "protected abstract Object[][]"
+        },
+        {
+            "Comments": "Returns an array in which each item is a pair of objects in an Object array.",
+            "Function": "getKeys()",
+            "Modifier and Type": "Enumeration<String>"
+        },
+        {
+            "Comments": "Returns an Enumeration of the keys contained in this ResourceBundle and its parent bundles.",
+            "Function": "handleKeySet()",
+            "Modifier and Type": "protected Set<String>"
+        }
+    ]
+}

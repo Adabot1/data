@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an empty instance with zero count, zero sum, Double.POSITIVE_INFINITY min, Double.NEGATIVE_INFINITY max and zero average.",
+            "Function": "accept(double value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a non-empty instance with the specified count, min, max, and sum.",
+            "Function": "combine(DoubleSummaryStatistics other)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Records another value into the summary information.",
+            "Function": "getAverage()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Combines the state of another DoubleSummaryStatistics into this one.",
+            "Function": "getCount()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the arithmetic mean of values recorded, or zero if no values have been recorded.",
+            "Function": "getMax()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Return the count of values recorded.",
+            "Function": "getMin()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the maximum recorded value, Double.NaN if any recorded value was NaN or Double.NEGATIVE_INFINITY if no values were recorded.",
+            "Function": "getSum()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the minimum recorded value, Double.NaN if any recorded value was NaN or Double.POSITIVE_INFINITY if no values were recorded.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

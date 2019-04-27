@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the remaining delay associated with this object, in the given time unit.",
+            "Function": "getDelay(TimeUnit unit)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

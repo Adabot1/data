@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a composed operator that first applies this operator to its input, and then applies the after operator to the result.",
+            "Function": "andThen(DoubleUnaryOperator after)",
+            "Modifier and Type": "default DoubleUnaryOperator"
+        },
+        {
+            "Comments": "Applies this operator to the given operand.",
+            "Function": "applyAsDouble(double operand)",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns a composed operator that first applies the before operator to its input, and then applies this operator to the result.",
+            "Function": "compose(DoubleUnaryOperator before)",
+            "Modifier and Type": "default DoubleUnaryOperator"
+        },
+        {
+            "Comments": "Returns a unary operator that always returns its input argument.",
+            "Function": "identity()",
+            "Modifier and Type": "static DoubleUnaryOperator"
+        }
+    ]
+}

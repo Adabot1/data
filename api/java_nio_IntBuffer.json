@@ -1,0 +1,134 @@
+{
+    "API": [
+        {
+            "Comments": "Allocates a new int buffer.",
+            "Function": "allocate(int capacity)",
+            "Modifier and Type": "static IntBuffer"
+        },
+        {
+            "Comments": "Returns the int array that backs this buffer  (optional operation).",
+            "Function": "array()",
+            "Modifier and Type": "int[]"
+        },
+        {
+            "Comments": "Returns the offset within this buffer's backing array of the first element of the buffer  (optional operation).",
+            "Function": "arrayOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new, read-only int buffer that shares this buffer's content.",
+            "Function": "asReadOnlyBuffer()",
+            "Modifier and Type": "abstract IntBuffer"
+        },
+        {
+            "Comments": "Compacts this buffer  (optional operation).",
+            "Function": "compact()",
+            "Modifier and Type": "abstract IntBuffer"
+        },
+        {
+            "Comments": "Compares this buffer to another.",
+            "Function": "compareTo(IntBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new int buffer that shares this buffer's content.",
+            "Function": "duplicate()",
+            "Modifier and Type": "abstract IntBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is equal to another object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Relative get method.",
+            "Function": "get()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Absolute get method.",
+            "Function": "get(int index)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(int[] dst)",
+            "Modifier and Type": "IntBuffer"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(int[] dst, int offset, int length)",
+            "Modifier and Type": "IntBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is backed by an accessible int array.",
+            "Function": "hasArray()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the current hash code of this buffer.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this int buffer is direct.",
+            "Function": "isDirect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Finds and returns the relative index of the first mismatch between this buffer and a given buffer.",
+            "Function": "mismatch(IntBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieves this buffer's byte order.",
+            "Function": "order()",
+            "Modifier and Type": "abstract ByteOrder"
+        },
+        {
+            "Comments": "Relative put method  (optional operation).",
+            "Function": "put(int i)",
+            "Modifier and Type": "abstract IntBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(int[] src)",
+            "Modifier and Type": "IntBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(int[] src, int offset, int length)",
+            "Modifier and Type": "IntBuffer"
+        },
+        {
+            "Comments": "Absolute put method  (optional operation).",
+            "Function": "put(int index, int i)",
+            "Modifier and Type": "abstract IntBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(IntBuffer src)",
+            "Modifier and Type": "IntBuffer"
+        },
+        {
+            "Comments": "Creates a new int buffer whose content is a shared subsequence of this buffer's content.",
+            "Function": "slice()",
+            "Modifier and Type": "abstract IntBuffer"
+        },
+        {
+            "Comments": "Returns a string summarizing the state of this buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Wraps an int array into a buffer.",
+            "Function": "wrap(int[] array)",
+            "Modifier and Type": "static IntBuffer"
+        },
+        {
+            "Comments": "Wraps an int array into a buffer.",
+            "Function": "wrap(int[] array,int offset,int length)",
+            "Modifier and Type": "static IntBuffer"
+        }
+    ]
+}

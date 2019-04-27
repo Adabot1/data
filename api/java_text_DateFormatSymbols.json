@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a DateFormatSymbols object by loading format data from resources for the default FORMAT locale.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Construct a DateFormatSymbols object by loading format data from resources for the given locale.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Overrides Cloneable",
+            "Function": "getAmPmStrings()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Override equals",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "static Locale[]"
+        },
+        {
+            "Comments": "Gets ampm strings.",
+            "Function": "getEras()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Returns an array of all locales for which the getInstance methods of this class can return localized instances.",
+            "Function": "getInstance()",
+            "Modifier and Type": "static DateFormatSymbols"
+        },
+        {
+            "Comments": "Gets era strings.",
+            "Function": "getInstance(Locale locale)",
+            "Modifier and Type": "static DateFormatSymbols"
+        },
+        {
+            "Comments": "Gets the DateFormatSymbols instance for the default locale.",
+            "Function": "getLocalPatternChars()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the DateFormatSymbols instance for the specified locale.",
+            "Function": "getMonths()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Gets localized date-time pattern characters.",
+            "Function": "getShortMonths()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Gets month strings.",
+            "Function": "getShortWeekdays()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Gets short month strings.",
+            "Function": "getWeekdays()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Gets short weekday strings.",
+            "Function": "getZoneStrings()",
+            "Modifier and Type": "String[][]"
+        },
+        {
+            "Comments": "Gets weekday strings.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets time zone strings.",
+            "Function": "setAmPmStrings(String[] newAmpms)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Override hashCode.",
+            "Function": "setEras(String[] newEras)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets ampm strings.",
+            "Function": "setLocalPatternChars(String newLocalPatternChars)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets era strings.",
+            "Function": "setMonths(String[] newMonths)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets localized date-time pattern characters.",
+            "Function": "setShortMonths(String[] newShortMonths)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets month strings.",
+            "Function": "setShortWeekdays(String[] newShortWeekdays)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets short month strings.",
+            "Function": "setWeekdays(String[] newWeekdays)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets short weekday strings.",
+            "Function": "setZoneStrings(String[][] newZoneStrings)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

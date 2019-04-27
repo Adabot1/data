@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "the invocation handler for this proxy instance.",
+            "Function": "h",
+            "Modifier and Type": "protected InvocationHandler"
+        },
+        {
+            "Comments": "Constructs a new Proxy instance from a subclass (typically, a dynamic proxy class) with the specified value for its invocation handler.",
+            "Function": "getInvocationHandler(Object proxy)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the invocation handler for the specified proxy instance.",
+            "Function": "getProxyClass(ClassLoader loader, Class<?>... interfaces)",
+            "Modifier and Type": "static InvocationHandler"
+        },
+        {
+            "Comments": "Deprecated.Proxy classes generated in a named module are encapsulated      and not accessible to code outside its module.",
+            "Function": "isProxyClass(Class<?> cl)",
+            "Modifier and Type": "static Class<?>"
+        },
+        {
+            "Comments": "Returns true if the given class is a proxy class.",
+            "Function": "newProxyInstance(ClassLoader loader,Class<?>[] interfaces,InvocationHandler h)",
+            "Modifier and Type": "static boolean"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the potentially annotated type that this type is a member of, if this type represents a nested type.",
+            "Function": "getAnnotatedOwnerType()",
+            "Modifier and Type": "default AnnotatedType"
+        },
+        {
+            "Comments": "Returns the underlying type that this annotated type represents.",
+            "Function": "getType()",
+            "Modifier and Type": "Type"
+        }
+    ]
+}

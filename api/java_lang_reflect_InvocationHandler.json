@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Processes a method invocation on a proxy instance and returns the result.",
+            "Function": "invoke(Object proxy,Method method,Object[] args)",
+            "Modifier and Type": "Object"
+        }
+    ]
+}

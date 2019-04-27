@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new DatagramSocketImpl instance.",
+            "Function": "createDatagramSocketImpl()",
+            "Modifier and Type": "DatagramSocketImpl"
+        }
+    ]
+}

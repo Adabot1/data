@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new instance of this class.",
+            "Function": "validOps()",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

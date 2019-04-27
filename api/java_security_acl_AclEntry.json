@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "addPermission(Permission permission)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Adds the specified permission to this ACL entry.",
+            "Function": "checkPermission(Permission permission)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Checks if the specified permission is part of the permission set in this entry.",
+            "Function": "getPrincipal()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "isNegative()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Clones this ACL entry.",
+            "Function": "permissions()",
+            "Modifier and Type": "Enumeration<Permission>"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "removePermission(Permission permission)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the principal for which permissions are granted or denied by this ACL entry.",
+            "Function": "setNegativePermissions()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "setPrincipal(Principal user)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this is a negative ACL entry (one denying the associated principal the set of permissions in the entry), false otherwise.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

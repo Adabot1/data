@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The type of redirects returned from Redirect.appendTo(File).",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ProcessBuilder.Redirect.Type"
+        },
+        {
+            "Comments": "The type of Redirect.INHERIT.",
+            "Function": "values()",
+            "Modifier and Type": "static ProcessBuilder.Redirect.Type[]"
+        }
+    ]
+}

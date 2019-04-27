@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Returns this channel's position.",
+            "Function": "position()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Sets this channel's position.",
+            "Function": "position(long newPosition)",
+            "Modifier and Type": "SeekableByteChannel"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer.",
+            "Function": "read(ByteBuffer dst)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current size of entity to which this channel is connected.",
+            "Function": "size()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Truncates the entity, to which this channel is connected, to the given size.",
+            "Function": "truncate(long size)",
+            "Modifier and Type": "SeekableByteChannel"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffer.",
+            "Function": "write(ByteBuffer src)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

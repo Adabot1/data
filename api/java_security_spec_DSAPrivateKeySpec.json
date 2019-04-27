@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new DSAPrivateKeySpec with the specified parameter values.",
+            "Function": "getG()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the base g.",
+            "Function": "getP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the prime p.",
+            "Function": "getQ()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the sub-prime q.",
+            "Function": "getX()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

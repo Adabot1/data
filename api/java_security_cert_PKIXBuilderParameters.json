@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of PKIXBuilderParameters that populates the set of most-trusted CAs from the trusted certificate entries contained in the specified KeyStore.",
+            "Function": "getMaxPathLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates an instance of PKIXBuilderParameters with the specified Set of most-trusted CAs.",
+            "Function": "setMaxPathLength(int maxPathLength)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the value of the maximum number of intermediate non-self-issued certificates that may exist in a certification path.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

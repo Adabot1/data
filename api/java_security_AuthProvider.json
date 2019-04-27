@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.use AuthProvider(String, String, String) instead.",
+            "Function": "login(Subject subject, CallbackHandler handler)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructs a provider with the specified name, version string, and information.",
+            "Function": "logout()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Log in to this provider.",
+            "Function": "setCallbackHandler(CallbackHandler handler)",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

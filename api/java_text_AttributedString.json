@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an AttributedString instance with the given text.",
+            "Function": "addAttribute(AttributedCharacterIterator.Attribute attribute,Object value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs an AttributedString instance with the given text and attributes.",
+            "Function": "addAttribute(AttributedCharacterIterator.Attribute attribute,Object value,int beginIndex,int endIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs an AttributedString instance with the given attributed text represented by AttributedCharacterIterator.",
+            "Function": "addAttributes(Map<? extends AttributedCharacterIterator.Attribute,?> attributes, int beginIndex, int endIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs an AttributedString instance with the subrange of the given attributed text represented by AttributedCharacterIterator.",
+            "Function": "getIterator()",
+            "Modifier and Type": "AttributedCharacterIterator"
+        },
+        {
+            "Comments": "Constructs an AttributedString instance with the subrange of the given attributed text represented by AttributedCharacterIterator.",
+            "Function": "getIterator(AttributedCharacterIterator.Attribute[] attributes)",
+            "Modifier and Type": "AttributedCharacterIterator"
+        },
+        {
+            "Comments": "Adds an attribute to the entire string.",
+            "Function": "getIterator(AttributedCharacterIterator.Attribute[] attributes, int beginIndex, int endIndex)",
+            "Modifier and Type": "AttributedCharacterIterator"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this module version to another module version.",
+            "Function": "compareTo(ModuleDescriptor.Version that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests this module version for equality with the given object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Computes a hash code for this module version.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Parses the given string as a version string.",
+            "Function": "parse(String v)",
+            "Modifier and Type": "static ModuleDescriptor.Version"
+        },
+        {
+            "Comments": "Returns the string from which this version was parsed.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

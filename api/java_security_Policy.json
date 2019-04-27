@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "This represents a marker interface for Policy parameters.",
+            "Function": "Policy.Parameters",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "A read-only empty PermissionCollection instance.",
+            "Function": "UNSUPPORTED_EMPTY_COLLECTION",
+            "Modifier and Type": "static PermissionCollection"
+        },
+        {
+            "Comments": "Returns a Policy object of the specified type.",
+            "Function": "getInstance(String type, Policy.Parameters params)",
+            "Modifier and Type": "static Policy"
+        },
+        {
+            "Comments": "Returns a Policy object of the specified type.",
+            "Function": "getInstance(String type, Policy.Parameters params, String provider)",
+            "Modifier and Type": "static Policy"
+        },
+        {
+            "Comments": "Returns a Policy object of the specified type.",
+            "Function": "getInstance(String type, Policy.Parameters params, Provider provider)",
+            "Modifier and Type": "static Policy"
+        },
+        {
+            "Comments": "Return Policy parameters.",
+            "Function": "getParameters()",
+            "Modifier and Type": "Policy.Parameters"
+        },
+        {
+            "Comments": "Return a PermissionCollection object containing the set of permissions granted to the specified CodeSource.",
+            "Function": "getPermissions(CodeSource codesource)",
+            "Modifier and Type": "PermissionCollection"
+        },
+        {
+            "Comments": "Return a PermissionCollection object containing the set of permissions granted to the specified ProtectionDomain.",
+            "Function": "getPermissions(ProtectionDomain domain)",
+            "Modifier and Type": "PermissionCollection"
+        },
+        {
+            "Comments": "Returns the installed Policy object.",
+            "Function": "getPolicy()",
+            "Modifier and Type": "static Policy"
+        },
+        {
+            "Comments": "Return the Provider of this Policy.",
+            "Function": "getProvider()",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Return the type of this Policy.",
+            "Function": "getType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Evaluates the global policy for the permissions granted to the ProtectionDomain and tests whether the permission is granted.",
+            "Function": "implies(ProtectionDomain domain, Permission permission)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Refreshes/reloads the policy configuration.",
+            "Function": "refresh()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the system-wide Policy object.",
+            "Function": "setPolicy(Policy p)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

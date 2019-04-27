@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an SNIServerName using the specified name type and encoded value.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Indicates whether some other object is \"equal to\" this server name.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of the encoded server name value of this server name.",
+            "Function": "getType()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the name type of this server name.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code value for this server name.",
+            "Function": "toString()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of PolicyQualifierInfo from the encoded bytes.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the ASN.1 DER encoded form of this PolicyQualifierInfo.",
+            "Function": "getPolicyQualifier()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the ASN.1 DER encoded form of the qualifier field of this PolicyQualifierInfo.",
+            "Function": "getPolicyQualifierId()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the policyQualifierId field of this PolicyQualifierInfo.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

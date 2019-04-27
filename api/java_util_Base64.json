@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "This class implements a decoder for decoding byte data using the Base64 encoding scheme as specified in RFC 4648 and RFC 2045.",
+            "Function": "Base64.Decoder",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "This class implements an encoder for encoding byte data using the Base64 encoding scheme as specified in RFC 4648 and RFC 2045.",
+            "Function": "Base64.Encoder",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Returns a Base64.Decoder that decodes using the Basic type base64 encoding scheme.",
+            "Function": "getDecoder()",
+            "Modifier and Type": "static Base64.Decoder"
+        },
+        {
+            "Comments": "Returns a Base64.Encoder that encodes using the Basic type base64 encoding scheme.",
+            "Function": "getEncoder()",
+            "Modifier and Type": "static Base64.Encoder"
+        },
+        {
+            "Comments": "Returns a Base64.Decoder that decodes using the MIME type base64 decoding scheme.",
+            "Function": "getMimeDecoder()",
+            "Modifier and Type": "static Base64.Decoder"
+        },
+        {
+            "Comments": "Returns a Base64.Encoder that encodes using the MIME type base64 encoding scheme.",
+            "Function": "getMimeEncoder()",
+            "Modifier and Type": "static Base64.Encoder"
+        },
+        {
+            "Comments": "Returns a Base64.Encoder that encodes using the MIME type base64 encoding scheme with specified line length and line separators.",
+            "Function": "getMimeEncoder(int lineLength,byte[] lineSeparator)",
+            "Modifier and Type": "static Base64.Encoder"
+        },
+        {
+            "Comments": "Returns a Base64.Decoder that decodes using the URL and Filename safe type base64 encoding scheme.",
+            "Function": "getUrlDecoder()",
+            "Modifier and Type": "static Base64.Decoder"
+        },
+        {
+            "Comments": "Returns a Base64.Encoder that encodes using the URL and Filename safe type base64 encoding scheme.",
+            "Function": "getUrlEncoder()",
+            "Modifier and Type": "static Base64.Encoder"
+        }
+    ]
+}

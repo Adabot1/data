@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "Set which outgoing interface on which to send multicast packets.",
+            "Function": "IP_MULTICAST_IF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Same as above.",
+            "Function": "IP_MULTICAST_IF2",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "This option enables or disables local loopback of multicast datagrams.",
+            "Function": "IP_MULTICAST_LOOP",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "This option sets the type-of-service or traffic class field in the IP header for a TCP or UDP socket.",
+            "Function": "IP_TOS",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Fetch the local address binding of a socket (this option cannot be \"set\" only \"gotten\", since sockets are bound at creation time, and so the locally bound address cannot be changed).",
+            "Function": "SO_BINDADDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets SO_BROADCAST for a socket.",
+            "Function": "SO_BROADCAST",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "When the keepalive option is set for a TCP socket and no data has been exchanged across the socket in either direction for 2 hours (NOTE: the actual value is implementation dependent), TCP automatically sends a keepalive probe to the peer.",
+            "Function": "SO_KEEPALIVE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Specify a linger-on-close timeout.",
+            "Function": "SO_LINGER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "When the OOBINLINE option is set, any TCP urgent data received on the socket will be received through the socket input stream.",
+            "Function": "SO_OOBINLINE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Set a hint the size of the underlying buffers used by the platform for incoming network I/O.",
+            "Function": "SO_RCVBUF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets SO_REUSEADDR for a socket.",
+            "Function": "SO_REUSEADDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets SO_REUSEPORT for a socket.",
+            "Function": "SO_REUSEPORT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Set a hint the size of the underlying buffers used by the platform for outgoing network I/O.",
+            "Function": "SO_SNDBUF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Set a timeout on blocking Socket operations:",
+            "Function": "SO_TIMEOUT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Disable Nagle's algorithm for this connection.",
+            "Function": "TCP_NODELAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Fetch the value of an option.",
+            "Function": "getOption(int optID)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Enable/disable the option specified by optID.",
+            "Function": "setOption(int optID, Object value)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

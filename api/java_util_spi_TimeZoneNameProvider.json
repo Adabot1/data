@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getDisplayName(String ID,boolean daylight,int style,Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a name for the given time zone ID that's suitable for presentation to the user in the specified locale.",
+            "Function": "getGenericDisplayName(String ID, int style, Locale locale)",
+            "Modifier and Type": "abstract String"
+        }
+    ]
+}

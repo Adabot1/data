@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "A MathContext object with a precision setting  matching the IEEE 754R Decimal128 format, 34 digits, and a  rounding mode of HALF_EVEN, the  IEEE 754R default.",
+            "Function": "DECIMAL128",
+            "Modifier and Type": "static MathContext"
+        },
+        {
+            "Comments": "A MathContext object with a precision setting  matching the IEEE 754R Decimal32 format, 7 digits, and a  rounding mode of HALF_EVEN, the  IEEE 754R default.",
+            "Function": "DECIMAL32",
+            "Modifier and Type": "static MathContext"
+        },
+        {
+            "Comments": "A MathContext object with a precision setting  matching the IEEE 754R Decimal64 format, 16 digits, and a  rounding mode of HALF_EVEN, the  IEEE 754R default.",
+            "Function": "DECIMAL64",
+            "Modifier and Type": "static MathContext"
+        },
+        {
+            "Comments": "A MathContext object whose settings have the values  required for unlimited precision arithmetic.",
+            "Function": "UNLIMITED",
+            "Modifier and Type": "static MathContext"
+        },
+        {
+            "Comments": "Constructs a new MathContext with the specified precision and the HALF_UP rounding mode.",
+            "Function": "equals(Object x)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a new MathContext with a specified precision and rounding mode.",
+            "Function": "getPrecision()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a new MathContext from a string.",
+            "Function": "getRoundingMode()",
+            "Modifier and Type": "RoundingMode"
+        },
+        {
+            "Comments": "Compares this MathContext with the specified Object for equality.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the precision setting.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

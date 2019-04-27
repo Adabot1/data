@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "addCertificate(Certificate certificate)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructor for serialization only.",
+            "Function": "certificates()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "equals(Object identity)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Constructs an identity with the specified name and no scope.",
+            "Function": "getInfo()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getName()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Constructs an identity with the specified name and scope.",
+            "Function": "getPublicKey()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getScope()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Adds a certificate for this identity.",
+            "Function": "hashCode()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "identityEquals(Identity identity)",
+            "Modifier and Type": "PublicKey"
+        },
+        {
+            "Comments": "Returns a copy of all the certificates for this identity.",
+            "Function": "removeCertificate(Certificate certificate)",
+            "Modifier and Type": "IdentityScope"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "setInfo(String info)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests for equality between the specified object and this identity.",
+            "Function": "setPublicKey(PublicKey key)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "toString()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns general information previously specified for this identity.",
+            "Function": "toString(boolean detailed)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

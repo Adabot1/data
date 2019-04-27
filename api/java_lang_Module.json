@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "If the caller's module is this module then update this module to export the given package to the given module.",
+            "Function": "addExports(String pn,Module other)",
+            "Modifier and Type": "Module"
+        },
+        {
+            "Comments": "If this module has opened a package to at least the caller module then update this module to open the package to the given module.",
+            "Function": "addOpens(String pn,Module other)",
+            "Modifier and Type": "Module"
+        },
+        {
+            "Comments": "If the caller's module is this module then update this module to read the given module.",
+            "Function": "addReads(Module other)",
+            "Modifier and Type": "Module"
+        },
+        {
+            "Comments": "If the caller's module is this module then update this module to add a service dependence on the given service type.",
+            "Function": "addUses(Class<?> service)",
+            "Modifier and Type": "Module"
+        },
+        {
+            "Comments": "Indicates if this module reads the given module.",
+            "Function": "canRead(Module other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Indicates if this module has a service dependence on the given service type.",
+            "Function": "canUse(Class<?> service)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is present, else null.",
+            "Function": "getAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are present on this element.",
+            "Function": "getAnnotations()",
+            "Modifier and Type": "Annotation[]"
+        },
+        {
+            "Comments": "Returns the ClassLoader for this module.",
+            "Function": "getClassLoader()",
+            "Modifier and Type": "ClassLoader"
+        },
+        {
+            "Comments": "Returns annotations that are directly present on this element.",
+            "Function": "getDeclaredAnnotations()",
+            "Modifier and Type": "Annotation[]"
+        },
+        {
+            "Comments": "Returns the module descriptor for this module or null if this module is an unnamed module.",
+            "Function": "getDescriptor()",
+            "Modifier and Type": "ModuleDescriptor"
+        },
+        {
+            "Comments": "Returns the module layer that contains this module or null if this module is not in a module layer.",
+            "Function": "getLayer()",
+            "Modifier and Type": "ModuleLayer"
+        },
+        {
+            "Comments": "Returns the module name or null if this module is an unnamed module.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the set of package names for the packages in this module.",
+            "Function": "getPackages()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns an input stream for reading a resource in this module.",
+            "Function": "getResourceAsStream(String name)",
+            "Modifier and Type": "InputStream"
+        },
+        {
+            "Comments": "Returns true if this module exports the given package unconditionally.",
+            "Function": "isExported(String pn)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this module exports the given package to at least the given module.",
+            "Function": "isExported(String pn,Module other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this module is a named module.",
+            "Function": "isNamed()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this module has opened a package unconditionally.",
+            "Function": "isOpen(String pn)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this module has opened a package to at least the given module.",
+            "Function": "isOpen(String pn,Module other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the string representation of this module.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

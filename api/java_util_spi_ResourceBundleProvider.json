@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a ResourceBundle for the given bundle name and locale.",
+            "Function": "getBundle(String baseName, Locale locale)",
+            "Modifier and Type": "ResourceBundle"
+        }
+    ]
+}

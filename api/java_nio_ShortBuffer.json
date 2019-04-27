@@ -1,0 +1,134 @@
+{
+    "API": [
+        {
+            "Comments": "Allocates a new short buffer.",
+            "Function": "allocate(int capacity)",
+            "Modifier and Type": "static ShortBuffer"
+        },
+        {
+            "Comments": "Returns the short array that backs this buffer  (optional operation).",
+            "Function": "array()",
+            "Modifier and Type": "short[]"
+        },
+        {
+            "Comments": "Returns the offset within this buffer's backing array of the first element of the buffer  (optional operation).",
+            "Function": "arrayOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new, read-only short buffer that shares this buffer's content.",
+            "Function": "asReadOnlyBuffer()",
+            "Modifier and Type": "abstract ShortBuffer"
+        },
+        {
+            "Comments": "Compacts this buffer  (optional operation).",
+            "Function": "compact()",
+            "Modifier and Type": "abstract ShortBuffer"
+        },
+        {
+            "Comments": "Compares this buffer to another.",
+            "Function": "compareTo(ShortBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new short buffer that shares this buffer's content.",
+            "Function": "duplicate()",
+            "Modifier and Type": "abstract ShortBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is equal to another object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Relative get method.",
+            "Function": "get()",
+            "Modifier and Type": "abstract short"
+        },
+        {
+            "Comments": "Absolute get method.",
+            "Function": "get(int index)",
+            "Modifier and Type": "abstract short"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(short[] dst)",
+            "Modifier and Type": "ShortBuffer"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(short[] dst, int offset, int length)",
+            "Modifier and Type": "ShortBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is backed by an accessible short array.",
+            "Function": "hasArray()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the current hash code of this buffer.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this short buffer is direct.",
+            "Function": "isDirect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Finds and returns the relative index of the first mismatch between this buffer and a given buffer.",
+            "Function": "mismatch(ShortBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieves this buffer's byte order.",
+            "Function": "order()",
+            "Modifier and Type": "abstract ByteOrder"
+        },
+        {
+            "Comments": "Absolute put method  (optional operation).",
+            "Function": "put(int index, short s)",
+            "Modifier and Type": "abstract ShortBuffer"
+        },
+        {
+            "Comments": "Relative put method  (optional operation).",
+            "Function": "put(short s)",
+            "Modifier and Type": "abstract ShortBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(short[] src)",
+            "Modifier and Type": "ShortBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(short[] src, int offset, int length)",
+            "Modifier and Type": "ShortBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(ShortBuffer src)",
+            "Modifier and Type": "ShortBuffer"
+        },
+        {
+            "Comments": "Creates a new short buffer whose content is a shared subsequence of this buffer's content.",
+            "Function": "slice()",
+            "Modifier and Type": "abstract ShortBuffer"
+        },
+        {
+            "Comments": "Returns a string summarizing the state of this buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Wraps a short array into a buffer.",
+            "Function": "wrap(short[] array)",
+            "Modifier and Type": "static ShortBuffer"
+        },
+        {
+            "Comments": "Wraps a short array into a buffer.",
+            "Function": "wrap(short[] array,int offset,int length)",
+            "Modifier and Type": "static ShortBuffer"
+        }
+    ]
+}

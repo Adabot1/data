@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an array of the kinds of elements an annotation type can be applied to.",
+            "Function": "value",
+            "Modifier and Type": "ElementType[]"
+        }
+    ]
+}

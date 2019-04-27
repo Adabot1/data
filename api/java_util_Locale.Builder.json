@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an empty Builder.",
+            "Function": "addUnicodeLocaleAttribute(String attribute)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Adds a unicode locale attribute, if not already present, otherwise has no effect.",
+            "Function": "build()",
+            "Modifier and Type": "Locale"
+        },
+        {
+            "Comments": "Returns an instance of Locale created from the fields set on this builder.",
+            "Function": "clear()",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Resets the builder to its initial, empty state.",
+            "Function": "clearExtensions()",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Resets the extensions to their initial, empty state.",
+            "Function": "removeUnicodeLocaleAttribute(String attribute)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Removes a unicode locale attribute, if present, otherwise has no effect.",
+            "Function": "setExtension(char key,String value)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Sets the extension for the given key.",
+            "Function": "setLanguage(String language)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Sets the language.",
+            "Function": "setLanguageTag(String languageTag)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Resets the Builder to match the provided IETF BCP 47 language tag.",
+            "Function": "setLocale(Locale locale)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Resets the Builder to match the provided locale.",
+            "Function": "setRegion(String region)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Sets the region.",
+            "Function": "setScript(String script)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Sets the script.",
+            "Function": "setUnicodeLocaleKeyword(String key, String type)",
+            "Modifier and Type": "Locale.Builder"
+        },
+        {
+            "Comments": "Sets the Unicode locale keyword type for the given key.",
+            "Function": "setVariant(String variant)",
+            "Modifier and Type": "Locale.Builder"
+        }
+    ]
+}

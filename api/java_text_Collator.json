@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Decomposition mode value.",
+            "Function": "CANONICAL_DECOMPOSITION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Decomposition mode value.",
+            "Function": "FULL_DECOMPOSITION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Collator strength value.",
+            "Function": "IDENTICAL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Decomposition mode value.",
+            "Function": "NO_DECOMPOSITION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Collator strength value.",
+            "Function": "PRIMARY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Collator strength value.",
+            "Function": "SECONDARY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Collator strength value.",
+            "Function": "TERTIARY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Default constructor.",
+            "Function": "clone()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Overrides Cloneable",
+            "Function": "compare(Object o1, Object o2)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Compares its two arguments for order.",
+            "Function": "compare(String source, String target)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares the source string to the target string according to the collation rules for this Collator.",
+            "Function": "equals(Object that)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Compares the equality of two Collators.",
+            "Function": "equals(String source,String target)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Convenience method for comparing the equality of two strings based on this Collator's collation rules.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an array of all locales for which the getInstance methods of this class can return localized instances.",
+            "Function": "getCollationKey(String source)",
+            "Modifier and Type": "static Locale[]"
+        },
+        {
+            "Comments": "Transforms the String into a series of bits that can be compared bitwise to other CollationKeys.",
+            "Function": "getDecomposition()",
+            "Modifier and Type": "abstract CollationKey"
+        },
+        {
+            "Comments": "Get the decomposition mode of this Collator.",
+            "Function": "getInstance()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the Collator for the current default locale.",
+            "Function": "getInstance(Locale desiredLocale)",
+            "Modifier and Type": "static Collator"
+        },
+        {
+            "Comments": "Gets the Collator for the desired locale.",
+            "Function": "getStrength()",
+            "Modifier and Type": "static Collator"
+        },
+        {
+            "Comments": "Returns this Collator's strength property.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Generates the hash code for this Collator.",
+            "Function": "setDecomposition(int decompositionMode)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Set the decomposition mode of this Collator.",
+            "Function": "setStrength(int newStrength)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

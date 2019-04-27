@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the capability.",
+            "Function": "getCapability()",
+            "Modifier and Type": "DrbgParameters.Capability"
+        },
+        {
+            "Comments": "Returns the personalization string as a byte array.",
+            "Function": "getPersonalizationString()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the security strength in bits.",
+            "Function": "getStrength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a Human-readable string representation of this Instantiation.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

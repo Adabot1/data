@@ -1,0 +1,189 @@
+{
+    "API": [
+        {
+            "Comments": "Allocates a new char buffer.",
+            "Function": "allocate(int capacity)",
+            "Modifier and Type": "static CharBuffer"
+        },
+        {
+            "Comments": "Appends the specified char  to this buffer  (optional operation).",
+            "Function": "append(char c)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Appends the specified character sequence  to this buffer  (optional operation).",
+            "Function": "append(CharSequence csq)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Appends a subsequence of the  specified character sequence  to this buffer  (optional operation).",
+            "Function": "append(CharSequence csq,int start,int end)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Returns the char array that backs this buffer  (optional operation).",
+            "Function": "array()",
+            "Modifier and Type": "char[]"
+        },
+        {
+            "Comments": "Returns the offset within this buffer's backing array of the first element of the buffer  (optional operation).",
+            "Function": "arrayOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new, read-only char buffer that shares this buffer's content.",
+            "Function": "asReadOnlyBuffer()",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Reads the character at the given index relative to the current position.",
+            "Function": "charAt(int index)",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Compacts this buffer  (optional operation).",
+            "Function": "compact()",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Compares this buffer to another.",
+            "Function": "compareTo(CharBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new char buffer that shares this buffer's content.",
+            "Function": "duplicate()",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is equal to another object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Relative get method.",
+            "Function": "get()",
+            "Modifier and Type": "abstract char"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(char[] dst)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(char[] dst, int offset, int length)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Absolute get method.",
+            "Function": "get(int index)",
+            "Modifier and Type": "abstract char"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is backed by an accessible char array.",
+            "Function": "hasArray()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the current hash code of this buffer.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this char buffer is direct.",
+            "Function": "isDirect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the length of this character buffer.",
+            "Function": "length()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Finds and returns the relative index of the first mismatch between this buffer and a given buffer.",
+            "Function": "mismatch(CharBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieves this buffer's byte order.",
+            "Function": "order()",
+            "Modifier and Type": "abstract ByteOrder"
+        },
+        {
+            "Comments": "Relative put method  (optional operation).",
+            "Function": "put(char c)",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(char[] src)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(char[] src, int offset, int length)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Absolute put method  (optional operation).",
+            "Function": "put(int index, char c)",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(String src)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(String src, int start, int end)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(CharBuffer src)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Attempts to read characters into the specified character buffer.",
+            "Function": "read(CharBuffer target)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new char buffer whose content is a shared subsequence of this buffer's content.",
+            "Function": "slice()",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Creates a new character buffer that represents the specified subsequence of this buffer, relative to the current position.",
+            "Function": "subSequence(int start, int end)",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Returns a string containing the characters in this buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Wraps a char array into a buffer.",
+            "Function": "wrap(char[] array)",
+            "Modifier and Type": "static CharBuffer"
+        },
+        {
+            "Comments": "Wraps a char array into a buffer.",
+            "Function": "wrap(char[] array,int offset,int length)",
+            "Modifier and Type": "static CharBuffer"
+        },
+        {
+            "Comments": "Wraps a character sequence into a buffer.",
+            "Function": "wrap(CharSequence csq)",
+            "Modifier and Type": "static CharBuffer"
+        },
+        {
+            "Comments": "Wraps a character sequence into a buffer.",
+            "Function": "wrap(CharSequence csq,int start,int end)",
+            "Modifier and Type": "static CharBuffer"
+        }
+    ]
+}

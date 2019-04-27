@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "The class fingerprint that is set to indicate serialization compatibility with a previous version of the class.",
+            "Function": "serialVersionUID",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the standard algorithm name for this key.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the key in its primary encoding format, or null if this key does not support encoding.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the name of the primary encoding format of this key, or null if this key does not support encoding.",
+            "Function": "getFormat()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

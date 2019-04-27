@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Get the scalar value encoded as an unpruned byte array.",
+            "Function": "getScalar()",
+            "Modifier and Type": "Optional<byte[]>"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "Information snapshot about the process.",
+            "Function": "ProcessHandle.Info",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Returns a snapshot of all processes visible to the current process.",
+            "Function": "allProcesses()",
+            "Modifier and Type": "static Stream<ProcessHandle>"
+        },
+        {
+            "Comments": "Returns a snapshot of the current direct children of the process.",
+            "Function": "children()",
+            "Modifier and Type": "Stream<ProcessHandle>"
+        },
+        {
+            "Comments": "Compares this ProcessHandle with the specified ProcessHandle for order.",
+            "Function": "compareTo(ProcessHandle other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a ProcessHandle for the current process.",
+            "Function": "current()",
+            "Modifier and Type": "static ProcessHandle"
+        },
+        {
+            "Comments": "Returns a snapshot of the descendants of the process.",
+            "Function": "descendants()",
+            "Modifier and Type": "Stream<ProcessHandle>"
+        },
+        {
+            "Comments": "Requests the process to be killed.",
+            "Function": "destroy()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Requests the process to be killed forcibly.",
+            "Function": "destroyForcibly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if other object is non-null, is of the same implementation, and represents the same system process; otherwise it returns false.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a hash code value for this ProcessHandle.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a snapshot of information about the process.",
+            "Function": "info()",
+            "Modifier and Type": "ProcessHandle.Info"
+        },
+        {
+            "Comments": "Tests whether the process represented by this ProcessHandle is alive.",
+            "Function": "isAlive()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an Optional<ProcessHandle> for an existing native process.",
+            "Function": "of(long pid)",
+            "Modifier and Type": "static Optional<ProcessHandle>"
+        },
+        {
+            "Comments": "Returns a CompletableFuture<ProcessHandle> for the termination of the process.",
+            "Function": "onExit()",
+            "Modifier and Type": "CompletableFuture<ProcessHandle>"
+        },
+        {
+            "Comments": "Returns an Optional<ProcessHandle> for the parent process.",
+            "Function": "parent()",
+            "Modifier and Type": "Optional<ProcessHandle>"
+        },
+        {
+            "Comments": "Returns the native process ID of the process.",
+            "Function": "pid()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns true if the implementation of destroy() normally terminates the process.",
+            "Function": "supportsNormalTermination()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

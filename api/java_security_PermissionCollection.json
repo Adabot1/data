@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Adds a permission object to the current collection of permission objects.",
+            "Function": "add(Permission permission)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns an enumeration of all the Permission objects in the collection.",
+            "Function": "elements()",
+            "Modifier and Type": "abstract Enumeration<Permission>"
+        },
+        {
+            "Comments": "Returns a stream of all the Permission objects in the collection.",
+            "Function": "elementsAsStream()",
+            "Modifier and Type": "Stream<Permission>"
+        },
+        {
+            "Comments": "Checks to see if the specified permission is implied by the collection of Permission objects held in this PermissionCollection.",
+            "Function": "implies(Permission permission)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns true if this PermissionCollection object is marked as readonly.",
+            "Function": "isReadOnly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Marks this PermissionCollection object as \"readonly\".",
+            "Function": "setReadOnly()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a string describing this PermissionCollection object, providing information about all the permissions it contains.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a DecimalFormat using the default pattern and symbols for the default FORMAT locale.",
+            "Function": "applyLocalizedPattern(String pattern)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a DecimalFormat using the given pattern and the symbols for the default FORMAT locale.",
+            "Function": "applyPattern(String pattern)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a DecimalFormat using the given pattern and symbols.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Apply the given pattern to this Format object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Apply the given pattern to this Format object.",
+            "Function": "format(double number,StringBuffer result,FieldPosition fieldPosition)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Standard override; no change in semantics.",
+            "Function": "format(long number,StringBuffer result,FieldPosition fieldPosition)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Overrides equals",
+            "Function": "format(Object number,StringBuffer toAppendTo,FieldPosition pos)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Formats a double to produce a string.",
+            "Function": "formatToCharacterIterator(Object obj)",
+            "Modifier and Type": "AttributedCharacterIterator"
+        },
+        {
+            "Comments": "Format a long to produce a string.",
+            "Function": "getCurrency()",
+            "Modifier and Type": "Currency"
+        },
+        {
+            "Comments": "Formats a number and appends the resulting text to the given string buffer.",
+            "Function": "getDecimalFormatSymbols()",
+            "Modifier and Type": "DecimalFormatSymbols"
+        },
+        {
+            "Comments": "Formats an Object producing an AttributedCharacterIterator.",
+            "Function": "getGroupingSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the currency used by this decimal format when formatting currency values.",
+            "Function": "getMaximumFractionDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a copy of the decimal format symbols, which is generally not changed by the programmer or user.",
+            "Function": "getMaximumIntegerDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return the grouping size.",
+            "Function": "getMinimumFractionDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the maximum number of digits allowed in the fraction portion of a number.",
+            "Function": "getMinimumIntegerDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the maximum number of digits allowed in the integer portion of a number.",
+            "Function": "getMultiplier()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the minimum number of digits allowed in the fraction portion of a number.",
+            "Function": "getNegativePrefix()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the minimum number of digits allowed in the integer portion of a number.",
+            "Function": "getNegativeSuffix()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the multiplier for use in percent, per mille, and similar formats.",
+            "Function": "getPositivePrefix()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the negative prefix.",
+            "Function": "getPositiveSuffix()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the negative suffix.",
+            "Function": "getRoundingMode()",
+            "Modifier and Type": "RoundingMode"
+        },
+        {
+            "Comments": "Get the positive prefix.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the positive suffix.",
+            "Function": "isDecimalSeparatorAlwaysShown()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the RoundingMode used in this DecimalFormat.",
+            "Function": "isParseBigDecimal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Overrides hashCode",
+            "Function": "parse(String text, ParsePosition pos)",
+            "Modifier and Type": "Number"
+        },
+        {
+            "Comments": "Allows you to get the behavior of the decimal separator with integers.",
+            "Function": "setCurrency(Currency currency)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns whether the parse(java.lang.String, java.text.ParsePosition) method returns BigDecimal.",
+            "Function": "setDecimalFormatSymbols(DecimalFormatSymbols newSymbols)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Parses text from a string to produce a Number.",
+            "Function": "setDecimalSeparatorAlwaysShown(boolean newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the currency used by this number format when formatting currency values.",
+            "Function": "setGroupingSize(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the decimal format symbols, which is generally not changed by the programmer or user.",
+            "Function": "setMaximumFractionDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Allows you to set the behavior of the decimal separator with integers.",
+            "Function": "setMaximumIntegerDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the grouping size.",
+            "Function": "setMinimumFractionDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum number of digits allowed in the fraction portion of a number.",
+            "Function": "setMinimumIntegerDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum number of digits allowed in the integer portion of a number.",
+            "Function": "setMultiplier(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the minimum number of digits allowed in the fraction portion of a number.",
+            "Function": "setNegativePrefix(String newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the minimum number of digits allowed in the integer portion of a number.",
+            "Function": "setNegativeSuffix(String newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the multiplier for use in percent, per mille, and similar formats.",
+            "Function": "setParseBigDecimal(boolean newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the negative prefix.",
+            "Function": "setPositivePrefix(String newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the negative suffix.",
+            "Function": "setPositiveSuffix(String newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets whether the parse(java.lang.String, java.text.ParsePosition) method returns BigDecimal.",
+            "Function": "setRoundingMode(RoundingMode roundingMode)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the positive prefix.",
+            "Function": "toLocalizedPattern()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Set the positive suffix.",
+            "Function": "toPattern()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

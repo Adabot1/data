@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "bind(SocketAddress local)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Binds the channel's socket to a local address.",
+            "Function": "connect(SocketAddress remote)",
+            "Modifier and Type": "abstract DatagramChannel"
+        },
+        {
+            "Comments": "Connects this channel's socket.",
+            "Function": "disconnect()",
+            "Modifier and Type": "abstract DatagramChannel"
+        },
+        {
+            "Comments": "Disconnects this channel's socket.",
+            "Function": "getLocalAddress()",
+            "Modifier and Type": "abstract DatagramChannel"
+        },
+        {
+            "Comments": "Returns the socket address that this channel's socket is bound to.",
+            "Function": "getRemoteAddress()",
+            "Modifier and Type": "abstract SocketAddress"
+        },
+        {
+            "Comments": "Returns the remote address to which this channel's socket is connected.",
+            "Function": "isConnected()",
+            "Modifier and Type": "abstract SocketAddress"
+        },
+        {
+            "Comments": "Tells whether or not this channel's socket is connected.",
+            "Function": "open()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Opens a datagram channel.",
+            "Function": "open(ProtocolFamily family)",
+            "Modifier and Type": "static DatagramChannel"
+        },
+        {
+            "Comments": "Opens a datagram channel.",
+            "Function": "read(ByteBuffer dst)",
+            "Modifier and Type": "static DatagramChannel"
+        },
+        {
+            "Comments": "Reads a datagram from this channel.",
+            "Function": "read(ByteBuffer[] dsts)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Reads a datagram from this channel.",
+            "Function": "read(ByteBuffer[] dsts,int offset,int length)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Reads a datagram from this channel.",
+            "Function": "receive(ByteBuffer dst)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Receives a datagram via this channel.",
+            "Function": "send(ByteBuffer src,SocketAddress target)",
+            "Modifier and Type": "abstract SocketAddress"
+        },
+        {
+            "Comments": "Sends a datagram via this channel.",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Sets the value of a socket option.",
+            "Function": "socket()",
+            "Modifier and Type": "abstract <T> DatagramChannel"
+        },
+        {
+            "Comments": "Retrieves a datagram socket associated with this channel.",
+            "Function": "validOps()",
+            "Modifier and Type": "abstract DatagramSocket"
+        },
+        {
+            "Comments": "Returns an operation set identifying this channel's supported operations.",
+            "Function": "write(ByteBuffer src)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Writes a datagram to this channel.",
+            "Function": "write(ByteBuffer[] srcs)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Writes a datagram to this channel.",
+            "Function": "write(ByteBuffer[] srcs, int offset, int length)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

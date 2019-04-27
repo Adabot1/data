@@ -1,0 +1,144 @@
+{
+    "API": [
+        {
+            "Comments": "The IP address of the remote end of this socket.",
+            "Function": "address",
+            "Modifier and Type": "protected InetAddress"
+        },
+        {
+            "Comments": "The file descriptor object for this socket.",
+            "Function": "fd",
+            "Modifier and Type": "protected FileDescriptor"
+        },
+        {
+            "Comments": "The local port number to which this socket is connected.",
+            "Function": "localport",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The port number on the remote host to which this socket is connected.",
+            "Function": "port",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Accepts a connection.",
+            "Function": "accept(SocketImpl s)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Returns the number of bytes that can be read from this socket without blocking.",
+            "Function": "available()",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Binds this socket to the specified local IP address and port number.",
+            "Function": "bind(InetAddress host,int port)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Closes this socket.",
+            "Function": "close()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Connects this socket to the specified port on the named host.",
+            "Function": "connect(String host, int port)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Connects this socket to the specified port number on the specified host.",
+            "Function": "connect(InetAddress address, int port)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Connects this socket to the specified port number on the specified host.",
+            "Function": "connect(SocketAddress address, int timeout)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Creates either a stream or a datagram socket.",
+            "Function": "create(boolean stream)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Returns the value of this socket's fd field.",
+            "Function": "getFileDescriptor()",
+            "Modifier and Type": "protected FileDescriptor"
+        },
+        {
+            "Comments": "Returns the value of this socket's address field.",
+            "Function": "getInetAddress()",
+            "Modifier and Type": "protected InetAddress"
+        },
+        {
+            "Comments": "Returns an input stream for this socket.",
+            "Function": "getInputStream()",
+            "Modifier and Type": "protected abstract InputStream"
+        },
+        {
+            "Comments": "Returns the value of this socket's localport field.",
+            "Function": "getLocalPort()",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Called to get a socket option.",
+            "Function": "getOption(SocketOption<T> name)",
+            "Modifier and Type": "protected <T> T"
+        },
+        {
+            "Comments": "Returns an output stream for this socket.",
+            "Function": "getOutputStream()",
+            "Modifier and Type": "protected abstract OutputStream"
+        },
+        {
+            "Comments": "Returns the value of this socket's port field.",
+            "Function": "getPort()",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Sets the maximum queue length for incoming connection indications (a request to connect) to the count argument.",
+            "Function": "listen(int backlog)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Send one byte of urgent data on the socket.",
+            "Function": "sendUrgentData(int data)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Called to set a socket option.",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "protected <T> void"
+        },
+        {
+            "Comments": "Sets performance preferences for this socket.",
+            "Function": "setPerformancePreferences(int connectionTime, int latency, int bandwidth)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Places the input stream for this socket at \"end of stream\".",
+            "Function": "shutdownInput()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Disables the output stream for this socket.",
+            "Function": "shutdownOutput()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Returns a set of SocketOptions supported by this impl and by this impl's socket (Socket or ServerSocket)",
+            "Function": "supportedOptions()",
+            "Modifier and Type": "protected Set<SocketOption<?>>"
+        },
+        {
+            "Comments": "Returns whether or not this SocketImpl supports sending urgent data.",
+            "Function": "supportsUrgentData()",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Returns the address and port of this socket as a String.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

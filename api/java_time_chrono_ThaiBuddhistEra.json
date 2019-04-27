@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "The singleton instance for the current era, 'Buddhist Era', which has the numeric value 1.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "The singleton instance for the era before the current one, 'Before Buddhist Era', which has the numeric value 0.",
+            "Function": "getValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the textual representation of this era.",
+            "Function": "of(int thaiBuddhistEra)",
+            "Modifier and Type": "static ThaiBuddhistEra"
+        },
+        {
+            "Comments": "Gets the numeric era int value.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ThaiBuddhistEra"
+        },
+        {
+            "Comments": "Obtains an instance of ThaiBuddhistEra from an int value.",
+            "Function": "values()",
+            "Modifier and Type": "static ThaiBuddhistEra[]"
+        }
+    ]
+}

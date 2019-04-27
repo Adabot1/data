@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Gets the MIME type for the specified file name.",
+            "Function": "getContentTypeFor(String fileName)",
+            "Modifier and Type": "String"
+        }
+    ]
+}

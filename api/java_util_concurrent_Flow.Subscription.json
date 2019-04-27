@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Causes the Subscriber to (eventually) stop receiving messages.",
+            "Function": "cancel()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds the given number n of items to the current unfulfilled demand for this subscription.",
+            "Function": "request(long n)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

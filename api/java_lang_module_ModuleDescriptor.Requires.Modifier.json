@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The dependence was implicitly declared in the source of the module declaration.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ModuleDescriptor.Requires.Modifier"
+        },
+        {
+            "Comments": "The dependence is mandatory in the static phase, during compilation, but is optional in the dynamic phase, during execution.",
+            "Function": "values()",
+            "Modifier and Type": "static ModuleDescriptor.Requires.Modifier[]"
+        }
+    ]
+}

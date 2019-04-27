@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Gets all the applicable cookies from a cookie cache for the specified uri in the request header.",
+            "Function": "get(URI uri, Map<String,List<String>> requestHeaders)",
+            "Modifier and Type": "abstract Map<String,​List<String>>"
+        },
+        {
+            "Comments": "Gets the system-wide cookie handler.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static CookieHandler"
+        },
+        {
+            "Comments": "Sets all the applicable cookies, examples are response header fields that are named Set-Cookie2, present in the response headers into a cookie cache.",
+            "Function": "put(URI uri, Map<String,List<String>> responseHeaders)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Sets (or unsets) the system-wide cookie handler.",
+            "Function": "setDefault(CookieHandler cHandler)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

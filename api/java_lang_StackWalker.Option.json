@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Retains Class object in StackFrames walked by this StackWalker.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static StackWalker.Option"
+        },
+        {
+            "Comments": "Shows all hidden frames.",
+            "Function": "values()",
+            "Modifier and Type": "static StackWalker.Option[]"
+        }
+    ]
+}

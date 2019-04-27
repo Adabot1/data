@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "The set of warnings that are to be suppressed by the compiler in the annotated element.",
+            "Function": "value",
+            "Modifier and Type": "String[]"
+        }
+    ]
+}

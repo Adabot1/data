@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "CANCEL option.",
+            "Function": "CANCEL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "ERROR message type.",
+            "Function": "ERROR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "INFORMATION message type.",
+            "Function": "INFORMATION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "NO option.",
+            "Function": "NO",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "OK option.",
+            "Function": "OK",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "OK/CANCEL confirmation confirmation option.",
+            "Function": "OK_CANCEL_OPTION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Unspecified option type.",
+            "Function": "UNSPECIFIED_OPTION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "WARNING message type.",
+            "Function": "WARNING",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "YES option.",
+            "Function": "YES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "YES/NO/CANCEL confirmation confirmation option.",
+            "Function": "YES_NO_CANCEL_OPTION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "YES/NO confirmation option.",
+            "Function": "YES_NO_OPTION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Construct a ConfirmationCallback with a message type, an option type and a default option.",
+            "Function": "getDefaultOption()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Construct a ConfirmationCallback with a message type, a list of options and a default option.",
+            "Function": "getMessageType()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Construct a ConfirmationCallback with a prompt, message type, an option type and a default option.",
+            "Function": "getOptions()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Construct a ConfirmationCallback with a prompt, message type, a list of options and a default option.",
+            "Function": "getOptionType()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the default option.",
+            "Function": "getPrompt()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the message type.",
+            "Function": "getSelectedIndex()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the confirmation options.",
+            "Function": "setSelectedIndex(int selection)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

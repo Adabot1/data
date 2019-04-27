@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Tests if a specified file should be included in a file list.",
+            "Function": "accept(File dir,String name)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

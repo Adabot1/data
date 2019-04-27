@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getEnabledCipherSuites()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getEnabledProtocols()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getEnableSessionCreation()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getNeedClientAuth()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the list of cipher suites which are currently enabled for use by newly accepted connections.",
+            "Function": "getSSLParameters()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns the names of the protocols which are currently enabled for use by the newly accepted connections.",
+            "Function": "getSupportedCipherSuites()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns true if new SSL sessions may be established by the sockets which are created from this server socket.",
+            "Function": "getSupportedProtocols()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns true if client authentication will be required on newly accepted server-mode SSLSockets.",
+            "Function": "getUseClientMode()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the SSLParameters in effect for newly accepted connections.",
+            "Function": "getWantClientAuth()",
+            "Modifier and Type": "SSLParameters"
+        },
+        {
+            "Comments": "Returns the names of the cipher suites which could be enabled for use on an SSL connection.",
+            "Function": "setEnabledCipherSuites(String[] suites)",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns the names of the protocols which could be enabled for use.",
+            "Function": "setEnabledProtocols(String[] protocols)",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns true if accepted connections will be in SSL client mode.",
+            "Function": "setEnableSessionCreation(boolean flag)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns true if client authentication will be requested on newly accepted server-mode connections.",
+            "Function": "setNeedClientAuth(boolean need)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Sets the cipher suites enabled for use by accepted connections.",
+            "Function": "setSSLParameters(SSLParameters params)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Controls which particular protocols are enabled for use by accepted connections.",
+            "Function": "setUseClientMode(boolean mode)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Controls whether new SSL sessions may be established by the sockets which are created from this server socket.",
+            "Function": "setWantClientAuth(boolean want)",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

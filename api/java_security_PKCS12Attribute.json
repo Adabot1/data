@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a PKCS12 attribute from its ASN.1 DER encoding.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a PKCS12 attribute from its name and value.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Compares this PKCS12Attribute and a specified object for equality.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the attribute's ASN.1 DER encoding.",
+            "Function": "getValue()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the attribute's ASN.1 Object Identifier represented as a list of dot-separated integers.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the attribute's ASN.1 DER-encoded value as a string.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

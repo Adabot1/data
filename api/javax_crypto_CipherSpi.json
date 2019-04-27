@@ -1,0 +1,104 @@
+{
+    "API": [
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "engineDoFinal(byte[] input, int inputOffset, int inputLen)",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "engineDoFinal(byte[] input, int inputOffset, int inputLen, byte[] output, int outputOffset)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "engineDoFinal(ByteBuffer input, ByteBuffer output)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Returns the block size (in bytes).",
+            "Function": "engineGetBlockSize()",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Returns the initialization vector (IV) in a new buffer.",
+            "Function": "engineGetIV()",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Returns the key size of the given key object in bits.",
+            "Function": "engineGetKeySize(Key key)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Returns the length in bytes that an output buffer would need to be in order to hold the result of the next update or doFinal operation, given the input length inputLen (in bytes).",
+            "Function": "engineGetOutputSize(int inputLen)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Returns the parameters used with this cipher.",
+            "Function": "engineGetParameters()",
+            "Modifier and Type": "protected abstract AlgorithmParameters"
+        },
+        {
+            "Comments": "Initializes this cipher with a key, a set of algorithm parameters, and a source of randomness.",
+            "Function": "engineInit(int opmode,Key key,AlgorithmParameters params,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key and a source of randomness.",
+            "Function": "engineInit(int opmode,Key key,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key, a set of algorithm parameters, and a source of randomness.",
+            "Function": "engineInit(int opmode,Key key,AlgorithmParameterSpec params,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Sets the mode of this cipher.",
+            "Function": "engineSetMode(String mode)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Sets the padding mechanism of this cipher.",
+            "Function": "engineSetPadding(String padding)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Unwrap a previously wrapped key.",
+            "Function": "engineUnwrap(byte[] wrappedKey,String wrappedKeyAlgorithm,int wrappedKeyType)",
+            "Modifier and Type": "protected Key"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "engineUpdate(byte[] input,int inputOffset,int inputLen)",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "engineUpdate(byte[] input,int inputOffset,int inputLen,byte[] output,int outputOffset)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "engineUpdate(ByteBuffer input,ByteBuffer output)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Continues a multi-part update of the Additional Authentication Data (AAD), using a subset of the provided buffer.",
+            "Function": "engineUpdateAAD(byte[] src, int offset, int len)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Continues a multi-part update of the Additional Authentication Data (AAD).",
+            "Function": "engineUpdateAAD(ByteBuffer src)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Wrap a key.",
+            "Function": "engineWrap(Key key)",
+            "Modifier and Type": "protected byte[]"
+        }
+    ]
+}

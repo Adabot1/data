@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the value of the specified number as a byte.",
+            "Function": "byteValue()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Returns the value of the specified number as a double.",
+            "Function": "doubleValue()",
+            "Modifier and Type": "abstract double"
+        },
+        {
+            "Comments": "Returns the value of the specified number as a float.",
+            "Function": "floatValue()",
+            "Modifier and Type": "abstract float"
+        },
+        {
+            "Comments": "Returns the value of the specified number as an int.",
+            "Function": "intValue()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the value of the specified number as a long.",
+            "Function": "longValue()",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Returns the value of the specified number as a short.",
+            "Function": "shortValue()",
+            "Modifier and Type": "short"
+        }
+    ]
+}

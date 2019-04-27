@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a key pair from the given public key and private key.",
+            "Function": "getPrivate()",
+            "Modifier and Type": "PrivateKey"
+        },
+        {
+            "Comments": "Returns a reference to the private key component of this key pair.",
+            "Function": "getPublic()",
+            "Modifier and Type": "PublicKey"
+        }
+    ]
+}

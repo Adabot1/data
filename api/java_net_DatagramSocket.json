@@ -1,0 +1,169 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a datagram socket and binds it to any available port on the local host machine.",
+            "Function": "bind(SocketAddress addr)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Constructs a datagram socket and binds it to the specified port on the local host machine.",
+            "Function": "close()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a datagram socket, bound to the specified local address.",
+            "Function": "connect(InetAddress address, int port)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates an unbound datagram socket with the specified DatagramSocketImpl.",
+            "Function": "connect(SocketAddress addr)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Creates a datagram socket, bound to the specified local socket address.",
+            "Function": "disconnect()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Binds this DatagramSocket to a specific address and port.",
+            "Function": "getBroadcast()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes this datagram socket.",
+            "Function": "getChannel()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Connects the socket to a remote address for this socket.",
+            "Function": "getInetAddress()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Connects this socket to a remote socket address (IP address + port number).",
+            "Function": "getLocalAddress()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Disconnects the socket.",
+            "Function": "getLocalPort()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if SO_BROADCAST is enabled.",
+            "Function": "getLocalSocketAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the unique DatagramChannel object associated with this datagram socket, if any.",
+            "Function": "getOption(SocketOption<T> name)",
+            "Modifier and Type": "DatagramChannel"
+        },
+        {
+            "Comments": "Returns the address to which this socket is connected.",
+            "Function": "getPort()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Gets the local address to which the socket is bound.",
+            "Function": "getReceiveBufferSize()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Returns the port number on the local host to which this socket is bound.",
+            "Function": "getRemoteSocketAddress()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the address of the endpoint this socket is bound to.",
+            "Function": "getReuseAddress()",
+            "Modifier and Type": "SocketAddress"
+        },
+        {
+            "Comments": "Returns the value of a socket option.",
+            "Function": "getSendBufferSize()",
+            "Modifier and Type": "<T> T"
+        },
+        {
+            "Comments": "Returns the port number to which this socket is connected.",
+            "Function": "getSoTimeout()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get value of the SO_RCVBUF option for this DatagramSocket, that is the buffer size used by the platform for input on this DatagramSocket.",
+            "Function": "getTrafficClass()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the address of the endpoint this socket is connected to, or null if it is unconnected.",
+            "Function": "isBound()",
+            "Modifier and Type": "SocketAddress"
+        },
+        {
+            "Comments": "Tests if SO_REUSEADDR is enabled.",
+            "Function": "isClosed()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Get value of the SO_SNDBUF option for this DatagramSocket, that is the buffer size used by the platform for output on this DatagramSocket.",
+            "Function": "isConnected()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieve setting for SO_TIMEOUT.  0 returns implies that the option is disabled (i.e., timeout of infinity).",
+            "Function": "receive(DatagramPacket p)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets traffic class or type-of-service in the IP datagram header for packets sent from this DatagramSocket.",
+            "Function": "send(DatagramPacket p)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the binding state of the socket.",
+            "Function": "setBroadcast(boolean on)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns whether the socket is closed or not.",
+            "Function": "setDatagramSocketImplFactory(DatagramSocketImplFactory fac)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the connection state of the socket.",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Receives a datagram packet from this socket.",
+            "Function": "setReceiveBufferSize(int size)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sends a datagram packet from this socket.",
+            "Function": "setReuseAddress(boolean on)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Enable/disable SO_BROADCAST.",
+            "Function": "setSendBufferSize(int size)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the datagram socket implementation factory for the application.",
+            "Function": "setSoTimeout(int timeout)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of a socket option.",
+            "Function": "setTrafficClass(int tc)",
+            "Modifier and Type": "<T> DatagramSocket"
+        },
+        {
+            "Comments": "Sets the SO_RCVBUF option to the specified value for this DatagramSocket.",
+            "Function": "supportedOptions()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

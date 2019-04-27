@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getDisplayName(String calendarType,int field,int value,int style,Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the string representation (display name) of the calendar field value in the given style and locale.",
+            "Function": "getDisplayNames(String calendarType, int field, int style, Locale locale)",
+            "Modifier and Type": "abstract String"
+        }
+    ]
+}

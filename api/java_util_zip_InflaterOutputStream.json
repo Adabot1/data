@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Output buffer for writing uncompressed data.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "Decompressor for this stream.",
+            "Function": "inf",
+            "Modifier and Type": "protected Inflater"
+        },
+        {
+            "Comments": "Creates a new output stream with a default decompressor and buffer size.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new output stream with the specified decompressor and a default buffer size.",
+            "Function": "finish()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new output stream with the specified decompressor and buffer size.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes any remaining uncompressed data to the output stream and closes the underlying output stream.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Finishes writing uncompressed data to the output stream without closing the underlying stream.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

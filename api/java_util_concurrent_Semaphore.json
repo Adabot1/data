@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a Semaphore with the given number of permits and nonfair fairness setting.",
+            "Function": "acquire()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a Semaphore with the given number of permits and the given fairness setting.",
+            "Function": "acquire(int permits)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires a permit from this semaphore, blocking until one is available, or the thread is interrupted.",
+            "Function": "acquireUninterruptibly()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires the given number of permits from this semaphore, blocking until all are available, or the thread is interrupted.",
+            "Function": "acquireUninterruptibly(int permits)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires a permit from this semaphore, blocking until one is available.",
+            "Function": "availablePermits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Acquires the given number of permits from this semaphore, blocking until all are available.",
+            "Function": "drainPermits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current number of permits available in this semaphore.",
+            "Function": "getQueuedThreads()",
+            "Modifier and Type": "protected Collection<Thread>"
+        },
+        {
+            "Comments": "Acquires and returns all permits that are immediately available, or if negative permits are available, releases them.",
+            "Function": "getQueueLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire.",
+            "Function": "hasQueuedThreads()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads waiting to acquire.",
+            "Function": "isFair()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads are waiting to acquire.",
+            "Function": "reducePermits(int reduction)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Returns true if this semaphore has fairness set true.",
+            "Function": "release()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Shrinks the number of available permits by the indicated reduction.",
+            "Function": "release(int permits)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Releases a permit, returning it to the semaphore.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Releases the given number of permits, returning them to the semaphore.",
+            "Function": "tryAcquire()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a string identifying this semaphore, as well as its state.",
+            "Function": "tryAcquire(int permits)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Acquires a permit from this semaphore, only if one is available at the time of invocation.",
+            "Function": "tryAcquire(int permits,long timeout,TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Acquires the given number of permits from this semaphore, only if all are available at the time of invocation.",
+            "Function": "tryAcquire(long timeout,TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

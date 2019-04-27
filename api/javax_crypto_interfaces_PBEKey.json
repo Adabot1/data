@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "The class fingerprint that is set to indicate serialization compatibility since J2SE 1.4.",
+            "Function": "serialVersionUID",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the iteration count or 0 if not specified.",
+            "Function": "getIterationCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the password.",
+            "Function": "getPassword()",
+            "Modifier and Type": "char[]"
+        },
+        {
+            "Comments": "Returns the salt or null if not specified.",
+            "Function": "getSalt()",
+            "Modifier and Type": "byte[]"
+        }
+    ]
+}

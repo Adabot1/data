@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Enables canonical equivalence.",
+            "Function": "CANON_EQ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Enables case-insensitive matching.",
+            "Function": "CASE_INSENSITIVE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Permits whitespace and comments in pattern.",
+            "Function": "COMMENTS",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Enables dotall mode.",
+            "Function": "DOTALL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Enables literal parsing of the pattern.",
+            "Function": "LITERAL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Enables multiline mode.",
+            "Function": "MULTILINE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Enables Unicode-aware case folding.",
+            "Function": "UNICODE_CASE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Enables the Unicode version of Predefined character classes and POSIX character classes.",
+            "Function": "UNICODE_CHARACTER_CLASS",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Enables Unix lines mode.",
+            "Function": "UNIX_LINES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a predicate that tests if this pattern matches a given input string.",
+            "Function": "asMatchPredicate()",
+            "Modifier and Type": "Predicate<String>"
+        },
+        {
+            "Comments": "Creates a predicate that tests if this pattern is found in a given input string.",
+            "Function": "asPredicate()",
+            "Modifier and Type": "Predicate<String>"
+        },
+        {
+            "Comments": "Compiles the given regular expression into a pattern.",
+            "Function": "compile(String regex)",
+            "Modifier and Type": "static Pattern"
+        },
+        {
+            "Comments": "Compiles the given regular expression into a pattern with the given flags.",
+            "Function": "compile(String regex, int flags)",
+            "Modifier and Type": "static Pattern"
+        },
+        {
+            "Comments": "Returns this pattern's match flags.",
+            "Function": "flags()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a matcher that will match the given input against this pattern.",
+            "Function": "matcher(CharSequence input)",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Compiles the given regular expression and attempts to match the given input against it.",
+            "Function": "matches(String regex, CharSequence input)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the regular expression from which this pattern was compiled.",
+            "Function": "pattern()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a literal pattern String for the specified String.",
+            "Function": "quote(String s)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Splits the given input sequence around matches of this pattern.",
+            "Function": "split(CharSequence input)",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Splits the given input sequence around matches of this pattern.",
+            "Function": "split(CharSequence input, int limit)",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Creates a stream from the given input sequence around matches of this pattern.",
+            "Function": "splitAsStream(CharSequence input)",
+            "Modifier and Type": "Stream<String>"
+        },
+        {
+            "Comments": "Returns the string representation of this pattern.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

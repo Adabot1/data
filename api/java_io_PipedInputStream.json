@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "The circular buffer into which incoming data is placed.",
+            "Function": "buffer",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "The index of the position in the circular buffer at which the next byte of data will be stored when received from the connected piped output stream.",
+            "Function": "in",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The index of the position in the circular buffer at which the next byte of data will be read by this piped input stream.",
+            "Function": "out",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The default size of the pipe's circular input buffer.",
+            "Function": "PIPE_SIZE",
+            "Modifier and Type": "protected static int"
+        },
+        {
+            "Comments": "Creates a PipedInputStream so that it is not yet connected.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a PipedInputStream so that it is not yet connected and uses the specified pipe size for the pipe's buffer.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a PipedInputStream so that it is connected to the piped output stream src.",
+            "Function": "connect(PipedOutputStream src)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a PipedInputStream so that it is connected to the piped output stream src and uses the specified pipe size for the pipe's buffer.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of bytes that can be read from this input stream without blocking.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes this piped input stream and releases any system resources associated with the stream.",
+            "Function": "receive(int b)",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

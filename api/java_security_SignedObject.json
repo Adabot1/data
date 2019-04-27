@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a SignedObject from any Serializable object.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Retrieves the name of the signature algorithm.",
+            "Function": "getObject()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Retrieves the encapsulated object.",
+            "Function": "getSignature()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Retrieves the signature on the signed object, in the form of a byte array.",
+            "Function": "verify(PublicKey verificationKey,Signature verificationEngine)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

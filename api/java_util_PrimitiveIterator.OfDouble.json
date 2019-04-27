@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+            "Function": "forEachRemaining(Consumer<? super Double> action)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+            "Function": "forEachRemaining(DoubleConsumer action)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Returns the next element in the iteration.",
+            "Function": "next()",
+            "Modifier and Type": "default Double"
+        },
+        {
+            "Comments": "Returns the next double element in the iteration.",
+            "Function": "nextDouble()",
+            "Modifier and Type": "double"
+        }
+    ]
+}

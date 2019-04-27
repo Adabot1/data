@@ -1,0 +1,119 @@
+{
+    "API": [
+        {
+            "Comments": "A typesafe enumeration for file-mapping modes.",
+            "Function": "FileChannel.MapMode",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "force(boolean metaData)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Forces any updates to this channel's file to be written to the storage device that contains it.",
+            "Function": "lock()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Acquires an exclusive lock on this channel's file.",
+            "Function": "lock(long position,long size,boolean shared)",
+            "Modifier and Type": "FileLock"
+        },
+        {
+            "Comments": "Acquires a lock on the given region of this channel's file.",
+            "Function": "map(FileChannel.MapMode mode, long position, long size)",
+            "Modifier and Type": "abstract FileLock"
+        },
+        {
+            "Comments": "Maps a region of this channel's file directly into memory.",
+            "Function": "open(Path path,OpenOption... options)",
+            "Modifier and Type": "abstract MappedByteBuffer"
+        },
+        {
+            "Comments": "Opens or creates a file, returning a file channel to access the file.",
+            "Function": "open(Path path,Set<? extends OpenOption> options,FileAttribute<?>... attrs)",
+            "Modifier and Type": "static FileChannel"
+        },
+        {
+            "Comments": "Opens or creates a file, returning a file channel to access the file.",
+            "Function": "position()",
+            "Modifier and Type": "static FileChannel"
+        },
+        {
+            "Comments": "Returns this channel's file position.",
+            "Function": "position(long newPosition)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Sets this channel's file position.",
+            "Function": "read(ByteBuffer dst)",
+            "Modifier and Type": "abstract FileChannel"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer.",
+            "Function": "read(ByteBuffer[] dsts)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffers.",
+            "Function": "read(ByteBuffer[] dsts,int offset,int length)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into a subsequence of the given buffers.",
+            "Function": "read(ByteBuffer dst,long position)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer, starting at the given file position.",
+            "Function": "size()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the current size of this channel's file.",
+            "Function": "transferFrom(ReadableByteChannel src,long position,long count)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Transfers bytes into this channel's file from the given readable byte channel.",
+            "Function": "transferTo(long position,long count,WritableByteChannel target)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Transfers bytes from this channel's file to the given writable byte channel.",
+            "Function": "truncate(long size)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Truncates this channel's file to the given size.",
+            "Function": "tryLock()",
+            "Modifier and Type": "abstract FileChannel"
+        },
+        {
+            "Comments": "Attempts to acquire an exclusive lock on this channel's file.",
+            "Function": "tryLock(long position, long size, boolean shared)",
+            "Modifier and Type": "FileLock"
+        },
+        {
+            "Comments": "Attempts to acquire a lock on the given region of this channel's file.",
+            "Function": "write(ByteBuffer src)",
+            "Modifier and Type": "abstract FileLock"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffer.",
+            "Function": "write(ByteBuffer[] srcs)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffers.",
+            "Function": "write(ByteBuffer[] srcs, int offset, int length)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from a subsequence of the given buffers.",
+            "Function": "write(ByteBuffer src, long position)",
+            "Modifier and Type": "abstract long"
+        }
+    ]
+}

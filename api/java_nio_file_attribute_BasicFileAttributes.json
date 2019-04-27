@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the creation time.",
+            "Function": "creationTime()",
+            "Modifier and Type": "FileTime"
+        },
+        {
+            "Comments": "Returns an object that uniquely identifies the given file, or  null if a file key is not available.",
+            "Function": "fileKey()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Tells whether the file is a directory.",
+            "Function": "isDirectory()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether the file is something other than a regular file, directory, or symbolic link.",
+            "Function": "isOther()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether the file is a regular file with opaque content.",
+            "Function": "isRegularFile()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether the file is a symbolic link.",
+            "Function": "isSymbolicLink()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the time of last access.",
+            "Function": "lastAccessTime()",
+            "Modifier and Type": "FileTime"
+        },
+        {
+            "Comments": "Returns the time of last modification.",
+            "Function": "lastModifiedTime()",
+            "Modifier and Type": "FileTime"
+        },
+        {
+            "Comments": "Returns the size of the file (in bytes).",
+            "Function": "size()",
+            "Modifier and Type": "long"
+        }
+    ]
+}

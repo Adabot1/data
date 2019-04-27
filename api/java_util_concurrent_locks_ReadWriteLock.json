@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the lock used for reading.",
+            "Function": "readLock()",
+            "Modifier and Type": "Lock"
+        },
+        {
+            "Comments": "Returns the lock used for writing.",
+            "Function": "writeLock()",
+            "Modifier and Type": "Lock"
+        }
+    ]
+}

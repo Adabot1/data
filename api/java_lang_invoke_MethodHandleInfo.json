@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_getField",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_getStatic",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_invokeInterface",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_invokeSpecial",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_invokeStatic",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_invokeVirtual",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_newInvokeSpecial",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_putField",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A direct method handle reference kind, as defined in the table above.",
+            "Function": "REF_putStatic",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the class in which the cracked method handle's underlying member was defined.",
+            "Function": "getDeclaringClass()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Returns the nominal type of the cracked symbolic reference, expressed as a method type.",
+            "Function": "getMethodType()",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Returns the access modifiers of the underlying member.",
+            "Function": "getModifiers()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the name of the cracked method handle's underlying member.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the reference kind of the cracked method handle, which in turn determines whether the method handle's underlying member was a constructor, method, or field.",
+            "Function": "getReferenceKind()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Determines if the underlying member was a variable arity method or constructor.",
+            "Function": "isVarArgs()",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Returns the descriptive name of the given reference kind, as defined in the table above.",
+            "Function": "referenceKindToString(int referenceKind)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Reflects the underlying member as a method, constructor, or field object.",
+            "Function": "reflectAs(Class<T> expected, MethodHandles.Lookup lookup)",
+            "Modifier and Type": "<T extends Member>T"
+        },
+        {
+            "Comments": "Returns a string representation for a MethodHandleInfo, given the four parts of its symbolic reference.",
+            "Function": "toString(int kind,Class<?> defc,String name,MethodType type)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

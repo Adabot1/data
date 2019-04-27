@@ -1,0 +1,129 @@
+{
+    "API": [
+        {
+            "Comments": "A style specifier for getDisplayName() indicating a long name, such as \"Pacific Standard Time.\"",
+            "Function": "LONG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName() indicating a short name, such as \"PST.\"",
+            "Function": "SHORT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sole constructor.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Creates a copy of this TimeZone.",
+            "Function": "getAvailableIDs()",
+            "Modifier and Type": "static String[]"
+        },
+        {
+            "Comments": "Gets all the available IDs supported.",
+            "Function": "getAvailableIDs(int rawOffset)",
+            "Modifier and Type": "static String[]"
+        },
+        {
+            "Comments": "Gets the available IDs according to the given time zone offset in milliseconds.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static TimeZone"
+        },
+        {
+            "Comments": "Gets the default TimeZone of the Java virtual machine.",
+            "Function": "getDisplayName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a long standard time name of this TimeZone suitable for presentation to the user in the default locale.",
+            "Function": "getDisplayName(boolean daylight,int style)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name in the specified style of this TimeZone suitable for presentation to the user in the default locale.",
+            "Function": "getDisplayName(boolean daylight,int style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name in the specified style of this TimeZone suitable for presentation to the user in the specified  locale.",
+            "Function": "getDisplayName(Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a long standard time name of this TimeZone suitable for presentation to the user in the specified locale.",
+            "Function": "getDSTSavings()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the amount of time to be added to local standard time to get local wall clock time.",
+            "Function": "getID()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the ID of this time zone.",
+            "Function": "getOffset(int era, int year, int month, int day, int dayOfWeek, int milliseconds)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Gets the time zone offset, for current date, modified in case of daylight savings.",
+            "Function": "getOffset(long date)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the offset of this time zone from UTC at the specified date.",
+            "Function": "getRawOffset()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the amount of time in milliseconds to add to UTC to get standard time in this time zone.",
+            "Function": "getTimeZone(String ID)",
+            "Modifier and Type": "static TimeZone"
+        },
+        {
+            "Comments": "Gets the TimeZone for the given ID.",
+            "Function": "getTimeZone(ZoneId zoneId)",
+            "Modifier and Type": "static TimeZone"
+        },
+        {
+            "Comments": "Gets the TimeZone for the given zoneId.",
+            "Function": "hasSameRules(TimeZone other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this zone has the same rule and offset as another zone.",
+            "Function": "inDaylightTime(Date date)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Queries if the given date is in Daylight Saving Time in this time zone.",
+            "Function": "observesDaylightTime()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this TimeZone is currently in Daylight Saving Time, or if a transition from Standard Time to Daylight Saving Time occurs at any future time.",
+            "Function": "setDefault(TimeZone zone)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the TimeZone that is returned by the getDefault method.",
+            "Function": "setID(String ID)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the time zone ID.",
+            "Function": "setRawOffset(int offsetMillis)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Sets the base time zone offset to GMT.",
+            "Function": "toZoneId()",
+            "Modifier and Type": "ZoneId"
+        },
+        {
+            "Comments": "Converts this TimeZone object to a ZoneId.",
+            "Function": "useDaylightTime()",
+            "Modifier and Type": "abstract boolean"
+        }
+    ]
+}

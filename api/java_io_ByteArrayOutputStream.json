@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "The buffer where data is stored.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "The number of valid bytes in the buffer.",
+            "Function": "count",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a new ByteArrayOutputStream.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new ByteArrayOutputStream, with a buffer capacity of the specified size, in bytes.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closing a ByteArrayOutputStream has no effect.",
+            "Function": "size()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Resets the count field of this ByteArrayOutputStream to zero, so that all currently accumulated output in the output stream is discarded.",
+            "Function": "toByteArray()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the current size of the buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates a newly allocated byte array.",
+            "Function": "toString(int hibyte)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts the buffer's contents into a string decoding bytes using the platform's default character set.",
+            "Function": "toString(String charsetName)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated.This method does not properly convert bytes into characters.",
+            "Function": "toString(Charset charset)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts the buffer's contents into a string by decoding the bytes using the named charset.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Converts the buffer's contents into a string by decoding the bytes using the specified charset.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes len bytes from the specified byte array starting at offset off to this ByteArrayOutputStream.",
+            "Function": "writeBytes(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes the specified byte to this ByteArrayOutputStream.",
+            "Function": "writeTo(OutputStream out)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

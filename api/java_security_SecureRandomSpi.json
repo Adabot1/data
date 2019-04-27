@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor without a parameter.",
+            "Function": "engineGenerateSeed(int numBytes)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Constructor with a parameter.",
+            "Function": "engineGetParameters()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the given number of seed bytes.",
+            "Function": "engineNextBytes(byte[] bytes)",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Returns the effective SecureRandomParameters for this SecureRandom instance.",
+            "Function": "engineNextBytes(byte[] bytes, SecureRandomParameters params)",
+            "Modifier and Type": "protected SecureRandomParameters"
+        },
+        {
+            "Comments": "Generates a user-specified number of random bytes.",
+            "Function": "engineReseed(SecureRandomParameters params)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Generates a user-specified number of random bytes with additional parameters.",
+            "Function": "engineSetSeed(byte[] seed)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Reseeds this random object with entropy input read from its entropy source with additional parameters.",
+            "Function": "toString()",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a KeyManagerFactory object.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the algorithm name of this KeyManagerFactory object.",
+            "Function": "getDefaultAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains the default KeyManagerFactory algorithm name.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a KeyManagerFactory object that acts as a factory for key managers.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static KeyManagerFactory"
+        },
+        {
+            "Comments": "Returns a KeyManagerFactory object that acts as a factory for key managers.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static KeyManagerFactory"
+        },
+        {
+            "Comments": "Returns a KeyManagerFactory object that acts as a factory for key managers.",
+            "Function": "getKeyManagers()",
+            "Modifier and Type": "static KeyManagerFactory"
+        },
+        {
+            "Comments": "Returns one key manager for each type of key material.",
+            "Function": "getProvider()",
+            "Modifier and Type": "KeyManager[]"
+        },
+        {
+            "Comments": "Returns the provider of this KeyManagerFactory object.",
+            "Function": "init(KeyStore ks,char[] password)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initializes this factory with a source of key material.",
+            "Function": "init(ManagerFactoryParameters spec)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

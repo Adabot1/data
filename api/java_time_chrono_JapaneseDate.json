@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this date to another date, including the chronology.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains a JapaneseDate from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static JapaneseDate"
+        },
+        {
+            "Comments": "Gets the chronology of this date, which is the Japanese calendar system.",
+            "Function": "getChronology()",
+            "Modifier and Type": "JapaneseChronology"
+        },
+        {
+            "Comments": "Gets the era applicable at this date.",
+            "Function": "getEra()",
+            "Modifier and Type": "JapaneseEra"
+        },
+        {
+            "Comments": "A hash code for this date.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the length of the month represented by this date.",
+            "Function": "lengthOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount subtracted.",
+            "Function": "minus(TemporalAmount amount)",
+            "Modifier and Type": "JapaneseDate"
+        },
+        {
+            "Comments": "Obtains the current JapaneseDate from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static JapaneseDate"
+        },
+        {
+            "Comments": "Obtains the current JapaneseDate from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static JapaneseDate"
+        },
+        {
+            "Comments": "Obtains the current JapaneseDate from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static JapaneseDate"
+        },
+        {
+            "Comments": "Obtains a JapaneseDate representing a date in the Japanese calendar system from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "of(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "static JapaneseDate"
+        },
+        {
+            "Comments": "Obtains a JapaneseDate representing a date in the Japanese calendar system from the era, year-of-era, month-of-year and day-of-month fields.",
+            "Function": "of(JapaneseEra era,int yearOfEra,int month,int dayOfMonth)",
+            "Modifier and Type": "static JapaneseDate"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount added.",
+            "Function": "plus(TemporalAmount amount)",
+            "Modifier and Type": "JapaneseDate"
+        },
+        {
+            "Comments": "Returns a string representation of the object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Calculates the amount of time until another date in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted object of the same type as this object with the adjustment made.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "JapaneseDate"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of ReentrantLock.",
+            "Function": "getHoldCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates an instance of ReentrantLock with the given fairness policy.",
+            "Function": "getOwner()",
+            "Modifier and Type": "protected Thread"
+        },
+        {
+            "Comments": "Queries the number of holds on this lock by the current thread.",
+            "Function": "getQueuedThreads()",
+            "Modifier and Type": "protected Collection<Thread>"
+        },
+        {
+            "Comments": "Returns the thread that currently owns this lock, or null if not owned.",
+            "Function": "getQueueLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire this lock.",
+            "Function": "getWaitingThreads(Condition condition)",
+            "Modifier and Type": "protected Collection<Thread>"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads waiting to acquire this lock.",
+            "Function": "getWaitQueueLength(Condition condition)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a collection containing those threads that may be waiting on the given condition associated with this lock.",
+            "Function": "hasQueuedThread(Thread thread)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads waiting on the given condition associated with this lock.",
+            "Function": "hasQueuedThreads()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether the given thread is waiting to acquire this lock.",
+            "Function": "hasWaiters(Condition condition)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads are waiting to acquire this lock.",
+            "Function": "isFair()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads are waiting on the given condition associated with this lock.",
+            "Function": "isHeldByCurrentThread()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this lock has fairness set true.",
+            "Function": "isLocked()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries if this lock is held by the current thread.",
+            "Function": "lock()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Queries if this lock is held by any thread.",
+            "Function": "lockInterruptibly()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires the lock.",
+            "Function": "newCondition()",
+            "Modifier and Type": "Condition"
+        },
+        {
+            "Comments": "Acquires the lock unless the current thread is interrupted.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a Condition instance for use with this Lock instance.",
+            "Function": "tryLock()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a string identifying this lock, as well as its lock state.",
+            "Function": "tryLock(long timeout, TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Acquires the lock only if it is not held by another thread at the time of invocation.",
+            "Function": "unlock()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

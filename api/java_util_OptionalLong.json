@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an empty OptionalLong instance.",
+            "Function": "empty()",
+            "Modifier and Type": "static OptionalLong"
+        },
+        {
+            "Comments": "Indicates whether some other object is \"equal to\" this OptionalLong.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws NoSuchElementException.",
+            "Function": "getAsLong()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the hash code of the value, if present, otherwise 0 (zero) if no value is present.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "If a value is present, performs the given action with the value, otherwise does nothing.",
+            "Function": "ifPresent(LongConsumer action)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If a value is present, performs the given action with the value, otherwise performs the given empty-based action.",
+            "Function": "ifPresentOrElse(LongConsumer action, Runnable emptyAction)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If a value is not present, returns true, otherwise false.",
+            "Function": "isEmpty()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "If a value is present, returns true, otherwise false.",
+            "Function": "isPresent()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an OptionalLong describing the given value.",
+            "Function": "of(long value)",
+            "Modifier and Type": "static OptionalLong"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise returns other.",
+            "Function": "orElse(long other)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise returns the result produced by the supplying function.",
+            "Function": "orElseGet(LongSupplier supplier)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws NoSuchElementException.",
+            "Function": "orElseThrow()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws an exception produced by the exception supplying function.",
+            "Function": "orElseThrow(Supplier<? extends X> exceptionSupplier)",
+            "Modifier and Type": "<X extends Throwable>long"
+        },
+        {
+            "Comments": "If a value is present, returns a sequential LongStream containing only that value, otherwise returns an empty LongStream.",
+            "Function": "stream()",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns a non-empty string representation of this OptionalLong suitable for debugging.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

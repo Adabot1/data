@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Julian Day field.",
+            "Function": "JULIAN_DAY",
+            "Modifier and Type": "static TemporalField"
+        },
+        {
+            "Comments": "Modified Julian Day field.",
+            "Function": "MODIFIED_JULIAN_DAY",
+            "Modifier and Type": "static TemporalField"
+        },
+        {
+            "Comments": "Rata Die field.",
+            "Function": "RATA_DIE",
+            "Modifier and Type": "static TemporalField"
+        }
+    ]
+}

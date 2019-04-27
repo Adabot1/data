@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Construct new CertPathTrustManagerParameters from the specified parameters.",
+            "Function": "getParameters()",
+            "Modifier and Type": "CertPathParameters"
+        }
+    ]
+}

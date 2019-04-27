@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the name of the attribute view.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads the basic file attributes as a bulk operation.",
+            "Function": "readAttributes()",
+            "Modifier and Type": "PosixFileAttributes"
+        },
+        {
+            "Comments": "Updates the file group-owner.",
+            "Function": "setGroup(GroupPrincipal group)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the file permissions.",
+            "Function": "setPermissions(Set<PosixFilePermission> perms)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

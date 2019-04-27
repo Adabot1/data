@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Constant indicating that the base direction depends on the first strong directional character in the text according to the Unicode Bidirectional Algorithm.",
+            "Function": "DIRECTION_DEFAULT_LEFT_TO_RIGHT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant indicating that the base direction depends on the first strong directional character in the text according to the Unicode Bidirectional Algorithm.",
+            "Function": "DIRECTION_DEFAULT_RIGHT_TO_LEFT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant indicating base direction is left-to-right.",
+            "Function": "DIRECTION_LEFT_TO_RIGHT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant indicating base direction is right-to-left.",
+            "Function": "DIRECTION_RIGHT_TO_LEFT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Create Bidi from the given text, embedding, and direction information.",
+            "Function": "baseIsLeftToRight()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Create Bidi from the given paragraph of text and base direction.",
+            "Function": "createLineBidi(int lineStart,int lineLimit)",
+            "Modifier and Type": "Bidi"
+        },
+        {
+            "Comments": "Create Bidi from the given paragraph of text.",
+            "Function": "getBaseLevel()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return true if the base direction is left-to-right.",
+            "Function": "getLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Create a Bidi object representing the bidi information on a line of text within the paragraph represented by the current Bidi.",
+            "Function": "getLevelAt(int offset)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return the base level (0 if left-to-right, 1 if right-to-left).",
+            "Function": "getRunCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return the length of text in the line.",
+            "Function": "getRunLevel(int run)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return the resolved level of the character at offset.",
+            "Function": "getRunLimit(int run)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return the number of level runs.",
+            "Function": "getRunStart(int run)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return the level of the nth logical run in this line.",
+            "Function": "isLeftToRight()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Return the index of the character past the end of the nth logical run in this line, as an offset from the start of the line.",
+            "Function": "isMixed()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Return the index of the character at the start of the nth logical run in this line, as an offset from the start of the line.",
+            "Function": "isRightToLeft()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Return true if the line is all left-to-right text and the base direction is left-to-right.",
+            "Function": "reorderVisually(byte[] levels, int levelStart, Object[] objects, int objectStart, int count)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Return true if the line is not left-to-right or right-to-left.",
+            "Function": "requiresBidi(char[] text,int start,int limit)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the line is all right-to-left text, and the base direction is right-to-left.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

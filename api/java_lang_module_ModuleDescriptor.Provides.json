@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this provides to another.",
+            "Function": "compareTo(ModuleDescriptor.Provides that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests this provides for equality with the given object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Computes a hash code for this provides.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the list of the fully qualified class names of the providers or provider factories.",
+            "Function": "providers()",
+            "Modifier and Type": "List<String>"
+        },
+        {
+            "Comments": "Returns the fully qualified class name of the service type.",
+            "Function": "service()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string describing this provides.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

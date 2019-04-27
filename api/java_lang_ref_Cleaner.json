@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Cleanable represents an object and a cleaning action registered in a Cleaner.",
+            "Function": "Cleaner.Cleanable",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Returns a new Cleaner.",
+            "Function": "create()",
+            "Modifier and Type": "static Cleaner"
+        },
+        {
+            "Comments": "Returns a new Cleaner using a Thread from the ThreadFactory.",
+            "Function": "create(ThreadFactory threadFactory)",
+            "Modifier and Type": "static Cleaner"
+        },
+        {
+            "Comments": "Registers an object and a cleaning action to run when the object becomes phantom reachable.",
+            "Function": "register(Object obj,Runnable action)",
+            "Modifier and Type": "Cleaner.Cleanable"
+        }
+    ]
+}

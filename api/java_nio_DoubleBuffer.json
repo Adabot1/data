@@ -1,0 +1,134 @@
+{
+    "API": [
+        {
+            "Comments": "Allocates a new double buffer.",
+            "Function": "allocate(int capacity)",
+            "Modifier and Type": "static DoubleBuffer"
+        },
+        {
+            "Comments": "Returns the double array that backs this buffer  (optional operation).",
+            "Function": "array()",
+            "Modifier and Type": "double[]"
+        },
+        {
+            "Comments": "Returns the offset within this buffer's backing array of the first element of the buffer  (optional operation).",
+            "Function": "arrayOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new, read-only double buffer that shares this buffer's content.",
+            "Function": "asReadOnlyBuffer()",
+            "Modifier and Type": "abstract DoubleBuffer"
+        },
+        {
+            "Comments": "Compacts this buffer  (optional operation).",
+            "Function": "compact()",
+            "Modifier and Type": "abstract DoubleBuffer"
+        },
+        {
+            "Comments": "Compares this buffer to another.",
+            "Function": "compareTo(DoubleBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new double buffer that shares this buffer's content.",
+            "Function": "duplicate()",
+            "Modifier and Type": "abstract DoubleBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is equal to another object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Relative get method.",
+            "Function": "get()",
+            "Modifier and Type": "abstract double"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(double[] dst)",
+            "Modifier and Type": "DoubleBuffer"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(double[] dst, int offset, int length)",
+            "Modifier and Type": "DoubleBuffer"
+        },
+        {
+            "Comments": "Absolute get method.",
+            "Function": "get(int index)",
+            "Modifier and Type": "abstract double"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is backed by an accessible double array.",
+            "Function": "hasArray()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the current hash code of this buffer.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this double buffer is direct.",
+            "Function": "isDirect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Finds and returns the relative index of the first mismatch between this buffer and a given buffer.",
+            "Function": "mismatch(DoubleBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieves this buffer's byte order.",
+            "Function": "order()",
+            "Modifier and Type": "abstract ByteOrder"
+        },
+        {
+            "Comments": "Relative put method  (optional operation).",
+            "Function": "put(double d)",
+            "Modifier and Type": "abstract DoubleBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(double[] src)",
+            "Modifier and Type": "DoubleBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(double[] src, int offset, int length)",
+            "Modifier and Type": "DoubleBuffer"
+        },
+        {
+            "Comments": "Absolute put method  (optional operation).",
+            "Function": "put(int index, double d)",
+            "Modifier and Type": "abstract DoubleBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(DoubleBuffer src)",
+            "Modifier and Type": "DoubleBuffer"
+        },
+        {
+            "Comments": "Creates a new double buffer whose content is a shared subsequence of this buffer's content.",
+            "Function": "slice()",
+            "Modifier and Type": "abstract DoubleBuffer"
+        },
+        {
+            "Comments": "Returns a string summarizing the state of this buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Wraps a double array into a buffer.",
+            "Function": "wrap(double[] array)",
+            "Modifier and Type": "static DoubleBuffer"
+        },
+        {
+            "Comments": "Wraps a double array into a buffer.",
+            "Function": "wrap(double[] array,int offset,int length)",
+            "Modifier and Type": "static DoubleBuffer"
+        }
+    ]
+}

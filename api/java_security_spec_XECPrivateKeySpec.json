@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a private key spec using the supplied parameters and encoded scalar value.",
+            "Function": "getParams()",
+            "Modifier and Type": "AlgorithmParameterSpec"
+        },
+        {
+            "Comments": "Get the algorithm parameters that define the curve and other settings.",
+            "Function": "getScalar()",
+            "Modifier and Type": "byte[]"
+        }
+    ]
+}

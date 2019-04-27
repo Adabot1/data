@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "The standard set of non-localized decimal style symbols.",
+            "Function": "STANDARD",
+            "Modifier and Type": "static DecimalStyle"
+        },
+        {
+            "Comments": "Checks if this DecimalStyle is equal to another DecimalStyle.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Lists all the locales that are supported.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "static Set<Locale>"
+        },
+        {
+            "Comments": "Gets the character that represents the decimal point.",
+            "Function": "getDecimalSeparator()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character that represents the negative sign.",
+            "Function": "getNegativeSign()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character that represents the positive sign.",
+            "Function": "getPositiveSign()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character that represents zero.",
+            "Function": "getZeroDigit()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "A hash code for this DecimalStyle.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Obtains the DecimalStyle for the specified locale.",
+            "Function": "of(Locale locale)",
+            "Modifier and Type": "static DecimalStyle"
+        },
+        {
+            "Comments": "Obtains the DecimalStyle for the default FORMAT locale.",
+            "Function": "ofDefaultLocale()",
+            "Modifier and Type": "static DecimalStyle"
+        },
+        {
+            "Comments": "Returns a string describing this DecimalStyle.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of the info with a new character that represents the decimal point.",
+            "Function": "withDecimalSeparator(char decimalSeparator)",
+            "Modifier and Type": "DecimalStyle"
+        },
+        {
+            "Comments": "Returns a copy of the info with a new character that represents the negative sign.",
+            "Function": "withNegativeSign(char negativeSign)",
+            "Modifier and Type": "DecimalStyle"
+        },
+        {
+            "Comments": "Returns a copy of the info with a new character that represents the positive sign.",
+            "Function": "withPositiveSign(char positiveSign)",
+            "Modifier and Type": "DecimalStyle"
+        },
+        {
+            "Comments": "Returns a copy of the info with a new character that represents zero.",
+            "Function": "withZeroDigit(char zeroDigit)",
+            "Modifier and Type": "DecimalStyle"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Executes the next phase of this key agreement with the given key that was received from one of the other parties involved in this key agreement.",
+            "Function": "engineDoPhase(Key key, boolean lastPhase)",
+            "Modifier and Type": "protected abstract Key"
+        },
+        {
+            "Comments": "Generates the shared secret and returns it in a new buffer.",
+            "Function": "engineGenerateSecret()",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Generates the shared secret, and places it into the buffer sharedSecret, beginning at offset inclusive.",
+            "Function": "engineGenerateSecret(byte[] sharedSecret,int offset)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Creates the shared secret and returns it as a secret key object of the requested algorithm type.",
+            "Function": "engineGenerateSecret(String algorithm)",
+            "Modifier and Type": "protected abstract SecretKey"
+        },
+        {
+            "Comments": "Initializes this key agreement with the given key and source of randomness.",
+            "Function": "engineInit(Key key,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this key agreement with the given key, set of algorithm parameters, and source of randomness.",
+            "Function": "engineInit(Key key,AlgorithmParameterSpec params,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        }
+    ]
+}

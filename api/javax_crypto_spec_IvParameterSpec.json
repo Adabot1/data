@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an IvParameterSpec object using the bytes in iv as the IV.",
+            "Function": "getIV()",
+            "Modifier and Type": "byte[]"
+        }
+    ]
+}

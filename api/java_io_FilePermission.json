@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new FilePermission object with the specified actions.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks two FilePermission objects for equality.",
+            "Function": "getActions()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the \"canonical string representation\" of the actions.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hash code value for this object.",
+            "Function": "implies(Permission p)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this FilePermission object \"implies\" the specified permission.",
+            "Function": "newPermissionCollection()",
+            "Modifier and Type": "PermissionCollection"
+        }
+    ]
+}

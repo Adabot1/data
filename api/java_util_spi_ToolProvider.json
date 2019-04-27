@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the first instance of a ToolProvider with the given name, as loaded by ServiceLoader using the system class loader.",
+            "Function": "findFirst(String name)",
+            "Modifier and Type": "static Optional<ToolProvider>"
+        },
+        {
+            "Comments": "Returns the name of this tool provider.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Runs an instance of the tool, returning zero for a successful run.",
+            "Function": "run(PrintStream out, PrintStream err, String... args)",
+            "Modifier and Type": "default int"
+        },
+        {
+            "Comments": "Runs an instance of the tool, returning zero for a successful run.",
+            "Function": "run(PrintWriter out, PrintWriter err, String... args)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

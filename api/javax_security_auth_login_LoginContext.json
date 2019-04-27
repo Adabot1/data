@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Instantiate a new LoginContext object with a name.",
+            "Function": "getSubject()",
+            "Modifier and Type": "Subject"
+        },
+        {
+            "Comments": "Instantiate a new LoginContext object with a name and a CallbackHandler object.",
+            "Function": "login()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Instantiate a new LoginContext object with a name and a Subject object.",
+            "Function": "logout()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

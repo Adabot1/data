@@ -1,0 +1,209 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new instance of the builder.",
+            "Function": "append(DateTimeFormatter formatter)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends all the elements of a formatter to the builder.",
+            "Function": "appendChronologyId()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the chronology ID, such as 'ISO' or 'ThaiBuddhist', to the formatter.",
+            "Function": "appendChronologyText(TextStyle textStyle)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the chronology name to the formatter.",
+            "Function": "appendFraction(TemporalField field,int minWidth,int maxWidth,boolean decimalPoint)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the fractional value of a date-time field to the formatter.",
+            "Function": "appendGenericZoneText(TextStyle textStyle)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the generic time-zone name, such as 'Pacific Time', to the formatter.",
+            "Function": "appendGenericZoneText(TextStyle textStyle, Set<ZoneId> preferredZones)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the generic time-zone name, such as 'Pacific Time', to the formatter.",
+            "Function": "appendInstant()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends an instant using ISO-8601 to the formatter, formatting fractional digits in groups of three.",
+            "Function": "appendInstant(int fractionalDigits)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends an instant using ISO-8601 to the formatter with control over the number of fractional digits.",
+            "Function": "appendLiteral(char literal)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends a character literal to the formatter.",
+            "Function": "appendLiteral(String literal)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends a string literal to the formatter.",
+            "Function": "appendLocalized(FormatStyle dateStyle, FormatStyle timeStyle)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends a localized date-time pattern to the formatter.",
+            "Function": "appendLocalizedOffset(TextStyle style)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the localized zone offset, such as 'GMT+01:00', to the formatter.",
+            "Function": "appendOffset(String pattern,String noOffsetText)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the zone offset, such as '+01:00', to the formatter.",
+            "Function": "appendOffsetId()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the zone offset, such as '+01:00', to the formatter.",
+            "Function": "appendOptional(DateTimeFormatter formatter)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends a formatter to the builder which will optionally format/parse.",
+            "Function": "appendPattern(String pattern)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the elements defined by the specified pattern to the builder.",
+            "Function": "appendText(TemporalField field)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the text of a date-time field to the formatter using the full text style.",
+            "Function": "appendText(TemporalField field,TextStyle textStyle)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the text of a date-time field to the formatter.",
+            "Function": "appendText(TemporalField field,Map<Long,String> textLookup)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the text of a date-time field to the formatter using the specified map to supply the text.",
+            "Function": "appendValue(TemporalField field)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the value of a date-time field to the formatter using a normal output style.",
+            "Function": "appendValue(TemporalField field, int width)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the value of a date-time field to the formatter using a fixed width, zero-padded approach.",
+            "Function": "appendValue(TemporalField field, int minWidth, int maxWidth, SignStyle signStyle)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the value of a date-time field to the formatter providing full control over formatting.",
+            "Function": "appendValueReduced(TemporalField field,int width,int maxWidth,int baseValue)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the reduced value of a date-time field to the formatter.",
+            "Function": "appendValueReduced(TemporalField field,int width,int maxWidth,ChronoLocalDate baseDate)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the reduced value of a date-time field to the formatter.",
+            "Function": "appendZoneId()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the time-zone ID, such as 'Europe/Paris' or '+02:00', to the formatter.",
+            "Function": "appendZoneOrOffsetId()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the time-zone ID, such as 'Europe/Paris' or '+02:00', to the formatter, using the best available zone ID.",
+            "Function": "appendZoneRegionId()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the time-zone region ID, such as 'Europe/Paris', to the formatter, rejecting the zone ID if it is a ZoneOffset.",
+            "Function": "appendZoneText(TextStyle textStyle)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the time-zone name, such as 'British Summer Time', to the formatter.",
+            "Function": "appendZoneText(TextStyle textStyle,Set<ZoneId> preferredZones)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends the time-zone name, such as 'British Summer Time', to the formatter.",
+            "Function": "getLocalizedDateTimePattern(FormatStyle dateStyle, FormatStyle timeStyle, Chronology chrono, Locale locale)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Gets the formatting pattern for date and time styles for a locale and chronology.",
+            "Function": "optionalEnd()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Ends an optional section.",
+            "Function": "optionalStart()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Mark the start of an optional section.",
+            "Function": "padNext(int padWidth)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Causes the next added printer/parser to pad to a fixed width using a space.",
+            "Function": "padNext(int padWidth, char padChar)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Causes the next added printer/parser to pad to a fixed width.",
+            "Function": "parseCaseInsensitive()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Changes the parse style to be case insensitive for the remainder of the formatter.",
+            "Function": "parseCaseSensitive()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Changes the parse style to be case sensitive for the remainder of the formatter.",
+            "Function": "parseDefaulting(TemporalField field, long value)",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Appends a default value for a field to the formatter for use in parsing.",
+            "Function": "parseLenient()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Changes the parse style to be lenient for the remainder of the formatter.",
+            "Function": "parseStrict()",
+            "Modifier and Type": "DateTimeFormatterBuilder"
+        },
+        {
+            "Comments": "Changes the parse style to be strict for the remainder of the formatter.",
+            "Function": "toFormatter()",
+            "Modifier and Type": "DateTimeFormatter"
+        },
+        {
+            "Comments": "Completes this builder by creating the DateTimeFormatter using the default locale.",
+            "Function": "toFormatter(Locale locale)",
+            "Modifier and Type": "DateTimeFormatter"
+        }
+    ]
+}

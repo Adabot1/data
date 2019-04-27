@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Represents the proxy type.",
+            "Function": "Proxy.Type",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A proxy setting that represents a DIRECT connection, basically telling the protocol handler not to use any proxying.",
+            "Function": "NO_PROXY",
+            "Modifier and Type": "static Proxy"
+        },
+        {
+            "Comments": "Creates an entry representing a PROXY connection.",
+            "Function": "address()",
+            "Modifier and Type": "SocketAddress"
+        },
+        {
+            "Comments": "Returns the socket address of the proxy, or null if its a direct connection.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hashcode for this Proxy.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Constructs a string representation of this Proxy.",
+            "Function": "type()",
+            "Modifier and Type": "Proxy.Type"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a CipherInputStream from an InputStream without specifying a Cipher.",
+            "Function": "available()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructs a CipherInputStream from an InputStream and a Cipher.",
+            "Function": "close()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Returns the number of bytes that can be read from this input stream without blocking.",
+            "Function": "markSupported()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes this input stream and releases any system resources associated with the stream.",
+            "Function": "read()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if this input stream supports the mark and reset methods, which it does not.",
+            "Function": "read(byte[] b)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads the next byte of data from this input stream.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads up to b.length bytes of data from this input stream into an array of bytes.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

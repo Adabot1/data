@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a stack trace element representing the specified execution point.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a stack trace element representing the specified execution point.",
+            "Function": "getClassLoaderName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns true if the specified object is another StackTraceElement instance representing the same execution point as this instance.",
+            "Function": "getClassName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the name of the class loader of the class containing the execution point represented by this stack trace element.",
+            "Function": "getFileName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the fully qualified name of the class containing the execution point represented by this stack trace element.",
+            "Function": "getLineNumber()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the name of the source file containing the execution point represented by this stack trace element.",
+            "Function": "getMethodName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the line number of the source line containing the execution point represented by this stack trace element.",
+            "Function": "getModuleName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the name of the method containing the execution point represented by this stack trace element.",
+            "Function": "getModuleVersion()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the module name of the module containing the execution point represented by this stack trace element.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the module version of the module containing the execution point represented by this stack trace element.",
+            "Function": "isNativeMethod()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a hash code value for this stack trace element.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

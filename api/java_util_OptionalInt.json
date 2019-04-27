@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an empty OptionalInt instance.",
+            "Function": "empty()",
+            "Modifier and Type": "static OptionalInt"
+        },
+        {
+            "Comments": "Indicates whether some other object is \"equal to\" this OptionalInt.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws NoSuchElementException.",
+            "Function": "getAsInt()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hash code of the value, if present, otherwise 0 (zero) if no value is present.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "If a value is present, performs the given action with the value, otherwise does nothing.",
+            "Function": "ifPresent(IntConsumer action)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If a value is present, performs the given action with the value, otherwise performs the given empty-based action.",
+            "Function": "ifPresentOrElse(IntConsumer action, Runnable emptyAction)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If a value is not present, returns true, otherwise false.",
+            "Function": "isEmpty()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "If a value is present, returns true, otherwise false.",
+            "Function": "isPresent()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an OptionalInt describing the given value.",
+            "Function": "of(int value)",
+            "Modifier and Type": "static OptionalInt"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise returns other.",
+            "Function": "orElse(int other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise returns the result produced by the supplying function.",
+            "Function": "orElseGet(IntSupplier supplier)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws NoSuchElementException.",
+            "Function": "orElseThrow()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws an exception produced by the exception supplying function.",
+            "Function": "orElseThrow(Supplier<? extends X> exceptionSupplier)",
+            "Modifier and Type": "<X extends Throwable>int"
+        },
+        {
+            "Comments": "If a value is present, returns a sequential IntStream containing only that value, otherwise returns an empty IntStream.",
+            "Function": "stream()",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns a non-empty string representation of this OptionalInt suitable for debugging.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

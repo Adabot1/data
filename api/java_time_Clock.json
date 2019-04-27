@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor accessible by subclasses.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Checks if this clock is equal to another clock.",
+            "Function": "fixed(Instant fixedInstant, ZoneId zone)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains a clock that always returns the same instant.",
+            "Function": "getZone()",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Gets the time-zone being used to create dates and times.",
+            "Function": "hashCode()",
+            "Modifier and Type": "abstract ZoneId"
+        },
+        {
+            "Comments": "A hash code for this clock.",
+            "Function": "instant()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the current instant of the clock.",
+            "Function": "millis()",
+            "Modifier and Type": "abstract Instant"
+        },
+        {
+            "Comments": "Gets the current millisecond instant of the clock.",
+            "Function": "offset(Clock baseClock,Duration offsetDuration)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Obtains a clock that returns instants from the specified clock with the specified duration added",
+            "Function": "system(ZoneId zone)",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Obtains a clock that returns the current instant using the best available system clock.",
+            "Function": "systemDefaultZone()",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Obtains a clock that returns the current instant using the best available system clock, converting to date and time using the default time-zone.",
+            "Function": "systemUTC()",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Obtains a clock that returns the current instant using the best available system clock, converting to date and time using the UTC time-zone.",
+            "Function": "tick(Clock baseClock,Duration tickDuration)",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Obtains a clock that returns instants from the specified clock truncated to the nearest occurrence of the specified duration.",
+            "Function": "tickMillis(ZoneId zone)",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Obtains a clock that returns the current instant ticking in whole milliseconds using the best available system clock.",
+            "Function": "tickMinutes(ZoneId zone)",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Obtains a clock that returns the current instant ticking in whole minutes using the best available system clock.",
+            "Function": "tickSeconds(ZoneId zone)",
+            "Modifier and Type": "static Clock"
+        },
+        {
+            "Comments": "Obtains a clock that returns the current instant ticking in whole seconds using the best available system clock.",
+            "Function": "withZone(ZoneId zone)",
+            "Modifier and Type": "static Clock"
+        }
+    ]
+}

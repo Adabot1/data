@@ -1,0 +1,104 @@
+{
+    "API": [
+        {
+            "Comments": "The Attributes.Name class represents an attribute name stored in this Map.",
+            "Function": "Attributes.Name",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "The attribute name-value mappings.",
+            "Function": "map",
+            "Modifier and Type": "protected Map<Object,​Object>"
+        },
+        {
+            "Comments": "Constructs a new, empty Attributes object with default size.",
+            "Function": "clear()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a new, empty Attributes object with the specified initial size.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Constructs a new Attributes object with the same attribute name-value mappings as in the specified Attributes.",
+            "Function": "containsKey(Object name)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Removes all attributes from this Map.",
+            "Function": "containsValue(Object value)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of the Attributes, implemented as follows:",
+            "Function": "entrySet()",
+            "Modifier and Type": "Set<Map.Entry<Object,​Object>>"
+        },
+        {
+            "Comments": "Returns true if this Map contains the specified attribute name (key).",
+            "Function": "equals(Object o)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this Map maps one or more attribute names (keys) to the specified value.",
+            "Function": "get(Object name)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns a Collection view of the attribute name-value mappings contained in this Map.",
+            "Function": "getValue(String name)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compares the specified Attributes object with this Map for equality.",
+            "Function": "getValue(Attributes.Name name)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the specified attribute name, or null if the attribute name was not found.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the value of the specified attribute name, specified as a string, or null if the attribute was not found.",
+            "Function": "isEmpty()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the specified Attributes.Name, or null if the attribute was not found.",
+            "Function": "keySet()",
+            "Modifier and Type": "Set<Object>"
+        },
+        {
+            "Comments": "Returns the hash code value for this Map.",
+            "Function": "put(Object name, Object value)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns true if this Map contains no attributes.",
+            "Function": "putAll(Map<?,?> attr)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a Set view of the attribute names (keys) contained in this Map.",
+            "Function": "putValue(String name,String value)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Associates the specified value with the specified attribute name (key) in this Map.",
+            "Function": "remove(Object name)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Copies all of the attribute name-value mappings from the specified Attributes to this Map.",
+            "Function": "size()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Associates the specified value with the specified attribute name, specified as a String.",
+            "Function": "values()",
+            "Modifier and Type": "Collection<Object>"
+        }
+    ]
+}

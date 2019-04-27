@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Unicode script \"Adlam\".",
+            "Function": "forName(String scriptName)",
+            "Modifier and Type": "static Character.UnicodeScript"
+        },
+        {
+            "Comments": "Unicode script \"Ahom\".",
+            "Function": "of(int codePoint)",
+            "Modifier and Type": "static Character.UnicodeScript"
+        },
+        {
+            "Comments": "Unicode script \"Anatolian Hieroglyphs\".",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Character.UnicodeScript"
+        },
+        {
+            "Comments": "Unicode script \"Arabic\".",
+            "Function": "values()",
+            "Modifier and Type": "static Character.UnicodeScript[]"
+        }
+    ]
+}

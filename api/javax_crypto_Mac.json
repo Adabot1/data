@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a MAC object.",
+            "Function": "clone()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a clone if the provider implementation is cloneable.",
+            "Function": "doFinal()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Finishes the MAC operation.",
+            "Function": "doFinal(byte[] input)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Processes the given array of bytes and finishes the MAC operation.",
+            "Function": "doFinal(byte[] output, int outOffset)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Finishes the MAC operation.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the algorithm name of this Mac object.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a Mac object that implements the specified MAC algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static Mac"
+        },
+        {
+            "Comments": "Returns a Mac object that implements the specified MAC algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static Mac"
+        },
+        {
+            "Comments": "Returns a Mac object that implements the specified MAC algorithm.",
+            "Function": "getMacLength()",
+            "Modifier and Type": "static Mac"
+        },
+        {
+            "Comments": "Returns the length of the MAC in bytes.",
+            "Function": "getProvider()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the provider of this Mac object.",
+            "Function": "init(Key key)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initializes this Mac object with the given key.",
+            "Function": "init(Key key,AlgorithmParameterSpec params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this Mac object with the given key and algorithm parameters.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets this Mac object.",
+            "Function": "update(byte input)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Processes the given byte.",
+            "Function": "update(byte[] input)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Processes the given array of bytes.",
+            "Function": "update(byte[] input,int offset,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Processes the first len bytes in input, starting at offset inclusive.",
+            "Function": "update(ByteBuffer input)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

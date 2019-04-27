@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Obtains an array of supported signature algorithms that the local side is willing to use.",
+            "Function": "getLocalSupportedSignatureAlgorithms()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Obtains an array of supported signature algorithms that the peer is able to use.",
+            "Function": "getPeerSupportedSignatureAlgorithms()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Obtains a List containing all SNIServerNames of the requested Server Name Indication (SNI) extension.",
+            "Function": "getRequestedServerNames()",
+            "Modifier and Type": "List<SNIServerName>"
+        },
+        {
+            "Comments": "Returns a List containing DER-encoded OCSP responses (using the ASN.1 type OCSPResponse defined in RFC 6960) for the client to verify status of the server's certificate during handshaking.",
+            "Function": "getStatusResponses()",
+            "Modifier and Type": "List<byte[]>"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a public key spec using the supplied parameters and u coordinate.",
+            "Function": "getParams()",
+            "Modifier and Type": "AlgorithmParameterSpec"
+        },
+        {
+            "Comments": "Get the algorithm parameters that define the curve and other settings.",
+            "Function": "getU()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

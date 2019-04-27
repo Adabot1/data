@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer.",
+            "Function": "read(ByteBuffer dst)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "API": [
+        {
+            "Comments": "The system-dependent path-separator character, represented as a string for convenience.",
+            "Function": "pathSeparator",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The system-dependent path-separator character.",
+            "Function": "pathSeparatorChar",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The system-dependent default name-separator character, represented as a string for convenience.",
+            "Function": "separator",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The system-dependent default name-separator character.",
+            "Function": "separatorChar",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Creates a new File instance from a parent abstract pathname and a child pathname string.",
+            "Function": "canExecute()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new File instance by converting the given pathname string into an abstract pathname.",
+            "Function": "canRead()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new File instance from a parent pathname string and a child pathname string.",
+            "Function": "canWrite()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new File instance by converting the given file: URI into an abstract pathname.",
+            "Function": "compareTo(File pathname)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests whether the application can execute the file denoted by this abstract pathname.",
+            "Function": "createNewFile()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests whether the application can read the file denoted by this abstract pathname.",
+            "Function": "createTempFile(String prefix,String suffix)",
+            "Modifier and Type": "static File"
+        },
+        {
+            "Comments": "Tests whether the application can modify the file denoted by this abstract pathname.",
+            "Function": "createTempFile(String prefix,String suffix,File directory)",
+            "Modifier and Type": "static File"
+        },
+        {
+            "Comments": "Compares two abstract pathnames lexicographically.",
+            "Function": "delete()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Atomically creates a new, empty file named by this abstract pathname if and only if a file with this name does not yet exist.",
+            "Function": "deleteOnExit()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates an empty file in the default temporary-file directory, using the given prefix and suffix to generate its name.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": " Creates a new empty file in the specified directory, using the given prefix and suffix strings to generate its name.",
+            "Function": "exists()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deletes the file or directory denoted by this abstract pathname.",
+            "Function": "getAbsoluteFile()",
+            "Modifier and Type": "File"
+        },
+        {
+            "Comments": "Requests that the file or directory denoted by this abstract pathname be deleted when the virtual machine terminates.",
+            "Function": "getAbsolutePath()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Tests this abstract pathname for equality with the given object.",
+            "Function": "getCanonicalFile()",
+            "Modifier and Type": "File"
+        },
+        {
+            "Comments": "Tests whether the file or directory denoted by this abstract pathname exists.",
+            "Function": "getCanonicalPath()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the absolute form of this abstract pathname.",
+            "Function": "getFreeSpace()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the absolute pathname string of this abstract pathname.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the canonical form of this abstract pathname.",
+            "Function": "getParent()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the canonical pathname string of this abstract pathname.",
+            "Function": "getParentFile()",
+            "Modifier and Type": "File"
+        },
+        {
+            "Comments": "Returns the number of unallocated bytes in the partition named by this abstract path name.",
+            "Function": "getPath()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the name of the file or directory denoted by this abstract pathname.",
+            "Function": "getTotalSpace()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the pathname string of this abstract pathname's parent, or null if this pathname does not name a parent directory.",
+            "Function": "getUsableSpace()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the abstract pathname of this abstract pathname's parent, or null if this pathname does not name a parent directory.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Converts this abstract pathname into a pathname string.",
+            "Function": "isAbsolute()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the size of the partition named by this abstract pathname.",
+            "Function": "isDirectory()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the number of bytes available to this virtual machine on the partition named by this abstract pathname.",
+            "Function": "isFile()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Computes a hash code for this abstract pathname.",
+            "Function": "isHidden()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests whether this abstract pathname is absolute.",
+            "Function": "lastModified()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Tests whether the file denoted by this abstract pathname is a directory.",
+            "Function": "length()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Tests whether the file denoted by this abstract pathname is a normal file.",
+            "Function": "list()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Tests whether the file named by this abstract pathname is a hidden file.",
+            "Function": "list(FilenameFilter filter)",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Returns the time that the file denoted by this abstract pathname was last modified.",
+            "Function": "listFiles()",
+            "Modifier and Type": "File[]"
+        },
+        {
+            "Comments": "Returns the length of the file denoted by this abstract pathname.",
+            "Function": "listFiles(FileFilter filter)",
+            "Modifier and Type": "File[]"
+        },
+        {
+            "Comments": "Returns an array of strings naming the files and directories in the directory denoted by this abstract pathname.",
+            "Function": "listFiles(FilenameFilter filter)",
+            "Modifier and Type": "File[]"
+        },
+        {
+            "Comments": "Returns an array of strings naming the files and directories in the directory denoted by this abstract pathname that satisfy the specified filter.",
+            "Function": "listRoots()",
+            "Modifier and Type": "static File[]"
+        },
+        {
+            "Comments": "Returns an array of abstract pathnames denoting the files in the directory denoted by this abstract pathname.",
+            "Function": "mkdir()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an array of abstract pathnames denoting the files and directories in the directory denoted by this abstract pathname that satisfy the specified filter.",
+            "Function": "mkdirs()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an array of abstract pathnames denoting the files and directories in the directory denoted by this abstract pathname that satisfy the specified filter.",
+            "Function": "renameTo(File dest)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "List the available filesystem roots.",
+            "Function": "setExecutable(boolean executable)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates the directory named by this abstract pathname.",
+            "Function": "setExecutable(boolean executable, boolean ownerOnly)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates the directory named by this abstract pathname, including any necessary but nonexistent parent directories.",
+            "Function": "setLastModified(long time)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Renames the file denoted by this abstract pathname.",
+            "Function": "setReadable(boolean readable)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "A convenience method to set the owner's execute permission for this abstract pathname.",
+            "Function": "setReadable(boolean readable, boolean ownerOnly)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets the owner's or everybody's execute permission for this abstract pathname.",
+            "Function": "setReadOnly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets the last-modified time of the file or directory named by this abstract pathname.",
+            "Function": "setWritable(boolean writable)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "A convenience method to set the owner's read permission for this abstract pathname.",
+            "Function": "setWritable(boolean writable, boolean ownerOnly)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets the owner's or everybody's read permission for this abstract pathname.",
+            "Function": "toPath()",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Marks the file or directory named by this abstract pathname so that only read operations are allowed.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "A convenience method to set the owner's write permission for this abstract pathname.",
+            "Function": "toURI()",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Sets the owner's or everybody's write permission for this abstract pathname.",
+            "Function": "toURL()",
+            "Modifier and Type": "URL"
+        }
+    ]
+}

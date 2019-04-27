@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Reads the access control list.",
+            "Function": "getAcl()",
+            "Modifier and Type": "List<AclEntry>"
+        },
+        {
+            "Comments": "Returns the name of the attribute view.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Updates (replace) the access control list.",
+            "Function": "setAcl(List<AclEntry> acl)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

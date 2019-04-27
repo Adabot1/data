@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an SNIMatcher using the specified server name type.",
+            "Function": "getType()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the server name type of this SNIMatcher object.",
+            "Function": "matches(SNIServerName serverName)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

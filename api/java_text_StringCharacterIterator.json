@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an iterator with an initial index of 0.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Constructs an iterator with the specified initial index.",
+            "Function": "current()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Constructs an iterator over the given range of the given string, with the index set at the specified position.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a copy of this iterator.",
+            "Function": "first()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Implements CharacterIterator.current() for String.",
+            "Function": "getBeginIndex()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares the equality of two StringCharacterIterator objects.",
+            "Function": "getEndIndex()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Implements CharacterIterator.first() for String.",
+            "Function": "getIndex()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Implements CharacterIterator.getBeginIndex() for String.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Implements CharacterIterator.getEndIndex() for String.",
+            "Function": "last()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Implements CharacterIterator.getIndex() for String.",
+            "Function": "next()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Computes a hashcode for this iterator.",
+            "Function": "previous()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Implements CharacterIterator.last() for String.",
+            "Function": "setIndex(int p)",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Implements CharacterIterator.next() for String.",
+            "Function": "setText(String text)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "This class represents whether or not a LoginModule is REQUIRED, REQUISITE, SUFFICIENT or OPTIONAL.",
+            "Function": "AppConfigurationEntry.LoginModuleControlFlag",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Default constructor for this class.",
+            "Function": "getControlFlag()",
+            "Modifier and Type": "AppConfigurationEntry.LoginModuleControlFlag"
+        },
+        {
+            "Comments": "Return the controlFlag (either REQUIRED, REQUISITE, SUFFICIENT, or OPTIONAL) for this LoginModule.",
+            "Function": "getLoginModuleName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the class name of the configured LoginModule.",
+            "Function": "getOptions()",
+            "Modifier and Type": "Map<String,​?>"
+        }
+    ]
+}

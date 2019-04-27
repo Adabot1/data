@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an elliptic curve with the specified elliptic field field and the coefficients a and b.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates an elliptic curve with the specified elliptic field field, the coefficients a and b, and the seed used for curve generation.",
+            "Function": "getA()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Compares this elliptic curve for equality with the specified object.",
+            "Function": "getB()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the first coefficient a of the elliptic curve.",
+            "Function": "getField()",
+            "Modifier and Type": "ECField"
+        },
+        {
+            "Comments": "Returns the second coefficient b of the elliptic curve.",
+            "Function": "getSeed()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the finite field field that this elliptic curve is over.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

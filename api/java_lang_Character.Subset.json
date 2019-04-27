@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new Subset instance.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Compares two Subset objects for equality.",
+            "Function": "hashCode()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the standard hash code as defined by the Object.hashCode() method.",
+            "Function": "toString()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor that takes a public value y, a prime modulus p, and a base generator g.",
+            "Function": "getG()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the base generator g.",
+            "Function": "getP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the prime modulus p.",
+            "Function": "getY()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

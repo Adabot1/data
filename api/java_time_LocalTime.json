@@ -1,0 +1,299 @@
+{
+    "API": [
+        {
+            "Comments": "The maximum supported LocalTime, '23:59:59.999999999'.",
+            "Function": "MAX",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "The time of midnight at the start of the day, '00:00'.",
+            "Function": "MIDNIGHT",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "The minimum supported LocalTime, '00:00'.",
+            "Function": "MIN",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "The time of noon in the middle of the day, '12:00'.",
+            "Function": "NOON",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Adjusts the specified temporal object to have the same time as this object.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Combines this time with a date to create a LocalDateTime.",
+            "Function": "atDate(LocalDate date)",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Combines this time with an offset to create an OffsetTime.",
+            "Function": "atOffset(ZoneOffset offset)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Compares this time to another time.",
+            "Function": "compareTo(LocalTime other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this time is equal to another time.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this time using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this time as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the hour-of-day field.",
+            "Function": "getHour()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this time as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the minute-of-hour field.",
+            "Function": "getMinute()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the nano-of-second field.",
+            "Function": "getNano()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the second-of-minute field.",
+            "Function": "getSecond()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this time.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this time is after the specified time.",
+            "Function": "isAfter(LocalTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this time is before the specified time.",
+            "Function": "isBefore(LocalTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of hours subtracted.",
+            "Function": "minusHours(long hoursToSubtract)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of minutes subtracted.",
+            "Function": "minusMinutes(long minutesToSubtract)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of nanoseconds subtracted.",
+            "Function": "minusNanos(long nanosToSubtract)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of seconds subtracted.",
+            "Function": "minusSeconds(long secondsToSubtract)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Obtains the current time from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains the current time from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains the current time from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from an hour and minute.",
+            "Function": "of(int hour,int minute)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from an hour, minute and second.",
+            "Function": "of(int hour,int minute,int second)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from an hour, minute, second and nanosecond.",
+            "Function": "of(int hour,int minute,int second,int nanoOfSecond)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from an Instant and zone ID.",
+            "Function": "ofInstant(Instant instant, ZoneId zone)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from a nanos-of-day value.",
+            "Function": "ofNanoOfDay(long nanoOfDay)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from a second-of-day value.",
+            "Function": "ofSecondOfDay(long secondOfDay)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from a text string such as 10:15.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Obtains an instance of LocalTime from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of hours added.",
+            "Function": "plusHours(long hoursToAdd)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of minutes added.",
+            "Function": "plusMinutes(long minutesToAdd)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of nanoseconds added.",
+            "Function": "plusNanos(long nanosToAdd)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the specified number of seconds added.",
+            "Function": "plusSeconds(long secondstoAdd)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Queries this time using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Converts this LocalTime to the number of seconds since the epoch of 1970-01-01T00:00:00Z.",
+            "Function": "toEpochSecond(LocalDate date, ZoneOffset offset)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Extracts the time as nanos of day, from 0 to 24 * 60 * 60 * 1,000,000,000 - 1.",
+            "Function": "toNanoOfDay()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Extracts the time as seconds of day, from 0 to 24 * 60 * 60 - 1.",
+            "Function": "toSecondOfDay()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Outputs this time as a String, such as 10:15.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the time truncated.",
+            "Function": "truncatedTo(TemporalUnit unit)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Calculates the amount of time until another time in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted copy of this time.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified field set to a new value.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the hour-of-day altered.",
+            "Function": "withHour(int hour)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the minute-of-hour altered.",
+            "Function": "withMinute(int minute)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the nano-of-second altered.",
+            "Function": "withNano(int nanoOfSecond)",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Returns a copy of this LocalTime with the second-of-minute altered.",
+            "Function": "withSecond(int second)",
+            "Modifier and Type": "LocalTime"
+        }
+    ]
+}

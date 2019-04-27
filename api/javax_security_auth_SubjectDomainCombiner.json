@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Associate the provided Subject with this SubjectDomainCombiner.",
+            "Function": "combine(ProtectionDomain[] currentDomains, ProtectionDomain[] assignedDomains)",
+            "Modifier and Type": "ProtectionDomain[]"
+        },
+        {
+            "Comments": "Update the relevant ProtectionDomains with the Principals from the Subject associated with this SubjectDomainCombiner.",
+            "Function": "getSubject()",
+            "Modifier and Type": "Subject"
+        }
+    ]
+}

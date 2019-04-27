@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new RSAOtherPrimeInfo given the prime, primeExponent, and crtCoefficient as defined in PKCS#1.",
+            "Function": "getCrtCoefficient()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the prime's crtCoefficient.",
+            "Function": "getExponent()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the prime's exponent.",
+            "Function": "getPrime()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

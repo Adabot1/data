@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "The message digest associated with this stream.",
+            "Function": "digest",
+            "Modifier and Type": "protected MessageDigest"
+        },
+        {
+            "Comments": "Creates a digest input stream, using the specified input stream and message digest.",
+            "Function": "getMessageDigest()",
+            "Modifier and Type": "MessageDigest"
+        },
+        {
+            "Comments": "Returns the message digest associated with this stream.",
+            "Function": "on(boolean on)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Turns the digest function on or off.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a byte, and updates the message digest (if the digest function is on).",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads into a byte array, and updates the message digest (if the digest function is on).",
+            "Function": "setMessageDigest(MessageDigest digest)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Associates the specified message digest with this stream.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

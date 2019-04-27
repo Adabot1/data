@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor that takes a password.",
+            "Function": "clearPassword()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructor that takes a password, salt, iteration count for generating PBEKey of fixed-key-size PBE ciphers.",
+            "Function": "getIterationCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructor that takes a password, salt, iteration count, and to-be-derived key length for generating PBEKey of variable-key-size PBE ciphers.",
+            "Function": "getKeyLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Clears the internal copy of the password.",
+            "Function": "getPassword()",
+            "Modifier and Type": "char[]"
+        },
+        {
+            "Comments": "Returns the iteration count or 0 if not specified.",
+            "Function": "getSalt()",
+            "Modifier and Type": "byte[]"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Adds a provider to the next position available.",
+            "Function": "addProvider(Provider provider)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.This method used to return the value of a proprietary property in the master file of the \"SUN\" Cryptographic Service Provider in order to determine how to parse algorithm-specific parameters.",
+            "Function": "getAlgorithmProperty(String algName,String propName)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a Set of Strings containing the names of all available algorithms or types for the specified Java cryptographic service (e.g., Signature, MessageDigest, Cipher, Mac, KeyStore).",
+            "Function": "getAlgorithms(String serviceName)",
+            "Modifier and Type": "static Set<String>"
+        },
+        {
+            "Comments": "Gets a security property value.",
+            "Function": "getProperty(String key)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the provider installed with the specified name, if any.",
+            "Function": "getProvider(String name)",
+            "Modifier and Type": "static Provider"
+        },
+        {
+            "Comments": "Returns an array containing all the installed providers.",
+            "Function": "getProviders()",
+            "Modifier and Type": "static Provider[]"
+        },
+        {
+            "Comments": "Returns an array containing all installed providers that satisfy the specified selection criterion, or null if no such providers have been installed.",
+            "Function": "getProviders(String filter)",
+            "Modifier and Type": "static Provider[]"
+        },
+        {
+            "Comments": "Returns an array containing all installed providers that satisfy the specified selection criteria, or null if no such providers have been installed.",
+            "Function": "getProviders(Map<String,String> filter)",
+            "Modifier and Type": "static Provider[]"
+        },
+        {
+            "Comments": "Adds a new provider, at a specified position.",
+            "Function": "insertProviderAt(Provider provider,int position)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Removes the provider with the specified name.",
+            "Function": "removeProvider(String name)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets a security property value.",
+            "Function": "setProperty(String key, String datum)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

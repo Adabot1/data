@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new UnresolvedPermission containing the permission information needed later to actually create a Permission of the specified class, when the permission is resolved.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks two UnresolvedPermission objects for equality.",
+            "Function": "getActions()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the canonical string representation of the actions, which currently is the empty string \"\", since there are no actions for an UnresolvedPermission.",
+            "Function": "getUnresolvedActions()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the actions for the underlying permission that has not been resolved.",
+            "Function": "getUnresolvedCerts()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Get the signer certificates (without any supporting chain) for the underlying permission that has not been resolved.",
+            "Function": "getUnresolvedName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the target name of the underlying permission that has not been resolved.",
+            "Function": "getUnresolvedType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the type (class name) of the underlying permission that has not been resolved.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hash code value for this object.",
+            "Function": "implies(Permission p)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "This method always returns false for unresolved permissions.",
+            "Function": "newPermissionCollection()",
+            "Modifier and Type": "PermissionCollection"
+        },
+        {
+            "Comments": "Returns a new PermissionCollection object for storing UnresolvedPermission  objects.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

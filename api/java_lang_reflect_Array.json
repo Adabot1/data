@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object.",
+            "Function": "get(Object array, int index)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as a boolean.",
+            "Function": "getBoolean(Object array,int index)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as a byte.",
+            "Function": "getByte(Object array, int index)",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as a char.",
+            "Function": "getChar(Object array, int index)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as a double.",
+            "Function": "getDouble(Object array, int index)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as a float.",
+            "Function": "getFloat(Object array,int index)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as an int.",
+            "Function": "getInt(Object array,int index)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the length of the specified array object, as an int.",
+            "Function": "getLength(Object array)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as a long.",
+            "Function": "getLong(Object array, int index)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the value of the indexed component in the specified array object, as a short.",
+            "Function": "getShort(Object array,int index)",
+            "Modifier and Type": "static short"
+        },
+        {
+            "Comments": "Creates a new array with the specified component type and length.",
+            "Function": "newInstance(Class<?> componentType, int length)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Creates a new array with the specified component type and dimensions.",
+            "Function": "newInstance(Class<?> componentType, int... dimensions)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified new value.",
+            "Function": "set(Object array, int index, Object value)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified boolean value.",
+            "Function": "setBoolean(Object array,int index,boolean z)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified byte value.",
+            "Function": "setByte(Object array, int index, byte b)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified char value.",
+            "Function": "setChar(Object array, int index, char c)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified double value.",
+            "Function": "setDouble(Object array, int index, double d)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified float value.",
+            "Function": "setFloat(Object array,int index,float f)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified int value.",
+            "Function": "setInt(Object array,int index,int i)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified long value.",
+            "Function": "setLong(Object array, int index, long l)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the indexed component of the specified array object to the specified short value.",
+            "Function": "setShort(Object array,int index,short s)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

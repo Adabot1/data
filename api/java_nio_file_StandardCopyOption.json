@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Move the file as an atomic file system operation.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static StandardCopyOption"
+        },
+        {
+            "Comments": "Copy attributes to the new file.",
+            "Function": "values()",
+            "Modifier and Type": "static StandardCopyOption[]"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Error message.",
+            "Function": "ERROR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Information message.",
+            "Function": "INFORMATION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Warning message.",
+            "Function": "WARNING",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Construct a TextOutputCallback with a message type and message to be displayed.",
+            "Function": "getMessage()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the message to be displayed.",
+            "Function": "getMessageType()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

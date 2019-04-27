@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "The public-exponent value F0 = 3.",
+            "Function": "F0",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "The public exponent-value F4 = 65537.",
+            "Function": "F4",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "Constructs a new RSAKeyGenParameterSpec object from the given keysize, public-exponent value, and null key parameters.",
+            "Function": "getKeyParams()",
+            "Modifier and Type": "AlgorithmParameterSpec"
+        },
+        {
+            "Comments": "Constructs a new RSAKeyGenParameterSpec object from the given keysize, public-exponent value, and key parameters.",
+            "Function": "getKeysize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the parameters to be associated with key.",
+            "Function": "getPublicExponent()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

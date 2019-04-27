@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a URL object from the String representation.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a URL object from the specified protocol, host, port number, and file.",
+            "Function": "getAuthority()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates a URL object from the specified protocol, host, port number, file, and handler.",
+            "Function": "getContent()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Creates a URL from the specified protocol name, host name, and file name.",
+            "Function": "getContent(Class<?>[] classes)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Creates a URL by parsing the given spec within a specified context.",
+            "Function": "getDefaultPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a URL by parsing the given spec with the specified handler within a specified context.",
+            "Function": "getFile()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compares this URL for equality with another object.",
+            "Function": "getHost()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the authority part of this URL.",
+            "Function": "getPath()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the contents of this URL.",
+            "Function": "getPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the contents of this URL.",
+            "Function": "getProtocol()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the default port number of the protocol associated with this URL.",
+            "Function": "getQuery()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the file name of this URL.",
+            "Function": "getRef()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the host name of this URL, if applicable.",
+            "Function": "getUserInfo()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the path part of this URL.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the port number of this URL.",
+            "Function": "openConnection()",
+            "Modifier and Type": "URLConnection"
+        },
+        {
+            "Comments": "Gets the protocol name of this URL.",
+            "Function": "openConnection(Proxy proxy)",
+            "Modifier and Type": "URLConnection"
+        },
+        {
+            "Comments": "Gets the query part of this URL.",
+            "Function": "openStream()",
+            "Modifier and Type": "InputStream"
+        },
+        {
+            "Comments": "Gets the anchor (also known as the \"reference\") of this URL.",
+            "Function": "sameFile(URL other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the userInfo part of this URL.",
+            "Function": "setURLStreamHandlerFactory(URLStreamHandlerFactory fac)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Creates an integer suitable for hash table indexing.",
+            "Function": "toExternalForm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a URLConnection instance that represents a connection to the remote object referred to by the URL.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Same as openConnection(), except that the connection will be made through the specified proxy; Protocol handlers that do not support proxing will ignore the proxy parameter and make a normal connection.",
+            "Function": "toURI()",
+            "Modifier and Type": "URI"
+        }
+    ]
+}

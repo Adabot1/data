@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an AbstractResourceBundleProvider with the \"java.properties\" format.",
+            "Function": "getBundle(String baseName, Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructs an AbstractResourceBundleProvider with the specified formats.",
+            "Function": "toBundleName(String baseName,Locale locale)",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

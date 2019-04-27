@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "The constant which defines the length of a DES key in bytes.",
+            "Function": "DES_KEY_LEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a DESKeySpec object using the first 8 bytes in key as the key material for the DES key.",
+            "Function": "getKey()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Creates a DESKeySpec object using the first 8 bytes in key, beginning at offset inclusive, as the key material for the DES key.",
+            "Function": "isParityAdjusted(byte[] key,int offset)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the DES key material.",
+            "Function": "isWeak(byte[] key,int offset)",
+            "Modifier and Type": "static boolean"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new Adler32 object.",
+            "Function": "getValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the checksum value.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets the checksum to initial value.",
+            "Function": "update(byte[] b,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the checksum with the specified array of bytes.",
+            "Function": "update(int b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the checksum with the specified byte (the low eight bits of the argument b).",
+            "Function": "update(ByteBuffer buffer)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

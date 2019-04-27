@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Adds one HTTP cookie to the store.",
+            "Function": "add(URI uri, HttpCookie cookie)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Retrieve cookies associated with given URI, or whose domain matches the given URI.",
+            "Function": "get(URI uri)",
+            "Modifier and Type": "List<HttpCookie>"
+        },
+        {
+            "Comments": "Get all not-expired cookies in cookie store.",
+            "Function": "getCookies()",
+            "Modifier and Type": "List<HttpCookie>"
+        },
+        {
+            "Comments": "Get all URIs which identify the cookies in this cookie store.",
+            "Function": "getURIs()",
+            "Modifier and Type": "List<URI>"
+        },
+        {
+            "Comments": "Remove a cookie from store.",
+            "Function": "remove(URI uri,HttpCookie cookie)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Remove all cookies in this cookie store.",
+            "Function": "removeAll()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

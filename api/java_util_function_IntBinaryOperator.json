@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Applies this operator to the given operands.",
+            "Function": "applyAsInt(int left,int right)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

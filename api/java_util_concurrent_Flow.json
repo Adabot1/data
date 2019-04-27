@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "A component that acts as both a Subscriber and Publisher.",
+            "Function": "Flow.Processor<T,R>",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "A producer of items (and related control messages) received by Subscribers.",
+            "Function": "Flow.Publisher<T>",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "A receiver of messages.",
+            "Function": "Flow.Subscriber<T>",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Message control linking a Flow.Publisher and Flow.Subscriber.",
+            "Function": "Flow.Subscription",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Returns a default value for Publisher or Subscriber buffering, that may be used in the absence of other constraints.",
+            "Function": "defaultBufferSize()",
+            "Modifier and Type": "static int"
+        }
+    ]
+}

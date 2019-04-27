@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Controls a module layer.",
+            "Function": "ModuleLayer.Controller",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Returns the boot layer.",
+            "Function": "boot()",
+            "Modifier and Type": "static ModuleLayer"
+        },
+        {
+            "Comments": "Returns the configuration for this layer.",
+            "Function": "configuration()",
+            "Modifier and Type": "Configuration"
+        },
+        {
+            "Comments": "Creates a new module layer, with this layer as its parent, by defining the modules in the given Configuration to the Java virtual machine.",
+            "Function": "defineModules(Configuration cf, Function<String,ClassLoader> clf)",
+            "Modifier and Type": "ModuleLayer"
+        },
+        {
+            "Comments": "Creates a new module layer by defining the modules in the given  Configuration to the Java virtual machine.",
+            "Function": "defineModules(Configuration cf, List<ModuleLayer> parentLayers, Function<String,ClassLoader> clf)",
+            "Modifier and Type": "static ModuleLayer.Controller"
+        },
+        {
+            "Comments": "Creates a new module layer, with this layer as its parent, by defining the modules in the given Configuration to the Java virtual machine.",
+            "Function": "defineModulesWithManyLoaders(Configuration cf,ClassLoader parentLoader)",
+            "Modifier and Type": "ModuleLayer"
+        },
+        {
+            "Comments": "Creates a new module layer by defining the modules in the given  Configuration to the Java virtual machine.",
+            "Function": "defineModulesWithManyLoaders(Configuration cf,List<ModuleLayer> parentLayers,ClassLoader parentLoader)",
+            "Modifier and Type": "static ModuleLayer.Controller"
+        },
+        {
+            "Comments": "Creates a new module layer, with this layer as its parent, by defining the modules in the given Configuration to the Java virtual machine.",
+            "Function": "defineModulesWithOneLoader(Configuration cf,ClassLoader parentLoader)",
+            "Modifier and Type": "ModuleLayer"
+        },
+        {
+            "Comments": "Creates a new module layer by defining the modules in the given  Configuration to the Java virtual machine.",
+            "Function": "defineModulesWithOneLoader(Configuration cf,List<ModuleLayer> parentLayers,ClassLoader parentLoader)",
+            "Modifier and Type": "static ModuleLayer.Controller"
+        },
+        {
+            "Comments": "Returns the empty layer.",
+            "Function": "empty()",
+            "Modifier and Type": "static ModuleLayer"
+        },
+        {
+            "Comments": "Returns the ClassLoader for the module with the given name.",
+            "Function": "findLoader(String name)",
+            "Modifier and Type": "ClassLoader"
+        },
+        {
+            "Comments": "Returns the module with the given name in this layer, or if not in this layer, the parent layers.",
+            "Function": "findModule(String name)",
+            "Modifier and Type": "Optional<Module>"
+        },
+        {
+            "Comments": "Returns the set of the modules in this layer.",
+            "Function": "modules()",
+            "Modifier and Type": "Set<Module>"
+        },
+        {
+            "Comments": "Returns the list of this layer's parents unless this is the empty layer, which has no parents and so an empty list is returned.",
+            "Function": "parents()",
+            "Modifier and Type": "List<ModuleLayer>"
+        },
+        {
+            "Comments": "Returns a string describing this module layer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

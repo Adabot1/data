@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Gets the current size of the largest application data that is expected when using this session.",
+            "Function": "getApplicationBufferSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the name of the SSL cipher suite which is used for all connections in the session.",
+            "Function": "getCipherSuite()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the time at which this Session representation was created, in milliseconds since midnight, January 1, 1970 UTC.",
+            "Function": "getCreationTime()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the identifier assigned to this Session.",
+            "Function": "getId()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the last time this Session representation was accessed by the session level infrastructure, in milliseconds since midnight, January 1, 1970 UTC.",
+            "Function": "getLastAccessedTime()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the certificate(s) that were sent to the peer during handshaking.",
+            "Function": "getLocalCertificates()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Returns the principal that was sent to the peer during handshaking.",
+            "Function": "getLocalPrincipal()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Gets the current size of the largest SSL/TLS/DTLS packet that is expected when using this session.",
+            "Function": "getPacketBufferSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.The getPeerCertificates() method that returns an               array of java.security.cert.Certificate should               be used instead.",
+            "Function": "getPeerCertificateChain()",
+            "Modifier and Type": "X509Certificate[]"
+        },
+        {
+            "Comments": "Returns the identity of the peer which was established as part of defining the session.",
+            "Function": "getPeerCertificates()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Returns the host name of the peer in this session.",
+            "Function": "getPeerHost()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the port number of the peer in this session.",
+            "Function": "getPeerPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the identity of the peer which was established as part of defining the session.",
+            "Function": "getPeerPrincipal()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Returns the standard name of the protocol used for all connections in the session.",
+            "Function": "getProtocol()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the context in which this session is bound.",
+            "Function": "getSessionContext()",
+            "Modifier and Type": "SSLSessionContext"
+        },
+        {
+            "Comments": "Returns the object bound to the given name in the session's application layer data.",
+            "Function": "getValue(String name)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns an array of the names of all the application layer data objects bound into the Session.",
+            "Function": "getValueNames()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Invalidates the session.",
+            "Function": "invalidate()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns whether this session is valid and available for resuming or joining.",
+            "Function": "isValid()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Binds the specified value object into the session's application layer data with the given name.",
+            "Function": "putValue(String name,Object value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Removes the object bound to the given name in the session's application layer data.",
+            "Function": "removeValue(String name)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

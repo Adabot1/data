@@ -1,0 +1,149 @@
+{
+    "API": [
+        {
+            "Comments": "Adjusts the specified temporal object to have the same date as this object.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "default Temporal"
+        },
+        {
+            "Comments": "Combines this date with a time to create a ChronoLocalDateTime.",
+            "Function": "atTime(LocalTime localTime)",
+            "Modifier and Type": "default ChronoLocalDateTime<?>"
+        },
+        {
+            "Comments": "Compares this date to another date, including the chronology.",
+            "Function": "compareTo(ChronoLocalDate other)",
+            "Modifier and Type": "default int"
+        },
+        {
+            "Comments": "Checks if this date is equal to another date, including the chronology.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this date using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "default String"
+        },
+        {
+            "Comments": "Obtains an instance of ChronoLocalDate from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static ChronoLocalDate"
+        },
+        {
+            "Comments": "Gets the chronology of this date.",
+            "Function": "getChronology()",
+            "Modifier and Type": "Chronology"
+        },
+        {
+            "Comments": "Gets the era, as defined by the chronology.",
+            "Function": "getEra()",
+            "Modifier and Type": "default Era"
+        },
+        {
+            "Comments": "A hash code for this date.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this date is after the specified date ignoring the chronology.",
+            "Function": "isAfter(ChronoLocalDate other)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Checks if this date is before the specified date ignoring the chronology.",
+            "Function": "isBefore(ChronoLocalDate other)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Checks if this date is equal to the specified date ignoring the chronology.",
+            "Function": "isEqual(ChronoLocalDate other)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Checks if the year is a leap year, as defined by the calendar system.",
+            "Function": "isLeapYear()",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Returns the length of the month represented by this date, as defined by the calendar system.",
+            "Function": "lengthOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the length of the year represented by this date, as defined by the calendar system.",
+            "Function": "lengthOfYear()",
+            "Modifier and Type": "default int"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with the specified period subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount subtracted.",
+            "Function": "minus(TemporalAmount amount)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with the specified period added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount added.",
+            "Function": "plus(TemporalAmount amount)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Queries this date using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "default <R> R"
+        },
+        {
+            "Comments": "Gets a comparator that compares ChronoLocalDate in time-line order ignoring the chronology.",
+            "Function": "timeLineOrder()",
+            "Modifier and Type": "static Comparator<ChronoLocalDate>"
+        },
+        {
+            "Comments": "Converts this date to the Epoch Day.",
+            "Function": "toEpochDay()",
+            "Modifier and Type": "default long"
+        },
+        {
+            "Comments": "Outputs this date as a String.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Calculates the period between this date and another date as a ChronoPeriod.",
+            "Function": "until(ChronoLocalDate endDateExclusive)",
+            "Modifier and Type": "ChronoPeriod"
+        },
+        {
+            "Comments": "Calculates the amount of time until another date in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted object of the same type as this object with the adjustment made.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with the specified field altered.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "default ChronoLocalDate"
+        }
+    ]
+}

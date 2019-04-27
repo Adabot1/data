@@ -1,0 +1,104 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new charset with the given canonical name and alias set.",
+            "Function": "aliases()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a set containing this charset's aliases.",
+            "Function": "availableCharsets()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Constructs a sorted map from canonical charset names to charset objects.",
+            "Function": "canEncode()",
+            "Modifier and Type": "static SortedMap<String,​Charset>"
+        },
+        {
+            "Comments": "Tells whether or not this charset supports encoding.",
+            "Function": "compareTo(Charset that)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this charset to another.",
+            "Function": "contains(Charset cs)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this charset contains the given charset.",
+            "Function": "decode(ByteBuffer bb)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Convenience method that decodes bytes in this charset into Unicode characters.",
+            "Function": "defaultCharset()",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Returns the default charset of this Java virtual machine.",
+            "Function": "displayName()",
+            "Modifier and Type": "static Charset"
+        },
+        {
+            "Comments": "Returns this charset's human-readable name for the default locale.",
+            "Function": "displayName(Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns this charset's human-readable name for the given locale.",
+            "Function": "encode(String str)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Convenience method that encodes a string into bytes in this charset.",
+            "Function": "encode(CharBuffer cb)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Convenience method that encodes Unicode characters into bytes in this charset.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this object is equal to another.",
+            "Function": "forName(String charsetName)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a charset object for the named charset.",
+            "Function": "hashCode()",
+            "Modifier and Type": "static Charset"
+        },
+        {
+            "Comments": "Computes a hashcode for this charset.",
+            "Function": "isRegistered()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this charset is registered in the IANA Charset Registry.",
+            "Function": "isSupported(String charsetName)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether the named charset is supported.",
+            "Function": "name()",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns this charset's canonical name.",
+            "Function": "newDecoder()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Constructs a new decoder for this charset.",
+            "Function": "newEncoder()",
+            "Modifier and Type": "abstract CharsetDecoder"
+        },
+        {
+            "Comments": "Constructs a new encoder for this charset.",
+            "Function": "toString()",
+            "Modifier and Type": "abstract CharsetEncoder"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an AclEntry from the components of this builder.",
+            "Function": "build()",
+            "Modifier and Type": "AclEntry"
+        },
+        {
+            "Comments": "Sets the flags component of this builder.",
+            "Function": "setFlags(AclEntryFlag... flags)",
+            "Modifier and Type": "AclEntry.Builder"
+        },
+        {
+            "Comments": "Sets the flags component of this builder.",
+            "Function": "setFlags(Set<AclEntryFlag> flags)",
+            "Modifier and Type": "AclEntry.Builder"
+        },
+        {
+            "Comments": "Sets the permissions component of this builder.",
+            "Function": "setPermissions(AclEntryPermission... perms)",
+            "Modifier and Type": "AclEntry.Builder"
+        },
+        {
+            "Comments": "Sets the permissions component of this builder.",
+            "Function": "setPermissions(Set<AclEntryPermission> perms)",
+            "Modifier and Type": "AclEntry.Builder"
+        },
+        {
+            "Comments": "Sets the principal component of this builder.",
+            "Function": "setPrincipal(UserPrincipal who)",
+            "Modifier and Type": "AclEntry.Builder"
+        },
+        {
+            "Comments": "Sets the type component of this builder.",
+            "Function": "setType(AclEntryType type)",
+            "Modifier and Type": "AclEntry.Builder"
+        }
+    ]
+}

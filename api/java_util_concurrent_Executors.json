@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a Callable object that, when called, runs the given task and returns null.",
+            "Function": "callable(Runnable task)",
+            "Modifier and Type": "static Callable<Object>"
+        },
+        {
+            "Comments": "Returns a Callable object that, when called, runs the given task and returns the given result.",
+            "Function": "callable(Runnable task,T result)",
+            "Modifier and Type": "static <T> Callable<T>"
+        },
+        {
+            "Comments": "Returns a Callable object that, when called, runs the given privileged action and returns its result.",
+            "Function": "callable(PrivilegedAction<?> action)",
+            "Modifier and Type": "static Callable<Object>"
+        },
+        {
+            "Comments": "Returns a Callable object that, when called, runs the given privileged exception action and returns its result.",
+            "Function": "callable(PrivilegedExceptionAction<?> action)",
+            "Modifier and Type": "static Callable<Object>"
+        },
+        {
+            "Comments": "Returns a default thread factory used to create new threads.",
+            "Function": "defaultThreadFactory()",
+            "Modifier and Type": "static ThreadFactory"
+        },
+        {
+            "Comments": "Creates a thread pool that creates new threads as needed, but will reuse previously constructed threads when they are available.",
+            "Function": "newCachedThreadPool()",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Creates a thread pool that creates new threads as needed, but will reuse previously constructed threads when they are available, and uses the provided ThreadFactory to create new threads when needed.",
+            "Function": "newCachedThreadPool(ThreadFactory threadFactory)",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue.",
+            "Function": "newFixedThreadPool(int nThreads)",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue, using the provided ThreadFactory to create new threads when needed.",
+            "Function": "newFixedThreadPool(int nThreads,ThreadFactory threadFactory)",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Creates a thread pool that can schedule commands to run after a given delay, or to execute periodically.",
+            "Function": "newScheduledThreadPool(int corePoolSize)",
+            "Modifier and Type": "static ScheduledExecutorService"
+        },
+        {
+            "Comments": "Creates a thread pool that can schedule commands to run after a given delay, or to execute periodically.",
+            "Function": "newScheduledThreadPool(int corePoolSize,ThreadFactory threadFactory)",
+            "Modifier and Type": "static ScheduledExecutorService"
+        },
+        {
+            "Comments": "Creates an Executor that uses a single worker thread operating off an unbounded queue.",
+            "Function": "newSingleThreadExecutor()",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Creates an Executor that uses a single worker thread operating off an unbounded queue, and uses the provided ThreadFactory to create a new thread when needed.",
+            "Function": "newSingleThreadExecutor(ThreadFactory threadFactory)",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Creates a single-threaded executor that can schedule commands to run after a given delay, or to execute periodically.",
+            "Function": "newSingleThreadScheduledExecutor()",
+            "Modifier and Type": "static ScheduledExecutorService"
+        },
+        {
+            "Comments": "Creates a single-threaded executor that can schedule commands to run after a given delay, or to execute periodically.",
+            "Function": "newSingleThreadScheduledExecutor(ThreadFactory threadFactory)",
+            "Modifier and Type": "static ScheduledExecutorService"
+        },
+        {
+            "Comments": "Creates a work-stealing thread pool using the number of available processors as its target parallelism level.",
+            "Function": "newWorkStealingPool()",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Creates a thread pool that maintains enough threads to support the given parallelism level, and may use multiple queues to reduce contention.",
+            "Function": "newWorkStealingPool(int parallelism)",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Returns a Callable object that will, when called, execute the given callable under the current access control context.",
+            "Function": "privilegedCallable(Callable<T> callable)",
+            "Modifier and Type": "static <T> Callable<T>"
+        },
+        {
+            "Comments": "Returns a Callable object that will, when called, execute the given callable under the current access control context, with the current context class loader as the context class loader.",
+            "Function": "privilegedCallableUsingCurrentClassLoader(Callable<T> callable)",
+            "Modifier and Type": "static <T> Callable<T>"
+        },
+        {
+            "Comments": "Returns a thread factory used to create new threads that have the same permissions as the current thread.",
+            "Function": "privilegedThreadFactory()",
+            "Modifier and Type": "static ThreadFactory"
+        },
+        {
+            "Comments": "Returns an object that delegates all defined ExecutorService methods to the given executor, but not any other methods that might otherwise be accessible using casts.",
+            "Function": "unconfigurableExecutorService(ExecutorService executor)",
+            "Modifier and Type": "static ExecutorService"
+        },
+        {
+            "Comments": "Returns an object that delegates all defined ScheduledExecutorService methods to the given executor, but not any other methods that might otherwise be accessible using casts.",
+            "Function": "unconfigurableScheduledExecutorService(ScheduledExecutorService executor)",
+            "Modifier and Type": "static ScheduledExecutorService"
+        }
+    ]
+}

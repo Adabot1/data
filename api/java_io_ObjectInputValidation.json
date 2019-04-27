@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Validates the object.",
+            "Function": "validateObject()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

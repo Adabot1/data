@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the group owner of the file.",
+            "Function": "group()",
+            "Modifier and Type": "GroupPrincipal"
+        },
+        {
+            "Comments": "Returns the owner of the file.",
+            "Function": "owner()",
+            "Modifier and Type": "UserPrincipal"
+        },
+        {
+            "Comments": "Returns the permissions of the file.",
+            "Function": "permissions()",
+            "Modifier and Type": "Set<PosixFilePermission>"
+        }
+    ]
+}

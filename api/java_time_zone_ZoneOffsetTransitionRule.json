@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "A definition of the way a local time can be converted to the actual transition date-time.",
+            "Function": "ZoneOffsetTransitionRule.TimeDefinition",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Creates a transition instance for the specified year.",
+            "Function": "createTransition(int year)",
+            "Modifier and Type": "ZoneOffsetTransition"
+        },
+        {
+            "Comments": "Checks if this object equals another.",
+            "Function": "equals(Object otherRule)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the indicator of the day-of-month of the transition.",
+            "Function": "getDayOfMonthIndicator()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the day-of-week of the transition.",
+            "Function": "getDayOfWeek()",
+            "Modifier and Type": "DayOfWeek"
+        },
+        {
+            "Comments": "Gets the local time of day of the transition which must be checked with isMidnightEndOfDay().",
+            "Function": "getLocalTime()",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Gets the month of the transition.",
+            "Function": "getMonth()",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Gets the offset after the transition.",
+            "Function": "getOffsetAfter()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the offset before the transition.",
+            "Function": "getOffsetBefore()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the standard offset in force at the transition.",
+            "Function": "getStandardOffset()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the time definition, specifying how to convert the time to an instant.",
+            "Function": "getTimeDefinition()",
+            "Modifier and Type": "ZoneOffsetTransitionRule.TimeDefinition"
+        },
+        {
+            "Comments": "Returns a suitable hash code.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Is the transition local time midnight at the end of day.",
+            "Function": "isMidnightEndOfDay()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains an instance defining the yearly rule to create transitions between two offsets.",
+            "Function": "of(Month month,int dayOfMonthIndicator,DayOfWeek dayOfWeek,LocalTime time,boolean timeEndOfDay,ZoneOffsetTransitionRule.TimeDefinition timeDefnition,ZoneOffset standardOffset,ZoneOffset offsetBefore,ZoneOffset offsetAfter)",
+            "Modifier and Type": "static ZoneOffsetTransitionRule"
+        },
+        {
+            "Comments": "Returns a string describing this object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

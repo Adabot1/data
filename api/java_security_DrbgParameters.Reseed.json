@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the requested additional input.",
+            "Function": "getAdditionalInput()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns whether prediction resistance is requested.",
+            "Function": "getPredictionResistance()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

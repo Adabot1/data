@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Application-specified source of randomness.",
+            "Function": "appRandom",
+            "Modifier and Type": "protected SecureRandom"
+        },
+        {
+            "Comments": "Returns a clone if the implementation is cloneable.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Deprecated. ",
+            "Function": "engineGetParameter(String param)",
+            "Modifier and Type": "protected abstract Object"
+        },
+        {
+            "Comments": "This method is overridden by providers to return the parameters used with this signature engine.",
+            "Function": "engineGetParameters()",
+            "Modifier and Type": "protected AlgorithmParameters"
+        },
+        {
+            "Comments": "Initializes this signature object with the specified private key for signing operations.",
+            "Function": "engineInitSign(PrivateKey privateKey)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this signature object with the specified private key and source of randomness for signing operations.",
+            "Function": "engineInitSign(PrivateKey privateKey,SecureRandom random)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Initializes this signature object with the specified public key for verification operations.",
+            "Function": "engineInitVerify(PublicKey publicKey)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Deprecated.Replaced by engineSetParameter.",
+            "Function": "engineSetParameter(String param,Object value)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "This method is overridden by providers to initialize this signature engine with the specified parameter set.",
+            "Function": "engineSetParameter(AlgorithmParameterSpec params)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Returns the signature bytes of all the data updated so far.",
+            "Function": "engineSign()",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Finishes this signature operation and stores the resulting signature bytes in the provided buffer outbuf, starting at offset.",
+            "Function": "engineSign(byte[] outbuf,int offset,int len)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Updates the data to be signed or verified using the specified byte.",
+            "Function": "engineUpdate(byte b)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Updates the data to be signed or verified, using the specified array of bytes, starting at the specified offset.",
+            "Function": "engineUpdate(byte[] b,int off,int len)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Updates the data to be signed or verified using the specified ByteBuffer.",
+            "Function": "engineUpdate(ByteBuffer input)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Verifies the passed-in signature.",
+            "Function": "engineVerify(byte[] sigBytes)",
+            "Modifier and Type": "protected abstract boolean"
+        },
+        {
+            "Comments": "Verifies the passed-in signature in the specified array of bytes, starting at the specified offset.",
+            "Function": "engineVerify(byte[] sigBytes,int offset,int length)",
+            "Modifier and Type": "protected boolean"
+        }
+    ]
+}

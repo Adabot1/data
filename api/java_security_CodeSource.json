@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a CodeSource and associates it with the specified location and set of certificates.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a CodeSource and associates it with the specified location and set of code signers.",
+            "Function": "getCertificates()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Tests for equality between the specified object and this object.",
+            "Function": "getCodeSigners()",
+            "Modifier and Type": "CodeSigner[]"
+        },
+        {
+            "Comments": "Returns the certificates associated with this CodeSource.",
+            "Function": "getLocation()",
+            "Modifier and Type": "URL"
+        },
+        {
+            "Comments": "Returns the code signers associated with this CodeSource.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the location associated with this CodeSource.",
+            "Function": "implies(CodeSource codesource)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the hash code value for this object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

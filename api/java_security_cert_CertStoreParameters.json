@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Makes a copy of this CertStoreParameters.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        }
+    ]
+}

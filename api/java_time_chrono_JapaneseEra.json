@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "The singleton instance for the 'Heisei' era (1989-01-08 - 2019-04-30) which has the value 2.",
+            "Function": "HEISEI",
+            "Modifier and Type": "static JapaneseEra"
+        },
+        {
+            "Comments": "The singleton instance for the 'Meiji' era (1868-01-01 - 1912-07-29) which has the value -1.",
+            "Function": "MEIJI",
+            "Modifier and Type": "static JapaneseEra"
+        },
+        {
+            "Comments": "The singleton instance for the 'Showa' era (1926-12-25 - 1989-01-07) which has the value 1.",
+            "Function": "SHOWA",
+            "Modifier and Type": "static JapaneseEra"
+        },
+        {
+            "Comments": "The singleton instance for the 'Taisho' era (1912-07-30 - 1926-12-24) which has the value 0.",
+            "Function": "TAISHO",
+            "Modifier and Type": "static JapaneseEra"
+        },
+        {
+            "Comments": "Gets the textual representation of this era.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the numeric era int value.",
+            "Function": "getValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Obtains an instance of JapaneseEra from an int value.",
+            "Function": "of(int japaneseEra)",
+            "Modifier and Type": "static JapaneseEra"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Returns the JapaneseEra with the name.",
+            "Function": "valueOf(String japaneseEra)",
+            "Modifier and Type": "static JapaneseEra"
+        },
+        {
+            "Comments": "Returns an array of JapaneseEras.",
+            "Function": "values()",
+            "Modifier and Type": "static JapaneseEra[]"
+        }
+    ]
+}

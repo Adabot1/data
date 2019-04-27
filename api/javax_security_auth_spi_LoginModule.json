@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Method to abort the authentication process (phase 2).",
+            "Function": "abort()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Method to commit the authentication process (phase 2).",
+            "Function": "commit()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Initialize this LoginModule.",
+            "Function": "initialize(Subject subject,CallbackHandler callbackHandler,Map<String,?> sharedState,Map<String,?> options)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Method to authenticate a Subject (phase 1).",
+            "Function": "login()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Method which logs out a Subject.",
+            "Function": "logout()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

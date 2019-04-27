@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a CRL of the specified type.",
+            "Function": "getType()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the type of this CRL.",
+            "Function": "isRevoked(Certificate cert)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Checks whether the given certificate is on this CRL.",
+            "Function": "toString()",
+            "Modifier and Type": "abstract boolean"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the day-of-week in month adjuster, which returns a new date with the ordinal day-of-week based on the month.",
+            "Function": "dayOfWeekInMonth(int ordinal,DayOfWeek dayOfWeek)",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the \"first day of month\" adjuster, which returns a new date set to the first day of the current month.",
+            "Function": "firstDayOfMonth()",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the \"first day of next month\" adjuster, which returns a new date set to the first day of the next month.",
+            "Function": "firstDayOfNextMonth()",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the \"first day of next year\" adjuster, which returns a new date set to the first day of the next year.",
+            "Function": "firstDayOfNextYear()",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the \"first day of year\" adjuster, which returns a new date set to the first day of the current year.",
+            "Function": "firstDayOfYear()",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the first in month adjuster, which returns a new date in the same month with the first matching day-of-week.",
+            "Function": "firstInMonth(DayOfWeek dayOfWeek)",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the \"last day of month\" adjuster, which returns a new date set to the last day of the current month.",
+            "Function": "lastDayOfMonth()",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the \"last day of year\" adjuster, which returns a new date set to the last day of the current year.",
+            "Function": "lastDayOfYear()",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the last in month adjuster, which returns a new date in the same month with the last matching day-of-week.",
+            "Function": "lastInMonth(DayOfWeek dayOfWeek)",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the next day-of-week adjuster, which adjusts the date to the first occurrence of the specified day-of-week after the date being adjusted.",
+            "Function": "next(DayOfWeek dayOfWeek)",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the next-or-same day-of-week adjuster, which adjusts the date to the first occurrence of the specified day-of-week after the date being adjusted unless it is already on that day in which case the same object is returned.",
+            "Function": "nextOrSame(DayOfWeek dayOfWeek)",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Obtains a TemporalAdjuster that wraps a date adjuster.",
+            "Function": "ofDateAdjuster(UnaryOperator<LocalDate> dateBasedAdjuster)",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the previous day-of-week adjuster, which adjusts the date to the first occurrence of the specified day-of-week before the date being adjusted.",
+            "Function": "previous(DayOfWeek dayOfWeek)",
+            "Modifier and Type": "static TemporalAdjuster"
+        },
+        {
+            "Comments": "Returns the previous-or-same day-of-week adjuster, which adjusts the date to the first occurrence of the specified day-of-week before the date being adjusted unless it is already on that day in which case the same object is returned.",
+            "Function": "previousOrSame(DayOfWeek dayOfWeek)",
+            "Modifier and Type": "static TemporalAdjuster"
+        }
+    ]
+}

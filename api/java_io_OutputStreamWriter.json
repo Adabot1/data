@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an OutputStreamWriter that uses the default character encoding.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates an OutputStreamWriter that uses the named charset.",
+            "Function": "getEncoding()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates an OutputStreamWriter that uses the given charset.",
+            "Function": "write(char[] cbuf, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates an OutputStreamWriter that uses the given charset encoder.",
+            "Function": "write(int c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes the stream.",
+            "Function": "write(String str, int off, int len)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

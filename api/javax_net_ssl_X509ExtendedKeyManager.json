@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor used by subclasses only.",
+            "Function": "chooseEngineClientAlias(String[] keyType, Principal[] issuers, SSLEngine engine)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Choose an alias to authenticate the client side of an SSLEngine connection given the public key type and the list of certificate issuer authorities recognized by the peer (if any).",
+            "Function": "chooseEngineServerAlias(String keyType, Principal[] issuers, SSLEngine engine)",
+            "Modifier and Type": "String"
+        }
+    ]
+}

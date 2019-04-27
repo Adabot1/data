@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Canonical decomposition, followed by canonical composition.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Normalizer.Form"
+        },
+        {
+            "Comments": "Canonical decomposition.",
+            "Function": "values()",
+            "Modifier and Type": "static Normalizer.Form[]"
+        }
+    ]
+}

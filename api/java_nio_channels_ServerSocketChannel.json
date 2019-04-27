@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "accept()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Accepts a connection made to this channel's socket.",
+            "Function": "bind(SocketAddress local)",
+            "Modifier and Type": "abstract SocketChannel"
+        },
+        {
+            "Comments": "Binds the channel's socket to a local address and configures the socket to listen for connections.",
+            "Function": "bind(SocketAddress local,int backlog)",
+            "Modifier and Type": "ServerSocketChannel"
+        },
+        {
+            "Comments": "Binds the channel's socket to a local address and configures the socket to listen for connections.",
+            "Function": "getLocalAddress()",
+            "Modifier and Type": "abstract ServerSocketChannel"
+        },
+        {
+            "Comments": "Returns the socket address that this channel's socket is bound to.",
+            "Function": "open()",
+            "Modifier and Type": "abstract SocketAddress"
+        },
+        {
+            "Comments": "Opens a server-socket channel.",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "static ServerSocketChannel"
+        },
+        {
+            "Comments": "Sets the value of a socket option.",
+            "Function": "socket()",
+            "Modifier and Type": "abstract <T> ServerSocketChannel"
+        },
+        {
+            "Comments": "Retrieves a server socket associated with this channel.",
+            "Function": "validOps()",
+            "Modifier and Type": "abstract ServerSocket"
+        }
+    ]
+}

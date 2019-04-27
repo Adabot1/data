@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "begin()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Marks the beginning of an I/O operation that might block indefinitely.",
+            "Function": "close()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Closes this channel.",
+            "Function": "end(boolean completed)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Marks the end of an I/O operation that might block indefinitely.",
+            "Function": "implCloseChannel()",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

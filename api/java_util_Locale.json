@@ -1,0 +1,364 @@
+{
+    "API": [
+        {
+            "Comments": "Builder is used to build instances of Locale from values configured by the setters.",
+            "Function": "Locale.Builder",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Enum for locale categories.",
+            "Function": "Locale.Category",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "This enum provides constants to select a filtering mode for locale matching.",
+            "Function": "Locale.FilteringMode",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Enum for specifying the type defined in ISO 3166.",
+            "Function": "Locale.IsoCountryCode",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "This class expresses a Language Range defined in RFC 4647 Matching of Language Tags.",
+            "Function": "Locale.LanguageRange",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "CANADA",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "CANADA_FRENCH",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "CHINA",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "CHINESE",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "ENGLISH",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "FRANCE",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "FRENCH",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "GERMAN",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "GERMANY",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "ITALIAN",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "ITALY",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "JAPAN",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "JAPANESE",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "KOREA",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "KOREAN",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "PRC",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "The key for the private use extension ('x').",
+            "Function": "PRIVATE_USE_EXTENSION",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Useful constant for the root locale.",
+            "Function": "ROOT",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "SIMPLIFIED_CHINESE",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "TAIWAN",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for language.",
+            "Function": "TRADITIONAL_CHINESE",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "UK",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "The key for Unicode locale extension ('u').",
+            "Function": "UNICODE_LOCALE_EXTENSION",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Useful constant for country.",
+            "Function": "US",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Construct a locale from a language code.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Construct a locale from language and country.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Construct a locale from language, country and variant.",
+            "Function": "filter(List<Locale.LanguageRange> priorityList,Collection<Locale> locales)",
+            "Modifier and Type": "static List<Locale>"
+        },
+        {
+            "Comments": "Overrides Cloneable.",
+            "Function": "filter(List<Locale.LanguageRange> priorityList,Collection<Locale> locales,Locale.FilteringMode mode)",
+            "Modifier and Type": "static List<Locale>"
+        },
+        {
+            "Comments": "Returns true if this Locale is equal to another object.",
+            "Function": "filterTags(List<Locale.LanguageRange> priorityList,Collection<String> tags)",
+            "Modifier and Type": "static List<String>"
+        },
+        {
+            "Comments": "Returns a list of matching Locale instances using the filtering mechanism defined in RFC 4647.",
+            "Function": "filterTags(List<Locale.LanguageRange> priorityList,Collection<String> tags,Locale.FilteringMode mode)",
+            "Modifier and Type": "static List<String>"
+        },
+        {
+            "Comments": "Returns a list of matching Locale instances using the filtering mechanism defined in RFC 4647.",
+            "Function": "forLanguageTag(String languageTag)",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Returns a list of matching languages tags using the basic filtering mechanism defined in RFC 4647.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "static Locale[]"
+        },
+        {
+            "Comments": "Returns a list of matching languages tags using the basic filtering mechanism defined in RFC 4647.",
+            "Function": "getCountry()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a locale for the specified IETF BCP 47 language tag string.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Returns an array of all installed locales.",
+            "Function": "getDefault(Locale.Category category)",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Returns the country/region code for this locale, which should either be the empty string, an uppercase ISO 3166 2-letter code, or a UN M.49 3-digit code.",
+            "Function": "getDisplayCountry()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the current value of the default locale for this instance of the Java Virtual Machine.",
+            "Function": "getDisplayCountry(Locale inLocale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the current value of the default locale for the specified Category for this instance of the Java Virtual Machine.",
+            "Function": "getDisplayLanguage()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale's country that is appropriate for display to the user.",
+            "Function": "getDisplayLanguage(Locale inLocale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale's country that is appropriate for display to the user.",
+            "Function": "getDisplayName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale's language that is appropriate for display to the user.",
+            "Function": "getDisplayName(Locale inLocale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale's language that is appropriate for display to the user.",
+            "Function": "getDisplayScript()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale that is appropriate for display to the user.",
+            "Function": "getDisplayScript(Locale inLocale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale that is appropriate for display to the user.",
+            "Function": "getDisplayVariant()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale's script that is appropriate for display to the user.",
+            "Function": "getDisplayVariant(Locale inLocale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale's script that is appropriate for display to the user.",
+            "Function": "getExtension(char key)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a name for the locale's variant code that is appropriate for display to the user.",
+            "Function": "getExtensionKeys()",
+            "Modifier and Type": "Set<Character>"
+        },
+        {
+            "Comments": "Returns a name for the locale's variant code that is appropriate for display to the user.",
+            "Function": "getISO3Country()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the extension (or private use) value associated with the specified key, or null if there is no extension associated with the key.",
+            "Function": "getISO3Language()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the set of extension keys associated with this locale, or the empty set if it has no extensions.",
+            "Function": "getISOCountries()",
+            "Modifier and Type": "static String[]"
+        },
+        {
+            "Comments": "Returns a three-letter abbreviation for this locale's country.",
+            "Function": "getISOCountries(Locale.IsoCountryCode type)",
+            "Modifier and Type": "static Set<String>"
+        },
+        {
+            "Comments": "Returns a three-letter abbreviation of this locale's language.",
+            "Function": "getISOLanguages()",
+            "Modifier and Type": "static String[]"
+        },
+        {
+            "Comments": "Returns a list of all 2-letter country codes defined in ISO 3166.",
+            "Function": "getLanguage()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a Set of ISO3166 country codes for the specified type.",
+            "Function": "getScript()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a list of all 2-letter language codes defined in ISO 639.",
+            "Function": "getUnicodeLocaleAttributes()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns the language code of this Locale.",
+            "Function": "getUnicodeLocaleKeys()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns the script for this locale, which should either be the empty string or an ISO 15924 4-letter script code.",
+            "Function": "getUnicodeLocaleType(String key)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the set of unicode locale attributes associated with this locale, or the empty set if it has no attributes.",
+            "Function": "getVariant()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the set of Unicode locale keys defined by this locale, or the empty set if this locale has none.",
+            "Function": "hasExtensions()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the Unicode locale type associated with the specified Unicode locale key for this locale.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the variant code for this locale.",
+            "Function": "lookup(List<Locale.LanguageRange> priorityList,Collection<Locale> locales)",
+            "Modifier and Type": "static Locale"
+        },
+        {
+            "Comments": "Returns true if this Locale has any  extensions.",
+            "Function": "lookupTag(List<Locale.LanguageRange> priorityList, Collection<String> tags)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Override hashCode.",
+            "Function": "setDefault(Locale newLocale)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns a Locale instance for the best-matching language tag using the lookup mechanism defined in RFC 4647.",
+            "Function": "setDefault(Locale.Category category,Locale newLocale)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns the best-matching language tag using the lookup mechanism defined in RFC 4647.",
+            "Function": "stripExtensions()",
+            "Modifier and Type": "Locale"
+        },
+        {
+            "Comments": "Sets the default locale for this instance of the Java Virtual Machine.",
+            "Function": "toLanguageTag()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Sets the default locale for the specified Category for this instance of the Java Virtual Machine.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

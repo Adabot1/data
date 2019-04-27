@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "If the file is opened for WRITE access then bytes will be written to the end of the file rather than the beginning.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static StandardOpenOption"
+        },
+        {
+            "Comments": "Create a new file if it does not exist.",
+            "Function": "values()",
+            "Modifier and Type": "static StandardOpenOption[]"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Generates the parameters.",
+            "Function": "engineGenerateParameters()",
+            "Modifier and Type": "protected abstract AlgorithmParameters"
+        },
+        {
+            "Comments": "Initializes this parameter generator for a certain size and source of randomness.",
+            "Function": "engineInit(int size,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this parameter generator with a set of algorithm-specific parameter generation values.",
+            "Function": "engineInit(AlgorithmParameterSpec genParamSpec,SecureRandom random)",
+            "Modifier and Type": "protected abstract void"
+        }
+    ]
+}

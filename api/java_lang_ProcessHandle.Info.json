@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an array of Strings of the arguments of the process.",
+            "Function": "arguments()",
+            "Modifier and Type": "Optional<String[]>"
+        },
+        {
+            "Comments": "Returns the executable pathname of the process.",
+            "Function": "command()",
+            "Modifier and Type": "Optional<String>"
+        },
+        {
+            "Comments": "Returns the command line of the process.",
+            "Function": "commandLine()",
+            "Modifier and Type": "Optional<String>"
+        },
+        {
+            "Comments": "Returns the start time of the process.",
+            "Function": "startInstant()",
+            "Modifier and Type": "Optional<Instant>"
+        },
+        {
+            "Comments": "Returns the total cputime accumulated of the process.",
+            "Function": "totalCpuDuration()",
+            "Modifier and Type": "Optional<Duration>"
+        },
+        {
+            "Comments": "Return the user of the process.",
+            "Function": "user()",
+            "Modifier and Type": "Optional<String>"
+        }
+    ]
+}

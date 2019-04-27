@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Permission to append data to a file.",
+            "Function": "ADD_FILE",
+            "Modifier and Type": "static AclEntryPermission"
+        },
+        {
+            "Comments": "Permission to delete the file.",
+            "Function": "ADD_SUBDIRECTORY",
+            "Modifier and Type": "static AclEntryPermission"
+        },
+        {
+            "Comments": "Permission to delete a file or directory within a directory.",
+            "Function": "LIST_DIRECTORY",
+            "Modifier and Type": "static AclEntryPermission"
+        },
+        {
+            "Comments": "Permission to execute a file.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static AclEntryPermission"
+        },
+        {
+            "Comments": "Permission to read the ACL attribute.",
+            "Function": "values()",
+            "Modifier and Type": "static AclEntryPermission[]"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Read the file owner.",
+            "Function": "getOwner()",
+            "Modifier and Type": "UserPrincipal"
+        },
+        {
+            "Comments": "Returns the name of the attribute view.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Updates the file owner.",
+            "Function": "setOwner(UserPrincipal owner)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "The connection to the JAR file URL, if the connection has been initiated.",
+            "Function": "jarFileURLConnection",
+            "Modifier and Type": "protected URLConnection"
+        },
+        {
+            "Comments": "Creates the new JarURLConnection to the specified URL.",
+            "Function": "getAttributes()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Return the Attributes object for this connection if the URL for it points to a JAR file entry, null otherwise.",
+            "Function": "getCertificates()",
+            "Modifier and Type": "Attributes"
+        },
+        {
+            "Comments": "Return the Certificate object for this connection if the URL for it points to a JAR file entry, null otherwise.",
+            "Function": "getEntryName()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Return the entry name for this connection.",
+            "Function": "getJarEntry()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Return the JAR entry object for this connection, if any.",
+            "Function": "getJarFile()",
+            "Modifier and Type": "JarEntry"
+        },
+        {
+            "Comments": "Return the JAR file for this connection.",
+            "Function": "getJarFileURL()",
+            "Modifier and Type": "abstract JarFile"
+        },
+        {
+            "Comments": "Returns the URL for the Jar file for this connection.",
+            "Function": "getMainAttributes()",
+            "Modifier and Type": "URL"
+        },
+        {
+            "Comments": "Returns the main Attributes for the JAR file for this connection.",
+            "Function": "getManifest()",
+            "Modifier and Type": "Attributes"
+        }
+    ]
+}

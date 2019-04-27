@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Performs the check(s) on the specified certificate using its internal state.",
+            "Function": "check(Certificate cert)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes the internal state of this CertPathChecker.",
+            "Function": "init(boolean forward)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Indicates if forward checking is supported.",
+            "Function": "isForwardCheckingSupported()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

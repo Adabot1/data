@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Test execute access.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static AccessMode"
+        },
+        {
+            "Comments": "Test read access.",
+            "Function": "values()",
+            "Modifier and Type": "static AccessMode[]"
+        }
+    ]
+}

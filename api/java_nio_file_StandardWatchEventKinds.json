@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Directory entry created.",
+            "Function": "ENTRY_CREATE",
+            "Modifier and Type": "static WatchEvent.Kind<Path>"
+        },
+        {
+            "Comments": "Directory entry deleted.",
+            "Function": "ENTRY_DELETE",
+            "Modifier and Type": "static WatchEvent.Kind<Path>"
+        },
+        {
+            "Comments": "Directory entry modified.",
+            "Function": "ENTRY_MODIFY",
+            "Modifier and Type": "static WatchEvent.Kind<Path>"
+        },
+        {
+            "Comments": "A special event to indicate that events may have been lost or discarded.",
+            "Function": "OVERFLOW",
+            "Modifier and Type": "static WatchEvent.Kind<Object>"
+        }
+    ]
+}

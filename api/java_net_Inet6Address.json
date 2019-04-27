@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the raw IP address of this InetAddress object.",
+            "Function": "getAddress()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Create an Inet6Address in the exact manner of InetAddress.getByAddress(String,byte[]) except that the IPv6 scope_id is set to the given numeric value.",
+            "Function": "getByAddress(String host,byte[] addr,int scope_id)",
+            "Modifier and Type": "static Inet6Address"
+        },
+        {
+            "Comments": "Create an Inet6Address in the exact manner of InetAddress.getByAddress(String,byte[]) except that the IPv6 scope_id is set to the value corresponding to the given interface for the address type specified in addr.",
+            "Function": "getByAddress(String host,byte[] addr,NetworkInterface nif)",
+            "Modifier and Type": "static Inet6Address"
+        },
+        {
+            "Comments": "Returns the IP address string in textual presentation.",
+            "Function": "getHostAddress()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the scoped interface, if this instance was created with with a scoped interface.",
+            "Function": "getScopedInterface()",
+            "Modifier and Type": "NetworkInterface"
+        },
+        {
+            "Comments": "Returns the numeric scopeId, if this instance is associated with an interface.",
+            "Function": "getScopeId()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hashcode for this IP address.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a wildcard address.",
+            "Function": "isAnyLocalAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is an IPv4 compatible IPv6 address.",
+            "Function": "isIPv4CompatibleAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is an link local address.",
+            "Function": "isLinkLocalAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a loopback address.",
+            "Function": "isLoopbackAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has global scope.",
+            "Function": "isMCGlobal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has link scope.",
+            "Function": "isMCLinkLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has node scope.",
+            "Function": "isMCNodeLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has organization scope.",
+            "Function": "isMCOrgLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has site scope.",
+            "Function": "isMCSiteLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is an IP multicast address. 11111111 at the start of the address identifies the address as being a multicast address.",
+            "Function": "isMulticastAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a site local address.",
+            "Function": "isSiteLocalAddress()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

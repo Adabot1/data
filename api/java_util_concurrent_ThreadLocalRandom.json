@@ -1,0 +1,134 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the current thread's ThreadLocalRandom.",
+            "Function": "current()",
+            "Modifier and Type": "static ThreadLocalRandom"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  double values, each between zero (inclusive) and one (exclusive).",
+            "Function": "doubles()",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  double values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "doubles(double randomNumberOrigin, double randomNumberBound)",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom double values, each between zero (inclusive) and one (exclusive).",
+            "Function": "doubles(long streamSize)",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom double values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "doubles(long streamSize, double randomNumberOrigin, double randomNumberBound)",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom int values.",
+            "Function": "ints()",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  int values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "ints(int randomNumberOrigin,int randomNumberBound)",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom int values.",
+            "Function": "ints(long streamSize)",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom int values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "ints(long streamSize,int randomNumberOrigin,int randomNumberBound)",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom long values.",
+            "Function": "longs()",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom long values.",
+            "Function": "longs(long streamSize)",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  long values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "longs(long randomNumberOrigin, long randomNumberBound)",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom long, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "longs(long streamSize, long randomNumberOrigin, long randomNumberBound)",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Generates a pseudorandom number with the indicated number of low-order bits.",
+            "Function": "next(int bits)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Returns a pseudorandom boolean value.",
+            "Function": "nextBoolean()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a pseudorandom double value between zero (inclusive) and one (exclusive).",
+            "Function": "nextDouble()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns a pseudorandom double value between 0.0 (inclusive) and the specified bound (exclusive).",
+            "Function": "nextDouble(double bound)",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns a pseudorandom double value between the specified origin (inclusive) and bound (exclusive).",
+            "Function": "nextDouble(double origin,double bound)",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns a pseudorandom float value between zero (inclusive) and one (exclusive).",
+            "Function": "nextFloat()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns a pseudorandom int value.",
+            "Function": "nextInt()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a pseudorandom int value between zero (inclusive) and the specified bound (exclusive).",
+            "Function": "nextInt(int bound)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a pseudorandom int value between the specified origin (inclusive) and the specified bound (exclusive).",
+            "Function": "nextInt(int origin, int bound)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a pseudorandom long value.",
+            "Function": "nextLong()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a pseudorandom long value between zero (inclusive) and the specified bound (exclusive).",
+            "Function": "nextLong(long bound)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a pseudorandom long value between the specified origin (inclusive) and the specified bound (exclusive).",
+            "Function": "nextLong(long origin,long bound)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Throws UnsupportedOperationException.",
+            "Function": "setSeed(long seed)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

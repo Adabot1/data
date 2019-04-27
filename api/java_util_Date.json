@@ -1,0 +1,149 @@
+{
+    "API": [
+        {
+            "Comments": "Allocates a Date object and initializes it so that it represents the time at which it was allocated, measured to the nearest millisecond.",
+            "Function": "after(Date when)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(year + 1900, month, date) or GregorianCalendar(year + 1900, month, date).",
+            "Function": "before(Date when)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(year + 1900, month, date, hrs, min) or GregorianCalendar(year + 1900, month, date, hrs, min).",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(year + 1900, month, date, hrs, min, sec) or GregorianCalendar(year + 1900, month, date, hrs, min, sec).",
+            "Function": "compareTo(Date anotherDate)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Allocates a Date object and initializes it to represent the specified number of milliseconds since the standard base time known as \"the epoch\", namely January 1, 1970, 00:00:00 GMT.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by DateFormat.parse(String s).",
+            "Function": "from(Instant instant)",
+            "Modifier and Type": "static Date"
+        },
+        {
+            "Comments": "Tests if this date is after the specified date.",
+            "Function": "getDate()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if this date is before the specified date.",
+            "Function": "getDay()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return a copy of this object.",
+            "Function": "getHours()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares two Dates for ordering.",
+            "Function": "getMinutes()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares two dates for equality.",
+            "Function": "getMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Obtains an instance of Date from an Instant object.",
+            "Function": "getSeconds()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.get(Calendar.DAY_OF_MONTH).",
+            "Function": "getTime()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.get(Calendar.DAY_OF_WEEK).",
+            "Function": "getTimezoneOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.get(Calendar.HOUR_OF_DAY).",
+            "Function": "getYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.get(Calendar.MINUTE).",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.get(Calendar.MONTH).",
+            "Function": "parse(String s)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.get(Calendar.SECOND).",
+            "Function": "setDate(int date)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the number of milliseconds since January 1, 1970, 00:00:00 GMT represented by this Date object.",
+            "Function": "setHours(int hours)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by -(Calendar.get(Calendar.ZONE_OFFSET) + Calendar.get(Calendar.DST_OFFSET)) / (60 * 1000).",
+            "Function": "setMinutes(int minutes)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.get(Calendar.YEAR) - 1900.",
+            "Function": "setMonth(int month)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a hash code value for this object.",
+            "Function": "setSeconds(int seconds)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by DateFormat.parse(String s).",
+            "Function": "setTime(long time)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(Calendar.DAY_OF_MONTH, int date).",
+            "Function": "setYear(int year)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(Calendar.HOUR_OF_DAY, int hours).",
+            "Function": "toGMTString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(Calendar.MINUTE, int minutes).",
+            "Function": "toInstant()",
+            "Modifier and Type": "Instant"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(Calendar.MONTH, int month).",
+            "Function": "toLocaleString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, replaced by Calendar.set(Calendar.SECOND, int seconds).",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Sets this Date object to represent a point in time that is time milliseconds after January 1, 1970 00:00:00 GMT.",
+            "Function": "UTC(int year, int month, int date, int hrs, int min, int sec)",
+            "Modifier and Type": "static long"
+        }
+    ]
+}

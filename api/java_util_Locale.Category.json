@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Category used to represent the default locale for displaying user interfaces.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Locale.Category"
+        },
+        {
+            "Comments": "Category used to represent the default locale for formatting dates, numbers, and/or currencies.",
+            "Function": "values()",
+            "Modifier and Type": "static Locale.Category[]"
+        }
+    ]
+}

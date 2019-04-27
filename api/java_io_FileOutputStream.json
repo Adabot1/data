@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a file output stream to write to the file represented by the specified File object.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a file output stream to write to the specified file descriptor, which represents an existing connection to an actual file in the file system.",
+            "Function": "finalize()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Creates a file output stream to write to the file represented by the specified File object.",
+            "Function": "getChannel()",
+            "Modifier and Type": "FileChannel"
+        },
+        {
+            "Comments": "Creates a file output stream to write to the file with the specified name.",
+            "Function": "getFD()",
+            "Modifier and Type": "FileDescriptor"
+        },
+        {
+            "Comments": "Creates a file output stream to write to the file with the specified name.",
+            "Function": "write(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes this file output stream and releases any system resources associated with this stream.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.The finalize method has been deprecated and will be removed.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

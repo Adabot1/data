@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a URLPermission with the given url string and unrestricted methods and request headers by invoking the two argument constructor as follows: URLPermission(url, \"*:*\")",
+            "Function": "equals(Object p)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new URLPermission from a url string and which permits the given request methods and user-settable request headers.",
+            "Function": "getActions()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns true if, this.getActions().equals(p.getActions()) and p's url equals this's url.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the normalized method list and request header list, in the form:",
+            "Function": "implies(Permission p)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

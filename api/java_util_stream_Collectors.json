@@ -1,0 +1,219 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a Collector that produces the arithmetic mean of a double-valued function applied to the input elements.",
+            "Function": "averagingDouble(ToDoubleFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Double>"
+        },
+        {
+            "Comments": "Returns a Collector that produces the arithmetic mean of an integer-valued function applied to the input elements.",
+            "Function": "averagingInt(ToIntFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Double>"
+        },
+        {
+            "Comments": "Returns a Collector that produces the arithmetic mean of a long-valued function applied to the input elements.",
+            "Function": "averagingLong(ToLongFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Double>"
+        },
+        {
+            "Comments": "Adapts a Collector to perform an additional finishing transformation.",
+            "Function": "collectingAndThen(Collector<T,A,R> downstream, Function<R,RR> finisher)",
+            "Modifier and Type": "static <T,​A,​R,​RR>Collector<T,​A,​RR>"
+        },
+        {
+            "Comments": "Returns a Collector accepting elements of type T that counts the number of input elements.",
+            "Function": "counting()",
+            "Modifier and Type": "static <T> Collector<T,​?,​Long>"
+        },
+        {
+            "Comments": "Adapts a Collector to one accepting elements of the same type T by applying the predicate to each input element and only accumulating if the predicate returns true.",
+            "Function": "filtering(Predicate<? super T> predicate, Collector<? super T,A,R> downstream)",
+            "Modifier and Type": "static <T,​A,​R>Collector<T,​?,​R>"
+        },
+        {
+            "Comments": "Adapts a Collector accepting elements of type U to one accepting elements of type T by applying a flat mapping function to each input element before accumulation.",
+            "Function": "flatMapping(Function<? super T,? extends Stream<? extends U>> mapper, Collector<? super U,A,R> downstream)",
+            "Modifier and Type": "static <T,​U,​A,​R>Collector<T,​?,​R>"
+        },
+        {
+            "Comments": "Returns a Collector implementing a \"group by\" operation on input elements of type T, grouping elements according to a classification function, and returning the results in a Map.",
+            "Function": "groupingBy(Function<? super T,? extends K> classifier)",
+            "Modifier and Type": "static <T,​K>Collector<T,​?,​Map<K,​List<T>>>"
+        },
+        {
+            "Comments": "Returns a Collector implementing a cascaded \"group by\" operation on input elements of type T, grouping elements according to a classification function, and then performing a reduction operation on the values associated with a given key using the specified downstream Collector.",
+            "Function": "groupingBy(Function<? super T,? extends K> classifier,Supplier<M> mapFactory,Collector<? super T,A,D> downstream)",
+            "Modifier and Type": "static <T,​K,​D,​A,​M extends Map<K,​D>>Collector<T,​?,​M>"
+        },
+        {
+            "Comments": "Returns a Collector implementing a cascaded \"group by\" operation on input elements of type T, grouping elements according to a classification function, and then performing a reduction operation on the values associated with a given key using the specified downstream Collector.",
+            "Function": "groupingBy(Function<? super T,? extends K> classifier,Collector<? super T,A,D> downstream)",
+            "Modifier and Type": "static <T,​K,​A,​D>Collector<T,​?,​Map<K,​D>>"
+        },
+        {
+            "Comments": "Returns a concurrent Collector implementing a \"group by\" operation on input elements of type T, grouping elements according to a classification function.",
+            "Function": "groupingByConcurrent(Function<? super T,? extends K> classifier)",
+            "Modifier and Type": "static <T,​K>Collector<T,​?,​ConcurrentMap<K,​List<T>>>"
+        },
+        {
+            "Comments": "Returns a concurrent Collector implementing a cascaded \"group by\" operation on input elements of type T, grouping elements according to a classification function, and then performing a reduction operation on the values associated with a given key using the specified downstream Collector.",
+            "Function": "groupingByConcurrent(Function<? super T,? extends K> classifier,Supplier<M> mapFactory,Collector<? super T,A,D> downstream)",
+            "Modifier and Type": "static <T,​K,​A,​D,​M extends ConcurrentMap<K,​D>>Collector<T,​?,​M>"
+        },
+        {
+            "Comments": "Returns a concurrent Collector implementing a cascaded \"group by\" operation on input elements of type T, grouping elements according to a classification function, and then performing a reduction operation on the values associated with a given key using the specified downstream Collector.",
+            "Function": "groupingByConcurrent(Function<? super T,? extends K> classifier,Collector<? super T,A,D> downstream)",
+            "Modifier and Type": "static <T,​K,​A,​D>Collector<T,​?,​ConcurrentMap<K,​D>>"
+        },
+        {
+            "Comments": "Returns a Collector that concatenates the input elements into a String, in encounter order.",
+            "Function": "joining()",
+            "Modifier and Type": "static Collector<CharSequence,​?,​String>"
+        },
+        {
+            "Comments": "Returns a Collector that concatenates the input elements, separated by the specified delimiter, in encounter order.",
+            "Function": "joining(CharSequence delimiter)",
+            "Modifier and Type": "static Collector<CharSequence,​?,​String>"
+        },
+        {
+            "Comments": "Returns a Collector that concatenates the input elements, separated by the specified delimiter, with the specified prefix and suffix, in encounter order.",
+            "Function": "joining(CharSequence delimiter, CharSequence prefix, CharSequence suffix)",
+            "Modifier and Type": "static Collector<CharSequence,​?,​String>"
+        },
+        {
+            "Comments": "Adapts a Collector accepting elements of type U to one accepting elements of type T by applying a mapping function to each input element before accumulation.",
+            "Function": "mapping(Function<? super T,? extends U> mapper, Collector<? super U,A,R> downstream)",
+            "Modifier and Type": "static <T,​U,​A,​R>Collector<T,​?,​R>"
+        },
+        {
+            "Comments": "Returns a Collector that produces the maximal element according to a given Comparator, described as an Optional<T>.",
+            "Function": "maxBy(Comparator<? super T> comparator)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Optional<T>>"
+        },
+        {
+            "Comments": "Returns a Collector that produces the minimal element according to a given Comparator, described as an Optional<T>.",
+            "Function": "minBy(Comparator<? super T> comparator)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Optional<T>>"
+        },
+        {
+            "Comments": "Returns a Collector which partitions the input elements according to a Predicate, and organizes them into a Map<Boolean, List<T>>.",
+            "Function": "partitioningBy(Predicate<? super T> predicate)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Map<Boolean,​List<T>>>"
+        },
+        {
+            "Comments": "Returns a Collector which partitions the input elements according to a Predicate, reduces the values in each partition according to another Collector, and organizes them into a Map<Boolean, D> whose values are the result of the downstream reduction.",
+            "Function": "partitioningBy(Predicate<? super T> predicate,Collector<? super T,A,D> downstream)",
+            "Modifier and Type": "static <T,​D,​A>Collector<T,​?,​Map<Boolean,​D>>"
+        },
+        {
+            "Comments": "Returns a Collector which performs a reduction of its input elements under a specified BinaryOperator.",
+            "Function": "reducing(BinaryOperator<T> op)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Optional<T>>"
+        },
+        {
+            "Comments": "Returns a Collector which performs a reduction of its input elements under a specified BinaryOperator using the provided identity.",
+            "Function": "reducing(T identity,BinaryOperator<T> op)",
+            "Modifier and Type": "static <T> Collector<T,​?,​T>"
+        },
+        {
+            "Comments": "Returns a Collector which performs a reduction of its input elements under a specified mapping function and BinaryOperator.",
+            "Function": "reducing(U identity,Function<? super T,? extends U> mapper,BinaryOperator<U> op)",
+            "Modifier and Type": "static <T,​U>Collector<T,​?,​U>"
+        },
+        {
+            "Comments": "Returns a Collector which applies an double-producing mapping function to each input element, and returns summary statistics for the resulting values.",
+            "Function": "summarizingDouble(ToDoubleFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​DoubleSummaryStatistics>"
+        },
+        {
+            "Comments": "Returns a Collector which applies an int-producing mapping function to each input element, and returns summary statistics for the resulting values.",
+            "Function": "summarizingInt(ToIntFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​IntSummaryStatistics>"
+        },
+        {
+            "Comments": "Returns a Collector which applies an long-producing mapping function to each input element, and returns summary statistics for the resulting values.",
+            "Function": "summarizingLong(ToLongFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​LongSummaryStatistics>"
+        },
+        {
+            "Comments": "Returns a Collector that produces the sum of a double-valued function applied to the input elements.",
+            "Function": "summingDouble(ToDoubleFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Double>"
+        },
+        {
+            "Comments": "Returns a Collector that produces the sum of a integer-valued function applied to the input elements.",
+            "Function": "summingInt(ToIntFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Integer>"
+        },
+        {
+            "Comments": "Returns a Collector that produces the sum of a long-valued function applied to the input elements.",
+            "Function": "summingLong(ToLongFunction<? super T> mapper)",
+            "Modifier and Type": "static <T> Collector<T,​?,​Long>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates the input elements into a new Collection, in encounter order.",
+            "Function": "toCollection(Supplier<C> collectionFactory)",
+            "Modifier and Type": "static <T,​C extends Collection<T>>Collector<T,​?,​C>"
+        },
+        {
+            "Comments": "Returns a concurrent Collector that accumulates elements into a ConcurrentMap whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toConcurrentMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper)",
+            "Modifier and Type": "static <T,​K,​U>Collector<T,​?,​ConcurrentMap<K,​U>>"
+        },
+        {
+            "Comments": "Returns a concurrent Collector that accumulates elements into a ConcurrentMap whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toConcurrentMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper, BinaryOperator<U> mergeFunction)",
+            "Modifier and Type": "static <T,​K,​U>Collector<T,​?,​ConcurrentMap<K,​U>>"
+        },
+        {
+            "Comments": "Returns a concurrent Collector that accumulates elements into a ConcurrentMap whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toConcurrentMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper, BinaryOperator<U> mergeFunction, Supplier<M> mapFactory)",
+            "Modifier and Type": "static <T,​K,​U,​M extends ConcurrentMap<K,​U>>Collector<T,​?,​M>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates the input elements into a new List.",
+            "Function": "toList()",
+            "Modifier and Type": "static <T> Collector<T,​?,​List<T>>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates elements into a Map whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper)",
+            "Modifier and Type": "static <T,​K,​U>Collector<T,​?,​Map<K,​U>>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates elements into a Map whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper, BinaryOperator<U> mergeFunction)",
+            "Modifier and Type": "static <T,​K,​U>Collector<T,​?,​Map<K,​U>>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates elements into a Map whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper, BinaryOperator<U> mergeFunction, Supplier<M> mapFactory)",
+            "Modifier and Type": "static <T,​K,​U,​M extends Map<K,​U>>Collector<T,​?,​M>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates the input elements into a new Set.",
+            "Function": "toSet()",
+            "Modifier and Type": "static <T> Collector<T,​?,​Set<T>>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates the input elements into an unmodifiable List in encounter order.",
+            "Function": "toUnmodifiableList()",
+            "Modifier and Type": "static <T> Collector<T,​?,​List<T>>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates the input elements into an unmodifiable Map, whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toUnmodifiableMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper)",
+            "Modifier and Type": "static <T,​K,​U>Collector<T,​?,​Map<K,​U>>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates the input elements into an unmodifiable Map, whose keys and values are the result of applying the provided mapping functions to the input elements.",
+            "Function": "toUnmodifiableMap(Function<? super T,? extends K> keyMapper, Function<? super T,? extends U> valueMapper, BinaryOperator<U> mergeFunction)",
+            "Modifier and Type": "static <T,​K,​U>Collector<T,​?,​Map<K,​U>>"
+        },
+        {
+            "Comments": "Returns a Collector that accumulates the input elements into an unmodifiable Set.",
+            "Function": "toUnmodifiableSet()",
+            "Modifier and Type": "static <T> Collector<T,​?,​Set<T>>"
+        }
+    ]
+}

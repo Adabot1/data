@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Makes a copy of this CertPathBuilderResult.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the built certification path.",
+            "Function": "getCertPath()",
+            "Modifier and Type": "CertPath"
+        }
+    ]
+}

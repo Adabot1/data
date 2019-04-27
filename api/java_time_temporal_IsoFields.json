@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "The field that represents the day-of-quarter.",
+            "Function": "DAY_OF_QUARTER",
+            "Modifier and Type": "static TemporalField"
+        },
+        {
+            "Comments": "The field that represents the quarter-of-year.",
+            "Function": "QUARTER_OF_YEAR",
+            "Modifier and Type": "static TemporalField"
+        },
+        {
+            "Comments": "Unit that represents the concept of a quarter-year.",
+            "Function": "QUARTER_YEARS",
+            "Modifier and Type": "static TemporalUnit"
+        },
+        {
+            "Comments": "The field that represents the week-based-year.",
+            "Function": "WEEK_BASED_YEAR",
+            "Modifier and Type": "static TemporalField"
+        },
+        {
+            "Comments": "The unit that represents week-based-years for the purpose of addition and subtraction.",
+            "Function": "WEEK_BASED_YEARS",
+            "Modifier and Type": "static TemporalUnit"
+        },
+        {
+            "Comments": "The field that represents the week-of-week-based-year.",
+            "Function": "WEEK_OF_WEEK_BASED_YEAR",
+            "Modifier and Type": "static TemporalField"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an array of Type objects representing the actual type arguments to this type.",
+            "Function": "getActualTypeArguments()",
+            "Modifier and Type": "Type[]"
+        },
+        {
+            "Comments": "Returns a Type object representing the type that this type is a member of.",
+            "Function": "getOwnerType()",
+            "Modifier and Type": "Type"
+        },
+        {
+            "Comments": "Returns the Type object representing the class or interface that declared this type.",
+            "Function": "getRawType()",
+            "Modifier and Type": "Type"
+        }
+    ]
+}

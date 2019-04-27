@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a composed predicate that represents a short-circuiting logical AND of this predicate and another.",
+            "Function": "and(IntPredicate other)",
+            "Modifier and Type": "default IntPredicate"
+        },
+        {
+            "Comments": "Returns a predicate that represents the logical negation of this predicate.",
+            "Function": "negate()",
+            "Modifier and Type": "default IntPredicate"
+        },
+        {
+            "Comments": "Returns a composed predicate that represents a short-circuiting logical OR of this predicate and another.",
+            "Function": "or(IntPredicate other)",
+            "Modifier and Type": "default IntPredicate"
+        },
+        {
+            "Comments": "Evaluates this predicate on the given argument.",
+            "Function": "test(int value)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

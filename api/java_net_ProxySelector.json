@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Called to indicate that a connection could not be established to a proxy/socks server.",
+            "Function": "connectFailed(URI uri, SocketAddress sa, IOException ioe)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Gets the system-wide proxy selector.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static ProxySelector"
+        },
+        {
+            "Comments": "Returns a ProxySelector which uses the given proxy address for all HTTP and HTTPS requests.",
+            "Function": "of(InetSocketAddress proxyAddress)",
+            "Modifier and Type": "static ProxySelector"
+        },
+        {
+            "Comments": "Selects all the applicable proxies based on the protocol to access the resource with and a destination address to access the resource at.",
+            "Function": "select(URI uri)",
+            "Modifier and Type": "abstract List<Proxy>"
+        },
+        {
+            "Comments": "Sets (or unsets) the system-wide proxy selector.",
+            "Function": "setDefault(ProxySelector ps)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

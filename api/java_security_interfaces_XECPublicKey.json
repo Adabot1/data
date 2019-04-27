@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Get the u coordinate of the point.",
+            "Function": "getU()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

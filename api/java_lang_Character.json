@@ -1,0 +1,809 @@
+{
+    "API": [
+        {
+            "Comments": "Instances of this class represent particular subsets of the Unicode character set.",
+            "Function": "Character.Subset",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A family of character subsets representing the character blocks in the Unicode specification.",
+            "Function": "Character.UnicodeBlock",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A family of character subsets representing the character scripts defined in the Unicode Standard Annex #24: Script Names.",
+            "Function": "Character.UnicodeScript",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "The number of bytes used to represent a char value in unsigned binary form.",
+            "Function": "BYTES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "General category \"Mc\" in the Unicode specification.",
+            "Function": "COMBINING_SPACING_MARK",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Pc\" in the Unicode specification.",
+            "Function": "CONNECTOR_PUNCTUATION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Cc\" in the Unicode specification.",
+            "Function": "CONTROL",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Sc\" in the Unicode specification.",
+            "Function": "CURRENCY_SYMBOL",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Pd\" in the Unicode specification.",
+            "Function": "DASH_PUNCTUATION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Nd\" in the Unicode specification.",
+            "Function": "DECIMAL_DIGIT_NUMBER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"AN\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_ARABIC_NUMBER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"BN\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_BOUNDARY_NEUTRAL",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"CS\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_COMMON_NUMBER_SEPARATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"EN\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_EUROPEAN_NUMBER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"ES\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_EUROPEAN_NUMBER_SEPARATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"ET\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_EUROPEAN_NUMBER_TERMINATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"FSI\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_FIRST_STRONG_ISOLATE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Strong bidirectional character type \"L\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_LEFT_TO_RIGHT",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Strong bidirectional character type \"LRE\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_LEFT_TO_RIGHT_EMBEDDING",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"LRI\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_LEFT_TO_RIGHT_ISOLATE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Strong bidirectional character type \"LRO\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_LEFT_TO_RIGHT_OVERRIDE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"NSM\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_NONSPACING_MARK",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Neutral bidirectional character type \"ON\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_OTHER_NEUTRALS",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Neutral bidirectional character type \"B\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_PARAGRAPH_SEPARATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"PDF\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_POP_DIRECTIONAL_FORMAT",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"PDI\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_POP_DIRECTIONAL_ISOLATE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Strong bidirectional character type \"R\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_RIGHT_TO_LEFT",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Strong bidirectional character type \"AL\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_RIGHT_TO_LEFT_ARABIC",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Strong bidirectional character type \"RLE\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_RIGHT_TO_LEFT_EMBEDDING",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Weak bidirectional character type \"RLI\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_RIGHT_TO_LEFT_ISOLATE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Strong bidirectional character type \"RLO\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_RIGHT_TO_LEFT_OVERRIDE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Neutral bidirectional character type \"S\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_SEGMENT_SEPARATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Undefined bidirectional character type.",
+            "Function": "DIRECTIONALITY_UNDEFINED",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Neutral bidirectional character type \"WS\" in the Unicode specification.",
+            "Function": "DIRECTIONALITY_WHITESPACE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Me\" in the Unicode specification.",
+            "Function": "ENCLOSING_MARK",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Pe\" in the Unicode specification.",
+            "Function": "END_PUNCTUATION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Pf\" in the Unicode specification.",
+            "Function": "FINAL_QUOTE_PUNCTUATION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Cf\" in the Unicode specification.",
+            "Function": "FORMAT",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Pi\" in the Unicode specification.",
+            "Function": "INITIAL_QUOTE_PUNCTUATION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Nl\" in the Unicode specification.",
+            "Function": "LETTER_NUMBER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Zl\" in the Unicode specification.",
+            "Function": "LINE_SEPARATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Ll\" in the Unicode specification.",
+            "Function": "LOWERCASE_LETTER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Sm\" in the Unicode specification.",
+            "Function": "MATH_SYMBOL",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "The maximum value of a  Unicode code point, constant U+10FFFF.",
+            "Function": "MAX_CODE_POINT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The maximum value of a  Unicode high-surrogate code unit in the UTF-16 encoding, constant '\\uDBFF'.",
+            "Function": "MAX_HIGH_SURROGATE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The maximum value of a  Unicode low-surrogate code unit in the UTF-16 encoding, constant '\\uDFFF'.",
+            "Function": "MAX_LOW_SURROGATE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The maximum radix available for conversion to and from strings.",
+            "Function": "MAX_RADIX",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The maximum value of a Unicode surrogate code unit in the UTF-16 encoding, constant '\\uDFFF'.",
+            "Function": "MAX_SURROGATE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The constant value of this field is the largest value of type char, '\\uFFFF'.",
+            "Function": "MAX_VALUE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The minimum value of a  Unicode code point, constant U+0000.",
+            "Function": "MIN_CODE_POINT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The minimum value of a  Unicode high-surrogate code unit in the UTF-16 encoding, constant '\\uD800'.",
+            "Function": "MIN_HIGH_SURROGATE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The minimum value of a  Unicode low-surrogate code unit in the UTF-16 encoding, constant '\\uDC00'.",
+            "Function": "MIN_LOW_SURROGATE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The minimum radix available for conversion to and from strings.",
+            "Function": "MIN_RADIX",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The minimum value of a  Unicode supplementary code point, constant U+10000.",
+            "Function": "MIN_SUPPLEMENTARY_CODE_POINT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The minimum value of a Unicode surrogate code unit in the UTF-16 encoding, constant '\\uD800'.",
+            "Function": "MIN_SURROGATE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "The constant value of this field is the smallest value of type char, '\\u0000'.",
+            "Function": "MIN_VALUE",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "General category \"Lm\" in the Unicode specification.",
+            "Function": "MODIFIER_LETTER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Sk\" in the Unicode specification.",
+            "Function": "MODIFIER_SYMBOL",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Mn\" in the Unicode specification.",
+            "Function": "NON_SPACING_MARK",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Lo\" in the Unicode specification.",
+            "Function": "OTHER_LETTER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"No\" in the Unicode specification.",
+            "Function": "OTHER_NUMBER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Po\" in the Unicode specification.",
+            "Function": "OTHER_PUNCTUATION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"So\" in the Unicode specification.",
+            "Function": "OTHER_SYMBOL",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Zp\" in the Unicode specification.",
+            "Function": "PARAGRAPH_SEPARATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Co\" in the Unicode specification.",
+            "Function": "PRIVATE_USE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "The number of bits used to represent a char value in unsigned binary form, constant 16.",
+            "Function": "SIZE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "General category \"Zs\" in the Unicode specification.",
+            "Function": "SPACE_SEPARATOR",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Ps\" in the Unicode specification.",
+            "Function": "START_PUNCTUATION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Cs\" in the Unicode specification.",
+            "Function": "SURROGATE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Lt\" in the Unicode specification.",
+            "Function": "TITLECASE_LETTER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "The Class instance representing the primitive type char.",
+            "Function": "TYPE",
+            "Modifier and Type": "static Class<Character>"
+        },
+        {
+            "Comments": "General category \"Cn\" in the Unicode specification.",
+            "Function": "UNASSIGNED",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "General category \"Lu\" in the Unicode specification.",
+            "Function": "UPPERCASE_LETTER",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Deprecated.It is rarely appropriate to use this constructor.",
+            "Function": "charCount(int codePoint)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Determines the number of char values needed to represent the specified character (Unicode code point).",
+            "Function": "charValue()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Returns the value of this Character object.",
+            "Function": "codePointAt(char[] a, int index)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the code point at the given index of the char array.",
+            "Function": "codePointAt(char[] a, int index, int limit)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the code point at the given index of the char array, where only array elements with index less than limit can be used.",
+            "Function": "codePointAt(CharSequence seq, int index)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the code point at the given index of the CharSequence.",
+            "Function": "codePointBefore(char[] a, int index)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the code point preceding the given index of the char array.",
+            "Function": "codePointBefore(char[] a, int index, int start)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the code point preceding the given index of the char array, where only array elements with index greater than or equal to start can be used.",
+            "Function": "codePointBefore(CharSequence seq, int index)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the code point preceding the given index of the CharSequence.",
+            "Function": "codePointCount(char[] a,int offset,int count)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the number of Unicode code points in a subarray of the char array argument.",
+            "Function": "codePointCount(CharSequence seq,int beginIndex,int endIndex)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the number of Unicode code points in the text range of the specified char sequence.",
+            "Function": "codePointOf(String name)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the code point value of the Unicode character specified by the given Unicode character name.",
+            "Function": "compare(char x, char y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compares two char values numerically.",
+            "Function": "compareTo(Character anotherCharacter)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares two Character objects numerically.",
+            "Function": "digit(char ch, int radix)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the numeric value of the character ch in the specified radix.",
+            "Function": "digit(int codePoint, int radix)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the numeric value of the specified character (Unicode code point) in the specified radix.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "forDigit(int digit,int radix)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Determines the character representation for a specific digit in the specified radix.",
+            "Function": "getDirectionality(char ch)",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Returns the Unicode directionality property for the given character.",
+            "Function": "getDirectionality(int codePoint)",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Returns the Unicode directionality property for the given character (Unicode code point).",
+            "Function": "getName(int codePoint)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the Unicode name of the specified character codePoint, or null if the code point is unassigned.",
+            "Function": "getNumericValue(char ch)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the int value that the specified Unicode character represents.",
+            "Function": "getNumericValue(int codePoint)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the int value that the specified character (Unicode code point) represents.",
+            "Function": "getType(char ch)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns a value indicating a character's general category.",
+            "Function": "getType(int codePoint)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns a value indicating a character's general category.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code for this Character; equal to the result of invoking charValue().",
+            "Function": "hashCode(char value)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns a hash code for a char value; compatible with Character.hashCode().",
+            "Function": "highSurrogate(int codePoint)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Returns the leading surrogate (a  high surrogate code unit) of the  surrogate pair representing the specified supplementary character (Unicode code point) in the UTF-16 encoding.",
+            "Function": "isAlphabetic(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is an alphabet.",
+            "Function": "isBmpCodePoint(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines whether the specified character (Unicode code point) is in the Basic Multilingual Plane (BMP).",
+            "Function": "isDefined(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if a character is defined in Unicode.",
+            "Function": "isDefined(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if a character (Unicode code point) is defined in Unicode.",
+            "Function": "isDigit(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is a digit.",
+            "Function": "isDigit(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is a digit.",
+            "Function": "isHighSurrogate(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the given char value is a  Unicode high-surrogate code unit (also known as leading-surrogate code unit).",
+            "Function": "isIdentifierIgnorable(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character should be regarded as an ignorable character in a Java identifier or a Unicode identifier.",
+            "Function": "isIdentifierIgnorable(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) should be regarded as an ignorable character in a Java identifier or a Unicode identifier.",
+            "Function": "isIdeographic(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is a CJKV (Chinese, Japanese, Korean and Vietnamese) ideograph, as defined by the Unicode Standard.",
+            "Function": "isISOControl(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is an ISO control character.",
+            "Function": "isISOControl(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the referenced character (Unicode code point) is an ISO control character.",
+            "Function": "isJavaIdentifierPart(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character may be part of a Java identifier as other than the first character.",
+            "Function": "isJavaIdentifierPart(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the character (Unicode code point) may be part of a Java identifier as other than the first character.",
+            "Function": "isJavaIdentifierStart(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is permissible as the first character in a Java identifier.",
+            "Function": "isJavaIdentifierStart(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the character (Unicode code point) is permissible as the first character in a Java identifier.",
+            "Function": "isJavaLetter(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Deprecated.Replaced by isJavaIdentifierStart(char).",
+            "Function": "isJavaLetterOrDigit(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Deprecated.Replaced by isJavaIdentifierPart(char).",
+            "Function": "isLetter(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is a letter.",
+            "Function": "isLetter(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is a letter.",
+            "Function": "isLetterOrDigit(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is a letter or digit.",
+            "Function": "isLetterOrDigit(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is a letter or digit.",
+            "Function": "isLowerCase(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is a lowercase character.",
+            "Function": "isLowerCase(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is a lowercase character.",
+            "Function": "isLowSurrogate(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the given char value is a  Unicode low-surrogate code unit (also known as trailing-surrogate code unit).",
+            "Function": "isMirrored(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines whether the character is mirrored according to the Unicode specification.",
+            "Function": "isMirrored(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines whether the specified character (Unicode code point) is mirrored according to the Unicode specification.",
+            "Function": "isSpace(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Deprecated.Replaced by isWhitespace(char).",
+            "Function": "isSpaceChar(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is a Unicode space character.",
+            "Function": "isSpaceChar(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is a Unicode space character.",
+            "Function": "isSupplementaryCodePoint(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines whether the specified character (Unicode code point) is in the supplementary character range.",
+            "Function": "isSurrogate(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the given char value is a Unicode surrogate code unit.",
+            "Function": "isSurrogatePair(char high, char low)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines whether the specified pair of char values is a valid  Unicode surrogate pair.",
+            "Function": "isTitleCase(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is a titlecase character.",
+            "Function": "isTitleCase(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is a titlecase character.",
+            "Function": "isUnicodeIdentifierPart(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character may be part of a Unicode identifier as other than the first character.",
+            "Function": "isUnicodeIdentifierPart(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) may be part of a Unicode identifier as other than the first character.",
+            "Function": "isUnicodeIdentifierStart(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is permissible as the first character in a Unicode identifier.",
+            "Function": "isUnicodeIdentifierStart(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is permissible as the first character in a Unicode identifier.",
+            "Function": "isUpperCase(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is an uppercase character.",
+            "Function": "isUpperCase(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is an uppercase character.",
+            "Function": "isValidCodePoint(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines whether the specified code point is a valid  Unicode code point value.",
+            "Function": "isWhitespace(char ch)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character is white space according to Java.",
+            "Function": "isWhitespace(int codePoint)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Determines if the specified character (Unicode code point) is white space according to Java.",
+            "Function": "lowSurrogate(int codePoint)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Returns the trailing surrogate (a  low surrogate code unit) of the  surrogate pair representing the specified supplementary character (Unicode code point) in the UTF-16 encoding.",
+            "Function": "offsetByCodePoints(char[] a,int start,int count,int index,int codePointOffset)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the index within the given char subarray that is offset from the given index by codePointOffset code points.",
+            "Function": "offsetByCodePoints(CharSequence seq,int index,int codePointOffset)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the index within the given char sequence that is offset from the given index by codePointOffset code points.",
+            "Function": "reverseBytes(char ch)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Returns the value obtained by reversing the order of the bytes in the specified char value.",
+            "Function": "toChars(int codePoint)",
+            "Modifier and Type": "static char[]"
+        },
+        {
+            "Comments": "Converts the specified character (Unicode code point) to its UTF-16 representation stored in a char array.",
+            "Function": "toChars(int codePoint, char[] dst, int dstIndex)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts the specified character (Unicode code point) to its UTF-16 representation.",
+            "Function": "toCodePoint(char high, char low)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts the specified surrogate pair to its supplementary code point value.",
+            "Function": "toLowerCase(char ch)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Converts the character argument to lowercase using case mapping information from the UnicodeData file.",
+            "Function": "toLowerCase(int codePoint)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts the character (Unicode code point) argument to lowercase using case mapping information from the UnicodeData file.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a String object representing this Character's value.",
+            "Function": "toString(char c)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a String object representing the specified char.",
+            "Function": "toString(int codePoint)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a String object representing the specified character (Unicode code point).",
+            "Function": "toTitleCase(char ch)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Converts the character argument to titlecase using case mapping information from the UnicodeData file.",
+            "Function": "toTitleCase(int codePoint)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts the character (Unicode code point) argument to titlecase using case mapping information from the UnicodeData file.",
+            "Function": "toUpperCase(char ch)",
+            "Modifier and Type": "static char"
+        },
+        {
+            "Comments": "Converts the character argument to uppercase using case mapping information from the UnicodeData file.",
+            "Function": "toUpperCase(int codePoint)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts the character (Unicode code point) argument to uppercase using case mapping information from the UnicodeData file.",
+            "Function": "valueOf(char c)",
+            "Modifier and Type": "static Character"
+        }
+    ]
+}

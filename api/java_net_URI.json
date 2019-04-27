@@ -1,0 +1,149 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a URI by parsing the given string.",
+            "Function": "compareTo(URI that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a URI from the given components.",
+            "Function": "create(String str)",
+            "Modifier and Type": "static URI"
+        },
+        {
+            "Comments": "Constructs a hierarchical URI from the given components.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a hierarchical URI from the given components.",
+            "Function": "getAuthority()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Constructs a hierarchical URI from the given components.",
+            "Function": "getFragment()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compares this URI to another object, which must be a URI.",
+            "Function": "getHost()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates a URI by parsing the given string.",
+            "Function": "getPath()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Tests this URI for equality with another object.",
+            "Function": "getPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the decoded authority component of this URI.",
+            "Function": "getQuery()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the decoded fragment component of this URI.",
+            "Function": "getRawAuthority()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the host component of this URI.",
+            "Function": "getRawFragment()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the decoded path component of this URI.",
+            "Function": "getRawPath()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the port number of this URI.",
+            "Function": "getRawQuery()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the decoded query component of this URI.",
+            "Function": "getRawSchemeSpecificPart()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the raw authority component of this URI.",
+            "Function": "getRawUserInfo()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the raw fragment component of this URI.",
+            "Function": "getScheme()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the raw path component of this URI.",
+            "Function": "getSchemeSpecificPart()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the raw query component of this URI.",
+            "Function": "getUserInfo()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the raw scheme-specific part of this URI.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the raw user-information component of this URI.",
+            "Function": "isAbsolute()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the scheme component of this URI.",
+            "Function": "isOpaque()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the decoded scheme-specific part of this URI.",
+            "Function": "normalize()",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Returns the decoded user-information component of this URI.",
+            "Function": "parseServerAuthority()",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Returns a hash-code value for this URI.",
+            "Function": "relativize(URI uri)",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Tells whether or not this URI is absolute.",
+            "Function": "resolve(String str)",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Tells whether or not this URI is opaque.",
+            "Function": "resolve(URI uri)",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Normalizes this URI's path.",
+            "Function": "toASCIIString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Attempts to parse this URI's authority component, if defined, into user-information, host, and port components.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Relativizes the given URI against this URI.",
+            "Function": "toURL()",
+            "Modifier and Type": "URL"
+        }
+    ]
+}

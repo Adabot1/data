@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is present, else null.",
+            "Function": "getAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are present on this element.",
+            "Function": "getAnnotations()",
+            "Modifier and Type": "Annotation[]"
+        },
+        {
+            "Comments": "Returns annotations that are associated with this element.",
+            "Function": "getAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "default <T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is directly present, else null.",
+            "Function": "getDeclaredAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "default <T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are directly present on this element.",
+            "Function": "getDeclaredAnnotations()",
+            "Modifier and Type": "Annotation[]"
+        },
+        {
+            "Comments": "Returns this element's annotation(s) for the specified type if such annotations are either directly present or indirectly present.",
+            "Function": "getDeclaredAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "default <T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Returns true if an annotation for the specified type is present on this element, else false.",
+            "Function": "isAnnotationPresent(Class<? extends Annotation> annotationClass)",
+            "Modifier and Type": "default boolean"
+        }
+    ]
+}

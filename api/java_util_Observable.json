@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.",
+            "Function": "addObserver(Observer o)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Construct an Observable with zero Observers.",
+            "Function": "clearChanged()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "countObservers()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Adds an observer to the set of observers for this object, provided that it is not the same as some observer already in the set.",
+            "Function": "deleteObserver(Observer o)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "deleteObservers()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Indicates that this object has no longer changed, or that it has already notified all of its observers of its most recent change, so that the hasChanged method will now return false.",
+            "Function": "hasChanged()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "notifyObservers()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the number of observers of this Observable object.",
+            "Function": "notifyObservers(Object arg)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "setChanged()",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

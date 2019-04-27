@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a parameter set for ChaCha20 from the given nonce and counter.",
+            "Function": "getCounter()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the configured counter value.",
+            "Function": "getNonce()",
+            "Modifier and Type": "byte[]"
+        }
+    ]
+}

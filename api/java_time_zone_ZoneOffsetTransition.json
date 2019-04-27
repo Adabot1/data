@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this transition to another based on the transition instant.",
+            "Function": "compareTo(ZoneOffsetTransition transition)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this object equals another.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the local transition date-time, as would be expressed with the 'after' offset.",
+            "Function": "getDateTimeAfter()",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Gets the local transition date-time, as would be expressed with the 'before' offset.",
+            "Function": "getDateTimeBefore()",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Gets the duration of the transition.",
+            "Function": "getDuration()",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Gets the transition instant.",
+            "Function": "getInstant()",
+            "Modifier and Type": "Instant"
+        },
+        {
+            "Comments": "Gets the offset after the transition.",
+            "Function": "getOffsetAfter()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the offset before the transition.",
+            "Function": "getOffsetBefore()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Returns a suitable hash code.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Does this transition represent a gap in the local time-line.",
+            "Function": "isGap()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Does this transition represent an overlap in the local time-line.",
+            "Function": "isOverlap()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified offset is valid during this transition.",
+            "Function": "isValidOffset(ZoneOffset offset)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains an instance defining a transition between two offsets.",
+            "Function": "of(LocalDateTime transition,ZoneOffset offsetBefore,ZoneOffset offsetAfter)",
+            "Modifier and Type": "static ZoneOffsetTransition"
+        },
+        {
+            "Comments": "Gets the transition instant as an epoch second.",
+            "Function": "toEpochSecond()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a string describing this object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

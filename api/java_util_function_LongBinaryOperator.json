@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Applies this operator to the given operands.",
+            "Function": "applyAsLong(long left, long right)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a Type object representing the component type of this array.",
+            "Function": "getGenericComponentType()",
+            "Modifier and Type": "Type"
+        }
+    ]
+}

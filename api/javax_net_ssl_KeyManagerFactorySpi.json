@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Returns one key manager for each type of key material.",
+            "Function": "engineGetKeyManagers()",
+            "Modifier and Type": "protected abstract KeyManager[]"
+        },
+        {
+            "Comments": "Initializes this factory with a source of key material.",
+            "Function": "engineInit(KeyStore ks,char[] password)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this factory with a source of key material.",
+            "Function": "engineInit(ManagerFactoryParameters spec)",
+            "Modifier and Type": "protected abstract void"
+        }
+    ]
+}

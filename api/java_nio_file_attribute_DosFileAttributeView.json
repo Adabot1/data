@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the name of the attribute view.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads the basic file attributes as a bulk operation.",
+            "Function": "readAttributes()",
+            "Modifier and Type": "DosFileAttributes"
+        },
+        {
+            "Comments": "Updates the value of the archive attribute.",
+            "Function": "setArchive(boolean value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the value of the hidden attribute.",
+            "Function": "setHidden(boolean value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the value of the read-only attribute.",
+            "Function": "setReadOnly(boolean value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the value of the system attribute.",
+            "Function": "setSystem(boolean value)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new adder with initial sum of zero.",
+            "Function": "add(double x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds the given value.",
+            "Function": "doubleValue()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Equivalent to sum().",
+            "Function": "floatValue()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns the sum() as a float after a narrowing primitive conversion.",
+            "Function": "intValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the sum() as an int after a narrowing primitive conversion.",
+            "Function": "longValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the sum() as a long after a narrowing primitive conversion.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets variables maintaining the sum to zero.",
+            "Function": "sum()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the current sum.",
+            "Function": "sumThenReset()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Equivalent in effect to sum() followed by reset().",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "API": [
+        {
+            "Comments": "The BigInteger constant one.",
+            "Function": "ONE",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "The BigInteger constant ten.",
+            "Function": "TEN",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "The BigInteger constant two.",
+            "Function": "TWO",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "The BigInteger constant zero.",
+            "Function": "ZERO",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "Translates a byte array containing the two's-complement binary representation of a BigInteger into a BigInteger.",
+            "Function": "abs()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Translates a byte sub-array containing the two's-complement binary representation of a BigInteger into a BigInteger.",
+            "Function": "add(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Translates the sign-magnitude representation of a BigInteger into a BigInteger.",
+            "Function": "and(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Translates the sign-magnitude representation of a BigInteger into a BigInteger.",
+            "Function": "andNot(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Constructs a randomly generated positive BigInteger that is probably prime, with the specified bitLength.",
+            "Function": "bitCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a randomly generated BigInteger, uniformly distributed over the range 0 to (2numBits - 1), inclusive.",
+            "Function": "bitLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Translates the decimal String representation of a BigInteger into a BigInteger.",
+            "Function": "byteValueExact()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Translates the String representation of a BigInteger in the specified radix into a BigInteger.",
+            "Function": "clearBit(int n)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is the absolute value of this BigInteger.",
+            "Function": "compareTo(BigInteger val)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this + val).",
+            "Function": "divide(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this & val).",
+            "Function": "divideAndRemainder(BigInteger val)",
+            "Modifier and Type": "BigInteger[]"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this & ~val).",
+            "Function": "doubleValue()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the number of bits in the two's complement representation of this BigInteger that differ from its sign bit.",
+            "Function": "equals(Object x)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the number of bits in the minimal two's-complement representation of this BigInteger, excluding a sign bit.",
+            "Function": "flipBit(int n)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Converts this BigInteger to a byte, checking for lost information.",
+            "Function": "floatValue()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is equivalent to this BigInteger with the designated bit cleared.",
+            "Function": "gcd(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Compares this BigInteger with the specified BigInteger.",
+            "Function": "getLowestSetBit()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this / val).",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an array of two BigIntegers containing (this / val) followed by (this % val).",
+            "Function": "intValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Converts this BigInteger to a double.",
+            "Function": "intValueExact()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares this BigInteger with the specified Object for equality.",
+            "Function": "isProbablePrime(int certainty)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is equivalent to this BigInteger with the designated bit flipped.",
+            "Function": "longValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Converts this BigInteger to a float.",
+            "Function": "longValueExact()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is the greatest common divisor of abs(this) and abs(val).",
+            "Function": "max(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the index of the rightmost (lowest-order) one bit in this BigInteger (the number of zero bits to the right of the rightmost one bit).",
+            "Function": "min(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the hash code for this BigInteger.",
+            "Function": "mod(BigInteger m)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Converts this BigInteger to an int.",
+            "Function": "modInverse(BigInteger m)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Converts this BigInteger to an int, checking for lost information.",
+            "Function": "modPow(BigInteger exponent,BigInteger m)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns true if this BigInteger is probably prime, false if it's definitely composite.",
+            "Function": "multiply(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Converts this BigInteger to a long.",
+            "Function": "negate()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Converts this BigInteger to a long, checking for lost information.",
+            "Function": "nextProbablePrime()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the maximum of this BigInteger and val.",
+            "Function": "not()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the minimum of this BigInteger and val.",
+            "Function": "or(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this mod m).",
+            "Function": "pow(int exponent)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this-1 mod m).",
+            "Function": "probablePrime(int bitLength, Random rnd)",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (thisexponent mod m).",
+            "Function": "remainder(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this * val).",
+            "Function": "setBit(int n)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (-this).",
+            "Function": "shiftLeft(int n)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the first integer greater than this BigInteger that is probably prime.",
+            "Function": "shiftRight(int n)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (~this).",
+            "Function": "shortValueExact()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this | val).",
+            "Function": "signum()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (thisexponent).",
+            "Function": "sqrt()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a positive BigInteger that is probably prime, with the specified bitLength.",
+            "Function": "sqrtAndRemainder()",
+            "Modifier and Type": "BigInteger[]"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this % val).",
+            "Function": "subtract(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is equivalent to this BigInteger with the designated bit set.",
+            "Function": "testBit(int n)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this << n).",
+            "Function": "toByteArray()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns a BigInteger whose value is (this >> n).",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts this BigInteger to a short, checking for lost information.",
+            "Function": "toString(int radix)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the signum function of this BigInteger.",
+            "Function": "valueOf(long val)",
+            "Modifier and Type": "static BigInteger"
+        },
+        {
+            "Comments": "Returns the integer square root of this BigInteger.",
+            "Function": "xor(BigInteger val)",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

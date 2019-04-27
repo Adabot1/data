@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new DSAPublicKeySpec with the specified parameter values.",
+            "Function": "getG()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the base g.",
+            "Function": "getP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the prime p.",
+            "Function": "getQ()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the sub-prime q.",
+            "Function": "getY()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

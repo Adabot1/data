@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a message digest with the specified algorithm name.",
+            "Function": "clone()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a clone if the implementation is cloneable.",
+            "Function": "digest()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Completes the hash computation by performing final operations such as padding.",
+            "Function": "digest(byte[] input)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Performs a final update on the digest using the specified array of bytes, then completes the digest computation.",
+            "Function": "digest(byte[] buf,int offset,int len)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Completes the hash computation by performing final operations such as padding.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string that identifies the algorithm, independent of implementation details.",
+            "Function": "getDigestLength()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the length of the digest in bytes, or 0 if this operation is not supported by the provider and the implementation is not cloneable.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a MessageDigest object that implements the specified digest algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static MessageDigest"
+        },
+        {
+            "Comments": "Returns a MessageDigest object that implements the specified digest algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static MessageDigest"
+        },
+        {
+            "Comments": "Returns a MessageDigest object that implements the specified digest algorithm.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static MessageDigest"
+        },
+        {
+            "Comments": "Returns the provider of this message digest object.",
+            "Function": "isEqual(byte[] digesta, byte[] digestb)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Compares two digests for equality.",
+            "Function": "reset()",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Resets the digest for further use.",
+            "Function": "toString()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a string representation of this message digest object.",
+            "Function": "update(byte input)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Updates the digest using the specified byte.",
+            "Function": "update(byte[] input)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the digest using the specified array of bytes.",
+            "Function": "update(byte[] input,int offset,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the digest using the specified array of bytes, starting at the specified offset.",
+            "Function": "update(ByteBuffer input)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

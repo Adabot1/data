@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Makes a copy of this CertPathValidatorResult.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        }
+    ]
+}

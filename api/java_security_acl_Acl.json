@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "addEntry(Principal caller,AclEntry entry)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Adds an ACL entry to this ACL.",
+            "Function": "checkPermission(Principal principal, Permission permission)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "entries()",
+            "Modifier and Type": "Enumeration<AclEntry>"
+        },
+        {
+            "Comments": "Checks whether or not the specified principal has the specified permission.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getPermissions(Principal user)",
+            "Modifier and Type": "Enumeration<Permission>"
+        },
+        {
+            "Comments": "Returns an enumeration of the entries in this ACL.",
+            "Function": "removeEntry(Principal caller, AclEntry entry)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "setName(Principal caller, String name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the name of this ACL.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

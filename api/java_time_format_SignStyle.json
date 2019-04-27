@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Style to always output the sign, where zero will output '+'.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static SignStyle"
+        },
+        {
+            "Comments": "Style to always output the sign if the value exceeds the pad width.",
+            "Function": "values()",
+            "Modifier and Type": "static SignStyle[]"
+        }
+    ]
+}

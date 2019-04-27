@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "The cryptographic parameters used by the sealing Cipher, encoded in the default format.",
+            "Function": "encodedParams",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "Constructs a SealedObject from any Serializable object.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Constructs a SealedObject object from the passed-in SealedObject.",
+            "Function": "getObject(Key key)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the algorithm that was used to seal this object.",
+            "Function": "getObject(Key key, String provider)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Retrieves the original (encapsulated) object.",
+            "Function": "getObject(Cipher c)",
+            "Modifier and Type": "Object"
+        }
+    ]
+}

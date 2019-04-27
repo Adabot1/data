@@ -1,0 +1,119 @@
+{
+    "API": [
+        {
+            "Comments": "ResourceBundle.Control defines a set of callback methods that are invoked by the ResourceBundle.getBundle factory methods during the bundle loading process.",
+            "Function": "ResourceBundle.Control",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "The parent bundle of this bundle.",
+            "Function": "parent",
+            "Modifier and Type": "protected ResourceBundle"
+        },
+        {
+            "Comments": "Sole constructor.",
+            "Function": "clearCache()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Removes all resource bundles from the cache that have been loaded by the caller's module.",
+            "Function": "clearCache(ClassLoader loader)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Removes all resource bundles from the cache that have been loaded by the given class loader.",
+            "Function": "containsKey(String key)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Determines whether the given key is contained in this ResourceBundle or its parent bundles.",
+            "Function": "getBaseBundleName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the base name of this bundle, if known, or null if unknown.",
+            "Function": "getBundle(String baseName)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Gets a resource bundle using the specified base name, the default locale, and the caller module.",
+            "Function": "getBundle(String baseName, Module module)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Gets a resource bundle using the specified base name and the default locale on behalf of the specified module.",
+            "Function": "getBundle(String baseName, Locale locale)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Gets a resource bundle using the specified base name and locale, and the caller module.",
+            "Function": "getBundle(String baseName, Locale locale, ClassLoader loader)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Gets a resource bundle using the specified base name, locale, and class loader.",
+            "Function": "getBundle(String baseName, Locale targetLocale, ClassLoader loader, ResourceBundle.Control control)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Returns a resource bundle using the specified base name, target locale, class loader and control.",
+            "Function": "getBundle(String baseName, Locale targetLocale, Module module)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Gets a resource bundle using the specified base name and locale on behalf of the specified module.",
+            "Function": "getBundle(String baseName, Locale targetLocale, ResourceBundle.Control control)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Returns a resource bundle using the specified base name, target locale and control, and the caller's class loader.",
+            "Function": "getBundle(String baseName, ResourceBundle.Control control)",
+            "Modifier and Type": "static ResourceBundle"
+        },
+        {
+            "Comments": "Returns a resource bundle using the specified base name, the default locale and the specified control.",
+            "Function": "getKeys()",
+            "Modifier and Type": "abstract Enumeration<String>"
+        },
+        {
+            "Comments": "Returns an enumeration of the keys.",
+            "Function": "getLocale()",
+            "Modifier and Type": "Locale"
+        },
+        {
+            "Comments": "Returns the locale of this resource bundle.",
+            "Function": "getObject(String key)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Gets an object for the given key from this resource bundle or one of its parents.",
+            "Function": "getString(String key)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets a string for the given key from this resource bundle or one of its parents.",
+            "Function": "getStringArray(String key)",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Gets a string array for the given key from this resource bundle or one of its parents.",
+            "Function": "handleGetObject(String key)",
+            "Modifier and Type": "protected abstract Object"
+        },
+        {
+            "Comments": "Gets an object for the given key from this resource bundle.",
+            "Function": "handleKeySet()",
+            "Modifier and Type": "protected Set<String>"
+        },
+        {
+            "Comments": "Returns a Set of the keys contained only in this ResourceBundle.",
+            "Function": "keySet()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns a Set of all keys contained in this ResourceBundle and its parent bundles.",
+            "Function": "setParent(ResourceBundle parent)",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

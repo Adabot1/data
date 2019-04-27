@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getFirstDayOfWeek(Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the first day of a week in the given locale.",
+            "Function": "getMinimalDaysInFirstWeek(Locale locale)",
+            "Modifier and Type": "abstract int"
+        }
+    ]
+}

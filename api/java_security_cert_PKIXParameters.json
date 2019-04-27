@@ -1,0 +1,144 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of PKIXParameters that populates the set of most-trusted CAs from the trusted certificate entries contained in the specified KeyStore.",
+            "Function": "addCertPathChecker(PKIXCertPathChecker checker)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates an instance of PKIXParameters with the specified Set of most-trusted CAs.",
+            "Function": "addCertStore(CertStore store)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a PKIXCertPathChecker to the list of certification path checkers.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Adds a CertStore to the end of the list of CertStores used in finding certificates and CRLs.",
+            "Function": "getCertPathCheckers()",
+            "Modifier and Type": "List<PKIXCertPathChecker>"
+        },
+        {
+            "Comments": "Makes a copy of this PKIXParameters object.",
+            "Function": "getCertStores()",
+            "Modifier and Type": "List<CertStore>"
+        },
+        {
+            "Comments": "Returns the List of certification path checkers.",
+            "Function": "getDate()",
+            "Modifier and Type": "Date"
+        },
+        {
+            "Comments": "Returns an immutable List of CertStores that are used to find certificates and CRLs.",
+            "Function": "getInitialPolicies()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns the time for which the validity of the certification path should be determined.",
+            "Function": "getPolicyQualifiersRejected()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an immutable Set of initial policy identifiers (OID strings), indicating that any one of these policies would be acceptable to the certificate user for the purposes of certification path processing.",
+            "Function": "getSigProvider()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the PolicyQualifiersRejected flag.",
+            "Function": "getTargetCertConstraints()",
+            "Modifier and Type": "CertSelector"
+        },
+        {
+            "Comments": "Returns the signature provider's name, or null if not set.",
+            "Function": "getTrustAnchors()",
+            "Modifier and Type": "Set<TrustAnchor>"
+        },
+        {
+            "Comments": "Returns the required constraints on the target certificate.",
+            "Function": "isAnyPolicyInhibited()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an immutable Set of the most-trusted CAs.",
+            "Function": "isExplicitPolicyRequired()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks whether the any policy OID should be processed if it is included in a certificate.",
+            "Function": "isPolicyMappingInhibited()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if explicit policy is required.",
+            "Function": "isRevocationEnabled()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if policy mapping is inhibited.",
+            "Function": "setAnyPolicyInhibited(boolean val)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Checks the RevocationEnabled flag.",
+            "Function": "setCertPathCheckers(List<PKIXCertPathChecker> checkers)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets state to determine if the any policy OID should be processed if it is included in a certificate.",
+            "Function": "setCertStores(List<CertStore> stores)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets a List of additional certification path checkers.",
+            "Function": "setDate(Date date)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the list of CertStores to be used in finding certificates and CRLs.",
+            "Function": "setExplicitPolicyRequired(boolean val)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the time for which the validity of the certification path should be determined.",
+            "Function": "setInitialPolicies(Set<String> initialPolicies)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the ExplicitPolicyRequired flag.",
+            "Function": "setPolicyMappingInhibited(boolean val)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the Set of initial policy identifiers (OID strings), indicating that any one of these policies would be acceptable to the certificate user for the purposes of certification path processing.",
+            "Function": "setPolicyQualifiersRejected(boolean qualifiersRejected)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the PolicyMappingInhibited flag.",
+            "Function": "setRevocationEnabled(boolean val)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the PolicyQualifiersRejected flag.",
+            "Function": "setSigProvider(String sigProvider)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the RevocationEnabled flag.",
+            "Function": "setTargetCertConstraints(CertSelector selector)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the signature provider's name.",
+            "Function": "setTrustAnchors(Set<TrustAnchor> trustAnchors)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the required constraints on the target certificate.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

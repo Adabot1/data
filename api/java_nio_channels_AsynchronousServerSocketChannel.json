@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "accept()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Accepts a connection.",
+            "Function": "accept(A attachment,CompletionHandler<AsynchronousSocketChannel,? super A> handler)",
+            "Modifier and Type": "abstract Future<AsynchronousSocketChannel>"
+        },
+        {
+            "Comments": "Accepts a connection.",
+            "Function": "bind(SocketAddress local)",
+            "Modifier and Type": "abstract <A> void"
+        },
+        {
+            "Comments": "Binds the channel's socket to a local address and configures the socket to listen for connections.",
+            "Function": "bind(SocketAddress local,int backlog)",
+            "Modifier and Type": "AsynchronousServerSocketChannel"
+        },
+        {
+            "Comments": "Binds the channel's socket to a local address and configures the socket to listen for connections.",
+            "Function": "getLocalAddress()",
+            "Modifier and Type": "abstract AsynchronousServerSocketChannel"
+        },
+        {
+            "Comments": "Returns the socket address that this channel's socket is bound to.",
+            "Function": "open()",
+            "Modifier and Type": "abstract SocketAddress"
+        },
+        {
+            "Comments": "Opens an asynchronous server-socket channel.",
+            "Function": "open(AsynchronousChannelGroup group)",
+            "Modifier and Type": "static AsynchronousServerSocketChannel"
+        },
+        {
+            "Comments": "Opens an asynchronous server-socket channel.",
+            "Function": "provider()",
+            "Modifier and Type": "static AsynchronousServerSocketChannel"
+        },
+        {
+            "Comments": "Returns the provider that created this channel.",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "AsynchronousChannelProvider"
+        }
+    ]
+}

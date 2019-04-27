@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the parameters in their primary encoding format.",
+            "Function": "engineGetEncoded()",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Returns the parameters encoded in the specified format.",
+            "Function": "engineGetEncoded(String format)",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Returns a (transparent) specification of this parameters object.",
+            "Function": "engineGetParameterSpec(Class<T> paramSpec)",
+            "Modifier and Type": "protected abstract <T extends AlgorithmParameterSpec>T"
+        },
+        {
+            "Comments": "Imports the specified parameters and decodes them according to the primary decoding format for parameters.",
+            "Function": "engineInit(byte[] params)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Imports the parameters from params and decodes them according to the specified decoding format.",
+            "Function": "engineInit(byte[] params,String format)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this parameters object using the parameters specified in paramSpec.",
+            "Function": "engineInit(AlgorithmParameterSpec paramSpec)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Returns a formatted string describing the parameters.",
+            "Function": "engineToString()",
+            "Modifier and Type": "protected abstract String"
+        }
+    ]
+}

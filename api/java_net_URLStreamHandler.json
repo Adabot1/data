@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Provides the default equals calculation.",
+            "Function": "equals(URL u1,URL u2)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Returns the default port for a URL parsed by this handler.",
+            "Function": "getDefaultPort()",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Get the IP address of our host.",
+            "Function": "getHostAddress(URL u)",
+            "Modifier and Type": "protected InetAddress"
+        },
+        {
+            "Comments": "Provides the default hash calculation.",
+            "Function": "hashCode(URL u)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Compares the host components of two URLs.",
+            "Function": "hostsEqual(URL u1,URL u2)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Opens a connection to the object referenced by the URL argument.",
+            "Function": "openConnection(URL u)",
+            "Modifier and Type": "protected abstract URLConnection"
+        },
+        {
+            "Comments": "Same as openConnection(URL), except that the connection will be made through the specified proxy; Protocol handlers that do not support proxying will ignore the proxy parameter and make a normal connection.",
+            "Function": "openConnection(URL u,Proxy p)",
+            "Modifier and Type": "protected URLConnection"
+        },
+        {
+            "Comments": "Parses the string representation of a URL into a URL object.",
+            "Function": "parseURL(URL u,String spec,int start,int limit)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Compare two urls to see whether they refer to the same file, i.e., having the same protocol, host, port, and path.",
+            "Function": "sameFile(URL u1,URL u2)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Deprecated.Use setURL(URL, String, String, int, String, String, String,             String);",
+            "Function": "setURL(URL u,String protocol,String host,int port,String file,String ref)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Sets the fields of the URL argument to the indicated values.",
+            "Function": "setURL(URL u,String protocol,String host,int port,String authority,String userInfo,String path,String query,String ref)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Converts a URL of a specific protocol to a String.",
+            "Function": "toExternalForm(URL u)",
+            "Modifier and Type": "protected String"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a FileAttribute, encapsulating a copy of the given file permissions, suitable for passing to the createFile or createDirectory methods.",
+            "Function": "asFileAttribute(Set<PosixFilePermission> perms)",
+            "Modifier and Type": "static FileAttribute<Set<PosixFilePermission>>"
+        },
+        {
+            "Comments": "Returns the set of permissions corresponding to a given String representation.",
+            "Function": "fromString(String perms)",
+            "Modifier and Type": "static Set<PosixFilePermission>"
+        },
+        {
+            "Comments": "Returns the String representation of a set of permissions.",
+            "Function": "toString(Set<PosixFilePermission> perms)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

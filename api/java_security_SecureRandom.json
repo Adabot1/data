@@ -1,0 +1,104 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a secure random number generator (RNG) implementing the default random number algorithm.",
+            "Function": "generateSeed(int numBytes)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Constructs a secure random number generator (RNG) implementing the default random number algorithm.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a SecureRandom object.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the given number of seed bytes, computed using the seed generation algorithm that this class uses to seed itself.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the name of the algorithm implemented by this SecureRandom object.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a SecureRandom object that implements the specified Random Number Generator (RNG) algorithm.",
+            "Function": "getInstance(String algorithm, SecureRandomParameters params)",
+            "Modifier and Type": "static SecureRandom"
+        },
+        {
+            "Comments": "Returns a SecureRandom object that implements the specified Random Number Generator (RNG) algorithm.",
+            "Function": "getInstance(String algorithm, SecureRandomParameters params, String provider)",
+            "Modifier and Type": "static SecureRandom"
+        },
+        {
+            "Comments": "Returns a SecureRandom object that implements the specified Random Number Generator (RNG) algorithm.",
+            "Function": "getInstance(String algorithm, SecureRandomParameters params, Provider provider)",
+            "Modifier and Type": "static SecureRandom"
+        },
+        {
+            "Comments": "Returns a SecureRandom object that implements the specified Random Number Generator (RNG) algorithm and supports the specified SecureRandomParameters request.",
+            "Function": "getInstanceStrong()",
+            "Modifier and Type": "static SecureRandom"
+        },
+        {
+            "Comments": "Returns a SecureRandom object that implements the specified Random Number Generator (RNG) algorithm and supports the specified SecureRandomParameters request.",
+            "Function": "getParameters()",
+            "Modifier and Type": "static SecureRandom"
+        },
+        {
+            "Comments": "Returns a SecureRandom object that implements the specified Random Number Generator (RNG) algorithm and supports the specified SecureRandomParameters request.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static SecureRandom"
+        },
+        {
+            "Comments": "Returns a SecureRandom object that was selected by using the algorithms/providers specified in the  securerandom.strongAlgorithms Security property.",
+            "Function": "getSeed(int numBytes)",
+            "Modifier and Type": "static SecureRandom"
+        },
+        {
+            "Comments": "Returns the effective SecureRandomParameters for this SecureRandom instance.",
+            "Function": "next(int numBits)",
+            "Modifier and Type": "SecureRandomParameters"
+        },
+        {
+            "Comments": "Returns the provider of this SecureRandom object.",
+            "Function": "nextBytes(byte[] bytes)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Returns the given number of seed bytes, computed using the seed generation algorithm that this class uses to seed itself.",
+            "Function": "nextBytes(byte[] bytes, SecureRandomParameters params)",
+            "Modifier and Type": "static byte[]"
+        },
+        {
+            "Comments": "Generates an integer containing the user-specified number of pseudo-random bits (right justified, with leading zeros).",
+            "Function": "reseed()",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Generates a user-specified number of random bytes.",
+            "Function": "reseed(SecureRandomParameters params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Generates a user-specified number of random bytes with additional parameters.",
+            "Function": "setSeed(byte[] seed)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reseeds this SecureRandom with entropy input read from its entropy source.",
+            "Function": "setSeed(long seed)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reseeds this SecureRandom with entropy input read from its entropy source with additional parameters.",
+            "Function": "toString()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

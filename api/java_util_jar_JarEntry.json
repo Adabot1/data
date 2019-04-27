@@ -1,0 +1,224 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new JarEntry for the specified JAR file entry name.",
+            "Function": "CENATT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarEntry with fields taken from the specified JarEntry object.",
+            "Function": "CENATX",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarEntry with fields taken from the specified ZipEntry object.",
+            "Function": "CENCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the Manifest Attributes for this entry, or null if none.",
+            "Function": "CENCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the Certificate objects for this entry, or null if none.",
+            "Function": "CENDSK",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the CodeSigner objects for this entry, or null if none.",
+            "Function": "CENEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the real name of this JarEntry.",
+            "Function": "CENFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "CENSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENVEM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSUB",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDTOT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "getAttributes()",
+            "Modifier and Type": "Attributes"
+        },
+        {
+            "Comments": "",
+            "Function": "getCertificates()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "",
+            "Function": "getCodeSigners()",
+            "Modifier and Type": "CodeSigner[]"
+        },
+        {
+            "Comments": "",
+            "Function": "getRealName()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

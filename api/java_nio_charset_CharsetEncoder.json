@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new encoder.",
+            "Function": "averageBytesPerChar()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Initializes a new encoder.",
+            "Function": "canEncode(char c)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the average number of bytes that will be produced for each character of input.",
+            "Function": "canEncode(CharSequence cs)",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Tells whether or not this encoder can encode the given character.",
+            "Function": "charset()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this encoder can encode the given character sequence.",
+            "Function": "encode(CharBuffer in)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the charset that created this encoder.",
+            "Function": "encode(CharBuffer in,ByteBuffer out,boolean endOfInput)",
+            "Modifier and Type": "Charset"
+        },
+        {
+            "Comments": "Convenience method that encodes the remaining content of a single input character buffer into a newly-allocated byte buffer.",
+            "Function": "encodeLoop(CharBuffer in,ByteBuffer out)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Encodes as many characters as possible from the given input buffer, writing the results to the given output buffer.",
+            "Function": "flush(ByteBuffer out)",
+            "Modifier and Type": "CoderResult"
+        },
+        {
+            "Comments": "Encodes one or more characters into one or more bytes.",
+            "Function": "implFlush(ByteBuffer out)",
+            "Modifier and Type": "protected abstract CoderResult"
+        },
+        {
+            "Comments": "Flushes this encoder.",
+            "Function": "implOnMalformedInput(CodingErrorAction newAction)",
+            "Modifier and Type": "CoderResult"
+        },
+        {
+            "Comments": "Flushes this encoder.",
+            "Function": "implOnUnmappableCharacter(CodingErrorAction newAction)",
+            "Modifier and Type": "protected CoderResult"
+        },
+        {
+            "Comments": "Reports a change to this encoder's malformed-input action.",
+            "Function": "implReplaceWith(byte[] newReplacement)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Reports a change to this encoder's unmappable-character action.",
+            "Function": "implReset()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Reports a change to this encoder's replacement value.",
+            "Function": "isLegalReplacement(byte[] repl)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Resets this encoder, clearing any charset-specific internal state.",
+            "Function": "malformedInputAction()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Tells whether or not the given byte array is a legal replacement value for this encoder.",
+            "Function": "maxBytesPerChar()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns this encoder's current action for malformed-input errors.",
+            "Function": "onMalformedInput(CodingErrorAction newAction)",
+            "Modifier and Type": "CodingErrorAction"
+        },
+        {
+            "Comments": "Returns the maximum number of bytes that will be produced for each character of input.",
+            "Function": "onUnmappableCharacter(CodingErrorAction newAction)",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Changes this encoder's action for malformed-input errors.",
+            "Function": "replacement()",
+            "Modifier and Type": "CharsetEncoder"
+        },
+        {
+            "Comments": "Changes this encoder's action for unmappable-character errors.",
+            "Function": "replaceWith(byte[] newReplacement)",
+            "Modifier and Type": "CharsetEncoder"
+        },
+        {
+            "Comments": "Returns this encoder's replacement value.",
+            "Function": "reset()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Changes this encoder's replacement value.",
+            "Function": "unmappableCharacterAction()",
+            "Modifier and Type": "CharsetEncoder"
+        }
+    ]
+}

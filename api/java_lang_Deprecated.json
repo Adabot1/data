@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Indicates whether the annotated element is subject to removal in a future version.",
+            "Function": "forRemoval",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the version in which the annotated element became deprecated.",
+            "Function": "since",
+            "Modifier and Type": "String"
+        }
+    ]
+}

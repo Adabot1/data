@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "The singleton instance for the month of April with 30 days.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "The singleton instance for the month of August with 31 days.",
+            "Function": "firstDayOfYear(boolean leapYear)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The singleton instance for the month of December with 31 days.",
+            "Function": "firstMonthOfQuarter()",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "The singleton instance for the month of February with 28 days, or 29 in a leap year.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static Month"
+        },
+        {
+            "Comments": "The singleton instance for the month of January with 31 days.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The singleton instance for the month of July with 31 days.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "The singleton instance for the month of June with 30 days.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The singleton instance for the month of March with 31 days.",
+            "Function": "getValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The singleton instance for the month of May with 31 days.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "The singleton instance for the month of November with 30 days.",
+            "Function": "length(boolean leapYear)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The singleton instance for the month of October with 31 days.",
+            "Function": "maxLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The singleton instance for the month of September with 30 days.",
+            "Function": "minLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Adjusts the specified temporal object to have this month-of-year.",
+            "Function": "minus(long months)",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Gets the day-of-year corresponding to the first day of this month.",
+            "Function": "of(int month)",
+            "Modifier and Type": "static Month"
+        },
+        {
+            "Comments": "Gets the month corresponding to the first month of this quarter.",
+            "Function": "plus(long months)",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Obtains an instance of Month from a temporal object.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this month-of-year as an int.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Gets the textual representation, such as 'Jan' or 'December'.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Month"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this month-of-year as a long.",
+            "Function": "values()",
+            "Modifier and Type": "static Month[]"
+        }
+    ]
+}

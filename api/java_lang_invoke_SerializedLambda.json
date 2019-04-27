@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Create a SerializedLambda from the low-level information present at the lambda factory site.",
+            "Function": "getCapturedArg(int i)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Get a dynamic argument to the lambda capture site.",
+            "Function": "getCapturedArgCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the count of dynamic arguments to the lambda capture site.",
+            "Function": "getCapturingClass()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the name of the class that captured this lambda.",
+            "Function": "getFunctionalInterfaceClass()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the name of the invoked type to which this lambda has been converted",
+            "Function": "getFunctionalInterfaceMethodName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the name of the primary method for the functional interface to which this lambda has been converted.",
+            "Function": "getFunctionalInterfaceMethodSignature()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the signature of the primary method for the functional interface to which this lambda has been converted.",
+            "Function": "getImplClass()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the name of the class containing the implementation method.",
+            "Function": "getImplMethodKind()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the method handle kind (see MethodHandleInfo) of the implementation method.",
+            "Function": "getImplMethodName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the name of the implementation method.",
+            "Function": "getImplMethodSignature()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the signature of the implementation method.",
+            "Function": "getInstantiatedMethodType()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

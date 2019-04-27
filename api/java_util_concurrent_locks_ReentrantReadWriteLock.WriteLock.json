@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor for use by subclasses.",
+            "Function": "getHoldCount()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Queries the number of holds on this write lock by the current thread.",
+            "Function": "isHeldByCurrentThread()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Queries if this write lock is held by the current thread.",
+            "Function": "lock()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Acquires the write lock.",
+            "Function": "lockInterruptibly()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires the write lock unless the current thread is interrupted.",
+            "Function": "newCondition()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a Condition instance for use with this Lock instance.",
+            "Function": "toString()",
+            "Modifier and Type": "Condition"
+        },
+        {
+            "Comments": "Returns a string identifying this lock, as well as its lock state.",
+            "Function": "tryLock()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Acquires the write lock only if it is not held by another thread at the time of invocation.",
+            "Function": "tryLock(long timeout, TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Acquires the write lock if it is not held by another thread within the given waiting time and the current thread has not been interrupted.",
+            "Function": "unlock()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

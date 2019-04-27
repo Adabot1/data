@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Decodes all bytes from the input byte array using the Base64 encoding scheme, writing the results into a newly-allocated output byte array.",
+            "Function": "decode(byte[] src)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Decodes all bytes from the input byte array using the Base64 encoding scheme, writing the results into the given output byte array, starting at offset 0.",
+            "Function": "decode(byte[] src,byte[] dst)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Decodes a Base64 encoded String into a newly-allocated byte array using the Base64 encoding scheme.",
+            "Function": "decode(String src)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Decodes all bytes from the input byte buffer using the Base64 encoding scheme, writing the results into a newly-allocated ByteBuffer.",
+            "Function": "decode(ByteBuffer buffer)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Returns an input stream for decoding Base64 encoded byte stream.",
+            "Function": "wrap(InputStream is)",
+            "Modifier and Type": "InputStream"
+        }
+    ]
+}

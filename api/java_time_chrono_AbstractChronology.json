@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance.",
+            "Function": "compareTo(Chronology other)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Compares this chronology to another chronology.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this chronology is equal to another chronology.",
+            "Function": "hashCode()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "A hash code for this chronology.",
+            "Function": "resolveDate(Map<TemporalField,Long> fieldValues, ResolverStyle resolverStyle)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Resolves parsed ChronoField values into a date during parsing.",
+            "Function": "toString()",
+            "Modifier and Type": "ChronoLocalDate"
+        }
+    ]
+}

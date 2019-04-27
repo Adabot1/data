@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a copy of the specified temporal object with the specified period added.",
+            "Function": "addTo(R temporal, long amount)",
+            "Modifier and Type": "<R extends Temporal>R"
+        },
+        {
+            "Comments": "Calculates the amount of time between two temporal objects.",
+            "Function": "between(Temporal temporal1Inclusive, Temporal temporal2Exclusive)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the duration of this unit, which may be an estimate.",
+            "Function": "getDuration()",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Checks if this unit represents a component of a date.",
+            "Function": "isDateBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the duration of the unit is an estimate.",
+            "Function": "isDurationEstimated()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this unit is supported by the specified temporal object.",
+            "Function": "isSupportedBy(Temporal temporal)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Checks if this unit represents a component of a time.",
+            "Function": "isTimeBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets a descriptive name for the unit.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

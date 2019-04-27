@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a CodeSigner object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests for equality between the specified object and this code signer.",
+            "Function": "getSignerCertPath()",
+            "Modifier and Type": "CertPath"
+        },
+        {
+            "Comments": "Returns the signer's certificate path.",
+            "Function": "getTimestamp()",
+            "Modifier and Type": "Timestamp"
+        },
+        {
+            "Comments": "Returns the signature timestamp.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hash code value for this code signer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

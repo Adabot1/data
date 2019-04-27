@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Put the value of the named boolean field into the persistent field.",
+            "Function": "put(String name, boolean val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named byte field into the persistent field.",
+            "Function": "put(String name, byte val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named char field into the persistent field.",
+            "Function": "put(String name, char val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named double field into the persistent field.",
+            "Function": "put(String name, double val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named float field into the persistent field.",
+            "Function": "put(String name, float val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named int field into the persistent field.",
+            "Function": "put(String name, int val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named long field into the persistent field.",
+            "Function": "put(String name, long val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named short field into the persistent field.",
+            "Function": "put(String name, short val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Put the value of the named Object field into the persistent field.",
+            "Function": "put(String name, Object val)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Deprecated.This method does not write the values contained by this         PutField object in a proper format, and may         result in corruption of the serialization stream.",
+            "Function": "write(ObjectOutput out)",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

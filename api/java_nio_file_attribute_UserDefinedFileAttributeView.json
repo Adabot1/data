@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Deletes a user-defined attribute.",
+            "Function": "delete(String name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a list containing the names of the user-defined attributes.",
+            "Function": "list()",
+            "Modifier and Type": "List<String>"
+        },
+        {
+            "Comments": "Returns the name of this attribute view.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Read the value of a user-defined attribute into a buffer.",
+            "Function": "read(String name,ByteBuffer dst)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the size of the value of a user-defined attribute.",
+            "Function": "size(String name)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Writes the value of a user-defined attribute from a buffer.",
+            "Function": "write(String name, ByteBuffer src)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "API": [
+        {
+            "Comments": "Factory for creating new ForkJoinWorkerThreads.",
+            "Function": "ForkJoinPool.ForkJoinWorkerThreadFactory",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Interface for extending managed parallelism for tasks running in ForkJoinPools.",
+            "Function": "ForkJoinPool.ManagedBlocker",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Creates a new ForkJoinWorkerThread.",
+            "Function": "defaultForkJoinWorkerThreadFactory",
+            "Modifier and Type": "static ForkJoinPool.ForkJoinWorkerThreadFactory"
+        },
+        {
+            "Comments": "Creates a ForkJoinPool with parallelism equal to Runtime.availableProcessors(), using defaults for all other parameters (see ForkJoinPool(int, ForkJoinWorkerThreadFactory, UncaughtExceptionHandler, boolean, int, int, int, Predicate, long, TimeUnit)).",
+            "Function": "awaitQuiescence(long timeout, TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a ForkJoinPool with the indicated parallelism level, using defaults for all other parameters (see ForkJoinPool(int, ForkJoinWorkerThreadFactory, UncaughtExceptionHandler, boolean, int, int, int, Predicate, long, TimeUnit)).",
+            "Function": "awaitTermination(long timeout,TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a ForkJoinPool with the given parameters (using defaults for others -- see ForkJoinPool(int, ForkJoinWorkerThreadFactory, UncaughtExceptionHandler, boolean, int, int, int, Predicate, long, TimeUnit)).",
+            "Function": "commonPool()",
+            "Modifier and Type": "static ForkJoinPool"
+        },
+        {
+            "Comments": "Creates a ForkJoinPool with the given parameters.",
+            "Function": "drainTasksTo(Collection<? super ForkJoinTask<?>> c)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "If called by a ForkJoinTask operating in this pool, equivalent in effect to ForkJoinTask.helpQuiesce().",
+            "Function": "execute(Runnable task)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Blocks until all tasks have completed execution after a shutdown request, or the timeout occurs, or the current thread is interrupted, whichever happens first.",
+            "Function": "execute(ForkJoinTask<?> task)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the common pool instance.",
+            "Function": "getActiveThreadCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Removes all available unexecuted submitted and forked tasks from scheduling queues and adds them to the given collection, without altering their execution status.",
+            "Function": "getAsyncMode()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Executes the given command at some time in the future.",
+            "Function": "getCommonPoolParallelism()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Arranges for (asynchronous) execution of the given task.",
+            "Function": "getFactory()",
+            "Modifier and Type": "ForkJoinPool.ForkJoinWorkerThreadFactory"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads that are currently stealing or executing tasks.",
+            "Function": "getParallelism()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if this pool uses local first-in-first-out scheduling mode for forked tasks that are never joined.",
+            "Function": "getPoolSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the targeted parallelism level of the common pool.",
+            "Function": "getQueuedSubmissionCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the factory used for constructing new workers.",
+            "Function": "getQueuedTaskCount()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the targeted parallelism level of this pool.",
+            "Function": "getRunningThreadCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of worker threads that have started but not yet terminated.",
+            "Function": "getStealCount()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an estimate of the number of tasks submitted to this pool that have not yet begun executing.",
+            "Function": "getUncaughtExceptionHandler()",
+            "Modifier and Type": "Thread.UncaughtExceptionHandler"
+        },
+        {
+            "Comments": "Returns an estimate of the total number of tasks currently held in queues by worker threads (but not including tasks submitted to the pool that have not begun executing).",
+            "Function": "hasQueuedSubmissions()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an estimate of the number of worker threads that are not blocked waiting to join tasks or for other managed synchronization.",
+            "Function": "invoke(ForkJoinTask<T> task)",
+            "Modifier and Type": "<T> T"
+        },
+        {
+            "Comments": "Returns an estimate of the total number of tasks stolen from one thread's work queue by another.",
+            "Function": "invokeAll(Collection<? extends Callable<T>> tasks)",
+            "Modifier and Type": "<T> List<Future<T>>"
+        },
+        {
+            "Comments": "Returns the handler for internal worker threads that terminate due to unrecoverable errors encountered while executing tasks.",
+            "Function": "isQuiescent()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if there are any tasks submitted to this pool that have not yet begun executing.",
+            "Function": "isShutdown()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Performs the given task, returning its result upon completion.",
+            "Function": "isTerminated()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Executes the given tasks, returning a list of Futures holding their status and results when all complete.",
+            "Function": "isTerminating()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if all worker threads are currently idle.",
+            "Function": "managedBlock(ForkJoinPool.ManagedBlocker blocker)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns true if this pool has been shut down.",
+            "Function": "pollSubmission()",
+            "Modifier and Type": "protected ForkJoinTask<?>"
+        },
+        {
+            "Comments": "Returns true if all tasks have completed following shut down.",
+            "Function": "shutdown()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns true if the process of termination has commenced but not yet completed.",
+            "Function": "shutdownNow()",
+            "Modifier and Type": "List<Runnable>"
+        },
+        {
+            "Comments": "Runs the given possibly blocking task.",
+            "Function": "submit(Runnable task)",
+            "Modifier and Type": "ForkJoinTask<?>"
+        },
+        {
+            "Comments": "Removes and returns the next unexecuted submission if one is available.",
+            "Function": "submit(Runnable task,T result)",
+            "Modifier and Type": "<T> ForkJoinTask<T>"
+        },
+        {
+            "Comments": "Possibly initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted.",
+            "Function": "submit(Callable<T> task)",
+            "Modifier and Type": "<T> ForkJoinTask<T>"
+        },
+        {
+            "Comments": "Possibly attempts to cancel and/or stop all tasks, and reject all subsequently submitted tasks.",
+            "Function": "submit(ForkJoinTask<T> task)",
+            "Modifier and Type": "<T> ForkJoinTask<T>"
+        },
+        {
+            "Comments": "Submits a Runnable task for execution and returns a Future representing that task.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

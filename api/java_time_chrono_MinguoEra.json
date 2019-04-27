@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "The singleton instance for the era before the current one, 'Before Republic of China Era', which has the numeric value 0.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "The singleton instance for the current era, 'Republic of China Era', which has the numeric value 1.",
+            "Function": "getValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the textual representation of this era.",
+            "Function": "of(int minguoEra)",
+            "Modifier and Type": "static MinguoEra"
+        },
+        {
+            "Comments": "Gets the numeric era int value.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static MinguoEra"
+        },
+        {
+            "Comments": "Obtains an instance of MinguoEra from an int value.",
+            "Function": "values()",
+            "Modifier and Type": "static MinguoEra[]"
+        }
+    ]
+}

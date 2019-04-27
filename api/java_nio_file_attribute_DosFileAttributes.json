@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the value of the archive attribute.",
+            "Function": "isArchive()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the hidden attribute.",
+            "Function": "isHidden()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the read-only attribute.",
+            "Function": "isReadOnly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the system attribute.",
+            "Function": "isSystem()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

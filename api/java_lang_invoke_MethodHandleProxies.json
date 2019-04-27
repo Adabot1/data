@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Produces an instance of the given single-method interface which redirects its calls to the given method handle.",
+            "Function": "asInterfaceInstance(Class<T> intfc, MethodHandle target)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Determines if the given object was produced by a call to asInterfaceInstance.",
+            "Function": "isWrapperInstance(Object x)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Produces or recovers a target method handle which is behaviorally equivalent to the unique method of this wrapper instance.",
+            "Function": "wrapperInstanceTarget(Object x)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Recovers the unique single-method interface type for which this wrapper instance was created.",
+            "Function": "wrapperInstanceType(Object x)",
+            "Modifier and Type": "static Class<?>"
+        }
+    ]
+}

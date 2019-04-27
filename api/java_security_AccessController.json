@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Determines whether the access request indicated by the specified permission should be allowed or denied, based on the current AccessControlContext and security policy.",
+            "Function": "checkPermission(Permission perm)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedAction with privileges enabled.",
+            "Function": "doPrivileged(PrivilegedAction<T> action)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedAction with privileges enabled and restricted by the specified AccessControlContext.",
+            "Function": "doPrivileged(PrivilegedAction<T> action,AccessControlContext context)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedAction with privileges enabled and restricted by the specified AccessControlContext and with a privilege scope limited by specified Permission arguments.",
+            "Function": "doPrivileged(PrivilegedAction<T> action,AccessControlContext context,Permission... perms)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedExceptionAction with privileges enabled.",
+            "Function": "doPrivileged(PrivilegedExceptionAction<T> action)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedExceptionAction with privileges enabled and restricted by the specified AccessControlContext.",
+            "Function": "doPrivileged(PrivilegedExceptionAction<T> action,AccessControlContext context)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedExceptionAction with privileges enabled and restricted by the specified AccessControlContext and with a privilege scope limited by specified Permission arguments.",
+            "Function": "doPrivileged(PrivilegedExceptionAction<T> action,AccessControlContext context,Permission... perms)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedAction with privileges enabled.",
+            "Function": "doPrivilegedWithCombiner(PrivilegedAction<T> action)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedAction with privileges enabled and restricted by the specified AccessControlContext and with a privilege scope limited by specified Permission arguments.",
+            "Function": "doPrivilegedWithCombiner(PrivilegedAction<T> action,AccessControlContext context,Permission... perms)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedExceptionAction with privileges enabled.",
+            "Function": "doPrivilegedWithCombiner(PrivilegedExceptionAction<T> action)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Performs the specified PrivilegedExceptionAction with privileges enabled and restricted by the specified AccessControlContext and with a privilege scope limited by specified Permission arguments.",
+            "Function": "doPrivilegedWithCombiner(PrivilegedExceptionAction<T> action,AccessControlContext context,Permission... perms)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "This method takes a \"snapshot\" of the current calling context, which includes the current Thread's inherited AccessControlContext and any limited privilege scope, and places it in an AccessControlContext object.",
+            "Function": "getContext()",
+            "Modifier and Type": "static AccessControlContext"
+        }
+    ]
+}

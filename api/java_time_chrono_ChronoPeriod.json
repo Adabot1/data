@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Adds this period to the specified temporal object.",
+            "Function": "addTo(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Obtains a ChronoPeriod consisting of amount of time between two dates.",
+            "Function": "between(ChronoLocalDate startDateInclusive, ChronoLocalDate endDateExclusive)",
+            "Modifier and Type": "static ChronoPeriod"
+        },
+        {
+            "Comments": "Checks if this period is equal to another period, including the chronology.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the value of the requested unit.",
+            "Function": "get(TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the chronology that defines the meaning of the supported units.",
+            "Function": "getChronology()",
+            "Modifier and Type": "Chronology"
+        },
+        {
+            "Comments": "Gets the set of units supported by this period.",
+            "Function": "getUnits()",
+            "Modifier and Type": "List<TemporalUnit>"
+        },
+        {
+            "Comments": "A hash code for this period.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if any of the supported units of this period are negative.",
+            "Function": "isNegative()",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Checks if all the supported units of this period are zero.",
+            "Function": "isZero()",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified period subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "ChronoPeriod"
+        },
+        {
+            "Comments": "Returns a new instance with each amount in this period in this period multiplied by the specified scalar.",
+            "Function": "multipliedBy(int scalar)",
+            "Modifier and Type": "ChronoPeriod"
+        },
+        {
+            "Comments": "Returns a new instance with each amount in this period negated.",
+            "Function": "negated()",
+            "Modifier and Type": "default ChronoPeriod"
+        },
+        {
+            "Comments": "Returns a copy of this period with the amounts of each unit normalized.",
+            "Function": "normalized()",
+            "Modifier and Type": "ChronoPeriod"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified period added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "ChronoPeriod"
+        },
+        {
+            "Comments": "Subtracts this period from the specified temporal object.",
+            "Function": "subtractFrom(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Outputs this period as a String.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

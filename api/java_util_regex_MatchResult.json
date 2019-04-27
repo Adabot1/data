@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the offset after the last character matched.",
+            "Function": "end()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the offset after the last character of the subsequence captured by the given group during this match.",
+            "Function": "end(int group)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the input subsequence matched by the previous match.",
+            "Function": "group()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the input subsequence captured by the given group during the previous match operation.",
+            "Function": "group(int group)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the number of capturing groups in this match result's pattern.",
+            "Function": "groupCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the start index of the match.",
+            "Function": "start()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the start index of the subsequence captured by the given group during this match.",
+            "Function": "start(int group)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

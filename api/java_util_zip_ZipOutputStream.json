@@ -1,0 +1,254 @@
+{
+    "API": [
+        {
+            "Comments": "Compression method for compressed (DEFLATED) entries.",
+            "Function": "CENATT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression method for uncompressed (STORED) entries.",
+            "Function": "CENATX",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new ZIP output stream.",
+            "Function": "CENCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new ZIP output stream.",
+            "Function": "CENCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Closes the ZIP output stream as well as the stream being filtered.",
+            "Function": "CENDSK",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Closes the current ZIP entry and positions the stream for writing the next entry.",
+            "Function": "CENEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Finishes writing the contents of the ZIP output stream without closing the underlying stream.",
+            "Function": "CENFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Begins writing a new ZIP file entry and positions the stream to the start of the entry data.",
+            "Function": "CENHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the ZIP file comment.",
+            "Function": "CENHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the compression level for subsequent entries which are DEFLATED.",
+            "Function": "CENLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the default compression method for subsequent entries.",
+            "Function": "CENNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Writes an array of bytes to the current ZIP entry data.",
+            "Function": "CENOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "CENSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENVEM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "DEFLATED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSUB",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDTOT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "STORED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "closeEntry()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "finish()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "putNextEntry(ZipEntry e)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setComment(String comment)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setLevel(int level)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setMethod(int method)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

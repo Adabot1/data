@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Symmetric primitive: block cipher",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static CryptoPrimitive"
+        },
+        {
+            "Comments": "Asymmetric primitive: key agreement and key distribution",
+            "Function": "values()",
+            "Modifier and Type": "static CryptoPrimitive[]"
+        }
+    ]
+}

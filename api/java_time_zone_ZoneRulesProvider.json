@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor.",
+            "Function": "getAvailableZoneIds()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Gets the set of available zone IDs.",
+            "Function": "getRules(String zoneId,boolean forCaching)",
+            "Modifier and Type": "static Set<String>"
+        },
+        {
+            "Comments": "Gets the rules for the zone ID.",
+            "Function": "getVersions(String zoneId)",
+            "Modifier and Type": "static ZoneRules"
+        },
+        {
+            "Comments": "Gets the history of rules for the zone ID.",
+            "Function": "provideRefresh()",
+            "Modifier and Type": "static NavigableMap<String,​ZoneRules>"
+        },
+        {
+            "Comments": "SPI method to refresh the rules from the underlying data provider.",
+            "Function": "provideRules(String zoneId,boolean forCaching)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "SPI method to get the rules for the zone ID.",
+            "Function": "provideVersions(String zoneId)",
+            "Modifier and Type": "protected abstract ZoneRules"
+        },
+        {
+            "Comments": "SPI method to get the history of rules for the zone ID.",
+            "Function": "provideZoneIds()",
+            "Modifier and Type": "protected abstract NavigableMap<String,​ZoneRules>"
+        },
+        {
+            "Comments": "SPI method to get the available zone IDs.",
+            "Function": "refresh()",
+            "Modifier and Type": "protected abstract Set<String>"
+        },
+        {
+            "Comments": "Refreshes the rules from the underlying data provider.",
+            "Function": "registerProvider(ZoneRulesProvider provider)",
+            "Modifier and Type": "static boolean"
+        }
+    ]
+}

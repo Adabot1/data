@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer.",
+            "Function": "read(ByteBuffer dst)",
+            "Modifier and Type": "Future<Integer>"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer.",
+            "Function": "read(ByteBuffer dst,A attachment,CompletionHandler<Integer,? super A> handler)",
+            "Modifier and Type": "<A> void"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffer.",
+            "Function": "write(ByteBuffer src)",
+            "Modifier and Type": "Future<Integer>"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffer.",
+            "Function": "write(ByteBuffer src, A attachment, CompletionHandler<Integer,? super A> handler)",
+            "Modifier and Type": "<A> void"
+        }
+    ]
+}

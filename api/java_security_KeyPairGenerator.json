@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a KeyPairGenerator object for the specified algorithm.",
+            "Function": "generateKeyPair()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Generates a key pair.",
+            "Function": "genKeyPair()",
+            "Modifier and Type": "KeyPair"
+        },
+        {
+            "Comments": "Generates a key pair.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "KeyPair"
+        },
+        {
+            "Comments": "Returns the standard name of the algorithm for this key pair generator.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a KeyPairGenerator object that generates public/private key pairs for the specified algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static KeyPairGenerator"
+        },
+        {
+            "Comments": "Returns a KeyPairGenerator object that generates public/private key pairs for the specified algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static KeyPairGenerator"
+        },
+        {
+            "Comments": "Returns a KeyPairGenerator object that generates public/private key pairs for the specified algorithm.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static KeyPairGenerator"
+        },
+        {
+            "Comments": "Returns the provider of this key pair generator object.",
+            "Function": "initialize(int keysize)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initializes the key pair generator for a certain keysize using a default parameter set and the SecureRandom implementation of the highest-priority installed provider as the source of randomness.",
+            "Function": "initialize(int keysize,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes the key pair generator for a certain keysize with the given source of randomness (and a default parameter set).",
+            "Function": "initialize(AlgorithmParameterSpec params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes the key pair generator using the specified parameter set and the SecureRandom implementation of the highest-priority installed provider as the source of randomness.",
+            "Function": "initialize(AlgorithmParameterSpec params,SecureRandom random)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

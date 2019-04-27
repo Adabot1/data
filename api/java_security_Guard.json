@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Determines whether or not to allow access to the guarded object object.",
+            "Function": "checkGuard(Object object)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this date to another date, including the chronology.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains a HijrahDate of the Islamic Umm Al-Qura calendar from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static HijrahDate"
+        },
+        {
+            "Comments": "Gets the chronology of this date, which is the Hijrah calendar system.",
+            "Function": "getChronology()",
+            "Modifier and Type": "HijrahChronology"
+        },
+        {
+            "Comments": "Gets the era applicable at this date.",
+            "Function": "getEra()",
+            "Modifier and Type": "HijrahEra"
+        },
+        {
+            "Comments": "A hash code for this date.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if the year is a leap year, according to the Hijrah calendar system rules.",
+            "Function": "isLeapYear()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the length of the month represented by this date.",
+            "Function": "lengthOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the length of the year represented by this date.",
+            "Function": "lengthOfYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount subtracted.",
+            "Function": "minus(TemporalAmount amount)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Obtains the current HijrahDate of the Islamic Umm Al-Qura calendar in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static HijrahDate"
+        },
+        {
+            "Comments": "Obtains the current HijrahDate of the Islamic Umm Al-Qura calendar from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static HijrahDate"
+        },
+        {
+            "Comments": "Obtains the current HijrahDate of the Islamic Umm Al-Qura calendar in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static HijrahDate"
+        },
+        {
+            "Comments": "Obtains a HijrahDate of the Islamic Umm Al-Qura calendar from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "of(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "static HijrahDate"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount added.",
+            "Function": "plus(TemporalAmount amount)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Returns a string representation of the object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Calculates the amount of time until another date in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted object of the same type as this object with the adjustment made.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Returns a HijrahDate with the Chronology requested.",
+            "Function": "withVariant(HijrahChronology chronology)",
+            "Modifier and Type": "HijrahDate"
+        }
+    ]
+}

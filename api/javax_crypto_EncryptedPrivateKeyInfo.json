@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs (i.e., parses) an EncryptedPrivateKeyInfo from its ASN.1 encoding.",
+            "Function": "getAlgName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Constructs an EncryptedPrivateKeyInfo from the encryption algorithm name and the encrypted data.",
+            "Function": "getAlgParameters()",
+            "Modifier and Type": "AlgorithmParameters"
+        },
+        {
+            "Comments": "Constructs an EncryptedPrivateKeyInfo from the encryption algorithm parameters and the encrypted data.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the encryption algorithm.",
+            "Function": "getEncryptedData()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the algorithm parameters used by the encryption algorithm.",
+            "Function": "getKeySpec(Key decryptKey)",
+            "Modifier and Type": "PKCS8EncodedKeySpec"
+        },
+        {
+            "Comments": "Returns the ASN.1 encoding of this object.",
+            "Function": "getKeySpec(Key decryptKey,String providerName)",
+            "Modifier and Type": "PKCS8EncodedKeySpec"
+        },
+        {
+            "Comments": "Returns the encrypted data.",
+            "Function": "getKeySpec(Key decryptKey,Provider provider)",
+            "Modifier and Type": "PKCS8EncodedKeySpec"
+        },
+        {
+            "Comments": "Extract the enclosed PKCS8EncodedKeySpec object from the encrypted data and return it.",
+            "Function": "getKeySpec(Cipher cipher)",
+            "Modifier and Type": "PKCS8EncodedKeySpec"
+        }
+    ]
+}

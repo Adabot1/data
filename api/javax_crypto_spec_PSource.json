@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "This class is used to explicitly specify the value for encoding input P in OAEP Padding.",
+            "Function": "PSource.PSpecified",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Constructs a source of the encoding input P for OAEP padding as defined in the PKCS #1 standard using the specified PSource algorithm.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

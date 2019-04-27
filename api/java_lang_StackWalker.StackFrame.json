@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the index to the code array of the Code attribute containing the execution point represented by this stack frame.",
+            "Function": "getByteCodeIndex()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the binary name of the declaring class of the method represented by this stack frame.",
+            "Function": "getClassName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the declaring Class for the method represented by this stack frame.",
+            "Function": "getDeclaringClass()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Returns the descriptor of the method represented by this stack frame as defined by The Java Virtual Machine Specification.",
+            "Function": "getDescriptor()",
+            "Modifier and Type": "default String"
+        },
+        {
+            "Comments": "Returns the name of the source file containing the execution point represented by this stack frame.",
+            "Function": "getFileName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the line number of the source line containing the execution point represented by this stack frame.",
+            "Function": "getLineNumber()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the name of the method represented by this stack frame.",
+            "Function": "getMethodName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the MethodType representing the parameter types and the return type for the method represented by this stack frame.",
+            "Function": "getMethodType()",
+            "Modifier and Type": "default MethodType"
+        },
+        {
+            "Comments": "Returns true if the method containing the execution point represented by this stack frame is a native method.",
+            "Function": "isNativeMethod()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets a StackTraceElement for this stack frame.",
+            "Function": "toStackTraceElement()",
+            "Modifier and Type": "StackTraceElement"
+        }
+    ]
+}

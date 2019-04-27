@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Modify or update the provided ProtectionDomains.",
+            "Function": "combine(ProtectionDomain[] currentDomains, ProtectionDomain[] assignedDomains)",
+            "Modifier and Type": "ProtectionDomain[]"
+        }
+    ]
+}

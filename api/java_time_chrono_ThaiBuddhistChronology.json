@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Singleton instance of the Buddhist chronology.",
+            "Function": "INSTANCE",
+            "Modifier and Type": "static ThaiBuddhistChronology"
+        },
+        {
+            "Comments": "Obtains a local date in Thai Buddhist calendar system from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "date(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "ThaiBuddhistDate"
+        },
+        {
+            "Comments": "Obtains a local date in Thai Buddhist calendar system from the era, year-of-era, month-of-year and day-of-month fields.",
+            "Function": "date(Era era,int yearOfEra,int month,int dayOfMonth)",
+            "Modifier and Type": "ThaiBuddhistDate"
+        },
+        {
+            "Comments": "Obtains a local date in the Thai Buddhist calendar system from the epoch-day.",
+            "Function": "dateEpochDay(long epochDay)",
+            "Modifier and Type": "ThaiBuddhistDate"
+        },
+        {
+            "Comments": "Obtains a local date in Thai Buddhist calendar system from the proleptic-year and day-of-year fields.",
+            "Function": "dateYearDay(int prolepticYear, int dayOfYear)",
+            "Modifier and Type": "ThaiBuddhistDate"
+        },
+        {
+            "Comments": "Obtains a local date in Thai Buddhist calendar system from the era, year-of-era and day-of-year fields.",
+            "Function": "dateYearDay(Era era, int yearOfEra, int dayOfYear)",
+            "Modifier and Type": "ThaiBuddhistDate"
+        },
+        {
+            "Comments": "Gets the calendar type of the underlying calendar system - 'buddhist'.",
+            "Function": "getCalendarType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the ID of the chronology - 'ThaiBuddhist'.",
+            "Function": "getId()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Checks if the specified year is a leap year.",
+            "Function": "isLeapYear(long prolepticYear)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffers.",
+            "Function": "read(ByteBuffer[] dsts)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into a subsequence of the given buffers.",
+            "Function": "read(ByteBuffer[] dsts,int offset,int length)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

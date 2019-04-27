@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new HandshakeCompletedEvent.",
+            "Function": "getCipherSuite()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the cipher suite in use by the session which was produced by the handshake.",
+            "Function": "getLocalCertificates()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Returns the certificate(s) that were sent to the peer during handshaking.",
+            "Function": "getLocalPrincipal()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Returns the principal that was sent to the peer during handshaking.",
+            "Function": "getPeerCertificateChain()",
+            "Modifier and Type": "X509Certificate[]"
+        },
+        {
+            "Comments": "Deprecated.The getPeerCertificates() method that returns an               array of java.security.cert.Certificate should               be used instead.",
+            "Function": "getPeerCertificates()",
+            "Modifier and Type": "Certificate[]"
+        },
+        {
+            "Comments": "Returns the identity of the peer which was established as part of defining the session.",
+            "Function": "getPeerPrincipal()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Returns the identity of the peer which was established as part of defining the session.",
+            "Function": "getSession()",
+            "Modifier and Type": "SSLSession"
+        },
+        {
+            "Comments": "Returns the session that triggered this event.",
+            "Function": "getSocket()",
+            "Modifier and Type": "SSLSocket"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "The object used to synchronize operations on this stream.",
+            "Function": "lock",
+            "Modifier and Type": "protected Object"
+        },
+        {
+            "Comments": "Creates a new character-stream reader whose critical sections will synchronize on the reader itself.",
+            "Function": "close()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Creates a new character-stream reader whose critical sections will synchronize on the given object.",
+            "Function": "mark(int readAheadLimit)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Closes the stream and releases any system resources associated with it.",
+            "Function": "markSupported()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Marks the present position in the stream.",
+            "Function": "nullReader()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tells whether this stream supports the mark() operation.",
+            "Function": "read()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a new Reader that reads no characters.",
+            "Function": "read(char[] cbuf)",
+            "Modifier and Type": "static Reader"
+        },
+        {
+            "Comments": "Reads a single character.",
+            "Function": "read(char[] cbuf,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads characters into an array.",
+            "Function": "read(CharBuffer target)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads characters into a portion of an array.",
+            "Function": "ready()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Attempts to read characters into the specified character buffer.",
+            "Function": "reset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether this stream is ready to be read.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Resets the stream.",
+            "Function": "transferTo(Writer out)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

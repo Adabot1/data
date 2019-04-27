@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Generates a key pair.",
+            "Function": "generateKeyPair()",
+            "Modifier and Type": "abstract KeyPair"
+        },
+        {
+            "Comments": "Initializes the key pair generator for a certain keysize, using the default parameter set.",
+            "Function": "initialize(int keysize,SecureRandom random)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Initializes the key pair generator using the specified parameter set and user-provided source of randomness.",
+            "Function": "initialize(AlgorithmParameterSpec params,SecureRandom random)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

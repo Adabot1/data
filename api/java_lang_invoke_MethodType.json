@@ -1,0 +1,164 @@
+{
+    "API": [
+        {
+            "Comments": "Finds or creates a method type with additional parameter types.",
+            "Function": "appendParameterTypes(Class<?>... ptypesToInsert)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with additional parameter types.",
+            "Function": "appendParameterTypes(List<Class<?>> ptypesToInsert)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with a single different parameter type.",
+            "Function": "changeParameterType(int num, Class<?> nptype)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with a different return type.",
+            "Function": "changeReturnType(Class<?> nrtype)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with some parameter types omitted.",
+            "Function": "dropParameterTypes(int start,int end)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Compares the specified object with this type for equality.",
+            "Function": "equals(Object x)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Erases all reference types to Object.",
+            "Function": "erase()",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Finds or creates an instance of a method type, given the spelling of its bytecode descriptor.",
+            "Function": "fromMethodDescriptorString(String descriptor,ClassLoader loader)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Converts all types, both reference and primitive, to Object.",
+            "Function": "generic()",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type whose components are all Object.",
+            "Function": "genericMethodType(int objectArgCount)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type whose components are Object with an optional trailing Object[] array.",
+            "Function": "genericMethodType(int objectArgCount, boolean finalArray)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Returns the hash code value for this method type.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reports if this type contains a primitive argument or return value.",
+            "Function": "hasPrimitives()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reports if this type contains a wrapper argument or return value.",
+            "Function": "hasWrappers()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Finds or creates a method type with additional parameter types.",
+            "Function": "insertParameterTypes(int num,Class<?>... ptypesToInsert)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with additional parameter types.",
+            "Function": "insertParameterTypes(int num,List<Class<?>> ptypesToInsert)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Returns the last parameter type of this method type.",
+            "Function": "lastParameterType()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Finds or creates a method type with the given components.",
+            "Function": "methodType(Class<?> rtype)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with the given components.",
+            "Function": "methodType(Class<?> rtype,Class<?> ptype0)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Finds or creates an instance of the given method type.",
+            "Function": "methodType(Class<?> rtype,Class<?>[] ptypes)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with the given components.",
+            "Function": "methodType(Class<?> rtype,Class<?> ptype0,Class<?>... ptypes)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with the given components.",
+            "Function": "methodType(Class<?> rtype,MethodType ptypes)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Finds or creates a method type with the given components.",
+            "Function": "methodType(Class<?> rtype,List<Class<?>> ptypes)",
+            "Modifier and Type": "static MethodType"
+        },
+        {
+            "Comments": "Presents the parameter types as an array (a convenience method).",
+            "Function": "parameterArray()",
+            "Modifier and Type": "Class<?>[]"
+        },
+        {
+            "Comments": "Returns the number of parameter types in this method type.",
+            "Function": "parameterCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Presents the parameter types as a list (a convenience method).",
+            "Function": "parameterList()",
+            "Modifier and Type": "List<Class<?>>"
+        },
+        {
+            "Comments": "Returns the parameter type at the specified index, within this method type.",
+            "Function": "parameterType(int num)",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Returns the return type of this method type.",
+            "Function": "returnType()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Produces a bytecode descriptor representation of the method type.",
+            "Function": "toMethodDescriptorString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string representation of the method type, of the form \"(PT0,PT1...)RT\".",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts all wrapper types to their corresponding primitive types.",
+            "Function": "unwrap()",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Converts all primitive types to their corresponding wrapper types.",
+            "Function": "wrap()",
+            "Modifier and Type": "MethodType"
+        }
+    ]
+}

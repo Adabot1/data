@@ -1,0 +1,119 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an unbound server socket.",
+            "Function": "accept()",
+            "Modifier and Type": "Socket"
+        },
+        {
+            "Comments": "Creates a server socket, bound to the specified port.",
+            "Function": "bind(SocketAddress endpoint)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a server socket and binds it to the specified local port number, with the specified backlog.",
+            "Function": "bind(SocketAddress endpoint,int backlog)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Create a server with the specified port, listen backlog, and local IP address to bind to.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Listens for a connection to be made to this socket and accepts it.",
+            "Function": "getChannel()",
+            "Modifier and Type": "ServerSocketChannel"
+        },
+        {
+            "Comments": "Binds the ServerSocket to a specific address (IP address and port number).",
+            "Function": "getInetAddress()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Binds the ServerSocket to a specific address (IP address and port number).",
+            "Function": "getLocalPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes this socket.",
+            "Function": "getLocalSocketAddress()",
+            "Modifier and Type": "SocketAddress"
+        },
+        {
+            "Comments": "Returns the unique ServerSocketChannel object associated with this socket, if any.",
+            "Function": "getOption(SocketOption<T> name)",
+            "Modifier and Type": "<T> T"
+        },
+        {
+            "Comments": "Returns the local address of this server socket.",
+            "Function": "getReceiveBufferSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the port number on which this socket is listening.",
+            "Function": "getReuseAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the address of the endpoint this socket is bound to.",
+            "Function": "getSoTimeout()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the value of a socket option.",
+            "Function": "implAccept(Socket s)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Gets the value of the SO_RCVBUF option for this ServerSocket, that is the proposed buffer size that will be used for Sockets accepted from this ServerSocket.",
+            "Function": "isBound()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests if SO_REUSEADDR is enabled.",
+            "Function": "isClosed()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Retrieve setting for SO_TIMEOUT. 0 returns implies that the option is disabled (i.e., timeout of infinity).",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "<T> ServerSocket"
+        },
+        {
+            "Comments": "Subclasses of ServerSocket use this method to override accept() to return their own subclass of socket.",
+            "Function": "setPerformancePreferences(int connectionTime, int latency, int bandwidth)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the binding state of the ServerSocket.",
+            "Function": "setReceiveBufferSize(int size)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the closed state of the ServerSocket.",
+            "Function": "setReuseAddress(boolean on)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a socket option.",
+            "Function": "setSocketFactory(SocketImplFactory fac)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets performance preferences for this ServerSocket.",
+            "Function": "setSoTimeout(int timeout)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets a default proposed value for the SO_RCVBUF option for sockets accepted from this ServerSocket.",
+            "Function": "supportedOptions()",
+            "Modifier and Type": "Set<SocketOption<?>>"
+        },
+        {
+            "Comments": "Enable/disable the SO_REUSEADDR socket option.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

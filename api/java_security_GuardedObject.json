@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a GuardedObject using the specified object and guard.",
+            "Function": "getObject()",
+            "Modifier and Type": "Object"
+        }
+    ]
+}

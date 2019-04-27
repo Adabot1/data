@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "lookupPrincipalByGroupName(String group)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Lookup a group principal by group name.",
+            "Function": "lookupPrincipalByName(String name)",
+            "Modifier and Type": "abstract GroupPrincipal"
+        }
+    ]
+}

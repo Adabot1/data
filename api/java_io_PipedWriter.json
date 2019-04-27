@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a piped writer that is not yet connected to a piped reader.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a piped writer connected to the specified piped reader.",
+            "Function": "connect(PipedReader snk)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes this piped output stream and releases any system resources associated with this stream.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Connects this piped writer to a receiver.",
+            "Function": "write(char[] cbuf, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes this output stream and forces any buffered output characters to be written out.",
+            "Function": "write(int c)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

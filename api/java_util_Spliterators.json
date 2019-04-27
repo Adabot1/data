@@ -1,0 +1,149 @@
+{
+    "API": [
+        {
+            "Comments": "An abstract Spliterator.OfDouble that implements trySplit to permit limited parallelism.",
+            "Function": "Spliterators.AbstractDoubleSpliterator",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "An abstract Spliterator.OfInt that implements trySplit to permit limited parallelism.",
+            "Function": "Spliterators.AbstractIntSpliterator",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "An abstract Spliterator.OfLong that implements trySplit to permit limited parallelism.",
+            "Function": "Spliterators.AbstractLongSpliterator",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "An abstract Spliterator that implements trySplit to permit limited parallelism.",
+            "Function": "Spliterators.AbstractSpliterator<T>",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Creates an empty Spliterator.OfDouble",
+            "Function": "emptyDoubleSpliterator()",
+            "Modifier and Type": "static Spliterator.OfDouble"
+        },
+        {
+            "Comments": "Creates an empty Spliterator.OfInt",
+            "Function": "emptyIntSpliterator()",
+            "Modifier and Type": "static Spliterator.OfInt"
+        },
+        {
+            "Comments": "Creates an empty Spliterator.OfLong",
+            "Function": "emptyLongSpliterator()",
+            "Modifier and Type": "static Spliterator.OfLong"
+        },
+        {
+            "Comments": "Creates an empty Spliterator",
+            "Function": "emptySpliterator()",
+            "Modifier and Type": "static <T> Spliterator<T>"
+        },
+        {
+            "Comments": "Creates an PrimitiveIterator.OfDouble from a Spliterator.OfDouble.",
+            "Function": "iterator(Spliterator.OfDouble spliterator)",
+            "Modifier and Type": "static PrimitiveIterator.OfDouble"
+        },
+        {
+            "Comments": "Creates an PrimitiveIterator.OfInt from a Spliterator.OfInt.",
+            "Function": "iterator(Spliterator.OfInt spliterator)",
+            "Modifier and Type": "static PrimitiveIterator.OfInt"
+        },
+        {
+            "Comments": "Creates an PrimitiveIterator.OfLong from a Spliterator.OfLong.",
+            "Function": "iterator(Spliterator.OfLong spliterator)",
+            "Modifier and Type": "static PrimitiveIterator.OfLong"
+        },
+        {
+            "Comments": "Creates an Iterator from a Spliterator.",
+            "Function": "iterator(Spliterator<? extends T> spliterator)",
+            "Modifier and Type": "static <T> Iterator<T>"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfDouble covering the elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(double[] array, int additionalCharacteristics)",
+            "Modifier and Type": "static Spliterator.OfDouble"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfDouble covering a range of elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(double[] array, int fromIndex, int toIndex, int additionalCharacteristics)",
+            "Modifier and Type": "static Spliterator.OfDouble"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfInt covering the elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(int[] array, int additionalCharacteristics)",
+            "Modifier and Type": "static Spliterator.OfInt"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfInt covering a range of elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(int[] array, int fromIndex, int toIndex, int additionalCharacteristics)",
+            "Modifier and Type": "static Spliterator.OfInt"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfLong covering the elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(long[] array, int additionalCharacteristics)",
+            "Modifier and Type": "static Spliterator.OfLong"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfLong covering a range of elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(long[] array, int fromIndex, int toIndex, int additionalCharacteristics)",
+            "Modifier and Type": "static Spliterator.OfLong"
+        },
+        {
+            "Comments": "Creates a Spliterator covering the elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(Object[] array, int additionalCharacteristics)",
+            "Modifier and Type": "static <T> Spliterator<T>"
+        },
+        {
+            "Comments": "Creates a Spliterator covering a range of elements of a given array, using a customized set of spliterator characteristics.",
+            "Function": "spliterator(Object[] array, int fromIndex, int toIndex, int additionalCharacteristics)",
+            "Modifier and Type": "static <T> Spliterator<T>"
+        },
+        {
+            "Comments": "Creates a Spliterator using the given collection's Collection.iterator() as the source of elements, and reporting its Collection.size() as its initial size.",
+            "Function": "spliterator(Collection<? extends T> c, int characteristics)",
+            "Modifier and Type": "static <T> Spliterator<T>"
+        },
+        {
+            "Comments": "Creates a Spliterator using a given Iterator as the source of elements, and with a given initially reported size.",
+            "Function": "spliterator(Iterator<? extends T> iterator, long size, int characteristics)",
+            "Modifier and Type": "static <T> Spliterator<T>"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfDouble using a given DoubleStream.DoubleIterator as the source of elements, and with a given initially reported size.",
+            "Function": "spliterator(PrimitiveIterator.OfDouble iterator, long size, int characteristics)",
+            "Modifier and Type": "static Spliterator.OfDouble"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfInt using a given IntStream.IntIterator as the source of elements, and with a given initially reported size.",
+            "Function": "spliterator(PrimitiveIterator.OfInt iterator, long size, int characteristics)",
+            "Modifier and Type": "static Spliterator.OfInt"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfLong using a given LongStream.LongIterator as the source of elements, and with a given initially reported size.",
+            "Function": "spliterator(PrimitiveIterator.OfLong iterator, long size, int characteristics)",
+            "Modifier and Type": "static Spliterator.OfLong"
+        },
+        {
+            "Comments": "Creates a Spliterator using a given Iterator as the source of elements, with no initial size estimate.",
+            "Function": "spliteratorUnknownSize(Iterator<? extends T> iterator,int characteristics)",
+            "Modifier and Type": "static <T> Spliterator<T>"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfDouble using a given DoubleStream.DoubleIterator as the source of elements, with no initial size estimate.",
+            "Function": "spliteratorUnknownSize(PrimitiveIterator.OfDouble iterator,int characteristics)",
+            "Modifier and Type": "static Spliterator.OfDouble"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfInt using a given IntStream.IntIterator as the source of elements, with no initial size estimate.",
+            "Function": "spliteratorUnknownSize(PrimitiveIterator.OfInt iterator,int characteristics)",
+            "Modifier and Type": "static Spliterator.OfInt"
+        },
+        {
+            "Comments": "Creates a Spliterator.OfLong using a given LongStream.LongIterator as the source of elements, with no initial size estimate.",
+            "Function": "spliteratorUnknownSize(PrimitiveIterator.OfLong iterator,int characteristics)",
+            "Modifier and Type": "static Spliterator.OfLong"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "This enum provides constants of the four Unicode normalization forms that are described in  Unicode Standard Annex #15 — Unicode Normalization Forms and two methods to access them.",
+            "Function": "Normalizer.Form",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Determines if the given sequence of char values is normalized.",
+            "Function": "isNormalized(CharSequence src,Normalizer.Form form)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Normalize a sequence of char values.",
+            "Function": "normalize(CharSequence src, Normalizer.Form form)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

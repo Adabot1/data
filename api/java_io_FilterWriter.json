@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "The underlying character-output stream.",
+            "Function": "out",
+            "Modifier and Type": "protected Writer"
+        },
+        {
+            "Comments": "Create a new filtered writer.",
+            "Function": "flush()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Flushes the stream.",
+            "Function": "write(char[] cbuf, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a portion of an array of characters.",
+            "Function": "write(int c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a single character.",
+            "Function": "write(String str, int off, int len)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

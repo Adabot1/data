@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new AllPermission object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new AllPermission object.",
+            "Function": "getActions()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Checks two AllPermission objects for equality.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the canonical string representation of the actions.",
+            "Function": "implies(Permission p)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the hash code value for this object.",
+            "Function": "newPermissionCollection()",
+            "Modifier and Type": "PermissionCollection"
+        }
+    ]
+}

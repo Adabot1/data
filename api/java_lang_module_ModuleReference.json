@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new instance of this class.",
+            "Function": "descriptor()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the module descriptor.",
+            "Function": "location()",
+            "Modifier and Type": "ModuleDescriptor"
+        },
+        {
+            "Comments": "Returns the location of this module's content, if known.",
+            "Function": "open()",
+            "Modifier and Type": "Optional<URI>"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "The singleton instance for the current era, 'Anno Hegirae', which has the numeric value 1.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the textual representation of this era.",
+            "Function": "getValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the numeric era int value.",
+            "Function": "of(int hijrahEra)",
+            "Modifier and Type": "static HijrahEra"
+        },
+        {
+            "Comments": "Obtains an instance of HijrahEra from an int value.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static HijrahEra"
+        },
+        {
+            "Comments": "Returns the enum constant of this type with the specified name.",
+            "Function": "values()",
+            "Modifier and Type": "static HijrahEra[]"
+        }
+    ]
+}

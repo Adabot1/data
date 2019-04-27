@@ -1,0 +1,349 @@
+{
+    "API": [
+        {
+            "Comments": "Compression method for compressed (deflated) entries.",
+            "Function": "CENATT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression method for uncompressed entries.",
+            "Function": "CENATX",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new zip entry with the specified name.",
+            "Function": "CENCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new zip entry with fields taken from the specified zip entry.",
+            "Function": "CENCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns a copy of this entry.",
+            "Function": "CENDSK",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the comment string for the entry.",
+            "Function": "CENEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the size of the compressed entry data.",
+            "Function": "CENFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the CRC-32 checksum of the uncompressed entry data.",
+            "Function": "CENHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the creation time of the entry.",
+            "Function": "CENHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the extra field data for the entry.",
+            "Function": "CENLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the last access time of the entry.",
+            "Function": "CENNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the last modification time of the entry.",
+            "Function": "CENOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the compression method of the entry.",
+            "Function": "CENSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the name of the entry.",
+            "Function": "CENSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the uncompressed size of the entry data.",
+            "Function": "CENTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the last modification time of the entry.",
+            "Function": "CENVEM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the last modification time of the entry in local date-time.",
+            "Function": "CENVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the hash code value for this entry.",
+            "Function": "DEFLATED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns true if this is a directory entry.",
+            "Function": "ENDCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the optional comment string for the entry.",
+            "Function": "ENDHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the size of the compressed entry data.",
+            "Function": "ENDOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the CRC-32 checksum of the uncompressed entry data.",
+            "Function": "ENDSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Sets the creation time of the entry.",
+            "Function": "ENDSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the optional extra field data for the entry.",
+            "Function": "ENDSUB",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the last access time of the entry.",
+            "Function": "ENDTOT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the last modification time of the entry.",
+            "Function": "EXTCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the compression method for the entry.",
+            "Function": "EXTHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the uncompressed size of the entry data.",
+            "Function": "EXTLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sets the last modification time of the entry.",
+            "Function": "EXTSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Sets the last modification time of the entry in local date-time.",
+            "Function": "EXTSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns a string representation of the ZIP entry.",
+            "Function": "LOCCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "STORED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "",
+            "Function": "getComment()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "",
+            "Function": "getCompressedSize()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "",
+            "Function": "getCrc()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "",
+            "Function": "getCreationTime()",
+            "Modifier and Type": "FileTime"
+        },
+        {
+            "Comments": "",
+            "Function": "getExtra()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "",
+            "Function": "getLastAccessTime()",
+            "Modifier and Type": "FileTime"
+        },
+        {
+            "Comments": "",
+            "Function": "getLastModifiedTime()",
+            "Modifier and Type": "FileTime"
+        },
+        {
+            "Comments": "",
+            "Function": "getMethod()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "",
+            "Function": "getSize()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "",
+            "Function": "getTime()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "",
+            "Function": "getTimeLocal()",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "",
+            "Function": "isDirectory()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "",
+            "Function": "setComment(String comment)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setCompressedSize(long csize)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setCrc(long crc)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setCreationTime(FileTime time)",
+            "Modifier and Type": "ZipEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "setExtra(byte[] extra)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setLastAccessTime(FileTime time)",
+            "Modifier and Type": "ZipEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "setLastModifiedTime(FileTime time)",
+            "Modifier and Type": "ZipEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "setMethod(int method)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setSize(long size)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setTime(long time)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "setTimeLocal(LocalDateTime time)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

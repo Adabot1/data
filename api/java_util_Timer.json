@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new timer.",
+            "Function": "cancel()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new timer whose associated thread may be specified to run as a daemon.",
+            "Function": "purge()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new timer whose associated thread has the specified name.",
+            "Function": "schedule(TimerTask task,long delay)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new timer whose associated thread has the specified name, and may be specified to run as a daemon.",
+            "Function": "schedule(TimerTask task,long delay,long period)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Terminates this timer, discarding any currently scheduled tasks.",
+            "Function": "schedule(TimerTask task,Date time)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Removes all cancelled tasks from this timer's task queue.",
+            "Function": "schedule(TimerTask task,Date firstTime,long period)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Schedules the specified task for execution after the specified delay.",
+            "Function": "scheduleAtFixedRate(TimerTask task, long delay, long period)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Schedules the specified task for repeated fixed-delay execution, beginning after the specified delay.",
+            "Function": "scheduleAtFixedRate(TimerTask task, Date firstTime, long period)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

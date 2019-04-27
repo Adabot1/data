@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "The object on which the Event initially occurred.",
+            "Function": "source",
+            "Modifier and Type": "protected Object"
+        },
+        {
+            "Comments": "Constructs a prototypical Event.",
+            "Function": "getSource()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "The object on which the Event initially occurred.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

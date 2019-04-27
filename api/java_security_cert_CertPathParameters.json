@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Makes a copy of this CertPathParameters.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        }
+    ]
+}

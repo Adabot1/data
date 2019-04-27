@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Default constructor for Process.",
+            "Function": "children()",
+            "Modifier and Type": "Stream<ProcessHandle>"
+        },
+        {
+            "Comments": "Returns a snapshot of the direct children of the process.",
+            "Function": "descendants()",
+            "Modifier and Type": "Stream<ProcessHandle>"
+        },
+        {
+            "Comments": "Returns a snapshot of the descendants of the process.",
+            "Function": "destroy()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Kills the process.",
+            "Function": "destroyForcibly()",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Kills the process forcibly.",
+            "Function": "exitValue()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the exit value for the process.",
+            "Function": "getErrorStream()",
+            "Modifier and Type": "abstract InputStream"
+        },
+        {
+            "Comments": "Returns the input stream connected to the error output of the process.",
+            "Function": "getInputStream()",
+            "Modifier and Type": "abstract InputStream"
+        },
+        {
+            "Comments": "Returns the input stream connected to the normal output of the process.",
+            "Function": "getOutputStream()",
+            "Modifier and Type": "abstract OutputStream"
+        },
+        {
+            "Comments": "Returns the output stream connected to the normal input of the process.",
+            "Function": "info()",
+            "Modifier and Type": "ProcessHandle.Info"
+        },
+        {
+            "Comments": "Returns a snapshot of information about the process.",
+            "Function": "isAlive()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests whether the process represented by this Process is alive.",
+            "Function": "onExit()",
+            "Modifier and Type": "CompletableFuture<Process>"
+        },
+        {
+            "Comments": "Returns a CompletableFuture<Process> for the termination of the Process.",
+            "Function": "pid()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the native process ID of the process.",
+            "Function": "supportsNormalTermination()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the implementation of destroy() is to normally terminate the process, Returns false if the implementation of destroy forcibly and immediately terminates the process.",
+            "Function": "toHandle()",
+            "Modifier and Type": "ProcessHandle"
+        },
+        {
+            "Comments": "Returns a ProcessHandle for the Process.",
+            "Function": "waitFor()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Causes the current thread to wait, if necessary, until the process represented by this Process object has terminated.",
+            "Function": "waitFor(long timeout, TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

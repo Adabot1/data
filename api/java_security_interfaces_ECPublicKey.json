@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The class fingerprint that is set to indicate serialization compatibility.",
+            "Function": "serialVersionUID",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the public point W.",
+            "Function": "getW()",
+            "Modifier and Type": "ECPoint"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getPrivateKey()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Creates a signer.",
+            "Function": "setKeyPair(KeyPair pair)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "toString()",
+            "Modifier and Type": " "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of TrustAnchor where the most-trusted CA is specified as a distinguished name and public key.",
+            "Function": "getCA()",
+            "Modifier and Type": "X500Principal"
+        },
+        {
+            "Comments": "Creates an instance of TrustAnchor with the specified X509Certificate and optional name constraints, which are intended to be used as additional constraints when validating an X.509 certification path.",
+            "Function": "getCAName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates an instance of TrustAnchor where the most-trusted CA is specified as an X500Principal and public key.",
+            "Function": "getCAPublicKey()",
+            "Modifier and Type": "PublicKey"
+        },
+        {
+            "Comments": "Returns the name of the most-trusted CA as an X500Principal.",
+            "Function": "getNameConstraints()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the name of the most-trusted CA in RFC 2253 String format.",
+            "Function": "getTrustedCert()",
+            "Modifier and Type": "X509Certificate"
+        },
+        {
+            "Comments": "Returns the public key of the most-trusted CA.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

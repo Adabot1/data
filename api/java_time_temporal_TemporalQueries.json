@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "A query for the Chronology.",
+            "Function": "chronology()",
+            "Modifier and Type": "static TemporalQuery<Chronology>"
+        },
+        {
+            "Comments": "A query for LocalDate returning null if not found.",
+            "Function": "localDate()",
+            "Modifier and Type": "static TemporalQuery<LocalDate>"
+        },
+        {
+            "Comments": "A query for LocalTime returning null if not found.",
+            "Function": "localTime()",
+            "Modifier and Type": "static TemporalQuery<LocalTime>"
+        },
+        {
+            "Comments": "A query for ZoneOffset returning null if not found.",
+            "Function": "offset()",
+            "Modifier and Type": "static TemporalQuery<ZoneOffset>"
+        },
+        {
+            "Comments": "A query for the smallest supported unit.",
+            "Function": "precision()",
+            "Modifier and Type": "static TemporalQuery<TemporalUnit>"
+        },
+        {
+            "Comments": "A lenient query for the ZoneId, falling back to the ZoneOffset.",
+            "Function": "zone()",
+            "Modifier and Type": "static TemporalQuery<ZoneId>"
+        },
+        {
+            "Comments": "A strict query for the ZoneId.",
+            "Function": "zoneId()",
+            "Modifier and Type": "static TemporalQuery<ZoneId>"
+        }
+    ]
+}

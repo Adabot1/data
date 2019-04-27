@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "ISO Latin Alphabet No. 1, a.k.a.",
+            "Function": "ISO_8859_1",
+            "Modifier and Type": "static Charset"
+        },
+        {
+            "Comments": "Seven-bit ASCII, a.k.a.",
+            "Function": "US_ASCII",
+            "Modifier and Type": "static Charset"
+        },
+        {
+            "Comments": "Sixteen-bit UCS Transformation Format, byte order identified by an optional byte-order mark",
+            "Function": "UTF_16",
+            "Modifier and Type": "static Charset"
+        },
+        {
+            "Comments": "Sixteen-bit UCS Transformation Format, big-endian byte order",
+            "Function": "UTF_16BE",
+            "Modifier and Type": "static Charset"
+        },
+        {
+            "Comments": "Sixteen-bit UCS Transformation Format, little-endian byte order",
+            "Function": "UTF_16LE",
+            "Modifier and Type": "static Charset"
+        },
+        {
+            "Comments": "Eight-bit UCS Transformation Format",
+            "Function": "UTF_8",
+            "Modifier and Type": "static Charset"
+        }
+    ]
+}

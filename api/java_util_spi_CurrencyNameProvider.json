@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getDisplayName(String currencyCode,Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a name for the currency that is appropriate for display to the user.",
+            "Function": "getSymbol(String currencyCode, Locale locale)",
+            "Modifier and Type": "String"
+        }
+    ]
+}

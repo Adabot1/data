@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.This interface is deprecated, and is planned for removal in a             future release.",
+            "Function": "Pack200.Packer",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.This interface is deprecated, and is planned for removal in a             future release.",
+            "Function": "Pack200.Unpacker",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "newPacker()",
+            "Modifier and Type": "static Pack200.Packer"
+        },
+        {
+            "Comments": "Obtain new instance of a class that implements Packer.",
+            "Function": "newUnpacker()",
+            "Modifier and Type": "static Pack200.Unpacker"
+        }
+    ]
+}

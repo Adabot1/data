@@ -1,0 +1,169 @@
+{
+    "API": [
+        {
+            "Comments": "A builder for building ModuleDescriptor objects.",
+            "Function": "ModuleDescriptor.Builder",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": " A package exported by a module, may be qualified or unqualified.",
+            "Function": "ModuleDescriptor.Exports",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A modifier on a module.",
+            "Function": "ModuleDescriptor.Modifier",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": " A package opened by a module, may be qualified or unqualified.",
+            "Function": "ModuleDescriptor.Opens",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": " A service that a module provides one or more implementations of.",
+            "Function": "ModuleDescriptor.Provides",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": " A dependence upon a module",
+            "Function": "ModuleDescriptor.Requires",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A module's version string.",
+            "Function": "ModuleDescriptor.Version",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Compares this module descriptor to another.",
+            "Function": "compareTo(ModuleDescriptor that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests this module descriptor for equality with the given object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": " Returns the set of Exports objects representing the exported packages.",
+            "Function": "exports()",
+            "Modifier and Type": "Set<ModuleDescriptor.Exports>"
+        },
+        {
+            "Comments": "Computes a hash code for this module descriptor.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": " Returns true if this is an automatic module.",
+            "Function": "isAutomatic()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": " Returns true if this is an open module.",
+            "Function": "isOpen()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": " Returns the module main class.",
+            "Function": "mainClass()",
+            "Modifier and Type": "Optional<String>"
+        },
+        {
+            "Comments": " Returns the set of module modifiers.",
+            "Function": "modifiers()",
+            "Modifier and Type": "Set<ModuleDescriptor.Modifier>"
+        },
+        {
+            "Comments": " Returns the module name.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Instantiates a builder to build a module descriptor for an automatic module.",
+            "Function": "newAutomaticModule(String name)",
+            "Modifier and Type": "static ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Instantiates a builder to build a module descriptor for a normal module.",
+            "Function": "newModule(String name)",
+            "Modifier and Type": "static ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Instantiates a builder to build a module descriptor.",
+            "Function": "newModule(String name, Set<ModuleDescriptor.Modifier> ms)",
+            "Modifier and Type": "static ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": "Instantiates a builder to build a module descriptor for an open module.",
+            "Function": "newOpenModule(String name)",
+            "Modifier and Type": "static ModuleDescriptor.Builder"
+        },
+        {
+            "Comments": " Returns the set of Opens objects representing the open packages.",
+            "Function": "opens()",
+            "Modifier and Type": "Set<ModuleDescriptor.Opens>"
+        },
+        {
+            "Comments": "Returns the set of packages in the module.",
+            "Function": "packages()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": " Returns the set of Provides objects representing the services that the module provides.",
+            "Function": "provides()",
+            "Modifier and Type": "Set<ModuleDescriptor.Provides>"
+        },
+        {
+            "Comments": " Returns the string with the possibly-unparseable version of the module",
+            "Function": "rawVersion()",
+            "Modifier and Type": "Optional<String>"
+        },
+        {
+            "Comments": "Reads the binary form of a module declaration from an input stream as a module descriptor.",
+            "Function": "read(InputStream in)",
+            "Modifier and Type": "static ModuleDescriptor"
+        },
+        {
+            "Comments": "Reads the binary form of a module declaration from an input stream as a module descriptor.",
+            "Function": "read(InputStream in,Supplier<Set<String>> packageFinder)",
+            "Modifier and Type": "static ModuleDescriptor"
+        },
+        {
+            "Comments": "Reads the binary form of a module declaration from a byte buffer as a module descriptor.",
+            "Function": "read(ByteBuffer bb)",
+            "Modifier and Type": "static ModuleDescriptor"
+        },
+        {
+            "Comments": "Reads the binary form of a module declaration from a byte buffer as a module descriptor.",
+            "Function": "read(ByteBuffer bb,Supplier<Set<String>> packageFinder)",
+            "Modifier and Type": "static ModuleDescriptor"
+        },
+        {
+            "Comments": " Returns the set of Requires objects representing the module dependences.",
+            "Function": "requires()",
+            "Modifier and Type": "Set<ModuleDescriptor.Requires>"
+        },
+        {
+            "Comments": " Returns a string containing the module name and, if present, its version.",
+            "Function": "toNameAndVersion()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": " Returns a string describing the module.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": " Returns the set of service dependences.",
+            "Function": "uses()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": " Returns the module version.",
+            "Function": "version()",
+            "Modifier and Type": "Optional<ModuleDescriptor.Version>"
+        }
+    ]
+}

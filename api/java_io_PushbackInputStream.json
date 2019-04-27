@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "The pushback buffer.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "The position within the pushback buffer from which the next byte will be read.",
+            "Function": "pos",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a PushbackInputStream with a 1-byte pushback buffer, and saves its argument, the input stream in, for later use.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a PushbackInputStream with a pushback buffer of the specified size, and saves its argument, the input stream in, for later use.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream.",
+            "Function": "mark(int readlimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes this input stream and releases any system resources associated with the stream.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Marks the current position in this input stream.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if this input stream supports the mark and reset methods, which it does not.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads the next byte of data from this input stream.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads up to len bytes of data from this input stream into an array of bytes.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Repositions this stream to the position at the time the mark method was last called on this input stream.",
+            "Function": "unread(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Skips over and discards n bytes of data from this input stream.",
+            "Function": "unread(byte[] b,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Pushes back an array of bytes by copying it to the front of the pushback buffer.",
+            "Function": "unread(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

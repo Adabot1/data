@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the char value at the specified index.",
+            "Function": "charAt(int index)",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Returns a stream of int zero-extending the char values from this sequence.",
+            "Function": "chars()",
+            "Modifier and Type": "default IntStream"
+        },
+        {
+            "Comments": "Returns a stream of code point values from this sequence.",
+            "Function": "codePoints()",
+            "Modifier and Type": "default IntStream"
+        },
+        {
+            "Comments": "Compares two CharSequence instances lexicographically.",
+            "Function": "compare(CharSequence cs1, CharSequence cs2)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the length of this character sequence.",
+            "Function": "length()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a CharSequence that is a subsequence of this sequence.",
+            "Function": "subSequence(int start, int end)",
+            "Modifier and Type": "CharSequence"
+        },
+        {
+            "Comments": "Returns a string containing the characters in this sequence in the same order as this sequence.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

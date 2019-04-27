@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of CollectionCertStoreParameters with the default parameter values (an empty and immutable Collection).",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Creates an instance of CollectionCertStoreParameters which will allow certificates and CRLs to be retrieved from the specified Collection.",
+            "Function": "getCollection()",
+            "Modifier and Type": "Collection<?>"
+        },
+        {
+            "Comments": "Returns a copy of this object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

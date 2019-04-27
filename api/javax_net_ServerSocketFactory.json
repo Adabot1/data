@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a server socket factory.",
+            "Function": "createServerSocket()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns an unbound server socket.",
+            "Function": "createServerSocket(int port)",
+            "Modifier and Type": "ServerSocket"
+        },
+        {
+            "Comments": "Returns a server socket bound to the specified port.",
+            "Function": "createServerSocket(int port,int backlog)",
+            "Modifier and Type": "abstract ServerSocket"
+        },
+        {
+            "Comments": "Returns a server socket bound to the specified port, and uses the specified connection backlog.",
+            "Function": "createServerSocket(int port,int backlog,InetAddress ifAddress)",
+            "Modifier and Type": "abstract ServerSocket"
+        },
+        {
+            "Comments": "Returns a server socket bound to the specified port, with a specified listen backlog and local IP.",
+            "Function": "getDefault()",
+            "Modifier and Type": "abstract ServerSocket"
+        }
+    ]
+}

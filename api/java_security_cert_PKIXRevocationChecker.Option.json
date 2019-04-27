@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Disable the fallback mechanism.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static PKIXRevocationChecker.Option"
+        },
+        {
+            "Comments": "Only check the revocation status of end-entity certificates.",
+            "Function": "values()",
+            "Modifier and Type": "static PKIXRevocationChecker.Option[]"
+        }
+    ]
+}

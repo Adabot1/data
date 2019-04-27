@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the blocker object supplied to the most recent invocation of a park method that has not yet unblocked, or null if not blocked.",
+            "Function": "getBlocker(Thread t)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Disables the current thread for thread scheduling purposes unless the permit is available.",
+            "Function": "park()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Disables the current thread for thread scheduling purposes unless the permit is available.",
+            "Function": "park(Object blocker)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Disables the current thread for thread scheduling purposes, for up to the specified waiting time, unless the permit is available.",
+            "Function": "parkNanos(long nanos)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Disables the current thread for thread scheduling purposes, for up to the specified waiting time, unless the permit is available.",
+            "Function": "parkNanos(Object blocker, long nanos)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Disables the current thread for thread scheduling purposes, until the specified deadline, unless the permit is available.",
+            "Function": "parkUntil(long deadline)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Disables the current thread for thread scheduling purposes, until the specified deadline, unless the permit is available.",
+            "Function": "parkUntil(Object blocker, long deadline)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Makes available the permit for the given thread, if it was not already available.",
+            "Function": "unpark(Thread thread)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

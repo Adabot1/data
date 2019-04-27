@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "The underlying character-input stream.",
+            "Function": "in",
+            "Modifier and Type": "protected Reader"
+        },
+        {
+            "Comments": "Creates a new filtered reader.",
+            "Function": "mark(int readAheadLimit)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Marks the present position in the stream.",
+            "Function": "markSupported()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tells whether this stream supports the mark() operation.",
+            "Function": "read()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads a single character.",
+            "Function": "read(char[] cbuf,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads characters into a portion of an array.",
+            "Function": "ready()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether this stream is ready to be read.",
+            "Function": "reset()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Resets the stream.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

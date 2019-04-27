@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "This defines the point at infinity.",
+            "Function": "POINT_INFINITY",
+            "Modifier and Type": "static ECPoint"
+        },
+        {
+            "Comments": "Creates an ECPoint from the specified affine x-coordinate x and affine y-coordinate y.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this elliptic curve point for equality with the specified object.",
+            "Function": "getAffineX()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the affine x-coordinate x.",
+            "Function": "getAffineY()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the affine y-coordinate y.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

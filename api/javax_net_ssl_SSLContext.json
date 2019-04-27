@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an SSLContext object.",
+            "Function": "createSSLEngine()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Creates a new SSLEngine using this context.",
+            "Function": "createSSLEngine(String peerHost, int peerPort)",
+            "Modifier and Type": "SSLEngine"
+        },
+        {
+            "Comments": "Creates a new SSLEngine using this context using advisory peer information.",
+            "Function": "getClientSessionContext()",
+            "Modifier and Type": "SSLEngine"
+        },
+        {
+            "Comments": "Returns the client session context, which represents the set of SSL sessions available for use during the handshake phase of client-side SSL sockets.",
+            "Function": "getDefault()",
+            "Modifier and Type": "SSLSessionContext"
+        },
+        {
+            "Comments": "Returns the default SSL context.",
+            "Function": "getDefaultSSLParameters()",
+            "Modifier and Type": "static SSLContext"
+        },
+        {
+            "Comments": "Returns a copy of the SSLParameters indicating the default settings for this SSL context.",
+            "Function": "getInstance(String protocol)",
+            "Modifier and Type": "SSLParameters"
+        },
+        {
+            "Comments": "Returns a SSLContext object that implements the specified secure socket protocol.",
+            "Function": "getInstance(String protocol, String provider)",
+            "Modifier and Type": "static SSLContext"
+        },
+        {
+            "Comments": "Returns a SSLContext object that implements the specified secure socket protocol.",
+            "Function": "getInstance(String protocol, Provider provider)",
+            "Modifier and Type": "static SSLContext"
+        },
+        {
+            "Comments": "Returns a SSLContext object that implements the specified secure socket protocol.",
+            "Function": "getProtocol()",
+            "Modifier and Type": "static SSLContext"
+        },
+        {
+            "Comments": "Returns the protocol name of this SSLContext object.",
+            "Function": "getProvider()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the provider of this SSLContext object.",
+            "Function": "getServerSessionContext()",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Returns the server session context, which represents the set of SSL sessions available for use during the handshake phase of server-side SSL sockets.",
+            "Function": "getServerSocketFactory()",
+            "Modifier and Type": "SSLSessionContext"
+        },
+        {
+            "Comments": "Returns a ServerSocketFactory object for this context.",
+            "Function": "getSocketFactory()",
+            "Modifier and Type": "SSLServerSocketFactory"
+        },
+        {
+            "Comments": "Returns a SocketFactory object for this context.",
+            "Function": "getSupportedSSLParameters()",
+            "Modifier and Type": "SSLSocketFactory"
+        },
+        {
+            "Comments": "Returns a copy of the SSLParameters indicating the supported settings for this SSL context.",
+            "Function": "init(KeyManager[] km,TrustManager[] tm,SecureRandom random)",
+            "Modifier and Type": "SSLParameters"
+        },
+        {
+            "Comments": "Initializes this context.",
+            "Function": "setDefault(SSLContext context)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

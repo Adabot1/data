@@ -1,0 +1,264 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an X509CertSelector.",
+            "Function": "addPathToName(int type, byte[] name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a name to the pathToNames criterion.",
+            "Function": "addPathToName(int type, String name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a name to the pathToNames criterion.",
+            "Function": "addSubjectAlternativeName(int type, byte[] name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a name to the subjectAlternativeNames criterion.",
+            "Function": "addSubjectAlternativeName(int type, String name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a name to the subjectAlternativeNames criterion.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns a copy of this object.",
+            "Function": "getAuthorityKeyIdentifier()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the authorityKeyIdentifier criterion.",
+            "Function": "getBasicConstraints()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the basic constraints constraint.",
+            "Function": "getCertificate()",
+            "Modifier and Type": "X509Certificate"
+        },
+        {
+            "Comments": "Returns the certificateEquals criterion.",
+            "Function": "getCertificateValid()",
+            "Modifier and Type": "Date"
+        },
+        {
+            "Comments": "Returns the certificateValid criterion.",
+            "Function": "getExtendedKeyUsage()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns the extendedKeyUsage criterion.",
+            "Function": "getIssuer()",
+            "Modifier and Type": "X500Principal"
+        },
+        {
+            "Comments": "Returns the issuer criterion as an X500Principal.",
+            "Function": "getIssuerAsBytes()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the issuer criterion as a byte array.",
+            "Function": "getIssuerAsString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Denigrated, use getIssuer() or getIssuerAsBytes() instead.",
+            "Function": "getKeyUsage()",
+            "Modifier and Type": "boolean[]"
+        },
+        {
+            "Comments": "Returns the keyUsage criterion.",
+            "Function": "getMatchAllSubjectAltNames()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Indicates if the X509Certificate must contain all or at least one of the subjectAlternativeNames specified in the setSubjectAlternativeNames or addSubjectAlternativeName methods.",
+            "Function": "getNameConstraints()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the name constraints criterion.",
+            "Function": "getPathToNames()",
+            "Modifier and Type": "Collection<List<?>>"
+        },
+        {
+            "Comments": "Returns a copy of the pathToNames criterion.",
+            "Function": "getPolicy()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns the policy criterion.",
+            "Function": "getPrivateKeyValid()",
+            "Modifier and Type": "Date"
+        },
+        {
+            "Comments": "Returns the privateKeyValid criterion.",
+            "Function": "getSerialNumber()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the serialNumber criterion.",
+            "Function": "getSubject()",
+            "Modifier and Type": "X500Principal"
+        },
+        {
+            "Comments": "Returns the subject criterion as an X500Principal.",
+            "Function": "getSubjectAlternativeNames()",
+            "Modifier and Type": "Collection<List<?>>"
+        },
+        {
+            "Comments": "Returns a copy of the subjectAlternativeNames criterion.",
+            "Function": "getSubjectAsBytes()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the subject criterion as a byte array.",
+            "Function": "getSubjectAsString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Denigrated, use getSubject() or getSubjectAsBytes() instead.",
+            "Function": "getSubjectKeyIdentifier()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the subjectKeyIdentifier criterion.",
+            "Function": "getSubjectPublicKey()",
+            "Modifier and Type": "PublicKey"
+        },
+        {
+            "Comments": "Returns the subjectPublicKey criterion.",
+            "Function": "getSubjectPublicKeyAlgID()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the subjectPublicKeyAlgID criterion.",
+            "Function": "match(Certificate cert)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Decides whether a Certificate should be selected.",
+            "Function": "setAuthorityKeyIdentifier(byte[] authorityKeyID)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the authorityKeyIdentifier criterion.",
+            "Function": "setBasicConstraints(int minMaxPathLen)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the basic constraints constraint.",
+            "Function": "setCertificate(X509Certificate cert)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the certificateEquals criterion.",
+            "Function": "setCertificateValid(Date certValid)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the certificateValid criterion.",
+            "Function": "setExtendedKeyUsage(Set<String> keyPurposeSet)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the extendedKeyUsage criterion.",
+            "Function": "setIssuer(byte[] issuerDN)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the issuer criterion.",
+            "Function": "setIssuer(String issuerDN)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Denigrated, use setIssuer(X500Principal) or setIssuer(byte[]) instead.",
+            "Function": "setIssuer(X500Principal issuer)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the issuer criterion.",
+            "Function": "setKeyUsage(boolean[] keyUsage)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the keyUsage criterion.",
+            "Function": "setMatchAllSubjectAltNames(boolean matchAllNames)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Enables/disables matching all of the subjectAlternativeNames specified in the setSubjectAlternativeNames or addSubjectAlternativeName methods.",
+            "Function": "setNameConstraints(byte[] bytes)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the name constraints criterion.",
+            "Function": "setPathToNames(Collection<List<?>> names)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the pathToNames criterion.",
+            "Function": "setPolicy(Set<String> certPolicySet)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the policy constraint.",
+            "Function": "setPrivateKeyValid(Date privateKeyValid)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the privateKeyValid criterion.",
+            "Function": "setSerialNumber(BigInteger serial)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the serialNumber criterion.",
+            "Function": "setSubject(byte[] subjectDN)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the subject criterion.",
+            "Function": "setSubject(String subjectDN)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Denigrated, use setSubject(X500Principal) or setSubject(byte[]) instead.",
+            "Function": "setSubject(X500Principal subject)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the subject criterion.",
+            "Function": "setSubjectAlternativeNames(Collection<List<?>> names)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the subjectAlternativeNames criterion.",
+            "Function": "setSubjectKeyIdentifier(byte[] subjectKeyID)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the subjectKeyIdentifier criterion.",
+            "Function": "setSubjectPublicKey(byte[] key)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the subjectPublicKey criterion.",
+            "Function": "setSubjectPublicKey(PublicKey key)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the subjectPublicKey criterion.",
+            "Function": "setSubjectPublicKeyAlgID(String oid)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the subjectPublicKeyAlgID criterion.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

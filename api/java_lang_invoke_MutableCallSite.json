@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a call site object with an initial target method handle.",
+            "Function": "getTarget()",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Creates a blank call site object with the given method type.",
+            "Function": "setTarget(MethodHandle newTarget)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the target method of the call site, which behaves like a normal field of the MutableCallSite.",
+            "Function": "syncAll(MutableCallSite[] sites)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

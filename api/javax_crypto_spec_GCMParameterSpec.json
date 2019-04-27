@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a GCMParameterSpec using the specified authentication tag bit-length and IV buffer.",
+            "Function": "getIV()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Constructs a GCMParameterSpec object using the specified authentication tag bit-length and a subset of the specified buffer as the IV.",
+            "Function": "getTLen()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

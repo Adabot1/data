@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new URLStreamHandler instance with the specified protocol.",
+            "Function": "createURLStreamHandler(String protocol)",
+            "Modifier and Type": "URLStreamHandler"
+        }
+    ]
+}

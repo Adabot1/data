@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new switch point.",
+            "Function": "guardWithTest(MethodHandle target, MethodHandle fallback)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Returns a method handle which always delegates either to the target or the fallback.",
+            "Function": "hasBeenInvalidated()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Determines if this switch point has been invalidated yet.",
+            "Function": "invalidateAll(SwitchPoint[] switchPoints)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the name of the attribute view.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads the basic file attributes as a bulk operation.",
+            "Function": "readAttributes()",
+            "Modifier and Type": "BasicFileAttributes"
+        },
+        {
+            "Comments": "Updates any or all of the file's last modified time, last access time, and create time attributes.",
+            "Function": "setTimes(FileTime lastModifiedTime,FileTime lastAccessTime,FileTime createTime)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

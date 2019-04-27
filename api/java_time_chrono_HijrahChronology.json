@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Singleton instance of the Islamic Umm Al-Qura calendar of Saudi Arabia.",
+            "Function": "INSTANCE",
+            "Modifier and Type": "static HijrahChronology"
+        },
+        {
+            "Comments": "Obtains a local date in Hijrah calendar system from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "date(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Obtains a local date in Hijrah calendar system from the era, year-of-era, month-of-year and day-of-month fields.",
+            "Function": "date(Era era,int yearOfEra,int month,int dayOfMonth)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Obtains a local date in the Hijrah calendar system from the epoch-day.",
+            "Function": "dateEpochDay(long epochDay)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Obtains a local date in Hijrah calendar system from the proleptic-year and day-of-year fields.",
+            "Function": "dateYearDay(int prolepticYear, int dayOfYear)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Obtains a local date in Hijrah calendar system from the era, year-of-era and day-of-year fields.",
+            "Function": "dateYearDay(Era era, int yearOfEra, int dayOfYear)",
+            "Modifier and Type": "HijrahDate"
+        },
+        {
+            "Comments": "Creates the HijrahEra object from the numeric value.",
+            "Function": "eraOf(int eraValue)",
+            "Modifier and Type": "HijrahEra"
+        },
+        {
+            "Comments": "Gets the calendar type of the Islamic calendar.",
+            "Function": "getCalendarType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the ID of the chronology.",
+            "Function": "getId()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

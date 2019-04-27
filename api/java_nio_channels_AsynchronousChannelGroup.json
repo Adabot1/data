@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Initialize a new instance of this class.",
+            "Function": "awaitTermination(long timeout,TimeUnit unit)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Awaits termination of the group.",
+            "Function": "isShutdown()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not this asynchronous channel group is shutdown.",
+            "Function": "isTerminated()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not this group has terminated.",
+            "Function": "provider()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the provider that created this channel group.",
+            "Function": "shutdown()",
+            "Modifier and Type": "AsynchronousChannelProvider"
+        },
+        {
+            "Comments": "Initiates an orderly shutdown of the group.",
+            "Function": "shutdownNow()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Shuts down the group and closes all open channels in the group.",
+            "Function": "withCachedThreadPool(ExecutorService executor,int initialSize)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Creates an asynchronous channel group with a given thread pool that creates new threads as needed.",
+            "Function": "withFixedThreadPool(int nThreads, ThreadFactory threadFactory)",
+            "Modifier and Type": "static AsynchronousChannelGroup"
+        },
+        {
+            "Comments": "Creates an asynchronous channel group with a fixed thread pool.",
+            "Function": "withThreadPool(ExecutorService executor)",
+            "Modifier and Type": "static AsynchronousChannelGroup"
+        }
+    ]
+}

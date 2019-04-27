@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Format the BigDecimal as a decimal number.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Formatter.BigDecimalLayoutForm"
+        },
+        {
+            "Comments": "Format the BigDecimal in computerized scientific notation.",
+            "Function": "values()",
+            "Modifier and Type": "static Formatter.BigDecimalLayoutForm[]"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "command(Object any)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Examines the argument type and its fields and perform some documented operation.",
+            "Function": "compileClass(Class<?> clazz)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "compileClasses(String string)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Compiles the specified class.",
+            "Function": "disable()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "enable()",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

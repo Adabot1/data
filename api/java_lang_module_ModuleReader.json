@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Closes the module reader.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Finds a resource, returning a URI to the resource in the module.",
+            "Function": "find(String name)",
+            "Modifier and Type": "Optional<URI>"
+        },
+        {
+            "Comments": "Lists the contents of the module, returning a stream of elements that are the names of all resources in the module.",
+            "Function": "list()",
+            "Modifier and Type": "Stream<String>"
+        },
+        {
+            "Comments": "Opens a resource, returning an input stream to read the resource in the module.",
+            "Function": "open(String name)",
+            "Modifier and Type": "default Optional<InputStream>"
+        },
+        {
+            "Comments": "Reads a resource, returning a byte buffer with the contents of the resource.",
+            "Function": "read(String name)",
+            "Modifier and Type": "default Optional<ByteBuffer>"
+        },
+        {
+            "Comments": "Release a byte buffer.",
+            "Function": "release(ByteBuffer bb)",
+            "Modifier and Type": "default void"
+        }
+    ]
+}

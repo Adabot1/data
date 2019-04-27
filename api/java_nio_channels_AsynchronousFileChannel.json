@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "force(boolean metaData)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Forces any updates to this channel's file to be written to the storage device that contains it.",
+            "Function": "lock()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Acquires an exclusive lock on this channel's file.",
+            "Function": "lock(long position,long size,boolean shared)",
+            "Modifier and Type": "Future<FileLock>"
+        },
+        {
+            "Comments": "Acquires a lock on the given region of this channel's file.",
+            "Function": "lock(long position,long size,boolean shared,A attachment,CompletionHandler<FileLock,? super A> handler)",
+            "Modifier and Type": "abstract Future<FileLock>"
+        },
+        {
+            "Comments": "Acquires a lock on the given region of this channel's file.",
+            "Function": "lock(A attachment,CompletionHandler<FileLock,? super A> handler)",
+            "Modifier and Type": "abstract <A> void"
+        },
+        {
+            "Comments": "Acquires an exclusive lock on this channel's file.",
+            "Function": "open(Path file,OpenOption... options)",
+            "Modifier and Type": "<A> void"
+        },
+        {
+            "Comments": "Opens or creates a file for reading and/or writing, returning an asynchronous file channel to access the file.",
+            "Function": "open(Path file,Set<? extends OpenOption> options,ExecutorService executor,FileAttribute<?>... attrs)",
+            "Modifier and Type": "static AsynchronousFileChannel"
+        },
+        {
+            "Comments": "Opens or creates a file for reading and/or writing, returning an asynchronous file channel to access the file.",
+            "Function": "read(ByteBuffer dst,long position)",
+            "Modifier and Type": "static AsynchronousFileChannel"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer, starting at the given file position.",
+            "Function": "read(ByteBuffer dst,long position,A attachment,CompletionHandler<Integer,? super A> handler)",
+            "Modifier and Type": "abstract Future<Integer>"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer, starting at the given file position.",
+            "Function": "size()",
+            "Modifier and Type": "abstract <A> void"
+        },
+        {
+            "Comments": "Returns the current size of this channel's file.",
+            "Function": "truncate(long size)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Truncates this channel's file to the given size.",
+            "Function": "tryLock()",
+            "Modifier and Type": "abstract AsynchronousFileChannel"
+        },
+        {
+            "Comments": "Attempts to acquire an exclusive lock on this channel's file.",
+            "Function": "tryLock(long position, long size, boolean shared)",
+            "Modifier and Type": "FileLock"
+        },
+        {
+            "Comments": "Attempts to acquire a lock on the given region of this channel's file.",
+            "Function": "write(ByteBuffer src, long position)",
+            "Modifier and Type": "abstract FileLock"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffer, starting at the given file position.",
+            "Function": "write(ByteBuffer src, long position, A attachment, CompletionHandler<Integer,? super A> handler)",
+            "Modifier and Type": "abstract Future<Integer>"
+        }
+    ]
+}

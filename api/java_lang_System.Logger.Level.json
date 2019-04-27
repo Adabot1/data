@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "A marker to indicate that all levels are enabled.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "DEBUG level: usually used to log debug information traces.",
+            "Function": "getSeverity()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "ERROR level: usually used to log error messages.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static System.Logger.Level"
+        },
+        {
+            "Comments": "INFO level: usually used to log information messages.",
+            "Function": "values()",
+            "Modifier and Type": "static System.Logger.Level[]"
+        }
+    ]
+}

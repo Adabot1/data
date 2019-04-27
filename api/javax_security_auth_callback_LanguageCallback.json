@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a LanguageCallback.",
+            "Function": "getLocale()",
+            "Modifier and Type": "Locale"
+        },
+        {
+            "Comments": "Get the retrieved Locale.",
+            "Function": "setLocale(Locale locale)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

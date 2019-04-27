@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "The network interface for Internet Protocol (IP) multicast datagrams.",
+            "Function": "IP_MULTICAST_IF",
+            "Modifier and Type": "static SocketOption<NetworkInterface>"
+        },
+        {
+            "Comments": "Loopback for Internet Protocol (IP) multicast datagrams.",
+            "Function": "IP_MULTICAST_LOOP",
+            "Modifier and Type": "static SocketOption<Boolean>"
+        },
+        {
+            "Comments": "The time-to-live for Internet Protocol (IP) multicast datagrams.",
+            "Function": "IP_MULTICAST_TTL",
+            "Modifier and Type": "static SocketOption<Integer>"
+        },
+        {
+            "Comments": "The Type of Service (ToS) octet in the Internet Protocol (IP) header.",
+            "Function": "IP_TOS",
+            "Modifier and Type": "static SocketOption<Integer>"
+        },
+        {
+            "Comments": "Allow transmission of broadcast datagrams.",
+            "Function": "SO_BROADCAST",
+            "Modifier and Type": "static SocketOption<Boolean>"
+        },
+        {
+            "Comments": "Keep connection alive.",
+            "Function": "SO_KEEPALIVE",
+            "Modifier and Type": "static SocketOption<Boolean>"
+        },
+        {
+            "Comments": "Linger on close if data is present.",
+            "Function": "SO_LINGER",
+            "Modifier and Type": "static SocketOption<Integer>"
+        },
+        {
+            "Comments": "The size of the socket receive buffer.",
+            "Function": "SO_RCVBUF",
+            "Modifier and Type": "static SocketOption<Integer>"
+        },
+        {
+            "Comments": "Re-use address.",
+            "Function": "SO_REUSEADDR",
+            "Modifier and Type": "static SocketOption<Boolean>"
+        },
+        {
+            "Comments": "Re-use port.",
+            "Function": "SO_REUSEPORT",
+            "Modifier and Type": "static SocketOption<Boolean>"
+        },
+        {
+            "Comments": "The size of the socket send buffer.",
+            "Function": "SO_SNDBUF",
+            "Modifier and Type": "static SocketOption<Integer>"
+        },
+        {
+            "Comments": "Disable the Nagle algorithm.",
+            "Function": "TCP_NODELAY",
+            "Modifier and Type": "static SocketOption<Boolean>"
+        }
+    ]
+}

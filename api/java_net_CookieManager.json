@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Create a new cookie manager.",
+            "Function": "getCookieStore()",
+            "Modifier and Type": "CookieStore"
+        },
+        {
+            "Comments": "Create a new cookie manager with specified cookie store and cookie policy.",
+            "Function": "setCookiePolicy(CookiePolicy cookiePolicy)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

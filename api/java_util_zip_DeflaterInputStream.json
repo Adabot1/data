@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Input buffer for reading compressed data.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "Compressor for this stream.",
+            "Function": "def",
+            "Modifier and Type": "protected Deflater"
+        },
+        {
+            "Comments": "Creates a new input stream with a default compressor and buffer size.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new input stream with the specified compressor and a default buffer size.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new input stream with the specified compressor and buffer size.",
+            "Function": "mark(int limit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns 0 after EOF has been reached, otherwise always return 1.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Closes this input stream and its underlying input stream, discarding any pending uncompressed data.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "This operation is not supported.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Always returns false because this input stream does not support the mark() and reset() methods.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads a single byte of compressed data from the input stream.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

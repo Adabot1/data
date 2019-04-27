@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a new worker thread operating in the given pool.",
+            "Function": "newThread(ForkJoinPool pool)",
+            "Modifier and Type": "ForkJoinWorkerThread"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "API": [
+        {
+            "Comments": "The maximum supported OffsetTime, '23:59:59.999999999-18:00'.",
+            "Function": "MAX",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "The minimum supported OffsetTime, '00:00:00+18:00'.",
+            "Function": "MIN",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Adjusts the specified temporal object to have the same offset and time as this object.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Combines this time with a date to create an OffsetDateTime.",
+            "Function": "atDate(LocalDate date)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Compares this OffsetTime to another time.",
+            "Function": "compareTo(OffsetTime other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this time is equal to another time.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this time using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetTime from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this time as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the hour-of-day field.",
+            "Function": "getHour()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this time as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the minute-of-hour field.",
+            "Function": "getMinute()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the nano-of-second field.",
+            "Function": "getNano()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the zone offset, such as '+01:00'.",
+            "Function": "getOffset()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the second-of-minute field.",
+            "Function": "getSecond()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this time.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if the instant of this OffsetTime is after that of the specified time applying both times to a common date.",
+            "Function": "isAfter(OffsetTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the instant of this OffsetTime is before that of the specified time applying both times to a common date.",
+            "Function": "isBefore(OffsetTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the instant of this OffsetTime is equal to that of the specified time applying both times to a common date.",
+            "Function": "isEqual(OffsetTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of hours subtracted.",
+            "Function": "minusHours(long hours)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of minutes subtracted.",
+            "Function": "minusMinutes(long minutes)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of nanoseconds subtracted.",
+            "Function": "minusNanos(long nanos)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of seconds subtracted.",
+            "Function": "minusSeconds(long seconds)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Obtains the current time from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Obtains the current time from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Obtains the current time from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetTime from an hour, minute, second and nanosecond.",
+            "Function": "of(int hour,int minute,int second,int nanoOfSecond,ZoneOffset offset)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetTime from a local time and an offset.",
+            "Function": "of(LocalTime time,ZoneOffset offset)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetTime from an Instant and zone ID.",
+            "Function": "ofInstant(Instant instant, ZoneId zone)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetTime from a text string such as 10:15:30+01:00.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetTime from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified amount added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of hours added.",
+            "Function": "plusHours(long hours)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of minutes added.",
+            "Function": "plusMinutes(long minutes)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of nanoseconds added.",
+            "Function": "plusNanos(long nanos)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified number of seconds added.",
+            "Function": "plusSeconds(long seconds)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Queries this time using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Converts this OffsetTime to the number of seconds since the epoch of 1970-01-01T00:00:00Z.",
+            "Function": "toEpochSecond(LocalDate date)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the LocalTime part of this date-time.",
+            "Function": "toLocalTime()",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Outputs this time as a String, such as 10:15:30+01:00.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the time truncated.",
+            "Function": "truncatedTo(TemporalUnit unit)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Calculates the amount of time until another time in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted copy of this time.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this time with the specified field set to a new value.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the hour-of-day altered.",
+            "Function": "withHour(int hour)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the minute-of-hour altered.",
+            "Function": "withMinute(int minute)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the nano-of-second altered.",
+            "Function": "withNano(int nanoOfSecond)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified offset ensuring that the result is at the same instant on an implied day.",
+            "Function": "withOffsetSameInstant(ZoneOffset offset)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the specified offset ensuring that the result has the same local time.",
+            "Function": "withOffsetSameLocal(ZoneOffset offset)",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetTime with the second-of-minute altered.",
+            "Function": "withSecond(int second)",
+            "Modifier and Type": "OffsetTime"
+        }
+    ]
+}

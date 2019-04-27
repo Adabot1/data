@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Constant identifying the time of day indicator (e.g.",
+            "Function": "AM_PM",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the day of month field.",
+            "Function": "DAY_OF_MONTH",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the day of week field.",
+            "Function": "DAY_OF_WEEK",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the day of week field.",
+            "Function": "DAY_OF_WEEK_IN_MONTH",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the day of year field.",
+            "Function": "DAY_OF_YEAR",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the era field.",
+            "Function": "ERA",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the hour of day field, where the legal values are 0 to 23.",
+            "Function": "HOUR_OF_DAY0",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the hour of day field, where the legal values are 1 to 24.",
+            "Function": "HOUR_OF_DAY1",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the hour field, where the legal values are 0 to 11.",
+            "Function": "HOUR0",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the hour field, where the legal values are 1 to 12.",
+            "Function": "HOUR1",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the millisecond field.",
+            "Function": "MILLISECOND",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the minute field.",
+            "Function": "MINUTE",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the month field.",
+            "Function": "MONTH",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the second field.",
+            "Function": "SECOND",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the time zone field.",
+            "Function": "TIME_ZONE",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the week of month field.",
+            "Function": "WEEK_OF_MONTH",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the week of year field.",
+            "Function": "WEEK_OF_YEAR",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the year field.",
+            "Function": "YEAR",
+            "Modifier and Type": "static DateFormat.Field"
+        },
+        {
+            "Comments": "Creates a Field.",
+            "Function": "getCalendarField()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the Calendar field associated with this attribute.",
+            "Function": "ofCalendarField(int calendarField)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the Field constant that corresponds to the Calendar constant calendarField.",
+            "Function": "readResolve()",
+            "Modifier and Type": "static DateFormat.Field"
+        }
+    ]
+}

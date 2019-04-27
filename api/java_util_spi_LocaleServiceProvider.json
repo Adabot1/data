@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new locale service provider.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns an array of all locales for which this locale service provider can provide localized objects or names.",
+            "Function": "isSupportedLocale(Locale locale)",
+            "Modifier and Type": "abstract Locale[]"
+        }
+    ]
+}

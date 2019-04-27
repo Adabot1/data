@@ -1,0 +1,264 @@
+{
+    "API": [
+        {
+            "Comments": "The JAR manifest file name.",
+            "Function": "CENATT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarFile to read from the specified File object.",
+            "Function": "CENATX",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarFile to read from the specified File object.",
+            "Function": "CENCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarFile to read from the specified File object in the specified mode.",
+            "Function": "CENCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarFile to read from the specified File object in the specified mode.",
+            "Function": "CENDSK",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarFile to read from the specified file name.",
+            "Function": "CENEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarFile to read from the specified file name.",
+            "Function": "CENFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the version that represents the unversioned configuration of a multi-release jar file.",
+            "Function": "CENHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns an enumeration of the jar file entries.",
+            "Function": "CENHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the ZipEntry for the given base entry name or null if not found.",
+            "Function": "CENLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns an input stream for reading the contents of the specified zip file entry.",
+            "Function": "CENNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the JarEntry for the given base entry name or null if not found.",
+            "Function": "CENOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the jar file manifest, or null if none.",
+            "Function": "CENSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the maximum version used when searching for versioned entries.",
+            "Function": "CENSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Indicates whether or not this jar file is a multi-release jar file.",
+            "Function": "CENTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the version that represents the effective runtime versioned configuration of a multi-release jar file.",
+            "Function": "CENVEM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns an ordered Stream over the jar file entries.",
+            "Function": "CENVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns a Stream of the versioned jar file entries.",
+            "Function": "ENDCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSUB",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDTOT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "MANIFEST_NAME",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "",
+            "Function": "baseVersion()",
+            "Modifier and Type": "static Runtime.Version"
+        },
+        {
+            "Comments": "",
+            "Function": "entries()",
+            "Modifier and Type": "Enumeration<JarEntry>"
+        },
+        {
+            "Comments": "",
+            "Function": "getEntry(String name)",
+            "Modifier and Type": "ZipEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "getInputStream(ZipEntry ze)",
+            "Modifier and Type": "InputStream"
+        },
+        {
+            "Comments": "",
+            "Function": "getJarEntry(String name)",
+            "Modifier and Type": "JarEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "getManifest()",
+            "Modifier and Type": "Manifest"
+        },
+        {
+            "Comments": "",
+            "Function": "getVersion()",
+            "Modifier and Type": "Runtime.Version"
+        },
+        {
+            "Comments": "",
+            "Function": "isMultiRelease()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "",
+            "Function": "runtimeVersion()",
+            "Modifier and Type": "static Runtime.Version"
+        },
+        {
+            "Comments": "",
+            "Function": "stream()",
+            "Modifier and Type": "Stream<JarEntry>"
+        },
+        {
+            "Comments": "",
+            "Function": "versionedStream()",
+            "Modifier and Type": "Stream<JarEntry>"
+        }
+    ]
+}

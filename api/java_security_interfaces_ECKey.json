@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the domain parameters associated with this key.",
+            "Function": "getParams()",
+            "Modifier and Type": "ECParameterSpec"
+        }
+    ]
+}

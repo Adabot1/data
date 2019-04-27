@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Flag for alternate metafactories indicating the lambda object requires additional bridge methods",
+            "Function": "FLAG_BRIDGES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Flag for alternate metafactories indicating the lambda object implements other marker interfaces besides Serializable",
+            "Function": "FLAG_MARKERS",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Flag for alternate metafactories indicating the lambda object must be serializable",
+            "Function": "FLAG_SERIALIZABLE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Facilitates the creation of simple \"function objects\" that implement one or more interfaces by delegation to a provided MethodHandle, after appropriate type adaptation and partial evaluation of arguments.",
+            "Function": "altMetafactory(MethodHandles.Lookup caller,String invokedName,MethodType invokedType,Object... args)",
+            "Modifier and Type": "static CallSite"
+        },
+        {
+            "Comments": "Facilitates the creation of simple \"function objects\" that implement one or more interfaces by delegation to a provided MethodHandle, after appropriate type adaptation and partial evaluation of arguments.",
+            "Function": "metafactory(MethodHandles.Lookup caller, String invokedName, MethodType invokedType, MethodType samMethodType, MethodHandle implMethod, MethodType instantiatedMethodType)",
+            "Modifier and Type": "static CallSite"
+        }
+    ]
+}

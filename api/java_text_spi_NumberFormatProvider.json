@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getCurrencyInstance(Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a new NumberFormat instance which formats monetary values for the specified locale.",
+            "Function": "getIntegerInstance(Locale locale)",
+            "Modifier and Type": "abstract NumberFormat"
+        },
+        {
+            "Comments": "Returns a new NumberFormat instance which formats integer values for the specified locale.",
+            "Function": "getNumberInstance(Locale locale)",
+            "Modifier and Type": "abstract NumberFormat"
+        },
+        {
+            "Comments": "Returns a new general-purpose NumberFormat instance for the specified locale.",
+            "Function": "getPercentInstance(Locale locale)",
+            "Modifier and Type": "abstract NumberFormat"
+        }
+    ]
+}

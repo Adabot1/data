@@ -1,0 +1,159 @@
+{
+    "API": [
+        {
+            "Comments": "The description of a security service.",
+            "Function": "Provider.Service",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Deprecated.use Provider(String, String, String) instead.",
+            "Function": "clear()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructs a provider with the specified name, version string, and information.",
+            "Function": "compute(Object key, BiFunction<? super Object,? super Object,? extends Object> remappingFunction)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Clears this provider so that it no longer contains the properties used to look up facilities implemented by the provider.",
+            "Function": "computeIfAbsent(Object key, Function<? super Object,? extends Object> mappingFunction)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping).",
+            "Function": "computeIfPresent(Object key,BiFunction<? super Object,? super Object,? extends Object> remappingFunction)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "If the specified key is not already associated with a value (or is mapped to null), attempts to compute its value using the given mapping function and enters it into this map unless null.",
+            "Function": "configure(String configArg)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "If the value for the specified key is present and non-null, attempts to compute a new mapping given the key and its current mapped value.",
+            "Function": "entrySet()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Apply the supplied configuration argument to this provider instance and return the configured provider.",
+            "Function": "forEach(BiConsumer<? super Object,? super Object> action)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Returns an unmodifiable Set view of the property entries contained in this Provider.",
+            "Function": "getInfo()",
+            "Modifier and Type": "Set<Map.Entry<Object,​Object>>"
+        },
+        {
+            "Comments": "Performs the given action for each entry in this map until all entries have been processed or the action throws an exception.",
+            "Function": "getName()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a human-readable description of the provider and its services.",
+            "Function": "getOrDefault(Object key,Object defaultValue)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the name of this provider.",
+            "Function": "getService(String type,String algorithm)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value to which the specified key is mapped, or defaultValue if this map contains no mapping for the key.",
+            "Function": "getServices()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Get the service describing this Provider's implementation of the specified type of this algorithm or alias.",
+            "Function": "getVersion()",
+            "Modifier and Type": "Provider.Service"
+        },
+        {
+            "Comments": "Get an unmodifiable Set of all services supported by this Provider.",
+            "Function": "getVersionStr()",
+            "Modifier and Type": "Set<Provider.Service>"
+        },
+        {
+            "Comments": "Deprecated.use getVersionStr() instead.",
+            "Function": "isConfigured()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the version string for this provider.",
+            "Function": "keySet()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Check if this provider instance has been configured.",
+            "Function": "load(InputStream inStream)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an unmodifiable Set view of the property keys contained in this provider.",
+            "Function": "merge(Object key, Object value, BiFunction<? super Object,? super Object,? extends Object> remappingFunction)",
+            "Modifier and Type": "Set<Object>"
+        },
+        {
+            "Comments": "Reads a property list (key and element pairs) from the input stream.",
+            "Function": "put(Object key, Object value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If the specified key is not already associated with a value or is associated with null, associates it with the given value.",
+            "Function": "putAll(Map<?,?> t)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Sets the key property to have the specified value.",
+            "Function": "putIfAbsent(Object key, Object value)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Copies all of the mappings from the specified Map to this provider.",
+            "Function": "putService(Provider.Service s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If the specified key is not already associated with a value (or is mapped to null) associates it with the given value and returns null, else returns the current value.",
+            "Function": "remove(Object key)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Add a service.",
+            "Function": "remove(Object key,Object value)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Removes the key property (and its corresponding value).",
+            "Function": "removeService(Provider.Service s)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Removes the entry for the specified key only if it is currently mapped to the specified value.",
+            "Function": "replace(Object key, Object value)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Remove a service previously added using putService().",
+            "Function": "replace(Object key, Object oldValue, Object newValue)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Replaces the entry for the specified key only if it is currently mapped to some value.",
+            "Function": "replaceAll(BiFunction<? super Object,? super Object,? extends Object> function)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Replaces the entry for the specified key only if currently mapped to the specified value.",
+            "Function": "toString()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Replaces each entry's value with the result of invoking the given function on that entry, in the order entries are returned by an entry set iterator, until all entries have been processed or the function throws an exception.",
+            "Function": "values()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

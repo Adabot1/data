@@ -1,0 +1,129 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the raw IP address of this InetAddress object.",
+            "Function": "getAddress()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Given the name of a host, returns an array of its IP addresses, based on the configured name service on the system.",
+            "Function": "getAllByName(String host)",
+            "Modifier and Type": "static InetAddress[]"
+        },
+        {
+            "Comments": "Returns an InetAddress object given the raw IP address .",
+            "Function": "getByAddress(byte[] addr)",
+            "Modifier and Type": "static InetAddress"
+        },
+        {
+            "Comments": "Creates an InetAddress based on the provided host name and IP address.",
+            "Function": "getByAddress(String host,byte[] addr)",
+            "Modifier and Type": "static InetAddress"
+        },
+        {
+            "Comments": "Determines the IP address of a host, given the host's name.",
+            "Function": "getByName(String host)",
+            "Modifier and Type": "static InetAddress"
+        },
+        {
+            "Comments": "Gets the fully qualified domain name for this IP address.",
+            "Function": "getCanonicalHostName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the IP address string in textual presentation.",
+            "Function": "getHostAddress()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the host name for this IP address.",
+            "Function": "getHostName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the address of the local host.",
+            "Function": "getLocalHost()",
+            "Modifier and Type": "static InetAddress"
+        },
+        {
+            "Comments": "Returns the loopback address.",
+            "Function": "getLoopbackAddress()",
+            "Modifier and Type": "static InetAddress"
+        },
+        {
+            "Comments": "Returns a hashcode for this IP address.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a wildcard address.",
+            "Function": "isAnyLocalAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is an link local address.",
+            "Function": "isLinkLocalAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a loopback address.",
+            "Function": "isLoopbackAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has global scope.",
+            "Function": "isMCGlobal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has link scope.",
+            "Function": "isMCLinkLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has node scope.",
+            "Function": "isMCNodeLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has organization scope.",
+            "Function": "isMCOrgLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has site scope.",
+            "Function": "isMCSiteLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is an IP multicast address.",
+            "Function": "isMulticastAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Test whether that address is reachable.",
+            "Function": "isReachable(int timeout)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Test whether that address is reachable.",
+            "Function": "isReachable(NetworkInterface netif, int ttl, int timeout)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a site local address.",
+            "Function": "isSiteLocalAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Converts this IP address to a String.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

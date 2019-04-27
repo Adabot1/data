@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Output buffer for writing compressed data.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "Compressor for this stream.",
+            "Function": "def",
+            "Modifier and Type": "protected Deflater"
+        },
+        {
+            "Comments": "Creates a new output stream with a default compressor and buffer size.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new output stream with a default compressor, a default buffer size and the specified flush mode.",
+            "Function": "deflate()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Creates a new output stream with the specified compressor and a default buffer size.",
+            "Function": "finish()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new output stream with the specified compressor, flush mode and a default buffer size.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new output stream with the specified compressor and buffer size.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new output stream with the specified compressor, buffer size and flush mode.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

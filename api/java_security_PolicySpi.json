@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Return a PermissionCollection object containing the set of permissions granted to the specified CodeSource.",
+            "Function": "engineGetPermissions(CodeSource codesource)",
+            "Modifier and Type": "protected PermissionCollection"
+        },
+        {
+            "Comments": "Return a PermissionCollection object containing the set of permissions granted to the specified ProtectionDomain.",
+            "Function": "engineGetPermissions(ProtectionDomain domain)",
+            "Modifier and Type": "protected PermissionCollection"
+        },
+        {
+            "Comments": "Check whether the policy has granted a Permission to a ProtectionDomain.",
+            "Function": "engineImplies(ProtectionDomain domain, Permission permission)",
+            "Modifier and Type": "protected abstract boolean"
+        },
+        {
+            "Comments": "Refreshes/reloads the policy configuration.",
+            "Function": "engineRefresh()",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

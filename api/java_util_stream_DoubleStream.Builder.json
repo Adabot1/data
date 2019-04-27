@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Adds an element to the stream being built.",
+            "Function": "accept(double t)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds an element to the stream being built.",
+            "Function": "add(double t)",
+            "Modifier and Type": "default DoubleStream.Builder"
+        },
+        {
+            "Comments": "Builds the stream, transitioning this builder to the built state.",
+            "Function": "build()",
+            "Modifier and Type": "DoubleStream"
+        }
+    ]
+}

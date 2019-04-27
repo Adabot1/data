@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a DiscardOldestPolicy for the given executor.",
+            "Function": "rejectedExecution(Runnable r, ThreadPoolExecutor e)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "API": [
+        {
+            "Comments": "Possible state value, signifying that this signature object has been initialized for signing.",
+            "Function": "SIGN",
+            "Modifier and Type": "protected static int"
+        },
+        {
+            "Comments": "Current state of this signature object.",
+            "Function": "state",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Possible state value, signifying that this signature object has not yet been initialized.",
+            "Function": "UNINITIALIZED",
+            "Modifier and Type": "protected static int"
+        },
+        {
+            "Comments": "Possible state value, signifying that this signature object has been initialized for verification.",
+            "Function": "VERIFY",
+            "Modifier and Type": "protected static int"
+        },
+        {
+            "Comments": "Creates a Signature object for the specified algorithm.",
+            "Function": "clone()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a clone if the implementation is cloneable.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the name of the algorithm for this signature object.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a Signature object that implements the specified signature algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static Signature"
+        },
+        {
+            "Comments": "Returns a Signature object that implements the specified signature algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static Signature"
+        },
+        {
+            "Comments": "Returns a Signature object that implements the specified signature algorithm.",
+            "Function": "getParameter(String param)",
+            "Modifier and Type": "static Signature"
+        },
+        {
+            "Comments": "Deprecated. ",
+            "Function": "getParameters()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the parameters used with this signature object.",
+            "Function": "getProvider()",
+            "Modifier and Type": "AlgorithmParameters"
+        },
+        {
+            "Comments": "Returns the provider of this signature object.",
+            "Function": "initSign(PrivateKey privateKey)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initialize this object for signing.",
+            "Function": "initSign(PrivateKey privateKey,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initialize this object for signing.",
+            "Function": "initVerify(Certificate certificate)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this object for verification, using the public key from the given certificate.",
+            "Function": "initVerify(PublicKey publicKey)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this object for verification.",
+            "Function": "setParameter(String param,Object value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.Use setParameter.",
+            "Function": "setParameter(AlgorithmParameterSpec params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this signature engine with the specified parameter set.",
+            "Function": "sign()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the signature bytes of all the data updated.",
+            "Function": "sign(byte[] outbuf,int offset,int len)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Finishes the signature operation and stores the resulting signature bytes in the provided buffer outbuf, starting at offset.",
+            "Function": "toString()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string representation of this signature object, providing information that includes the state of the object and the name of the algorithm used.",
+            "Function": "update(byte b)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Updates the data to be signed or verified by a byte.",
+            "Function": "update(byte[] data)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the data to be signed or verified, using the specified array of bytes.",
+            "Function": "update(byte[] data,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the data to be signed or verified, using the specified array of bytes, starting at the specified offset.",
+            "Function": "update(ByteBuffer data)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the data to be signed or verified using the specified ByteBuffer.",
+            "Function": "verify(byte[] signature)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Verifies the passed-in signature.",
+            "Function": "verify(byte[] signature,int offset,int length)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

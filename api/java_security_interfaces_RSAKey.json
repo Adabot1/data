@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the modulus.",
+            "Function": "getModulus()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the parameters associated with this key.",
+            "Function": "getParams()",
+            "Modifier and Type": "default AlgorithmParameterSpec"
+        }
+    ]
+}

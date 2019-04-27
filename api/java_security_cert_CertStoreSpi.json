@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The sole constructor.",
+            "Function": "engineGetCertificates(CertSelector selector)",
+            "Modifier and Type": "abstract Collection<? extends Certificate>"
+        },
+        {
+            "Comments": "Returns a Collection of Certificates that match the specified selector.",
+            "Function": "engineGetCRLs(CRLSelector selector)",
+            "Modifier and Type": "abstract Collection<? extends CRL>"
+        }
+    ]
+}

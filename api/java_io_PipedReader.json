@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a PipedReader so that it is not yet connected.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a PipedReader so that it is not yet connected and uses the specified pipe size for the pipe's buffer.",
+            "Function": "connect(PipedWriter src)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a PipedReader so that it is connected to the piped writer src.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a PipedReader so that it is connected to the piped writer src and uses the specified pipe size for the pipe's buffer.",
+            "Function": "read(char[] cbuf,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes this piped stream and releases any system resources associated with the stream.",
+            "Function": "ready()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

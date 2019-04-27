@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Closes this channel.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tells whether or not this channel is open.",
+            "Function": "isOpen()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

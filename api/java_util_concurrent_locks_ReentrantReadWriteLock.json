@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "The lock returned by method ReadWriteLock.readLock().",
+            "Function": "ReentrantReadWriteLock.ReadLock",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "The lock returned by method ReadWriteLock.writeLock().",
+            "Function": "ReentrantReadWriteLock.WriteLock",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Creates a new ReentrantReadWriteLock with default (nonfair) ordering properties.",
+            "Function": "getOwner()",
+            "Modifier and Type": "protected Thread"
+        },
+        {
+            "Comments": "Creates a new ReentrantReadWriteLock with the given fairness policy.",
+            "Function": "getQueuedReaderThreads()",
+            "Modifier and Type": "protected Collection<Thread>"
+        },
+        {
+            "Comments": "Returns the thread that currently owns the write lock, or null if not owned.",
+            "Function": "getQueuedThreads()",
+            "Modifier and Type": "protected Collection<Thread>"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire the read lock.",
+            "Function": "getQueuedWriterThreads()",
+            "Modifier and Type": "protected Collection<Thread>"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire either the read or write lock.",
+            "Function": "getQueueLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire the write lock.",
+            "Function": "getReadHoldCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads waiting to acquire either the read or write lock.",
+            "Function": "getReadLockCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Queries the number of reentrant read holds on this lock by the current thread.",
+            "Function": "getWaitingThreads(Condition condition)",
+            "Modifier and Type": "protected Collection<Thread>"
+        },
+        {
+            "Comments": "Queries the number of read locks held for this lock.",
+            "Function": "getWaitQueueLength(Condition condition)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a collection containing those threads that may be waiting on the given condition associated with the write lock.",
+            "Function": "getWriteHoldCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads waiting on the given condition associated with the write lock.",
+            "Function": "hasQueuedThread(Thread thread)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries the number of reentrant write holds on this lock by the current thread.",
+            "Function": "hasQueuedThreads()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether the given thread is waiting to acquire either the read or write lock.",
+            "Function": "hasWaiters(Condition condition)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads are waiting to acquire the read or write lock.",
+            "Function": "isFair()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads are waiting on the given condition associated with the write lock.",
+            "Function": "isWriteLocked()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this lock has fairness set true.",
+            "Function": "isWriteLockedByCurrentThread()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries if the write lock is held by any thread.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

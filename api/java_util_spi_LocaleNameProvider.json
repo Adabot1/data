@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getDisplayCountry(String countryCode, Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a localized name for the given  IETF BCP47 region code (either ISO 3166 country code or UN M.49 area codes) and the given locale that is appropriate for display to the user.",
+            "Function": "getDisplayLanguage(String languageCode,Locale locale)",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Returns a localized name for the given  IETF BCP47 language code and the given locale that is appropriate for display to the user.",
+            "Function": "getDisplayScript(String scriptCode,Locale locale)",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Returns a localized name for the given  IETF BCP47 script code and the given locale that is appropriate for display to the user.",
+            "Function": "getDisplayUnicodeExtensionKey(String key, Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a localized name for the given Unicode extension key, and the given locale that is appropriate for display to the user.",
+            "Function": "getDisplayUnicodeExtensionType(String type,String key,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a localized name for the given Unicode extension type, and the given locale that is appropriate for display to the user.",
+            "Function": "getDisplayVariant(String variant, Locale locale)",
+            "Modifier and Type": "String"
+        }
+    ]
+}

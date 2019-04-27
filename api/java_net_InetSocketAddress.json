@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a socket address where the IP address is the wildcard address and the port number a specified value.",
+            "Function": "createUnresolved(String host,int port)",
+            "Modifier and Type": "static InetSocketAddress"
+        },
+        {
+            "Comments": "Creates a socket address from a hostname and a port number.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a socket address from an IP address and a port number.",
+            "Function": "getAddress()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Creates an unresolved socket address from a hostname and a port number.",
+            "Function": "getHostName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "getHostString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the InetAddress.",
+            "Function": "getPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the hostname.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hostname, or the String form of the address if it doesn't have a hostname (it was created using a literal).",
+            "Function": "isUnresolved()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the port number.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

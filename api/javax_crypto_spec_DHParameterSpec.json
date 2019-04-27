@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a parameter set for Diffie-Hellman, using a prime modulus p and a base generator g.",
+            "Function": "getG()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Constructs a parameter set for Diffie-Hellman, using a prime modulus p, a base generator g, and the size in bits, l, of the random exponent (private value).",
+            "Function": "getL()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the base generator g.",
+            "Function": "getP()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

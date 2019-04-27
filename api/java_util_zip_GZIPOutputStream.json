@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "CRC-32 of uncompressed data.",
+            "Function": "crc",
+            "Modifier and Type": "protected CRC32"
+        },
+        {
+            "Comments": "Creates a new output stream with a default buffer size.",
+            "Function": "finish()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new output stream with a default buffer size and the specified flush mode.",
+            "Function": "write(byte[] buf, int off, int len)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

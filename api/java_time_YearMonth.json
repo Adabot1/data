@@ -1,0 +1,224 @@
+{
+    "API": [
+        {
+            "Comments": "Adjusts the specified temporal object to have this year-month.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Combines this year-month with a day-of-month to create a LocalDate.",
+            "Function": "atDay(int dayOfMonth)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a LocalDate at the end of the month.",
+            "Function": "atEndOfMonth()",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Compares this year-month to another year-month.",
+            "Function": "compareTo(YearMonth other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this year-month is equal to another year-month.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this year-month using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of YearMonth from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this year-month as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this year-month as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the month-of-year field using the Month enum.",
+            "Function": "getMonth()",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Gets the month-of-year field from 1 to 12.",
+            "Function": "getMonthValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the year field.",
+            "Function": "getYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this year-month.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this year-month is after the specified year-month.",
+            "Function": "isAfter(YearMonth other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this year-month is before the specified year-month.",
+            "Function": "isBefore(YearMonth other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the year is a leap year, according to the ISO proleptic calendar system rules.",
+            "Function": "isLeapYear()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the day-of-month is valid for this year-month.",
+            "Function": "isValidDay(int dayOfMonth)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the length of the month, taking account of the year.",
+            "Function": "lengthOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the length of the year.",
+            "Function": "lengthOfYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a copy of this year-month with the specified amount subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this year-month with the specified amount subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this YearMonth with the specified number of months subtracted.",
+            "Function": "minusMonths(long monthsToSubtract)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this YearMonth with the specified number of years subtracted.",
+            "Function": "minusYears(long yearsToSubtract)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Obtains the current year-month from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Obtains the current year-month from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Obtains the current year-month from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Obtains an instance of YearMonth from a year and month.",
+            "Function": "of(int year,int month)",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Obtains an instance of YearMonth from a year and month.",
+            "Function": "of(int year,Month month)",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Obtains an instance of YearMonth from a text string such as 2007-12.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Obtains an instance of YearMonth from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this year-month with the specified amount added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this year-month with the specified amount added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this YearMonth with the specified number of months added.",
+            "Function": "plusMonths(long monthsToAdd)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this YearMonth with the specified number of years added.",
+            "Function": "plusYears(long yearsToAdd)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Queries this year-month using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Outputs this year-month as a String, such as 2007-12.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Calculates the amount of time until another year-month in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted copy of this year-month.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this year-month with the specified field set to a new value.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this YearMonth with the month-of-year altered.",
+            "Function": "withMonth(int month)",
+            "Modifier and Type": "YearMonth"
+        },
+        {
+            "Comments": "Returns a copy of this YearMonth with the year altered.",
+            "Function": "withYear(int year)",
+            "Modifier and Type": "YearMonth"
+        }
+    ]
+}

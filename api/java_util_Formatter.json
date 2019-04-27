@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Enum for BigDecimal formatting.",
+            "Function": "Formatter.BigDecimalLayoutForm",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Constructs a new formatter.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a new formatter with the specified file.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a new formatter with the specified file and charset.",
+            "Function": "format(String format,Object... args)",
+            "Modifier and Type": "Formatter"
+        },
+        {
+            "Comments": "Constructs a new formatter with the specified file, charset, and locale.",
+            "Function": "format(Locale l,String format,Object... args)",
+            "Modifier and Type": "Formatter"
+        },
+        {
+            "Comments": "Constructs a new formatter with the specified file, charset, and locale.",
+            "Function": "ioException()",
+            "Modifier and Type": "IOException"
+        },
+        {
+            "Comments": "Constructs a new formatter with the specified output stream.",
+            "Function": "locale()",
+            "Modifier and Type": "Locale"
+        },
+        {
+            "Comments": "Constructs a new formatter with the specified output stream and charset.",
+            "Function": "out()",
+            "Modifier and Type": "Appendable"
+        },
+        {
+            "Comments": "Constructs a new formatter with the specified output stream, charset, and locale.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

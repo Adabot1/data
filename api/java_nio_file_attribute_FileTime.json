@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Compares the value of two FileTime objects for order.",
+            "Function": "compareTo(FileTime other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests this FileTime for equality with the given object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a FileTime representing a value at the given unit of granularity.",
+            "Function": "from(long value,TimeUnit unit)",
+            "Modifier and Type": "static FileTime"
+        },
+        {
+            "Comments": "Returns a FileTime representing the same point of time value on the time-line as the provided Instant object.",
+            "Function": "from(Instant instant)",
+            "Modifier and Type": "static FileTime"
+        },
+        {
+            "Comments": "Returns a FileTime representing the given value in milliseconds.",
+            "Function": "fromMillis(long value)",
+            "Modifier and Type": "static FileTime"
+        },
+        {
+            "Comments": "Computes a hash code for this file time.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the value at the given unit of granularity.",
+            "Function": "to(TimeUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Converts this FileTime object to an Instant.",
+            "Function": "toInstant()",
+            "Modifier and Type": "Instant"
+        },
+        {
+            "Comments": "Returns the value in milliseconds.",
+            "Function": "toMillis()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the string representation of this FileTime.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

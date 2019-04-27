@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Constant denoting big-endian byte order.",
+            "Function": "BIG_ENDIAN",
+            "Modifier and Type": "static ByteOrder"
+        },
+        {
+            "Comments": "Constant denoting little-endian byte order.",
+            "Function": "LITTLE_ENDIAN",
+            "Modifier and Type": "static ByteOrder"
+        },
+        {
+            "Comments": "Retrieves the native byte order of the underlying platform.",
+            "Function": "nativeOrder()",
+            "Modifier and Type": "static ByteOrder"
+        },
+        {
+            "Comments": "Constructs a string describing this object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

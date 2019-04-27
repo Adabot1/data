@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a clone if the implementation is cloneable.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Completes the MAC computation and resets the MAC for further use, maintaining the secret key that the MAC was initialized with.",
+            "Function": "engineDoFinal()",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Returns the length of the MAC in bytes.",
+            "Function": "engineGetMacLength()",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Initializes the MAC with the given (secret) key and algorithm parameters.",
+            "Function": "engineInit(Key key,AlgorithmParameterSpec params)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Resets the MAC for further use, maintaining the secret key that the MAC was initialized with.",
+            "Function": "engineReset()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Processes the given byte.",
+            "Function": "engineUpdate(byte input)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Processes the first len bytes in input, starting at offset inclusive.",
+            "Function": "engineUpdate(byte[] input,int offset,int len)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Processes input.remaining() bytes in the ByteBuffer input, starting at input.position().",
+            "Function": "engineUpdate(ByteBuffer input)",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

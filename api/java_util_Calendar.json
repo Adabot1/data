@@ -1,0 +1,554 @@
+{
+    "API": [
+        {
+            "Comments": "Calendar.Builder is used for creating a Calendar from various date-time parameters.",
+            "Function": "Calendar.Builder",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A style specifier for getDisplayNames indicating names in all styles, such as \"January\" and \"Jan\".",
+            "Function": "ALL_STYLES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the AM_PM field indicating the period of the day from midnight to just before noon.",
+            "Function": "AM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating whether the HOUR is before or after noon.",
+            "Function": "AM_PM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the fourth month of the year in the Gregorian and Julian calendars.",
+            "Function": "APRIL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "True if fields[] are in sync with the currently set time.",
+            "Function": "areFieldsSet",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the eighth month of the year in the Gregorian and Julian calendars.",
+            "Function": "AUGUST",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the day of the month.",
+            "Function": "DATE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the day of the month.",
+            "Function": "DAY_OF_MONTH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the day of the week.",
+            "Function": "DAY_OF_WEEK",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the ordinal number of the day of the week within the current month.",
+            "Function": "DAY_OF_WEEK_IN_MONTH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the day number within the current year.",
+            "Function": "DAY_OF_YEAR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the twelfth month of the year in the Gregorian and Julian calendars.",
+            "Function": "DECEMBER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the daylight saving offset in milliseconds.",
+            "Function": "DST_OFFSET",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the era, e.g., AD or BC in the Julian calendar.",
+            "Function": "ERA",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the second month of the year in the Gregorian and Julian calendars.",
+            "Function": "FEBRUARY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The number of distinct fields recognized by get and set.",
+            "Function": "FIELD_COUNT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The calendar field values for the currently set time for this calendar.",
+            "Function": "fields",
+            "Modifier and Type": "protected int[]"
+        },
+        {
+            "Comments": "Value of the DAY_OF_WEEK field indicating Friday.",
+            "Function": "FRIDAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the hour of the morning or afternoon.",
+            "Function": "HOUR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the hour of the day.",
+            "Function": "HOUR_OF_DAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The flags which tell if a specified calendar field for the calendar is set.",
+            "Function": "isSet",
+            "Modifier and Type": "protected boolean[]"
+        },
+        {
+            "Comments": "True if then the value of time is valid.",
+            "Function": "isTimeSet",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the first month of the year in the Gregorian and Julian calendars.",
+            "Function": "JANUARY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the seventh month of the year in the Gregorian and Julian calendars.",
+            "Function": "JULY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the sixth month of the year in the Gregorian and Julian calendars.",
+            "Function": "JUNE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames equivalent to LONG_FORMAT.",
+            "Function": "LONG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames indicating a long name used for format.",
+            "Function": "LONG_FORMAT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames indicating a long name used independently, such as a month name as calendar headers.",
+            "Function": "LONG_STANDALONE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the third month of the year in the Gregorian and Julian calendars.",
+            "Function": "MARCH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the fifth month of the year in the Gregorian and Julian calendars.",
+            "Function": "MAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the millisecond within the second.",
+            "Function": "MILLISECOND",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the minute within the hour.",
+            "Function": "MINUTE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the DAY_OF_WEEK field indicating Monday.",
+            "Function": "MONDAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the month.",
+            "Function": "MONTH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames indicating a narrow name used for format.",
+            "Function": "NARROW_FORMAT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames indicating a narrow name independently.",
+            "Function": "NARROW_STANDALONE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the eleventh month of the year in the Gregorian and Julian calendars.",
+            "Function": "NOVEMBER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the tenth month of the year in the Gregorian and Julian calendars.",
+            "Function": "OCTOBER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the AM_PM field indicating the period of the day from noon to just before midnight.",
+            "Function": "PM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the DAY_OF_WEEK field indicating Saturday.",
+            "Function": "SATURDAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the second within the minute.",
+            "Function": "SECOND",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the ninth month of the year in the Gregorian and Julian calendars.",
+            "Function": "SEPTEMBER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames equivalent to SHORT_FORMAT.",
+            "Function": "SHORT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames indicating a short name used for format.",
+            "Function": "SHORT_FORMAT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A style specifier for getDisplayName and getDisplayNames indicating a short name used independently, such as a month abbreviation as calendar headers.",
+            "Function": "SHORT_STANDALONE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the DAY_OF_WEEK field indicating Sunday.",
+            "Function": "SUNDAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the DAY_OF_WEEK field indicating Thursday.",
+            "Function": "THURSDAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The currently set time for this calendar, expressed in milliseconds after January 1, 1970, 0:00:00 GMT.",
+            "Function": "time",
+            "Modifier and Type": "protected long"
+        },
+        {
+            "Comments": "Value of the DAY_OF_WEEK field indicating Tuesday.",
+            "Function": "TUESDAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the MONTH field indicating the thirteenth month of the year.",
+            "Function": "UNDECIMBER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the DAY_OF_WEEK field indicating Wednesday.",
+            "Function": "WEDNESDAY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the week number within the current month.",
+            "Function": "WEEK_OF_MONTH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the week number within the current year.",
+            "Function": "WEEK_OF_YEAR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the year.",
+            "Function": "YEAR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field number for get and set indicating the raw offset from GMT in milliseconds.",
+            "Function": "ZONE_OFFSET",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constructs a Calendar with the default time zone and the default FORMAT locale.",
+            "Function": "add(int field, int amount)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructs a calendar with the specified time zone and locale.",
+            "Function": "after(Object when)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Adds or subtracts the specified amount of time to the given calendar field, based on the calendar's rules.",
+            "Function": "before(Object when)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns whether this Calendar represents a time after the time represented by the specified Object.",
+            "Function": "clear()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns whether this Calendar represents a time before the time represented by the specified Object.",
+            "Function": "clear(int field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets all the calendar field values and the time value (millisecond offset from the Epoch) of this Calendar undefined.",
+            "Function": "clone()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the given calendar field value and the time value (millisecond offset from the Epoch) of this Calendar undefined.",
+            "Function": "compareTo(Calendar anotherCalendar)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates and returns a copy of this object.",
+            "Function": "complete()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Compares the time values (millisecond offsets from the Epoch) represented by two Calendar objects.",
+            "Function": "computeFields()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Fills in any unset fields in the calendar fields.",
+            "Function": "computeTime()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Converts the current millisecond time value time to calendar field values in fields[].",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Converts the current calendar field values in fields[] to the millisecond time value time.",
+            "Function": "get(int field)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Compares this Calendar to the specified Object.",
+            "Function": "getActualMaximum(int field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the given calendar field.",
+            "Function": "getActualMinimum(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the maximum value that the specified calendar field could have, given the time value of this Calendar.",
+            "Function": "getAvailableCalendarTypes()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the minimum value that the specified calendar field could have, given the time value of this Calendar.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an unmodifiable Set containing all calendar types supported by Calendar in the runtime environment.",
+            "Function": "getCalendarType()",
+            "Modifier and Type": "static Set<String>"
+        },
+        {
+            "Comments": "Returns an array of all locales for which the getInstance methods of this class can return localized instances.",
+            "Function": "getDisplayName(int field,int style,Locale locale)",
+            "Modifier and Type": "static Locale[]"
+        },
+        {
+            "Comments": "Returns the calendar type of this Calendar.",
+            "Function": "getDisplayNames(int field, int style, Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the string representation of the calendar field value in the given style and locale.",
+            "Function": "getFirstDayOfWeek()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a Map containing all names of the calendar field in the given style and locale and their corresponding field values.",
+            "Function": "getGreatestMinimum(int field)",
+            "Modifier and Type": "Map<String,​Integer>"
+        },
+        {
+            "Comments": "Gets what the first day of the week is; e.g., SUNDAY in the U.S., MONDAY in France.",
+            "Function": "getInstance()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the highest minimum value for the given calendar field of this Calendar instance.",
+            "Function": "getInstance(Locale aLocale)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Gets a calendar using the default time zone and locale.",
+            "Function": "getInstance(TimeZone zone)",
+            "Modifier and Type": "static Calendar"
+        },
+        {
+            "Comments": "Gets a calendar using the default time zone and specified locale.",
+            "Function": "getInstance(TimeZone zone, Locale aLocale)",
+            "Modifier and Type": "static Calendar"
+        },
+        {
+            "Comments": "Gets a calendar using the specified time zone and default locale.",
+            "Function": "getLeastMaximum(int field)",
+            "Modifier and Type": "static Calendar"
+        },
+        {
+            "Comments": "Gets a calendar with the specified time zone and locale.",
+            "Function": "getMaximum(int field)",
+            "Modifier and Type": "static Calendar"
+        },
+        {
+            "Comments": "Returns the lowest maximum value for the given calendar field of this Calendar instance.",
+            "Function": "getMinimalDaysInFirstWeek()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the maximum value for the given calendar field of this Calendar instance.",
+            "Function": "getMinimum(int field)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Gets what the minimal days required in the first week of the year are; e.g., if the first week is defined as one that contains the first day of the first month of a year, this method returns 1.",
+            "Function": "getTime()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the minimum value for the given calendar field of this Calendar instance.",
+            "Function": "getTimeInMillis()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns a Date object representing this Calendar's time value (millisecond offset from the Epoch\").",
+            "Function": "getTimeZone()",
+            "Modifier and Type": "Date"
+        },
+        {
+            "Comments": "Returns this Calendar's time value in milliseconds.",
+            "Function": "getWeeksInWeekYear()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the time zone.",
+            "Function": "getWeekYear()",
+            "Modifier and Type": "TimeZone"
+        },
+        {
+            "Comments": "Returns the number of weeks in the week year represented by this Calendar.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the week year represented by this Calendar.",
+            "Function": "internalGet(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code for this calendar.",
+            "Function": "isLenient()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the value of the given calendar field.",
+            "Function": "isSet(int field)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Tells whether date/time interpretation is to be lenient.",
+            "Function": "isWeekDateSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Determines if the given calendar field has a value set, including cases that the value has been set by internal fields calculations triggered by a get method call.",
+            "Function": "roll(int field,boolean up)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns whether this Calendar supports week dates.",
+            "Function": "roll(int field,int amount)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Adds or subtracts (up/down) a single unit of time on the given time field without changing larger fields.",
+            "Function": "set(int field, int value)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Adds the specified (signed) amount to the specified calendar field without changing larger fields.",
+            "Function": "set(int year, int month, int date)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the given calendar field to the given value.",
+            "Function": "set(int year, int month, int date, int hourOfDay, int minute)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the values for the calendar fields YEAR, MONTH, and DAY_OF_MONTH.",
+            "Function": "set(int year, int month, int date, int hourOfDay, int minute, int second)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the values for the calendar fields YEAR, MONTH, DAY_OF_MONTH, HOUR_OF_DAY, and MINUTE.",
+            "Function": "setFirstDayOfWeek(int value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the values for the fields YEAR, MONTH, DAY_OF_MONTH, HOUR_OF_DAY, MINUTE, and SECOND.",
+            "Function": "setLenient(boolean lenient)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets what the first day of the week is; e.g., SUNDAY in the U.S., MONDAY in France.",
+            "Function": "setMinimalDaysInFirstWeek(int value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies whether or not date/time interpretation is to be lenient.",
+            "Function": "setTime(Date date)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets what the minimal days required in the first week of the year are; For example, if the first week is defined as one that contains the first day of the first month of a year, call this method with value 1.",
+            "Function": "setTimeInMillis(long millis)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets this Calendar's time with the given Date.",
+            "Function": "setTimeZone(TimeZone value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets this Calendar's current time from the given long value.",
+            "Function": "setWeekDate(int weekYear, int weekOfYear, int dayOfWeek)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the time zone with the given time zone value.",
+            "Function": "toInstant()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the date of this Calendar with the given date specifiers - week year, week of year, and day of week.",
+            "Function": "toString()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

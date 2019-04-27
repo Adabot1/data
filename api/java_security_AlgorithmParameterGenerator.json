@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an AlgorithmParameterGenerator object.",
+            "Function": "generateParameters()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Generates the parameters.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "AlgorithmParameters"
+        },
+        {
+            "Comments": "Returns the standard name of the algorithm this parameter generator is associated with.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns an AlgorithmParameterGenerator object for generating a set of parameters to be used with the specified algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static AlgorithmParameterGenerator"
+        },
+        {
+            "Comments": "Returns an AlgorithmParameterGenerator object for generating a set of parameters to be used with the specified algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static AlgorithmParameterGenerator"
+        },
+        {
+            "Comments": "Returns an AlgorithmParameterGenerator object for generating a set of parameters to be used with the specified algorithm.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static AlgorithmParameterGenerator"
+        },
+        {
+            "Comments": "Returns the provider of this algorithm parameter generator object.",
+            "Function": "init(int size)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initializes this parameter generator for a certain size.",
+            "Function": "init(int size,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this parameter generator for a certain size and source of randomness.",
+            "Function": "init(AlgorithmParameterSpec genParamSpec)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this parameter generator with a set of algorithm-specific parameter generation values.",
+            "Function": "init(AlgorithmParameterSpec genParamSpec,SecureRandom random)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a channel that reads bytes from the given stream.",
+            "Function": "newChannel(InputStream in)",
+            "Modifier and Type": "static ReadableByteChannel"
+        },
+        {
+            "Comments": "Constructs a channel that writes bytes to the given stream.",
+            "Function": "newChannel(OutputStream out)",
+            "Modifier and Type": "static WritableByteChannel"
+        },
+        {
+            "Comments": "Constructs a stream that reads bytes from the given channel.",
+            "Function": "newInputStream(AsynchronousByteChannel ch)",
+            "Modifier and Type": "static InputStream"
+        },
+        {
+            "Comments": "Constructs a stream that reads bytes from the given channel.",
+            "Function": "newInputStream(ReadableByteChannel ch)",
+            "Modifier and Type": "static InputStream"
+        },
+        {
+            "Comments": "Constructs a stream that writes bytes to the given channel.",
+            "Function": "newOutputStream(AsynchronousByteChannel ch)",
+            "Modifier and Type": "static OutputStream"
+        },
+        {
+            "Comments": "Constructs a stream that writes bytes to the given channel.",
+            "Function": "newOutputStream(WritableByteChannel ch)",
+            "Modifier and Type": "static OutputStream"
+        },
+        {
+            "Comments": "Constructs a reader that decodes bytes from the given channel according to the named charset.",
+            "Function": "newReader(ReadableByteChannel ch, String csName)",
+            "Modifier and Type": "static Reader"
+        },
+        {
+            "Comments": "Constructs a reader that decodes bytes from the given channel according to the given charset.",
+            "Function": "newReader(ReadableByteChannel ch, Charset charset)",
+            "Modifier and Type": "static Reader"
+        },
+        {
+            "Comments": "Constructs a reader that decodes bytes from the given channel using the given decoder.",
+            "Function": "newReader(ReadableByteChannel ch, CharsetDecoder dec, int minBufferCap)",
+            "Modifier and Type": "static Reader"
+        },
+        {
+            "Comments": "Constructs a writer that encodes characters according to the named charset and writes the resulting bytes to the given channel.",
+            "Function": "newWriter(WritableByteChannel ch, String csName)",
+            "Modifier and Type": "static Writer"
+        },
+        {
+            "Comments": "Constructs a writer that encodes characters according to the given charset and writes the resulting bytes to the given channel.",
+            "Function": "newWriter(WritableByteChannel ch, Charset charset)",
+            "Modifier and Type": "static Writer"
+        },
+        {
+            "Comments": "Constructs a writer that encodes characters using the given encoder and writes the resulting bytes to the given channel.",
+            "Function": "newWriter(WritableByteChannel ch, CharsetEncoder enc, int minBufferCap)",
+            "Modifier and Type": "static Writer"
+        }
+    ]
+}

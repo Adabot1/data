@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a DataInputStream that uses the specified underlying InputStream.",
+            "Function": "read(byte[] b)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads some number of bytes from the contained input stream and stores them into the buffer array b.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads up to len bytes of data from the contained input stream into an array of bytes.",
+            "Function": "readBoolean()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "See the general contract of the readBoolean method of DataInput.",
+            "Function": "readByte()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "See the general contract of the readByte method of DataInput.",
+            "Function": "readChar()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "See the general contract of the readChar method of DataInput.",
+            "Function": "readDouble()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "See the general contract of the readDouble method of DataInput.",
+            "Function": "readFloat()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "See the general contract of the readFloat method of DataInput.",
+            "Function": "readFully(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "See the general contract of the readFully method of DataInput.",
+            "Function": "readFully(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "See the general contract of the readFully method of DataInput.",
+            "Function": "readInt()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "See the general contract of the readInt method of DataInput.",
+            "Function": "readLine()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated.This method does not properly convert bytes to characters.",
+            "Function": "readLong()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "See the general contract of the readLong method of DataInput.",
+            "Function": "readShort()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "See the general contract of the readShort method of DataInput.",
+            "Function": "readUnsignedByte()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "See the general contract of the readUnsignedByte method of DataInput.",
+            "Function": "readUnsignedShort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "See the general contract of the readUnsignedShort method of DataInput.",
+            "Function": "readUTF()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "See the general contract of the readUTF method of DataInput.",
+            "Function": "readUTF(DataInput in)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Reads from the stream in a representation of a Unicode  character string encoded in modified UTF-8 format; this string of characters is then returned as a String.",
+            "Function": "skipBytes(int n)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

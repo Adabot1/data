@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new ContentHandler to read an object from a URLStreamHandler.",
+            "Function": "createContentHandler(String mimetype)",
+            "Modifier and Type": "ContentHandler"
+        }
+    ]
+}

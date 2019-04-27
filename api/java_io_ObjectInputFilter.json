@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "A utility class to set and get the process-wide filter or create a filter from a pattern string.",
+            "Function": "ObjectInputFilter.Config",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "FilterInfo provides access to information about the current object being deserialized and the status of the ObjectInputStream.",
+            "Function": "ObjectInputFilter.FilterInfo",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "The status of a check on the class, array length, number of references, depth, and stream size.",
+            "Function": "ObjectInputFilter.Status",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Check the class, array length, number of object references, depth, stream size, and other available filtering information.",
+            "Function": "checkInput(ObjectInputFilter.FilterInfo filterInfo)",
+            "Modifier and Type": "ObjectInputFilter.Status"
+        }
+    ]
+}

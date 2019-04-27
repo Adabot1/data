@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Converts a path string, or a sequence of strings that when joined form a path string, to a Path.",
+            "Function": "get(String first, String... more)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Converts the given URI to a Path object.",
+            "Function": "get(URI uri)",
+            "Modifier and Type": "static Path"
+        }
+    ]
+}

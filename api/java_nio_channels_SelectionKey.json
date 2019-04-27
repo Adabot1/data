@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Operation-set bit for socket-accept operations.",
+            "Function": "OP_ACCEPT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Operation-set bit for socket-connect operations.",
+            "Function": "OP_CONNECT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Operation-set bit for read operations.",
+            "Function": "OP_READ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Operation-set bit for write operations.",
+            "Function": "OP_WRITE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constructs an instance of this class.",
+            "Function": "attach(Object ob)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Attaches the given object to this key.",
+            "Function": "attachment()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Retrieves the current attachment.",
+            "Function": "cancel()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Requests that the registration of this key's channel with its selector be cancelled.",
+            "Function": "channel()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns the channel for which this key was created.",
+            "Function": "interestOps()",
+            "Modifier and Type": "abstract SelectableChannel"
+        },
+        {
+            "Comments": "Retrieves this key's interest set.",
+            "Function": "interestOps(int ops)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Sets this key's interest set to the given value.",
+            "Function": "interestOpsAnd(int ops)",
+            "Modifier and Type": "abstract SelectionKey"
+        },
+        {
+            "Comments": "Atomically sets this key's interest set to the bitwise intersection (\"and\") of the existing interest set and the given value.",
+            "Function": "interestOpsOr(int ops)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically sets this key's interest set to the bitwise union (\"or\") of the existing interest set and the given value.",
+            "Function": "isAcceptable()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests whether this key's channel is ready to accept a new socket connection.",
+            "Function": "isConnectable()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests whether this key's channel has either finished, or failed to finish, its socket-connection operation.",
+            "Function": "isReadable()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests whether this key's channel is ready for reading.",
+            "Function": "isValid()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this key is valid.",
+            "Function": "isWritable()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tests whether this key's channel is ready for writing.",
+            "Function": "readyOps()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Retrieves this key's ready-operation set.",
+            "Function": "selector()",
+            "Modifier and Type": "abstract int"
+        }
+    ]
+}

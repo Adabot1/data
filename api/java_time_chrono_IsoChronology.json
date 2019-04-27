@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Singleton instance of the ISO chronology.",
+            "Function": "INSTANCE",
+            "Modifier and Type": "static IsoChronology"
+        },
+        {
+            "Comments": "Obtains an ISO local date from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "date(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains an ISO local date from the era, year-of-era, month-of-year and day-of-month fields.",
+            "Function": "date(Era era,int yearOfEra,int month,int dayOfMonth)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains an ISO local date from another date-time object.",
+            "Function": "date(TemporalAccessor temporal)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains an ISO local date from the epoch-day.",
+            "Function": "dateEpochDay(long epochDay)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains the current ISO local date from the system clock in the default time-zone.",
+            "Function": "dateNow()",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains the current ISO local date from the specified clock.",
+            "Function": "dateNow(Clock clock)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains the current ISO local date from the system clock in the specified time-zone.",
+            "Function": "dateNow(ZoneId zone)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains an ISO local date from the proleptic-year and day-of-year fields.",
+            "Function": "dateYearDay(int prolepticYear, int dayOfYear)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains an ISO local date from the era, year-of-era and day-of-year fields.",
+            "Function": "dateYearDay(Era era, int yearOfEra, int dayOfYear)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Gets the number of seconds from the epoch of 1970-01-01T00:00:00Z.",
+            "Function": "epochSecond(int prolepticYear, int month, int dayOfMonth, int hour, int minute, int second, ZoneOffset zoneOffset)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the calendar type of the underlying calendar system - 'iso8601'.",
+            "Function": "getCalendarType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the ID of the chronology - 'ISO'.",
+            "Function": "getId()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Checks if the year is a leap year, according to the ISO proleptic calendar system rules.",
+            "Function": "isLeapYear(long prolepticYear)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains an ISO local date-time from another date-time object.",
+            "Function": "localDateTime(TemporalAccessor temporal)",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Obtains a period for this chronology based on years, months and days.",
+            "Function": "period(int years,int months,int days)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Resolves parsed ChronoField values into a date during parsing.",
+            "Function": "resolveDate(Map<TemporalField,Long> fieldValues, ResolverStyle resolverStyle)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains an ISO zoned date-time in this chronology from an Instant.",
+            "Function": "zonedDateTime(Instant instant, ZoneId zone)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an ISO zoned date-time from another date-time object.",
+            "Function": "zonedDateTime(TemporalAccessor temporal)",
+            "Modifier and Type": "ZonedDateTime"
+        }
+    ]
+}

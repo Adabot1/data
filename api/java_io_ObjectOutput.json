@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Closes the stream.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes the stream.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes an array of bytes.",
+            "Function": "write(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a sub array of bytes.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a byte.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Write an object to the underlying storage or stream.",
+            "Function": "writeObject(Object obj)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

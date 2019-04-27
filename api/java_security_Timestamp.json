@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a Timestamp.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests for equality between the specified object and this timestamp.",
+            "Function": "getSignerCertPath()",
+            "Modifier and Type": "CertPath"
+        },
+        {
+            "Comments": "Returns the certificate path for the Timestamping Authority.",
+            "Function": "getTimestamp()",
+            "Modifier and Type": "Date"
+        },
+        {
+            "Comments": "Returns the date and time when the timestamp was generated.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the hash code value for this timestamp.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

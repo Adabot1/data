@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Adjusts the specified temporal object.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        }
+    ]
+}

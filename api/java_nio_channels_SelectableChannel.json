@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "blockingLock()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Retrieves the object upon which the configureBlocking and register methods synchronize.",
+            "Function": "configureBlocking(boolean block)",
+            "Modifier and Type": "abstract Object"
+        },
+        {
+            "Comments": "Adjusts this channel's blocking mode.",
+            "Function": "isBlocking()",
+            "Modifier and Type": "abstract SelectableChannel"
+        },
+        {
+            "Comments": "Tells whether or not every I/O operation on this channel will block until it completes.",
+            "Function": "isRegistered()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not this channel is currently registered with any selectors.",
+            "Function": "keyFor(Selector sel)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Retrieves the key representing the channel's registration with the given selector.",
+            "Function": "provider()",
+            "Modifier and Type": "abstract SelectionKey"
+        },
+        {
+            "Comments": "Returns the provider that created this channel.",
+            "Function": "register(Selector sel,int ops)",
+            "Modifier and Type": "abstract SelectorProvider"
+        },
+        {
+            "Comments": "Registers this channel with the given selector, returning a selection key.",
+            "Function": "register(Selector sel,int ops,Object att)",
+            "Modifier and Type": "SelectionKey"
+        },
+        {
+            "Comments": "Registers this channel with the given selector, returning a selection key.",
+            "Function": "validOps()",
+            "Modifier and Type": "abstract SelectionKey"
+        }
+    ]
+}

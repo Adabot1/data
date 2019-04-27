@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Formats the object using the provided formatter.",
+            "Function": "formatTo(Formatter formatter,int flags,int width,int precision)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "decode(InputStream stream)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Decodes a certificate from an input stream.",
+            "Function": "encode(OutputStream stream)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getFormat()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Encodes the certificate to an output stream in a format that can be decoded by the decode method.",
+            "Function": "getGuarantor()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "getPrincipal()",
+            "Modifier and Type": "Principal"
+        },
+        {
+            "Comments": "Returns the name of the coding format.",
+            "Function": "getPublicKey()",
+            "Modifier and Type": "PublicKey"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "toString(boolean detailed)",
+            "Modifier and Type": "String"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The class fingerprint that is set to indicate serialization compatibility since J2SE 1.4.",
+            "Function": "serialVersionUID",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the public value, y.",
+            "Function": "getY()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

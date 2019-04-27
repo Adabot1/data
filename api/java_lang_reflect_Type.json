@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a string describing this type, including information about any type parameters.",
+            "Function": "getTypeName()",
+            "Modifier and Type": "default String"
+        }
+    ]
+}

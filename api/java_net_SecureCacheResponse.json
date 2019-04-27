@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the cipher suite in use on the original connection that retrieved the network resource.",
+            "Function": "getCipherSuite()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Returns the certificate chain that were sent to the server during handshaking of the original connection that retrieved the network resource.",
+            "Function": "getLocalCertificateChain()",
+            "Modifier and Type": "abstract List<Certificate>"
+        },
+        {
+            "Comments": "Returns the principal that was sent to the server during handshaking in the original connection that retrieved the network resource.",
+            "Function": "getLocalPrincipal()",
+            "Modifier and Type": "abstract Principal"
+        },
+        {
+            "Comments": "Returns the server's principal which was established as part of defining the session during the original connection that retrieved the network resource.",
+            "Function": "getPeerPrincipal()",
+            "Modifier and Type": "abstract Principal"
+        },
+        {
+            "Comments": "Returns the server's certificate chain, which was established as part of defining the session in the original connection that retrieved the network resource, from cache.",
+            "Function": "getServerCertificateChain()",
+            "Modifier and Type": "abstract List<Certificate>"
+        }
+    ]
+}

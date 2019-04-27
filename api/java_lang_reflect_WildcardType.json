@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an array of Type objects representing the lower bound(s) of this type variable.",
+            "Function": "getLowerBounds()",
+            "Modifier and Type": "Type[]"
+        },
+        {
+            "Comments": "Returns an array of Type objects representing the  upper bound(s) of this type variable.",
+            "Function": "getUpperBounds()",
+            "Modifier and Type": "Type[]"
+        }
+    ]
+}

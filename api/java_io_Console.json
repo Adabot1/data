@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Flushes the console and forces any buffered output to be written immediately .",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a formatted string to this console's output stream using the specified format string and arguments.",
+            "Function": "format(String fmt,Object... args)",
+            "Modifier and Type": "Console"
+        },
+        {
+            "Comments": "A convenience method to write a formatted string to this console's output stream using the specified format string and arguments.",
+            "Function": "printf(String format,Object... args)",
+            "Modifier and Type": "Console"
+        },
+        {
+            "Comments": "Retrieves the unique Reader object associated with this console.",
+            "Function": "reader()",
+            "Modifier and Type": "Reader"
+        },
+        {
+            "Comments": "Reads a single line of text from the console.",
+            "Function": "readLine()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Provides a formatted prompt, then reads a single line of text from the console.",
+            "Function": "readLine(String fmt,Object... args)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads a password or passphrase from the console with echoing disabled",
+            "Function": "readPassword()",
+            "Modifier and Type": "char[]"
+        },
+        {
+            "Comments": "Provides a formatted prompt, then reads a password or passphrase from the console with echoing disabled.",
+            "Function": "readPassword(String fmt,Object... args)",
+            "Modifier and Type": "char[]"
+        },
+        {
+            "Comments": "Retrieves the unique PrintWriter object associated with this console.",
+            "Function": "writer()",
+            "Modifier and Type": "PrintWriter"
+        }
+    ]
+}

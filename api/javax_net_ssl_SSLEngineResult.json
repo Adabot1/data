@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "An SSLEngineResult enum describing the current handshaking state of this SSLEngine.",
+            "Function": "SSLEngineResult.HandshakeStatus",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "An SSLEngineResult enum describing the overall result of the SSLEngine operation.",
+            "Function": "SSLEngineResult.Status",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "bytesConsumed()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "bytesProduced()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of bytes consumed from the input buffer.",
+            "Function": "getHandshakeStatus()",
+            "Modifier and Type": "SSLEngineResult.HandshakeStatus"
+        },
+        {
+            "Comments": "Returns the number of bytes written to the output buffer.",
+            "Function": "getStatus()",
+            "Modifier and Type": "SSLEngineResult.Status"
+        },
+        {
+            "Comments": "Gets the handshake status of this SSLEngine operation.",
+            "Function": "sequenceNumber()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the return value of this SSLEngine operation.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

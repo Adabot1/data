@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Default constructor.",
+            "Function": "check(Certificate cert)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Performs the check(s) on the specified certificate using its internal state.",
+            "Function": "check(Certificate cert, Collection<String> unresolvedCritExts)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Performs the check(s) on the specified certificate using its internal state and removes any critical extensions that it processes from the specified collection of OID strings that represent the unresolved critical extensions.",
+            "Function": "clone()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns a clone of this object.",
+            "Function": "getSupportedExtensions()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns an immutable Set of X.509 certificate extensions that this PKIXCertPathChecker supports (i.e. recognizes, is able to process), or null if no extensions are supported.",
+            "Function": "init(boolean forward)",
+            "Modifier and Type": "abstract Set<String>"
+        },
+        {
+            "Comments": "Initializes the internal state of this PKIXCertPathChecker.",
+            "Function": "isForwardCheckingSupported()",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

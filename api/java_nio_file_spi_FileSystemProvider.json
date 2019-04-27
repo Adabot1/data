@@ -1,0 +1,144 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "checkAccess(Path path, AccessMode... modes)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Checks the existence, and optionally the accessibility, of a file.",
+            "Function": "copy(Path source,Path target,CopyOption... options)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Copy a file to a target file.",
+            "Function": "createDirectory(Path dir, FileAttribute<?>... attrs)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Creates a new directory.",
+            "Function": "createLink(Path link,Path existing)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Creates a new link (directory entry) for an existing file.",
+            "Function": "createSymbolicLink(Path link,Path target,FileAttribute<?>... attrs)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a symbolic link to a target.",
+            "Function": "delete(Path path)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deletes a file.",
+            "Function": "deleteIfExists(Path path)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Deletes a file if it exists.",
+            "Function": "getFileAttributeView(Path path,Class<V> type,LinkOption... options)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a file attribute view of a given type.",
+            "Function": "getFileStore(Path path)",
+            "Modifier and Type": "abstract <V extends FileAttributeView>V"
+        },
+        {
+            "Comments": "Returns the FileStore representing the file store where a file is located.",
+            "Function": "getFileSystem(URI uri)",
+            "Modifier and Type": "abstract FileStore"
+        },
+        {
+            "Comments": "Returns an existing FileSystem created by this provider.",
+            "Function": "getPath(URI uri)",
+            "Modifier and Type": "abstract FileSystem"
+        },
+        {
+            "Comments": "Return a Path object by converting the given URI.",
+            "Function": "getScheme()",
+            "Modifier and Type": "abstract Path"
+        },
+        {
+            "Comments": "Returns the URI scheme that identifies this provider.",
+            "Function": "installedProviders()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Returns a list of the installed file system providers.",
+            "Function": "isHidden(Path path)",
+            "Modifier and Type": "static List<FileSystemProvider>"
+        },
+        {
+            "Comments": "Tells whether or not a file is considered hidden.",
+            "Function": "isSameFile(Path path,Path path2)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tests if two paths locate the same file.",
+            "Function": "move(Path source,Path target,CopyOption... options)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Move or rename a file to a target file.",
+            "Function": "newAsynchronousFileChannel(Path path,Set<? extends OpenOption> options,ExecutorService executor,FileAttribute<?>... attrs)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Opens or creates a file for reading and/or writing, returning an asynchronous file channel to access the file.",
+            "Function": "newByteChannel(Path path,Set<? extends OpenOption> options,FileAttribute<?>... attrs)",
+            "Modifier and Type": "AsynchronousFileChannel"
+        },
+        {
+            "Comments": "Opens or creates a file, returning a seekable byte channel to access the file.",
+            "Function": "newDirectoryStream(Path dir,DirectoryStream.Filter<? super Path> filter)",
+            "Modifier and Type": "abstract SeekableByteChannel"
+        },
+        {
+            "Comments": "Opens a directory, returning a DirectoryStream to iterate over the entries in the directory.",
+            "Function": "newFileChannel(Path path,Set<? extends OpenOption> options,FileAttribute<?>... attrs)",
+            "Modifier and Type": "abstract DirectoryStream<Path>"
+        },
+        {
+            "Comments": "Opens or creates a file for reading and/or writing, returning a file channel to access the file.",
+            "Function": "newFileSystem(URI uri, Map<String,?> env)",
+            "Modifier and Type": "FileChannel"
+        },
+        {
+            "Comments": "Constructs a new FileSystem object identified by a URI.",
+            "Function": "newFileSystem(Path path, Map<String,?> env)",
+            "Modifier and Type": "abstract FileSystem"
+        },
+        {
+            "Comments": "Constructs a new FileSystem to access the contents of a file as a file system.",
+            "Function": "newInputStream(Path path,OpenOption... options)",
+            "Modifier and Type": "FileSystem"
+        },
+        {
+            "Comments": "Opens a file, returning an input stream to read from the file.",
+            "Function": "newOutputStream(Path path, OpenOption... options)",
+            "Modifier and Type": "InputStream"
+        },
+        {
+            "Comments": "Opens or creates a file, returning an output stream that may be used to write bytes to the file.",
+            "Function": "readAttributes(Path path,Class<A> type,LinkOption... options)",
+            "Modifier and Type": "OutputStream"
+        },
+        {
+            "Comments": "Reads a file's attributes as a bulk operation.",
+            "Function": "readAttributes(Path path,String attributes,LinkOption... options)",
+            "Modifier and Type": "abstract <A extends BasicFileAttributes>A"
+        },
+        {
+            "Comments": "Reads a set of file attributes as a bulk operation.",
+            "Function": "readSymbolicLink(Path link)",
+            "Modifier and Type": "abstract Map<String,​Object>"
+        },
+        {
+            "Comments": "Reads the target of a symbolic link.",
+            "Function": "setAttribute(Path path,String attribute,Object value,LinkOption... options)",
+            "Modifier and Type": "Path"
+        }
+    ]
+}

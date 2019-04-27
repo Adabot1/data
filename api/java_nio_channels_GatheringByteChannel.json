@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffers.",
+            "Function": "write(ByteBuffer[] srcs)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from a subsequence of the given buffers.",
+            "Function": "write(ByteBuffer[] srcs, int offset, int length)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

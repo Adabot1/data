@@ -1,0 +1,1424 @@
+{
+    "API": [
+        {
+            "Comments": "Constant for the \"Adlam\" Unicode character block.",
+            "Function": "ADLAM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Aegean Numbers\" Unicode character block.",
+            "Function": "AEGEAN_NUMBERS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ahom\" Unicode character block.",
+            "Function": "AHOM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Alchemical Symbols\" Unicode character block.",
+            "Function": "ALCHEMICAL_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Alphabetic Presentation Forms\" Unicode character block.",
+            "Function": "ALPHABETIC_PRESENTATION_FORMS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Anatolian Hieroglyphs\" Unicode character block.",
+            "Function": "ANATOLIAN_HIEROGLYPHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ancient Greek Musical Notation\" Unicode character block.",
+            "Function": "ANCIENT_GREEK_MUSICAL_NOTATION",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ancient Greek Numbers\" Unicode character block.",
+            "Function": "ANCIENT_GREEK_NUMBERS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ancient Symbols\" Unicode character block.",
+            "Function": "ANCIENT_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Arabic\" Unicode character block.",
+            "Function": "ARABIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Arabic Extended-A\" Unicode character block.",
+            "Function": "ARABIC_EXTENDED_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Arabic Mathematical Alphabetic Symbols\" Unicode character block.",
+            "Function": "ARABIC_MATHEMATICAL_ALPHABETIC_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Arabic Presentation Forms-A\" Unicode character block.",
+            "Function": "ARABIC_PRESENTATION_FORMS_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Arabic Presentation Forms-B\" Unicode character block.",
+            "Function": "ARABIC_PRESENTATION_FORMS_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Arabic Supplement\" Unicode character block.",
+            "Function": "ARABIC_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Armenian\" Unicode character block.",
+            "Function": "ARMENIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Arrows\" Unicode character block.",
+            "Function": "ARROWS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Avestan\" Unicode character block.",
+            "Function": "AVESTAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Balinese\" Unicode character block.",
+            "Function": "BALINESE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Bamum\" Unicode character block.",
+            "Function": "BAMUM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Bamum Supplement\" Unicode character block.",
+            "Function": "BAMUM_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Basic Latin\" Unicode character block.",
+            "Function": "BASIC_LATIN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Bassa Vah\" Unicode character block.",
+            "Function": "BASSA_VAH",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Batak\" Unicode character block.",
+            "Function": "BATAK",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Bengali\" Unicode character block.",
+            "Function": "BENGALI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Bhaiksuki\" Unicode character block.",
+            "Function": "BHAIKSUKI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Block Elements\" Unicode character block.",
+            "Function": "BLOCK_ELEMENTS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Bopomofo\" Unicode character block.",
+            "Function": "BOPOMOFO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Bopomofo Extended\" Unicode character block.",
+            "Function": "BOPOMOFO_EXTENDED",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Box Drawing\" Unicode character block.",
+            "Function": "BOX_DRAWING",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Brahmi\" Unicode character block.",
+            "Function": "BRAHMI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Braille Patterns\" Unicode character block.",
+            "Function": "BRAILLE_PATTERNS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Buginese\" Unicode character block.",
+            "Function": "BUGINESE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Buhid\" Unicode character block.",
+            "Function": "BUHID",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Byzantine Musical Symbols\" Unicode character block.",
+            "Function": "BYZANTINE_MUSICAL_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Carian\" Unicode character block.",
+            "Function": "CARIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Caucasian Albanian\" Unicode character block.",
+            "Function": "CAUCASIAN_ALBANIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Chakma\" Unicode character block.",
+            "Function": "CHAKMA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cham\" Unicode character block.",
+            "Function": "CHAM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cherokee\" Unicode character block.",
+            "Function": "CHEROKEE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cherokee Supplement\" Unicode character block.",
+            "Function": "CHEROKEE_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Compatibility\" Unicode character block.",
+            "Function": "CJK_COMPATIBILITY",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Compatibility Forms\" Unicode character block.",
+            "Function": "CJK_COMPATIBILITY_FORMS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Compatibility Ideographs\" Unicode character block.",
+            "Function": "CJK_COMPATIBILITY_IDEOGRAPHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Compatibility Ideographs Supplement\" Unicode character block.",
+            "Function": "CJK_COMPATIBILITY_IDEOGRAPHS_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Radicals Supplement\" Unicode character block.",
+            "Function": "CJK_RADICALS_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Strokes\" Unicode character block.",
+            "Function": "CJK_STROKES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Symbols and Punctuation\" Unicode character block.",
+            "Function": "CJK_SYMBOLS_AND_PUNCTUATION",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Unified Ideographs\" Unicode character block.",
+            "Function": "CJK_UNIFIED_IDEOGRAPHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Unified Ideographs Extension A\" Unicode character block.",
+            "Function": "CJK_UNIFIED_IDEOGRAPHS_EXTENSION_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Unified Ideographs Extension B\" Unicode character block.",
+            "Function": "CJK_UNIFIED_IDEOGRAPHS_EXTENSION_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Unified Ideographs Extension C\" Unicode character block.",
+            "Function": "CJK_UNIFIED_IDEOGRAPHS_EXTENSION_C",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Unified Ideographs Extension D\" Unicode character block.",
+            "Function": "CJK_UNIFIED_IDEOGRAPHS_EXTENSION_D",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Unified Ideographs Extension E\" Unicode character block.",
+            "Function": "CJK_UNIFIED_IDEOGRAPHS_EXTENSION_E",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"CJK Unified Ideographs Extension F\" Unicode character block.",
+            "Function": "CJK_UNIFIED_IDEOGRAPHS_EXTENSION_F",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Combining Diacritical Marks\" Unicode character block.",
+            "Function": "COMBINING_DIACRITICAL_MARKS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Combining Diacritical Marks Extended\" Unicode character block.",
+            "Function": "COMBINING_DIACRITICAL_MARKS_EXTENDED",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Combining Diacritical Marks Supplement\" Unicode character block.",
+            "Function": "COMBINING_DIACRITICAL_MARKS_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Combining Half Marks\" Unicode character block.",
+            "Function": "COMBINING_HALF_MARKS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Combining Diacritical Marks for Symbols\" Unicode character block.",
+            "Function": "COMBINING_MARKS_FOR_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Common Indic Number Forms\" Unicode character block.",
+            "Function": "COMMON_INDIC_NUMBER_FORMS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Control Pictures\" Unicode character block.",
+            "Function": "CONTROL_PICTURES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Coptic\" Unicode character block.",
+            "Function": "COPTIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Coptic Epact Numbers\" Unicode character block.",
+            "Function": "COPTIC_EPACT_NUMBERS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Counting Rod Numerals\" Unicode character block.",
+            "Function": "COUNTING_ROD_NUMERALS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cuneiform\" Unicode character block.",
+            "Function": "CUNEIFORM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cuneiform Numbers and Punctuation\" Unicode character block.",
+            "Function": "CUNEIFORM_NUMBERS_AND_PUNCTUATION",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Currency Symbols\" Unicode character block.",
+            "Function": "CURRENCY_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cypriot Syllabary\" Unicode character block.",
+            "Function": "CYPRIOT_SYLLABARY",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cyrillic\" Unicode character block.",
+            "Function": "CYRILLIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cyrillic Extended-A\" Unicode character block.",
+            "Function": "CYRILLIC_EXTENDED_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cyrillic Extended-B\" Unicode character block.",
+            "Function": "CYRILLIC_EXTENDED_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cyrillic Extended-C\" Unicode character block.",
+            "Function": "CYRILLIC_EXTENDED_C",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Cyrillic Supplement\" Unicode character block.",
+            "Function": "CYRILLIC_SUPPLEMENTARY",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Deseret\" Unicode character block.",
+            "Function": "DESERET",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Devanagari\" Unicode character block.",
+            "Function": "DEVANAGARI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Devanagari Extended\" Unicode character block.",
+            "Function": "DEVANAGARI_EXTENDED",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Dingbats\" Unicode character block.",
+            "Function": "DINGBATS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Domino Tiles\" Unicode character block.",
+            "Function": "DOMINO_TILES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Duployan\" Unicode character block.",
+            "Function": "DUPLOYAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Early Dynastic Cuneiform\" Unicode character block.",
+            "Function": "EARLY_DYNASTIC_CUNEIFORM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Egyptian Hieroglyphs\" Unicode character block.",
+            "Function": "EGYPTIAN_HIEROGLYPHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Elbasan\" Unicode character block.",
+            "Function": "ELBASAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Emoticons\" Unicode character block.",
+            "Function": "EMOTICONS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Enclosed Alphanumeric Supplement\" Unicode character block.",
+            "Function": "ENCLOSED_ALPHANUMERIC_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Enclosed Alphanumerics\" Unicode character block.",
+            "Function": "ENCLOSED_ALPHANUMERICS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Enclosed CJK Letters and Months\" Unicode character block.",
+            "Function": "ENCLOSED_CJK_LETTERS_AND_MONTHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Enclosed Ideographic Supplement\" Unicode character block.",
+            "Function": "ENCLOSED_IDEOGRAPHIC_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ethiopic\" Unicode character block.",
+            "Function": "ETHIOPIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ethiopic Extended\" Unicode character block.",
+            "Function": "ETHIOPIC_EXTENDED",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ethiopic Extended-A\" Unicode character block.",
+            "Function": "ETHIOPIC_EXTENDED_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ethiopic Supplement\" Unicode character block.",
+            "Function": "ETHIOPIC_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"General Punctuation\" Unicode character block.",
+            "Function": "GENERAL_PUNCTUATION",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Geometric Shapes\" Unicode character block.",
+            "Function": "GEOMETRIC_SHAPES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Geometric Shapes Extended\" Unicode character block.",
+            "Function": "GEOMETRIC_SHAPES_EXTENDED",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Georgian\" Unicode character block.",
+            "Function": "GEORGIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Georgian Supplement\" Unicode character block.",
+            "Function": "GEORGIAN_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Glagolitic\" Unicode character block.",
+            "Function": "GLAGOLITIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Glagolitic Supplement\" Unicode character block.",
+            "Function": "GLAGOLITIC_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Gothic\" Unicode character block.",
+            "Function": "GOTHIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Grantha\" Unicode character block.",
+            "Function": "GRANTHA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Greek and Coptic\" Unicode character block.",
+            "Function": "GREEK",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Greek Extended\" Unicode character block.",
+            "Function": "GREEK_EXTENDED",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Gujarati\" Unicode character block.",
+            "Function": "GUJARATI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Gurmukhi\" Unicode character block.",
+            "Function": "GURMUKHI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Halfwidth and Fullwidth Forms\" Unicode character block.",
+            "Function": "HALFWIDTH_AND_FULLWIDTH_FORMS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hangul Compatibility Jamo\" Unicode character block.",
+            "Function": "HANGUL_COMPATIBILITY_JAMO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hangul Jamo\" Unicode character block.",
+            "Function": "HANGUL_JAMO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hangul Jamo Extended-A\" Unicode character block.",
+            "Function": "HANGUL_JAMO_EXTENDED_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hangul Jamo Extended-B\" Unicode character block.",
+            "Function": "HANGUL_JAMO_EXTENDED_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hangul Syllables\" Unicode character block.",
+            "Function": "HANGUL_SYLLABLES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hanunoo\" Unicode character block.",
+            "Function": "HANUNOO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hatran\" Unicode character block.",
+            "Function": "HATRAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hebrew\" Unicode character block.",
+            "Function": "HEBREW",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"High Private Use Surrogates\" Unicode character block.",
+            "Function": "HIGH_PRIVATE_USE_SURROGATES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"High Surrogates\" Unicode character block.",
+            "Function": "HIGH_SURROGATES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Hiragana\" Unicode character block.",
+            "Function": "HIRAGANA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ideographic Description Characters\" Unicode character block.",
+            "Function": "IDEOGRAPHIC_DESCRIPTION_CHARACTERS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ideographic Symbols and Punctuation\" Unicode character block.",
+            "Function": "IDEOGRAPHIC_SYMBOLS_AND_PUNCTUATION",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Imperial Aramaic\" Unicode character block.",
+            "Function": "IMPERIAL_ARAMAIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Inscriptional Pahlavi\" Unicode character block.",
+            "Function": "INSCRIPTIONAL_PAHLAVI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Inscriptional Parthian\" Unicode character block.",
+            "Function": "INSCRIPTIONAL_PARTHIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"IPA Extensions\" Unicode character block.",
+            "Function": "IPA_EXTENSIONS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Javanese\" Unicode character block.",
+            "Function": "JAVANESE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kaithi\" Unicode character block.",
+            "Function": "KAITHI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kana Extended-A\" Unicode character block.",
+            "Function": "KANA_EXTENDED_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kana Supplement\" Unicode character block.",
+            "Function": "KANA_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kanbun\" Unicode character block.",
+            "Function": "KANBUN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kangxi Radicals\" Unicode character block.",
+            "Function": "KANGXI_RADICALS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kannada\" Unicode character block.",
+            "Function": "KANNADA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Katakana\" Unicode character block.",
+            "Function": "KATAKANA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Katakana Phonetic Extensions\" Unicode character block.",
+            "Function": "KATAKANA_PHONETIC_EXTENSIONS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kayah Li\" Unicode character block.",
+            "Function": "KAYAH_LI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Kharoshthi\" Unicode character block.",
+            "Function": "KHAROSHTHI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Khmer\" Unicode character block.",
+            "Function": "KHMER",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Khmer Symbols\" Unicode character block.",
+            "Function": "KHMER_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Khojki\" Unicode character block.",
+            "Function": "KHOJKI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Khudawadi\" Unicode character block.",
+            "Function": "KHUDAWADI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Lao\" Unicode character block.",
+            "Function": "LAO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Latin-1 Supplement\" Unicode character block.",
+            "Function": "LATIN_1_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Latin Extended-A\" Unicode character block.",
+            "Function": "LATIN_EXTENDED_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Latin Extended Additional\" Unicode character block.",
+            "Function": "LATIN_EXTENDED_ADDITIONAL",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Latin Extended-B\" Unicode character block.",
+            "Function": "LATIN_EXTENDED_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Latin Extended-C\" Unicode character block.",
+            "Function": "LATIN_EXTENDED_C",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Latin Extended-D\" Unicode character block.",
+            "Function": "LATIN_EXTENDED_D",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Latin Extended-E\" Unicode character block.",
+            "Function": "LATIN_EXTENDED_E",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Lepcha\" Unicode character block.",
+            "Function": "LEPCHA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Letterlike Symbols\" Unicode character block.",
+            "Function": "LETTERLIKE_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Limbu\" Unicode character block.",
+            "Function": "LIMBU",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Linear A\" Unicode character block.",
+            "Function": "LINEAR_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Linear B Ideograms\" Unicode character block.",
+            "Function": "LINEAR_B_IDEOGRAMS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Linear B Syllabary\" Unicode character block.",
+            "Function": "LINEAR_B_SYLLABARY",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Lisu\" Unicode character block.",
+            "Function": "LISU",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Low Surrogates\" Unicode character block.",
+            "Function": "LOW_SURROGATES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Lycian\" Unicode character block.",
+            "Function": "LYCIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Lydian\" Unicode character block.",
+            "Function": "LYDIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mahajani\" Unicode character block.",
+            "Function": "MAHAJANI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mahjong Tiles\" Unicode character block.",
+            "Function": "MAHJONG_TILES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Malayalam\" Unicode character block.",
+            "Function": "MALAYALAM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mandaic\" Unicode character block.",
+            "Function": "MANDAIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Manichaean\" Unicode character block.",
+            "Function": "MANICHAEAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Marchen\" Unicode character block.",
+            "Function": "MARCHEN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Masaram Gondi\" Unicode character block.",
+            "Function": "MASARAM_GONDI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mathematical Alphanumeric Symbols\" Unicode character block.",
+            "Function": "MATHEMATICAL_ALPHANUMERIC_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mathematical Operators\" Unicode character block.",
+            "Function": "MATHEMATICAL_OPERATORS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Meetei Mayek\" Unicode character block.",
+            "Function": "MEETEI_MAYEK",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Meetei Mayek Extensions\" Unicode character block.",
+            "Function": "MEETEI_MAYEK_EXTENSIONS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mende Kikakui\" Unicode character block.",
+            "Function": "MENDE_KIKAKUI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Meroitic Cursive\" Unicode character block.",
+            "Function": "MEROITIC_CURSIVE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Meroitic Hieroglyphs\" Unicode character block.",
+            "Function": "MEROITIC_HIEROGLYPHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Miao\" Unicode character block.",
+            "Function": "MIAO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Miscellaneous Mathematical Symbols-A\" Unicode character block.",
+            "Function": "MISCELLANEOUS_MATHEMATICAL_SYMBOLS_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Miscellaneous Mathematical Symbols-B\" Unicode character block.",
+            "Function": "MISCELLANEOUS_MATHEMATICAL_SYMBOLS_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Miscellaneous Symbols\" Unicode character block.",
+            "Function": "MISCELLANEOUS_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Miscellaneous Symbols and Arrows\" Unicode character block.",
+            "Function": "MISCELLANEOUS_SYMBOLS_AND_ARROWS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Miscellaneous Symbols And Pictographs\" Unicode character block.",
+            "Function": "MISCELLANEOUS_SYMBOLS_AND_PICTOGRAPHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Miscellaneous Technical\" Unicode character block.",
+            "Function": "MISCELLANEOUS_TECHNICAL",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Modi\" Unicode character block.",
+            "Function": "MODI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Modifier Tone Letters\" Unicode character block.",
+            "Function": "MODIFIER_TONE_LETTERS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mongolian\" Unicode character block.",
+            "Function": "MONGOLIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mongolian Supplement\" Unicode character block.",
+            "Function": "MONGOLIAN_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Mro\" Unicode character block.",
+            "Function": "MRO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Multani\" Unicode character block.",
+            "Function": "MULTANI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Musical Symbols\" Unicode character block.",
+            "Function": "MUSICAL_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Myanmar\" Unicode character block.",
+            "Function": "MYANMAR",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Myanmar Extended-A\" Unicode character block.",
+            "Function": "MYANMAR_EXTENDED_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Myanmar Extended-B\" Unicode character block.",
+            "Function": "MYANMAR_EXTENDED_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Nabataean\" Unicode character block.",
+            "Function": "NABATAEAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"New Tai Lue\" Unicode character block.",
+            "Function": "NEW_TAI_LUE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Newa\" Unicode character block.",
+            "Function": "NEWA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"NKo\" Unicode character block.",
+            "Function": "NKO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Number Forms\" Unicode character block.",
+            "Function": "NUMBER_FORMS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Nushu\" Unicode character block.",
+            "Function": "NUSHU",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ogham\" Unicode character block.",
+            "Function": "OGHAM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ol Chiki\" Unicode character block.",
+            "Function": "OL_CHIKI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Old Hungarian\" Unicode character block.",
+            "Function": "OLD_HUNGARIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Old Italic\" Unicode character block.",
+            "Function": "OLD_ITALIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Old North Arabian\" Unicode character block.",
+            "Function": "OLD_NORTH_ARABIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Old Permic\" Unicode character block.",
+            "Function": "OLD_PERMIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Old Persian\" Unicode character block.",
+            "Function": "OLD_PERSIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Old South Arabian\" Unicode character block.",
+            "Function": "OLD_SOUTH_ARABIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Old Turkic\" Unicode character block.",
+            "Function": "OLD_TURKIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Optical Character Recognition\" Unicode character block.",
+            "Function": "OPTICAL_CHARACTER_RECOGNITION",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Oriya\" Unicode character block.",
+            "Function": "ORIYA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ornamental Dingbats\" Unicode character block.",
+            "Function": "ORNAMENTAL_DINGBATS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Osage\" Unicode character block.",
+            "Function": "OSAGE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Osmanya\" Unicode character block.",
+            "Function": "OSMANYA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Pahawh Hmong\" Unicode character block.",
+            "Function": "PAHAWH_HMONG",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Palmyrene\" Unicode character block.",
+            "Function": "PALMYRENE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Pau Cin Hau\" Unicode character block.",
+            "Function": "PAU_CIN_HAU",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Phags-pa\" Unicode character block.",
+            "Function": "PHAGS_PA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Phaistos Disc\" Unicode character block.",
+            "Function": "PHAISTOS_DISC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Phoenician\" Unicode character block.",
+            "Function": "PHOENICIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Phonetic Extensions\" Unicode character block.",
+            "Function": "PHONETIC_EXTENSIONS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Phonetic Extensions Supplement\" Unicode character block.",
+            "Function": "PHONETIC_EXTENSIONS_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Playing Cards\" Unicode character block.",
+            "Function": "PLAYING_CARDS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Private Use Area\" Unicode character block.",
+            "Function": "PRIVATE_USE_AREA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Psalter Pahlavi\" Unicode character block.",
+            "Function": "PSALTER_PAHLAVI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Rejang\" Unicode character block.",
+            "Function": "REJANG",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Rumi Numeral Symbols\" Unicode character block.",
+            "Function": "RUMI_NUMERAL_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Runic\" Unicode character block.",
+            "Function": "RUNIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Samaritan\" Unicode character block.",
+            "Function": "SAMARITAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Saurashtra\" Unicode character block.",
+            "Function": "SAURASHTRA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Sharada\" Unicode character block.",
+            "Function": "SHARADA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Shavian\" Unicode character block.",
+            "Function": "SHAVIAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Shorthand Format Controls\" Unicode character block.",
+            "Function": "SHORTHAND_FORMAT_CONTROLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Siddham\" Unicode character block.",
+            "Function": "SIDDHAM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Sinhala\" Unicode character block.",
+            "Function": "SINHALA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Sinhala Archaic Numbers\" Unicode character block.",
+            "Function": "SINHALA_ARCHAIC_NUMBERS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Small Form Variants\" Unicode character block.",
+            "Function": "SMALL_FORM_VARIANTS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Sora Sompeng\" Unicode character block.",
+            "Function": "SORA_SOMPENG",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Soyombo\" Unicode character block.",
+            "Function": "SOYOMBO",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Spacing Modifier Letters\" Unicode character block.",
+            "Function": "SPACING_MODIFIER_LETTERS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Specials\" Unicode character block.",
+            "Function": "SPECIALS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Sundanese\" Unicode character block.",
+            "Function": "SUNDANESE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Sundanese Supplement\" Unicode character block.",
+            "Function": "SUNDANESE_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Superscripts and Subscripts\" Unicode character block.",
+            "Function": "SUPERSCRIPTS_AND_SUBSCRIPTS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplemental Arrows-A\" Unicode character block.",
+            "Function": "SUPPLEMENTAL_ARROWS_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplemental Arrows-B\" Unicode character block.",
+            "Function": "SUPPLEMENTAL_ARROWS_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplemental Arrows-C\" Unicode character block.",
+            "Function": "SUPPLEMENTAL_ARROWS_C",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplemental Mathematical Operators\" Unicode character block.",
+            "Function": "SUPPLEMENTAL_MATHEMATICAL_OPERATORS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplemental Punctuation\" Unicode character block.",
+            "Function": "SUPPLEMENTAL_PUNCTUATION",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplemental Symbols and Pictographs\" Unicode character block.",
+            "Function": "SUPPLEMENTAL_SYMBOLS_AND_PICTOGRAPHS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplementary Private Use Area-A\" Unicode character block.",
+            "Function": "SUPPLEMENTARY_PRIVATE_USE_AREA_A",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Supplementary Private Use Area-B\" Unicode character block.",
+            "Function": "SUPPLEMENTARY_PRIVATE_USE_AREA_B",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Deprecated.Instead of SURROGATES_AREA, use HIGH_SURROGATES, HIGH_PRIVATE_USE_SURROGATES, and LOW_SURROGATES.",
+            "Function": "SURROGATES_AREA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Sutton SignWriting\" Unicode character block.",
+            "Function": "SUTTON_SIGNWRITING",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Syloti Nagri\" Unicode character block.",
+            "Function": "SYLOTI_NAGRI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Syriac\" Unicode character block.",
+            "Function": "SYRIAC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Syriac Supplement\" Unicode character block.",
+            "Function": "SYRIAC_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tagalog\" Unicode character block.",
+            "Function": "TAGALOG",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tagbanwa\" Unicode character block.",
+            "Function": "TAGBANWA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tags\" Unicode character block.",
+            "Function": "TAGS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tai Le\" Unicode character block.",
+            "Function": "TAI_LE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tai Tham\" Unicode character block.",
+            "Function": "TAI_THAM",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tai Viet\" Unicode character block.",
+            "Function": "TAI_VIET",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tai Xuan Jing Symbols\" Unicode character block.",
+            "Function": "TAI_XUAN_JING_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Takri\" Unicode character block.",
+            "Function": "TAKRI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tamil\" Unicode character block.",
+            "Function": "TAMIL",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tangut\" Unicode character block.",
+            "Function": "TANGUT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tangut Components\" Unicode character block.",
+            "Function": "TANGUT_COMPONENTS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Telugu\" Unicode character block.",
+            "Function": "TELUGU",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Thaana\" Unicode character block.",
+            "Function": "THAANA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Thai\" Unicode character block.",
+            "Function": "THAI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tibetan\" Unicode character block.",
+            "Function": "TIBETAN",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tifinagh\" Unicode character block.",
+            "Function": "TIFINAGH",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Tirhuta\" Unicode character block.",
+            "Function": "TIRHUTA",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Transport And Map Symbols\" Unicode character block.",
+            "Function": "TRANSPORT_AND_MAP_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Ugaritic\" Unicode character block.",
+            "Function": "UGARITIC",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Unified Canadian Aboriginal Syllabics\" Unicode character block.",
+            "Function": "UNIFIED_CANADIAN_ABORIGINAL_SYLLABICS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Unified Canadian Aboriginal Syllabics Extended\" Unicode character block.",
+            "Function": "UNIFIED_CANADIAN_ABORIGINAL_SYLLABICS_EXTENDED",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Vai\" Unicode character block.",
+            "Function": "VAI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Variation Selectors\" Unicode character block.",
+            "Function": "VARIATION_SELECTORS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Variation Selectors Supplement\" Unicode character block.",
+            "Function": "VARIATION_SELECTORS_SUPPLEMENT",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Vedic Extensions\" Unicode character block.",
+            "Function": "VEDIC_EXTENSIONS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Vertical Forms\" Unicode character block.",
+            "Function": "VERTICAL_FORMS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Warang Citi\" Unicode character block.",
+            "Function": "WARANG_CITI",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Yi Radicals\" Unicode character block.",
+            "Function": "YI_RADICALS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Yi Syllables\" Unicode character block.",
+            "Function": "YI_SYLLABLES",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Yijing Hexagram Symbols\" Unicode character block.",
+            "Function": "YIJING_HEXAGRAM_SYMBOLS",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Constant for the \"Zanabazar Square\" Unicode character block.",
+            "Function": "ZANABAZAR_SQUARE",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Returns the UnicodeBlock with the given name.",
+            "Function": "forName(String blockName)",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Returns the object representing the Unicode block containing the given character, or null if the character is not a member of a defined block.",
+            "Function": "of(char c)",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        },
+        {
+            "Comments": "Returns the object representing the Unicode block containing the given character (Unicode code point), or null if the character is not a member of a defined block.",
+            "Function": "of(int codePoint)",
+            "Modifier and Type": "static Character.UnicodeBlock"
+        }
+    ]
+}

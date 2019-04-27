@@ -1,0 +1,384 @@
+{
+    "API": [
+        {
+            "Comments": "The double value that is closer than any other to e, the base of the natural logarithms.",
+            "Function": "E",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "The double value that is closer than any other to pi, the ratio of the circumference of a circle to its diameter.",
+            "Function": "PI",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the absolute value of a double value.",
+            "Function": "abs(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the absolute value of a float value.",
+            "Function": "abs(float a)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the absolute value of an int value.",
+            "Function": "abs(int a)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the absolute value of a long value.",
+            "Function": "abs(long a)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the arc cosine of a value; the returned angle is in the range 0.0 through pi.",
+            "Function": "acos(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the sum of its arguments, throwing an exception if the result overflows an int.",
+            "Function": "addExact(int x,int y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the sum of its arguments, throwing an exception if the result overflows a long.",
+            "Function": "addExact(long x,long y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the arc sine of a value; the returned angle is in the range -pi/2 through pi/2.",
+            "Function": "asin(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the arc tangent of a value; the returned angle is in the range -pi/2 through pi/2.",
+            "Function": "atan(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the angle theta from the conversion of rectangular coordinates (x, y) to polar coordinates (r, theta).",
+            "Function": "atan2(double y, double x)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the cube root of a double value.",
+            "Function": "cbrt(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer.",
+            "Function": "ceil(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the first floating-point argument with the sign of the second floating-point argument.",
+            "Function": "copySign(double magnitude,double sign)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the first floating-point argument with the sign of the second floating-point argument.",
+            "Function": "copySign(float magnitude,float sign)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the trigonometric cosine of an angle.",
+            "Function": "cos(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the hyperbolic cosine of a double value.",
+            "Function": "cosh(double x)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns Euler's number e raised to the power of a double value.",
+            "Function": "exp(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns ex -1.",
+            "Function": "expm1(double x)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the largest (closest to positive infinity) double value that is less than or equal to the argument and is equal to a mathematical integer.",
+            "Function": "floor(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the largest (closest to positive infinity) int value that is less than or equal to the algebraic quotient.",
+            "Function": "floorDiv(int x,int y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the largest (closest to positive infinity) long value that is less than or equal to the algebraic quotient.",
+            "Function": "floorDiv(long x,int y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the largest (closest to positive infinity) long value that is less than or equal to the algebraic quotient.",
+            "Function": "floorDiv(long x,long y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the floor modulus of the int arguments.",
+            "Function": "floorMod(int x,int y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the floor modulus of the long and int arguments.",
+            "Function": "floorMod(long x,int y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the floor modulus of the long arguments.",
+            "Function": "floorMod(long x,long y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the fused multiply add of the three arguments; that is, returns the exact product of the first two arguments summed with the third argument and then rounded once to the nearest double.",
+            "Function": "fma(double a, double b, double c)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the fused multiply add of the three arguments; that is, returns the exact product of the first two arguments summed with the third argument and then rounded once to the nearest float.",
+            "Function": "fma(float a, float b, float c)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the unbiased exponent used in the representation of a double.",
+            "Function": "getExponent(double d)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the unbiased exponent used in the representation of a float.",
+            "Function": "getExponent(float f)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns sqrt(x2 +y2) without intermediate overflow or underflow.",
+            "Function": "hypot(double x, double y)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Computes the remainder operation on two arguments as prescribed by the IEEE 754 standard.",
+            "Function": "IEEEremainder(double f1, double f2)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the natural logarithm (base e) of a double value.",
+            "Function": "log(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the base 10 logarithm of a double value.",
+            "Function": "log10(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the natural logarithm of the sum of the argument and 1.",
+            "Function": "log1p(double x)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the greater of two double values.",
+            "Function": "max(double a, double b)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the greater of two float values.",
+            "Function": "max(float a, float b)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the greater of two int values.",
+            "Function": "max(int a, int b)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the greater of two long values.",
+            "Function": "max(long a, long b)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the smaller of two double values.",
+            "Function": "min(double a, double b)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the smaller of two float values.",
+            "Function": "min(float a, float b)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the smaller of two int values.",
+            "Function": "min(int a, int b)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the smaller of two long values.",
+            "Function": "min(long a, long b)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the product of the arguments, throwing an exception if the result overflows an int.",
+            "Function": "multiplyExact(int x, int y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the product of the arguments, throwing an exception if the result overflows a long.",
+            "Function": "multiplyExact(long x, int y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the product of the arguments, throwing an exception if the result overflows a long.",
+            "Function": "multiplyExact(long x, long y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the exact mathematical product of the arguments.",
+            "Function": "multiplyFull(int x,int y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns as a long the most significant 64 bits of the 128-bit product of two 64-bit factors.",
+            "Function": "multiplyHigh(long x,long y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the floating-point number adjacent to the first argument in the direction of the second argument.",
+            "Function": "nextAfter(double start, double direction)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the floating-point number adjacent to the first argument in the direction of the second argument.",
+            "Function": "nextAfter(float start, double direction)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the floating-point value adjacent to d in the direction of negative infinity.",
+            "Function": "nextDown(double d)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the floating-point value adjacent to f in the direction of negative infinity.",
+            "Function": "nextDown(float f)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the floating-point value adjacent to d in the direction of positive infinity.",
+            "Function": "nextUp(double d)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the floating-point value adjacent to f in the direction of positive infinity.",
+            "Function": "nextUp(float f)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the value of the first argument raised to the power of the second argument.",
+            "Function": "pow(double a, double b)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0.",
+            "Function": "random()",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the double value that is closest in value to the argument and is equal to a mathematical integer.",
+            "Function": "rint(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the closest long to the argument, with ties rounding to positive infinity.",
+            "Function": "round(double a)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the closest int to the argument, with ties rounding to positive infinity.",
+            "Function": "round(float a)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns d × 2scaleFactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the double value set.",
+            "Function": "scalb(double d, int scaleFactor)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns f × 2scaleFactor rounded as if performed by a single correctly rounded floating-point multiply to a member of the float value set.",
+            "Function": "scalb(float f, int scaleFactor)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the signum function of the argument; zero if the argument is zero, 1.0 if the argument is greater than zero, -1.0 if the argument is less than zero.",
+            "Function": "signum(double d)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the signum function of the argument; zero if the argument is zero, 1.0f if the argument is greater than zero, -1.0f if the argument is less than zero.",
+            "Function": "signum(float f)",
+            "Modifier and Type": "static float"
+        },
+        {
+            "Comments": "Returns the trigonometric sine of an angle.",
+            "Function": "sin(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the hyperbolic sine of a double value.",
+            "Function": "sinh(double x)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the correctly rounded positive square root of a double value.",
+            "Function": "sqrt(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the difference of the arguments, throwing an exception if the result overflows an int.",
+            "Function": "subtractExact(int x, int y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the difference of the arguments, throwing an exception if the result overflows a long.",
+            "Function": "subtractExact(long x, long y)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the trigonometric tangent of an angle.",
+            "Function": "tan(double a)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the hyperbolic tangent of a double value.",
+            "Function": "tanh(double x)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Converts an angle measured in radians to an approximately equivalent angle measured in degrees.",
+            "Function": "toDegrees(double angrad)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the value of the long argument; throwing an exception if the value overflows an int.",
+            "Function": "toIntExact(long value)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts an angle measured in degrees to an approximately equivalent angle measured in radians.",
+            "Function": "toRadians(double angdeg)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the size of an ulp of the argument.",
+            "Function": "ulp(double d)",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Returns the size of an ulp of the argument.",
+            "Function": "ulp(float f)",
+            "Modifier and Type": "static float"
+        }
+    ]
+}

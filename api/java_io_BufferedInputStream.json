@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "The internal buffer array where the data is stored.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "The index one greater than the index of the last valid byte in the buffer.",
+            "Function": "count",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The maximum read ahead allowed after a call to the mark method before subsequent calls to the reset method fail.",
+            "Function": "marklimit",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The value of the pos field at the time the last mark method was called.",
+            "Function": "markpos",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The current position in the buffer.",
+            "Function": "pos",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a BufferedInputStream and saves its  argument, the input stream in, for later use.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a BufferedInputStream with the specified buffer size, and saves its  argument, the input stream in, for later use.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream.",
+            "Function": "mark(int readlimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes this input stream and releases any system resources associated with the stream.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "See the general contract of the mark method of InputStream.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if this input stream supports the mark and reset methods.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "See the general contract of the read method of InputStream.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads bytes from this byte-input stream into the specified byte array, starting at the given offset.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

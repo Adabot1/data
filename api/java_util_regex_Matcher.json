@@ -1,0 +1,199 @@
+{
+    "API": [
+        {
+            "Comments": "Implements a non-terminal append-and-replace step.",
+            "Function": "appendReplacement(StringBuffer sb, String replacement)",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Implements a non-terminal append-and-replace step.",
+            "Function": "appendReplacement(StringBuilder sb, String replacement)",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Implements a terminal append-and-replace step.",
+            "Function": "appendTail(StringBuffer sb)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Implements a terminal append-and-replace step.",
+            "Function": "appendTail(StringBuilder sb)",
+            "Modifier and Type": "StringBuilder"
+        },
+        {
+            "Comments": "Returns the offset after the last character matched.",
+            "Function": "end()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the offset after the last character of the subsequence captured by the given group during the previous match operation.",
+            "Function": "end(int group)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the offset after the last character of the subsequence captured by the given named-capturing group during the previous match operation.",
+            "Function": "end(String name)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Attempts to find the next subsequence of the input sequence that matches the pattern.",
+            "Function": "find()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Resets this matcher and then attempts to find the next subsequence of the input sequence that matches the pattern, starting at the specified index.",
+            "Function": "find(int start)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the input subsequence matched by the previous match.",
+            "Function": "group()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the input subsequence captured by the given group during the previous match operation.",
+            "Function": "group(int group)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the input subsequence captured by the given named-capturing group during the previous match operation.",
+            "Function": "group(String name)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the number of capturing groups in this matcher's pattern.",
+            "Function": "groupCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Queries the anchoring of region bounds for this matcher.",
+            "Function": "hasAnchoringBounds()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries the transparency of region bounds for this matcher.",
+            "Function": "hasTransparentBounds()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the end of input was hit by the search engine in the last match operation performed by this matcher.",
+            "Function": "hitEnd()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Attempts to match the input sequence, starting at the beginning of the region, against the pattern.",
+            "Function": "lookingAt()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Attempts to match the entire region against the pattern.",
+            "Function": "matches()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the pattern that is interpreted by this matcher.",
+            "Function": "pattern()",
+            "Modifier and Type": "Pattern"
+        },
+        {
+            "Comments": "Returns a literal replacement String for the specified String.",
+            "Function": "quoteReplacement(String s)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Sets the limits of this matcher's region.",
+            "Function": "region(int start,int end)",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Reports the end index (exclusive) of this matcher's region.",
+            "Function": "regionEnd()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reports the start index of this matcher's region.",
+            "Function": "regionStart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Replaces every subsequence of the input sequence that matches the pattern with the given replacement string.",
+            "Function": "replaceAll(String replacement)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Replaces every subsequence of the input sequence that matches the pattern with the result of applying the given replacer function to the match result of this matcher corresponding to that subsequence.",
+            "Function": "replaceAll(Function<MatchResult,String> replacer)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Replaces the first subsequence of the input sequence that matches the pattern with the given replacement string.",
+            "Function": "replaceFirst(String replacement)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Replaces the first subsequence of the input sequence that matches the pattern with the result of applying the given replacer function to the match result of this matcher corresponding to that subsequence.",
+            "Function": "replaceFirst(Function<MatchResult,String> replacer)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns true if more input could change a positive match into a negative one.",
+            "Function": "requireEnd()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Resets this matcher.",
+            "Function": "reset()",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Resets this matcher with a new input sequence.",
+            "Function": "reset(CharSequence input)",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Returns a stream of match results for each subsequence of the input sequence that matches the pattern.",
+            "Function": "results()",
+            "Modifier and Type": "Stream<MatchResult>"
+        },
+        {
+            "Comments": "Returns the start index of the previous match.",
+            "Function": "start()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the start index of the subsequence captured by the given group during the previous match operation.",
+            "Function": "start(int group)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the start index of the subsequence captured by the given named-capturing group during the previous match operation.",
+            "Function": "start(String name)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the match state of this matcher as a MatchResult.",
+            "Function": "toMatchResult()",
+            "Modifier and Type": "MatchResult"
+        },
+        {
+            "Comments": "Returns the string representation of this matcher.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Sets the anchoring of region bounds for this matcher.",
+            "Function": "useAnchoringBounds(boolean b)",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Changes the Pattern that this Matcher uses to find matches with.",
+            "Function": "usePattern(Pattern newPattern)",
+            "Modifier and Type": "Matcher"
+        },
+        {
+            "Comments": "Sets the transparency of region bounds for this matcher.",
+            "Function": "useTransparentBounds(boolean b)",
+            "Modifier and Type": "Matcher"
+        }
+    ]
+}

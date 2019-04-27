@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new DSAParameterSpec with the specified parameter values.",
+            "Function": "getG()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the base g.",
+            "Function": "getP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the prime p.",
+            "Function": "getQ()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

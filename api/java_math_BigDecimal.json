@@ -1,0 +1,364 @@
+{
+    "API": [
+        {
+            "Comments": "The value 1, with a scale of 0.",
+            "Function": "ONE",
+            "Modifier and Type": "static BigDecimal"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.CEILING instead.",
+            "Function": "ROUND_CEILING",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.DOWN instead.",
+            "Function": "ROUND_DOWN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.FLOOR instead.",
+            "Function": "ROUND_FLOOR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.HALF_DOWN instead.",
+            "Function": "ROUND_HALF_DOWN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.HALF_EVEN instead.",
+            "Function": "ROUND_HALF_EVEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.HALF_UP instead.",
+            "Function": "ROUND_HALF_UP",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.UNNECESSARY instead.",
+            "Function": "ROUND_UNNECESSARY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.Use RoundingMode.UP instead.",
+            "Function": "ROUND_UP",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The value 10, with a scale of 0.",
+            "Function": "TEN",
+            "Modifier and Type": "static BigDecimal"
+        },
+        {
+            "Comments": "The value 0, with a scale of 0.",
+            "Function": "ZERO",
+            "Modifier and Type": "static BigDecimal"
+        },
+        {
+            "Comments": "Translates a character array representation of a BigDecimal into a BigDecimal, accepting the same sequence of characters as the BigDecimal(String) constructor.",
+            "Function": "abs()",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a character array representation of a BigDecimal into a BigDecimal, accepting the same sequence of characters as the BigDecimal(String) constructor, while allowing a sub-array to be specified.",
+            "Function": "abs(MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a character array representation of a BigDecimal into a BigDecimal, accepting the same sequence of characters as the BigDecimal(String) constructor, while allowing a sub-array to be specified and with rounding according to the context settings.",
+            "Function": "add(BigDecimal augend)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a character array representation of a BigDecimal into a BigDecimal, accepting the same sequence of characters as the BigDecimal(String) constructor and with rounding according to the context settings.",
+            "Function": "add(BigDecimal augend, MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a double into a BigDecimal which is the exact decimal representation of the double's binary floating-point value.",
+            "Function": "byteValueExact()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Translates a double into a BigDecimal, with rounding according to the context settings.",
+            "Function": "compareTo(BigDecimal val)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Translates an int into a BigDecimal.",
+            "Function": "divide(BigDecimal divisor)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates an int into a BigDecimal, with rounding according to the context settings.",
+            "Function": "divide(BigDecimal divisor,int roundingMode)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a long into a BigDecimal.",
+            "Function": "divide(BigDecimal divisor,int scale,int roundingMode)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a long into a BigDecimal, with rounding according to the context settings.",
+            "Function": "divide(BigDecimal divisor,int scale,RoundingMode roundingMode)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates the string representation of a BigDecimal into a BigDecimal.",
+            "Function": "divide(BigDecimal divisor,MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates the string representation of a BigDecimal into a BigDecimal, accepting the same strings as the BigDecimal(String) constructor, with rounding according to the context settings.",
+            "Function": "divide(BigDecimal divisor,RoundingMode roundingMode)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a BigInteger into a BigDecimal.",
+            "Function": "divideAndRemainder(BigDecimal divisor)",
+            "Modifier and Type": "BigDecimal[]"
+        },
+        {
+            "Comments": "Translates a BigInteger unscaled value and an int scale into a BigDecimal.",
+            "Function": "divideAndRemainder(BigDecimal divisor,MathContext mc)",
+            "Modifier and Type": "BigDecimal[]"
+        },
+        {
+            "Comments": "Translates a BigInteger unscaled value and an int scale into a BigDecimal, with rounding according to the context settings.",
+            "Function": "divideToIntegralValue(BigDecimal divisor)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Translates a BigInteger into a BigDecimal rounding according to the context settings.",
+            "Function": "divideToIntegralValue(BigDecimal divisor, MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is the absolute value of this BigDecimal, and whose scale is this.scale().",
+            "Function": "doubleValue()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is the absolute value of this BigDecimal, with rounding according to the context settings.",
+            "Function": "equals(Object x)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this + augend), and whose scale is max(this.scale(), augend.scale()).",
+            "Function": "floatValue()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this + augend), with rounding according to the context settings.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Converts this BigDecimal to a byte, checking for lost information.",
+            "Function": "intValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares this BigDecimal with the specified BigDecimal.",
+            "Function": "intValueExact()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this / divisor), and whose preferred scale is (this.scale() - divisor.scale()); if the exact quotient cannot be represented (because it has a non-terminating decimal expansion) an ArithmeticException is thrown.",
+            "Function": "longValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Deprecated.The method divide(BigDecimal, RoundingMode) should be used in preference to this legacy method.",
+            "Function": "longValueExact()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Deprecated.The method divide(BigDecimal, int, RoundingMode) should be used in preference to this legacy method.",
+            "Function": "max(BigDecimal val)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this / divisor), and whose scale is as specified.",
+            "Function": "min(BigDecimal val)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this / divisor), with rounding according to the context settings.",
+            "Function": "movePointLeft(int n)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this / divisor), and whose scale is this.scale().",
+            "Function": "movePointRight(int n)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a two-element BigDecimal array containing the result of divideToIntegralValue followed by the result of remainder on the two operands.",
+            "Function": "multiply(BigDecimal multiplicand)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a two-element BigDecimal array containing the result of divideToIntegralValue followed by the result of remainder on the two operands calculated with rounding according to the context settings.",
+            "Function": "multiply(BigDecimal multiplicand,MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is the integer part of the quotient (this / divisor) rounded down.",
+            "Function": "negate()",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is the integer part of (this / divisor).",
+            "Function": "negate(MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Converts this BigDecimal to a double.",
+            "Function": "plus()",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Compares this BigDecimal with the specified Object for equality.",
+            "Function": "plus(MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Converts this BigDecimal to a float.",
+            "Function": "pow(int n)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns the hash code for this BigDecimal.",
+            "Function": "pow(int n, MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Converts this BigDecimal to an int.",
+            "Function": "precision()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Converts this BigDecimal to an int, checking for lost information.",
+            "Function": "remainder(BigDecimal divisor)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Converts this BigDecimal to a long.",
+            "Function": "remainder(BigDecimal divisor, MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Converts this BigDecimal to a long, checking for lost information.",
+            "Function": "round(MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns the maximum of this BigDecimal and val.",
+            "Function": "scale()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the minimum of this BigDecimal and val.",
+            "Function": "scaleByPowerOfTen(int n)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal which is equivalent to this one with the decimal point moved n places to the left.",
+            "Function": "setScale(int newScale)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal which is equivalent to this one with the decimal point moved n places to the right.",
+            "Function": "setScale(int newScale,int roundingMode)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this × multiplicand), and whose scale is (this.scale() + multiplicand.scale()).",
+            "Function": "setScale(int newScale,RoundingMode roundingMode)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this × multiplicand), with rounding according to the context settings.",
+            "Function": "shortValueExact()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (-this), and whose scale is this.scale().",
+            "Function": "signum()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (-this), with rounding according to the context settings.",
+            "Function": "sqrt(MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (+this), and whose scale is this.scale().",
+            "Function": "stripTrailingZeros()",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (+this), with rounding according to the context settings.",
+            "Function": "subtract(BigDecimal subtrahend)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (thisn), The power is computed exactly, to unlimited precision.",
+            "Function": "subtract(BigDecimal subtrahend,MathContext mc)",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (thisn).",
+            "Function": "toBigInteger()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the precision of this BigDecimal.",
+            "Function": "toBigIntegerExact()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this % divisor).",
+            "Function": "toEngineeringString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose value is (this % divisor), with rounding according to the context settings.",
+            "Function": "toPlainString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a BigDecimal rounded according to the MathContext settings.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the scale of this BigDecimal.",
+            "Function": "ulp()",
+            "Modifier and Type": "BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose numerical value is equal to (this * 10n).",
+            "Function": "unscaledValue()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose scale is the specified value, and whose value is numerically equal to this BigDecimal's.",
+            "Function": "valueOf(double val)",
+            "Modifier and Type": "static BigDecimal"
+        },
+        {
+            "Comments": "Deprecated.The method setScale(int, RoundingMode) should be used in preference to this legacy method.",
+            "Function": "valueOf(long val)",
+            "Modifier and Type": "static BigDecimal"
+        },
+        {
+            "Comments": "Returns a BigDecimal whose scale is the specified value, and whose unscaled value is determined by multiplying or dividing this BigDecimal's unscaled value by the appropriate power of ten to maintain its overall value.",
+            "Function": "valueOf(long unscaledVal, int scale)",
+            "Modifier and Type": "static BigDecimal"
+        }
+    ]
+}

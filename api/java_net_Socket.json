@@ -1,0 +1,229 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an unconnected socket, with the system-default type of SocketImpl.",
+            "Function": "bind(SocketAddress bindpoint)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a stream socket and connects it to the specified port number on the named host.",
+            "Function": "close()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Deprecated.Use DatagramSocket instead for UDP transport.",
+            "Function": "connect(SocketAddress endpoint)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a socket and connects it to the specified remote host on the specified remote port.",
+            "Function": "connect(SocketAddress endpoint, int timeout)",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a stream socket and connects it to the specified port number at the specified IP address.",
+            "Function": "getChannel()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Deprecated.Use DatagramSocket instead for UDP transport.",
+            "Function": "getInetAddress()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a socket and connects it to the specified remote address on the specified remote port.",
+            "Function": "getInputStream()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates an unconnected socket, specifying the type of proxy, if any, that should be used regardless of any other settings.",
+            "Function": "getKeepAlive()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates an unconnected Socket with a user-specified SocketImpl.",
+            "Function": "getLocalAddress()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Binds the socket to a local address.",
+            "Function": "getLocalPort()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes this socket.",
+            "Function": "getLocalSocketAddress()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Connects this socket to the server.",
+            "Function": "getOOBInline()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Connects this socket to the server with a specified timeout value.",
+            "Function": "getOption(SocketOption<T> name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the unique SocketChannel object associated with this socket, if any.",
+            "Function": "getOutputStream()",
+            "Modifier and Type": "SocketChannel"
+        },
+        {
+            "Comments": "Returns the address to which the socket is connected.",
+            "Function": "getPort()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Returns an input stream for this socket.",
+            "Function": "getReceiveBufferSize()",
+            "Modifier and Type": "InputStream"
+        },
+        {
+            "Comments": "Tests if SO_KEEPALIVE is enabled.",
+            "Function": "getRemoteSocketAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the local address to which the socket is bound.",
+            "Function": "getReuseAddress()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Returns the local port number to which this socket is bound.",
+            "Function": "getSendBufferSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the address of the endpoint this socket is bound to.",
+            "Function": "getSoLinger()",
+            "Modifier and Type": "SocketAddress"
+        },
+        {
+            "Comments": "Tests if SO_OOBINLINE is enabled.",
+            "Function": "getSoTimeout()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of a socket option.",
+            "Function": "getTcpNoDelay()",
+            "Modifier and Type": "<T> T"
+        },
+        {
+            "Comments": "Returns an output stream for this socket.",
+            "Function": "getTrafficClass()",
+            "Modifier and Type": "OutputStream"
+        },
+        {
+            "Comments": "Returns the remote port number to which this socket is connected.",
+            "Function": "isBound()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the SO_RCVBUF option for this Socket, that is the buffer size used by the platform for input on this Socket.",
+            "Function": "isClosed()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the address of the endpoint this socket is connected to, or null if it is unconnected.",
+            "Function": "isConnected()",
+            "Modifier and Type": "SocketAddress"
+        },
+        {
+            "Comments": "Tests if SO_REUSEADDR is enabled.",
+            "Function": "isInputShutdown()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Get value of the SO_SNDBUF option for this Socket, that is the buffer size used by the platform for output on this Socket.",
+            "Function": "isOutputShutdown()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns setting for SO_LINGER.",
+            "Function": "sendUrgentData(int data)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns setting for SO_TIMEOUT. 0 returns implies that the option is disabled (i.e., timeout of infinity).",
+            "Function": "setKeepAlive(boolean on)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if TCP_NODELAY is enabled.",
+            "Function": "setOOBInline(boolean on)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets traffic class or type-of-service in the IP header for packets sent from this Socket",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the binding state of the socket.",
+            "Function": "setPerformancePreferences(int connectionTime, int latency, int bandwidth)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the closed state of the socket.",
+            "Function": "setReceiveBufferSize(int size)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the connection state of the socket.",
+            "Function": "setReuseAddress(boolean on)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns whether the read-half of the socket connection is closed.",
+            "Function": "setSendBufferSize(int size)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns whether the write-half of the socket connection is closed.",
+            "Function": "setSocketImplFactory(SocketImplFactory fac)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Send one byte of urgent data on the socket.",
+            "Function": "setSoLinger(boolean on, int linger)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Enable/disable SO_KEEPALIVE.",
+            "Function": "setSoTimeout(int timeout)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Enable/disable SO_OOBINLINE (receipt of TCP urgent data) By default, this option is disabled and TCP urgent data received on a socket is silently discarded.",
+            "Function": "setTcpNoDelay(boolean on)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a socket option.",
+            "Function": "setTrafficClass(int tc)",
+            "Modifier and Type": "<T> Socket"
+        },
+        {
+            "Comments": "Sets performance preferences for this socket.",
+            "Function": "shutdownInput()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the SO_RCVBUF option to the specified value for this Socket.",
+            "Function": "shutdownOutput()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Enable/disable the SO_REUSEADDR socket option.",
+            "Function": "supportedOptions()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the SO_SNDBUF option to the specified value for this Socket.",
+            "Function": "toString()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

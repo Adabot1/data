@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a string tokenizer for the specified string.",
+            "Function": "countTokens()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a string tokenizer for the specified string.",
+            "Function": "hasMoreElements()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a string tokenizer for the specified string.",
+            "Function": "hasMoreTokens()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Calculates the number of times that this tokenizer's nextToken method can be called before it generates an exception.",
+            "Function": "nextElement()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the same value as the hasMoreTokens method.",
+            "Function": "nextToken()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Tests if there are more tokens available from this tokenizer's string.",
+            "Function": "nextToken(String delim)",
+            "Modifier and Type": "String"
+        }
+    ]
+}

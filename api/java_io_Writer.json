@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "The object used to synchronize operations on this stream.",
+            "Function": "lock",
+            "Modifier and Type": "protected Object"
+        },
+        {
+            "Comments": "Creates a new character-stream writer whose critical sections will synchronize on the writer itself.",
+            "Function": "append(char c)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Creates a new character-stream writer whose critical sections will synchronize on the given object.",
+            "Function": "append(CharSequence csq)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Appends the specified character to this writer.",
+            "Function": "append(CharSequence csq,int start,int end)",
+            "Modifier and Type": "Writer"
+        },
+        {
+            "Comments": "Appends the specified character sequence to this writer.",
+            "Function": "close()",
+            "Modifier and Type": "Writer"
+        },
+        {
+            "Comments": "Appends a subsequence of the specified character sequence to this writer.",
+            "Function": "flush()",
+            "Modifier and Type": "Writer"
+        },
+        {
+            "Comments": "Closes the stream, flushing it first.",
+            "Function": "nullWriter()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Flushes the stream.",
+            "Function": "write(char[] cbuf)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns a new Writer which discards all characters.",
+            "Function": "write(char[] cbuf, int off, int len)",
+            "Modifier and Type": "static Writer"
+        },
+        {
+            "Comments": "Writes an array of characters.",
+            "Function": "write(int c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a portion of an array of characters.",
+            "Function": "write(String str)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Writes a single character.",
+            "Function": "write(String str, int off, int len)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

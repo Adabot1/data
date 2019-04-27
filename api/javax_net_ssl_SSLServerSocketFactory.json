@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor is used only by subclasses.",
+            "Function": "getDefault()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the default SSL server socket factory.",
+            "Function": "getDefaultCipherSuites()",
+            "Modifier and Type": "static ServerSocketFactory"
+        },
+        {
+            "Comments": "Returns the list of cipher suites which are enabled by default.",
+            "Function": "getSupportedCipherSuites()",
+            "Modifier and Type": "abstract String[]"
+        }
+    ]
+}

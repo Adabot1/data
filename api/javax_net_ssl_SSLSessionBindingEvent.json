@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new SSLSessionBindingEvent.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the name to which the object is being bound, or the name from which the object is being unbound.",
+            "Function": "getSession()",
+            "Modifier and Type": "SSLSession"
+        }
+    ]
+}

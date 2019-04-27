@@ -1,0 +1,129 @@
+{
+    "API": [
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "addHandshakeCompletedListener(HandshakeCompletedListener listener)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getApplicationProtocol()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getEnabledCipherSuites()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getEnabledProtocols()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Used only by subclasses.",
+            "Function": "getEnableSessionCreation()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Registers an event listener to receive notifications that an SSL handshake has completed on this connection.",
+            "Function": "getHandshakeApplicationProtocol()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns the most recent application protocol value negotiated for this connection.",
+            "Function": "getHandshakeApplicationProtocolSelector()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the names of the SSL cipher suites which are currently enabled for use on this connection.",
+            "Function": "getHandshakeSession()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns the names of the protocol versions which are currently enabled for use on this connection.",
+            "Function": "getNeedClientAuth()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns true if new SSL sessions may be established by this socket.",
+            "Function": "getSession()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the application protocol value negotiated on a SSL/TLS handshake currently in progress.",
+            "Function": "getSSLParameters()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Retrieves the callback function that selects an application protocol value during a SSL/TLS/DTLS handshake.",
+            "Function": "getSupportedCipherSuites()",
+            "Modifier and Type": "BiFunction<SSLSocket,​List<String>,​String>"
+        },
+        {
+            "Comments": "Returns the SSLSession being constructed during a SSL/TLS handshake.",
+            "Function": "getSupportedProtocols()",
+            "Modifier and Type": "SSLSession"
+        },
+        {
+            "Comments": "Returns true if the socket will require client authentication.",
+            "Function": "getUseClientMode()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the SSL Session in use by this connection.",
+            "Function": "getWantClientAuth()",
+            "Modifier and Type": "abstract SSLSession"
+        },
+        {
+            "Comments": "Returns the SSLParameters in effect for this SSLSocket.",
+            "Function": "removeHandshakeCompletedListener(HandshakeCompletedListener listener)",
+            "Modifier and Type": "SSLParameters"
+        },
+        {
+            "Comments": "Returns the names of the cipher suites which could be enabled for use on this connection.",
+            "Function": "setEnabledCipherSuites(String[] suites)",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns the names of the protocols which could be enabled for use on an SSL connection.",
+            "Function": "setEnabledProtocols(String[] protocols)",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns true if the socket is set to use client mode when handshaking.",
+            "Function": "setEnableSessionCreation(boolean flag)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns true if the socket will request client authentication.",
+            "Function": "setHandshakeApplicationProtocolSelector(BiFunction<SSLSocket,List<String>,String> selector)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Removes a previously registered handshake completion listener.",
+            "Function": "setNeedClientAuth(boolean need)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Sets the cipher suites enabled for use on this connection.",
+            "Function": "setSSLParameters(SSLParameters params)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Sets the protocol versions enabled for use on this connection.",
+            "Function": "setUseClientMode(boolean mode)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Controls whether new SSL sessions may be established by this socket.",
+            "Function": "setWantClientAuth(boolean want)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Registers a callback function that selects an application protocol value for a SSL/TLS/DTLS handshake.",
+            "Function": "startHandshake()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

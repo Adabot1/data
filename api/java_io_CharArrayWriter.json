@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "The buffer where data is stored.",
+            "Function": "buf",
+            "Modifier and Type": "protected char[]"
+        },
+        {
+            "Comments": "The number of chars in the buffer.",
+            "Function": "count",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a new CharArrayWriter.",
+            "Function": "append(char c)",
+            "Modifier and Type": "CharArrayWriter"
+        },
+        {
+            "Comments": "Creates a new CharArrayWriter with the specified initial size.",
+            "Function": "append(CharSequence csq)",
+            "Modifier and Type": "CharArrayWriter"
+        },
+        {
+            "Comments": "Appends the specified character to this writer.",
+            "Function": "append(CharSequence csq,int start,int end)",
+            "Modifier and Type": "CharArrayWriter"
+        },
+        {
+            "Comments": "Appends the specified character sequence to this writer.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Appends a subsequence of the specified character sequence to this writer.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Close the stream.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flush the stream.",
+            "Function": "size()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Resets the buffer so that you can use it again without throwing away the already allocated buffer.",
+            "Function": "toCharArray()",
+            "Modifier and Type": "char[]"
+        },
+        {
+            "Comments": "Returns the current size of the buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of the input data.",
+            "Function": "write(char[] c, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Converts input data to a string.",
+            "Function": "write(int c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes characters to the buffer.",
+            "Function": "write(String str, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a character to the buffer.",
+            "Function": "writeTo(Writer out)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

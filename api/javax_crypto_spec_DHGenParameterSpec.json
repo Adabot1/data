@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a parameter set for the generation of Diffie-Hellman (system) parameters.",
+            "Function": "getExponentSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the size in bits of the random exponent (private value).",
+            "Function": "getPrimeSize()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

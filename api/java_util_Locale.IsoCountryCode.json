@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "PART1_ALPHA2 is used to represent the ISO3166-1 alpha-2 two letter country codes.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Locale.IsoCountryCode"
+        },
+        {
+            "Comments": "PART1_ALPHA3 is used to represent the ISO3166-1 alpha-3 three letter country codes.",
+            "Function": "values()",
+            "Modifier and Type": "static Locale.IsoCountryCode[]"
+        }
+    ]
+}

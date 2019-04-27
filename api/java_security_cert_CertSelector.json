@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Makes a copy of this CertSelector.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Decides whether a Certificate should be selected.",
+            "Function": "match(Certificate cert)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

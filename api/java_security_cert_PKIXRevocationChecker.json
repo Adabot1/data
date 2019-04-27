@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Various revocation options that can be specified for the revocation checking mechanism.",
+            "Function": "PKIXRevocationChecker.Option",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Default constructor.",
+            "Function": "getOcspExtensions()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Gets the optional OCSP request extensions.",
+            "Function": "getOcspResponder()",
+            "Modifier and Type": "List<Extension>"
+        },
+        {
+            "Comments": "Gets the URI that identifies the location of the OCSP responder.",
+            "Function": "getOcspResponderCert()",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Gets the OCSP responder's certificate.",
+            "Function": "getOcspResponses()",
+            "Modifier and Type": "X509Certificate"
+        },
+        {
+            "Comments": "Gets the OCSP responses.",
+            "Function": "getOptions()",
+            "Modifier and Type": "Map<X509Certificate,​byte[]>"
+        },
+        {
+            "Comments": "Gets the revocation options.",
+            "Function": "getSoftFailExceptions()",
+            "Modifier and Type": "Set<PKIXRevocationChecker.Option>"
+        },
+        {
+            "Comments": "Returns a list containing the exceptions that are ignored by the revocation checker when the SOFT_FAIL option is set.",
+            "Function": "setOcspExtensions(List<Extension> extensions)",
+            "Modifier and Type": "abstract List<CertPathValidatorException>"
+        },
+        {
+            "Comments": "Sets the optional OCSP request extensions.",
+            "Function": "setOcspResponder(URI uri)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the URI that identifies the location of the OCSP responder.",
+            "Function": "setOcspResponderCert(X509Certificate cert)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the OCSP responder's certificate.",
+            "Function": "setOcspResponses(Map<X509Certificate,byte[]> responses)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the OCSP responses.",
+            "Function": "setOptions(Set<PKIXRevocationChecker.Option> options)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this date to another date, including the chronology.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains a MinguoDate from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static MinguoDate"
+        },
+        {
+            "Comments": "Gets the chronology of this date, which is the Minguo calendar system.",
+            "Function": "getChronology()",
+            "Modifier and Type": "MinguoChronology"
+        },
+        {
+            "Comments": "Gets the era applicable at this date.",
+            "Function": "getEra()",
+            "Modifier and Type": "MinguoEra"
+        },
+        {
+            "Comments": "A hash code for this date.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the length of the month represented by this date.",
+            "Function": "lengthOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount subtracted.",
+            "Function": "minus(TemporalAmount amount)",
+            "Modifier and Type": "MinguoDate"
+        },
+        {
+            "Comments": "Obtains the current MinguoDate from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static MinguoDate"
+        },
+        {
+            "Comments": "Obtains the current MinguoDate from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static MinguoDate"
+        },
+        {
+            "Comments": "Obtains the current MinguoDate from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static MinguoDate"
+        },
+        {
+            "Comments": "Obtains a MinguoDate representing a date in the Minguo calendar system from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "of(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "static MinguoDate"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount added.",
+            "Function": "plus(TemporalAmount amount)",
+            "Modifier and Type": "MinguoDate"
+        },
+        {
+            "Comments": "Returns a string representation of the object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Calculates the amount of time until another date in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted object of the same type as this object with the adjustment made.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "MinguoDate"
+        }
+    ]
+}

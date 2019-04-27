@@ -1,0 +1,149 @@
+{
+    "API": [
+        {
+            "Comments": "Adjusts the specified temporal object to have this month-day.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Combines this month-day with a year to create a LocalDate.",
+            "Function": "atYear(int year)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Compares this month-day to another month-day.",
+            "Function": "compareTo(MonthDay other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this month-day is equal to another month-day.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this month-day using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of MonthDay from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this month-day as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the day-of-month field.",
+            "Function": "getDayOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this month-day as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the month-of-year field using the Month enum.",
+            "Function": "getMonth()",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Gets the month-of-year field from 1 to 12.",
+            "Function": "getMonthValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this month-day.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this month-day is after the specified month-day.",
+            "Function": "isAfter(MonthDay other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this month-day is before the specified month-day.",
+            "Function": "isBefore(MonthDay other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the year is valid for this month-day.",
+            "Function": "isValidYear(int year)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains the current month-day from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Obtains the current month-day from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Obtains the current month-day from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Obtains an instance of MonthDay.",
+            "Function": "of(int month,int dayOfMonth)",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Obtains an instance of MonthDay.",
+            "Function": "of(Month month,int dayOfMonth)",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Obtains an instance of MonthDay from a text string such as --12-03.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Obtains an instance of MonthDay from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static MonthDay"
+        },
+        {
+            "Comments": "Queries this month-day using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Outputs this month-day as a String, such as --12-03.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of this MonthDay with the month-of-year altered.",
+            "Function": "with(Month month)",
+            "Modifier and Type": "MonthDay"
+        },
+        {
+            "Comments": "Returns a copy of this MonthDay with the day-of-month altered.",
+            "Function": "withDayOfMonth(int dayOfMonth)",
+            "Modifier and Type": "MonthDay"
+        },
+        {
+            "Comments": "Returns a copy of this MonthDay with the month-of-year altered.",
+            "Function": "withMonth(int month)",
+            "Modifier and Type": "MonthDay"
+        }
+    ]
+}

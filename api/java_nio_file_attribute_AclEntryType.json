@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Generate an alarm, in a system dependent way, the access specified in the permissions component of the ACL entry.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static AclEntryType"
+        },
+        {
+            "Comments": "Explicitly grants access to a file or directory.",
+            "Function": "values()",
+            "Modifier and Type": "static AclEntryType[]"
+        }
+    ]
+}

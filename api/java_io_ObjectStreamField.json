@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Create a Serializable field with the specified type.",
+            "Function": "compareTo(Object obj)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates an ObjectStreamField representing a serializable field with the given name and type.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compare this field with another ObjectStreamField.",
+            "Function": "getOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the name of this field.",
+            "Function": "getType()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Offset of field within instance data.",
+            "Function": "getTypeCode()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Get the type of the field.",
+            "Function": "getTypeString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns character encoding of field type.",
+            "Function": "isPrimitive()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Return the JVM type signature.",
+            "Function": "isUnshared()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Return true if this field has a primitive type.",
+            "Function": "setOffset(int offset)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Returns boolean value indicating whether or not the serializable field represented by this ObjectStreamField instance is unshared.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

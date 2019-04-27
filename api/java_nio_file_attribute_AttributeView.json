@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the name of the attribute view.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

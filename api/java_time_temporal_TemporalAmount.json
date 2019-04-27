@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Adds to the specified temporal object.",
+            "Function": "addTo(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Returns the value of the requested unit.",
+            "Function": "get(TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the list of units uniquely defining the value of this TemporalAmount.",
+            "Function": "getUnits()",
+            "Modifier and Type": "List<TemporalUnit>"
+        },
+        {
+            "Comments": "Subtracts this object from the specified temporal object.",
+            "Function": "subtractFrom(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        }
+    ]
+}

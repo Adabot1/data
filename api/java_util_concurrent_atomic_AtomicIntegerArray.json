@@ -1,0 +1,159 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new AtomicIntegerArray of the given length, with all elements initially zero.",
+            "Function": "accumulateAndGet(int i,int x,IntBinaryOperator accumulatorFunction)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new AtomicIntegerArray with the same length as, and all elements copied from, the given array.",
+            "Function": "addAndGet(int i, int delta)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically updates (with memory effects as specified by VarHandle.compareAndSet(java.lang.Object...)) the element at index i with the results of applying the given function to the current and given values, returning the updated value.",
+            "Function": "compareAndExchange(int i,int expectedValue,int newValue)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically adds the given value to the element at index i, with memory effects as specified by VarHandle.getAndAdd(java.lang.Object...).",
+            "Function": "compareAndExchangeAcquire(int i, int expectedValue, int newValue)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically sets the element at index i to newValue if the element's current value, referred to as the witness value, == expectedValue, with memory effects as specified by VarHandle.compareAndExchange(java.lang.Object...).",
+            "Function": "compareAndExchangeRelease(int i, int expectedValue, int newValue)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically sets the element at index i to newValue if the element's current value, referred to as the witness value, == expectedValue, with memory effects as specified by VarHandle.compareAndExchangeAcquire(java.lang.Object...).",
+            "Function": "compareAndSet(int i, int expectedValue, int newValue)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Atomically sets the element at index i to newValue if the element's current value, referred to as the witness value, == expectedValue, with memory effects as specified by VarHandle.compareAndExchangeRelease(java.lang.Object...).",
+            "Function": "decrementAndGet(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically sets the element at index i to  newValue if the element's current value == expectedValue, with memory effects as specified by VarHandle.compareAndSet(java.lang.Object...).",
+            "Function": "get(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically decrements the value of the element at index i, with memory effects as specified by VarHandle.getAndAdd(java.lang.Object...).",
+            "Function": "getAcquire(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current value of the element at index i, with memory effects as specified by VarHandle.getVolatile(java.lang.Object...).",
+            "Function": "getAndAccumulate(int i,int x,IntBinaryOperator accumulatorFunction)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current value of the element at index i, with memory effects as specified by VarHandle.getAcquire(java.lang.Object...).",
+            "Function": "getAndAdd(int i, int delta)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically updates (with memory effects as specified by VarHandle.compareAndSet(java.lang.Object...)) the element at index i with the results of applying the given function to the current and given values, returning the previous value.",
+            "Function": "getAndDecrement(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically adds the given value to the element at index i, with memory effects as specified by VarHandle.getAndAdd(java.lang.Object...).",
+            "Function": "getAndIncrement(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically decrements the value of the element at index i, with memory effects as specified by VarHandle.getAndAdd(java.lang.Object...).",
+            "Function": "getAndSet(int i, int newValue)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically increments the value of the element at index i, with memory effects as specified by VarHandle.getAndAdd(java.lang.Object...).",
+            "Function": "getAndUpdate(int i,IntUnaryOperator updateFunction)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically sets the element at index i to  newValue and returns the old value, with memory effects as specified by VarHandle.getAndSet(java.lang.Object...).",
+            "Function": "getOpaque(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Atomically updates (with memory effects as specified by VarHandle.compareAndSet(java.lang.Object...)) the element at index i with the results of applying the given function, returning the previous value.",
+            "Function": "getPlain(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current value of the element at index i, with memory effects as specified by VarHandle.getOpaque(java.lang.Object...).",
+            "Function": "incrementAndGet(int i)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current value of the element at index i, with memory semantics of reading as if the variable was declared non-volatile.",
+            "Function": "lazySet(int i, int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Atomically increments the value of the element at index i, with memory effects as specified by VarHandle.getAndAdd(java.lang.Object...).",
+            "Function": "length()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Sets the element at index i to newValue, with memory effects as specified by VarHandle.setRelease(java.lang.Object...).",
+            "Function": "set(int i, int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the length of the array.",
+            "Function": "setOpaque(int i, int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the element at index i to newValue, with memory effects as specified by VarHandle.setVolatile(java.lang.Object...).",
+            "Function": "setPlain(int i,int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the element at index i to newValue, with memory effects as specified by VarHandle.setOpaque(java.lang.Object...).",
+            "Function": "setRelease(int i,int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the element at index i to newValue, with memory semantics of setting as if the variable was declared non-volatile and non-final.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Sets the element at index i to newValue, with memory effects as specified by VarHandle.setRelease(java.lang.Object...).",
+            "Function": "updateAndGet(int i,IntUnaryOperator updateFunction)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the String representation of the current values of array.",
+            "Function": "weakCompareAndSet(int i, int expectedValue, int newValue)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Atomically updates (with memory effects as specified by VarHandle.compareAndSet(java.lang.Object...)) the element at index i with the results of applying the given function, returning the updated value.",
+            "Function": "weakCompareAndSetAcquire(int i,int expectedValue,int newValue)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated.This method has plain memory effects but the method name implies volatile memory effects (see methods such as compareAndExchange(int, int, int) and compareAndSet(int, int, int)).",
+            "Function": "weakCompareAndSetPlain(int i,int expectedValue,int newValue)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Possibly atomically sets the element at index i to newValue if the element's current value == expectedValue, with memory effects as specified by VarHandle.weakCompareAndSetAcquire(java.lang.Object...).",
+            "Function": "weakCompareAndSetRelease(int i,int expectedValue,int newValue)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Possibly atomically sets the element at index i to newValue if the element's current value == expectedValue, with memory effects as specified by VarHandle.weakCompareAndSetPlain(java.lang.Object...).",
+            "Function": "weakCompareAndSetVolatile(int i, int expectedValue, int newValue)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

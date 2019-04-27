@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a ForkJoinWorkerThread operating in the given pool.",
+            "Function": "getPool()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the pool hosting this thread.",
+            "Function": "getPoolIndex()",
+            "Modifier and Type": "ForkJoinPool"
+        },
+        {
+            "Comments": "Returns the unique index number of this thread in its pool.",
+            "Function": "onStart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Initializes internal state after construction but before processing any tasks.",
+            "Function": "onTermination(Throwable exception)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Performs cleanup associated with termination of this worker thread.",
+            "Function": "run()",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

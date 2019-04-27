@@ -1,0 +1,159 @@
+{
+    "API": [
+        {
+            "Comments": "Compares two abstract paths lexicographically.",
+            "Function": "compareTo(Path other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if this path ends with a Path, constructed by converting the given path string, in exactly the manner specified by the endsWith(Path) method.",
+            "Function": "endsWith(String other)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Tests if this path ends with the given path.",
+            "Function": "endsWith(Path other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests this path for equality with the given object.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the name of the file or directory denoted by this path as a Path object.",
+            "Function": "getFileName()",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Returns the file system that created this object.",
+            "Function": "getFileSystem()",
+            "Modifier and Type": "FileSystem"
+        },
+        {
+            "Comments": "Returns a name element of this path as a Path object.",
+            "Function": "getName(int index)",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Returns the number of name elements in the path.",
+            "Function": "getNameCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the parent path, or null if this path does not have a parent.",
+            "Function": "getParent()",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Returns the root component of this path as a Path object, or null if this path does not have a root component.",
+            "Function": "getRoot()",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Computes a hash code for this path.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this path is absolute.",
+            "Function": "isAbsolute()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an iterator over the name elements of this path.",
+            "Function": "iterator()",
+            "Modifier and Type": "default Iterator<Path>"
+        },
+        {
+            "Comments": "Returns a path that is this path with redundant name elements eliminated.",
+            "Function": "normalize()",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Returns a Path by converting a path string, or a sequence of strings that when joined form a path string.",
+            "Function": "of(String first,String... more)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Returns a Path by converting a URI.",
+            "Function": "of(URI uri)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Registers the file located by this path with a watch service.",
+            "Function": "register(WatchService watcher,WatchEvent.Kind<?>... events)",
+            "Modifier and Type": "default WatchKey"
+        },
+        {
+            "Comments": "Registers the file located by this path with a watch service.",
+            "Function": "register(WatchService watcher,WatchEvent.Kind<?>[] events,WatchEvent.Modifier... modifiers)",
+            "Modifier and Type": "WatchKey"
+        },
+        {
+            "Comments": "Constructs a relative path between this path and a given path.",
+            "Function": "relativize(Path other)",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Converts a given path string to a Path and resolves it against this Path in exactly the manner specified by the resolve method.",
+            "Function": "resolve(String other)",
+            "Modifier and Type": "default Path"
+        },
+        {
+            "Comments": "Resolve the given path against this path.",
+            "Function": "resolve(Path other)",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Converts a given path string to a Path and resolves it against this path's parent path in exactly the manner specified by the resolveSibling method.",
+            "Function": "resolveSibling(String other)",
+            "Modifier and Type": "default Path"
+        },
+        {
+            "Comments": "Resolves the given path against this path's parent path.",
+            "Function": "resolveSibling(Path other)",
+            "Modifier and Type": "default Path"
+        },
+        {
+            "Comments": "Tests if this path starts with a Path, constructed by converting the given path string, in exactly the manner specified by the startsWith(Path) method.",
+            "Function": "startsWith(String other)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Tests if this path starts with the given path.",
+            "Function": "startsWith(Path other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a relative Path that is a subsequence of the name elements of this path.",
+            "Function": "subpath(int beginIndex, int endIndex)",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Returns a Path object representing the absolute path of this path.",
+            "Function": "toAbsolutePath()",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Returns a File object representing this path.",
+            "Function": "toFile()",
+            "Modifier and Type": "default File"
+        },
+        {
+            "Comments": "Returns the real path of an existing file.",
+            "Function": "toRealPath(LinkOption... options)",
+            "Modifier and Type": "Path"
+        },
+        {
+            "Comments": "Returns the string representation of this path.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a URI to represent this path.",
+            "Function": "toUri()",
+            "Modifier and Type": "URI"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Requires the output to use an alternate form.",
+            "Function": "ALTERNATE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Left-justifies the output.",
+            "Function": "LEFT_JUSTIFY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Converts the output to upper case according to the rules of the locale given during creation of the formatter argument of the formatTo() method.",
+            "Function": "UPPERCASE",
+            "Modifier and Type": "static int"
+        }
+    ]
+}

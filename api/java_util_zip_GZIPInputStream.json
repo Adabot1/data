@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "CRC-32 for uncompressed data.",
+            "Function": "crc",
+            "Modifier and Type": "protected CRC32"
+        },
+        {
+            "Comments": "Indicates end of input stream.",
+            "Function": "eos",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "GZIP header magic number.",
+            "Function": "GZIP_MAGIC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new input stream with a default buffer size.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new input stream with the specified buffer size.",
+            "Function": "read(byte[] buf,int off,int len)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

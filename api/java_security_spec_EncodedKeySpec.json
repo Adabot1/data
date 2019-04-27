@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new EncodedKeySpec with the given encoded key.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a new EncodedKeySpec with the given encoded key.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the name of the algorithm of the encoded key.",
+            "Function": "getFormat()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

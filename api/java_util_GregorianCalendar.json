@@ -1,0 +1,129 @@
+{
+    "API": [
+        {
+            "Comments": "Value of the ERA field indicating the common era (Anno Domini), also known as CE.",
+            "Function": "AD",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Value of the ERA field indicating the period before the common era (before Christ), also known as BCE.",
+            "Function": "BC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constructs a default GregorianCalendar using the current time in the default time zone with the default FORMAT locale.",
+            "Function": "add(int field, int amount)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a GregorianCalendar with the given date set in the default time zone with the default locale.",
+            "Function": "computeFields()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Constructs a GregorianCalendar with the given date and time set for the default time zone with the default locale.",
+            "Function": "computeTime()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Constructs a GregorianCalendar with the given date and time set for the default time zone with the default locale.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a GregorianCalendar based on the current time in the default time zone with the given locale.",
+            "Function": "from(ZonedDateTime zdt)",
+            "Modifier and Type": "static GregorianCalendar"
+        },
+        {
+            "Comments": "Constructs a GregorianCalendar based on the current time in the given time zone with the default FORMAT locale.",
+            "Function": "getActualMaximum(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a GregorianCalendar based on the current time in the given time zone with the given locale.",
+            "Function": "getActualMinimum(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Adds the specified (signed) amount of time to the given calendar field, based on the calendar's rules.",
+            "Function": "getCalendarType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts the time value (millisecond offset from the Epoch) to calendar field values.",
+            "Function": "getGreatestMinimum(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Converts calendar field values to the time value (millisecond offset from the Epoch).",
+            "Function": "getGregorianChange()",
+            "Modifier and Type": "Date"
+        },
+        {
+            "Comments": "Compares this GregorianCalendar to the specified Object.",
+            "Function": "getLeastMaximum(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Obtains an instance of GregorianCalendar with the default locale from a ZonedDateTime object.",
+            "Function": "getMaximum(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the maximum value that this calendar field could have, taking into consideration the given time value and the current values of the getFirstDayOfWeek, getMinimalDaysInFirstWeek, getGregorianChange and getTimeZone methods.",
+            "Function": "getMinimum(int field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the minimum value that this calendar field could have, taking into consideration the given time value and the current values of the getFirstDayOfWeek, getMinimalDaysInFirstWeek, getGregorianChange and getTimeZone methods.",
+            "Function": "getWeeksInWeekYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns \"gregory\" as the calendar type.",
+            "Function": "getWeekYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the highest minimum value for the given calendar field of this GregorianCalendar instance.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the Gregorian Calendar change date.",
+            "Function": "isLeapYear(int year)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the lowest maximum value for the given calendar field of this GregorianCalendar instance.",
+            "Function": "isWeekDateSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the maximum value for the given calendar field of this GregorianCalendar instance.",
+            "Function": "roll(int field,boolean up)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the minimum value for the given calendar field of this GregorianCalendar instance.",
+            "Function": "roll(int field,int amount)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the number of weeks in the week year represented by this GregorianCalendar.",
+            "Function": "setGregorianChange(Date date)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the week year represented by this GregorianCalendar.",
+            "Function": "setWeekDate(int weekYear, int weekOfYear, int dayOfWeek)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Generates the hash code for this GregorianCalendar object.",
+            "Function": "toZonedDateTime()",
+            "Modifier and Type": "ZonedDateTime"
+        }
+    ]
+}

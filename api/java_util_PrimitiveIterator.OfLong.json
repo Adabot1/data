@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+            "Function": "forEachRemaining(Consumer<? super Long> action)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+            "Function": "forEachRemaining(LongConsumer action)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Returns the next element in the iteration.",
+            "Function": "next()",
+            "Modifier and Type": "default Long"
+        },
+        {
+            "Comments": "Returns the next long element in the iteration.",
+            "Function": "nextLong()",
+            "Modifier and Type": "long"
+        }
+    ]
+}

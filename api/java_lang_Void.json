@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "The Class object representing the pseudo-type corresponding to the keyword void.",
+            "Function": "TYPE",
+            "Modifier and Type": "static Class<Void>"
+        }
+    ]
+}

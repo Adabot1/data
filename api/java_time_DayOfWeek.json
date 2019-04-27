@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "The singleton instance for the day-of-week of Friday.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "The singleton instance for the day-of-week of Monday.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static DayOfWeek"
+        },
+        {
+            "Comments": "The singleton instance for the day-of-week of Saturday.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The singleton instance for the day-of-week of Sunday.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "The singleton instance for the day-of-week of Thursday.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The singleton instance for the day-of-week of Tuesday.",
+            "Function": "getValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The singleton instance for the day-of-week of Wednesday.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Adjusts the specified temporal object to have this day-of-week.",
+            "Function": "minus(long days)",
+            "Modifier and Type": "DayOfWeek"
+        },
+        {
+            "Comments": "Obtains an instance of DayOfWeek from a temporal object.",
+            "Function": "of(int dayOfWeek)",
+            "Modifier and Type": "static DayOfWeek"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this day-of-week as an int.",
+            "Function": "plus(long days)",
+            "Modifier and Type": "DayOfWeek"
+        },
+        {
+            "Comments": "Gets the textual representation, such as 'Mon' or 'Friday'.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this day-of-week as a long.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Gets the day-of-week int value.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static DayOfWeek"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "values()",
+            "Modifier and Type": "static DayOfWeek[]"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Name object for Class-Path manifest attribute.",
+            "Function": "CLASS_PATH",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Content-Type manifest attribute.",
+            "Function": "CONTENT_TYPE",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Deprecated.Extension mechanism is no longer supported.",
+            "Function": "EXTENSION_INSTALLATION",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Extension-List manifest attribute used for the extension mechanism that is no longer supported.",
+            "Function": "EXTENSION_LIST",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Extension-Name manifest attribute.",
+            "Function": "EXTENSION_NAME",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Implementation-Title manifest attribute used for package versioning.",
+            "Function": "IMPLEMENTATION_TITLE",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Deprecated.Extension mechanism is no longer supported.",
+            "Function": "IMPLEMENTATION_URL",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Implementation-Vendor manifest attribute used for package versioning.",
+            "Function": "IMPLEMENTATION_VENDOR",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Deprecated.Extension mechanism is no longer supported.",
+            "Function": "IMPLEMENTATION_VENDOR_ID",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Implementation-Version manifest attribute used for package versioning.",
+            "Function": "IMPLEMENTATION_VERSION",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Main-Class manifest attribute used for launching applications packaged in JAR files.",
+            "Function": "MAIN_CLASS",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Manifest-Version manifest attribute.",
+            "Function": "MANIFEST_VERSION",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Multi-Release manifest attribute that indicates this is a multi-release JAR file.",
+            "Function": "MULTI_RELEASE",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Sealed manifest attribute used for sealing.",
+            "Function": "SEALED",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Signature-Version manifest attribute used when signing JAR files.",
+            "Function": "SIGNATURE_VERSION",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Specification-Title manifest attribute used for package versioning.",
+            "Function": "SPECIFICATION_TITLE",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Specification-Vendor manifest attribute used for package versioning.",
+            "Function": "SPECIFICATION_VENDOR",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Name object for Specification-Version manifest attribute used for package versioning.",
+            "Function": "SPECIFICATION_VERSION",
+            "Modifier and Type": "static Attributes.Name"
+        },
+        {
+            "Comments": "Constructs a new attribute name using the given string name.",
+            "Function": "equals(Object o)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this attribute name to another for equality.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Computes the hash value for this attribute name.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

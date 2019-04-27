@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a new service.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Return the name of the algorithm of this service.",
+            "Function": "getAttribute(String name)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Return the value of the specified attribute or null if this attribute is not set for this Service.",
+            "Function": "getClassName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Return the name of the class implementing this service.",
+            "Function": "getProvider()",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Return the Provider of this service.",
+            "Function": "getType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the type of this service.",
+            "Function": "newInstance(Object constructorParameter)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Return a new instance of the implementation described by this service.",
+            "Function": "supportsParameter(Object parameter)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Test whether this Service can use the specified parameter.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

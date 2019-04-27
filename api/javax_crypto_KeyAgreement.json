@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a KeyAgreement object.",
+            "Function": "doPhase(Key key, boolean lastPhase)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Executes the next phase of this key agreement with the given key that was received from one of the other parties involved in this key agreement.",
+            "Function": "generateSecret()",
+            "Modifier and Type": "Key"
+        },
+        {
+            "Comments": "Generates the shared secret and returns it in a new buffer.",
+            "Function": "generateSecret(byte[] sharedSecret,int offset)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Generates the shared secret, and places it into the buffer sharedSecret, beginning at offset inclusive.",
+            "Function": "generateSecret(String algorithm)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates the shared secret and returns it as a SecretKey object of the specified algorithm.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "SecretKey"
+        },
+        {
+            "Comments": "Returns the algorithm name of this KeyAgreement object.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a KeyAgreement object that implements the specified key agreement algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static KeyAgreement"
+        },
+        {
+            "Comments": "Returns a KeyAgreement object that implements the specified key agreement algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static KeyAgreement"
+        },
+        {
+            "Comments": "Returns a KeyAgreement object that implements the specified key agreement algorithm.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static KeyAgreement"
+        },
+        {
+            "Comments": "Returns the provider of this KeyAgreement object.",
+            "Function": "init(Key key)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initializes this key agreement with the given key, which is required to contain all the algorithm parameters required for this key agreement.",
+            "Function": "init(Key key,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this key agreement with the given key and source of randomness.",
+            "Function": "init(Key key,AlgorithmParameterSpec params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this key agreement with the given key and set of algorithm parameters.",
+            "Function": "init(Key key,AlgorithmParameterSpec params,SecureRandom random)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

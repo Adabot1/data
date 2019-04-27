@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "The type of a ProcessBuilder.Redirect.",
+            "Function": "ProcessBuilder.Redirect.Type",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Indicates that subprocess output will be discarded.",
+            "Function": "DISCARD",
+            "Modifier and Type": "static ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Indicates that subprocess I/O source or destination will be the same as those of the current process.",
+            "Function": "INHERIT",
+            "Modifier and Type": "static ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Indicates that subprocess I/O will be connected to the current Java process over a pipe.",
+            "Function": "PIPE",
+            "Modifier and Type": "static ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Returns a redirect to append to the specified file.",
+            "Function": "appendTo(File file)",
+            "Modifier and Type": "static ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Compares the specified object with this Redirect for equality.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the File source or destination associated with this redirect, or null if there is no such file.",
+            "Function": "file()",
+            "Modifier and Type": "File"
+        },
+        {
+            "Comments": "Returns a redirect to read from the specified file.",
+            "Function": "from(File file)",
+            "Modifier and Type": "static ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Returns a hash code value for this Redirect.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a redirect to write to the specified file.",
+            "Function": "to(File file)",
+            "Modifier and Type": "static ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Returns the type of this Redirect.",
+            "Function": "type()",
+            "Modifier and Type": "abstract ProcessBuilder.Redirect.Type"
+        }
+    ]
+}

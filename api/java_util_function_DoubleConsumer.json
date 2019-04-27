@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Performs this operation on the given argument.",
+            "Function": "accept(double value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a composed DoubleConsumer that performs, in sequence, this operation followed by the after operation.",
+            "Function": "andThen(DoubleConsumer after)",
+            "Modifier and Type": "default DoubleConsumer"
+        }
+    ]
+}

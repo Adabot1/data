@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Entity requesting authentication is a HTTP proxy server.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Authenticator.RequestorType"
+        },
+        {
+            "Comments": "Entity requesting authentication is a HTTP origin server.",
+            "Function": "values()",
+            "Modifier and Type": "static Authenticator.RequestorType[]"
+        }
+    ]
+}

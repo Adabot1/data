@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Follow symbolic links.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static FileVisitOption"
+        },
+        {
+            "Comments": "Returns the enum constant of this type with the specified name.",
+            "Function": "values()",
+            "Modifier and Type": "static FileVisitOption[]"
+        }
+    ]
+}

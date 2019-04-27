@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an iterator over the children of this node.",
+            "Function": "getChildren()",
+            "Modifier and Type": "Iterator<? extends PolicyNode>"
+        },
+        {
+            "Comments": "Returns the depth of this node in the valid policy tree.",
+            "Function": "getDepth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the set of expected policies that would satisfy this node's valid policy in the next certificate to be processed.",
+            "Function": "getExpectedPolicies()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns the parent of this node, or null if this is the root node.",
+            "Function": "getParent()",
+            "Modifier and Type": "PolicyNode"
+        },
+        {
+            "Comments": "Returns the set of policy qualifiers associated with the valid policy represented by this node.",
+            "Function": "getPolicyQualifiers()",
+            "Modifier and Type": "Set<? extends PolicyQualifierInfo>"
+        },
+        {
+            "Comments": "Returns the valid policy represented by this node.",
+            "Function": "getValidPolicy()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the criticality indicator of the certificate policy extension in the most recently processed certificate.",
+            "Function": "isCritical()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

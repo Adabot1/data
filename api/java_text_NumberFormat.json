@@ -1,0 +1,209 @@
+{
+    "API": [
+        {
+            "Comments": "Defines constants that are used as attribute keys in the AttributedCharacterIterator returned from NumberFormat.formatToCharacterIterator and as field identifiers in FieldPosition.",
+            "Function": "NumberFormat.Field",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Field constant used to construct a FieldPosition object.",
+            "Function": "FRACTION_FIELD",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Field constant used to construct a FieldPosition object.",
+            "Function": "INTEGER_FIELD",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Sole constructor.",
+            "Function": "clone()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Overrides Cloneable.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Overrides equals.",
+            "Function": "format(double number)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Specialization of format.",
+            "Function": "format(double number,StringBuffer toAppendTo,FieldPosition pos)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Specialization of format.",
+            "Function": "format(long number)",
+            "Modifier and Type": "abstract StringBuffer"
+        },
+        {
+            "Comments": "Specialization of format.",
+            "Function": "format(long number,StringBuffer toAppendTo,FieldPosition pos)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Specialization of format.",
+            "Function": "format(Object number,StringBuffer toAppendTo,FieldPosition pos)",
+            "Modifier and Type": "abstract StringBuffer"
+        },
+        {
+            "Comments": "Formats a number and appends the resulting text to the given string buffer.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Returns an array of all locales for which the get*Instance methods of this class can return localized instances.",
+            "Function": "getCurrency()",
+            "Modifier and Type": "static Locale[]"
+        },
+        {
+            "Comments": "Gets the currency used by this number format when formatting currency values.",
+            "Function": "getCurrencyInstance()",
+            "Modifier and Type": "Currency"
+        },
+        {
+            "Comments": "Returns a currency format for the current default FORMAT locale.",
+            "Function": "getCurrencyInstance(Locale inLocale)",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns a currency format for the specified locale.",
+            "Function": "getInstance()",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns a general-purpose number format for the current default FORMAT locale.",
+            "Function": "getInstance(Locale inLocale)",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns a general-purpose number format for the specified locale.",
+            "Function": "getIntegerInstance()",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns an integer number format for the current default FORMAT locale.",
+            "Function": "getIntegerInstance(Locale inLocale)",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns an integer number format for the specified locale.",
+            "Function": "getMaximumFractionDigits()",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns the maximum number of digits allowed in the fraction portion of a number.",
+            "Function": "getMaximumIntegerDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the maximum number of digits allowed in the integer portion of a number.",
+            "Function": "getMinimumFractionDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the minimum number of digits allowed in the fraction portion of a number.",
+            "Function": "getMinimumIntegerDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the minimum number of digits allowed in the integer portion of a number.",
+            "Function": "getNumberInstance()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a general-purpose number format for the current default FORMAT locale.",
+            "Function": "getNumberInstance(Locale inLocale)",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns a general-purpose number format for the specified locale.",
+            "Function": "getPercentInstance()",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns a percentage format for the current default FORMAT locale.",
+            "Function": "getPercentInstance(Locale inLocale)",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Returns a percentage format for the specified locale.",
+            "Function": "getRoundingMode()",
+            "Modifier and Type": "static NumberFormat"
+        },
+        {
+            "Comments": "Gets the RoundingMode used in this NumberFormat.",
+            "Function": "hashCode()",
+            "Modifier and Type": "RoundingMode"
+        },
+        {
+            "Comments": "Overrides hashCode.",
+            "Function": "isGroupingUsed()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if grouping is used in this format.",
+            "Function": "isParseIntegerOnly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this format will parse numbers as integers only.",
+            "Function": "parse(String source)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Parses text from the beginning of the given string to produce a number.",
+            "Function": "parse(String source, ParsePosition parsePosition)",
+            "Modifier and Type": "Number"
+        },
+        {
+            "Comments": "Returns a Long if possible (e.g., within the range [Long.MIN_VALUE, Long.MAX_VALUE] and with no decimals), otherwise a Double.",
+            "Function": "parseObject(String source, ParsePosition pos)",
+            "Modifier and Type": "abstract Number"
+        },
+        {
+            "Comments": "Parses text from a string to produce a Number.",
+            "Function": "setCurrency(Currency currency)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Sets the currency used by this number format when formatting currency values.",
+            "Function": "setGroupingUsed(boolean newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set whether or not grouping will be used in this format.",
+            "Function": "setMaximumFractionDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum number of digits allowed in the fraction portion of a number. maximumFractionDigits must be ≥ minimumFractionDigits.",
+            "Function": "setMaximumIntegerDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum number of digits allowed in the integer portion of a number. maximumIntegerDigits must be ≥ minimumIntegerDigits.",
+            "Function": "setMinimumFractionDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the minimum number of digits allowed in the fraction portion of a number. minimumFractionDigits must be ≤ maximumFractionDigits.",
+            "Function": "setMinimumIntegerDigits(int newValue)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the minimum number of digits allowed in the integer portion of a number. minimumIntegerDigits must be ≤ maximumIntegerDigits.",
+            "Function": "setParseIntegerOnly(boolean value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets whether or not numbers should be parsed as integers only.",
+            "Function": "setRoundingMode(RoundingMode roundingMode)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

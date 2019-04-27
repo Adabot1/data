@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an SNIHostName using the specified encoded value.",
+            "Function": "createSNIMatcher(String regex)",
+            "Modifier and Type": "static SNIMatcher"
+        },
+        {
+            "Comments": "Creates an SNIHostName using the specified hostname.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates an SNIMatcher object for SNIHostNames.",
+            "Function": "getAsciiName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compares this server name to the specified object.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the StandardCharsets.US_ASCII-compliant hostname of this SNIHostName object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

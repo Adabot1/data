@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "Checks if this set of rules equals another.",
+            "Function": "equals(Object otherRules)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the amount of daylight savings in use for the specified instant in this zone.",
+            "Function": "getDaylightSavings(Instant instant)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Gets the offset applicable at the specified instant in these rules.",
+            "Function": "getOffset(Instant instant)",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets a suitable offset for the specified local date-time in these rules.",
+            "Function": "getOffset(LocalDateTime localDateTime)",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the standard offset for the specified instant in this zone.",
+            "Function": "getStandardOffset(Instant instant)",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the offset transition applicable at the specified local date-time in these rules.",
+            "Function": "getTransition(LocalDateTime localDateTime)",
+            "Modifier and Type": "ZoneOffsetTransition"
+        },
+        {
+            "Comments": "Gets the list of transition rules for years beyond those defined in the transition list.",
+            "Function": "getTransitionRules()",
+            "Modifier and Type": "List<ZoneOffsetTransitionRule>"
+        },
+        {
+            "Comments": "Gets the complete list of fully defined transitions.",
+            "Function": "getTransitions()",
+            "Modifier and Type": "List<ZoneOffsetTransition>"
+        },
+        {
+            "Comments": "Gets the offset applicable at the specified local date-time in these rules.",
+            "Function": "getValidOffsets(LocalDateTime localDateTime)",
+            "Modifier and Type": "List<ZoneOffset>"
+        },
+        {
+            "Comments": "Returns a suitable hash code given the definition of #equals.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if the specified instant is in daylight savings.",
+            "Function": "isDaylightSavings(Instant instant)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks of the zone rules are fixed, such that the offset never varies.",
+            "Function": "isFixedOffset()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the offset date-time is valid for these rules.",
+            "Function": "isValidOffset(LocalDateTime localDateTime, ZoneOffset offset)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the next transition after the specified instant.",
+            "Function": "nextTransition(Instant instant)",
+            "Modifier and Type": "ZoneOffsetTransition"
+        },
+        {
+            "Comments": "Obtains an instance of ZoneRules that has fixed zone rules.",
+            "Function": "of(ZoneOffset offset)",
+            "Modifier and Type": "static ZoneRules"
+        },
+        {
+            "Comments": "Obtains an instance of a ZoneRules.",
+            "Function": "of(ZoneOffset baseStandardOffset,ZoneOffset baseWallOffset,List<ZoneOffsetTransition> standardOffsetTransitionList,List<ZoneOffsetTransition> transitionList,List<ZoneOffsetTransitionRule> lastRules)",
+            "Modifier and Type": "static ZoneRules"
+        },
+        {
+            "Comments": "Gets the previous transition before the specified instant.",
+            "Function": "previousTransition(Instant instant)",
+            "Modifier and Type": "ZoneOffsetTransition"
+        },
+        {
+            "Comments": "Returns a string describing this object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

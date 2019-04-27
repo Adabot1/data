@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "This represents a marker interface for Configuration parameters.",
+            "Function": "Configuration.Parameters",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getAppConfigurationEntry(String name)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Retrieve the AppConfigurationEntries for the specified name from this Configuration.",
+            "Function": "getConfiguration()",
+            "Modifier and Type": "abstract AppConfigurationEntry[]"
+        },
+        {
+            "Comments": "Get the installed login Configuration.",
+            "Function": "getInstance(String type, Configuration.Parameters params)",
+            "Modifier and Type": "static Configuration"
+        },
+        {
+            "Comments": "Returns a Configuration object of the specified type.",
+            "Function": "getInstance(String type, Configuration.Parameters params, String provider)",
+            "Modifier and Type": "static Configuration"
+        },
+        {
+            "Comments": "Returns a Configuration object of the specified type.",
+            "Function": "getInstance(String type, Configuration.Parameters params, Provider provider)",
+            "Modifier and Type": "static Configuration"
+        },
+        {
+            "Comments": "Returns a Configuration object of the specified type.",
+            "Function": "getParameters()",
+            "Modifier and Type": "static Configuration"
+        },
+        {
+            "Comments": "Return Configuration parameters.",
+            "Function": "getProvider()",
+            "Modifier and Type": "Configuration.Parameters"
+        },
+        {
+            "Comments": "Return the Provider of this Configuration.",
+            "Function": "getType()",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Return the type of this Configuration.",
+            "Function": "refresh()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Refresh and reload the Configuration.",
+            "Function": "setConfiguration(Configuration configuration)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

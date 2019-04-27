@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Full text style, with the most detail.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static FormatStyle"
+        },
+        {
+            "Comments": "Long text style, with lots of detail.",
+            "Function": "values()",
+            "Modifier and Type": "static FormatStyle[]"
+        }
+    ]
+}

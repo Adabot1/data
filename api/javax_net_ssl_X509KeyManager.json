@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Choose an alias to authenticate the client side of a secure socket given the public key type and the list of certificate issuer authorities recognized by the peer (if any).",
+            "Function": "chooseClientAlias(String[] keyType, Principal[] issuers, Socket socket)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Choose an alias to authenticate the server side of a secure socket given the public key type and the list of certificate issuer authorities recognized by the peer (if any).",
+            "Function": "chooseServerAlias(String keyType, Principal[] issuers, Socket socket)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the certificate chain associated with the given alias.",
+            "Function": "getCertificateChain(String alias)",
+            "Modifier and Type": "X509Certificate[]"
+        },
+        {
+            "Comments": "Get the matching aliases for authenticating the client side of a secure socket given the public key type and the list of certificate issuer authorities recognized by the peer (if any).",
+            "Function": "getClientAliases(String keyType,Principal[] issuers)",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Returns the key associated with the given alias.",
+            "Function": "getPrivateKey(String alias)",
+            "Modifier and Type": "PrivateKey"
+        },
+        {
+            "Comments": "Get the matching aliases for authenticating the server side of a secure socket given the public key type and the list of certificate issuer authorities recognized by the peer (if any).",
+            "Function": "getServerAliases(String keyType,Principal[] issuers)",
+            "Modifier and Type": "String[]"
+        }
+    ]
+}

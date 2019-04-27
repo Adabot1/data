@@ -1,0 +1,124 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new thread group.",
+            "Function": "activeCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new thread group.",
+            "Function": "activeGroupCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an estimate of the number of active threads in this thread group and its subgroups.",
+            "Function": "allowThreadSuspension(boolean b)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an estimate of the number of active groups in this thread group and its subgroups.",
+            "Function": "checkAccess()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.The definition of this call depends on suspend(),             which is deprecated.",
+            "Function": "destroy()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Determines if the currently running thread has permission to modify this thread group.",
+            "Function": "enumerate(Thread[] list)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Destroys this thread group and all of its subgroups.",
+            "Function": "enumerate(Thread[] list, boolean recurse)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Copies into the specified array every active thread in this thread group and its subgroups.",
+            "Function": "enumerate(ThreadGroup[] list)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Copies into the specified array every active thread in this thread group.",
+            "Function": "enumerate(ThreadGroup[] list, boolean recurse)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Copies into the specified array references to every active subgroup in this thread group and its subgroups.",
+            "Function": "getMaxPriority()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Copies into the specified array references to every active subgroup in this thread group.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the maximum priority of this thread group.",
+            "Function": "getParent()",
+            "Modifier and Type": "ThreadGroup"
+        },
+        {
+            "Comments": "Returns the name of this thread group.",
+            "Function": "interrupt()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the parent of this thread group.",
+            "Function": "isDaemon()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Interrupts all threads in this thread group.",
+            "Function": "isDestroyed()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tests if this thread group is a daemon thread group.",
+            "Function": "list()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if this thread group has been destroyed.",
+            "Function": "parentOf(ThreadGroup g)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Prints information about this thread group to the standard output.",
+            "Function": "resume()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if this thread group is either the thread group argument or one of its ancestor thread groups.",
+            "Function": "setDaemon(boolean daemon)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.This method is used solely in conjunction with       Thread.suspend and ThreadGroup.suspend,       both of which have been deprecated, as they are inherently       deadlock-prone.",
+            "Function": "setMaxPriority(int pri)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Changes the daemon status of this thread group.",
+            "Function": "stop()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum priority of the group.",
+            "Function": "suspend()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.This method is inherently unsafe.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated.This method is inherently deadlock-prone.",
+            "Function": "uncaughtException(Thread t, Throwable e)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

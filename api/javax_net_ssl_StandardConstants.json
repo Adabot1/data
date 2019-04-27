@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "The \"host_name\" type representing of a DNS hostname (see SNIHostName) in a Server Name Indication (SNI) extension.",
+            "Function": "SNI_HOST_NAME",
+            "Modifier and Type": "static int"
+        }
+    ]
+}

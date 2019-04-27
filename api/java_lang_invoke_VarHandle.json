@@ -1,0 +1,214 @@
+{
+    "API": [
+        {
+            "Comments": "The set of access modes that specify how a variable, referenced by a VarHandle, is accessed.",
+            "Function": "VarHandle.AccessMode",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Obtains the access mode type for this VarHandle and a given access mode.",
+            "Function": "accessModeType(VarHandle.AccessMode accessMode)",
+            "Modifier and Type": "MethodType"
+        },
+        {
+            "Comments": "Ensures that loads before the fence will not be reordered with loads and stores after the fence.",
+            "Function": "acquireFence()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the newValue with the memory semantics of setVolatile(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "compareAndExchange(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the newValue with the memory semantics of set(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of getAcquire(java.lang.Object...).",
+            "Function": "compareAndExchangeAcquire(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the newValue with the memory semantics of setRelease(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "compareAndExchangeRelease(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the newValue with the memory semantics of setVolatile(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "compareAndSet(Object... args)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the coordinate types for this VarHandle.",
+            "Function": "coordinateTypes()",
+            "Modifier and Type": "List<Class<?>>"
+        },
+        {
+            "Comments": "Ensures that loads and stores before the fence will not be reordered with loads and stores after the fence.",
+            "Function": "fullFence()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns the value of a variable, with memory semantics of reading as if the variable was declared non-volatile.",
+            "Function": "get(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the value of a variable, and ensures that subsequent loads and stores are not reordered before this access.",
+            "Function": "getAcquire(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically adds the value to the current value of a variable with the memory semantics of setVolatile(java.lang.Object...), and returns the variable's previous value, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "getAndAdd(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically adds the value to the current value of a variable with the memory semantics of set(java.lang.Object...), and returns the variable's previous value, as accessed with the memory semantics of getAcquire(java.lang.Object...).",
+            "Function": "getAndAddAcquire(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically adds the value to the current value of a variable with the memory semantics of setRelease(java.lang.Object...), and returns the variable's previous value, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "getAndAddRelease(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise AND between the variable's current value and the mask with the memory semantics of setVolatile(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "getAndBitwiseAnd(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise AND between the variable's current value and the mask with the memory semantics of set(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getAcquire(java.lang.Object...).",
+            "Function": "getAndBitwiseAndAcquire(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise AND between the variable's current value and the mask with the memory semantics of setRelease(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "getAndBitwiseAndRelease(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise OR between the variable's current value and the mask with the memory semantics of setVolatile(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "getAndBitwiseOr(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise OR between the variable's current value and the mask with the memory semantics of set(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getAcquire(java.lang.Object...).",
+            "Function": "getAndBitwiseOrAcquire(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise OR between the variable's current value and the mask with the memory semantics of setRelease(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "getAndBitwiseOrRelease(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise XOR between the variable's current value and the mask with the memory semantics of setVolatile(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "getAndBitwiseXor(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise XOR between the variable's current value and the mask with the memory semantics of set(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getAcquire(java.lang.Object...).",
+            "Function": "getAndBitwiseXorAcquire(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the result of bitwise XOR between the variable's current value and the mask with the memory semantics of setRelease(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "getAndBitwiseXorRelease(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the newValue with the memory semantics of setVolatile(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "getAndSet(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the newValue with the memory semantics of set(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of getAcquire(java.lang.Object...).",
+            "Function": "getAndSetAcquire(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Atomically sets the value of a variable to the newValue with the memory semantics of setRelease(java.lang.Object...) and returns the variable's previous value, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "getAndSetRelease(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the value of a variable, accessed in program order, but with no assurance of memory ordering effects with respect to other threads.",
+            "Function": "getOpaque(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the value of a variable, with memory semantics of reading as if the variable was declared volatile.",
+            "Function": "getVolatile(Object... args)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns true if the given access mode is supported, otherwise false.",
+            "Function": "isAccessModeSupported(VarHandle.AccessMode accessMode)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Ensures that loads before the fence will not be reordered with loads after the fence.",
+            "Function": "loadLoadFence()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Ensures that loads and stores before the fence will not be reordered with stores after the fence.",
+            "Function": "releaseFence()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of a variable to the newValue, with memory semantics of setting as if the variable was declared non-volatile and non-final.",
+            "Function": "set(Object... args)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a variable to the newValue, in program order, but with no assurance of memory ordering effects with respect to other threads.",
+            "Function": "setOpaque(Object... args)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a variable to the newValue, and ensures that prior loads and stores are not reordered after this access.",
+            "Function": "setRelease(Object... args)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a variable to the newValue, with memory semantics of setting as if the variable was declared volatile.",
+            "Function": "setVolatile(Object... args)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Ensures that stores before the fence will not be reordered with stores after the fence.",
+            "Function": "storeStoreFence()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Obtains a method handle bound to this VarHandle and the given access mode.",
+            "Function": "toMethodHandle(VarHandle.AccessMode accessMode)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Returns the variable type of variables referenced by this VarHandle.",
+            "Function": "varType()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Possibly atomically sets the value of a variable to the newValue with the memory semantics of setVolatile(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of getVolatile(java.lang.Object...).",
+            "Function": "weakCompareAndSet(Object... args)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Possibly atomically sets the value of a variable to the newValue with the semantics of set(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of getAcquire(java.lang.Object...).",
+            "Function": "weakCompareAndSetAcquire(Object... args)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Possibly atomically sets the value of a variable to the newValue with the semantics of set(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "weakCompareAndSetPlain(Object... args)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Possibly atomically sets the value of a variable to the newValue with the semantics of setRelease(java.lang.Object...) if the variable's current value, referred to as the witness value, == the expectedValue, as accessed with the memory semantics of get(java.lang.Object...).",
+            "Function": "weakCompareAndSetRelease(Object... args)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

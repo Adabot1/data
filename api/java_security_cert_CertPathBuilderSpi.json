@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The default constructor.",
+            "Function": "engineBuild(CertPathParameters params)",
+            "Modifier and Type": "abstract CertPathBuilderResult"
+        },
+        {
+            "Comments": "Attempts to build a certification path using the specified algorithm parameter set.",
+            "Function": "engineGetRevocationChecker()",
+            "Modifier and Type": "CertPathChecker"
+        }
+    ]
+}

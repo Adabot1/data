@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "RuleBasedCollator constructor.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Standard override; no change in semantics.",
+            "Function": "compare(String source, String target)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares the character data stored in two different strings based on the collation rules.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares the equality of two collation objects.",
+            "Function": "getCollationElementIterator(String source)",
+            "Modifier and Type": "CollationElementIterator"
+        },
+        {
+            "Comments": "Returns a CollationElementIterator for the given String.",
+            "Function": "getCollationElementIterator(CharacterIterator source)",
+            "Modifier and Type": "CollationElementIterator"
+        },
+        {
+            "Comments": "Returns a CollationElementIterator for the given CharacterIterator.",
+            "Function": "getCollationKey(String source)",
+            "Modifier and Type": "CollationKey"
+        },
+        {
+            "Comments": "Transforms the string into a series of characters that can be compared with CollationKey.compareTo.",
+            "Function": "getRules()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the table-based rules for the collation object.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

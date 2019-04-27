@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "The type of the entity requesting authentication.",
+            "Function": "Authenticator.RequestorType",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Gets the default authenticator.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static Authenticator"
+        },
+        {
+            "Comments": "Called when password authorization is needed.",
+            "Function": "getPasswordAuthentication()",
+            "Modifier and Type": "protected PasswordAuthentication"
+        },
+        {
+            "Comments": "Gets the hostname of the site or proxy requesting authentication, or null if not available.",
+            "Function": "getRequestingHost()",
+            "Modifier and Type": "protected String"
+        },
+        {
+            "Comments": "Gets the port number for the requested connection.",
+            "Function": "getRequestingPort()",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Gets the prompt string given by the requestor.",
+            "Function": "getRequestingPrompt()",
+            "Modifier and Type": "protected String"
+        },
+        {
+            "Comments": "Give the protocol that's requesting the connection.",
+            "Function": "getRequestingProtocol()",
+            "Modifier and Type": "protected String"
+        },
+        {
+            "Comments": "Gets the scheme of the requestor (the HTTP scheme for an HTTP firewall, for example).",
+            "Function": "getRequestingScheme()",
+            "Modifier and Type": "protected String"
+        },
+        {
+            "Comments": "Gets the InetAddress of the site requesting authorization, or null if not available.",
+            "Function": "getRequestingSite()",
+            "Modifier and Type": "protected InetAddress"
+        },
+        {
+            "Comments": "Returns the URL that resulted in this request for authentication.",
+            "Function": "getRequestingURL()",
+            "Modifier and Type": "protected URL"
+        },
+        {
+            "Comments": "Returns whether the requestor is a Proxy or a Server.",
+            "Function": "getRequestorType()",
+            "Modifier and Type": "protected Authenticator.RequestorType"
+        },
+        {
+            "Comments": "Ask the authenticator that has been registered with the system for a password.",
+            "Function": "requestPasswordAuthentication(String host, InetAddress addr, int port, String protocol, String prompt, String scheme)",
+            "Modifier and Type": "static PasswordAuthentication"
+        },
+        {
+            "Comments": "Ask the authenticator that has been registered with the system for a password.",
+            "Function": "requestPasswordAuthentication(String host, InetAddress addr, int port, String protocol, String prompt, String scheme, URL url, Authenticator.RequestorType reqType)",
+            "Modifier and Type": "static PasswordAuthentication"
+        },
+        {
+            "Comments": "Ask the given authenticator for a password.",
+            "Function": "requestPasswordAuthentication(Authenticator authenticator, String host, InetAddress addr, int port, String protocol, String prompt, String scheme, URL url, Authenticator.RequestorType reqType)",
+            "Modifier and Type": "static PasswordAuthentication"
+        },
+        {
+            "Comments": "Ask the authenticator that has been registered with the system for a password.",
+            "Function": "requestPasswordAuthentication(InetAddress addr, int port, String protocol, String prompt, String scheme)",
+            "Modifier and Type": "static PasswordAuthentication"
+        },
+        {
+            "Comments": "Ask this authenticator for a password.",
+            "Function": "requestPasswordAuthenticationInstance(String host, InetAddress addr, int port, String protocol, String prompt, String scheme, URL url, Authenticator.RequestorType reqType)",
+            "Modifier and Type": "PasswordAuthentication"
+        },
+        {
+            "Comments": "Sets the authenticator that will be used by the networking code when a proxy or an HTTP server asks for authentication.",
+            "Function": "setDefault(Authenticator a)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "API": [
+        {
+            "Comments": "The number of bytes used to represent a long value in two's complement binary form.",
+            "Function": "BYTES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A constant holding the maximum value a long can have, 263-1.",
+            "Function": "MAX_VALUE",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "A constant holding the minimum value a long can have, -263.",
+            "Function": "MIN_VALUE",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "The number of bits used to represent a long value in two's complement binary form.",
+            "Function": "SIZE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The Class instance representing the primitive type long.",
+            "Function": "TYPE",
+            "Modifier and Type": "static Class<Long>"
+        },
+        {
+            "Comments": "Deprecated.It is rarely appropriate to use this constructor.",
+            "Function": "bitCount(long i)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Deprecated.It is rarely appropriate to use this constructor.",
+            "Function": "byteValue()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Returns the number of one-bits in the two's complement binary representation of the specified long value.",
+            "Function": "compare(long x, long y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the value of this Long as a byte after a narrowing primitive conversion.",
+            "Function": "compareTo(Long anotherLong)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares two long values numerically.",
+            "Function": "compareUnsigned(long x, long y)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compares two Long objects numerically.",
+            "Function": "decode(String nm)",
+            "Modifier and Type": "static Long"
+        },
+        {
+            "Comments": "Compares two long values numerically treating the values as unsigned.",
+            "Function": "divideUnsigned(long dividend,long divisor)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Decodes a String into a Long.",
+            "Function": "doubleValue()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the unsigned quotient of dividing the first argument by the second where each argument and the result is interpreted as an unsigned value.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of this Long as a double after a widening primitive conversion.",
+            "Function": "floatValue()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Compares this object to the specified object.",
+            "Function": "getLong(String nm)",
+            "Modifier and Type": "static Long"
+        },
+        {
+            "Comments": "Returns the value of this Long as a float after a widening primitive conversion.",
+            "Function": "getLong(String nm, long val)",
+            "Modifier and Type": "static Long"
+        },
+        {
+            "Comments": "Determines the long value of the system property with the specified name.",
+            "Function": "getLong(String nm, Long val)",
+            "Modifier and Type": "static Long"
+        },
+        {
+            "Comments": "Determines the long value of the system property with the specified name.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the long value of the system property with the specified name.",
+            "Function": "hashCode(long value)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns a hash code for this Long.",
+            "Function": "highestOneBit(long i)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns a hash code for a long value; compatible with Long.hashCode().",
+            "Function": "intValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a long value with at most a single one-bit, in the position of the highest-order (\"leftmost\") one-bit in the specified long value.",
+            "Function": "longValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the value of this Long as an int after a narrowing primitive conversion.",
+            "Function": "lowestOneBit(long i)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the value of this Long as a long value.",
+            "Function": "max(long a, long b)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns a long value with at most a single one-bit, in the position of the lowest-order (\"rightmost\") one-bit in the specified long value.",
+            "Function": "min(long a, long b)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the greater of two long values as if by calling Math.max.",
+            "Function": "numberOfLeadingZeros(long i)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the smaller of two long values as if by calling Math.min.",
+            "Function": "numberOfTrailingZeros(long i)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the number of zero bits preceding the highest-order (\"leftmost\") one-bit in the two's complement binary representation of the specified long value.",
+            "Function": "parseLong(CharSequence s, int beginIndex, int endIndex, int radix)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the number of zero bits following the lowest-order (\"rightmost\") one-bit in the two's complement binary representation of the specified long value.",
+            "Function": "parseLong(String s)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Parses the CharSequence argument as a signed long in the specified radix, beginning at the specified beginIndex and extending to endIndex - 1.",
+            "Function": "parseLong(String s, int radix)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Parses the string argument as a signed decimal long.",
+            "Function": "parseUnsignedLong(CharSequence s, int beginIndex, int endIndex, int radix)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Parses the string argument as a signed long in the radix specified by the second argument.",
+            "Function": "parseUnsignedLong(String s)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Parses the CharSequence argument as an unsigned long in the specified radix, beginning at the specified beginIndex and extending to endIndex - 1.",
+            "Function": "parseUnsignedLong(String s, int radix)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Parses the string argument as an unsigned decimal long.",
+            "Function": "remainderUnsigned(long dividend, long divisor)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Parses the string argument as an unsigned long in the radix specified by the second argument.",
+            "Function": "reverse(long i)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the unsigned remainder from dividing the first argument by the second where each argument and the result is interpreted as an unsigned value.",
+            "Function": "reverseBytes(long i)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the value obtained by reversing the order of the bits in the two's complement binary representation of the specified long value.",
+            "Function": "rotateLeft(long i,int distance)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the value obtained by reversing the order of the bytes in the two's complement representation of the specified long value.",
+            "Function": "rotateRight(long i, int distance)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the value obtained by rotating the two's complement binary representation of the specified long value left by the specified number of bits.",
+            "Function": "shortValue()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Returns the value obtained by rotating the two's complement binary representation of the specified long value right by the specified number of bits.",
+            "Function": "signum(long i)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the value of this Long as a short after a narrowing primitive conversion.",
+            "Function": "sum(long a, long b)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the signum function of the specified long value.",
+            "Function": "toBinaryString(long i)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Adds two long values together as per the + operator.",
+            "Function": "toHexString(long i)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a string representation of the long argument as an unsigned integer in base 2.",
+            "Function": "toOctalString(long i)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a string representation of the long argument as an unsigned integer in base 16.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string representation of the long argument as an unsigned integer in base 8.",
+            "Function": "toString(long i)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a String object representing this Long's value.",
+            "Function": "toString(long i,int radix)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a String object representing the specified long.",
+            "Function": "toUnsignedString(long i)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a string representation of the first argument in the radix specified by the second argument.",
+            "Function": "toUnsignedString(long i,int radix)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a string representation of the argument as an unsigned decimal value.",
+            "Function": "valueOf(long l)",
+            "Modifier and Type": "static Long"
+        },
+        {
+            "Comments": "Returns a string representation of the first argument as an unsigned integer value in the radix specified by the second argument.",
+            "Function": "valueOf(String s)",
+            "Modifier and Type": "static Long"
+        },
+        {
+            "Comments": "Returns a Long instance representing the specified long value.",
+            "Function": "valueOf(String s, int radix)",
+            "Modifier and Type": "static Long"
+        }
+    ]
+}

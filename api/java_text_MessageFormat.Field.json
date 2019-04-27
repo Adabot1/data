@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constant identifying a portion of a message that was generated from an argument passed into formatToCharacterIterator.",
+            "Function": "ARGUMENT",
+            "Modifier and Type": "static MessageFormat.Field"
+        },
+        {
+            "Comments": "Creates a Field with the specified name.",
+            "Function": "readResolve()",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Performs the given action for each remaining element, sequentially in the current thread, until all elements have been processed or the action throws an exception.",
+            "Function": "forEachRemaining(Consumer<? super Long> action)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "If a remaining element exists, performs the given action on it, returning true; else returns false.",
+            "Function": "tryAdvance(Consumer<? super Long> action)",
+            "Modifier and Type": "default boolean"
+        }
+    ]
+}

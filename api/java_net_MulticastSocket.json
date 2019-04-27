@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Create a multicast socket.",
+            "Function": "getInterface()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Create a multicast socket and bind it to a specific port.",
+            "Function": "getLoopbackMode()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Create a MulticastSocket bound to the specified socket address.",
+            "Function": "getNetworkInterface()",
+            "Modifier and Type": "NetworkInterface"
+        },
+        {
+            "Comments": "Retrieve the address of the network interface used for multicast packets.",
+            "Function": "getTimeToLive()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the setting for local loopback of multicast datagrams.",
+            "Function": "getTTL()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Get the multicast network interface set.",
+            "Function": "joinGroup(InetAddress mcastaddr)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Get the default time-to-live for multicast packets sent out on the socket.",
+            "Function": "joinGroup(SocketAddress mcastaddr, NetworkInterface netIf)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.use the getTimeToLive method instead, which returns an int instead of a byte.",
+            "Function": "leaveGroup(InetAddress mcastaddr)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Joins a multicast group.",
+            "Function": "leaveGroup(SocketAddress mcastaddr,NetworkInterface netIf)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Joins the specified multicast group at the specified interface.",
+            "Function": "send(DatagramPacket p,byte ttl)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Leave a multicast group.",
+            "Function": "setInterface(InetAddress inf)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Leave a multicast group on a specified local interface.",
+            "Function": "setLoopbackMode(boolean disable)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.Use the following code or its equivalent instead:  ......",
+            "Function": "setNetworkInterface(NetworkInterface netIf)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the multicast network interface used by methods whose behavior would be affected by the value of the network interface.",
+            "Function": "setTimeToLive(int ttl)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Disable/Enable local loopback of multicast datagrams The option is used by the platform's networking code as a hint for setting whether multicast data will be looped back to the local socket.",
+            "Function": "setTTL(byte ttl)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new Permissions object containing no PermissionCollections.",
+            "Function": "add(Permission permission)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a permission object to the PermissionCollection for the class the permission belongs to.",
+            "Function": "elements()",
+            "Modifier and Type": "Enumeration<Permission>"
+        },
+        {
+            "Comments": "Returns an enumeration of all the Permission objects in all the PermissionCollections in this Permissions object.",
+            "Function": "implies(Permission permission)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

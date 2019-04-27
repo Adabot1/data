@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Returns one trust manager for each type of trust material.",
+            "Function": "engineGetTrustManagers()",
+            "Modifier and Type": "protected abstract TrustManager[]"
+        },
+        {
+            "Comments": "Initializes this factory with a source of certificate authorities and related trust material.",
+            "Function": "engineInit(KeyStore ks)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this factory with a source of provider-specific key material.",
+            "Function": "engineInit(ManagerFactoryParameters spec)",
+            "Modifier and Type": "protected abstract void"
+        }
+    ]
+}

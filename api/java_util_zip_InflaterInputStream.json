@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Input buffer for decompression.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "Decompressor for this stream.",
+            "Function": "inf",
+            "Modifier and Type": "protected Inflater"
+        },
+        {
+            "Comments": "Length of input buffer.",
+            "Function": "len",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a new input stream with a default decompressor and buffer size.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new input stream with the specified decompressor and a default buffer size.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new input stream with the specified decompressor and buffer size.",
+            "Function": "fill()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Returns 0 after EOF has been reached, otherwise always return 1.",
+            "Function": "mark(int readlimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes this input stream and releases any system resources associated with the stream.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Fills input buffer with more data to decompress.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Marks the current position in this input stream.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if this input stream supports the mark and reset methods.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads a byte of uncompressed data.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

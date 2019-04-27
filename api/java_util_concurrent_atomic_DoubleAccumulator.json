@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new instance using the given accumulator function and identity element.",
+            "Function": "accumulate(double x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates with the given value.",
+            "Function": "doubleValue()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Equivalent to get().",
+            "Function": "floatValue()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns the current value as a float after a narrowing primitive conversion.",
+            "Function": "get()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the current value.",
+            "Function": "getThenReset()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Equivalent in effect to get() followed by reset().",
+            "Function": "intValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current value as an int after a narrowing primitive conversion.",
+            "Function": "longValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the current value as a long after a narrowing primitive conversion.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets variables maintaining updates to the identity value.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

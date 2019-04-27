@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Construct the alternate Certificate class with the Certificate type and Certificate encoding bytes.",
+            "Function": "readResolve()",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

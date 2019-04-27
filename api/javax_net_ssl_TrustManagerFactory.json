@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a TrustManagerFactory object.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the algorithm name of this TrustManagerFactory object.",
+            "Function": "getDefaultAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains the default TrustManagerFactory algorithm name.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a TrustManagerFactory object that acts as a factory for trust managers.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static TrustManagerFactory"
+        },
+        {
+            "Comments": "Returns a TrustManagerFactory object that acts as a factory for trust managers.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static TrustManagerFactory"
+        },
+        {
+            "Comments": "Returns a TrustManagerFactory object that acts as a factory for trust managers.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static TrustManagerFactory"
+        },
+        {
+            "Comments": "Returns the provider of this TrustManagerFactory object.",
+            "Function": "getTrustManagers()",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Returns one trust manager for each type of trust material.",
+            "Function": "init(KeyStore ks)",
+            "Modifier and Type": "TrustManager[]"
+        },
+        {
+            "Comments": "Initializes this factory with a source of certificate authorities and related trust material.",
+            "Function": "init(ManagerFactoryParameters spec)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

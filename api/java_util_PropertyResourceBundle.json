@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a property resource bundle from an InputStream.",
+            "Function": "getKeys()",
+            "Modifier and Type": "Enumeration<String>"
+        },
+        {
+            "Comments": "Creates a property resource bundle from a Reader.",
+            "Function": "handleKeySet()",
+            "Modifier and Type": "protected Set<String>"
+        }
+    ]
+}

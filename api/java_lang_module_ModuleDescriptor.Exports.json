@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "A modifier on an exported package.",
+            "Function": "ModuleDescriptor.Exports.Modifier",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Compares this module export to another.",
+            "Function": "compareTo(ModuleDescriptor.Exports that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests this module export for equality with the given object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Computes a hash code for this module export.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if this is a qualified export.",
+            "Function": "isQualified()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the set of modifiers.",
+            "Function": "modifiers()",
+            "Modifier and Type": "Set<ModuleDescriptor.Exports.Modifier>"
+        },
+        {
+            "Comments": "Returns the package name.",
+            "Function": "source()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "For a qualified export, returns the non-empty and immutable set of the module names to which the package is exported.",
+            "Function": "targets()",
+            "Modifier and Type": "Set<String>"
+        },
+        {
+            "Comments": "Returns a string describing the exported package.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

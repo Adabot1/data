@@ -1,0 +1,239 @@
+{
+    "API": [
+        {
+            "Comments": "A thread state.",
+            "Function": "Thread.State",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Interface for handlers invoked when a Thread abruptly terminates due to an uncaught exception.",
+            "Function": "Thread.UncaughtExceptionHandler",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "The maximum priority that a thread can have.",
+            "Function": "MAX_PRIORITY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The minimum priority that a thread can have.",
+            "Function": "MIN_PRIORITY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The default priority that is assigned to a thread.",
+            "Function": "NORM_PRIORITY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Allocates a new Thread object.",
+            "Function": "activeCount()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Allocates a new Thread object.",
+            "Function": "checkAccess()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Allocates a new Thread object.",
+            "Function": "clone()",
+            "Modifier and Type": "protected Object"
+        },
+        {
+            "Comments": "Allocates a new Thread object.",
+            "Function": "countStackFrames()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Allocates a new Thread object.",
+            "Function": "currentThread()",
+            "Modifier and Type": "static Thread"
+        },
+        {
+            "Comments": "Allocates a new Thread object so that it has target as its run object, has the specified name as its name, and belongs to the thread group referred to by group.",
+            "Function": "dumpStack()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Allocates a new Thread object so that it has target as its run object, has the specified name as its name, and belongs to the thread group referred to by group, and has the specified stack size.",
+            "Function": "enumerate(Thread[] tarray)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Allocates a new Thread object so that it has target as its run object, has the specified name as its name, belongs to the thread group referred to by group, has the specified stackSize, and inherits initial values for inheritable thread-local variables if inheritThreadLocals is true.",
+            "Function": "getAllStackTraces()",
+            "Modifier and Type": "static Map<Thread,​StackTraceElement[]>"
+        },
+        {
+            "Comments": "Allocates a new Thread object.",
+            "Function": "getContextClassLoader()",
+            "Modifier and Type": "ClassLoader"
+        },
+        {
+            "Comments": "Returns an estimate of the number of active threads in the current thread's thread group and its subgroups.",
+            "Function": "getDefaultUncaughtExceptionHandler()",
+            "Modifier and Type": "static Thread.UncaughtExceptionHandler"
+        },
+        {
+            "Comments": "Determines if the currently running thread has permission to modify this thread.",
+            "Function": "getId()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Throws CloneNotSupportedException as a Thread can not be meaningfully cloned.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.The definition of this call depends on suspend(),             which is deprecated.",
+            "Function": "getPriority()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a reference to the currently executing thread object.",
+            "Function": "getStackTrace()",
+            "Modifier and Type": "StackTraceElement[]"
+        },
+        {
+            "Comments": "Prints a stack trace of the current thread to the standard error stream.",
+            "Function": "getState()",
+            "Modifier and Type": "Thread.State"
+        },
+        {
+            "Comments": "Copies into the specified array every active thread in the current thread's thread group and its subgroups.",
+            "Function": "getThreadGroup()",
+            "Modifier and Type": "ThreadGroup"
+        },
+        {
+            "Comments": "Returns a map of stack traces for all live threads.",
+            "Function": "getUncaughtExceptionHandler()",
+            "Modifier and Type": "Thread.UncaughtExceptionHandler"
+        },
+        {
+            "Comments": "Returns the context ClassLoader for this thread.",
+            "Function": "holdsLock(Object obj)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the default handler invoked when a thread abruptly terminates due to an uncaught exception.",
+            "Function": "interrupt()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the identifier of this Thread.",
+            "Function": "interrupted()",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns this thread's name.",
+            "Function": "isAlive()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns this thread's priority.",
+            "Function": "isDaemon()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an array of stack trace elements representing the stack dump of this thread.",
+            "Function": "isInterrupted()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the state of this thread.",
+            "Function": "join()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the thread group to which this thread belongs.",
+            "Function": "join(long millis)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the handler invoked when this thread abruptly terminates due to an uncaught exception.",
+            "Function": "join(long millis,int nanos)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns true if and only if the current thread holds the monitor lock on the specified object.",
+            "Function": "onSpinWait()",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Interrupts this thread.",
+            "Function": "resume()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests whether the current thread has been interrupted.",
+            "Function": "run()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if this thread is alive.",
+            "Function": "setContextClassLoader(ClassLoader cl)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if this thread is a daemon thread.",
+            "Function": "setDaemon(boolean on)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests whether this thread has been interrupted.",
+            "Function": "setDefaultUncaughtExceptionHandler(Thread.UncaughtExceptionHandler eh)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Waits for this thread to die.",
+            "Function": "setName(String name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Waits at most millis milliseconds for this thread to die.",
+            "Function": "setPriority(int newPriority)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Waits at most millis milliseconds plus nanos nanoseconds for this thread to die.",
+            "Function": "setUncaughtExceptionHandler(Thread.UncaughtExceptionHandler eh)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Indicates that the caller is momentarily unable to progress, until the occurrence of one or more actions on the part of other activities.",
+            "Function": "sleep(long millis)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Deprecated.This method exists solely for use with suspend(),     which has been deprecated because it is deadlock-prone.",
+            "Function": "sleep(long millis, int nanos)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "If this thread was constructed using a separate Runnable run object, then that Runnable object's run method is called; otherwise, this method does nothing and returns.",
+            "Function": "start()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the context ClassLoader for this Thread.",
+            "Function": "stop()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Marks this thread as either a daemon thread or a user thread.",
+            "Function": "suspend()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the default handler invoked when a thread abruptly terminates due to an uncaught exception, and no other handler has been defined for that thread.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Changes the name of this thread to be equal to the argument name.",
+            "Function": "yield()",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

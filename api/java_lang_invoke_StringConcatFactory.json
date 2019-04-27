@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Facilitates the creation of optimized String concatenation methods, that can be used to efficiently concatenate a known number of arguments of known types, possibly after type adaptation and partial evaluation of arguments.",
+            "Function": "makeConcat(MethodHandles.Lookup lookup,String name,MethodType concatType)",
+            "Modifier and Type": "static CallSite"
+        },
+        {
+            "Comments": "Facilitates the creation of optimized String concatenation methods, that can be used to efficiently concatenate a known number of arguments of known types, possibly after type adaptation and partial evaluation of arguments.",
+            "Function": "makeConcatWithConstants(MethodHandles.Lookup lookup, String name, MethodType concatType, String recipe, Object... constants)",
+            "Modifier and Type": "static CallSite"
+        }
+    ]
+}

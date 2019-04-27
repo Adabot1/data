@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a CertPathRep with the specified type and encoded form of a certification path.",
+            "Function": "readResolve()",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

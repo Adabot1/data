@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the default FileSystem.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static FileSystem"
+        },
+        {
+            "Comments": "Returns a reference to an existing FileSystem.",
+            "Function": "getFileSystem(URI uri)",
+            "Modifier and Type": "static FileSystem"
+        },
+        {
+            "Comments": "Constructs a new file system that is identified by a URI",
+            "Function": "newFileSystem(URI uri, Map<String,?> env)",
+            "Modifier and Type": "static FileSystem"
+        },
+        {
+            "Comments": "Constructs a new file system that is identified by a URI",
+            "Function": "newFileSystem(URI uri, Map<String,?> env, ClassLoader loader)",
+            "Modifier and Type": "static FileSystem"
+        },
+        {
+            "Comments": "Constructs a new FileSystem to access the contents of a file as a file system.",
+            "Function": "newFileSystem(Path path, ClassLoader loader)",
+            "Modifier and Type": "static FileSystem"
+        }
+    ]
+}

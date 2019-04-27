@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new, empty Manifest.",
+            "Function": "clear()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a new Manifest from the specified input stream.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Constructs a new Manifest that is a copy of the specified Manifest.",
+            "Function": "equals(Object o)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Clears the main Attributes as well as the entries in this Manifest.",
+            "Function": "getAttributes(String name)",
+            "Modifier and Type": "Attributes"
+        },
+        {
+            "Comments": "Returns a shallow copy of this Manifest.",
+            "Function": "getEntries()",
+            "Modifier and Type": "Map<String,​Attributes>"
+        },
+        {
+            "Comments": "Returns true if the specified Object is also a Manifest and has the same main Attributes and entries.",
+            "Function": "getMainAttributes()",
+            "Modifier and Type": "Attributes"
+        },
+        {
+            "Comments": "Returns the Attributes for the specified entry name.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a Map of the entries contained in this Manifest.",
+            "Function": "read(InputStream is)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the main Attributes for the Manifest.",
+            "Function": "write(OutputStream out)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

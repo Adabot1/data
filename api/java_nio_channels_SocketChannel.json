@@ -1,0 +1,104 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "bind(SocketAddress local)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Binds the channel's socket to a local address.",
+            "Function": "connect(SocketAddress remote)",
+            "Modifier and Type": "abstract SocketChannel"
+        },
+        {
+            "Comments": "Connects this channel's socket.",
+            "Function": "finishConnect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Finishes the process of connecting a socket channel.",
+            "Function": "getLocalAddress()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the socket address that this channel's socket is bound to.",
+            "Function": "getRemoteAddress()",
+            "Modifier and Type": "abstract SocketAddress"
+        },
+        {
+            "Comments": "Returns the remote address to which this channel's socket is connected.",
+            "Function": "isConnected()",
+            "Modifier and Type": "abstract SocketAddress"
+        },
+        {
+            "Comments": "Tells whether or not this channel's network socket is connected.",
+            "Function": "isConnectionPending()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not a connection operation is in progress on this channel.",
+            "Function": "open()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Opens a socket channel.",
+            "Function": "open(SocketAddress remote)",
+            "Modifier and Type": "static SocketChannel"
+        },
+        {
+            "Comments": "Opens a socket channel and connects it to a remote address.",
+            "Function": "read(ByteBuffer dst)",
+            "Modifier and Type": "static SocketChannel"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffer.",
+            "Function": "read(ByteBuffer[] dsts)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into the given buffers.",
+            "Function": "read(ByteBuffer[] dsts,int offset,int length)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Reads a sequence of bytes from this channel into a subsequence of the given buffers.",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Sets the value of a socket option.",
+            "Function": "shutdownInput()",
+            "Modifier and Type": "abstract <T> SocketChannel"
+        },
+        {
+            "Comments": "Shutdown the connection for reading without closing the channel.",
+            "Function": "shutdownOutput()",
+            "Modifier and Type": "abstract SocketChannel"
+        },
+        {
+            "Comments": "Shutdown the connection for writing without closing the channel.",
+            "Function": "socket()",
+            "Modifier and Type": "abstract SocketChannel"
+        },
+        {
+            "Comments": "Retrieves a socket associated with this channel.",
+            "Function": "validOps()",
+            "Modifier and Type": "abstract Socket"
+        },
+        {
+            "Comments": "Returns an operation set identifying this channel's supported operations.",
+            "Function": "write(ByteBuffer src)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffer.",
+            "Function": "write(ByteBuffer[] srcs)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Writes a sequence of bytes to this channel from the given buffers.",
+            "Function": "write(ByteBuffer[] srcs, int offset, int length)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

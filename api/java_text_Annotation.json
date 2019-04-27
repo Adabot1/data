@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an annotation record with the given value, which may be null.",
+            "Function": "getValue()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the value of the attribute, which may be null.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

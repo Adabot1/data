@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "The class-only format List containing \"java.class\".",
+            "Function": "FORMAT_CLASS",
+            "Modifier and Type": "static List<String>"
+        },
+        {
+            "Comments": "The default format List, which contains the strings \"java.class\" and \"java.properties\", in this order.",
+            "Function": "FORMAT_DEFAULT",
+            "Modifier and Type": "static List<String>"
+        },
+        {
+            "Comments": "The properties-only format List containing \"java.properties\".",
+            "Function": "FORMAT_PROPERTIES",
+            "Modifier and Type": "static List<String>"
+        },
+        {
+            "Comments": "The time-to-live constant for not caching loaded resource bundle instances.",
+            "Function": "TTL_DONT_CACHE",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "The time-to-live constant for disabling the expiration control for loaded resource bundle instances in the cache.",
+            "Function": "TTL_NO_EXPIRATION_CONTROL",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getCandidateLocales(String baseName, Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a List of Locales as candidate locales for baseName and locale.",
+            "Function": "getControl(List<String> formats)",
+            "Modifier and Type": "List<Locale>"
+        },
+        {
+            "Comments": "Returns a ResourceBundle.Control in which the getFormats method returns the specified formats.",
+            "Function": "getFallbackLocale(String baseName, Locale locale)",
+            "Modifier and Type": "static ResourceBundle.Control"
+        },
+        {
+            "Comments": "Returns a Locale to be used as a fallback locale for further resource bundle searches by the ResourceBundle.getBundle factory method.",
+            "Function": "getFormats(String baseName)",
+            "Modifier and Type": "Locale"
+        },
+        {
+            "Comments": "Returns a List of Strings containing formats to be used to load resource bundles for the given baseName.",
+            "Function": "getNoFallbackControl(List<String> formats)",
+            "Modifier and Type": "List<String>"
+        },
+        {
+            "Comments": "Returns a ResourceBundle.Control in which the getFormats method returns the specified formats and the getFallbackLocale method returns null.",
+            "Function": "getTimeToLive(String baseName, Locale locale)",
+            "Modifier and Type": "static ResourceBundle.Control"
+        },
+        {
+            "Comments": "Returns the time-to-live (TTL) value for resource bundles that are loaded under this ResourceBundle.Control.",
+            "Function": "needsReload(String baseName, Locale locale, String format, ClassLoader loader, ResourceBundle bundle, long loadTime)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Determines if the expired bundle in the cache needs to be reloaded based on the loading time given by loadTime or some other criteria.",
+            "Function": "newBundle(String baseName, Locale locale, String format, ClassLoader loader, boolean reload)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Instantiates a resource bundle for the given bundle name of the given format and locale, using the given class loader if necessary.",
+            "Function": "toBundleName(String baseName,Locale locale)",
+            "Modifier and Type": "ResourceBundle"
+        },
+        {
+            "Comments": "Converts the given baseName and locale to the bundle name.",
+            "Function": "toResourceName(String bundleName,String suffix)",
+            "Modifier and Type": "String"
+        }
+    ]
+}

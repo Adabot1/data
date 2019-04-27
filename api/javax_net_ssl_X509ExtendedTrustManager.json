@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Given the partial or complete certificate chain provided by the peer, build and validate the certificate path based on the authentication type and ssl parameters.",
+            "Function": "checkClientTrusted(X509Certificate[] chain,String authType,Socket socket)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Given the partial or complete certificate chain provided by the peer, build and validate the certificate path based on the authentication type and ssl parameters.",
+            "Function": "checkClientTrusted(X509Certificate[] chain,String authType,SSLEngine engine)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Given the partial or complete certificate chain provided by the peer, build and validate the certificate path based on the authentication type and ssl parameters.",
+            "Function": "checkServerTrusted(X509Certificate[] chain,String authType,Socket socket)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Given the partial or complete certificate chain provided by the peer, build and validate the certificate path based on the authentication type and ssl parameters.",
+            "Function": "checkServerTrusted(X509Certificate[] chain,String authType,SSLEngine engine)",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

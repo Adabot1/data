@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a composed operator that first applies this operator to its input, and then applies the after operator to the result.",
+            "Function": "andThen(LongUnaryOperator after)",
+            "Modifier and Type": "default LongUnaryOperator"
+        },
+        {
+            "Comments": "Applies this operator to the given operand.",
+            "Function": "applyAsLong(long operand)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a composed operator that first applies the before operator to its input, and then applies this operator to the result.",
+            "Function": "compose(LongUnaryOperator before)",
+            "Modifier and Type": "default LongUnaryOperator"
+        },
+        {
+            "Comments": "Returns a unary operator that always returns its input argument.",
+            "Function": "identity()",
+            "Modifier and Type": "static LongUnaryOperator"
+        }
+    ]
+}

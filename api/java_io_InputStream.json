@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking, which may be 0, or 0 when end of stream is detected.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes this input stream and releases any system resources associated with the stream.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Marks the current position in this input stream.",
+            "Function": "mark(int readlimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if this input stream supports the mark and reset methods.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a new InputStream that reads no bytes.",
+            "Function": "nullInputStream()",
+            "Modifier and Type": "static InputStream"
+        },
+        {
+            "Comments": "Reads the next byte of data from the input stream.",
+            "Function": "read()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Reads some number of bytes from the input stream and stores them into the buffer array b.",
+            "Function": "read(byte[] b)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads up to len bytes of data from the input stream into an array of bytes.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads all remaining bytes from the input stream.",
+            "Function": "readAllBytes()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Reads the requested number of bytes from the input stream into the given byte array.",
+            "Function": "readNBytes(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads up to a specified number of bytes from the input stream.",
+            "Function": "readNBytes(int len)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Repositions this stream to the position at the time the mark method was last called on this input stream.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Skips over and discards n bytes of data from this input stream.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Reads all bytes from this input stream and writes the bytes to the given output stream in the order that they are read.",
+            "Function": "transferTo(OutputStream out)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

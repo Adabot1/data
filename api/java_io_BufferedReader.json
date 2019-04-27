@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a buffering character-input stream that uses a default-sized input buffer.",
+            "Function": "lines()",
+            "Modifier and Type": "Stream<String>"
+        },
+        {
+            "Comments": "Creates a buffering character-input stream that uses an input buffer of the specified size.",
+            "Function": "mark(int readAheadLimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a Stream, the elements of which are lines read from this BufferedReader.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Marks the present position in the stream.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether this stream supports the mark() operation, which it does.",
+            "Function": "read(char[] cbuf,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a single character.",
+            "Function": "readLine()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads characters into a portion of an array.",
+            "Function": "ready()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads a line of text.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tells whether this stream is ready to be read.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

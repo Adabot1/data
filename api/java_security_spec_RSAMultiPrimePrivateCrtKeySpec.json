@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new RSAMultiPrimePrivateCrtKeySpec.",
+            "Function": "getCrtCoefficient()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Creates a new RSAMultiPrimePrivateCrtKeySpec with additional key parameters.",
+            "Function": "getOtherPrimeInfo()",
+            "Modifier and Type": "RSAOtherPrimeInfo[]"
+        },
+        {
+            "Comments": "Returns the crtCoefficient.",
+            "Function": "getPrimeExponentP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns a copy of the otherPrimeInfo or null if there are only two prime factors (p and q).",
+            "Function": "getPrimeExponentQ()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the primeExponentP.",
+            "Function": "getPrimeP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the primeExponentQ.",
+            "Function": "getPrimeQ()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the primeP.",
+            "Function": "getPublicExponent()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

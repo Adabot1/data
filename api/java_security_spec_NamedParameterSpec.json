@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "The X25519 parameters",
+            "Function": "X25519",
+            "Modifier and Type": "static NamedParameterSpec"
+        },
+        {
+            "Comments": "The X448 parameters",
+            "Function": "X448",
+            "Modifier and Type": "static NamedParameterSpec"
+        },
+        {
+            "Comments": "Creates a parameter specification using a standard (or predefined) name stdName.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

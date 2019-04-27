@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Attempts to read characters into the specified character buffer.",
+            "Function": "read(CharBuffer cb)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "API": [
+        {
+            "Comments": "Allocates a new float buffer.",
+            "Function": "allocate(int capacity)",
+            "Modifier and Type": "static FloatBuffer"
+        },
+        {
+            "Comments": "Returns the float array that backs this buffer  (optional operation).",
+            "Function": "array()",
+            "Modifier and Type": "float[]"
+        },
+        {
+            "Comments": "Returns the offset within this buffer's backing array of the first element of the buffer  (optional operation).",
+            "Function": "arrayOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new, read-only float buffer that shares this buffer's content.",
+            "Function": "asReadOnlyBuffer()",
+            "Modifier and Type": "abstract FloatBuffer"
+        },
+        {
+            "Comments": "Compacts this buffer  (optional operation).",
+            "Function": "compact()",
+            "Modifier and Type": "abstract FloatBuffer"
+        },
+        {
+            "Comments": "Compares this buffer to another.",
+            "Function": "compareTo(FloatBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new float buffer that shares this buffer's content.",
+            "Function": "duplicate()",
+            "Modifier and Type": "abstract FloatBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is equal to another object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Relative get method.",
+            "Function": "get()",
+            "Modifier and Type": "abstract float"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(float[] dst)",
+            "Modifier and Type": "FloatBuffer"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(float[] dst, int offset, int length)",
+            "Modifier and Type": "FloatBuffer"
+        },
+        {
+            "Comments": "Absolute get method.",
+            "Function": "get(int index)",
+            "Modifier and Type": "abstract float"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is backed by an accessible float array.",
+            "Function": "hasArray()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the current hash code of this buffer.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this float buffer is direct.",
+            "Function": "isDirect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Finds and returns the relative index of the first mismatch between this buffer and a given buffer.",
+            "Function": "mismatch(FloatBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieves this buffer's byte order.",
+            "Function": "order()",
+            "Modifier and Type": "abstract ByteOrder"
+        },
+        {
+            "Comments": "Relative put method  (optional operation).",
+            "Function": "put(float f)",
+            "Modifier and Type": "abstract FloatBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(float[] src)",
+            "Modifier and Type": "FloatBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(float[] src, int offset, int length)",
+            "Modifier and Type": "FloatBuffer"
+        },
+        {
+            "Comments": "Absolute put method  (optional operation).",
+            "Function": "put(int index, float f)",
+            "Modifier and Type": "abstract FloatBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(FloatBuffer src)",
+            "Modifier and Type": "FloatBuffer"
+        },
+        {
+            "Comments": "Creates a new float buffer whose content is a shared subsequence of this buffer's content.",
+            "Function": "slice()",
+            "Modifier and Type": "abstract FloatBuffer"
+        },
+        {
+            "Comments": "Returns a string summarizing the state of this buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Wraps a float array into a buffer.",
+            "Function": "wrap(float[] array)",
+            "Modifier and Type": "static FloatBuffer"
+        },
+        {
+            "Comments": "Wraps a float array into a buffer.",
+            "Function": "wrap(float[] array,int offset,int length)",
+            "Modifier and Type": "static FloatBuffer"
+        }
+    ]
+}

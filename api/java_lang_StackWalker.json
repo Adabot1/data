@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Stack walker option to configure the stack frame information obtained by a StackWalker.",
+            "Function": "StackWalker.Option",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A StackFrame object represents a method invocation returned by StackWalker.",
+            "Function": "StackWalker.StackFrame",
+            "Modifier and Type": "static interface "
+        },
+        {
+            "Comments": "Performs the given action on each element of StackFrame stream of the current thread, traversing from the top frame of the stack, which is the method calling this forEach method.",
+            "Function": "forEach(Consumer<? super StackWalker.StackFrame> action)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Gets the Class object of the caller who invoked the method that invoked getCallerClass.",
+            "Function": "getCallerClass()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Returns a StackWalker instance.",
+            "Function": "getInstance()",
+            "Modifier and Type": "static StackWalker"
+        },
+        {
+            "Comments": "Returns a StackWalker instance with the given option specifying the stack frame information it can access.",
+            "Function": "getInstance(StackWalker.Option option)",
+            "Modifier and Type": "static StackWalker"
+        },
+        {
+            "Comments": "Returns a StackWalker instance with the given options specifying the stack frame information it can access.",
+            "Function": "getInstance(Set<StackWalker.Option> options)",
+            "Modifier and Type": "static StackWalker"
+        },
+        {
+            "Comments": "Returns a StackWalker instance with the given options specifying the stack frame information it can access.",
+            "Function": "getInstance(Set<StackWalker.Option> options, int estimateDepth)",
+            "Modifier and Type": "static StackWalker"
+        },
+        {
+            "Comments": "Applies the given function to the stream of StackFrames for the current thread, traversing from the top frame of the stack, which is the method calling this walk method.",
+            "Function": "walk(Function<? super Stream<StackWalker.StackFrame>,? extends T> function)",
+            "Modifier and Type": "<T> T"
+        }
+    ]
+}

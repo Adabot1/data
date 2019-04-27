@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getCharacterInstance(Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for character breaks for the given locale.",
+            "Function": "getLineInstance(Locale locale)",
+            "Modifier and Type": "abstract BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for line breaks for the given locale.",
+            "Function": "getSentenceInstance(Locale locale)",
+            "Modifier and Type": "abstract BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for sentence breaks for the given locale.",
+            "Function": "getWordInstance(Locale locale)",
+            "Modifier and Type": "abstract BreakIterator"
+        }
+    ]
+}

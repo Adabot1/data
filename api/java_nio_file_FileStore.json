@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "getAttribute(String attribute)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Reads the value of a file store attribute.",
+            "Function": "getBlockSize()",
+            "Modifier and Type": "abstract Object"
+        },
+        {
+            "Comments": "Returns the number of bytes per block in this file store.",
+            "Function": "getFileStoreAttributeView(Class<V> type)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a FileStoreAttributeView of the given type.",
+            "Function": "getTotalSpace()",
+            "Modifier and Type": "abstract <V extends FileStoreAttributeView>V"
+        },
+        {
+            "Comments": "Returns the size, in bytes, of the file store.",
+            "Function": "getUnallocatedSpace()",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Returns the number of unallocated bytes in the file store.",
+            "Function": "getUsableSpace()",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Returns the number of bytes available to this Java virtual machine on the file store.",
+            "Function": "isReadOnly()",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Tells whether this file store is read-only.",
+            "Function": "name()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the name of this file store.",
+            "Function": "supportsFileAttributeView(Class<? extends FileAttributeView> type)",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Tells whether or not this file store supports the file attributes identified by the given file attribute view.",
+            "Function": "supportsFileAttributeView(String name)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not this file store supports the file attributes identified by the given file attribute view.",
+            "Function": "type()",
+            "Modifier and Type": "abstract boolean"
+        }
+    ]
+}

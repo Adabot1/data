@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the potentially annotated actual type arguments of this parameterized type.",
+            "Function": "getAnnotatedActualTypeArguments()",
+            "Modifier and Type": "AnnotatedType[]"
+        },
+        {
+            "Comments": "Returns the potentially annotated type that this type is a member of, if this type represents a nested type.",
+            "Function": "getAnnotatedOwnerType()",
+            "Modifier and Type": "AnnotatedType"
+        }
+    ]
+}

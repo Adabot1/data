@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "A modifier on a module dependence.",
+            "Function": "ModuleDescriptor.Requires.Modifier",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Compares this module dependence to another.",
+            "Function": "compareTo(ModuleDescriptor.Requires that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the version of the module if recorded at compile-time.",
+            "Function": "compiledVersion()",
+            "Modifier and Type": "Optional<ModuleDescriptor.Version>"
+        },
+        {
+            "Comments": "Tests this module dependence for equality with the given object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Computes a hash code for this module dependence.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the set of modifiers.",
+            "Function": "modifiers()",
+            "Modifier and Type": "Set<ModuleDescriptor.Requires.Modifier>"
+        },
+        {
+            "Comments": "Return the module name.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the string with the possibly-unparseable version of the module if recorded at compile-time.",
+            "Function": "rawCompiledVersion()",
+            "Modifier and Type": "Optional<String>"
+        },
+        {
+            "Comments": "Returns a string describing this module dependence.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

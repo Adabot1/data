@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "The class fingerprint that is set to indicate serialization compatibility with a previous version of the class.",
+            "Function": "serialVersionUID",
+            "Modifier and Type": "static long"
+        }
+    ]
+}

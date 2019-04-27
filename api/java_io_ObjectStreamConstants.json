@@ -1,0 +1,154 @@
+{
+    "API": [
+        {
+            "Comments": "First wire handle to be assigned.",
+            "Function": "baseWireHandle",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A Stream Protocol Version.",
+            "Function": "PROTOCOL_VERSION_1",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A Stream Protocol Version.",
+            "Function": "PROTOCOL_VERSION_2",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Bit mask for ObjectStreamClass flag.",
+            "Function": "SC_BLOCK_DATA",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Bit mask for ObjectStreamClass flag.",
+            "Function": "SC_ENUM",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Bit mask for ObjectStreamClass flag.",
+            "Function": "SC_EXTERNALIZABLE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Bit mask for ObjectStreamClass flag.",
+            "Function": "SC_SERIALIZABLE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Bit mask for ObjectStreamClass flag.",
+            "Function": "SC_WRITE_METHOD",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Enable setting the process-wide serial filter.",
+            "Function": "SERIAL_FILTER_PERMISSION",
+            "Modifier and Type": "static SerializablePermission"
+        },
+        {
+            "Comments": "Magic number that is written to the stream header.",
+            "Function": "STREAM_MAGIC",
+            "Modifier and Type": "static short"
+        },
+        {
+            "Comments": "Version number that is written to the stream header.",
+            "Function": "STREAM_VERSION",
+            "Modifier and Type": "static short"
+        },
+        {
+            "Comments": "Enable overriding of readObject and writeObject.",
+            "Function": "SUBCLASS_IMPLEMENTATION_PERMISSION",
+            "Modifier and Type": "static SerializablePermission"
+        },
+        {
+            "Comments": "Enable substitution of one object for another during serialization/deserialization.",
+            "Function": "SUBSTITUTION_PERMISSION",
+            "Modifier and Type": "static SerializablePermission"
+        },
+        {
+            "Comments": "new Array.",
+            "Function": "TC_ARRAY",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "First tag value.",
+            "Function": "TC_BASE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Block of optional data.",
+            "Function": "TC_BLOCKDATA",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "long Block data.",
+            "Function": "TC_BLOCKDATALONG",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Reference to Class.",
+            "Function": "TC_CLASS",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "new Class Descriptor.",
+            "Function": "TC_CLASSDESC",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "End of optional block data blocks for an object.",
+            "Function": "TC_ENDBLOCKDATA",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "new Enum constant.",
+            "Function": "TC_ENUM",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Exception during write.",
+            "Function": "TC_EXCEPTION",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Long string.",
+            "Function": "TC_LONGSTRING",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Last tag value.",
+            "Function": "TC_MAX",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Null object reference.",
+            "Function": "TC_NULL",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "new Object.",
+            "Function": "TC_OBJECT",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "new Proxy Class Descriptor.",
+            "Function": "TC_PROXYCLASSDESC",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Reference to an object already written into the stream.",
+            "Function": "TC_REFERENCE",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "Reset stream context.",
+            "Function": "TC_RESET",
+            "Modifier and Type": "static byte"
+        },
+        {
+            "Comments": "new String.",
+            "Function": "TC_STRING",
+            "Modifier and Type": "static byte"
+        }
+    ]
+}

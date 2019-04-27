@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Alternate CertPath class for serialization.",
+            "Function": "CertPath.CertPathRep",
+            "Modifier and Type": "protected static class "
+        },
+        {
+            "Comments": "Creates a CertPath of the specified type.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Compares this certification path for equality with the specified object.",
+            "Function": "getCertificates()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the list of certificates in this certification path.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "abstract List<? extends Certificate>"
+        },
+        {
+            "Comments": "Returns the encoded form of this certification path, using the default encoding.",
+            "Function": "getEncoded(String encoding)",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Returns the encoded form of this certification path, using the specified encoding.",
+            "Function": "getEncodings()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Returns an iteration of the encodings supported by this certification path, with the default encoding first.",
+            "Function": "getType()",
+            "Modifier and Type": "abstract Iterator<String>"
+        },
+        {
+            "Comments": "Returns the type of Certificates in this certification path.",
+            "Function": "hashCode()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the hashcode for this certification path.",
+            "Function": "toString()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string representation of this certification path.",
+            "Function": "writeReplace()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

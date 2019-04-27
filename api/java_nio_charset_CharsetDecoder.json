@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new decoder.",
+            "Function": "averageCharsPerByte()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the average number of characters that will be produced for each byte of input.",
+            "Function": "charset()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns the charset that created this decoder.",
+            "Function": "decode(ByteBuffer in)",
+            "Modifier and Type": "Charset"
+        },
+        {
+            "Comments": "Convenience method that decodes the remaining content of a single input byte buffer into a newly-allocated character buffer.",
+            "Function": "decode(ByteBuffer in,CharBuffer out,boolean endOfInput)",
+            "Modifier and Type": "CharBuffer"
+        },
+        {
+            "Comments": "Decodes as many bytes as possible from the given input buffer, writing the results to the given output buffer.",
+            "Function": "decodeLoop(ByteBuffer in,CharBuffer out)",
+            "Modifier and Type": "CoderResult"
+        },
+        {
+            "Comments": "Decodes one or more bytes into one or more characters.",
+            "Function": "detectedCharset()",
+            "Modifier and Type": "protected abstract CoderResult"
+        },
+        {
+            "Comments": "Retrieves the charset that was detected by this decoder  (optional operation).",
+            "Function": "flush(CharBuffer out)",
+            "Modifier and Type": "Charset"
+        },
+        {
+            "Comments": "Flushes this decoder.",
+            "Function": "implFlush(CharBuffer out)",
+            "Modifier and Type": "CoderResult"
+        },
+        {
+            "Comments": "Flushes this decoder.",
+            "Function": "implOnMalformedInput(CodingErrorAction newAction)",
+            "Modifier and Type": "protected CoderResult"
+        },
+        {
+            "Comments": "Reports a change to this decoder's malformed-input action.",
+            "Function": "implOnUnmappableCharacter(CodingErrorAction newAction)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Reports a change to this decoder's unmappable-character action.",
+            "Function": "implReplaceWith(String newReplacement)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Reports a change to this decoder's replacement value.",
+            "Function": "implReset()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Resets this decoder, clearing any charset-specific internal state.",
+            "Function": "isAutoDetecting()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Tells whether or not this decoder implements an auto-detecting charset.",
+            "Function": "isCharsetDetected()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this decoder has yet detected a charset  (optional operation).",
+            "Function": "malformedInputAction()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns this decoder's current action for malformed-input errors.",
+            "Function": "maxCharsPerByte()",
+            "Modifier and Type": "CodingErrorAction"
+        },
+        {
+            "Comments": "Returns the maximum number of characters that will be produced for each byte of input.",
+            "Function": "onMalformedInput(CodingErrorAction newAction)",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Changes this decoder's action for malformed-input errors.",
+            "Function": "onUnmappableCharacter(CodingErrorAction newAction)",
+            "Modifier and Type": "CharsetDecoder"
+        },
+        {
+            "Comments": "Changes this decoder's action for unmappable-character errors.",
+            "Function": "replacement()",
+            "Modifier and Type": "CharsetDecoder"
+        },
+        {
+            "Comments": "Returns this decoder's replacement value.",
+            "Function": "replaceWith(String newReplacement)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Changes this decoder's replacement value.",
+            "Function": "reset()",
+            "Modifier and Type": "CharsetDecoder"
+        },
+        {
+            "Comments": "Resets this decoder, clearing any internal state.",
+            "Function": "unmappableCharacterAction()",
+            "Modifier and Type": "CharsetDecoder"
+        }
+    ]
+}

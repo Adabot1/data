@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Updates module source in the layer to export a package to module target.",
+            "Function": "addExports(Module source,String pn,Module target)",
+            "Modifier and Type": "ModuleLayer.Controller"
+        },
+        {
+            "Comments": "Updates module source in the layer to open a package to module target.",
+            "Function": "addOpens(Module source,String pn,Module target)",
+            "Modifier and Type": "ModuleLayer.Controller"
+        },
+        {
+            "Comments": "Updates module source in the layer to read module target.",
+            "Function": "addReads(Module source,Module target)",
+            "Modifier and Type": "ModuleLayer.Controller"
+        },
+        {
+            "Comments": "Returns the layer that this object controls.",
+            "Function": "layer()",
+            "Modifier and Type": "ModuleLayer"
+        }
+    ]
+}

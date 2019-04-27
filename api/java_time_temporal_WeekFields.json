@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "The ISO-8601 definition, where a week starts on Monday and the first week has a minimum of 4 days.",
+            "Function": "ISO",
+            "Modifier and Type": "static WeekFields"
+        },
+        {
+            "Comments": "The common definition of a week that starts on Sunday and the first week has a minimum of 1 day.",
+            "Function": "SUNDAY_START",
+            "Modifier and Type": "static WeekFields"
+        },
+        {
+            "Comments": "The unit that represents week-based-years for the purpose of addition and subtraction.",
+            "Function": "WEEK_BASED_YEARS",
+            "Modifier and Type": "static TemporalUnit"
+        },
+        {
+            "Comments": "Returns a field to access the day of week based on this WeekFields.",
+            "Function": "dayOfWeek()",
+            "Modifier and Type": "TemporalField"
+        },
+        {
+            "Comments": "Checks if this WeekFields is equal to the specified object.",
+            "Function": "equals(Object object)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the first day-of-week.",
+            "Function": "getFirstDayOfWeek()",
+            "Modifier and Type": "DayOfWeek"
+        },
+        {
+            "Comments": "Gets the minimal number of days in the first week.",
+            "Function": "getMinimalDaysInFirstWeek()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this WeekFields.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Obtains an instance of WeekFields from the first day-of-week and minimal days.",
+            "Function": "of(DayOfWeek firstDayOfWeek,int minimalDaysInFirstWeek)",
+            "Modifier and Type": "static WeekFields"
+        },
+        {
+            "Comments": "Obtains an instance of WeekFields appropriate for a locale.",
+            "Function": "of(Locale locale)",
+            "Modifier and Type": "static WeekFields"
+        },
+        {
+            "Comments": "A string representation of this WeekFields instance.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a field to access the year of a week-based-year based on this WeekFields.",
+            "Function": "weekBasedYear()",
+            "Modifier and Type": "TemporalField"
+        },
+        {
+            "Comments": "Returns a field to access the week of month based on this WeekFields.",
+            "Function": "weekOfMonth()",
+            "Modifier and Type": "TemporalField"
+        },
+        {
+            "Comments": "Returns a field to access the week of a week-based-year based on this WeekFields.",
+            "Function": "weekOfWeekBasedYear()",
+            "Modifier and Type": "TemporalField"
+        },
+        {
+            "Comments": "Returns a field to access the week of year based on this WeekFields.",
+            "Function": "weekOfYear()",
+            "Modifier and Type": "TemporalField"
+        }
+    ]
+}

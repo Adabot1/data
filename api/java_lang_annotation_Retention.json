@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the retention policy.",
+            "Function": "value",
+            "Modifier and Type": "RetentionPolicy"
+        }
+    ]
+}

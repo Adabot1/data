@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Unregisters the cleanable and invokes the cleaning action.",
+            "Function": "clean()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

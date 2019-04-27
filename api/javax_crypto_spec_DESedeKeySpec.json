@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "The constant which defines the length of a DESede key in bytes.",
+            "Function": "DES_EDE_KEY_LEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a DESedeKeySpec object using the first 24 bytes in key as the key material for the DES-EDE key.",
+            "Function": "getKey()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Creates a DESedeKeySpec object using the first 24 bytes in key, beginning at offset inclusive, as the key material for the DES-EDE key.",
+            "Function": "isParityAdjusted(byte[] key,int offset)",
+            "Modifier and Type": "static boolean"
+        }
+    ]
+}

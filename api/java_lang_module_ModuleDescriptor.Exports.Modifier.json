@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The export was implicitly declared in the source of the module declaration.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ModuleDescriptor.Exports.Modifier"
+        },
+        {
+            "Comments": "The export was not explicitly or implicitly declared in the source of the module declaration.",
+            "Function": "values()",
+            "Modifier and Type": "static ModuleDescriptor.Exports.Modifier[]"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Checks that the specified value is valid and fits in an int.",
+            "Function": "checkValidIntValue(long value,TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks that the specified value is valid.",
+            "Function": "checkValidValue(long value, TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Checks if this range is equal to another range.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the largest possible minimum value that the field can take.",
+            "Function": "getLargestMinimum()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the maximum value that the field can take.",
+            "Function": "getMaximum()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the minimum value that the field can take.",
+            "Function": "getMinimum()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the smallest possible maximum value that the field can take.",
+            "Function": "getSmallestMaximum()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "A hash code for this range.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Is the value range fixed and fully known.",
+            "Function": "isFixed()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if all values in the range fit in an int.",
+            "Function": "isIntValue()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the value is within the valid range and that all values in the range fit in an int.",
+            "Function": "isValidIntValue(long value)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the value is within the valid range.",
+            "Function": "isValidValue(long value)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains a fixed value range.",
+            "Function": "of(long min,long max)",
+            "Modifier and Type": "static ValueRange"
+        },
+        {
+            "Comments": "Obtains a variable value range.",
+            "Function": "of(long min,long maxSmallest,long maxLargest)",
+            "Modifier and Type": "static ValueRange"
+        },
+        {
+            "Comments": "Obtains a fully variable value range.",
+            "Function": "of(long minSmallest,long minLargest,long maxSmallest,long maxLargest)",
+            "Modifier and Type": "static ValueRange"
+        },
+        {
+            "Comments": "Outputs this range as a String.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

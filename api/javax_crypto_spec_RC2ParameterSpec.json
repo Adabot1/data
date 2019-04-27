@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a parameter set for RC2 from the given effective key size (in bits).",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a parameter set for RC2 from the given effective key size (in bits) and an 8-byte IV.",
+            "Function": "getEffectiveKeyBits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a parameter set for RC2 from the given effective key size (in bits) and IV.",
+            "Function": "getIV()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Tests for equality between the specified object and this object.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

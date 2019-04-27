@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Given the partial or complete certificate chain provided by the peer, build a certificate path to a trusted root and return if it can be validated and is trusted for client SSL authentication based on the authentication type.",
+            "Function": "checkClientTrusted(X509Certificate[] chain,String authType)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Given the partial or complete certificate chain provided by the peer, build a certificate path to a trusted root and return if it can be validated and is trusted for server SSL authentication based on the authentication type.",
+            "Function": "checkServerTrusted(X509Certificate[] chain,String authType)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Return an array of certificate authority certificates which are trusted for authenticating peers.",
+            "Function": "getAcceptedIssuers()",
+            "Modifier and Type": "X509Certificate[]"
+        }
+    ]
+}

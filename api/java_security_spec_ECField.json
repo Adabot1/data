@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the field size in bits.",
+            "Function": "getFieldSize()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

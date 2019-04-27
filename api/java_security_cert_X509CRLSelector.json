@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an X509CRLSelector.",
+            "Function": "addIssuer(X500Principal issuer)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a name to the issuerNames criterion.",
+            "Function": "addIssuerName(byte[] name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Adds a name to the issuerNames criterion.",
+            "Function": "addIssuerName(String name)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Denigrated, use addIssuer(X500Principal) or addIssuerName(byte[]) instead.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns a copy of this object.",
+            "Function": "getCertificateChecking()",
+            "Modifier and Type": "X509Certificate"
+        },
+        {
+            "Comments": "Returns the certificate being checked.",
+            "Function": "getDateAndTime()",
+            "Modifier and Type": "Date"
+        },
+        {
+            "Comments": "Returns the dateAndTime criterion.",
+            "Function": "getIssuerNames()",
+            "Modifier and Type": "Collection<Object>"
+        },
+        {
+            "Comments": "Returns a copy of the issuerNames criterion.",
+            "Function": "getIssuers()",
+            "Modifier and Type": "Collection<X500Principal>"
+        },
+        {
+            "Comments": "Returns the issuerNames criterion.",
+            "Function": "getMaxCRL()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the maxCRLNumber criterion.",
+            "Function": "getMinCRL()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the minCRLNumber criterion.",
+            "Function": "match(CRL crl)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Decides whether a CRL should be selected.",
+            "Function": "setCertificateChecking(X509Certificate cert)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the certificate being checked.",
+            "Function": "setDateAndTime(Date dateAndTime)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the dateAndTime criterion.",
+            "Function": "setIssuerNames(Collection<?> names)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Note: use setIssuers(Collection) instead or only specify the byte array form of distinguished names when using this method.",
+            "Function": "setIssuers(Collection<X500Principal> issuers)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the issuerNames criterion.",
+            "Function": "setMaxCRLNumber(BigInteger maxCRL)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maxCRLNumber criterion.",
+            "Function": "setMinCRLNumber(BigInteger minCRL)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the minCRLNumber criterion.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

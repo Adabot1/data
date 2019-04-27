@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Closes this stream and releases any system resources associated with it.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

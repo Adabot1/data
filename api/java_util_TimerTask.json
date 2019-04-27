@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new timer task.",
+            "Function": "cancel()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Cancels this timer task.",
+            "Function": "run()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "The action to be performed by this timer task.",
+            "Function": "scheduledExecutionTime()",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

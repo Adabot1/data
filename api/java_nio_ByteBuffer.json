@@ -1,0 +1,304 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new byte buffer whose content is a shared and aligned subsequence of this buffer's content.",
+            "Function": "alignedSlice(int unitSize)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Returns the memory address, pointing to the byte at the given index, modulus the given unit size.",
+            "Function": "alignmentOffset(int index, int unitSize)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Allocates a new byte buffer.",
+            "Function": "allocate(int capacity)",
+            "Modifier and Type": "static ByteBuffer"
+        },
+        {
+            "Comments": "Allocates a new direct byte buffer.",
+            "Function": "allocateDirect(int capacity)",
+            "Modifier and Type": "static ByteBuffer"
+        },
+        {
+            "Comments": "Returns the byte array that backs this buffer  (optional operation).",
+            "Function": "array()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the offset within this buffer's backing array of the first element of the buffer  (optional operation).",
+            "Function": "arrayOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a view of this byte buffer as a char buffer.",
+            "Function": "asCharBuffer()",
+            "Modifier and Type": "abstract CharBuffer"
+        },
+        {
+            "Comments": "Creates a view of this byte buffer as a double buffer.",
+            "Function": "asDoubleBuffer()",
+            "Modifier and Type": "abstract DoubleBuffer"
+        },
+        {
+            "Comments": "Creates a view of this byte buffer as a float buffer.",
+            "Function": "asFloatBuffer()",
+            "Modifier and Type": "abstract FloatBuffer"
+        },
+        {
+            "Comments": "Creates a view of this byte buffer as an int buffer.",
+            "Function": "asIntBuffer()",
+            "Modifier and Type": "abstract IntBuffer"
+        },
+        {
+            "Comments": "Creates a view of this byte buffer as a long buffer.",
+            "Function": "asLongBuffer()",
+            "Modifier and Type": "abstract LongBuffer"
+        },
+        {
+            "Comments": "Creates a new, read-only byte buffer that shares this buffer's content.",
+            "Function": "asReadOnlyBuffer()",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Creates a view of this byte buffer as a short buffer.",
+            "Function": "asShortBuffer()",
+            "Modifier and Type": "abstract ShortBuffer"
+        },
+        {
+            "Comments": "Compacts this buffer  (optional operation).",
+            "Function": "compact()",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Compares this buffer to another.",
+            "Function": "compareTo(ByteBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new byte buffer that shares this buffer's content.",
+            "Function": "duplicate()",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is equal to another object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Relative get method.",
+            "Function": "get()",
+            "Modifier and Type": "abstract byte"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(byte[] dst)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Relative bulk get method.",
+            "Function": "get(byte[] dst, int offset, int length)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Absolute get method.",
+            "Function": "get(int index)",
+            "Modifier and Type": "abstract byte"
+        },
+        {
+            "Comments": "Relative get method for reading a char value.",
+            "Function": "getChar()",
+            "Modifier and Type": "abstract char"
+        },
+        {
+            "Comments": "Absolute get method for reading a char value.",
+            "Function": "getChar(int index)",
+            "Modifier and Type": "abstract char"
+        },
+        {
+            "Comments": "Relative get method for reading a double value.",
+            "Function": "getDouble()",
+            "Modifier and Type": "abstract double"
+        },
+        {
+            "Comments": "Absolute get method for reading a double value.",
+            "Function": "getDouble(int index)",
+            "Modifier and Type": "abstract double"
+        },
+        {
+            "Comments": "Relative get method for reading a float value.",
+            "Function": "getFloat()",
+            "Modifier and Type": "abstract float"
+        },
+        {
+            "Comments": "Absolute get method for reading a float value.",
+            "Function": "getFloat(int index)",
+            "Modifier and Type": "abstract float"
+        },
+        {
+            "Comments": "Relative get method for reading an int value.",
+            "Function": "getInt()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Absolute get method for reading an int value.",
+            "Function": "getInt(int index)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Relative get method for reading a long value.",
+            "Function": "getLong()",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Absolute get method for reading a long value.",
+            "Function": "getLong(int index)",
+            "Modifier and Type": "abstract long"
+        },
+        {
+            "Comments": "Relative get method for reading a short value.",
+            "Function": "getShort()",
+            "Modifier and Type": "abstract short"
+        },
+        {
+            "Comments": "Absolute get method for reading a short value.",
+            "Function": "getShort(int index)",
+            "Modifier and Type": "abstract short"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is backed by an accessible byte array.",
+            "Function": "hasArray()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the current hash code of this buffer.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether or not this byte buffer is direct.",
+            "Function": "isDirect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Finds and returns the relative index of the first mismatch between this buffer and a given buffer.",
+            "Function": "mismatch(ByteBuffer that)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieves this buffer's byte order.",
+            "Function": "order()",
+            "Modifier and Type": "ByteOrder"
+        },
+        {
+            "Comments": "Modifies this buffer's byte order.",
+            "Function": "order(ByteOrder bo)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Relative put method  (optional operation).",
+            "Function": "put(byte b)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(byte[] src)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(byte[] src, int offset, int length)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Absolute put method  (optional operation).",
+            "Function": "put(int index, byte b)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Relative bulk put method  (optional operation).",
+            "Function": "put(ByteBuffer src)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Relative put method for writing a char value  (optional operation).",
+            "Function": "putChar(char value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Absolute put method for writing a char value  (optional operation).",
+            "Function": "putChar(int index, char value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Relative put method for writing a double value  (optional operation).",
+            "Function": "putDouble(double value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Absolute put method for writing a double value  (optional operation).",
+            "Function": "putDouble(int index, double value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Relative put method for writing a float value  (optional operation).",
+            "Function": "putFloat(float value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Absolute put method for writing a float value  (optional operation).",
+            "Function": "putFloat(int index,float value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Relative put method for writing an int value  (optional operation).",
+            "Function": "putInt(int value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Absolute put method for writing an int value  (optional operation).",
+            "Function": "putInt(int index,int value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Absolute put method for writing a long value  (optional operation).",
+            "Function": "putLong(int index, long value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Relative put method for writing a long value  (optional operation).",
+            "Function": "putLong(long value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Absolute put method for writing a short value  (optional operation).",
+            "Function": "putShort(int index,short value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Relative put method for writing a short value  (optional operation).",
+            "Function": "putShort(short value)",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Creates a new byte buffer whose content is a shared subsequence of this buffer's content.",
+            "Function": "slice()",
+            "Modifier and Type": "abstract ByteBuffer"
+        },
+        {
+            "Comments": "Returns a string summarizing the state of this buffer.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Wraps a byte array into a buffer.",
+            "Function": "wrap(byte[] array)",
+            "Modifier and Type": "static ByteBuffer"
+        },
+        {
+            "Comments": "Wraps a byte array into a buffer.",
+            "Function": "wrap(byte[] array,int offset,int length)",
+            "Modifier and Type": "static ByteBuffer"
+        }
+    ]
+}

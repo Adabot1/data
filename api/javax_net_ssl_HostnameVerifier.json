@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Verify that the host name is an acceptable match with the server's authentication scheme.",
+            "Function": "verify(String hostname,SSLSession session)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

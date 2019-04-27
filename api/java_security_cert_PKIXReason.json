@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The certificate's key usage is invalid.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static PKIXReason"
+        },
+        {
+            "Comments": "The name constraints have been violated.",
+            "Function": "values()",
+            "Modifier and Type": "static PKIXReason[]"
+        }
+    ]
+}

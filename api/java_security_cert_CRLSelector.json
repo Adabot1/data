@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Makes a copy of this CRLSelector.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Decides whether a CRL should be selected.",
+            "Function": "match(CRL crl)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

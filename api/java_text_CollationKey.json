@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "CollationKey constructor.",
+            "Function": "compareTo(CollationKey target)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Compare this CollationKey to the target CollationKey.",
+            "Function": "getSourceString()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the String that this CollationKey represents.",
+            "Function": "toByteArray()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

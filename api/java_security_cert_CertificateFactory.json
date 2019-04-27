@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a CertificateFactory object of the given type, and encapsulates the given provider implementation (SPI object) in it.",
+            "Function": "generateCertificate(InputStream inStream)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Generates a certificate object and initializes it with the data read from the input stream inStream.",
+            "Function": "generateCertificates(InputStream inStream)",
+            "Modifier and Type": "Certificate"
+        },
+        {
+            "Comments": "Returns a (possibly empty) collection view of the certificates read from the given input stream inStream.",
+            "Function": "generateCertPath(InputStream inStream)",
+            "Modifier and Type": "Collection<? extends Certificate>"
+        },
+        {
+            "Comments": "Generates a CertPath object and initializes it with the data read from the InputStream inStream.",
+            "Function": "generateCertPath(InputStream inStream,String encoding)",
+            "Modifier and Type": "CertPath"
+        },
+        {
+            "Comments": "Generates a CertPath object and initializes it with the data read from the InputStream inStream.",
+            "Function": "generateCertPath(List<? extends Certificate> certificates)",
+            "Modifier and Type": "CertPath"
+        },
+        {
+            "Comments": "Generates a CertPath object and initializes it with a List of Certificates.",
+            "Function": "generateCRL(InputStream inStream)",
+            "Modifier and Type": "CertPath"
+        },
+        {
+            "Comments": "Generates a certificate revocation list (CRL) object and initializes it with the data read from the input stream inStream.",
+            "Function": "generateCRLs(InputStream inStream)",
+            "Modifier and Type": "CRL"
+        },
+        {
+            "Comments": "Returns a (possibly empty) collection view of the CRLs read from the given input stream inStream.",
+            "Function": "getCertPathEncodings()",
+            "Modifier and Type": "Collection<? extends CRL>"
+        },
+        {
+            "Comments": "Returns an iteration of the CertPath encodings supported by this certificate factory, with the default encoding first.",
+            "Function": "getInstance(String type)",
+            "Modifier and Type": "Iterator<String>"
+        },
+        {
+            "Comments": "Returns a certificate factory object that implements the specified certificate type.",
+            "Function": "getInstance(String type, String provider)",
+            "Modifier and Type": "static CertificateFactory"
+        },
+        {
+            "Comments": "Returns a certificate factory object for the specified certificate type.",
+            "Function": "getInstance(String type, Provider provider)",
+            "Modifier and Type": "static CertificateFactory"
+        },
+        {
+            "Comments": "Returns a certificate factory object for the specified certificate type.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static CertificateFactory"
+        },
+        {
+            "Comments": "Returns the provider of this certificate factory.",
+            "Function": "getType()",
+            "Modifier and Type": "Provider"
+        }
+    ]
+}

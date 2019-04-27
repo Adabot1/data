@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Applies this function to the given argument.",
+            "Function": "applyAsDouble(int value)",
+            "Modifier and Type": "double"
+        }
+    ]
+}

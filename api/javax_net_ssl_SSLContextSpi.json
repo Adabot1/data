@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new SSLEngine using this context.",
+            "Function": "engineCreateSSLEngine()",
+            "Modifier and Type": "protected abstract SSLEngine"
+        },
+        {
+            "Comments": "Creates a SSLEngine using this context.",
+            "Function": "engineCreateSSLEngine(String host, int port)",
+            "Modifier and Type": "protected abstract SSLEngine"
+        },
+        {
+            "Comments": "Returns a client SSLSessionContext object for this context.",
+            "Function": "engineGetClientSessionContext()",
+            "Modifier and Type": "protected abstract SSLSessionContext"
+        },
+        {
+            "Comments": "Returns a copy of the SSLParameters indicating the default settings for this SSL context.",
+            "Function": "engineGetDefaultSSLParameters()",
+            "Modifier and Type": "protected SSLParameters"
+        },
+        {
+            "Comments": "Returns a server SSLSessionContext object for this context.",
+            "Function": "engineGetServerSessionContext()",
+            "Modifier and Type": "protected abstract SSLSessionContext"
+        },
+        {
+            "Comments": "Returns a ServerSocketFactory object for this context.",
+            "Function": "engineGetServerSocketFactory()",
+            "Modifier and Type": "protected abstract SSLServerSocketFactory"
+        },
+        {
+            "Comments": "Returns a SocketFactory object for this context.",
+            "Function": "engineGetSocketFactory()",
+            "Modifier and Type": "protected abstract SSLSocketFactory"
+        },
+        {
+            "Comments": "Returns a copy of the SSLParameters indicating the maximum supported settings for this SSL context.",
+            "Function": "engineGetSupportedSSLParameters()",
+            "Modifier and Type": "protected SSLParameters"
+        },
+        {
+            "Comments": "Initializes this context.",
+            "Function": "engineInit(KeyManager[] km,TrustManager[] tm,SecureRandom sr)",
+            "Modifier and Type": "protected abstract void"
+        }
+    ]
+}

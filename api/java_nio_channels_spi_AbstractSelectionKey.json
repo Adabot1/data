@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "cancel()",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

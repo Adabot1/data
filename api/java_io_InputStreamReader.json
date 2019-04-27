@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an InputStreamReader that uses the default charset.",
+            "Function": "getEncoding()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates an InputStreamReader that uses the named charset.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates an InputStreamReader that uses the given charset.",
+            "Function": "read(char[] cbuf,int offset,int length)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates an InputStreamReader that uses the given charset decoder.",
+            "Function": "ready()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

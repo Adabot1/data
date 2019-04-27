@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Rounding mode to round towards positive infinity.",
+            "Function": "valueOf(int rm)",
+            "Modifier and Type": "static RoundingMode"
+        },
+        {
+            "Comments": "Rounding mode to round towards zero.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static RoundingMode"
+        },
+        {
+            "Comments": "Rounding mode to round towards negative infinity.",
+            "Function": "values()",
+            "Modifier and Type": "static RoundingMode[]"
+        }
+    ]
+}

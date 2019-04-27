@@ -1,0 +1,179 @@
+{
+    "API": [
+        {
+            "Comments": "A handler for rejected tasks that throws a RejectedExecutionException.",
+            "Function": "ThreadPoolExecutor.AbortPolicy",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A handler for rejected tasks that runs the rejected task directly in the calling thread of the execute method, unless the executor has been shut down, in which case the task is discarded.",
+            "Function": "ThreadPoolExecutor.CallerRunsPolicy",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A handler for rejected tasks that discards the oldest unhandled request and then retries execute, unless the executor is shut down, in which case the task is discarded.",
+            "Function": "ThreadPoolExecutor.DiscardOldestPolicy",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A handler for rejected tasks that silently discards the rejected task.",
+            "Function": "ThreadPoolExecutor.DiscardPolicy",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Creates a new ThreadPoolExecutor with the given initial parameters, the default thread factory and the default rejected execution handler.",
+            "Function": "afterExecute(Runnable r,Throwable t)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Creates a new ThreadPoolExecutor with the given initial parameters and default thread factory.",
+            "Function": "allowCoreThreadTimeOut(boolean value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new ThreadPoolExecutor with the given initial parameters and default rejected execution handler.",
+            "Function": "allowsCoreThreadTimeOut()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new ThreadPoolExecutor with the given initial parameters.",
+            "Function": "beforeExecute(Thread t, Runnable r)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Method invoked upon completion of execution of the given Runnable.",
+            "Function": "execute(Runnable command)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the policy governing whether core threads may time out and terminate if no tasks arrive within the keep-alive time, being replaced if needed when new tasks arrive.",
+            "Function": "finalize()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Returns true if this pool allows core threads to time out and terminate if no tasks arrive within the keepAlive time, being replaced if needed when new tasks arrive.",
+            "Function": "getActiveCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Method invoked prior to executing the given Runnable in the given thread.",
+            "Function": "getCompletedTaskCount()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Executes the given task sometime in the future.",
+            "Function": "getCorePoolSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "getKeepAliveTime(TimeUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the approximate number of threads that are actively executing tasks.",
+            "Function": "getLargestPoolSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the approximate total number of tasks that have completed execution.",
+            "Function": "getMaximumPoolSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the core number of threads.",
+            "Function": "getPoolSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the thread keep-alive time, which is the amount of time that threads may remain idle before being terminated.",
+            "Function": "getQueue()",
+            "Modifier and Type": "BlockingQueue<Runnable>"
+        },
+        {
+            "Comments": "Returns the largest number of threads that have ever simultaneously been in the pool.",
+            "Function": "getRejectedExecutionHandler()",
+            "Modifier and Type": "RejectedExecutionHandler"
+        },
+        {
+            "Comments": "Returns the maximum allowed number of threads.",
+            "Function": "getTaskCount()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the current number of threads in the pool.",
+            "Function": "getThreadFactory()",
+            "Modifier and Type": "ThreadFactory"
+        },
+        {
+            "Comments": "Returns the task queue used by this executor.",
+            "Function": "isTerminating()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the current handler for unexecutable tasks.",
+            "Function": "prestartAllCoreThreads()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the approximate total number of tasks that have ever been scheduled for execution.",
+            "Function": "prestartCoreThread()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the thread factory used to create new threads.",
+            "Function": "purge()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns true if this executor is in the process of terminating after shutdown() or shutdownNow() but has not completely terminated.",
+            "Function": "remove(Runnable task)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Starts all core threads, causing them to idly wait for work.",
+            "Function": "setCorePoolSize(int corePoolSize)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Starts a core thread, causing it to idly wait for work.",
+            "Function": "setKeepAliveTime(long time,TimeUnit unit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tries to remove from the work queue all Future tasks that have been cancelled.",
+            "Function": "setMaximumPoolSize(int maximumPoolSize)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Removes this task from the executor's internal queue if it is present, thus causing it not to be run if it has not already started.",
+            "Function": "setRejectedExecutionHandler(RejectedExecutionHandler handler)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the core number of threads.",
+            "Function": "setThreadFactory(ThreadFactory threadFactory)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the thread keep-alive time, which is the amount of time that threads may remain idle before being terminated.",
+            "Function": "shutdown()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum allowed number of threads.",
+            "Function": "shutdownNow()",
+            "Modifier and Type": "List<Runnable>"
+        },
+        {
+            "Comments": "Sets a new handler for unexecutable tasks.",
+            "Function": "terminated()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Sets the thread factory used to create new threads.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

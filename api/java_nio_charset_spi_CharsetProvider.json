@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new charset provider.",
+            "Function": "charsetForName(String charsetName)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Retrieves a charset for the given charset name.",
+            "Function": "charsets()",
+            "Modifier and Type": "abstract Charset"
+        }
+    ]
+}

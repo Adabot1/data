@@ -1,0 +1,349 @@
+{
+    "API": [
+        {
+            "Comments": "Copies all bytes from an input stream to a file.",
+            "Function": "copy(InputStream in,Path target,CopyOption... options)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Copies all bytes from a file to an output stream.",
+            "Function": "copy(Path source,OutputStream out)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Copy a file to a target file.",
+            "Function": "copy(Path source,Path target,CopyOption... options)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a directory by creating all nonexistent parent directories first.",
+            "Function": "createDirectories(Path dir, FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a new directory.",
+            "Function": "createDirectory(Path dir, FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a new and empty file, failing if the file already exists.",
+            "Function": "createFile(Path path,FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a new link (directory entry) for an existing file (optional operation).",
+            "Function": "createLink(Path link,Path existing)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a symbolic link to a target (optional operation).",
+            "Function": "createSymbolicLink(Path link,Path target,FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a new directory in the default temporary-file directory, using the given prefix to generate its name.",
+            "Function": "createTempDirectory(String prefix, FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a new directory in the specified directory, using the given prefix to generate its name.",
+            "Function": "createTempDirectory(Path dir, String prefix, FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates an empty file in the default temporary-file directory, using the given prefix and suffix to generate its name.",
+            "Function": "createTempFile(String prefix,String suffix,FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Creates a new empty file in the specified directory, using the given prefix and suffix strings to generate its name.",
+            "Function": "createTempFile(Path dir,String prefix,String suffix,FileAttribute<?>... attrs)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Deletes a file.",
+            "Function": "delete(Path path)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Deletes a file if it exists.",
+            "Function": "deleteIfExists(Path path)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tests whether a file exists.",
+            "Function": "exists(Path path,LinkOption... options)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return a Stream that is lazily populated with  Path by searching for files in a file tree rooted at a given starting file.",
+            "Function": "find(Path start,int maxDepth,BiPredicate<Path,BasicFileAttributes> matcher,FileVisitOption... options)",
+            "Modifier and Type": "static Stream<Path>"
+        },
+        {
+            "Comments": "Reads the value of a file attribute.",
+            "Function": "getAttribute(Path path,String attribute,LinkOption... options)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Returns a file attribute view of a given type.",
+            "Function": "getFileAttributeView(Path path,Class<V> type,LinkOption... options)",
+            "Modifier and Type": "static <V extends FileAttributeView>V"
+        },
+        {
+            "Comments": "Returns the FileStore representing the file store where a file is located.",
+            "Function": "getFileStore(Path path)",
+            "Modifier and Type": "static FileStore"
+        },
+        {
+            "Comments": "Returns a file's last modified time.",
+            "Function": "getLastModifiedTime(Path path, LinkOption... options)",
+            "Modifier and Type": "static FileTime"
+        },
+        {
+            "Comments": "Returns the owner of a file.",
+            "Function": "getOwner(Path path,LinkOption... options)",
+            "Modifier and Type": "static UserPrincipal"
+        },
+        {
+            "Comments": "Returns a file's POSIX file permissions.",
+            "Function": "getPosixFilePermissions(Path path, LinkOption... options)",
+            "Modifier and Type": "static Set<PosixFilePermission>"
+        },
+        {
+            "Comments": "Tests whether a file is a directory.",
+            "Function": "isDirectory(Path path, LinkOption... options)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tests whether a file is executable.",
+            "Function": "isExecutable(Path path)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tells whether or not a file is considered hidden.",
+            "Function": "isHidden(Path path)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tests whether a file is readable.",
+            "Function": "isReadable(Path path)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tests whether a file is a regular file with opaque content.",
+            "Function": "isRegularFile(Path path, LinkOption... options)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tests if two paths locate the same file.",
+            "Function": "isSameFile(Path path,Path path2)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tests whether a file is a symbolic link.",
+            "Function": "isSymbolicLink(Path path)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tests whether a file is writable.",
+            "Function": "isWritable(Path path)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Read all lines from a file as a Stream.",
+            "Function": "lines(Path path)",
+            "Modifier and Type": "static Stream<String>"
+        },
+        {
+            "Comments": "Read all lines from a file as a Stream.",
+            "Function": "lines(Path path, Charset cs)",
+            "Modifier and Type": "static Stream<String>"
+        },
+        {
+            "Comments": "Return a lazily populated Stream, the elements of which are the entries in the directory.",
+            "Function": "list(Path dir)",
+            "Modifier and Type": "static Stream<Path>"
+        },
+        {
+            "Comments": "Move or rename a file to a target file.",
+            "Function": "move(Path source,Path target,CopyOption... options)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Opens a file for reading, returning a BufferedReader to read text from the file in an efficient manner.",
+            "Function": "newBufferedReader(Path path)",
+            "Modifier and Type": "static BufferedReader"
+        },
+        {
+            "Comments": "Opens a file for reading, returning a BufferedReader that may be used to read text from the file in an efficient manner.",
+            "Function": "newBufferedReader(Path path, Charset cs)",
+            "Modifier and Type": "static BufferedReader"
+        },
+        {
+            "Comments": "Opens or creates a file for writing, returning a BufferedWriter that may be used to write text to the file in an efficient manner.",
+            "Function": "newBufferedWriter(Path path, Charset cs, OpenOption... options)",
+            "Modifier and Type": "static BufferedWriter"
+        },
+        {
+            "Comments": "Opens or creates a file for writing, returning a BufferedWriter to write text to the file in an efficient manner.",
+            "Function": "newBufferedWriter(Path path, OpenOption... options)",
+            "Modifier and Type": "static BufferedWriter"
+        },
+        {
+            "Comments": "Opens or creates a file, returning a seekable byte channel to access the file.",
+            "Function": "newByteChannel(Path path,OpenOption... options)",
+            "Modifier and Type": "static SeekableByteChannel"
+        },
+        {
+            "Comments": "Opens or creates a file, returning a seekable byte channel to access the file.",
+            "Function": "newByteChannel(Path path,Set<? extends OpenOption> options,FileAttribute<?>... attrs)",
+            "Modifier and Type": "static SeekableByteChannel"
+        },
+        {
+            "Comments": "Opens a directory, returning a DirectoryStream to iterate over all entries in the directory.",
+            "Function": "newDirectoryStream(Path dir)",
+            "Modifier and Type": "static DirectoryStream<Path>"
+        },
+        {
+            "Comments": "Opens a directory, returning a DirectoryStream to iterate over the entries in the directory.",
+            "Function": "newDirectoryStream(Path dir,String glob)",
+            "Modifier and Type": "static DirectoryStream<Path>"
+        },
+        {
+            "Comments": "Opens a directory, returning a DirectoryStream to iterate over the entries in the directory.",
+            "Function": "newDirectoryStream(Path dir,DirectoryStream.Filter<? super Path> filter)",
+            "Modifier and Type": "static DirectoryStream<Path>"
+        },
+        {
+            "Comments": "Opens a file, returning an input stream to read from the file.",
+            "Function": "newInputStream(Path path,OpenOption... options)",
+            "Modifier and Type": "static InputStream"
+        },
+        {
+            "Comments": "Opens or creates a file, returning an output stream that may be used to write bytes to the file.",
+            "Function": "newOutputStream(Path path, OpenOption... options)",
+            "Modifier and Type": "static OutputStream"
+        },
+        {
+            "Comments": "Tests whether the file located by this path does not exist.",
+            "Function": "notExists(Path path, LinkOption... options)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Probes the content type of a file.",
+            "Function": "probeContentType(Path path)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Reads all the bytes from a file.",
+            "Function": "readAllBytes(Path path)",
+            "Modifier and Type": "static byte[]"
+        },
+        {
+            "Comments": "Read all lines from a file.",
+            "Function": "readAllLines(Path path)",
+            "Modifier and Type": "static List<String>"
+        },
+        {
+            "Comments": "Read all lines from a file.",
+            "Function": "readAllLines(Path path,Charset cs)",
+            "Modifier and Type": "static List<String>"
+        },
+        {
+            "Comments": "Reads a file's attributes as a bulk operation.",
+            "Function": "readAttributes(Path path,Class<A> type,LinkOption... options)",
+            "Modifier and Type": "static <A extends BasicFileAttributes>A"
+        },
+        {
+            "Comments": "Reads a set of file attributes as a bulk operation.",
+            "Function": "readAttributes(Path path,String attributes,LinkOption... options)",
+            "Modifier and Type": "static Map<String,​Object>"
+        },
+        {
+            "Comments": "Reads all content from a file into a string, decoding from bytes to characters using the UTF-8 charset.",
+            "Function": "readString(Path path)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Reads all characters from a file into a string, decoding from bytes to characters using the specified charset.",
+            "Function": "readString(Path path,Charset cs)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Reads the target of a symbolic link (optional operation).",
+            "Function": "readSymbolicLink(Path link)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Sets the value of a file attribute.",
+            "Function": "setAttribute(Path path,String attribute,Object value,LinkOption... options)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Updates a file's last modified time attribute.",
+            "Function": "setLastModifiedTime(Path path, FileTime time)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Updates the file owner.",
+            "Function": "setOwner(Path path,UserPrincipal owner)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Sets a file's POSIX permissions.",
+            "Function": "setPosixFilePermissions(Path path, Set<PosixFilePermission> perms)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Returns the size of a file (in bytes).",
+            "Function": "size(Path path)",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Return a Stream that is lazily populated with  Path by walking the file tree rooted at a given starting file.",
+            "Function": "walk(Path start,int maxDepth,FileVisitOption... options)",
+            "Modifier and Type": "static Stream<Path>"
+        },
+        {
+            "Comments": "Return a Stream that is lazily populated with  Path by walking the file tree rooted at a given starting file.",
+            "Function": "walk(Path start,FileVisitOption... options)",
+            "Modifier and Type": "static Stream<Path>"
+        },
+        {
+            "Comments": "Walks a file tree.",
+            "Function": "walkFileTree(Path start,FileVisitor<? super Path> visitor)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Walks a file tree.",
+            "Function": "walkFileTree(Path start,Set<FileVisitOption> options,int maxDepth,FileVisitor<? super Path> visitor)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Writes bytes to a file.",
+            "Function": "write(Path path, byte[] bytes, OpenOption... options)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Write lines of text to a file.",
+            "Function": "write(Path path, Iterable<? extends CharSequence> lines, Charset cs, OpenOption... options)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Write lines of text to a file.",
+            "Function": "write(Path path, Iterable<? extends CharSequence> lines, OpenOption... options)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Write a CharSequence to a file.",
+            "Function": "writeString(Path path, CharSequence csq, Charset cs, OpenOption... options)",
+            "Modifier and Type": "static Path"
+        },
+        {
+            "Comments": "Write a CharSequence to a file.",
+            "Function": "writeString(Path path, CharSequence csq, OpenOption... options)",
+            "Modifier and Type": "static Path"
+        }
+    ]
+}

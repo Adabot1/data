@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new BasicPermission with the specified name.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new BasicPermission object with the specified name.",
+            "Function": "getActions()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Checks two BasicPermission objects for equality.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the canonical string representation of the actions, which currently is the empty string \"\", since there are no actions for a BasicPermission.",
+            "Function": "implies(Permission p)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the hash code value for this object.",
+            "Function": "newPermissionCollection()",
+            "Modifier and Type": "PermissionCollection"
+        }
+    ]
+}

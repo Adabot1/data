@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "Create an instance of a Subject with an empty Set of Principals and empty Sets of public and private credentials.",
+            "Function": "doAs(Subject subject,PrivilegedAction<T> action)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Create an instance of a Subject with Principals and credentials.",
+            "Function": "doAs(Subject subject,PrivilegedExceptionAction<T> action)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Perform work as a particular Subject.",
+            "Function": "doAsPrivileged(Subject subject,PrivilegedAction<T> action,AccessControlContext acc)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Perform work as a particular Subject.",
+            "Function": "doAsPrivileged(Subject subject,PrivilegedExceptionAction<T> action,AccessControlContext acc)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Perform privileged work as a particular Subject.",
+            "Function": "equals(Object o)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Perform privileged work as a particular Subject.",
+            "Function": "getPrincipals()",
+            "Modifier and Type": "Set<Principal>"
+        },
+        {
+            "Comments": "Compares the specified Object with this Subject for equality.",
+            "Function": "getPrincipals(Class<T> c)",
+            "Modifier and Type": "<T extends Principal>Set<T>"
+        },
+        {
+            "Comments": "Return the Set of Principals associated with this Subject.",
+            "Function": "getPrivateCredentials()",
+            "Modifier and Type": "Set<Object>"
+        },
+        {
+            "Comments": "Return a Set of Principals associated with this Subject that are instances or subclasses of the specified Class.",
+            "Function": "getPrivateCredentials(Class<T> c)",
+            "Modifier and Type": "<T> Set<T>"
+        },
+        {
+            "Comments": "Return the Set of private credentials held by this Subject.",
+            "Function": "getPublicCredentials()",
+            "Modifier and Type": "Set<Object>"
+        },
+        {
+            "Comments": "Return a Set of private credentials associated with this Subject that are instances or subclasses of the specified Class.",
+            "Function": "getPublicCredentials(Class<T> c)",
+            "Modifier and Type": "<T> Set<T>"
+        },
+        {
+            "Comments": "Return the Set of public credentials held by this Subject.",
+            "Function": "getSubject(AccessControlContext acc)",
+            "Modifier and Type": "static Subject"
+        },
+        {
+            "Comments": "Return a Set of public credentials associated with this Subject that are instances or subclasses of the specified Class.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the Subject associated with the provided AccessControlContext.",
+            "Function": "isReadOnly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a hashcode for this Subject.",
+            "Function": "setReadOnly()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Query whether this Subject is read-only.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

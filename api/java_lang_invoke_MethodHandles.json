@@ -1,0 +1,214 @@
+{
+    "API": [
+        {
+            "Comments": "A lookup object is a factory for creating method handles, when the creation requires access checking.",
+            "Function": "MethodHandles.Lookup",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Produces a method handle constructing arrays of a desired type, as if by the anewarray bytecode.",
+            "Function": "arrayConstructor(Class<?> arrayClass)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving read access to elements of an array, as if by the aaload bytecode.",
+            "Function": "arrayElementGetter(Class<?> arrayClass)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving write access to elements of an array, as if by the astore bytecode.",
+            "Function": "arrayElementSetter(Class<?> arrayClass)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a VarHandle giving access to elements of an array of type arrayClass.",
+            "Function": "arrayElementVarHandle(Class<?> arrayClass)",
+            "Modifier and Type": "static VarHandle"
+        },
+        {
+            "Comments": "Produces a method handle returning the length of an array, as if by the arraylength bytecode.",
+            "Function": "arrayLength(Class<?> arrayClass)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a VarHandle giving access to elements of a byte[] array viewed as if it were a different primitive array type, such as int[] or long[].",
+            "Function": "byteArrayViewVarHandle(Class<?> viewArrayClass,ByteOrder byteOrder)",
+            "Modifier and Type": "static VarHandle"
+        },
+        {
+            "Comments": "Produces a VarHandle giving access to elements of a ByteBuffer viewed as if it were an array of elements of a different primitive component type to that of byte, such as int[] or long[].",
+            "Function": "byteBufferViewVarHandle(Class<?> viewArrayClass, ByteOrder byteOrder)",
+            "Modifier and Type": "static VarHandle"
+        },
+        {
+            "Comments": "Makes a method handle which adapts a target method handle, by running it inside an exception handler.",
+            "Function": "catchException(MethodHandle target,Class<? extends Throwable> exType,MethodHandle handler)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Adapts a target method handle by pre-processing a sub-sequence of its arguments with a filter (another method handle).",
+            "Function": "collectArguments(MethodHandle target,int pos,MethodHandle filter)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle of the requested return type which returns the given constant value every time it is invoked.",
+            "Function": "constant(Class<?> type,Object value)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Constructs a loop that runs a given number of iterations.",
+            "Function": "countedLoop(MethodHandle iterations, MethodHandle init, MethodHandle body)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Constructs a loop that counts over a range of numbers.",
+            "Function": "countedLoop(MethodHandle start, MethodHandle end, MethodHandle init, MethodHandle body)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Constructs a do-while loop from an initializer, a body, and a predicate.",
+            "Function": "doWhileLoop(MethodHandle init, MethodHandle body, MethodHandle pred)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle which will discard some dummy arguments before calling some other specified target method handle.",
+            "Function": "dropArguments(MethodHandle target, int pos, Class<?>... valueTypes)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle which will discard some dummy arguments before calling some other specified target method handle.",
+            "Function": "dropArguments(MethodHandle target, int pos, List<Class<?>> valueTypes)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Adapts a target method handle to match the given parameter type list.",
+            "Function": "dropArgumentsToMatch(MethodHandle target,int skip,List<Class<?>> newTypes,int pos)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle of the requested type which ignores any arguments, does nothing, and returns a suitable default depending on the return type.",
+            "Function": "empty(MethodType type)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a special invoker method handle which can be used to invoke any method handle of the given type, as if by invokeExact.",
+            "Function": "exactInvoker(MethodType type)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle which adapts the type of the given method handle to a new type by pairwise argument and return type conversion.",
+            "Function": "explicitCastArguments(MethodHandle target, MethodType newType)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Adapts a target method handle by pre-processing one or more of its arguments, each with its own unary filter function, and then calling the target with each pre-processed argument replaced by the result of its corresponding filter function.",
+            "Function": "filterArguments(MethodHandle target, int pos, MethodHandle... filters)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Adapts a target method handle by post-processing its return value (if any) with a filter (another method handle).",
+            "Function": "filterReturnValue(MethodHandle target, MethodHandle filter)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Adapts a target method handle by pre-processing some of its arguments, starting at a given position, and then calling the target with the result of the pre-processing, inserted into the original sequence of arguments just before the folded arguments.",
+            "Function": "foldArguments(MethodHandle target, int pos, MethodHandle combiner)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Adapts a target method handle by pre-processing some of its arguments, and then calling the target with the result of the pre-processing, inserted into the original sequence of arguments.",
+            "Function": "foldArguments(MethodHandle target, MethodHandle combiner)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Makes a method handle which adapts a target method handle, by guarding it with a test, a boolean-valued method handle.",
+            "Function": "guardWithTest(MethodHandle test, MethodHandle target, MethodHandle fallback)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle which returns its sole argument when invoked.",
+            "Function": "identity(Class<?> type)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Provides a target method handle with one or more bound arguments in advance of the method handle's invocation.",
+            "Function": "insertArguments(MethodHandle target, int pos, Object... values)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a special invoker method handle which can be used to invoke any method handle compatible with the given type, as if by invoke.",
+            "Function": "invoker(MethodType type)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Constructs a loop that ranges over the values produced by an Iterator<T>.",
+            "Function": "iteratedLoop(MethodHandle iterator,MethodHandle init,MethodHandle body)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Returns a lookup object with full capabilities to emulate all supported bytecode behaviors of the caller.",
+            "Function": "lookup()",
+            "Modifier and Type": "static MethodHandles.Lookup"
+        },
+        {
+            "Comments": "Constructs a method handle representing a loop with several loop variables that are updated and checked upon each iteration.",
+            "Function": "loop(MethodHandle[]... clauses)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle which adapts the calling sequence of the given method handle to a new type, by reordering the arguments.",
+            "Function": "permuteArguments(MethodHandle target,MethodType newType,int... reorder)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Returns a lookup object with full capabilities to emulate all supported bytecode behaviors, including  private access, on a target class.",
+            "Function": "privateLookupIn(Class<?> targetClass, MethodHandles.Lookup lookup)",
+            "Modifier and Type": "static MethodHandles.Lookup"
+        },
+        {
+            "Comments": "Returns a lookup object which is trusted minimally.",
+            "Function": "publicLookup()",
+            "Modifier and Type": "static MethodHandles.Lookup"
+        },
+        {
+            "Comments": "Performs an unchecked \"crack\" of a direct method handle.",
+            "Function": "reflectAs(Class<T> expected, MethodHandle target)",
+            "Modifier and Type": "static <T extends Member>T"
+        },
+        {
+            "Comments": "Produces a method handle which will invoke any method handle of the given type, with a given number of trailing arguments replaced by a single trailing Object[] array.",
+            "Function": "spreadInvoker(MethodType type, int leadingArgCount)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle which will throw exceptions of the given exType.",
+            "Function": "throwException(Class<?> returnType,Class<? extends Throwable> exType)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Makes a method handle that adapts a target method handle by wrapping it in a try-finally block.",
+            "Function": "tryFinally(MethodHandle target,MethodHandle cleanup)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a special invoker method handle which can be used to invoke a signature-polymorphic access mode method on any VarHandle whose associated access mode type is compatible with the given type.",
+            "Function": "varHandleExactInvoker(VarHandle.AccessMode accessMode, MethodType type)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a special invoker method handle which can be used to invoke a signature-polymorphic access mode method on any VarHandle whose associated access mode type is compatible with the given type.",
+            "Function": "varHandleInvoker(VarHandle.AccessMode accessMode,MethodType type)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Constructs a while loop from an initializer, a body, and a predicate.",
+            "Function": "whileLoop(MethodHandle init, MethodHandle pred, MethodHandle body)",
+            "Modifier and Type": "static MethodHandle"
+        },
+        {
+            "Comments": "Produces a constant method handle of the requested return type which returns the default value for that type every time it is invoked.",
+            "Function": "zero(Class<?> type)",
+            "Modifier and Type": "static MethodHandle"
+        }
+    ]
+}

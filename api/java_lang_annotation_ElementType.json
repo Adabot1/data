@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Annotation type declaration",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ElementType"
+        },
+        {
+            "Comments": "Constructor declaration",
+            "Function": "values()",
+            "Modifier and Type": "static ElementType[]"
+        }
+    ]
+}

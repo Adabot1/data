@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.",
+            "Function": "update(Observable o,Object arg)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

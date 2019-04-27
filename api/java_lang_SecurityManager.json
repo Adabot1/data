@@ -1,0 +1,154 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new SecurityManager.",
+            "Function": "checkAccept(String host, int port)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not permitted to accept a socket connection from the specified host and port number.",
+            "Function": "checkAccess(Thread t)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to modify the thread argument.",
+            "Function": "checkAccess(ThreadGroup g)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to modify the thread group argument.",
+            "Function": "checkConnect(String host,int port)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to open a socket connection to the specified host and port number.",
+            "Function": "checkConnect(String host,int port,Object context)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the specified security context is not allowed to open a socket connection to the specified host and port number.",
+            "Function": "checkCreateClassLoader()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to create a new class loader.",
+            "Function": "checkDelete(String file)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to delete the specified file.",
+            "Function": "checkExec(String cmd)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to create a subprocess.",
+            "Function": "checkExit(int status)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to cause the Java Virtual Machine to halt with the specified status code.",
+            "Function": "checkLink(String lib)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to dynamic link the library code specified by the string argument file.",
+            "Function": "checkListen(int port)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to wait for a connection request on the specified local port number.",
+            "Function": "checkMulticast(InetAddress maddr)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to use (join/leave/send/receive) IP multicast.",
+            "Function": "checkMulticast(InetAddress maddr,byte ttl)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.Use #checkPermission(java.security.Permission) instead",
+            "Function": "checkPackageAccess(String pkg)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to access the specified package.",
+            "Function": "checkPackageDefinition(String pkg)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to define classes in the specified package.",
+            "Function": "checkPermission(Permission perm)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the requested access, specified by the given permission, is not permitted based on the security policy currently in effect.",
+            "Function": "checkPermission(Permission perm, Object context)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the specified security context is denied access to the resource specified by the given permission.",
+            "Function": "checkPrintJobAccess()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to initiate a print job request.",
+            "Function": "checkPropertiesAccess()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to access or modify the system properties.",
+            "Function": "checkPropertyAccess(String key)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to access the system property with the specified key name.",
+            "Function": "checkRead(FileDescriptor fd)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to read from the specified file descriptor.",
+            "Function": "checkRead(String file)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to read the file specified by the string argument.",
+            "Function": "checkRead(String file, Object context)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the specified security context is not allowed to read the file specified by the string argument.",
+            "Function": "checkSecurityAccess(String target)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Determines whether the permission with the specified permission target name should be granted or denied.",
+            "Function": "checkSetFactory()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to set the socket factory used by ServerSocket or Socket, or the stream handler factory used by URL.",
+            "Function": "checkWrite(FileDescriptor fd)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to write to the specified file descriptor.",
+            "Function": "checkWrite(String file)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Throws a SecurityException if the calling thread is not allowed to write to the file specified by the string argument.",
+            "Function": "getClassContext()",
+            "Modifier and Type": "protected Class<?>[]"
+        },
+        {
+            "Comments": "Returns the current execution stack as an array of classes.",
+            "Function": "getSecurityContext()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Creates an object that encapsulates the current execution environment.",
+            "Function": "getThreadGroup()",
+            "Modifier and Type": "ThreadGroup"
+        }
+    ]
+}

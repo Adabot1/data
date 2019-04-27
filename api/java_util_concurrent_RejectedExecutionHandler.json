@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Method that may be invoked by a ThreadPoolExecutor when execute cannot accept a task.",
+            "Function": "rejectedExecution(Runnable r, ThreadPoolExecutor executor)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

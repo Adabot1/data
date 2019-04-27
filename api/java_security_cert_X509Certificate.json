@@ -1,0 +1,119 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor for X.509 certificates.",
+            "Function": "checkValidity()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Checks that the certificate is currently valid.",
+            "Function": "checkValidity(Date date)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Checks that the given date is within the certificate's validity period.",
+            "Function": "getBasicConstraints()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Gets the certificate constraints path length from the critical BasicConstraints extension, (OID = 2.5.29.19).",
+            "Function": "getExtendedKeyUsage()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Gets an unmodifiable list of Strings representing the OBJECT IDENTIFIERs of the ExtKeyUsageSyntax field of the extended key usage extension, (OID = 2.5.29.37).",
+            "Function": "getIssuerAlternativeNames()",
+            "Modifier and Type": "List<String>"
+        },
+        {
+            "Comments": "Gets an immutable collection of issuer alternative names from the IssuerAltName extension, (OID = 2.5.29.18).",
+            "Function": "getIssuerDN()",
+            "Modifier and Type": "Collection<List<?>>"
+        },
+        {
+            "Comments": "Denigrated, replaced by getIssuerX500Principal().",
+            "Function": "getIssuerUniqueID()",
+            "Modifier and Type": "abstract Principal"
+        },
+        {
+            "Comments": "Gets the issuerUniqueID value from the certificate.",
+            "Function": "getIssuerX500Principal()",
+            "Modifier and Type": "abstract boolean[]"
+        },
+        {
+            "Comments": "Returns the issuer (issuer distinguished name) value from the certificate as an X500Principal.",
+            "Function": "getKeyUsage()",
+            "Modifier and Type": "X500Principal"
+        },
+        {
+            "Comments": "Gets a boolean array representing bits of the KeyUsage extension, (OID = 2.5.29.15).",
+            "Function": "getNotAfter()",
+            "Modifier and Type": "abstract boolean[]"
+        },
+        {
+            "Comments": "Gets the notAfter date from the validity period of the certificate.",
+            "Function": "getNotBefore()",
+            "Modifier and Type": "abstract Date"
+        },
+        {
+            "Comments": "Gets the notBefore date from the validity period of the certificate.",
+            "Function": "getSerialNumber()",
+            "Modifier and Type": "abstract Date"
+        },
+        {
+            "Comments": "Gets the serialNumber value from the certificate.",
+            "Function": "getSigAlgName()",
+            "Modifier and Type": "abstract BigInteger"
+        },
+        {
+            "Comments": "Gets the signature algorithm name for the certificate signature algorithm.",
+            "Function": "getSigAlgOID()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Gets the signature algorithm OID string from the certificate.",
+            "Function": "getSigAlgParams()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Gets the DER-encoded signature algorithm parameters from this certificate's signature algorithm.",
+            "Function": "getSignature()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets the signature value (the raw signature bits) from the certificate.",
+            "Function": "getSubjectAlternativeNames()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets an immutable collection of subject alternative names from the SubjectAltName extension, (OID = 2.5.29.17).",
+            "Function": "getSubjectDN()",
+            "Modifier and Type": "Collection<List<?>>"
+        },
+        {
+            "Comments": "Denigrated, replaced by getSubjectX500Principal().",
+            "Function": "getSubjectUniqueID()",
+            "Modifier and Type": "abstract Principal"
+        },
+        {
+            "Comments": "Gets the subjectUniqueID value from the certificate.",
+            "Function": "getSubjectX500Principal()",
+            "Modifier and Type": "abstract boolean[]"
+        },
+        {
+            "Comments": "Returns the subject (subject distinguished name) value from the certificate as an X500Principal.",
+            "Function": "getTBSCertificate()",
+            "Modifier and Type": "X500Principal"
+        },
+        {
+            "Comments": "Gets the DER-encoded certificate information, the tbsCertificate from this certificate.",
+            "Function": "getVersion()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets the version (version number) value from the certificate.",
+            "Function": "verify(PublicKey key,Provider sigProvider)",
+            "Modifier and Type": "abstract int"
+        }
+    ]
+}

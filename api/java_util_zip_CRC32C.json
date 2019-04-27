@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new CRC32C object.",
+            "Function": "getValue()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns CRC-32C value.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets CRC-32C to initial value.",
+            "Function": "update(byte[] b,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the CRC-32C checksum with the specified array of bytes.",
+            "Function": "update(int b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Updates the CRC-32C checksum with the specified byte (the low eight bits of the argument b).",
+            "Function": "update(ByteBuffer buffer)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

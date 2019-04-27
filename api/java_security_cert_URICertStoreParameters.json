@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of URICertStoreParameters with the specified URI.",
+            "Function": "clone()",
+            "Modifier and Type": "URICertStoreParameters"
+        },
+        {
+            "Comments": "Returns a copy of this object.",
+            "Function": "equals(Object p)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares the specified object with this parameters object for equality.",
+            "Function": "getURI()",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Returns the URI used to construct this URICertStoreParameters object.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code value for this parameters object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

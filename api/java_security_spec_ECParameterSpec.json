@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates elliptic curve domain parameters based on the specified values.",
+            "Function": "getCofactor()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the cofactor.",
+            "Function": "getCurve()",
+            "Modifier and Type": "EllipticCurve"
+        },
+        {
+            "Comments": "Returns the elliptic curve that this parameter defines.",
+            "Function": "getGenerator()",
+            "Modifier and Type": "ECPoint"
+        },
+        {
+            "Comments": "Returns the generator which is also known as the base point.",
+            "Function": "getOrder()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

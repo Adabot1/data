@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Appends the specified character to this Appendable.",
+            "Function": "append(char c)",
+            "Modifier and Type": "Appendable"
+        },
+        {
+            "Comments": "Appends the specified character sequence to this Appendable.",
+            "Function": "append(CharSequence csq)",
+            "Modifier and Type": "Appendable"
+        },
+        {
+            "Comments": "Appends a subsequence of the specified character sequence to this Appendable.",
+            "Function": "append(CharSequence csq,int start,int end)",
+            "Modifier and Type": "Appendable"
+        }
+    ]
+}

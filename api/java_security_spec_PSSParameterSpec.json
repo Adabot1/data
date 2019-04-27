@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "The PSS parameter set with all default values",
+            "Function": "DEFAULT",
+            "Modifier and Type": "static PSSParameterSpec"
+        },
+        {
+            "Comments": "The TrailerFieldBC constant as defined in PKCS#1",
+            "Function": "TRAILER_FIELD_BC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new PSSParameterSpec using the specified salt length and other default values as defined in PKCS#1.",
+            "Function": "getDigestAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates a new PSSParameterSpec as defined in the PKCS #1 standard using the specified message digest, mask generation function, parameters for mask generation function, salt length, and trailer field values.",
+            "Function": "getMGFAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the message digest algorithm name.",
+            "Function": "getMGFParameters()",
+            "Modifier and Type": "AlgorithmParameterSpec"
+        },
+        {
+            "Comments": "Returns the mask generation function algorithm name.",
+            "Function": "getSaltLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the parameters for the mask generation function.",
+            "Function": "getTrailerField()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

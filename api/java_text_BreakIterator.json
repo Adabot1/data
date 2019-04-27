@@ -1,0 +1,119 @@
+{
+    "API": [
+        {
+            "Comments": "DONE is returned by previous(), next(), next(int), preceding(int) and following(int) when either the first or last text boundary has been reached.",
+            "Function": "DONE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constructor.",
+            "Function": "clone()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Create a copy of this iterator",
+            "Function": "current()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns character index of the text boundary that was most recently returned by next(), next(int), previous(), first(), last(), following(int) or preceding(int).",
+            "Function": "first()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the first boundary.",
+            "Function": "following(int offset)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the first boundary following the specified character offset.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns an array of all locales for which the get*Instance methods of this class can return localized instances.",
+            "Function": "getCharacterInstance()",
+            "Modifier and Type": "static Locale[]"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for character breaks for the default locale.",
+            "Function": "getCharacterInstance(Locale locale)",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for character breaks for the given locale.",
+            "Function": "getLineInstance()",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for line breaks for the default locale.",
+            "Function": "getLineInstance(Locale locale)",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for line breaks for the given locale.",
+            "Function": "getSentenceInstance()",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for sentence breaks for the default locale.",
+            "Function": "getSentenceInstance(Locale locale)",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for sentence breaks for the given locale.",
+            "Function": "getText()",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Get the text being scanned",
+            "Function": "getWordInstance()",
+            "Modifier and Type": "abstract CharacterIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for word breaks for the default locale.",
+            "Function": "getWordInstance(Locale locale)",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Returns a new BreakIterator instance for word breaks for the given locale.",
+            "Function": "isBoundary(int offset)",
+            "Modifier and Type": "static BreakIterator"
+        },
+        {
+            "Comments": "Returns true if the specified character offset is a text boundary.",
+            "Function": "last()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the last boundary.",
+            "Function": "next()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the boundary following the current boundary.",
+            "Function": "next(int n)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the nth boundary from the current boundary.",
+            "Function": "preceding(int offset)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the last boundary preceding the specified character offset.",
+            "Function": "previous()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the boundary preceding the current boundary.",
+            "Function": "setText(String newText)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Set a new text string to be scanned.",
+            "Function": "setText(CharacterIterator newText)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

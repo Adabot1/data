@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a ChoiceCallback with a prompt, a list of choices, a default choice, and a boolean specifying whether or not multiple selections from the list of choices are allowed.",
+            "Function": "allowMultipleSelections()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Get the boolean determining whether multiple selections from the choices list are allowed.",
+            "Function": "getChoices()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Get the list of choices.",
+            "Function": "getDefaultChoice()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the defaultChoice.",
+            "Function": "getPrompt()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the prompt.",
+            "Function": "getSelectedIndexes()",
+            "Modifier and Type": "int[]"
+        },
+        {
+            "Comments": "Get the selected choices.",
+            "Function": "setSelectedIndex(int selection)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the selected choice.",
+            "Function": "setSelectedIndexes(int[] selections)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

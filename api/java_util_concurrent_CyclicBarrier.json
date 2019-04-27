@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new CyclicBarrier that will trip when the given number of parties (threads) are waiting upon it, and does not perform a predefined action when the barrier is tripped.",
+            "Function": "await()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new CyclicBarrier that will trip when the given number of parties (threads) are waiting upon it, and which will execute the given barrier action when the barrier is tripped, performed by the last thread entering the barrier.",
+            "Function": "await(long timeout, TimeUnit unit)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Waits until all parties have invoked await on this barrier.",
+            "Function": "getNumberWaiting()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Waits until all parties have invoked await on this barrier, or the specified waiting time elapses.",
+            "Function": "getParties()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of parties currently waiting at the barrier.",
+            "Function": "isBroken()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the number of parties required to trip this barrier.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

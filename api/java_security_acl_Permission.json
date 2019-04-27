@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "equals(Object another)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the object passed matches the permission represented in this interface.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

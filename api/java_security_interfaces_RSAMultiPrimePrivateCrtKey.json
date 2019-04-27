@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "The type fingerprint that is set to indicate serialization compatibility with a previous version of the type.",
+            "Function": "serialVersionUID",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the crtCoefficient.",
+            "Function": "getCrtCoefficient()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the otherPrimeInfo or null if there are only two prime factors (p and q).",
+            "Function": "getOtherPrimeInfo()",
+            "Modifier and Type": "RSAOtherPrimeInfo[]"
+        },
+        {
+            "Comments": "Returns the primeExponentP.",
+            "Function": "getPrimeExponentP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the primeExponentQ.",
+            "Function": "getPrimeExponentQ()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the primeP.",
+            "Function": "getPrimeP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the primeQ.",
+            "Function": "getPrimeQ()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the public exponent.",
+            "Function": "getPublicExponent()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

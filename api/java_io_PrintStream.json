@@ -1,0 +1,169 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new print stream, without automatic line flushing, with the specified file.",
+            "Function": "append(char c)",
+            "Modifier and Type": "PrintStream"
+        },
+        {
+            "Comments": "Creates a new print stream, without automatic line flushing, with the specified file and charset.",
+            "Function": "append(CharSequence csq)",
+            "Modifier and Type": "PrintStream"
+        },
+        {
+            "Comments": "Creates a new print stream, without automatic line flushing, with the specified file and charset.",
+            "Function": "append(CharSequence csq,int start,int end)",
+            "Modifier and Type": "PrintStream"
+        },
+        {
+            "Comments": "Creates a new print stream.",
+            "Function": "checkError()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a new print stream.",
+            "Function": "clearError()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Creates a new print stream.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new print stream, with the specified OutputStream, automatic line flushing and charset.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new print stream, without automatic line flushing, with the specified file name.",
+            "Function": "format(String format,Object... args)",
+            "Modifier and Type": "PrintStream"
+        },
+        {
+            "Comments": "Creates a new print stream, without automatic line flushing, with the specified file name and charset.",
+            "Function": "format(Locale l,String format,Object... args)",
+            "Modifier and Type": "PrintStream"
+        },
+        {
+            "Comments": "Creates a new print stream, without automatic line flushing, with the specified file name and charset.",
+            "Function": "print(boolean b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Appends the specified character to this output stream.",
+            "Function": "print(char c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Appends the specified character sequence to this output stream.",
+            "Function": "print(char[] s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Appends a subsequence of the specified character sequence to this output stream.",
+            "Function": "print(double d)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes the stream and checks its error state.",
+            "Function": "print(float f)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Clears the internal error state of this stream.",
+            "Function": "print(int i)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes the stream.",
+            "Function": "print(long l)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes the stream.",
+            "Function": "print(Object obj)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a formatted string to this output stream using the specified format string and arguments.",
+            "Function": "print(String s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a formatted string to this output stream using the specified format string and arguments.",
+            "Function": "printf(String format,Object... args)",
+            "Modifier and Type": "PrintStream"
+        },
+        {
+            "Comments": "Prints a boolean value.",
+            "Function": "printf(Locale l,String format,Object... args)",
+            "Modifier and Type": "PrintStream"
+        },
+        {
+            "Comments": "Prints a character.",
+            "Function": "println()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints an array of characters.",
+            "Function": "println(boolean x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints a double-precision floating-point number.",
+            "Function": "println(char x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints a floating-point number.",
+            "Function": "println(char[] x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints an integer.",
+            "Function": "println(double x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints a long integer.",
+            "Function": "println(float x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints an object.",
+            "Function": "println(int x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints a string.",
+            "Function": "println(long x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "A convenience method to write a formatted string to this output stream using the specified format string and arguments.",
+            "Function": "println(Object x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "A convenience method to write a formatted string to this output stream using the specified format string and arguments.",
+            "Function": "println(String x)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Terminates the current line by writing the line separator string.",
+            "Function": "setError()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Prints a boolean and then terminate the line.",
+            "Function": "write(byte[] buf, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Prints a character and then terminate the line.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

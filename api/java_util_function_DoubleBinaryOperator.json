@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Applies this operator to the given operands.",
+            "Function": "applyAsDouble(double left, double right)",
+            "Modifier and Type": "double"
+        }
+    ]
+}

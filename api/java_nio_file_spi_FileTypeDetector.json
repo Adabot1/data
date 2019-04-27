@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "probeContentType(Path path)",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

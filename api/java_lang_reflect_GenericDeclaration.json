@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an array of TypeVariable objects that represent the type variables declared by the generic declaration represented by this GenericDeclaration object, in declaration order.",
+            "Function": "getTypeParameters()",
+            "Modifier and Type": "TypeVariable<?>[]"
+        }
+    ]
+}

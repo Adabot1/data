@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Optional LoginModule.",
+            "Function": "OPTIONAL",
+            "Modifier and Type": "static AppConfigurationEntry.LoginModuleControlFlag"
+        },
+        {
+            "Comments": "Required LoginModule.",
+            "Function": "REQUIRED",
+            "Modifier and Type": "static AppConfigurationEntry.LoginModuleControlFlag"
+        },
+        {
+            "Comments": "Requisite LoginModule.",
+            "Function": "REQUISITE",
+            "Modifier and Type": "static AppConfigurationEntry.LoginModuleControlFlag"
+        },
+        {
+            "Comments": "Sufficient LoginModule.",
+            "Function": "SUFFICIENT",
+            "Modifier and Type": "static AppConfigurationEntry.LoginModuleControlFlag"
+        },
+        {
+            "Comments": "Return a String representation of this controlFlag.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

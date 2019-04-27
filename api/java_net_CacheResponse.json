@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the response body as an InputStream.",
+            "Function": "getBody()",
+            "Modifier and Type": "abstract InputStream"
+        },
+        {
+            "Comments": "Returns the response headers as a Map.",
+            "Function": "getHeaders()",
+            "Modifier and Type": "abstract Map<String,​List<String>>"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "The access mode whose access is specified by the corresponding method VarHandle.compareAndExchange",
+            "Function": "methodName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "The access mode whose access is specified by the corresponding method VarHandle.compareAndExchangeAcquire",
+            "Function": "valueFromMethodName(String methodName)",
+            "Modifier and Type": "static VarHandle.AccessMode"
+        },
+        {
+            "Comments": "The access mode whose access is specified by the corresponding method VarHandle.compareAndExchangeRelease",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static VarHandle.AccessMode"
+        },
+        {
+            "Comments": "The access mode whose access is specified by the corresponding method VarHandle.compareAndSet",
+            "Function": "values()",
+            "Modifier and Type": "static VarHandle.AccessMode[]"
+        }
+    ]
+}

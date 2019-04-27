@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new random number generator.",
+            "Function": "doubles()",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Creates a new random number generator using a single long seed.",
+            "Function": "doubles(double randomNumberOrigin, double randomNumberBound)",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  double values, each between zero (inclusive) and one (exclusive).",
+            "Function": "doubles(long streamSize)",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  double values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "doubles(long streamSize, double randomNumberOrigin, double randomNumberBound)",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom double values, each between zero (inclusive) and one (exclusive).",
+            "Function": "ints()",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom double values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "ints(int randomNumberOrigin,int randomNumberBound)",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom int values.",
+            "Function": "ints(long streamSize)",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  int values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "ints(long streamSize,int randomNumberOrigin,int randomNumberBound)",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom int values.",
+            "Function": "longs()",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom int values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "longs(long streamSize)",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom long values.",
+            "Function": "longs(long randomNumberOrigin, long randomNumberBound)",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom long values.",
+            "Function": "longs(long streamSize, long randomNumberOrigin, long randomNumberBound)",
+            "Modifier and Type": "LongStream"
+        },
+        {
+            "Comments": "Returns an effectively unlimited stream of pseudorandom  long values, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "next(int bits)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Returns a stream producing the given streamSize number of pseudorandom long, each conforming to the given origin (inclusive) and bound (exclusive).",
+            "Function": "nextBoolean()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Generates the next pseudorandom number.",
+            "Function": "nextBytes(byte[] bytes)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the next pseudorandom, uniformly distributed boolean value from this random number generator's sequence.",
+            "Function": "nextDouble()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Generates random bytes and places them into a user-supplied byte array.",
+            "Function": "nextFloat()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns the next pseudorandom, uniformly distributed double value between 0.0 and 1.0 from this random number generator's sequence.",
+            "Function": "nextGaussian()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the next pseudorandom, uniformly distributed float value between 0.0 and 1.0 from this random number generator's sequence.",
+            "Function": "nextInt()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the next pseudorandom, Gaussian (\"normally\") distributed double value with mean 0.0 and standard deviation 1.0 from this random number generator's sequence.",
+            "Function": "nextInt(int bound)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the next pseudorandom, uniformly distributed int value from this random number generator's sequence.",
+            "Function": "nextLong()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a pseudorandom, uniformly distributed int value between 0 (inclusive) and the specified value (exclusive), drawn from this random number generator's sequence.",
+            "Function": "setSeed(long seed)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

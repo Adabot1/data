@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a clone if the implementation is cloneable.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Completes the hash computation by performing final operations such as padding.",
+            "Function": "engineDigest()",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Completes the hash computation by performing final operations such as padding.",
+            "Function": "engineDigest(byte[] buf,int offset,int len)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Returns the digest length in bytes.",
+            "Function": "engineGetDigestLength()",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Resets the digest for further use.",
+            "Function": "engineReset()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Updates the digest using the specified byte.",
+            "Function": "engineUpdate(byte input)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Updates the digest using the specified array of bytes, starting at the specified offset.",
+            "Function": "engineUpdate(byte[] input,int offset,int len)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Update the digest using the specified ByteBuffer.",
+            "Function": "engineUpdate(ByteBuffer input)",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

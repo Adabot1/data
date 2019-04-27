@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getInstance(Locale locale)",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

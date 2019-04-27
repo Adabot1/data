@@ -1,0 +1,124 @@
+{
+    "API": [
+        {
+            "Comments": "The file descriptor object.",
+            "Function": "fd",
+            "Modifier and Type": "protected FileDescriptor"
+        },
+        {
+            "Comments": "The local port number.",
+            "Function": "localPort",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Binds a datagram socket to a local port and address.",
+            "Function": "bind(int lport,InetAddress laddr)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Close the socket.",
+            "Function": "close()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Connects a datagram socket to a remote destination.",
+            "Function": "connect(InetAddress address, int port)",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Creates a datagram socket.",
+            "Function": "create()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Disconnects a datagram socket from its remote destination.",
+            "Function": "disconnect()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Gets the datagram socket file descriptor.",
+            "Function": "getFileDescriptor()",
+            "Modifier and Type": "protected FileDescriptor"
+        },
+        {
+            "Comments": "Gets the local port.",
+            "Function": "getLocalPort()",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Called to get a socket option.",
+            "Function": "getOption(SocketOption<T> name)",
+            "Modifier and Type": "protected <T> T"
+        },
+        {
+            "Comments": "Retrieve the TTL (time-to-live) option.",
+            "Function": "getTimeToLive()",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Deprecated.use getTimeToLive instead.",
+            "Function": "getTTL()",
+            "Modifier and Type": "protected abstract byte"
+        },
+        {
+            "Comments": "Join the multicast group.",
+            "Function": "join(InetAddress inetaddr)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Join the multicast group.",
+            "Function": "joinGroup(SocketAddress mcastaddr, NetworkInterface netIf)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Leave the multicast group.",
+            "Function": "leave(InetAddress inetaddr)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Leave the multicast group.",
+            "Function": "leaveGroup(SocketAddress mcastaddr,NetworkInterface netIf)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Peek at the packet to see who it is from.",
+            "Function": "peek(InetAddress i)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Peek at the packet to see who it is from.",
+            "Function": "peekData(DatagramPacket p)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Receive the datagram packet.",
+            "Function": "receive(DatagramPacket p)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Sends a datagram packet.",
+            "Function": "send(DatagramPacket p)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Called to set a socket option.",
+            "Function": "setOption(SocketOption<T> name, T value)",
+            "Modifier and Type": "protected <T> void"
+        },
+        {
+            "Comments": "Set the TTL (time-to-live) option.",
+            "Function": "setTimeToLive(int ttl)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Deprecated.use setTimeToLive instead.",
+            "Function": "setTTL(byte ttl)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Returns a set of SocketOptions supported by this impl and by this impl's socket (DatagramSocket or MulticastSocket)",
+            "Function": "supportedOptions()",
+            "Modifier and Type": "protected Set<SocketOption<?>>"
+        }
+    ]
+}

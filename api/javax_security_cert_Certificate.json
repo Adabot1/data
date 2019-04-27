@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Compares this certificate for equality with the specified object.",
+            "Function": "getPublicKey()",
+            "Modifier and Type": "abstract PublicKey"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the encoded form of this certificate.",
+            "Function": "toString()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "verify(PublicKey key)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Gets the public key from this certificate.",
+            "Function": "verify(PublicKey key,String sigProvider)",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

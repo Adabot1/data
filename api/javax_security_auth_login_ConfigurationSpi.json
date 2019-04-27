@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Retrieve the AppConfigurationEntries for the specified name.",
+            "Function": "engineGetAppConfigurationEntry(String name)",
+            "Modifier and Type": "protected abstract AppConfigurationEntry[]"
+        },
+        {
+            "Comments": "Refresh and reload the Configuration.",
+            "Function": "engineRefresh()",
+            "Modifier and Type": "protected void"
+        }
+    ]
+}

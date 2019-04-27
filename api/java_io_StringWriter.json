@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Create a new string writer using the default initial string-buffer size.",
+            "Function": "append(char c)",
+            "Modifier and Type": "StringWriter"
+        },
+        {
+            "Comments": "Create a new string writer using the specified initial string-buffer size.",
+            "Function": "append(CharSequence csq)",
+            "Modifier and Type": "StringWriter"
+        },
+        {
+            "Comments": "Appends the specified character to this writer.",
+            "Function": "append(CharSequence csq,int start,int end)",
+            "Modifier and Type": "StringWriter"
+        },
+        {
+            "Comments": "Appends the specified character sequence to this writer.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Appends a subsequence of the specified character sequence to this writer.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closing a StringWriter has no effect.",
+            "Function": "getBuffer()",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Flush the stream.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Return the string buffer itself.",
+            "Function": "write(char[] cbuf, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Return the buffer's current value as a string.",
+            "Function": "write(int c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Write a portion of an array of characters.",
+            "Function": "write(String str)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Write a single character.",
+            "Function": "write(String str, int off, int len)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

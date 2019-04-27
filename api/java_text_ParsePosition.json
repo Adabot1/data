@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Create a new ParsePosition with the given initial index.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Overrides equals",
+            "Function": "getErrorIndex()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieve the index at which an error occurred, or -1 if the error index has not been set.",
+            "Function": "getIndex()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieve the current parse position.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code for this ParsePosition.",
+            "Function": "setErrorIndex(int ei)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the index at which a parse error occurred.",
+            "Function": "setIndex(int index)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the current parse position.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

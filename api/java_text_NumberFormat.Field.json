@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Constant identifying the currency field.",
+            "Function": "CURRENCY",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the decimal separator field.",
+            "Function": "DECIMAL_SEPARATOR",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the exponent field.",
+            "Function": "EXPONENT",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the exponent sign field.",
+            "Function": "EXPONENT_SIGN",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the exponent symbol field.",
+            "Function": "EXPONENT_SYMBOL",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the fraction field.",
+            "Function": "FRACTION",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the grouping separator field.",
+            "Function": "GROUPING_SEPARATOR",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the integer field.",
+            "Function": "INTEGER",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the percent field.",
+            "Function": "PERCENT",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the permille field.",
+            "Function": "PERMILLE",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Constant identifying the sign field.",
+            "Function": "SIGN",
+            "Modifier and Type": "static NumberFormat.Field"
+        },
+        {
+            "Comments": "Creates a Field instance with the specified name.",
+            "Function": "readResolve()",
+            "Modifier and Type": "protected "
+        }
+    ]
+}

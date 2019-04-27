@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Gets the set of available currencies.",
+            "Function": "getAvailableCurrencies()",
+            "Modifier and Type": "static Set<Currency>"
+        },
+        {
+            "Comments": "Gets the ISO 4217 currency code of this currency.",
+            "Function": "getCurrencyCode()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the default number of fraction digits used with this currency.",
+            "Function": "getDefaultFractionDigits()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the name that is suitable for displaying this currency for the default DISPLAY locale.",
+            "Function": "getDisplayName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the name that is suitable for displaying this currency for the specified locale.",
+            "Function": "getDisplayName(Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the Currency instance for the given currency code.",
+            "Function": "getInstance(String currencyCode)",
+            "Modifier and Type": "static Currency"
+        },
+        {
+            "Comments": "Returns the Currency instance for the country of the given locale.",
+            "Function": "getInstance(Locale locale)",
+            "Modifier and Type": "static Currency"
+        },
+        {
+            "Comments": "Returns the ISO 4217 numeric code of this currency.",
+            "Function": "getNumericCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the 3 digit ISO 4217 numeric code of this currency as a String.",
+            "Function": "getNumericCodeAsString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the symbol of this currency for the default DISPLAY locale.",
+            "Function": "getSymbol()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the symbol of this currency for the specified locale.",
+            "Function": "getSymbol(Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the ISO 4217 currency code of this currency.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

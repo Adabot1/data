@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new Thread.",
+            "Function": "newThread(Runnable r)",
+            "Modifier and Type": "Thread"
+        }
+    ]
+}

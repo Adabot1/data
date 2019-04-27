@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the base, g.",
+            "Function": "getG()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the prime, p.",
+            "Function": "getP()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Returns the subprime, q.",
+            "Function": "getQ()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

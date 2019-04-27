@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "The input stream to be filtered.",
+            "Function": "in",
+            "Modifier and Type": "protected InputStream"
+        },
+        {
+            "Comments": "Creates a FilterInputStream by assigning the  argument in to the field this.in so as to remember it for later use.",
+            "Function": "available()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking by the next caller of a method for this input stream.",
+            "Function": "close()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes this input stream and releases any system resources associated with the stream.",
+            "Function": "mark(int readlimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Marks the current position in this input stream.",
+            "Function": "markSupported()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tests if this input stream supports the mark and reset methods.",
+            "Function": "read()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads the next byte of data from this input stream.",
+            "Function": "read(byte[] b)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads up to b.length bytes of data from this input stream into an array of bytes.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads up to len bytes of data from this input stream into an array of bytes.",
+            "Function": "reset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Repositions this stream to the position at the time the mark method was last called on this input stream.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

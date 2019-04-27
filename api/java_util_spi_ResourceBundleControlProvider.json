@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a ResourceBundle.Control instance that is used to handle resource bundle loading for the given  baseName.",
+            "Function": "getControl(String baseName)",
+            "Modifier and Type": "ResourceBundle.Control"
+        }
+    ]
+}

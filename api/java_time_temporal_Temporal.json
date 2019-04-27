@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with the specified period subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "default Temporal"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount subtracted.",
+            "Function": "minus(TemporalAmount amount)",
+            "Modifier and Type": "default Temporal"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with the specified period added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with an amount added.",
+            "Function": "plus(TemporalAmount amount)",
+            "Modifier and Type": "default Temporal"
+        },
+        {
+            "Comments": "Calculates the amount of time until another temporal in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted object of the same type as this object with the adjustment made.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "default Temporal"
+        },
+        {
+            "Comments": "Returns an object of the same type as this object with the specified field altered.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "Temporal"
+        }
+    ]
+}

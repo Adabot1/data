@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Blocks until all tasks have completed execution after a shutdown request, or the timeout occurs, or the current thread is interrupted, whichever happens first.",
+            "Function": "awaitTermination(long timeout,TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Executes the given tasks, returning a list of Futures holding their status and results when all complete.",
+            "Function": "invokeAll(Collection<? extends Callable<T>> tasks)",
+            "Modifier and Type": "<T> List<Future<T>>"
+        },
+        {
+            "Comments": "Executes the given tasks, returning a list of Futures holding their status and results when all complete or the timeout expires, whichever happens first.",
+            "Function": "invokeAll(Collection<? extends Callable<T>> tasks, long timeout, TimeUnit unit)",
+            "Modifier and Type": "<T> List<Future<T>>"
+        },
+        {
+            "Comments": "Executes the given tasks, returning the result of one that has completed successfully (i.e., without throwing an exception), if any do.",
+            "Function": "invokeAny(Collection<? extends Callable<T>> tasks)",
+            "Modifier and Type": "<T> T"
+        },
+        {
+            "Comments": "Executes the given tasks, returning the result of one that has completed successfully (i.e., without throwing an exception), if any do before the given timeout elapses.",
+            "Function": "invokeAny(Collection<? extends Callable<T>> tasks, long timeout, TimeUnit unit)",
+            "Modifier and Type": "<T> T"
+        },
+        {
+            "Comments": "Returns true if this executor has been shut down.",
+            "Function": "isShutdown()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if all tasks have completed following shut down.",
+            "Function": "isTerminated()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted.",
+            "Function": "shutdown()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Attempts to stop all actively executing tasks, halts the processing of waiting tasks, and returns a list of the tasks that were awaiting execution.",
+            "Function": "shutdownNow()",
+            "Modifier and Type": "List<Runnable>"
+        },
+        {
+            "Comments": "Submits a Runnable task for execution and returns a Future representing that task.",
+            "Function": "submit(Runnable task)",
+            "Modifier and Type": "Future<?>"
+        },
+        {
+            "Comments": "Submits a Runnable task for execution and returns a Future representing that task.",
+            "Function": "submit(Runnable task,T result)",
+            "Modifier and Type": "<T> Future<T>"
+        },
+        {
+            "Comments": "Submits a value-returning task for execution and returns a Future representing the pending results of the task.",
+            "Function": "submit(Callable<T> task)",
+            "Modifier and Type": "<T> Future<T>"
+        }
+    ]
+}

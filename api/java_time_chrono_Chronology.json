@@ -1,0 +1,164 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this chronology to another chronology.",
+            "Function": "compareTo(Chronology other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Obtains a local date in this chronology from the proleptic-year, month-of-year and day-of-month fields.",
+            "Function": "date(int prolepticYear,int month,int dayOfMonth)",
+            "Modifier and Type": "ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains a local date in this chronology from the era, year-of-era, month-of-year and day-of-month fields.",
+            "Function": "date(Era era,int yearOfEra,int month,int dayOfMonth)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains a local date in this chronology from another temporal object.",
+            "Function": "date(TemporalAccessor temporal)",
+            "Modifier and Type": "ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains a local date in this chronology from the epoch-day.",
+            "Function": "dateEpochDay(long epochDay)",
+            "Modifier and Type": "ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains the current local date in this chronology from the system clock in the default time-zone.",
+            "Function": "dateNow()",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains the current local date in this chronology from the specified clock.",
+            "Function": "dateNow(Clock clock)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains the current local date in this chronology from the system clock in the specified time-zone.",
+            "Function": "dateNow(ZoneId zone)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains a local date in this chronology from the proleptic-year and day-of-year fields.",
+            "Function": "dateYearDay(int prolepticYear, int dayOfYear)",
+            "Modifier and Type": "ChronoLocalDate"
+        },
+        {
+            "Comments": "Obtains a local date in this chronology from the era, year-of-era and day-of-year fields.",
+            "Function": "dateYearDay(Era era, int yearOfEra, int dayOfYear)",
+            "Modifier and Type": "default ChronoLocalDate"
+        },
+        {
+            "Comments": "Gets the number of seconds from the epoch of 1970-01-01T00:00:00Z.",
+            "Function": "epochSecond(int prolepticYear, int month, int dayOfMonth, int hour, int minute, int second, ZoneOffset zoneOffset)",
+            "Modifier and Type": "default long"
+        },
+        {
+            "Comments": "Gets the number of seconds from the epoch of 1970-01-01T00:00:00Z.",
+            "Function": "epochSecond(Era era, int yearOfEra, int month, int dayOfMonth, int hour, int minute, int second, ZoneOffset zoneOffset)",
+            "Modifier and Type": "default long"
+        },
+        {
+            "Comments": "Checks if this chronology is equal to another chronology.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates the chronology era object from the numeric value.",
+            "Function": "eraOf(int eraValue)",
+            "Modifier and Type": "Era"
+        },
+        {
+            "Comments": "Gets the list of eras for the chronology.",
+            "Function": "eras()",
+            "Modifier and Type": "List<Era>"
+        },
+        {
+            "Comments": "Obtains an instance of Chronology from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static Chronology"
+        },
+        {
+            "Comments": "Returns the available chronologies.",
+            "Function": "getAvailableChronologies()",
+            "Modifier and Type": "static Set<Chronology>"
+        },
+        {
+            "Comments": "Gets the calendar type of the calendar system.",
+            "Function": "getCalendarType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the textual representation of this chronology.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "default String"
+        },
+        {
+            "Comments": "Gets the ID of the chronology.",
+            "Function": "getId()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "A hash code for this chronology.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if the specified year is a leap year.",
+            "Function": "isLeapYear(long prolepticYear)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains a local date-time in this chronology from another temporal object.",
+            "Function": "localDateTime(TemporalAccessor temporal)",
+            "Modifier and Type": "default ChronoLocalDateTime<? extends ChronoLocalDate>"
+        },
+        {
+            "Comments": "Obtains an instance of Chronology from a chronology ID or calendar system type.",
+            "Function": "of(String id)",
+            "Modifier and Type": "static Chronology"
+        },
+        {
+            "Comments": "Obtains an instance of Chronology from a locale.",
+            "Function": "ofLocale(Locale locale)",
+            "Modifier and Type": "static Chronology"
+        },
+        {
+            "Comments": "Obtains a period for this chronology based on years, months and days.",
+            "Function": "period(int years,int months,int days)",
+            "Modifier and Type": "default ChronoPeriod"
+        },
+        {
+            "Comments": "Calculates the proleptic-year given the era and year-of-era.",
+            "Function": "prolepticYear(Era era, int yearOfEra)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(ChronoField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Resolves parsed ChronoField values into a date during parsing.",
+            "Function": "resolveDate(Map<TemporalField,Long> fieldValues, ResolverStyle resolverStyle)",
+            "Modifier and Type": "ChronoLocalDate"
+        },
+        {
+            "Comments": "Outputs this chronology as a String.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains a ChronoZonedDateTime in this chronology from an Instant.",
+            "Function": "zonedDateTime(Instant instant, ZoneId zone)",
+            "Modifier and Type": "default ChronoZonedDateTime<? extends ChronoLocalDate>"
+        },
+        {
+            "Comments": "Obtains a ChronoZonedDateTime in this chronology from another temporal object.",
+            "Function": "zonedDateTime(TemporalAccessor temporal)",
+            "Modifier and Type": "default ChronoZonedDateTime<? extends ChronoLocalDate>"
+        }
+    ]
+}

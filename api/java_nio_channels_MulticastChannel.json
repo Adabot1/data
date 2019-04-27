@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Closes this channel.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Joins a multicast group to begin receiving all datagrams sent to the group, returning a membership key.",
+            "Function": "join(InetAddress group,NetworkInterface interf)",
+            "Modifier and Type": "MembershipKey"
+        },
+        {
+            "Comments": "Joins a multicast group to begin receiving datagrams sent to the group from a given source address.",
+            "Function": "join(InetAddress group,NetworkInterface interf,InetAddress source)",
+            "Modifier and Type": "MembershipKey"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "inheritedChannel()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the channel inherited from the entity that created this Java virtual machine.",
+            "Function": "openDatagramChannel()",
+            "Modifier and Type": "Channel"
+        },
+        {
+            "Comments": "Opens a datagram channel.",
+            "Function": "openDatagramChannel(ProtocolFamily family)",
+            "Modifier and Type": "abstract DatagramChannel"
+        },
+        {
+            "Comments": "Opens a datagram channel.",
+            "Function": "openPipe()",
+            "Modifier and Type": "abstract DatagramChannel"
+        },
+        {
+            "Comments": "Opens a pipe.",
+            "Function": "openSelector()",
+            "Modifier and Type": "abstract Pipe"
+        },
+        {
+            "Comments": "Opens a selector.",
+            "Function": "openServerSocketChannel()",
+            "Modifier and Type": "abstract AbstractSelector"
+        },
+        {
+            "Comments": "Opens a server-socket channel.",
+            "Function": "openSocketChannel()",
+            "Modifier and Type": "abstract ServerSocketChannel"
+        },
+        {
+            "Comments": "Opens a socket channel.",
+            "Function": "provider()",
+            "Modifier and Type": "abstract SocketChannel"
+        }
+    ]
+}

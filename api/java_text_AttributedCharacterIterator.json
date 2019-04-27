@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Defines attribute keys that are used to identify text attributes.",
+            "Function": "AttributedCharacterIterator.Attribute",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Returns the keys of all attributes defined on the iterator's text range.",
+            "Function": "getAllAttributeKeys()",
+            "Modifier and Type": "Set<AttributedCharacterIterator.Attribute>"
+        },
+        {
+            "Comments": "Returns the value of the named attribute for the current character.",
+            "Function": "getAttribute(AttributedCharacterIterator.Attribute attribute)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns a map with the attributes defined on the current character.",
+            "Function": "getAttributes()",
+            "Modifier and Type": "Map<AttributedCharacterIterator.Attribute,​Object>"
+        },
+        {
+            "Comments": "Returns the index of the first character following the run with respect to all attributes containing the current character.",
+            "Function": "getRunLimit()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index of the first character following the run with respect to the given attribute containing the current character.",
+            "Function": "getRunLimit(AttributedCharacterIterator.Attribute attribute)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index of the first character following the run with respect to the given attributes containing the current character.",
+            "Function": "getRunLimit(Set<? extends AttributedCharacterIterator.Attribute> attributes)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index of the first character of the run with respect to all attributes containing the current character.",
+            "Function": "getRunStart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index of the first character of the run with respect to the given attribute containing the current character.",
+            "Function": "getRunStart(AttributedCharacterIterator.Attribute attribute)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index of the first character of the run with respect to the given attributes containing the current character.",
+            "Function": "getRunStart(Set<? extends AttributedCharacterIterator.Attribute> attributes)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

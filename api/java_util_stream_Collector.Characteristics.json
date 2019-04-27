@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Indicates that this collector is concurrent, meaning that the result container can support the accumulator function being called concurrently with the same result container from multiple threads.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Collector.Characteristics"
+        },
+        {
+            "Comments": "Indicates that the finisher function is the identity function and can be elided.",
+            "Function": "values()",
+            "Modifier and Type": "static Collector.Characteristics[]"
+        }
+    ]
+}

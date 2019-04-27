@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Null order which indicates the end of string is reached by the cursor.",
+            "Function": "NULLORDER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return the maximum length of any expansion sequences that end with the specified comparison order.",
+            "Function": "getMaxExpansion(int order)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the character offset in the original text corresponding to the next collation element.",
+            "Function": "getOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the next collation element in the string.",
+            "Function": "next()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Get the previous collation element in the string.",
+            "Function": "previous()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Return the primary component of a collation element.",
+            "Function": "primaryOrder(int order)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Resets the cursor to the beginning of the string.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Return the secondary component of a collation element.",
+            "Function": "secondaryOrder(int order)",
+            "Modifier and Type": "static short"
+        },
+        {
+            "Comments": "Sets the iterator to point to the collation element corresponding to the specified character (the parameter is a CHARACTER offset in the original string, not an offset into its corresponding sequence of collation elements).",
+            "Function": "setOffset(int newOffset)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set a new string over which to iterate.",
+            "Function": "setText(String source)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set a new string over which to iterate.",
+            "Function": "setText(CharacterIterator source)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Return the tertiary component of a collation element.",
+            "Function": "tertiaryOrder(int order)",
+            "Modifier and Type": "static short"
+        }
+    ]
+}

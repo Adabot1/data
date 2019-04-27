@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "begin()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Marks the beginning of an I/O operation that might block indefinitely.",
+            "Function": "cancelledKeys()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Retrieves this selector's cancelled-key set.",
+            "Function": "close()",
+            "Modifier and Type": "protected Set<SelectionKey>"
+        },
+        {
+            "Comments": "Closes this selector.",
+            "Function": "deregister(AbstractSelectionKey key)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Removes the given key from its channel's key set.",
+            "Function": "end()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Marks the end of an I/O operation that might block indefinitely.",
+            "Function": "implCloseSelector()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Closes this selector.",
+            "Function": "provider()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Returns the provider that created this channel.",
+            "Function": "register(AbstractSelectableChannel ch,int ops,Object att)",
+            "Modifier and Type": "SelectorProvider"
+        }
+    ]
+}

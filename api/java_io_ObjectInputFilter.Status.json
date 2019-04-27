@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The status is allowed.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ObjectInputFilter.Status"
+        },
+        {
+            "Comments": "The status is rejected.",
+            "Function": "values()",
+            "Modifier and Type": "static ObjectInputFilter.Status[]"
+        }
+    ]
+}

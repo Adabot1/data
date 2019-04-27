@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "An automatic module.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ModuleDescriptor.Modifier"
+        },
+        {
+            "Comments": "The module was implicitly declared.",
+            "Function": "values()",
+            "Modifier and Type": "static ModuleDescriptor.Modifier[]"
+        }
+    ]
+}

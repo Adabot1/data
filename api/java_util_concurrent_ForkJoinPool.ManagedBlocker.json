@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Possibly blocks the current thread, for example waiting for a lock or condition.",
+            "Function": "block()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if blocking is unnecessary.",
+            "Function": "isReleasable()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Generates the exemption mechanism key blob.",
+            "Function": "engineGenExemptionBlob()",
+            "Modifier and Type": "protected abstract byte[]"
+        },
+        {
+            "Comments": "Generates the exemption mechanism key blob, and stores the result in the output buffer, starting at outputOffset inclusive.",
+            "Function": "engineGenExemptionBlob(byte[] output,int outputOffset)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Returns the length in bytes that an output buffer would need to be in order to hold the result of the next engineGenExemptionBlob operation, given the input length inputLen (in bytes).",
+            "Function": "engineGetOutputSize(int inputLen)",
+            "Modifier and Type": "protected abstract int"
+        },
+        {
+            "Comments": "Initializes this exemption mechanism with a key.",
+            "Function": "engineInit(Key key)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this exemption mechanism with a key and a set of algorithm parameters.",
+            "Function": "engineInit(Key key,AlgorithmParameters params)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Initializes this exemption mechanism with a key and a set of algorithm parameters.",
+            "Function": "engineInit(Key key,AlgorithmParameterSpec params)",
+            "Modifier and Type": "protected abstract void"
+        }
+    ]
+}

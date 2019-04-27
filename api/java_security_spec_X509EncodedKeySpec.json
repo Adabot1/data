@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new X509EncodedKeySpec with the given encoded key.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Creates a new X509EncodedKeySpec with the given encoded key.",
+            "Function": "getFormat()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Determines whether an algorithm is granted permission for the specified cryptographic primitives.",
+            "Function": "permits(Set<CryptoPrimitive> primitives, String algorithm, AlgorithmParameters parameters)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Determines whether an algorithm and the corresponding key are granted permission for the specified cryptographic primitives.",
+            "Function": "permits(Set<CryptoPrimitive> primitives, String algorithm, Key key, AlgorithmParameters parameters)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Determines whether a key is granted permission for the specified cryptographic primitives.",
+            "Function": "permits(Set<CryptoPrimitive> primitives, Key key)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

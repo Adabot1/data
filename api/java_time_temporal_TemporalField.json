@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a copy of the specified temporal object with the value of this field set.",
+            "Function": "adjustInto(R temporal,long newValue)",
+            "Modifier and Type": "<R extends Temporal>R"
+        },
+        {
+            "Comments": "Gets the unit that the field is measured in.",
+            "Function": "getBaseUnit()",
+            "Modifier and Type": "TemporalUnit"
+        },
+        {
+            "Comments": "Gets the display name for the field in the requested locale.",
+            "Function": "getDisplayName(Locale locale)",
+            "Modifier and Type": "default String"
+        },
+        {
+            "Comments": "Gets the value of this field from the specified temporal object.",
+            "Function": "getFrom(TemporalAccessor temporal)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the range that the field is bound by.",
+            "Function": "getRangeUnit()",
+            "Modifier and Type": "TemporalUnit"
+        },
+        {
+            "Comments": "Checks if this field represents a component of a date.",
+            "Function": "isDateBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this field is supported by the temporal object.",
+            "Function": "isSupportedBy(TemporalAccessor temporal)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this field represents a component of a time.",
+            "Function": "isTimeBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the range of valid values for the field.",
+            "Function": "range()",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Get the range of valid values for this field using the temporal object to refine the result.",
+            "Function": "rangeRefinedBy(TemporalAccessor temporal)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Resolves this field to provide a simpler alternative or a date.",
+            "Function": "resolve(Map<TemporalField,Long> fieldValues, TemporalAccessor partialTemporal, ResolverStyle resolverStyle)",
+            "Modifier and Type": "default TemporalAccessor"
+        },
+        {
+            "Comments": "Gets a descriptive name for the field.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

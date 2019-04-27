@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Gets a result.",
+            "Function": "getAsInt()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

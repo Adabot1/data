@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "This method is invoked on registered objects when a SSL handshake is completed.",
+            "Function": "handshakeCompleted(HandshakeCompletedEvent event)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

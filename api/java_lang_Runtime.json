@@ -1,0 +1,119 @@
+{
+    "API": [
+        {
+            "Comments": "A representation of a version string for an implementation of the Java SE Platform.",
+            "Function": "Runtime.Version",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Registers a new virtual-machine shutdown hook.",
+            "Function": "addShutdownHook(Thread hook)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the number of processors available to the Java virtual machine.",
+            "Function": "availableProcessors()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Executes the specified string command in a separate process.",
+            "Function": "exec(String command)",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Executes the specified command and arguments in a separate process.",
+            "Function": "exec(String[] cmdarray)",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Executes the specified command and arguments in a separate process with the specified environment.",
+            "Function": "exec(String[] cmdarray,String[] envp)",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Executes the specified command and arguments in a separate process with the specified environment and working directory.",
+            "Function": "exec(String[] cmdarray,String[] envp,File dir)",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Executes the specified string command in a separate process with the specified environment.",
+            "Function": "exec(String command,String[] envp)",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Executes the specified string command in a separate process with the specified environment and working directory.",
+            "Function": "exec(String command,String[] envp,File dir)",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Terminates the currently running Java virtual machine by initiating its shutdown sequence.",
+            "Function": "exit(int status)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the amount of free memory in the Java Virtual Machine.",
+            "Function": "freeMemory()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Runs the garbage collector.",
+            "Function": "gc()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the runtime object associated with the current Java application.",
+            "Function": "getRuntime()",
+            "Modifier and Type": "static Runtime"
+        },
+        {
+            "Comments": "Forcibly terminates the currently running Java virtual machine.",
+            "Function": "halt(int status)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Loads the native library specified by the filename argument.",
+            "Function": "load(String filename)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Loads the native library specified by the libname argument.",
+            "Function": "loadLibrary(String libname)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the maximum amount of memory that the Java virtual machine will attempt to use.",
+            "Function": "maxMemory()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "De-registers a previously-registered virtual-machine shutdown hook.",
+            "Function": "removeShutdownHook(Thread hook)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Runs the finalization methods of any objects pending finalization.",
+            "Function": "runFinalization()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the total amount of memory in the Java virtual machine.",
+            "Function": "totalMemory()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.This method was intended to control instruction tracing.",
+            "Function": "traceInstructions(boolean on)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.This method was intended to control method call tracing.",
+            "Function": "traceMethodCalls(boolean on)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the version of the Java Runtime Environment as a Runtime.Version.",
+            "Function": "version()",
+            "Modifier and Type": "static Runtime.Version"
+        }
+    ]
+}

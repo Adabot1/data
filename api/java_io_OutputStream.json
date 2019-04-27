@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Closes this output stream and releases any system resources associated with this stream.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes this output stream and forces any buffered output bytes to be written out.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a new OutputStream which discards all bytes.",
+            "Function": "nullOutputStream()",
+            "Modifier and Type": "static OutputStream"
+        },
+        {
+            "Comments": "Writes b.length bytes from the specified byte array to this output stream.",
+            "Function": "write(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes len bytes from the specified byte array starting at offset off to this output stream.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes the specified byte to this output stream.",
+            "Function": "write(int b)",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

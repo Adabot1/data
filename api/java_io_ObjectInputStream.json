@@ -1,0 +1,174 @@
+{
+    "API": [
+        {
+            "Comments": "Provide access to the persistent fields read from the input stream.",
+            "Function": "ObjectInputStream.GetField",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Provide a way for subclasses that are completely reimplementing ObjectInputStream to not have to allocate private data just used by this implementation of ObjectInputStream.",
+            "Function": "available()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Creates an ObjectInputStream that reads from the specified InputStream.",
+            "Function": "close()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Returns the number of bytes that can be read without blocking.",
+            "Function": "defaultReadObject()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes the input stream.",
+            "Function": "enableResolveObject(boolean enable)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Read the non-static and non-transient fields of the current class from this stream.",
+            "Function": "getObjectInputFilter()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Enables the stream to do replacement of objects read from the stream.",
+            "Function": "read()",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Returns the serialization filter for this stream.",
+            "Function": "read(byte[] buf,int off,int len)",
+            "Modifier and Type": "ObjectInputFilter"
+        },
+        {
+            "Comments": "Reads a byte of data.",
+            "Function": "readBoolean()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads into an array of bytes.",
+            "Function": "readByte()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads in a boolean.",
+            "Function": "readChar()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads an 8 bit byte.",
+            "Function": "readClassDescriptor()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Reads a 16 bit char.",
+            "Function": "readDouble()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Read a class descriptor from the serialization stream.",
+            "Function": "readFields()",
+            "Modifier and Type": "protected ObjectStreamClass"
+        },
+        {
+            "Comments": "Reads a 64 bit double.",
+            "Function": "readFloat()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Reads the persistent fields from the stream and makes them available by name.",
+            "Function": "readFully(byte[] buf)",
+            "Modifier and Type": "ObjectInputStream.GetField"
+        },
+        {
+            "Comments": "Reads a 32 bit float.",
+            "Function": "readFully(byte[] buf, int off, int len)",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Reads bytes, blocking until all bytes are read.",
+            "Function": "readInt()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads bytes, blocking until all bytes are read.",
+            "Function": "readLine()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads a 32 bit int.",
+            "Function": "readLong()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.This method does not properly convert bytes to characters.",
+            "Function": "readObject()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads a 64 bit long.",
+            "Function": "readObjectOverride()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Read an object from the ObjectInputStream.",
+            "Function": "readShort()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "This method is called by trusted subclasses of ObjectOutputStream that constructed ObjectOutputStream using the protected no-arg constructor.",
+            "Function": "readStreamHeader()",
+            "Modifier and Type": "protected Object"
+        },
+        {
+            "Comments": "Reads a 16 bit short.",
+            "Function": "readUnshared()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "The readStreamHeader method is provided to allow subclasses to read and verify their own stream headers.",
+            "Function": "readUnsignedByte()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Reads an \"unshared\" object from the ObjectInputStream.",
+            "Function": "readUnsignedShort()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Reads an unsigned 8 bit byte.",
+            "Function": "readUTF()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads an unsigned 16 bit short.",
+            "Function": "registerValidation(ObjectInputValidation obj,int prio)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a String in modified UTF-8 format.",
+            "Function": "resolveClass(ObjectStreamClass desc)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Register an object to be validated before the graph is returned.",
+            "Function": "resolveObject(Object obj)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Load the local class equivalent of the specified stream class description.",
+            "Function": "resolveProxyClass(String[] interfaces)",
+            "Modifier and Type": "protected Class<?>"
+        },
+        {
+            "Comments": "This method will allow trusted subclasses of ObjectInputStream to substitute one object for another during deserialization.",
+            "Function": "setObjectInputFilter(ObjectInputFilter filter)",
+            "Modifier and Type": "protected Object"
+        },
+        {
+            "Comments": "Returns a proxy class that implements the interfaces named in a proxy class descriptor; subclasses may implement this method to read custom data from the stream along with the descriptors for dynamic proxy classes, allowing them to use an alternate loading mechanism for the interfaces and the proxy class.",
+            "Function": "skipBytes(int len)",
+            "Modifier and Type": "protected Class<?>"
+        }
+    ]
+}

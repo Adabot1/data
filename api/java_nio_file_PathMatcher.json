@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Tells if given path matches this matcher's pattern.",
+            "Function": "matches(Path path)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

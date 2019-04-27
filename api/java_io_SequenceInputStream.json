@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a newly created SequenceInputStream by remembering the two arguments, which will be read in order, first s1 and then s2, to provide the bytes to be read from this SequenceInputStream.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Initializes a newly created SequenceInputStream by remembering the argument, which must be an Enumeration  that produces objects whose run-time type is InputStream.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns an estimate of the number of bytes that can be read (or skipped over) from the current underlying input stream without blocking by the next invocation of a method for the current underlying input stream.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes this input stream and releases any system resources associated with the stream.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this Field against the specified object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the field represented by this Field, on the specified object.",
+            "Function": "get(Object obj)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns an AnnotatedType object that represents the use of a type to specify the declared type of the field represented by this Field.",
+            "Function": "getAnnotatedType()",
+            "Modifier and Type": "AnnotatedType"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is present, else null.",
+            "Function": "getAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are associated with this element.",
+            "Function": "getAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Gets the value of a static or instance boolean field.",
+            "Function": "getBoolean(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the value of a static or instance byte field.",
+            "Function": "getByte(Object obj)",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Gets the value of a static or instance field of type char or of another primitive type convertible to type char via a widening conversion.",
+            "Function": "getChar(Object obj)",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Returns the Class object representing the class or interface that declares the field represented by this Field object.",
+            "Function": "getDeclaringClass()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Gets the value of a static or instance field of type double or of another primitive type convertible to type double via a widening conversion.",
+            "Function": "getDouble(Object obj)",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Gets the value of a static or instance field of type float or of another primitive type convertible to type float via a widening conversion.",
+            "Function": "getFloat(Object obj)",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Returns a Type object that represents the declared type for the field represented by this Field object.",
+            "Function": "getGenericType()",
+            "Modifier and Type": "Type"
+        },
+        {
+            "Comments": "Gets the value of a static or instance field of type int or of another primitive type convertible to type int via a widening conversion.",
+            "Function": "getInt(Object obj)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of a static or instance field of type long or of another primitive type convertible to type long via a widening conversion.",
+            "Function": "getLong(Object obj)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the Java language modifiers for the field represented by this Field object, as an integer.",
+            "Function": "getModifiers()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the name of the field represented by this Field object.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the value of a static or instance field of type short or of another primitive type convertible to type short via a widening conversion.",
+            "Function": "getShort(Object obj)",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Returns a Class object that identifies the declared type for the field represented by this Field object.",
+            "Function": "getType()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Returns a hashcode for this Field.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if this field represents an element of an enumerated type; returns false otherwise.",
+            "Function": "isEnumConstant()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this field is a synthetic field; returns false otherwise.",
+            "Function": "isSynthetic()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets the field represented by this Field object on the specified object argument to the specified new value.",
+            "Function": "set(Object obj, Object value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Set the accessible flag for this reflected object to the indicated boolean value.",
+            "Function": "setAccessible(boolean flag)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as a boolean on the specified object.",
+            "Function": "setBoolean(Object obj,boolean z)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as a byte on the specified object.",
+            "Function": "setByte(Object obj, byte b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as a char on the specified object.",
+            "Function": "setChar(Object obj, char c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as a double on the specified object.",
+            "Function": "setDouble(Object obj, double d)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as a float on the specified object.",
+            "Function": "setFloat(Object obj,float f)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as an int on the specified object.",
+            "Function": "setInt(Object obj,int i)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as a long on the specified object.",
+            "Function": "setLong(Object obj, long l)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of a field as a short on the specified object.",
+            "Function": "setShort(Object obj,short s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a string describing this Field, including its generic type.",
+            "Function": "toGenericString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string describing this Field.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

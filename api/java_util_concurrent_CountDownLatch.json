@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a CountDownLatch initialized with the given count.",
+            "Function": "await()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Causes the current thread to wait until the latch has counted down to zero, unless the thread is interrupted.",
+            "Function": "await(long timeout, TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Causes the current thread to wait until the latch has counted down to zero, unless the thread is interrupted, or the specified waiting time elapses.",
+            "Function": "countDown()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Decrements the count of the latch, releasing all waiting threads if the count reaches zero.",
+            "Function": "getCount()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the current count.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

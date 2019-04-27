@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "A builder of AclEntry objects.",
+            "Function": "AclEntry.Builder",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Compares the specified object with this ACL entry for equality.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of the flags component.",
+            "Function": "flags()",
+            "Modifier and Type": "Set<AclEntryFlag>"
+        },
+        {
+            "Comments": "Returns the hash-code value for this ACL entry.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a new builder.",
+            "Function": "newBuilder()",
+            "Modifier and Type": "static AclEntry.Builder"
+        },
+        {
+            "Comments": "Constructs a new builder with the components of an existing ACL entry.",
+            "Function": "newBuilder(AclEntry entry)",
+            "Modifier and Type": "static AclEntry.Builder"
+        },
+        {
+            "Comments": "Returns a copy of the permissions component.",
+            "Function": "permissions()",
+            "Modifier and Type": "Set<AclEntryPermission>"
+        },
+        {
+            "Comments": "Returns the principal component.",
+            "Function": "principal()",
+            "Modifier and Type": "UserPrincipal"
+        },
+        {
+            "Comments": "Returns the string representation of this ACL entry.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the ACL entry type.",
+            "Function": "type()",
+            "Modifier and Type": "AclEntryType"
+        }
+    ]
+}

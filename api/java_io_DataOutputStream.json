@@ -1,0 +1,84 @@
+{
+    "API": [
+        {
+            "Comments": "The number of bytes written to the data output stream so far.",
+            "Function": "written",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a new data output stream to write data to the specified underlying output stream.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes this data output stream.",
+            "Function": "size()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current value of the counter written, the number of bytes written to this data output stream so far.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes len bytes from the specified byte array starting at offset off to the underlying output stream.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes the specified byte (the low eight bits of the argument b) to the underlying output stream.",
+            "Function": "writeBoolean(boolean v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a boolean to the underlying output stream as a 1-byte value.",
+            "Function": "writeByte(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes out a byte to the underlying output stream as a 1-byte value.",
+            "Function": "writeBytes(String s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes out the string to the underlying output stream as a sequence of bytes.",
+            "Function": "writeChar(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a char to the underlying output stream as a 2-byte value, high byte first.",
+            "Function": "writeChars(String s)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a string to the underlying output stream as a sequence of characters.",
+            "Function": "writeDouble(double v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Converts the double argument to a long using the doubleToLongBits method in class Double, and then writes that long value to the underlying output stream as an 8-byte quantity, high byte first.",
+            "Function": "writeFloat(float v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Converts the float argument to an int using the floatToIntBits method in class Float, and then writes that int value to the underlying output stream as a 4-byte quantity, high byte first.",
+            "Function": "writeInt(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes an int to the underlying output stream as four bytes, high byte first.",
+            "Function": "writeLong(long v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a long to the underlying output stream as eight bytes, high byte first.",
+            "Function": "writeShort(int v)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a short to the underlying output stream as two bytes, high byte first.",
+            "Function": "writeUTF(String str)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

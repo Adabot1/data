@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Aborts the attempt to cache the response.",
+            "Function": "abort()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns an OutputStream to which the response body can be written.",
+            "Function": "getBody()",
+            "Modifier and Type": "abstract OutputStream"
+        }
+    ]
+}

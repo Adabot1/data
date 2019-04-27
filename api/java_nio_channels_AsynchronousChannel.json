@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Closes this channel.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

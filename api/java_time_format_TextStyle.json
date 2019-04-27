@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Full text, typically the full description.",
+            "Function": "asNormal()",
+            "Modifier and Type": "TextStyle"
+        },
+        {
+            "Comments": "Full text for stand-alone use, typically the full description.",
+            "Function": "asStandalone()",
+            "Modifier and Type": "TextStyle"
+        },
+        {
+            "Comments": "Narrow text, typically a single letter.",
+            "Function": "isStandalone()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Narrow text for stand-alone use, typically a single letter.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static TextStyle"
+        },
+        {
+            "Comments": "Short text, typically an abbreviation.",
+            "Function": "values()",
+            "Modifier and Type": "static TextStyle[]"
+        }
+    ]
+}

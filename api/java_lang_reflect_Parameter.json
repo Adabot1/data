@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "Compares based on the executable and the index.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an AnnotatedType object that represents the use of a type to specify the type of the formal parameter represented by this Parameter.",
+            "Function": "getAnnotatedType()",
+            "Modifier and Type": "AnnotatedType"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is present, else null.",
+            "Function": "getAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are associated with this element.",
+            "Function": "getAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is directly present, else null.",
+            "Function": "getDeclaredAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns this element's annotation(s) for the specified type if such annotations are either directly present or indirectly present.",
+            "Function": "getDeclaredAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Return the Executable which declares this parameter.",
+            "Function": "getDeclaringExecutable()",
+            "Modifier and Type": "Executable"
+        },
+        {
+            "Comments": "Get the modifier flags for this the parameter represented by this Parameter object.",
+            "Function": "getModifiers()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the name of the parameter.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a Type object that identifies the parameterized type for the parameter represented by this Parameter object.",
+            "Function": "getParameterizedType()",
+            "Modifier and Type": "Type"
+        },
+        {
+            "Comments": "Returns a Class object that identifies the declared type for the parameter represented by this Parameter object.",
+            "Function": "getType()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Returns a hash code based on the executable's hash code and the index.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if this parameter is implicitly declared in source code; returns false otherwise.",
+            "Function": "isImplicit()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the parameter has a name according to the class file; returns false otherwise.",
+            "Function": "isNamePresent()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this parameter is neither implicitly nor explicitly declared in source code; returns false otherwise.",
+            "Function": "isSynthetic()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this parameter represents a variable argument list; returns false otherwise.",
+            "Function": "isVarArgs()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a string describing this parameter.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

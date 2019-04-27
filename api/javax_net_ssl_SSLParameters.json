@@ -1,0 +1,124 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs SSLParameters.",
+            "Function": "getAlgorithmConstraints()",
+            "Modifier and Type": "AlgorithmConstraints"
+        },
+        {
+            "Comments": "Constructs SSLParameters from the specified array of ciphersuites.",
+            "Function": "getApplicationProtocols()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Constructs SSLParameters from the specified array of ciphersuites and protocols.",
+            "Function": "getCipherSuites()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Returns the cryptographic algorithm constraints.",
+            "Function": "getEnableRetransmissions()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a prioritized array of application-layer protocol names that can be negotiated over the SSL/TLS/DTLS protocols.",
+            "Function": "getEndpointIdentificationAlgorithm()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of the array of ciphersuites or null if none have been set.",
+            "Function": "getMaximumPacketSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns whether DTLS handshake retransmissions should be enabled.",
+            "Function": "getNeedClientAuth()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Gets the endpoint identification algorithm.",
+            "Function": "getProtocols()",
+            "Modifier and Type": "String[]"
+        },
+        {
+            "Comments": "Returns the maximum expected network packet size in bytes for SSL/TLS/DTLS records.",
+            "Function": "getServerNames()",
+            "Modifier and Type": "List<SNIServerName>"
+        },
+        {
+            "Comments": "Returns whether client authentication should be required.",
+            "Function": "getSNIMatchers()",
+            "Modifier and Type": "Collection<SNIMatcher>"
+        },
+        {
+            "Comments": "Returns a copy of the array of protocols or null if none have been set.",
+            "Function": "getUseCipherSuitesOrder()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a List containing all SNIServerNames of the Server Name Indication (SNI) parameter, or null if none has been set.",
+            "Function": "getWantClientAuth()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a Collection containing all SNIMatchers of the Server Name Indication (SNI) parameter, or null if none has been set.",
+            "Function": "setAlgorithmConstraints(AlgorithmConstraints constraints)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns whether the local cipher suites preference should be honored.",
+            "Function": "setApplicationProtocols(String[] protocols)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns whether client authentication should be requested.",
+            "Function": "setCipherSuites(String[] cipherSuites)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the cryptographic algorithm constraints, which will be used in addition to any configured by the runtime environment.",
+            "Function": "setEnableRetransmissions(boolean enableRetransmissions)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the prioritized array of application-layer protocol names that can be negotiated over the SSL/TLS/DTLS protocols.",
+            "Function": "setEndpointIdentificationAlgorithm(String algorithm)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the array of ciphersuites.",
+            "Function": "setMaximumPacketSize(int maximumPacketSize)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets whether DTLS handshake retransmissions should be enabled.",
+            "Function": "setNeedClientAuth(boolean needClientAuth)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the endpoint identification algorithm.",
+            "Function": "setProtocols(String[] protocols)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the maximum expected network packet size in bytes for SSL/TLS/DTLS records.",
+            "Function": "setServerNames(List<SNIServerName> serverNames)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets whether client authentication should be required.",
+            "Function": "setSNIMatchers(Collection<SNIMatcher> matchers)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the array of protocols.",
+            "Function": "setUseCipherSuitesOrder(boolean honorOrder)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the desired SNIServerNames of the Server Name Indication (SNI) parameter.",
+            "Function": "setWantClientAuth(boolean wantClientAuth)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

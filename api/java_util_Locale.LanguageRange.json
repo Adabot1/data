@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "A constant holding the maximum value of weight, 1.0, which indicates that the language range is a good fit for the user.",
+            "Function": "MAX_WEIGHT",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "A constant holding the minimum value of weight, 0.0, which indicates that the language range is not a good fit for the user.",
+            "Function": "MIN_WEIGHT",
+            "Modifier and Type": "static double"
+        },
+        {
+            "Comments": "Constructs a LanguageRange using the given range.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a LanguageRange using the given range and weight.",
+            "Function": "getRange()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compares this object to the specified object.",
+            "Function": "getWeight()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the language range of this LanguageRange.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the weight of this LanguageRange.",
+            "Function": "mapEquivalents(List<Locale.LanguageRange> priorityList,Map<String,List<String>> map)",
+            "Modifier and Type": "static List<Locale.LanguageRange>"
+        },
+        {
+            "Comments": "Returns a hash code value for the object.",
+            "Function": "parse(String ranges)",
+            "Modifier and Type": "static List<Locale.LanguageRange>"
+        },
+        {
+            "Comments": "Generates a new customized Language Priority List using the given priorityList and map.",
+            "Function": "parse(String ranges, Map<String,List<String>> map)",
+            "Modifier and Type": "static List<Locale.LanguageRange>"
+        },
+        {
+            "Comments": "Parses the given ranges to generate a Language Priority List.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

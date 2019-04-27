@@ -1,0 +1,349 @@
+{
+    "API": [
+        {
+            "Comments": "The empty list (immutable).",
+            "Function": "EMPTY_LIST",
+            "Modifier and Type": "static List"
+        },
+        {
+            "Comments": "The empty map (immutable).",
+            "Function": "EMPTY_MAP",
+            "Modifier and Type": "static Map"
+        },
+        {
+            "Comments": "The empty set (immutable).",
+            "Function": "EMPTY_SET",
+            "Modifier and Type": "static Set"
+        },
+        {
+            "Comments": "Adds all of the specified elements to the specified collection.",
+            "Function": "addAll(Collection<? super T> c,T... elements)",
+            "Modifier and Type": "static <T> boolean"
+        },
+        {
+            "Comments": "Returns a view of a Deque as a Last-in-first-out (Lifo) Queue.",
+            "Function": "asLifoQueue(Deque<T> deque)",
+            "Modifier and Type": "static <T> Queue<T>"
+        },
+        {
+            "Comments": "Searches the specified list for the specified object using the binary search algorithm.",
+            "Function": "binarySearch(List<? extends Comparable<? super T>> list,T key)",
+            "Modifier and Type": "static <T> int"
+        },
+        {
+            "Comments": "Searches the specified list for the specified object using the binary search algorithm.",
+            "Function": "binarySearch(List<? extends T> list,T key,Comparator<? super T> c)",
+            "Modifier and Type": "static <T> int"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified collection.",
+            "Function": "checkedCollection(Collection<E> c, Class<E> type)",
+            "Modifier and Type": "static <E> Collection<E>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified list.",
+            "Function": "checkedList(List<E> list, Class<E> type)",
+            "Modifier and Type": "static <E> List<E>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified map.",
+            "Function": "checkedMap(Map<K,V> m,Class<K> keyType,Class<V> valueType)",
+            "Modifier and Type": "static <K,​V>Map<K,​V>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified navigable map.",
+            "Function": "checkedNavigableMap(NavigableMap<K,V> m, Class<K> keyType, Class<V> valueType)",
+            "Modifier and Type": "static <K,​V>NavigableMap<K,​V>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified navigable set.",
+            "Function": "checkedNavigableSet(NavigableSet<E> s, Class<E> type)",
+            "Modifier and Type": "static <E> NavigableSet<E>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified queue.",
+            "Function": "checkedQueue(Queue<E> queue,Class<E> type)",
+            "Modifier and Type": "static <E> Queue<E>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified set.",
+            "Function": "checkedSet(Set<E> s,Class<E> type)",
+            "Modifier and Type": "static <E> Set<E>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified sorted map.",
+            "Function": "checkedSortedMap(SortedMap<K,V> m,Class<K> keyType,Class<V> valueType)",
+            "Modifier and Type": "static <K,​V>SortedMap<K,​V>"
+        },
+        {
+            "Comments": "Returns a dynamically typesafe view of the specified sorted set.",
+            "Function": "checkedSortedSet(SortedSet<E> s,Class<E> type)",
+            "Modifier and Type": "static <E> SortedSet<E>"
+        },
+        {
+            "Comments": "Copies all of the elements from one list into another.",
+            "Function": "copy(List<? super T> dest,List<? extends T> src)",
+            "Modifier and Type": "static <T> void"
+        },
+        {
+            "Comments": "Returns true if the two specified collections have no elements in common.",
+            "Function": "disjoint(Collection<?> c1,Collection<?> c2)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns an enumeration that has no elements.",
+            "Function": "emptyEnumeration()",
+            "Modifier and Type": "static <T> Enumeration<T>"
+        },
+        {
+            "Comments": "Returns an iterator that has no elements.",
+            "Function": "emptyIterator()",
+            "Modifier and Type": "static <T> Iterator<T>"
+        },
+        {
+            "Comments": "Returns an empty list (immutable).",
+            "Function": "emptyList()",
+            "Modifier and Type": "static <T> List<T>"
+        },
+        {
+            "Comments": "Returns a list iterator that has no elements.",
+            "Function": "emptyListIterator()",
+            "Modifier and Type": "static <T> ListIterator<T>"
+        },
+        {
+            "Comments": "Returns an empty map (immutable).",
+            "Function": "emptyMap()",
+            "Modifier and Type": "static <K,​V>Map<K,​V>"
+        },
+        {
+            "Comments": "Returns an empty navigable map (immutable).",
+            "Function": "emptyNavigableMap()",
+            "Modifier and Type": "static <K,​V>NavigableMap<K,​V>"
+        },
+        {
+            "Comments": "Returns an empty navigable set (immutable).",
+            "Function": "emptyNavigableSet()",
+            "Modifier and Type": "static <E> NavigableSet<E>"
+        },
+        {
+            "Comments": "Returns an empty set (immutable).",
+            "Function": "emptySet()",
+            "Modifier and Type": "static <T> Set<T>"
+        },
+        {
+            "Comments": "Returns an empty sorted map (immutable).",
+            "Function": "emptySortedMap()",
+            "Modifier and Type": "static <K,​V>SortedMap<K,​V>"
+        },
+        {
+            "Comments": "Returns an empty sorted set (immutable).",
+            "Function": "emptySortedSet()",
+            "Modifier and Type": "static <E> SortedSet<E>"
+        },
+        {
+            "Comments": "Returns an enumeration over the specified collection.",
+            "Function": "enumeration(Collection<T> c)",
+            "Modifier and Type": "static <T> Enumeration<T>"
+        },
+        {
+            "Comments": "Replaces all of the elements of the specified list with the specified element.",
+            "Function": "fill(List<? super T> list,T obj)",
+            "Modifier and Type": "static <T> void"
+        },
+        {
+            "Comments": "Returns the number of elements in the specified collection equal to the specified object.",
+            "Function": "frequency(Collection<?> c, Object o)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the starting position of the first occurrence of the specified target list within the specified source list, or -1 if there is no such occurrence.",
+            "Function": "indexOfSubList(List<?> source,List<?> target)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the starting position of the last occurrence of the specified target list within the specified source list, or -1 if there is no such occurrence.",
+            "Function": "lastIndexOfSubList(List<?> source,List<?> target)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns an array list containing the elements returned by the specified enumeration in the order they are returned by the enumeration.",
+            "Function": "list(Enumeration<T> e)",
+            "Modifier and Type": "static <T> ArrayList<T>"
+        },
+        {
+            "Comments": "Returns the maximum element of the given collection, according to the natural ordering of its elements.",
+            "Function": "max(Collection<? extends T> coll)",
+            "Modifier and Type": "static <T extends Object & Comparable<? super T>>T"
+        },
+        {
+            "Comments": "Returns the maximum element of the given collection, according to the order induced by the specified comparator.",
+            "Function": "max(Collection<? extends T> coll, Comparator<? super T> comp)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Returns the minimum element of the given collection, according to the natural ordering of its elements.",
+            "Function": "min(Collection<? extends T> coll)",
+            "Modifier and Type": "static <T extends Object & Comparable<? super T>>T"
+        },
+        {
+            "Comments": "Returns the minimum element of the given collection, according to the order induced by the specified comparator.",
+            "Function": "min(Collection<? extends T> coll, Comparator<? super T> comp)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Returns an immutable list consisting of n copies of the specified object.",
+            "Function": "nCopies(int n, T o)",
+            "Modifier and Type": "static <T> List<T>"
+        },
+        {
+            "Comments": "Returns a set backed by the specified map.",
+            "Function": "newSetFromMap(Map<E,Boolean> map)",
+            "Modifier and Type": "static <E> Set<E>"
+        },
+        {
+            "Comments": "Replaces all occurrences of one specified value in a list with another.",
+            "Function": "replaceAll(List<T> list,T oldVal,T newVal)",
+            "Modifier and Type": "static <T> boolean"
+        },
+        {
+            "Comments": "Reverses the order of the elements in the specified list.",
+            "Function": "reverse(List<?> list)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns a comparator that imposes the reverse of the natural ordering on a collection of objects that implement the Comparable interface.",
+            "Function": "reverseOrder()",
+            "Modifier and Type": "static <T> Comparator<T>"
+        },
+        {
+            "Comments": "Returns a comparator that imposes the reverse ordering of the specified comparator.",
+            "Function": "reverseOrder(Comparator<T> cmp)",
+            "Modifier and Type": "static <T> Comparator<T>"
+        },
+        {
+            "Comments": "Rotates the elements in the specified list by the specified distance.",
+            "Function": "rotate(List<?> list,int distance)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Randomly permutes the specified list using a default source of randomness.",
+            "Function": "shuffle(List<?> list)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Randomly permute the specified list using the specified source of randomness.",
+            "Function": "shuffle(List<?> list, Random rnd)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns an immutable set containing only the specified object.",
+            "Function": "singleton(T o)",
+            "Modifier and Type": "static <T> Set<T>"
+        },
+        {
+            "Comments": "Returns an immutable list containing only the specified object.",
+            "Function": "singletonList(T o)",
+            "Modifier and Type": "static <T> List<T>"
+        },
+        {
+            "Comments": "Returns an immutable map, mapping only the specified key to the specified value.",
+            "Function": "singletonMap(K key,V value)",
+            "Modifier and Type": "static <K,​V>Map<K,​V>"
+        },
+        {
+            "Comments": "Sorts the specified list into ascending order, according to the natural ordering of its elements.",
+            "Function": "sort(List<T> list)",
+            "Modifier and Type": "static <T extends Comparable<? super T>>void"
+        },
+        {
+            "Comments": "Sorts the specified list according to the order induced by the specified comparator.",
+            "Function": "sort(List<T> list,Comparator<? super T> c)",
+            "Modifier and Type": "static <T> void"
+        },
+        {
+            "Comments": "Swaps the elements at the specified positions in the specified list.",
+            "Function": "swap(List<?> list,int i,int j)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) collection backed by the specified collection.",
+            "Function": "synchronizedCollection(Collection<T> c)",
+            "Modifier and Type": "static <T> Collection<T>"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) list backed by the specified list.",
+            "Function": "synchronizedList(List<T> list)",
+            "Modifier and Type": "static <T> List<T>"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) map backed by the specified map.",
+            "Function": "synchronizedMap(Map<K,V> m)",
+            "Modifier and Type": "static <K,​V>Map<K,​V>"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) navigable map backed by the specified navigable map.",
+            "Function": "synchronizedNavigableMap(NavigableMap<K,V> m)",
+            "Modifier and Type": "static <K,​V>NavigableMap<K,​V>"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) navigable set backed by the specified navigable set.",
+            "Function": "synchronizedNavigableSet(NavigableSet<T> s)",
+            "Modifier and Type": "static <T> NavigableSet<T>"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) set backed by the specified set.",
+            "Function": "synchronizedSet(Set<T> s)",
+            "Modifier and Type": "static <T> Set<T>"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) sorted map backed by the specified sorted map.",
+            "Function": "synchronizedSortedMap(SortedMap<K,V> m)",
+            "Modifier and Type": "static <K,​V>SortedMap<K,​V>"
+        },
+        {
+            "Comments": "Returns a synchronized (thread-safe) sorted set backed by the specified sorted set.",
+            "Function": "synchronizedSortedSet(SortedSet<T> s)",
+            "Modifier and Type": "static <T> SortedSet<T>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified collection.",
+            "Function": "unmodifiableCollection(Collection<? extends T> c)",
+            "Modifier and Type": "static <T> Collection<T>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified list.",
+            "Function": "unmodifiableList(List<? extends T> list)",
+            "Modifier and Type": "static <T> List<T>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified map.",
+            "Function": "unmodifiableMap(Map<? extends K,? extends V> m)",
+            "Modifier and Type": "static <K,​V>Map<K,​V>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified navigable map.",
+            "Function": "unmodifiableNavigableMap(NavigableMap<K,? extends V> m)",
+            "Modifier and Type": "static <K,​V>NavigableMap<K,​V>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified navigable set.",
+            "Function": "unmodifiableNavigableSet(NavigableSet<T> s)",
+            "Modifier and Type": "static <T> NavigableSet<T>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified set.",
+            "Function": "unmodifiableSet(Set<? extends T> s)",
+            "Modifier and Type": "static <T> Set<T>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified sorted map.",
+            "Function": "unmodifiableSortedMap(SortedMap<K,? extends V> m)",
+            "Modifier and Type": "static <K,​V>SortedMap<K,​V>"
+        },
+        {
+            "Comments": "Returns an unmodifiable view of the specified sorted set.",
+            "Function": "unmodifiableSortedSet(SortedSet<T> s)",
+            "Modifier and Type": "static <T> SortedSet<T>"
+        }
+    ]
+}

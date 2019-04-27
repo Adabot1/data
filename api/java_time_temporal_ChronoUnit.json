@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Unit that represents the concept of a century.",
+            "Function": "getDuration()",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Unit that represents the concept of a day.",
+            "Function": "isDateBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Unit that represents the concept of a decade.",
+            "Function": "isDurationEstimated()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Unit that represents the concept of an era.",
+            "Function": "isTimeBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Artificial unit that represents the concept of forever.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ChronoUnit"
+        },
+        {
+            "Comments": "Unit that represents the concept of half a day, as used in AM/PM.",
+            "Function": "values()",
+            "Modifier and Type": "static ChronoUnit[]"
+        }
+    ]
+}

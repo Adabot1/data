@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a permission with the specified name.",
+            "Function": "checkGuard(Object object)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Implements the guard interface for a permission.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Checks two Permission objects for equality.",
+            "Function": "getActions()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Returns the actions as a String.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the name of this Permission.",
+            "Function": "hashCode()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the hash code value for this Permission object.",
+            "Function": "implies(Permission permission)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Checks if the specified permission's actions are \"implied by\" this object's actions.",
+            "Function": "newPermissionCollection()",
+            "Modifier and Type": "PermissionCollection"
+        },
+        {
+            "Comments": "Returns an empty PermissionCollection for a given Permission object, or null if one is not defined.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

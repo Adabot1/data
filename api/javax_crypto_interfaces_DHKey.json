@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the key parameters.",
+            "Function": "getParams()",
+            "Modifier and Type": "DHParameterSpec"
+        }
+    ]
+}

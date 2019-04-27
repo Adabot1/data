@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a KeyFactory object.",
+            "Function": "generatePrivate(KeySpec keySpec)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Generates a private key object from the provided key specification (key material).",
+            "Function": "generatePublic(KeySpec keySpec)",
+            "Modifier and Type": "PrivateKey"
+        },
+        {
+            "Comments": "Generates a public key object from the provided key specification (key material).",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "PublicKey"
+        },
+        {
+            "Comments": "Gets the name of the algorithm associated with this KeyFactory.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a KeyFactory object that converts public/private keys of the specified algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static KeyFactory"
+        },
+        {
+            "Comments": "Returns a KeyFactory object that converts public/private keys of the specified algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static KeyFactory"
+        },
+        {
+            "Comments": "Returns a KeyFactory object that converts public/private keys of the specified algorithm.",
+            "Function": "getKeySpec(Key key,Class<T> keySpec)",
+            "Modifier and Type": "static KeyFactory"
+        },
+        {
+            "Comments": "Returns a specification (key material) of the given key object.",
+            "Function": "getProvider()",
+            "Modifier and Type": "<T extends KeySpec>T"
+        },
+        {
+            "Comments": "Returns the provider of this key factory object.",
+            "Function": "translateKey(Key key)",
+            "Modifier and Type": "Provider"
+        }
+    ]
+}

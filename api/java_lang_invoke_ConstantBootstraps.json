@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Finds a VarHandle for an array type.",
+            "Function": "arrayVarHandle(MethodHandles.Lookup lookup,String name,Class<VarHandle> type,Class<?> arrayClass)",
+            "Modifier and Type": "static VarHandle"
+        },
+        {
+            "Comments": "Returns an enum constant of the type specified by type with the name specified by name.",
+            "Function": "enumConstant(MethodHandles.Lookup lookup,String name,Class<E> type)",
+            "Modifier and Type": "static <E extends Enum<E>>E"
+        },
+        {
+            "Comments": "Finds a VarHandle for an instance field.",
+            "Function": "fieldVarHandle(MethodHandles.Lookup lookup,String name,Class<VarHandle> type,Class<?> declaringClass,Class<?> fieldType)",
+            "Modifier and Type": "static VarHandle"
+        },
+        {
+            "Comments": "Returns the value of a static final field declared in the class which is the same as the field's type (or, for primitive-valued fields, declared in the wrapper class.)",
+            "Function": "getStaticFinal(MethodHandles.Lookup lookup,String name,Class<?> type)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Returns the value of a static final field.",
+            "Function": "getStaticFinal(MethodHandles.Lookup lookup,String name,Class<?> type,Class<?> declaringClass)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Returns the result of invoking a method handle with the provided arguments.",
+            "Function": "invoke(MethodHandles.Lookup lookup,String name,Class<?> type,MethodHandle handle,Object... args)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Returns a null object reference for the reference type specified by type.",
+            "Function": "nullConstant(MethodHandles.Lookup lookup,String name,Class<?> type)",
+            "Modifier and Type": "static Object"
+        },
+        {
+            "Comments": "Returns a Class mirror for the primitive type whose type descriptor is specified by name.",
+            "Function": "primitiveClass(MethodHandles.Lookup lookup,String name,Class<?> type)",
+            "Modifier and Type": "static Class<?>"
+        },
+        {
+            "Comments": "Finds a VarHandle for a static field.",
+            "Function": "staticFieldVarHandle(MethodHandles.Lookup lookup,String name,Class<VarHandle> type,Class<?> declaringClass,Class<?> fieldType)",
+            "Modifier and Type": "static VarHandle"
+        }
+    ]
+}

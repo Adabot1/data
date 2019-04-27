@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Style to resolve dates and times leniently.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ResolverStyle"
+        },
+        {
+            "Comments": "Style to resolve dates and times in a smart, or intelligent, manner.",
+            "Function": "values()",
+            "Modifier and Type": "static ResolverStyle[]"
+        }
+    ]
+}

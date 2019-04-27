@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a call site with a permanent target.",
+            "Function": "dynamicInvoker()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Creates a call site with a permanent target, possibly bound to the call site itself.",
+            "Function": "getTarget()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns this call site's permanent target.",
+            "Function": "setTarget(MethodHandle ignore)",
+            "Modifier and Type": "MethodHandle"
+        }
+    ]
+}

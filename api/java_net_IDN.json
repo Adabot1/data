@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Flag to allow processing of unassigned code points",
+            "Function": "ALLOW_UNASSIGNED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Flag to turn on the check against STD-3 ASCII rules",
+            "Function": "USE_STD3_ASCII_RULES",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Translates a string from Unicode to ASCII Compatible Encoding (ACE), as defined by the ToASCII operation of RFC 3490.",
+            "Function": "toASCII(String input)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Translates a string from Unicode to ASCII Compatible Encoding (ACE), as defined by the ToASCII operation of RFC 3490.",
+            "Function": "toASCII(String input, int flag)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Translates a string from ASCII Compatible Encoding (ACE) to Unicode, as defined by the ToUnicode operation of RFC 3490.",
+            "Function": "toUnicode(String input)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Translates a string from ASCII Compatible Encoding (ACE) to Unicode, as defined by the ToUnicode operation of RFC 3490.",
+            "Function": "toUnicode(String input, int flag)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

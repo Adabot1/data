@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an empty OptionalDouble instance.",
+            "Function": "empty()",
+            "Modifier and Type": "static OptionalDouble"
+        },
+        {
+            "Comments": "Indicates whether some other object is \"equal to\" this OptionalDouble.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws NoSuchElementException.",
+            "Function": "getAsDouble()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Returns the hash code of the value, if present, otherwise 0 (zero) if no value is present.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "If a value is present, performs the given action with the value, otherwise does nothing.",
+            "Function": "ifPresent(DoubleConsumer action)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If a value is present, performs the given action with the value, otherwise performs the given empty-based action.",
+            "Function": "ifPresentOrElse(DoubleConsumer action, Runnable emptyAction)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If a value is not present, returns true, otherwise false.",
+            "Function": "isEmpty()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "If a value is present, returns true, otherwise false.",
+            "Function": "isPresent()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an OptionalDouble describing the given value.",
+            "Function": "of(double value)",
+            "Modifier and Type": "static OptionalDouble"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise returns other.",
+            "Function": "orElse(double other)",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise returns the result produced by the supplying function.",
+            "Function": "orElseGet(DoubleSupplier supplier)",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws NoSuchElementException.",
+            "Function": "orElseThrow()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "If a value is present, returns the value, otherwise throws an exception produced by the exception supplying function.",
+            "Function": "orElseThrow(Supplier<? extends X> exceptionSupplier)",
+            "Modifier and Type": "<X extends Throwable>double"
+        },
+        {
+            "Comments": "If a value is present, returns a sequential DoubleStream containing only that value, otherwise returns an empty DoubleStream.",
+            "Function": "stream()",
+            "Modifier and Type": "DoubleStream"
+        },
+        {
+            "Comments": "Returns a non-empty string representation of this OptionalDouble suitable for debugging.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

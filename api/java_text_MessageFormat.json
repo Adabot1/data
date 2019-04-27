@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Defines constants that are used as attribute keys in the AttributedCharacterIterator returned from MessageFormat.formatToCharacterIterator.",
+            "Function": "MessageFormat.Field",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Constructs a MessageFormat for the default FORMAT locale and the specified pattern.",
+            "Function": "applyPattern(String pattern)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a MessageFormat for the specified locale and pattern.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Sets the pattern used by this message format.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates and returns a copy of this object.",
+            "Function": "format(Object[] arguments,StringBuffer result,FieldPosition pos)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Equality comparison between two message format objects",
+            "Function": "format(Object arguments,StringBuffer result,FieldPosition pos)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Formats an array of objects and appends the MessageFormat's pattern, with format elements replaced by the formatted objects, to the provided StringBuffer.",
+            "Function": "format(String pattern,Object... arguments)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Formats an array of objects and appends the MessageFormat's pattern, with format elements replaced by the formatted objects, to the provided StringBuffer.",
+            "Function": "formatToCharacterIterator(Object arguments)",
+            "Modifier and Type": "AttributedCharacterIterator"
+        },
+        {
+            "Comments": "Creates a MessageFormat with the given pattern and uses it to format the given arguments.",
+            "Function": "getFormats()",
+            "Modifier and Type": "Format[]"
+        },
+        {
+            "Comments": "Formats an array of objects and inserts them into the MessageFormat's pattern, producing an AttributedCharacterIterator.",
+            "Function": "getFormatsByArgumentIndex()",
+            "Modifier and Type": "Format[]"
+        },
+        {
+            "Comments": "Gets the formats used for the format elements in the previously set pattern string.",
+            "Function": "getLocale()",
+            "Modifier and Type": "Locale"
+        },
+        {
+            "Comments": "Gets the formats used for the values passed into format methods or returned from parse methods.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the locale that's used when creating or comparing subformats.",
+            "Function": "parse(String source)",
+            "Modifier and Type": "Object[]"
+        },
+        {
+            "Comments": "Generates a hash code for the message format object.",
+            "Function": "parse(String source, ParsePosition pos)",
+            "Modifier and Type": "Object[]"
+        },
+        {
+            "Comments": "Parses text from the beginning of the given string to produce an object array.",
+            "Function": "parseObject(String source, ParsePosition pos)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Parses the string.",
+            "Function": "setFormat(int formatElementIndex, Format newFormat)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Parses text from a string to produce an object array.",
+            "Function": "setFormatByArgumentIndex(int argumentIndex,Format newFormat)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the format to use for the format element with the given format element index within the previously set pattern string.",
+            "Function": "setFormats(Format[] newFormats)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the format to use for the format elements within the previously set pattern string that use the given argument index.",
+            "Function": "setFormatsByArgumentIndex(Format[] newFormats)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the formats to use for the format elements in the previously set pattern string.",
+            "Function": "setLocale(Locale locale)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the formats to use for the values passed into format methods or returned from parse methods.",
+            "Function": "toPattern()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

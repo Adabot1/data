@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The object implements the readExternal method to restore its contents by calling the methods of DataInput for primitive types and readObject for objects, strings and arrays.",
+            "Function": "readExternal(ObjectInput in)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "The object implements the writeExternal method to save its contents by calling the methods of DataOutput for its primitive values or calling the writeObject method of ObjectOutput for objects, strings, and arrays.",
+            "Function": "writeExternal(ObjectOutput out)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

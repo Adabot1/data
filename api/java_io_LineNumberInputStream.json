@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a newline number input stream that reads its input from the specified input stream.",
+            "Function": "getLineNumber()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "mark(int readlimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the number of bytes that can be read from this input stream without blocking.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current line number.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "setLineNumber(int lineNumber)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Marks the current position in this input stream.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

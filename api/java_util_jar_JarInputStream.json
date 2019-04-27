@@ -1,0 +1,229 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new JarInputStream and reads the optional manifest.",
+            "Function": "CENATT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarInputStream and reads the optional manifest.",
+            "Function": "CENATX",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new JarEntry (ZipEntry) for the specified JAR file entry name.",
+            "Function": "CENCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the Manifest for this JAR file, or null if none.",
+            "Function": "CENCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Reads the next ZIP file entry and positions the stream at the beginning of the entry data.",
+            "Function": "CENDSK",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Reads the next JAR file entry and positions the stream at the beginning of the entry data.",
+            "Function": "CENEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Reads from the current JAR file entry into an array of bytes.",
+            "Function": "CENFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "CENSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENVEM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "CENVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDCOM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDOFF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDSUB",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "ENDTOT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "EXTSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCCRC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCEXT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCFLG",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHDR",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCHOW",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCLEN",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCNAM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIG",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCSIZ",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCTIM",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "LOCVER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "",
+            "Function": "createZipEntry(String name)",
+            "Modifier and Type": "protected ZipEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "getManifest()",
+            "Modifier and Type": "Manifest"
+        },
+        {
+            "Comments": "",
+            "Function": "getNextEntry()",
+            "Modifier and Type": "ZipEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "getNextJarEntry()",
+            "Modifier and Type": "JarEntry"
+        },
+        {
+            "Comments": "",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

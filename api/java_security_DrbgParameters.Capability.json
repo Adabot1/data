@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Neither prediction resistance nor reseed.",
+            "Function": "supportsPredictionResistance()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Both prediction resistance and reseed.",
+            "Function": "supportsReseeding()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reseed but no prediction resistance.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static DrbgParameters.Capability"
+        },
+        {
+            "Comments": "Returns whether this capability supports prediction resistance.",
+            "Function": "values()",
+            "Modifier and Type": "static DrbgParameters.Capability[]"
+        }
+    ]
+}

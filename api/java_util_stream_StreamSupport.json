@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new sequential or parallel DoubleStream from a Supplier of Spliterator.OfDouble.",
+            "Function": "doubleStream(Supplier<? extends Spliterator.OfDouble> supplier,int characteristics,boolean parallel)",
+            "Modifier and Type": "static DoubleStream"
+        },
+        {
+            "Comments": "Creates a new sequential or parallel DoubleStream from a Spliterator.OfDouble.",
+            "Function": "doubleStream(Spliterator.OfDouble spliterator,boolean parallel)",
+            "Modifier and Type": "static DoubleStream"
+        },
+        {
+            "Comments": "Creates a new sequential or parallel IntStream from a Supplier of Spliterator.OfInt.",
+            "Function": "intStream(Supplier<? extends Spliterator.OfInt> supplier, int characteristics, boolean parallel)",
+            "Modifier and Type": "static IntStream"
+        },
+        {
+            "Comments": "Creates a new sequential or parallel IntStream from a Spliterator.OfInt.",
+            "Function": "intStream(Spliterator.OfInt spliterator, boolean parallel)",
+            "Modifier and Type": "static IntStream"
+        },
+        {
+            "Comments": "Creates a new sequential or parallel LongStream from a Supplier of Spliterator.OfLong.",
+            "Function": "longStream(Supplier<? extends Spliterator.OfLong> supplier,int characteristics,boolean parallel)",
+            "Modifier and Type": "static LongStream"
+        },
+        {
+            "Comments": "Creates a new sequential or parallel LongStream from a Spliterator.OfLong.",
+            "Function": "longStream(Spliterator.OfLong spliterator,boolean parallel)",
+            "Modifier and Type": "static LongStream"
+        },
+        {
+            "Comments": "Creates a new sequential or parallel Stream from a Supplier of Spliterator.",
+            "Function": "stream(Supplier<? extends Spliterator<T>> supplier,int characteristics,boolean parallel)",
+            "Modifier and Type": "static <T> Stream<T>"
+        },
+        {
+            "Comments": "Creates a new sequential or parallel Stream from a Spliterator.",
+            "Function": "stream(Spliterator<T> spliterator,boolean parallel)",
+            "Modifier and Type": "static <T> Stream<T>"
+        }
+    ]
+}

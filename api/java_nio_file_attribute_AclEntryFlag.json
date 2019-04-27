@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Can be placed on a directory and indicates that the ACL entry should be added to each new directory created.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static AclEntryFlag"
+        },
+        {
+            "Comments": "Can be placed on a directory and indicates that the ACL entry should be added to each new non-directory file created.",
+            "Function": "values()",
+            "Modifier and Type": "static AclEntryFlag[]"
+        }
+    ]
+}

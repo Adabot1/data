@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Empty constructor for use by subclasses.",
+            "Function": "getExclusiveOwnerThread()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the thread last set by setExclusiveOwnerThread, or null if never set.",
+            "Function": "setExclusiveOwnerThread(Thread thread)",
+            "Modifier and Type": "protected Thread"
+        }
+    ]
+}

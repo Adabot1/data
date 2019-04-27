@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "DEFLATE_HINT",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Property indicating that the unpacker should ignore all transmitted values for DEFLATE_HINT, replacing them by the given value, TRUE or FALSE.",
+            "Function": "FALSE",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "KEEP",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The string \"false\", a possible value for certain properties.",
+            "Function": "PROGRESS",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "TRUE",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The string \"keep\", a possible value for certain properties.",
+            "Function": "properties()",
+            "Modifier and Type": "SortedMap<String,​String>"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "unpack(File in,JarOutputStream out)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "The unpacker's progress as a percentage, as periodically updated by the unpacker.",
+            "Function": "unpack(InputStream in,JarOutputStream out)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

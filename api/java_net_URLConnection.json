@@ -1,0 +1,304 @@
+{
+    "API": [
+        {
+            "Comments": "If true, this URL is being examined in a context in which it makes sense to allow user interactions such as popping up an authentication dialog.",
+            "Function": "allowUserInteraction",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "If false, this connection object has not created a communications link to the specified URL.",
+            "Function": "connected",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "This variable is set by the setDoInput method.",
+            "Function": "doInput",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "This variable is set by the setDoOutput method.",
+            "Function": "doOutput",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Some protocols support skipping the fetching of the object unless the object has been modified more recently than a certain time.",
+            "Function": "ifModifiedSince",
+            "Modifier and Type": "protected long"
+        },
+        {
+            "Comments": "The URL represents the remote object on the World Wide Web to which this connection is opened.",
+            "Function": "url",
+            "Modifier and Type": "protected URL"
+        },
+        {
+            "Comments": "If true, the protocol is allowed to use caching whenever it can.",
+            "Function": "useCaches",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Constructs a URL connection to the specified URL.",
+            "Function": "addRequestProperty(String key,String value)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Adds a general request property specified by a key-value pair.",
+            "Function": "connect()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Opens a communications link to the resource referenced by this URL, if such a connection has not already been established.",
+            "Function": "getAllowUserInteraction()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns the value of the allowUserInteraction field for this object.",
+            "Function": "getConnectTimeout()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns setting for connect timeout.",
+            "Function": "getContent()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Retrieves the contents of this URL connection.",
+            "Function": "getContent(Class<?>[] classes)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Retrieves the contents of this URL connection.",
+            "Function": "getContentEncoding()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns the value of the content-encoding header field.",
+            "Function": "getContentLength()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the content-length header field.",
+            "Function": "getContentLengthLong()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the value of the content-length header field as a long.",
+            "Function": "getContentType()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the value of the content-type header field.",
+            "Function": "getDate()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the date header field.",
+            "Function": "getDefaultAllowUserInteraction()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the default value of the allowUserInteraction field.",
+            "Function": "getDefaultRequestProperty(String key)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Deprecated.The instance specific getRequestProperty method should be used after an appropriate instance of URLConnection is obtained.",
+            "Function": "getDefaultUseCaches()",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the default value of a URLConnection's useCaches flag.",
+            "Function": "getDefaultUseCaches(String protocol)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the default value of the useCaches flag for the given protocol.",
+            "Function": "getDoInput()",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns the value of this URLConnection's doInput flag.",
+            "Function": "getDoOutput()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of this URLConnection's doOutput flag.",
+            "Function": "getExpiration()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the value of the expires header field.",
+            "Function": "getFileNameMap()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Loads filename map (a mimetable) from a data file.",
+            "Function": "getHeaderField(int n)",
+            "Modifier and Type": "static FileNameMap"
+        },
+        {
+            "Comments": "Returns the value for the nth header field.",
+            "Function": "getHeaderField(String name)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the named header field.",
+            "Function": "getHeaderFieldDate(String name,long Default)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the named field parsed as date.",
+            "Function": "getHeaderFieldInt(String name, int Default)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the value of the named field parsed as a number.",
+            "Function": "getHeaderFieldKey(int n)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the key for the nth header field.",
+            "Function": "getHeaderFieldLong(String name,long Default)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of the named field parsed as a number.",
+            "Function": "getHeaderFields()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an unmodifiable Map of the header fields.",
+            "Function": "getIfModifiedSince()",
+            "Modifier and Type": "Map<String,​List<String>>"
+        },
+        {
+            "Comments": "Returns the value of this object's ifModifiedSince field.",
+            "Function": "getInputStream()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an input stream that reads from this open connection.",
+            "Function": "getLastModified()",
+            "Modifier and Type": "InputStream"
+        },
+        {
+            "Comments": "Returns the value of the last-modified header field.",
+            "Function": "getOutputStream()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an output stream that writes to this connection.",
+            "Function": "getPermission()",
+            "Modifier and Type": "OutputStream"
+        },
+        {
+            "Comments": "Returns a permission object representing the permission necessary to make the connection represented by this object.",
+            "Function": "getReadTimeout()",
+            "Modifier and Type": "Permission"
+        },
+        {
+            "Comments": "Returns setting for read timeout. 0 return implies that the option is disabled (i.e., timeout of infinity).",
+            "Function": "getRequestProperties()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an unmodifiable Map of general request properties for this connection.",
+            "Function": "getRequestProperty(String key)",
+            "Modifier and Type": "Map<String,​List<String>>"
+        },
+        {
+            "Comments": "Returns the value of the named general request property for this connection.",
+            "Function": "getURL()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the value of this URLConnection's URL field.",
+            "Function": "getUseCaches()",
+            "Modifier and Type": "URL"
+        },
+        {
+            "Comments": "Returns the value of this URLConnection's useCaches field.",
+            "Function": "guessContentTypeFromName(String fname)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tries to determine the content type of an object, based on the specified \"file\" component of a URL.",
+            "Function": "guessContentTypeFromStream(InputStream is)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Tries to determine the type of an input stream based on the characters at the beginning of the input stream.",
+            "Function": "setAllowUserInteraction(boolean allowuserinteraction)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Set the value of the allowUserInteraction field of this URLConnection.",
+            "Function": "setConnectTimeout(int timeout)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets a specified timeout value, in milliseconds, to be used when opening a communications link to the resource referenced by this URLConnection.",
+            "Function": "setContentHandlerFactory(ContentHandlerFactory fac)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the ContentHandlerFactory of an application.",
+            "Function": "setDefaultAllowUserInteraction(boolean defaultallowuserinteraction)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the default value of the allowUserInteraction field for all future URLConnection objects to the specified value.",
+            "Function": "setDefaultRequestProperty(String key, String value)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Deprecated.The instance specific setRequestProperty method should be used after an appropriate instance of URLConnection is obtained.",
+            "Function": "setDefaultUseCaches(boolean defaultusecaches)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the default value of the useCaches field to the specified value.",
+            "Function": "setDefaultUseCaches(String protocol, boolean defaultVal)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the default value of the useCaches field for the named protocol to the given value.",
+            "Function": "setDoInput(boolean doinput)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the doInput field for this URLConnection to the specified value.",
+            "Function": "setDoOutput(boolean dooutput)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of the doOutput field for this URLConnection to the specified value.",
+            "Function": "setFileNameMap(FileNameMap map)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the FileNameMap.",
+            "Function": "setIfModifiedSince(long ifmodifiedsince)",
+            "Modifier and Type": "static void"
+        },
+        {
+            "Comments": "Sets the value of the ifModifiedSince field of this URLConnection to the specified value.",
+            "Function": "setReadTimeout(int timeout)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the read timeout to a specified timeout, in milliseconds.",
+            "Function": "setRequestProperty(String key,String value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the general request property.",
+            "Function": "setUseCaches(boolean usecaches)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the value of the useCaches field of this URLConnection to the specified value.",
+            "Function": "toString()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

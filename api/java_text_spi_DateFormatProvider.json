@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Sole constructor.",
+            "Function": "getDateInstance(int style, Locale locale)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a new DateFormat instance which formats date with the given formatting style for the specified locale.",
+            "Function": "getDateTimeInstance(int dateStyle, int timeStyle, Locale locale)",
+            "Modifier and Type": "abstract DateFormat"
+        },
+        {
+            "Comments": "Returns a new DateFormat instance which formats date and time with the given formatting style for the specified locale.",
+            "Function": "getTimeInstance(int style, Locale locale)",
+            "Modifier and Type": "abstract DateFormat"
+        }
+    ]
+}

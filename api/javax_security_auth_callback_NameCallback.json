@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a NameCallback with a prompt.",
+            "Function": "getDefaultName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Construct a NameCallback with a prompt and default name.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the default name.",
+            "Function": "getPrompt()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the retrieved name.",
+            "Function": "setName(String name)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Mode for a private (copy-on-write) mapping.",
+            "Function": "PRIVATE",
+            "Modifier and Type": "static FileChannel.MapMode"
+        },
+        {
+            "Comments": "Mode for a read-only mapping.",
+            "Function": "READ_ONLY",
+            "Modifier and Type": "static FileChannel.MapMode"
+        },
+        {
+            "Comments": "Mode for a read/write mapping.",
+            "Function": "READ_WRITE",
+            "Modifier and Type": "static FileChannel.MapMode"
+        },
+        {
+            "Comments": "Returns a string describing this file-mapping mode.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

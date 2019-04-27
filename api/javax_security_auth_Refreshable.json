@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Determine if this Object is current.",
+            "Function": "isCurrent()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Update or extend the validity period for this Object.",
+            "Function": "refresh()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

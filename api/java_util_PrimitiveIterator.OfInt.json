@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+            "Function": "forEachRemaining(Consumer<? super Integer> action)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+            "Function": "forEachRemaining(IntConsumer action)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Returns the next element in the iteration.",
+            "Function": "next()",
+            "Modifier and Type": "default Integer"
+        },
+        {
+            "Comments": "Returns the next int element in the iteration.",
+            "Function": "nextInt()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

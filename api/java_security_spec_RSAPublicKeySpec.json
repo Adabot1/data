@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new RSAPublicKeySpec.",
+            "Function": "getModulus()",
+            "Modifier and Type": "BigInteger"
+        },
+        {
+            "Comments": "Creates a new RSAPublicKeySpec with additional key parameters.",
+            "Function": "getParams()",
+            "Modifier and Type": "AlgorithmParameterSpec"
+        },
+        {
+            "Comments": "Returns the modulus.",
+            "Function": "getPublicExponent()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

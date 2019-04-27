@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Represents a source of subprocess input or a destination of subprocess output.",
+            "Function": "ProcessBuilder.Redirect",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Constructs a process builder with the specified operating system program and arguments.",
+            "Function": "command()",
+            "Modifier and Type": "List<String>"
+        },
+        {
+            "Comments": "Constructs a process builder with the specified operating system program and arguments.",
+            "Function": "command(String... command)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Returns this process builder's operating system program and arguments.",
+            "Function": "command(List<String> command)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Sets this process builder's operating system program and arguments.",
+            "Function": "directory()",
+            "Modifier and Type": "File"
+        },
+        {
+            "Comments": "Sets this process builder's operating system program and arguments.",
+            "Function": "directory(File directory)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Returns this process builder's working directory.",
+            "Function": "environment()",
+            "Modifier and Type": "Map<String,​String>"
+        },
+        {
+            "Comments": "Sets this process builder's working directory.",
+            "Function": "inheritIO()",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Returns a string map view of this process builder's environment.",
+            "Function": "redirectError()",
+            "Modifier and Type": "ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Sets the source and destination for subprocess standard I/O to be the same as those of the current Java process.",
+            "Function": "redirectError(File file)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Returns this process builder's standard error destination.",
+            "Function": "redirectError(ProcessBuilder.Redirect destination)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Sets this process builder's standard error destination to a file.",
+            "Function": "redirectErrorStream()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets this process builder's standard error destination.",
+            "Function": "redirectErrorStream(boolean redirectErrorStream)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Tells whether this process builder merges standard error and standard output.",
+            "Function": "redirectInput()",
+            "Modifier and Type": "ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Sets this process builder's redirectErrorStream property.",
+            "Function": "redirectInput(File file)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Returns this process builder's standard input source.",
+            "Function": "redirectInput(ProcessBuilder.Redirect source)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Sets this process builder's standard input source to a file.",
+            "Function": "redirectOutput()",
+            "Modifier and Type": "ProcessBuilder.Redirect"
+        },
+        {
+            "Comments": "Sets this process builder's standard input source.",
+            "Function": "redirectOutput(File file)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Returns this process builder's standard output destination.",
+            "Function": "redirectOutput(ProcessBuilder.Redirect destination)",
+            "Modifier and Type": "ProcessBuilder"
+        },
+        {
+            "Comments": "Sets this process builder's standard output destination to a file.",
+            "Function": "start()",
+            "Modifier and Type": "Process"
+        },
+        {
+            "Comments": "Sets this process builder's standard output destination.",
+            "Function": "startPipeline(List<ProcessBuilder> builders)",
+            "Modifier and Type": "static List<Process>"
+        }
+    ]
+}

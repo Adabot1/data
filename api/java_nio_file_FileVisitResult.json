@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Continue.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static FileVisitResult"
+        },
+        {
+            "Comments": "Continue without visiting the siblings of this file or directory.",
+            "Function": "values()",
+            "Modifier and Type": "static FileVisitResult[]"
+        }
+    ]
+}

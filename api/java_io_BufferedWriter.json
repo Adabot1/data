@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a buffered character-output stream that uses a default-sized output buffer.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new buffered character-output stream that uses an output buffer of the given size.",
+            "Function": "newLine()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes the stream.",
+            "Function": "write(char[] cbuf, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a line separator.",
+            "Function": "write(int c)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes a portion of an array of characters.",
+            "Function": "write(String s, int off, int len)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

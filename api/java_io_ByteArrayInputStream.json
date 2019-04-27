@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "An array of bytes that was provided by the creator of the stream.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "The index one greater than the last valid character in the input stream buffer.",
+            "Function": "count",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The currently marked position in the stream.",
+            "Function": "mark",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The index of the next character to read from the input stream buffer.",
+            "Function": "pos",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a ByteArrayInputStream so that it  uses buf as its buffer array.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates ByteArrayInputStream that uses buf as its buffer array.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the number of remaining bytes that can be read (or skipped over) from this input stream.",
+            "Function": "mark(int readAheadLimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closing a ByteArrayInputStream has no effect.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Set the current marked position in the stream.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests if this InputStream supports mark/reset.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads the next byte of data from this input stream.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads up to len bytes of data into an array of bytes from this input stream.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

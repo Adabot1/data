@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor is used only by subclasses.",
+            "Function": "createSocket(Socket s,InputStream consumed,boolean autoClose)",
+            "Modifier and Type": "Socket"
+        },
+        {
+            "Comments": "Creates a server mode Socket layered over an existing connected socket, and is able to read data which has already been consumed/removed from the Socket's underlying InputStream.",
+            "Function": "createSocket(Socket s,String host,int port,boolean autoClose)",
+            "Modifier and Type": "abstract Socket"
+        },
+        {
+            "Comments": "Returns a socket layered over an existing socket connected to the named host, at the given port.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static SocketFactory"
+        },
+        {
+            "Comments": "Returns the default SSL socket factory.",
+            "Function": "getDefaultCipherSuites()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns the list of cipher suites which are enabled by default.",
+            "Function": "getSupportedCipherSuites()",
+            "Modifier and Type": "abstract String[]"
+        }
+    ]
+}

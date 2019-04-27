@@ -1,0 +1,384 @@
+{
+    "API": [
+        {
+            "Comments": "Checks if this date-time is equal to another date-time.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this date-time using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this date-time as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the day-of-month field.",
+            "Function": "getDayOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the day-of-week field, which is an enum DayOfWeek.",
+            "Function": "getDayOfWeek()",
+            "Modifier and Type": "DayOfWeek"
+        },
+        {
+            "Comments": "Gets the day-of-year field.",
+            "Function": "getDayOfYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the hour-of-day field.",
+            "Function": "getHour()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this date-time as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the minute-of-hour field.",
+            "Function": "getMinute()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the month-of-year field using the Month enum.",
+            "Function": "getMonth()",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Gets the month-of-year field from 1 to 12.",
+            "Function": "getMonthValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the nano-of-second field.",
+            "Function": "getNano()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the zone offset, such as '+01:00'.",
+            "Function": "getOffset()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the second-of-minute field.",
+            "Function": "getSecond()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the year field.",
+            "Function": "getYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the time-zone, such as 'Europe/Paris'.",
+            "Function": "getZone()",
+            "Modifier and Type": "ZoneId"
+        },
+        {
+            "Comments": "A hash code for this date-time.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of days subtracted.",
+            "Function": "minusDays(long days)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of hours subtracted.",
+            "Function": "minusHours(long hours)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of minutes subtracted.",
+            "Function": "minusMinutes(long minutes)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of months subtracted.",
+            "Function": "minusMonths(long months)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of nanoseconds subtracted.",
+            "Function": "minusNanos(long nanos)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of seconds subtracted.",
+            "Function": "minusSeconds(long seconds)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of weeks subtracted.",
+            "Function": "minusWeeks(long weeks)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of years subtracted.",
+            "Function": "minusYears(long years)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains the current date-time from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains the current date-time from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains the current date-time from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from a year, month, day, hour, minute, second, nanosecond and time-zone.",
+            "Function": "of(int year,int month,int dayOfMonth,int hour,int minute,int second,int nanoOfSecond,ZoneId zone)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from a local date and time.",
+            "Function": "of(LocalDate date,LocalTime time,ZoneId zone)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from a local date-time.",
+            "Function": "of(LocalDateTime localDateTime,ZoneId zone)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from an Instant.",
+            "Function": "ofInstant(Instant instant, ZoneId zone)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from the instant formed by combining the local date-time and offset.",
+            "Function": "ofInstant(LocalDateTime localDateTime, ZoneOffset offset, ZoneId zone)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from a local date-time using the preferred offset if possible.",
+            "Function": "ofLocal(LocalDateTime localDateTime, ZoneId zone, ZoneOffset preferredOffset)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime strictly validating the combination of local date-time, offset and zone ID.",
+            "Function": "ofStrict(LocalDateTime localDateTime,ZoneOffset offset,ZoneId zone)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from a text string such as 2007-12-03T10:15:30+01:00[Europe/Paris].",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of ZonedDateTime from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of days added.",
+            "Function": "plusDays(long days)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of hours added.",
+            "Function": "plusHours(long hours)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of minutes added.",
+            "Function": "plusMinutes(long minutes)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of months added.",
+            "Function": "plusMonths(long months)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of nanoseconds added.",
+            "Function": "plusNanos(long nanos)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of seconds added.",
+            "Function": "plusSeconds(long seconds)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of weeks added.",
+            "Function": "plusWeeks(long weeks)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the specified number of years added.",
+            "Function": "plusYears(long years)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Queries this date-time using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Gets the LocalDate part of this date-time.",
+            "Function": "toLocalDate()",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Gets the LocalDateTime part of this date-time.",
+            "Function": "toLocalDateTime()",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Gets the LocalTime part of this date-time.",
+            "Function": "toLocalTime()",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Converts this date-time to an OffsetDateTime.",
+            "Function": "toOffsetDateTime()",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Outputs this date-time as a String, such as 2007-12-03T10:15:30+01:00[Europe/Paris].",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the time truncated.",
+            "Function": "truncatedTo(TemporalUnit unit)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Calculates the amount of time until another date-time in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted copy of this date-time.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified field set to a new value.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the day-of-month altered.",
+            "Function": "withDayOfMonth(int dayOfMonth)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the day-of-year altered.",
+            "Function": "withDayOfYear(int dayOfYear)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time changing the zone offset to the earlier of the two valid offsets at a local time-line overlap.",
+            "Function": "withEarlierOffsetAtOverlap()",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the zone ID set to the offset.",
+            "Function": "withFixedOffsetZone()",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the hour-of-day altered.",
+            "Function": "withHour(int hour)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time changing the zone offset to the later of the two valid offsets at a local time-line overlap.",
+            "Function": "withLaterOffsetAtOverlap()",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the minute-of-hour altered.",
+            "Function": "withMinute(int minute)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the month-of-year altered.",
+            "Function": "withMonth(int month)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the nano-of-second altered.",
+            "Function": "withNano(int nanoOfSecond)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the second-of-minute altered.",
+            "Function": "withSecond(int second)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this ZonedDateTime with the year altered.",
+            "Function": "withYear(int year)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with a different time-zone, retaining the instant.",
+            "Function": "withZoneSameInstant(ZoneId zone)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with a different time-zone, retaining the local date-time if possible.",
+            "Function": "withZoneSameLocal(ZoneId zone)",
+            "Modifier and Type": "ZonedDateTime"
+        }
+    ]
+}

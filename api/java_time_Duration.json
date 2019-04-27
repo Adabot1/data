@@ -1,0 +1,304 @@
+{
+    "API": [
+        {
+            "Comments": "Constant for a duration of zero.",
+            "Function": "ZERO",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with a positive length.",
+            "Function": "abs()",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Adds this duration to the specified temporal object.",
+            "Function": "addTo(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Obtains a Duration representing the duration between two temporal objects.",
+            "Function": "between(Temporal startInclusive, Temporal endExclusive)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Compares this duration to the specified Duration.",
+            "Function": "compareTo(Duration otherDuration)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a copy of this duration divided by the specified value.",
+            "Function": "dividedBy(long divisor)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns number of whole times a specified Duration occurs within this Duration.",
+            "Function": "dividedBy(Duration divisor)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Checks if this duration is equal to the specified Duration.",
+            "Function": "equals(Object otherDuration)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains an instance of Duration from a temporal amount.",
+            "Function": "from(TemporalAmount amount)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Gets the value of the requested unit.",
+            "Function": "get(TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the number of nanoseconds within the second in this duration.",
+            "Function": "getNano()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the number of seconds in this duration.",
+            "Function": "getSeconds()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the set of units supported by this duration.",
+            "Function": "getUnits()",
+            "Modifier and Type": "List<TemporalUnit>"
+        },
+        {
+            "Comments": "A hash code for this duration.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this duration is negative, excluding zero.",
+            "Function": "isNegative()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this duration is zero length.",
+            "Function": "isZero()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration subtracted.",
+            "Function": "minus(Duration duration)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in standard 24 hour days subtracted.",
+            "Function": "minusDays(long daysToSubtract)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in hours subtracted.",
+            "Function": "minusHours(long hoursToSubtract)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in milliseconds subtracted.",
+            "Function": "minusMillis(long millisToSubtract)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in minutes subtracted.",
+            "Function": "minusMinutes(long minutesToSubtract)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in nanoseconds subtracted.",
+            "Function": "minusNanos(long nanosToSubtract)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in seconds subtracted.",
+            "Function": "minusSeconds(long secondsToSubtract)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration multiplied by the scalar.",
+            "Function": "multipliedBy(long multiplicand)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the length negated.",
+            "Function": "negated()",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing an amount in the specified unit.",
+            "Function": "of(long amount,TemporalUnit unit)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing a number of standard 24 hour days.",
+            "Function": "ofDays(long days)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing a number of standard hours.",
+            "Function": "ofHours(long hours)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing a number of milliseconds.",
+            "Function": "ofMillis(long millis)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing a number of standard minutes.",
+            "Function": "ofMinutes(long minutes)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing a number of nanoseconds.",
+            "Function": "ofNanos(long nanos)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing a number of seconds.",
+            "Function": "ofSeconds(long seconds)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration representing a number of seconds and an adjustment in nanoseconds.",
+            "Function": "ofSeconds(long seconds, long nanoAdjustment)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Obtains a Duration from a text string such as PnDTnHnMn.nS.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration added.",
+            "Function": "plus(Duration duration)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in standard 24 hour days added.",
+            "Function": "plusDays(long daysToAdd)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in hours added.",
+            "Function": "plusHours(long hoursToAdd)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in milliseconds added.",
+            "Function": "plusMillis(long millisToAdd)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in minutes added.",
+            "Function": "plusMinutes(long minutesToAdd)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in nanoseconds added.",
+            "Function": "plusNanos(long nanosToAdd)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified duration in seconds added.",
+            "Function": "plusSeconds(long secondsToAdd)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Subtracts this duration from the specified temporal object.",
+            "Function": "subtractFrom(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Gets the number of days in this duration.",
+            "Function": "toDays()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Extracts the number of days in the duration.",
+            "Function": "toDaysPart()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the number of hours in this duration.",
+            "Function": "toHours()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Extracts the number of hours part in the duration.",
+            "Function": "toHoursPart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Converts this duration to the total length in milliseconds.",
+            "Function": "toMillis()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Extracts the number of milliseconds part of the duration.",
+            "Function": "toMillisPart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the number of minutes in this duration.",
+            "Function": "toMinutes()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Extracts the number of minutes part in the duration.",
+            "Function": "toMinutesPart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Converts this duration to the total length in nanoseconds expressed as a long.",
+            "Function": "toNanos()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Get the nanoseconds part within seconds of the duration.",
+            "Function": "toNanosPart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the number of seconds in this duration.",
+            "Function": "toSeconds()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Extracts the number of seconds part in the duration.",
+            "Function": "toSecondsPart()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A string representation of this duration using ISO-8601 seconds based representation, such as PT8H6M12.345S.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of this Duration truncated to the specified unit.",
+            "Function": "truncatedTo(TemporalUnit unit)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified nano-of-second.",
+            "Function": "withNanos(int nanoOfSecond)",
+            "Modifier and Type": "Duration"
+        },
+        {
+            "Comments": "Returns a copy of this duration with the specified amount of seconds.",
+            "Function": "withSeconds(long seconds)",
+            "Modifier and Type": "Duration"
+        }
+    ]
+}

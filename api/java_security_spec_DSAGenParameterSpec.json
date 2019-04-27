@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a domain parameter specification for DSA parameter generation using primePLen and subprimeQLen.",
+            "Function": "getPrimePLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a domain parameter specification for DSA parameter generation using primePLen, subprimeQLen, and seedLen.",
+            "Function": "getSeedLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the desired length of the prime P of the to-be-generated DSA domain parameters in bits.",
+            "Function": "getSubprimeQLength()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

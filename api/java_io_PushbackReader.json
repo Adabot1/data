@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new pushback reader with a one-character pushback buffer.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new pushback reader with a pushback buffer of the given size.",
+            "Function": "mark(int readAheadLimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes the stream and releases any system resources associated with it.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Marks the present position in the stream.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tells whether this stream supports the mark() operation, which it does not.",
+            "Function": "read(char[] cbuf,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a single character.",
+            "Function": "ready()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads characters into a portion of an array.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tells whether this stream is ready to be read.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Resets the stream.",
+            "Function": "unread(char[] cbuf)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Skips characters.",
+            "Function": "unread(char[] cbuf,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Pushes back an array of characters by copying it to the front of the pushback buffer.",
+            "Function": "unread(int c)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

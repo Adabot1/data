@@ -1,0 +1,159 @@
+{
+    "API": [
+        {
+            "Comments": "Condition implementation for a AbstractQueuedSynchronizer serving as the basis of a Lock implementation.",
+            "Function": "AbstractQueuedSynchronizer.ConditionObject",
+            "Modifier and Type": "class "
+        },
+        {
+            "Comments": "Creates a new AbstractQueuedSynchronizer instance with initial synchronization state of zero.",
+            "Function": "acquire(int arg)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Acquires in exclusive mode, ignoring interrupts.",
+            "Function": "acquireInterruptibly(int arg)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires in exclusive mode, aborting if interrupted.",
+            "Function": "acquireShared(int arg)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires in shared mode, ignoring interrupts.",
+            "Function": "acquireSharedInterruptibly(int arg)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires in shared mode, aborting if interrupted.",
+            "Function": "compareAndSetState(int expect,int update)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Atomically sets synchronization state to the given updated value if the current state value equals the expected value.",
+            "Function": "getExclusiveQueuedThreads()",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire in exclusive mode.",
+            "Function": "getFirstQueuedThread()",
+            "Modifier and Type": "Collection<Thread>"
+        },
+        {
+            "Comments": "Returns the first (longest-waiting) thread in the queue, or null if no threads are currently queued.",
+            "Function": "getQueuedThreads()",
+            "Modifier and Type": "Thread"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire.",
+            "Function": "getQueueLength()",
+            "Modifier and Type": "Collection<Thread>"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads waiting to acquire.",
+            "Function": "getSharedQueuedThreads()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a collection containing threads that may be waiting to acquire in shared mode.",
+            "Function": "getState()",
+            "Modifier and Type": "Collection<Thread>"
+        },
+        {
+            "Comments": "Returns the current value of synchronization state.",
+            "Function": "getWaitingThreads(AbstractQueuedSynchronizer.ConditionObject condition)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Returns a collection containing those threads that may be waiting on the given condition associated with this synchronizer.",
+            "Function": "getWaitQueueLength(AbstractQueuedSynchronizer.ConditionObject condition)",
+            "Modifier and Type": "Collection<Thread>"
+        },
+        {
+            "Comments": "Returns an estimate of the number of threads waiting on the given condition associated with this synchronizer.",
+            "Function": "hasContended()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Queries whether any threads have ever contended to acquire this synchronizer; that is, if an acquire method has ever blocked.",
+            "Function": "hasQueuedPredecessors()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads have been waiting to acquire longer than the current thread.",
+            "Function": "hasQueuedThreads()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads are waiting to acquire.",
+            "Function": "hasWaiters(AbstractQueuedSynchronizer.ConditionObject condition)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether any threads are waiting on the given condition associated with this synchronizer.",
+            "Function": "isHeldExclusively()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if synchronization is held exclusively with respect to the current (calling) thread.",
+            "Function": "isQueued(Thread thread)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Returns true if the given thread is currently queued.",
+            "Function": "owns(AbstractQueuedSynchronizer.ConditionObject condition)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries whether the given ConditionObject uses this synchronizer as its lock.",
+            "Function": "release(int arg)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Releases in exclusive mode.",
+            "Function": "releaseShared(int arg)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Releases in shared mode.",
+            "Function": "setState(int newState)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets the value of synchronization state.",
+            "Function": "toString()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Returns a string identifying this synchronizer, as well as its state.",
+            "Function": "tryAcquire(int arg)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Attempts to acquire in exclusive mode.",
+            "Function": "tryAcquireNanos(int arg, long nanosTimeout)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Attempts to acquire in exclusive mode, aborting if interrupted, and failing if the given timeout elapses.",
+            "Function": "tryAcquireShared(int arg)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Attempts to acquire in shared mode.",
+            "Function": "tryAcquireSharedNanos(int arg, long nanosTimeout)",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Attempts to acquire in shared mode, aborting if interrupted, and failing if the given timeout elapses.",
+            "Function": "tryRelease(int arg)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Attempts to set the state to reflect a release in exclusive mode.",
+            "Function": "tryReleaseShared(int arg)",
+            "Modifier and Type": "protected boolean"
+        }
+    ]
+}

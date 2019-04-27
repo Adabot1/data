@@ -1,0 +1,189 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor for an SSLEngine providing no hints for an internal session reuse strategy.",
+            "Function": "beginHandshake()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructor for an SSLEngine.",
+            "Function": "closeInbound()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Initiates handshaking (initial or renegotiation) on this SSLEngine.",
+            "Function": "closeOutbound()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Signals that no more inbound network data will be sent to this SSLEngine.",
+            "Function": "getApplicationProtocol()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Signals that no more outbound application data will be sent on this SSLEngine.",
+            "Function": "getDelegatedTask()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns the most recent application protocol value negotiated for this connection.",
+            "Function": "getEnabledCipherSuites()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a delegated Runnable task for this SSLEngine.",
+            "Function": "getEnabledProtocols()",
+            "Modifier and Type": "abstract Runnable"
+        },
+        {
+            "Comments": "Returns the names of the SSL cipher suites which are currently enabled for use on this engine.",
+            "Function": "getEnableSessionCreation()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns the names of the protocol versions which are currently enabled for use with this SSLEngine.",
+            "Function": "getHandshakeApplicationProtocol()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns true if new SSL sessions may be established by this engine.",
+            "Function": "getHandshakeApplicationProtocolSelector()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the application protocol value negotiated on a SSL/TLS handshake currently in progress.",
+            "Function": "getHandshakeSession()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Retrieves the callback function that selects an application protocol value during a SSL/TLS/DTLS handshake.",
+            "Function": "getHandshakeStatus()",
+            "Modifier and Type": "BiFunction<SSLEngine,​List<String>,​String>"
+        },
+        {
+            "Comments": "Returns the SSLSession being constructed during a SSL/TLS/DTLS handshake.",
+            "Function": "getNeedClientAuth()",
+            "Modifier and Type": "SSLSession"
+        },
+        {
+            "Comments": "Returns the current handshake status for this SSLEngine.",
+            "Function": "getPeerHost()",
+            "Modifier and Type": "abstract SSLEngineResult.HandshakeStatus"
+        },
+        {
+            "Comments": "Returns true if the engine will require client authentication.",
+            "Function": "getPeerPort()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns the host name of the peer.",
+            "Function": "getSession()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the port number of the peer.",
+            "Function": "getSSLParameters()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the SSLSession in use in this SSLEngine.",
+            "Function": "getSupportedCipherSuites()",
+            "Modifier and Type": "abstract SSLSession"
+        },
+        {
+            "Comments": "Returns the SSLParameters in effect for this SSLEngine.",
+            "Function": "getSupportedProtocols()",
+            "Modifier and Type": "SSLParameters"
+        },
+        {
+            "Comments": "Returns the names of the cipher suites which could be enabled for use on this engine.",
+            "Function": "getUseClientMode()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns the names of the protocols which could be enabled for use with this SSLEngine.",
+            "Function": "getWantClientAuth()",
+            "Modifier and Type": "abstract String[]"
+        },
+        {
+            "Comments": "Returns true if the engine is set to use client mode when handshaking.",
+            "Function": "isInboundDone()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns true if the engine will request client authentication.",
+            "Function": "isOutboundDone()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns whether unwrap(ByteBuffer, ByteBuffer) will accept any more inbound data messages.",
+            "Function": "setEnabledCipherSuites(String[] suites)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns whether wrap(ByteBuffer, ByteBuffer) will produce any more outbound data messages.",
+            "Function": "setEnabledProtocols(String[] protocols)",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Sets the cipher suites enabled for use on this engine.",
+            "Function": "setEnableSessionCreation(boolean flag)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Set the protocol versions enabled for use on this engine.",
+            "Function": "setHandshakeApplicationProtocolSelector(BiFunction<SSLEngine,List<String>,String> selector)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Controls whether new SSL sessions may be established by this engine.",
+            "Function": "setNeedClientAuth(boolean need)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Registers a callback function that selects an application protocol value for a SSL/TLS/DTLS handshake.",
+            "Function": "setSSLParameters(SSLParameters params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Configures the engine to require client authentication.",
+            "Function": "setUseClientMode(boolean mode)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Applies SSLParameters to this engine.",
+            "Function": "setWantClientAuth(boolean want)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Configures the engine to use client (or server) mode when handshaking.",
+            "Function": "unwrap(ByteBuffer src,ByteBuffer dst)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Configures the engine to request client authentication.",
+            "Function": "unwrap(ByteBuffer src,ByteBuffer[] dsts)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Attempts to decode SSL/TLS/DTLS network data into a plaintext application data buffer.",
+            "Function": "unwrap(ByteBuffer src,ByteBuffer[] dsts,int offset,int length)",
+            "Modifier and Type": "SSLEngineResult"
+        },
+        {
+            "Comments": "Attempts to decode SSL/TLS/DTLS network data into a sequence of plaintext application data buffers.",
+            "Function": "wrap(ByteBuffer[] srcs,int offset,int length,ByteBuffer dst)",
+            "Modifier and Type": "SSLEngineResult"
+        },
+        {
+            "Comments": "Attempts to decode SSL/TLS/DTLS network data into a subsequence of plaintext application data buffers.",
+            "Function": "wrap(ByteBuffer[] srcs,ByteBuffer dst)",
+            "Modifier and Type": "abstract SSLEngineResult"
+        },
+        {
+            "Comments": "Attempts to encode plaintext bytes from a subsequence of data buffers into SSL/TLS/DTLS network data.",
+            "Function": "wrap(ByteBuffer src,ByteBuffer dst)",
+            "Modifier and Type": "abstract SSLEngineResult"
+        }
+    ]
+}

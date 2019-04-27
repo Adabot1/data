@@ -1,0 +1,169 @@
+{
+    "API": [
+        {
+            "Comments": "A single-bit mask representing module access (default access),  which may contribute to the result of lookupModes.",
+            "Function": "MODULE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A single-bit mask representing package access (default access),  which may contribute to the result of lookupModes.",
+            "Function": "PACKAGE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A single-bit mask representing private access,  which may contribute to the result of lookupModes.",
+            "Function": "PRIVATE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A single-bit mask representing protected access,  which may contribute to the result of lookupModes.",
+            "Function": "PROTECTED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A single-bit mask representing public access,  which may contribute to the result of lookupModes.",
+            "Function": "PUBLIC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A single-bit mask representing unconditional access  which may contribute to the result of lookupModes.",
+            "Function": "UNCONDITIONAL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Determines if a class can be accessed from the lookup context defined by this Lookup object.",
+            "Function": "accessClass(Class<?> targetClass)",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Produces an early-bound method handle for a non-static method.",
+            "Function": "bind(Object receiver,String name,MethodType type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Defines a class to the same class loader and in the same runtime package and protection domain as this lookup's lookup class.",
+            "Function": "defineClass(byte[] bytes)",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Creates a lookup on the same lookup class which this lookup object finds members, but with a lookup mode that has lost the given lookup mode.",
+            "Function": "dropLookupMode(int modeToDrop)",
+            "Modifier and Type": "MethodHandles.Lookup"
+        },
+        {
+            "Comments": "Looks up a class by name from the lookup context defined by this Lookup object.",
+            "Function": "findClass(String targetName)",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Produces a method handle which creates an object and initializes it, using the constructor of the specified type.",
+            "Function": "findConstructor(Class<?> refc, MethodType type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving read access to a non-static field.",
+            "Function": "findGetter(Class<?> refc,String name,Class<?> type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving write access to a non-static field.",
+            "Function": "findSetter(Class<?> refc,String name,Class<?> type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces an early-bound method handle for a virtual method.",
+            "Function": "findSpecial(Class<?> refc, String name, MethodType type, Class<?> specialCaller)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle for a static method.",
+            "Function": "findStatic(Class<?> refc,String name,MethodType type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving read access to a static field.",
+            "Function": "findStaticGetter(Class<?> refc,String name,Class<?> type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving write access to a static field.",
+            "Function": "findStaticSetter(Class<?> refc,String name,Class<?> type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a VarHandle giving access to a static field name of type type declared in a class of type decl.",
+            "Function": "findStaticVarHandle(Class<?> decl, String name, Class<?> type)",
+            "Modifier and Type": "VarHandle"
+        },
+        {
+            "Comments": "Produces a VarHandle giving access to a non-static field name of type type declared in a class of type recv.",
+            "Function": "findVarHandle(Class<?> recv, String name, Class<?> type)",
+            "Modifier and Type": "VarHandle"
+        },
+        {
+            "Comments": "Produces a method handle for a virtual method.",
+            "Function": "findVirtual(Class<?> refc, String name, MethodType type)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Returns true if this lookup has PRIVATE access.",
+            "Function": "hasPrivateAccess()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates a lookup on the specified new lookup class.",
+            "Function": "in(Class<?> requestedLookupClass)",
+            "Modifier and Type": "MethodHandles.Lookup"
+        },
+        {
+            "Comments": "Tells which class is performing the lookup.",
+            "Function": "lookupClass()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "Tells which access-protection classes of members this lookup object can produce.",
+            "Function": "lookupModes()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Cracks a direct method handle created by this lookup object or a similar one.",
+            "Function": "revealDirect(MethodHandle target)",
+            "Modifier and Type": "MethodHandleInfo"
+        },
+        {
+            "Comments": "Displays the name of the class from which lookups are to be made.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Makes a direct method handle to m, if the lookup class has permission.",
+            "Function": "unreflect(Method m)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle for a reflected constructor.",
+            "Function": "unreflectConstructor(Constructor<?> c)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving read access to a reflected field.",
+            "Function": "unreflectGetter(Field f)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle giving write access to a reflected field.",
+            "Function": "unreflectSetter(Field f)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a method handle for a reflected method.",
+            "Function": "unreflectSpecial(Method m,Class<?> specialCaller)",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Produces a VarHandle giving access to a reflected field f of type T declared in a class of type R.",
+            "Function": "unreflectVarHandle(Field f)",
+            "Modifier and Type": "VarHandle"
+        }
+    ]
+}

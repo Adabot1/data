@@ -1,0 +1,259 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a string buffer with no characters in it and an initial capacity of 16 characters.",
+            "Function": "append(boolean b)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Constructs a string buffer with no characters in it and the specified initial capacity.",
+            "Function": "append(char c)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Constructs a string buffer that contains the same characters as the specified CharSequence.",
+            "Function": "append(char[] str)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Constructs a string buffer initialized to the contents of the specified string.",
+            "Function": "append(char[] str,int offset,int len)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the boolean argument to the sequence.",
+            "Function": "append(double d)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the char argument to this sequence.",
+            "Function": "append(float f)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the char array argument to this sequence.",
+            "Function": "append(int i)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of a subarray of the char array argument to this sequence.",
+            "Function": "append(long lng)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the double argument to this sequence.",
+            "Function": "append(CharSequence s)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the float argument to this sequence.",
+            "Function": "append(CharSequence s,int start,int end)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the int argument to this sequence.",
+            "Function": "append(Object obj)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the long argument to this sequence.",
+            "Function": "append(String str)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the specified CharSequence to this sequence.",
+            "Function": "append(StringBuffer sb)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends a subsequence of the specified CharSequence to this sequence.",
+            "Function": "appendCodePoint(int codePoint)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Appends the string representation of the Object argument.",
+            "Function": "capacity()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Appends the specified string to this character sequence.",
+            "Function": "charAt(int index)",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Appends the specified StringBuffer to this sequence.",
+            "Function": "chars()",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Appends the string representation of the codePoint argument to this sequence.",
+            "Function": "codePointAt(int index)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current capacity.",
+            "Function": "codePointBefore(int index)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the char value in this sequence at the specified index.",
+            "Function": "codePointCount(int beginIndex,int endIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a stream of int zero-extending the char values from this sequence.",
+            "Function": "codePoints()",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns the character (Unicode code point) at the specified index.",
+            "Function": "compareTo(StringBuffer another)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the character (Unicode code point) before the specified index.",
+            "Function": "delete(int start,int end)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Returns the number of Unicode code points in the specified text range of this sequence.",
+            "Function": "deleteCharAt(int index)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Returns a stream of code point values from this sequence.",
+            "Function": "ensureCapacity(int minimumCapacity)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Compares two StringBuffer instances lexicographically.",
+            "Function": "getChars(int srcBegin,int srcEnd,char[] dst,int dstBegin)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Removes the characters in a substring of this sequence.",
+            "Function": "indexOf(String str)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Removes the char at the specified position in this sequence.",
+            "Function": "indexOf(String str, int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Ensures that the capacity is at least equal to the specified minimum.",
+            "Function": "insert(int offset,boolean b)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Characters are copied from this sequence into the destination character array dst.",
+            "Function": "insert(int offset,char c)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Returns the index within this string of the first occurrence of the specified substring.",
+            "Function": "insert(int offset,char[] str)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Returns the index within this string of the first occurrence of the specified substring, starting at the specified index.",
+            "Function": "insert(int index,char[] str,int offset,int len)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of the boolean argument into this sequence.",
+            "Function": "insert(int offset,double d)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of the char argument into this sequence.",
+            "Function": "insert(int offset,float f)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of the char array argument into this sequence.",
+            "Function": "insert(int offset,int i)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of a subarray of the str array argument into this sequence.",
+            "Function": "insert(int offset,long l)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of the double argument into this sequence.",
+            "Function": "insert(int dstOffset,CharSequence s)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of the float argument into this sequence.",
+            "Function": "insert(int dstOffset,CharSequence s,int start,int end)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of the second int argument into this sequence.",
+            "Function": "insert(int offset,Object obj)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the string representation of the long argument into this sequence.",
+            "Function": "insert(int offset,String str)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Inserts the specified CharSequence into this sequence.",
+            "Function": "lastIndexOf(String str)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Inserts a subsequence of the specified CharSequence into this sequence.",
+            "Function": "lastIndexOf(String str, int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Inserts the string representation of the Object argument into this character sequence.",
+            "Function": "offsetByCodePoints(int index,int codePointOffset)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Inserts the string into this character sequence.",
+            "Function": "replace(int start, int end, String str)",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Returns the index within this string of the last occurrence of the specified substring.",
+            "Function": "reverse()",
+            "Modifier and Type": "StringBuffer"
+        },
+        {
+            "Comments": "Returns the index within this string of the last occurrence of the specified substring, searching backward starting at the specified index.",
+            "Function": "setCharAt(int index, char ch)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the index within this sequence that is offset from the given index by codePointOffset code points.",
+            "Function": "setLength(int newLength)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Replaces the characters in a substring of this sequence with characters in the specified String.",
+            "Function": "subSequence(int start, int end)",
+            "Modifier and Type": "CharSequence"
+        },
+        {
+            "Comments": "Causes this character sequence to be replaced by the reverse of the sequence.",
+            "Function": "substring(int start)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "The character at the specified index is set to ch.",
+            "Function": "substring(int start, int end)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Sets the length of the character sequence.",
+            "Function": "trimToSize()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

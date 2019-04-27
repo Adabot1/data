@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the number of bytes that can be read without blocking.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Closes the input stream.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads a byte of data.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads into an array of bytes.",
+            "Function": "read(byte[] b)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads into an array of bytes.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Read and return an object.",
+            "Function": "readObject()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Skips n bytes of input.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

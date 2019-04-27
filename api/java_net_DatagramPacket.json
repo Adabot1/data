@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a DatagramPacket for receiving packets of length length.",
+            "Function": "getAddress()",
+            "Modifier and Type": "InetAddress"
+        },
+        {
+            "Comments": "Constructs a DatagramPacket for receiving packets of length length, specifying an offset into the buffer.",
+            "Function": "getData()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Constructs a datagram packet for sending packets of length length with offset ioffsetto the specified port number on the specified host.",
+            "Function": "getLength()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a datagram packet for sending packets of length length with offset ioffsetto the specified port number on the specified host.",
+            "Function": "getOffset()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a datagram packet for sending packets of length length to the specified port number on the specified host.",
+            "Function": "getPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Constructs a datagram packet for sending packets of length length to the specified port number on the specified host.",
+            "Function": "getSocketAddress()",
+            "Modifier and Type": "SocketAddress"
+        },
+        {
+            "Comments": "Returns the IP address of the machine to which this datagram is being sent or from which the datagram was received.",
+            "Function": "setAddress(InetAddress iaddr)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the data buffer.",
+            "Function": "setData(byte[] buf)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the length of the data to be sent or the length of the data received.",
+            "Function": "setData(byte[] buf, int offset, int length)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the offset of the data to be sent or the offset of the data received.",
+            "Function": "setLength(int length)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the port number on the remote host to which this datagram is being sent or from which the datagram was received.",
+            "Function": "setPort(int iport)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Gets the SocketAddress (usually IP address + port number) of the remote host that this packet is being sent to or is coming from.",
+            "Function": "setSocketAddress(SocketAddress address)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

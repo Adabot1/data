@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.",
+            "Function": "checkValidity()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "checkValidity(Date date)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Checks that the certificate is currently valid.",
+            "Function": "getInstance(byte[] certData)",
+            "Modifier and Type": "static X509Certificate"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "getInstance(InputStream inStream)",
+            "Modifier and Type": "static X509Certificate"
+        },
+        {
+            "Comments": "Checks that the specified date is within the certificate's validity period.",
+            "Function": "getIssuerDN()",
+            "Modifier and Type": "abstract Principal"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "getNotAfter()",
+            "Modifier and Type": "abstract Date"
+        },
+        {
+            "Comments": "Instantiates an X509Certificate object, and initializes it with the specified byte array.",
+            "Function": "getNotBefore()",
+            "Modifier and Type": "abstract Date"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "getSerialNumber()",
+            "Modifier and Type": "abstract BigInteger"
+        },
+        {
+            "Comments": "Instantiates an X509Certificate object, and initializes it with the data read from the input stream inStream.",
+            "Function": "getSigAlgName()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "getSigAlgOID()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Gets the issuer (issuer distinguished name) value from the certificate.",
+            "Function": "getSigAlgParams()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "getSubjectDN()",
+            "Modifier and Type": "abstract Principal"
+        },
+        {
+            "Comments": "Gets the notAfter date from the validity period of the certificate.",
+            "Function": "getVersion()",
+            "Modifier and Type": "abstract int"
+        }
+    ]
+}

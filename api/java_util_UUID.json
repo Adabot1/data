@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a new UUID using the specified data.",
+            "Function": "clockSequence()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The clock sequence value associated with this UUID.",
+            "Function": "compareTo(UUID val)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compares this UUID with the specified UUID.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Compares this object to the specified object.",
+            "Function": "fromString(String name)",
+            "Modifier and Type": "static UUID"
+        },
+        {
+            "Comments": "Creates a UUID from the string standard representation as described in the toString() method.",
+            "Function": "getLeastSignificantBits()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the least significant 64 bits of this UUID's 128 bit value.",
+            "Function": "getMostSignificantBits()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the most significant 64 bits of this UUID's 128 bit value.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a hash code for this UUID.",
+            "Function": "nameUUIDFromBytes(byte[] name)",
+            "Modifier and Type": "static UUID"
+        },
+        {
+            "Comments": "Static factory to retrieve a type 3 (name based) UUID based on the specified byte array.",
+            "Function": "node()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The node value associated with this UUID.",
+            "Function": "randomUUID()",
+            "Modifier and Type": "static UUID"
+        },
+        {
+            "Comments": "Static factory to retrieve a type 4 (pseudo randomly generated) UUID.",
+            "Function": "timestamp()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The timestamp value associated with this UUID.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a String object representing this UUID.",
+            "Function": "variant()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The variant number associated with this UUID.",
+            "Function": "version()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

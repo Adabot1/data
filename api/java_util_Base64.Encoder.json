@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Encodes all bytes from the specified byte array into a newly-allocated byte array using the Base64 encoding scheme.",
+            "Function": "encode(byte[] src)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Encodes all bytes from the specified byte array using the Base64 encoding scheme, writing the resulting bytes to the given output byte array, starting at offset 0.",
+            "Function": "encode(byte[] src,byte[] dst)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Encodes all remaining bytes from the specified byte buffer into a newly-allocated ByteBuffer using the Base64 encoding scheme.",
+            "Function": "encode(ByteBuffer buffer)",
+            "Modifier and Type": "ByteBuffer"
+        },
+        {
+            "Comments": "Encodes the specified byte array into a String using the Base64 encoding scheme.",
+            "Function": "encodeToString(byte[] src)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns an encoder instance that encodes equivalently to this one, but without adding any padding character at the end of the encoded byte data.",
+            "Function": "withoutPadding()",
+            "Modifier and Type": "Base64.Encoder"
+        },
+        {
+            "Comments": "Wraps an output stream for encoding byte data using the Base64 encoding scheme.",
+            "Function": "wrap(OutputStream os)",
+            "Modifier and Type": "OutputStream"
+        }
+    ]
+}

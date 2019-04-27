@@ -1,0 +1,79 @@
+{
+    "API": [
+        {
+            "Comments": "Reads one input byte and returns true if that byte is nonzero, false if that byte is zero.",
+            "Function": "readBoolean()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Reads and returns one input byte.",
+            "Function": "readByte()",
+            "Modifier and Type": "byte"
+        },
+        {
+            "Comments": "Reads two input bytes and returns a char value.",
+            "Function": "readChar()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Reads eight input bytes and returns a double value.",
+            "Function": "readDouble()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Reads four input bytes and returns a float value.",
+            "Function": "readFloat()",
+            "Modifier and Type": "float"
+        },
+        {
+            "Comments": "Reads some bytes from an input stream and stores them into the buffer array b.",
+            "Function": "readFully(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads len bytes from an input stream.",
+            "Function": "readFully(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Reads four input bytes and returns an int value.",
+            "Function": "readInt()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads the next line of text from the input stream.",
+            "Function": "readLine()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Reads eight input bytes and returns a long value.",
+            "Function": "readLong()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Reads two input bytes and returns a short value.",
+            "Function": "readShort()",
+            "Modifier and Type": "short"
+        },
+        {
+            "Comments": "Reads one input byte, zero-extends it to type int, and returns the result, which is therefore in the range 0 through 255.",
+            "Function": "readUnsignedByte()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads two input bytes and returns an int value in the range 0 through 65535.",
+            "Function": "readUnsignedShort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads in a string that has been encoded using a modified UTF-8 format.",
+            "Function": "readUTF()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Makes an attempt to skip over n bytes of data from the input stream, discarding the skipped bytes.",
+            "Function": "skipBytes(int n)",
+            "Modifier and Type": "int"
+        }
+    ]
+}

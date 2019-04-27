@@ -1,0 +1,149 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new lock, initially in unlocked state.",
+            "Function": "asReadLock()",
+            "Modifier and Type": "Lock"
+        },
+        {
+            "Comments": "Returns a plain Lock view of this StampedLock in which the Lock.lock() method is mapped to readLock(), and similarly for other methods.",
+            "Function": "asReadWriteLock()",
+            "Modifier and Type": "ReadWriteLock"
+        },
+        {
+            "Comments": "Returns a ReadWriteLock view of this StampedLock in which the ReadWriteLock.readLock() method is mapped to asReadLock(), and ReadWriteLock.writeLock() to asWriteLock().",
+            "Function": "asWriteLock()",
+            "Modifier and Type": "Lock"
+        },
+        {
+            "Comments": "Returns a plain Lock view of this StampedLock in which the Lock.lock() method is mapped to writeLock(), and similarly for other methods.",
+            "Function": "getReadLockCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Queries the number of read locks held for this lock.",
+            "Function": "isLockStamp(long stamp)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tells whether a stamp represents holding a lock.",
+            "Function": "isOptimisticReadStamp(long stamp)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tells whether a stamp represents a successful optimistic read.",
+            "Function": "isReadLocked()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the lock is currently held non-exclusively.",
+            "Function": "isReadLockStamp(long stamp)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tells whether a stamp represents holding a lock non-exclusively.",
+            "Function": "isWriteLocked()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the lock is currently held exclusively.",
+            "Function": "isWriteLockStamp(long stamp)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Tells whether a stamp represents holding a lock exclusively.",
+            "Function": "readLock()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Non-exclusively acquires the lock, blocking if necessary until available.",
+            "Function": "readLockInterruptibly()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Non-exclusively acquires the lock, blocking if necessary until available or the current thread is interrupted.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a string identifying this lock, as well as its lock state.",
+            "Function": "tryConvertToOptimisticRead(long stamp)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "If the lock state matches the given stamp then, atomically, if the stamp represents holding a lock, releases it and returns an observation stamp.",
+            "Function": "tryConvertToReadLock(long stamp)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "If the lock state matches the given stamp, atomically performs one of the following actions.",
+            "Function": "tryConvertToWriteLock(long stamp)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "If the lock state matches the given stamp, atomically performs one of the following actions.",
+            "Function": "tryOptimisticRead()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a stamp that can later be validated, or zero if exclusively locked.",
+            "Function": "tryReadLock()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Non-exclusively acquires the lock if it is immediately available.",
+            "Function": "tryReadLock(long time, TimeUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Non-exclusively acquires the lock if it is available within the given time and the current thread has not been interrupted.",
+            "Function": "tryUnlockRead()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Releases one hold of the read lock if it is held, without requiring a stamp value.",
+            "Function": "tryUnlockWrite()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Releases the write lock if it is held, without requiring a stamp value.",
+            "Function": "tryWriteLock()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Exclusively acquires the lock if it is immediately available.",
+            "Function": "tryWriteLock(long time,TimeUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Exclusively acquires the lock if it is available within the given time and the current thread has not been interrupted.",
+            "Function": "unlock(long stamp)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If the lock state matches the given stamp, releases the corresponding mode of the lock.",
+            "Function": "unlockRead(long stamp)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If the lock state matches the given stamp, releases the non-exclusive lock.",
+            "Function": "unlockWrite(long stamp)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "If the lock state matches the given stamp, releases the exclusive lock.",
+            "Function": "validate(long stamp)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the lock has not been exclusively acquired since issuance of the given stamp.",
+            "Function": "writeLock()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Exclusively acquires the lock, blocking if necessary until available.",
+            "Function": "writeLockInterruptibly()",
+            "Modifier and Type": "long"
+        }
+    ]
+}

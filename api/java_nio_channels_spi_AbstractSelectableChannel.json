@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "configureBlocking(boolean block)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Adjusts this channel's blocking mode.",
+            "Function": "implCloseChannel()",
+            "Modifier and Type": "SelectableChannel"
+        },
+        {
+            "Comments": "Closes this channel.",
+            "Function": "implCloseSelectableChannel()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Closes this selectable channel.",
+            "Function": "implConfigureBlocking(boolean block)",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Adjusts this channel's blocking mode.",
+            "Function": "provider()",
+            "Modifier and Type": "protected abstract void"
+        },
+        {
+            "Comments": "Returns the provider that created this channel.",
+            "Function": "register(Selector sel,int ops,Object att)",
+            "Modifier and Type": "SelectorProvider"
+        }
+    ]
+}

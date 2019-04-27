@@ -1,0 +1,414 @@
+{
+    "API": [
+        {
+            "Comments": "The maximum supported OffsetDateTime, '+999999999-12-31T23:59:59.999999999-18:00'.",
+            "Function": "MAX",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "The minimum supported OffsetDateTime, '-999999999-01-01T00:00:00+18:00'.",
+            "Function": "MIN",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Adjusts the specified temporal object to have the same offset, date and time as this object.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Combines this date-time with a time-zone to create a ZonedDateTime ensuring that the result has the same instant.",
+            "Function": "atZoneSameInstant(ZoneId zone)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Combines this date-time with a time-zone to create a ZonedDateTime trying to keep the same local date and time.",
+            "Function": "atZoneSimilarLocal(ZoneId zone)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Compares this date-time to another date-time.",
+            "Function": "compareTo(OffsetDateTime other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this date-time is equal to another date-time.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this date-time using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetDateTime from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this date-time as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the day-of-month field.",
+            "Function": "getDayOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the day-of-week field, which is an enum DayOfWeek.",
+            "Function": "getDayOfWeek()",
+            "Modifier and Type": "DayOfWeek"
+        },
+        {
+            "Comments": "Gets the day-of-year field.",
+            "Function": "getDayOfYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the hour-of-day field.",
+            "Function": "getHour()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this date-time as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the minute-of-hour field.",
+            "Function": "getMinute()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the month-of-year field using the Month enum.",
+            "Function": "getMonth()",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Gets the month-of-year field from 1 to 12.",
+            "Function": "getMonthValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the nano-of-second field.",
+            "Function": "getNano()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the zone offset, such as '+01:00'.",
+            "Function": "getOffset()",
+            "Modifier and Type": "ZoneOffset"
+        },
+        {
+            "Comments": "Gets the second-of-minute field.",
+            "Function": "getSecond()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the year field.",
+            "Function": "getYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this date-time.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if the instant of this date-time is after that of the specified date-time.",
+            "Function": "isAfter(OffsetDateTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the instant of this date-time is before that of the specified date-time.",
+            "Function": "isBefore(OffsetDateTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the instant of this date-time is equal to that of the specified date-time.",
+            "Function": "isEqual(OffsetDateTime other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of days subtracted.",
+            "Function": "minusDays(long days)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of hours subtracted.",
+            "Function": "minusHours(long hours)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of minutes subtracted.",
+            "Function": "minusMinutes(long minutes)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of months subtracted.",
+            "Function": "minusMonths(long months)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of nanoseconds subtracted.",
+            "Function": "minusNanos(long nanos)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of seconds subtracted.",
+            "Function": "minusSeconds(long seconds)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of weeks subtracted.",
+            "Function": "minusWeeks(long weeks)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of years subtracted.",
+            "Function": "minusYears(long years)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains the current date-time from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains the current date-time from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains the current date-time from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetDateTime from a year, month, day, hour, minute, second, nanosecond and offset.",
+            "Function": "of(int year,int month,int dayOfMonth,int hour,int minute,int second,int nanoOfSecond,ZoneOffset offset)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetDateTime from a date, time and offset.",
+            "Function": "of(LocalDate date,LocalTime time,ZoneOffset offset)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetDateTime from a date-time and offset.",
+            "Function": "of(LocalDateTime dateTime,ZoneOffset offset)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetDateTime from an Instant and zone ID.",
+            "Function": "ofInstant(Instant instant, ZoneId zone)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetDateTime from a text string such as 2007-12-03T10:15:30+01:00.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Obtains an instance of OffsetDateTime from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified amount added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of days added.",
+            "Function": "plusDays(long days)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of hours added.",
+            "Function": "plusHours(long hours)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of minutes added.",
+            "Function": "plusMinutes(long minutes)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of months added.",
+            "Function": "plusMonths(long months)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of nanoseconds added.",
+            "Function": "plusNanos(long nanos)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of seconds added.",
+            "Function": "plusSeconds(long seconds)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of weeks added.",
+            "Function": "plusWeeks(long weeks)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified number of years added.",
+            "Function": "plusYears(long years)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Queries this date-time using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Gets a comparator that compares two OffsetDateTime instances based solely on the instant.",
+            "Function": "timeLineOrder()",
+            "Modifier and Type": "static Comparator<OffsetDateTime>"
+        },
+        {
+            "Comments": "Converts this date-time to the number of seconds from the epoch of 1970-01-01T00:00:00Z.",
+            "Function": "toEpochSecond()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Converts this date-time to an Instant.",
+            "Function": "toInstant()",
+            "Modifier and Type": "Instant"
+        },
+        {
+            "Comments": "Gets the LocalDate part of this date-time.",
+            "Function": "toLocalDate()",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Gets the LocalDateTime part of this date-time.",
+            "Function": "toLocalDateTime()",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Gets the LocalTime part of this date-time.",
+            "Function": "toLocalTime()",
+            "Modifier and Type": "LocalTime"
+        },
+        {
+            "Comments": "Converts this date-time to an OffsetTime.",
+            "Function": "toOffsetTime()",
+            "Modifier and Type": "OffsetTime"
+        },
+        {
+            "Comments": "Outputs this date-time as a String, such as 2007-12-03T10:15:30+01:00.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Converts this date-time to a ZonedDateTime using the offset as the zone ID.",
+            "Function": "toZonedDateTime()",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the time truncated.",
+            "Function": "truncatedTo(TemporalUnit unit)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Calculates the amount of time until another date-time in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted copy of this date-time.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this date-time with the specified field set to a new value.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the day-of-month altered.",
+            "Function": "withDayOfMonth(int dayOfMonth)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the day-of-year altered.",
+            "Function": "withDayOfYear(int dayOfYear)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the hour-of-day altered.",
+            "Function": "withHour(int hour)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the minute-of-hour altered.",
+            "Function": "withMinute(int minute)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the month-of-year altered.",
+            "Function": "withMonth(int month)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the nano-of-second altered.",
+            "Function": "withNano(int nanoOfSecond)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified offset ensuring that the result is at the same instant.",
+            "Function": "withOffsetSameInstant(ZoneOffset offset)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the specified offset ensuring that the result has the same local date-time.",
+            "Function": "withOffsetSameLocal(ZoneOffset offset)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the second-of-minute altered.",
+            "Function": "withSecond(int second)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Returns a copy of this OffsetDateTime with the year altered.",
+            "Function": "withYear(int year)",
+            "Modifier and Type": "OffsetDateTime"
+        }
+    ]
+}

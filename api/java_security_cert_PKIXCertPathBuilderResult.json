@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of PKIXCertPathBuilderResult containing the specified parameters.",
+            "Function": "getCertPath()",
+            "Modifier and Type": "CertPath"
+        },
+        {
+            "Comments": "Returns the built and validated certification path.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

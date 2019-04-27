@@ -1,0 +1,114 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "CLASS_ATTRIBUTE_PFX",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "When concatenated with a class attribute name, indicates the format of that attribute, using the layout language specified in the JSR 200 specification.",
+            "Function": "CODE_ATTRIBUTE_PFX",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "DEFLATE_HINT",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "When concatenated with a code attribute name, indicates the format of that attribute.",
+            "Function": "EFFORT",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "ERROR",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "If this property is set to TRUE or FALSE, the packer will set the deflation hint accordingly in the output archive, and will not transmit the individual deflation hints of archive elements.",
+            "Function": "FALSE",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "FIELD_ATTRIBUTE_PFX",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "If this property is set to a single decimal digit, the packer will use the indicated amount of effort in compressing the archive.",
+            "Function": "KEEP",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "KEEP_FILE_ORDER",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The string \"error\", a possible value for certain properties.",
+            "Function": "LATEST",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "METHOD_ATTRIBUTE_PFX",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The string \"false\", a possible value for certain properties.",
+            "Function": "MODIFICATION_TIME",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "PASS",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "When concatenated with a field attribute name, indicates the format of that attribute.",
+            "Function": "PASS_FILE_PFX",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "PROGRESS",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The string \"keep\", a possible value for certain properties.",
+            "Function": "SEGMENT_LIMIT",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "STRIP",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "If this property is set to TRUE, the packer will transmit all elements in their original order within the source archive.",
+            "Function": "TRUE",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "UNKNOWN_ATTRIBUTE",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "The string \"latest\", a possible value for certain properties.",
+            "Function": "pack(JarFile in,OutputStream out)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "pack(JarInputStream in,OutputStream out)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "When concatenated with a method attribute name, indicates the format of that attribute.",
+            "Function": "properties()",
+            "Modifier and Type": "SortedMap<String,​String>"
+        }
+    ]
+}

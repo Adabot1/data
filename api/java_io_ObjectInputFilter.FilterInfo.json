@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "The number of array elements when deserializing an array of the class.",
+            "Function": "arrayLength()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The current depth.",
+            "Function": "depth()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The current number of object references.",
+            "Function": "references()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The class of an object being deserialized.",
+            "Function": "serialClass()",
+            "Modifier and Type": "Class<?>"
+        },
+        {
+            "Comments": "The current number of bytes consumed.",
+            "Function": "streamBytes()",
+            "Modifier and Type": "long"
+        }
+    ]
+}

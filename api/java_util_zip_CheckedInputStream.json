@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an input stream using the specified Checksum.",
+            "Function": "getChecksum()",
+            "Modifier and Type": "Checksum"
+        },
+        {
+            "Comments": "Returns the Checksum for this input stream.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a byte.",
+            "Function": "read(byte[] buf,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads into an array of bytes.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

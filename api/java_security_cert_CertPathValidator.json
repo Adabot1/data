@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a CertPathValidator object of the given algorithm, and encapsulates the given provider implementation (SPI object) in it.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns the algorithm name of this CertPathValidator.",
+            "Function": "getDefaultType()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the default CertPathValidator type as specified by the certpathvalidator.type security property, or the string \"PKIX\" if no such property exists.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a CertPathValidator object that implements the specified algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static CertPathValidator"
+        },
+        {
+            "Comments": "Returns a CertPathValidator object that implements the specified algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static CertPathValidator"
+        },
+        {
+            "Comments": "Returns a CertPathValidator object that implements the specified algorithm.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static CertPathValidator"
+        },
+        {
+            "Comments": "Returns the Provider of this CertPathValidator.",
+            "Function": "getRevocationChecker()",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Returns a CertPathChecker that the encapsulated CertPathValidatorSpi implementation uses to check the revocation status of certificates.",
+            "Function": "validate(CertPath certPath,CertPathParameters params)",
+            "Modifier and Type": "CertPathChecker"
+        }
+    ]
+}

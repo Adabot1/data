@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "close()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Closes this file system.",
+            "Function": "getFileStores()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Returns an object to iterate over the underlying file stores.",
+            "Function": "getPath(String first, String... more)",
+            "Modifier and Type": "abstract Iterable<FileStore>"
+        },
+        {
+            "Comments": "Converts a path string, or a sequence of strings that when joined form a path string, to a Path.",
+            "Function": "getPathMatcher(String syntaxAndPattern)",
+            "Modifier and Type": "abstract Path"
+        },
+        {
+            "Comments": "Returns a PathMatcher that performs match operations on the String representation of Path objects by interpreting a given pattern.",
+            "Function": "getRootDirectories()",
+            "Modifier and Type": "abstract PathMatcher"
+        },
+        {
+            "Comments": "Returns an object to iterate over the paths of the root directories.",
+            "Function": "getSeparator()",
+            "Modifier and Type": "abstract Iterable<Path>"
+        },
+        {
+            "Comments": "Returns the name separator, represented as a string.",
+            "Function": "getUserPrincipalLookupService()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Returns the UserPrincipalLookupService for this file system (optional operation).",
+            "Function": "isOpen()",
+            "Modifier and Type": "abstract UserPrincipalLookupService"
+        },
+        {
+            "Comments": "Tells whether or not this file system is open.",
+            "Function": "isReadOnly()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not this file system allows only read-only access to its file stores.",
+            "Function": "newWatchService()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Constructs a new WatchService (optional operation).",
+            "Function": "provider()",
+            "Modifier and Type": "abstract WatchService"
+        },
+        {
+            "Comments": "Returns the provider that created this file system.",
+            "Function": "supportedFileAttributeViews()",
+            "Modifier and Type": "abstract FileSystemProvider"
+        }
+    ]
+}

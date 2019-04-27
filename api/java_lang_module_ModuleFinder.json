@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a module finder that is composed from a sequence of zero or more module finders.",
+            "Function": "compose(ModuleFinder... finders)",
+            "Modifier and Type": "static ModuleFinder"
+        },
+        {
+            "Comments": "Finds a reference to a module of a given name.",
+            "Function": "find(String name)",
+            "Modifier and Type": "Optional<ModuleReference>"
+        },
+        {
+            "Comments": "Returns the set of all module references that this finder can locate.",
+            "Function": "findAll()",
+            "Modifier and Type": "Set<ModuleReference>"
+        },
+        {
+            "Comments": "Returns a module finder that locates modules on the file system by searching a sequence of directories and/or packaged modules.",
+            "Function": "of(Path... entries)",
+            "Modifier and Type": "static ModuleFinder"
+        },
+        {
+            "Comments": "Returns a module finder that locates the system modules.",
+            "Function": "ofSystem()",
+            "Modifier and Type": "static ModuleFinder"
+        }
+    ]
+}

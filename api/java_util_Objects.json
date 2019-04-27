@@ -1,0 +1,89 @@
+{
+    "API": [
+        {
+            "Comments": "Checks if the sub-range from fromIndex (inclusive) to fromIndex + size (exclusive) is within the bounds of range from 0 (inclusive) to length (exclusive).",
+            "Function": "checkFromIndexSize(int fromIndex,int size,int length)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Checks if the sub-range from fromIndex (inclusive) to toIndex (exclusive) is within the bounds of range from 0 (inclusive) to length (exclusive).",
+            "Function": "checkFromToIndex(int fromIndex,int toIndex,int length)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Checks if the index is within the bounds of the range from 0 (inclusive) to length (exclusive).",
+            "Function": "checkIndex(int index,int length)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns 0 if the arguments are identical and  c.compare(a, b) otherwise.",
+            "Function": "compare(T a, T b, Comparator<? super T> c)",
+            "Modifier and Type": "static <T> int"
+        },
+        {
+            "Comments": "Returns true if the arguments are deeply equal to each other and false otherwise.",
+            "Function": "deepEquals(Object a,Object b)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns true if the arguments are equal to each other and false otherwise.",
+            "Function": "equals(Object a,Object b)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Generates a hash code for a sequence of input values.",
+            "Function": "hash(Object... values)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns the hash code of a non-null argument and 0 for a null argument.",
+            "Function": "hashCode(Object o)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns true if the provided reference is null otherwise returns false.",
+            "Function": "isNull(Object obj)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Returns true if the provided reference is non-null otherwise returns false.",
+            "Function": "nonNull(Object obj)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Checks that the specified object reference is not null.",
+            "Function": "requireNonNull(T obj)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Checks that the specified object reference is not null and throws a customized NullPointerException if it is.",
+            "Function": "requireNonNull(T obj,String message)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Checks that the specified object reference is not null and throws a customized NullPointerException if it is.",
+            "Function": "requireNonNull(T obj,Supplier<String> messageSupplier)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Returns the first argument if it is non-null and otherwise returns the non-null second argument.",
+            "Function": "requireNonNullElse(T obj,T defaultObj)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Returns the first argument if it is non-null and otherwise returns the non-null value of supplier.get().",
+            "Function": "requireNonNullElseGet(T obj, Supplier<? extends T> supplier)",
+            "Modifier and Type": "static <T> T"
+        },
+        {
+            "Comments": "Returns the result of calling toString for a non- null argument and \"null\" for a null argument.",
+            "Function": "toString(Object o)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns the result of calling toString on the first argument if the first argument is not null and returns the second argument otherwise.",
+            "Function": "toString(Object o,String nullDefault)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

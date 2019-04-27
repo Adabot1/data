@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the array that backs this buffer  (optional operation).",
+            "Function": "array()",
+            "Modifier and Type": "abstract Object"
+        },
+        {
+            "Comments": "Returns the offset within this buffer's backing array of the first element of the buffer  (optional operation).",
+            "Function": "arrayOffset()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns this buffer's capacity.",
+            "Function": "capacity()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Clears this buffer.",
+            "Function": "clear()",
+            "Modifier and Type": "Buffer"
+        },
+        {
+            "Comments": "Creates a new buffer that shares this buffer's content.",
+            "Function": "duplicate()",
+            "Modifier and Type": "abstract Buffer"
+        },
+        {
+            "Comments": "Flips this buffer.",
+            "Function": "flip()",
+            "Modifier and Type": "Buffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is backed by an accessible array.",
+            "Function": "hasArray()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether there are any elements between the current position and the limit.",
+            "Function": "hasRemaining()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is direct.",
+            "Function": "isDirect()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Tells whether or not this buffer is read-only.",
+            "Function": "isReadOnly()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns this buffer's limit.",
+            "Function": "limit()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Sets this buffer's limit.",
+            "Function": "limit(int newLimit)",
+            "Modifier and Type": "Buffer"
+        },
+        {
+            "Comments": "Sets this buffer's mark at its position.",
+            "Function": "mark()",
+            "Modifier and Type": "Buffer"
+        },
+        {
+            "Comments": "Returns this buffer's position.",
+            "Function": "position()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Sets this buffer's position.",
+            "Function": "position(int newPosition)",
+            "Modifier and Type": "Buffer"
+        },
+        {
+            "Comments": "Returns the number of elements between the current position and the limit.",
+            "Function": "remaining()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Resets this buffer's position to the previously-marked position.",
+            "Function": "reset()",
+            "Modifier and Type": "Buffer"
+        },
+        {
+            "Comments": "Rewinds this buffer.",
+            "Function": "rewind()",
+            "Modifier and Type": "Buffer"
+        },
+        {
+            "Comments": "Creates a new buffer whose content is a shared subsequence of this buffer's content.",
+            "Function": "slice()",
+            "Modifier and Type": "abstract Buffer"
+        }
+    ]
+}

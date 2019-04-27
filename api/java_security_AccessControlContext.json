@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Create a new AccessControlContext with the given AccessControlContext and DomainCombiner.",
+            "Function": "checkPermission(Permission perm)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Create an AccessControlContext with the given array of ProtectionDomains.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Determines whether the access request indicated by the specified permission should be allowed or denied, based on the security policy currently in effect, and the context in this object.",
+            "Function": "getDomainCombiner()",
+            "Modifier and Type": "DomainCombiner"
+        },
+        {
+            "Comments": "Checks two AccessControlContext objects for equality.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

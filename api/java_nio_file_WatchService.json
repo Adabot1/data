@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Closes this watch service.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Retrieves and removes the next watch key, or null if none are present.",
+            "Function": "poll()",
+            "Modifier and Type": "WatchKey"
+        },
+        {
+            "Comments": "Retrieves and removes the next watch key, waiting if necessary up to the specified wait time if none are yet present.",
+            "Function": "poll(long timeout,TimeUnit unit)",
+            "Modifier and Type": "WatchKey"
+        },
+        {
+            "Comments": "Retrieves and removes next watch key, waiting if none are yet present.",
+            "Function": "take()",
+            "Modifier and Type": "WatchKey"
+        }
+    ]
+}

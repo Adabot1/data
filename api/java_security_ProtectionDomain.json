@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new ProtectionDomain with the given CodeSource and Permissions.",
+            "Function": "getClassLoader()",
+            "Modifier and Type": "ClassLoader"
+        },
+        {
+            "Comments": "Creates a new ProtectionDomain qualified by the given CodeSource, Permissions, ClassLoader and array of Principals.",
+            "Function": "getCodeSource()",
+            "Modifier and Type": "CodeSource"
+        },
+        {
+            "Comments": "Returns the ClassLoader of this domain.",
+            "Function": "getPermissions()",
+            "Modifier and Type": "PermissionCollection"
+        },
+        {
+            "Comments": "Returns the CodeSource of this domain.",
+            "Function": "getPrincipals()",
+            "Modifier and Type": "Principal[]"
+        },
+        {
+            "Comments": "Returns the static permissions granted to this domain.",
+            "Function": "implies(Permission perm)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns an array of principals for this domain.",
+            "Function": "staticPermissionsOnly()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Check and see if this ProtectionDomain implies the permissions expressed in the Permission object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

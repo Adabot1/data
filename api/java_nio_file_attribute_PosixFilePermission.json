@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Execute/search permission, group.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static PosixFilePermission"
+        },
+        {
+            "Comments": "Read permission, group.",
+            "Function": "values()",
+            "Modifier and Type": "static PosixFilePermission[]"
+        }
+    ]
+}

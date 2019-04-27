@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Performs this operation on the given argument.",
+            "Function": "accept(int value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a composed IntConsumer that performs, in sequence, this operation followed by the after operation.",
+            "Function": "andThen(IntConsumer after)",
+            "Modifier and Type": "default IntConsumer"
+        }
+    ]
+}

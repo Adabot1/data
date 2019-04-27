@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Forces any changes made to this buffer's content to be written to the storage device containing the mapped file.",
+            "Function": "force()",
+            "Modifier and Type": "MappedByteBuffer"
+        },
+        {
+            "Comments": "Tells whether or not this buffer's content is resident in physical memory.",
+            "Function": "isLoaded()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Loads this buffer's content into physical memory.",
+            "Function": "load()",
+            "Modifier and Type": "MappedByteBuffer"
+        }
+    ]
+}

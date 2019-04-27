@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "A channel representing the writable end of a Pipe.",
+            "Function": "Pipe.SinkChannel",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "A channel representing the readable end of a Pipe.",
+            "Function": "Pipe.SourceChannel",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "open()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Opens a pipe.",
+            "Function": "sink()",
+            "Modifier and Type": "static Pipe"
+        },
+        {
+            "Comments": "Returns this pipe's sink channel.",
+            "Function": "source()",
+            "Modifier and Type": "abstract Pipe.SinkChannel"
+        }
+    ]
+}

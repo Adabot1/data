@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Construct a TextInputCallback with a prompt.",
+            "Function": "getDefaultText()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Construct a TextInputCallback with a prompt and default input value.",
+            "Function": "getPrompt()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the default text.",
+            "Function": "getText()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Get the prompt.",
+            "Function": "setText(String text)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

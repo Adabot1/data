@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs an empty instance with zero count, zero sum, Long.MAX_VALUE min, Long.MIN_VALUE max and zero average.",
+            "Function": "accept(int value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Constructs a non-empty instance with the specified count, min, max, and sum.",
+            "Function": "accept(long value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Records a new int value into the summary information.",
+            "Function": "combine(LongSummaryStatistics other)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Records a new long value into the summary information.",
+            "Function": "getAverage()",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "Combines the state of another LongSummaryStatistics into this one.",
+            "Function": "getCount()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the arithmetic mean of values recorded, or zero if no values have been recorded.",
+            "Function": "getMax()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the count of values recorded.",
+            "Function": "getMin()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the maximum value recorded, or Long.MIN_VALUE if no values have been recorded",
+            "Function": "getSum()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the minimum value recorded, or Long.MAX_VALUE if no values have been recorded.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated.",
+            "Function": "buffer",
+            "Modifier and Type": "protected String"
+        },
+        {
+            "Comments": "The string from which bytes are read.",
+            "Function": "count",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "pos",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "The number of valid characters in the input stream buffer.",
+            "Function": "available()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The index of the next character to read from the input stream buffer.",
+            "Function": "read(byte[] b,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a string input stream to read data from the specified string.",
+            "Function": "skip(long n)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

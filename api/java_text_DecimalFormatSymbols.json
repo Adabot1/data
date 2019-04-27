@@ -1,0 +1,184 @@
+{
+    "API": [
+        {
+            "Comments": "Create a DecimalFormatSymbols object for the default FORMAT locale.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Create a DecimalFormatSymbols object for the given locale.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Standard override.",
+            "Function": "getAvailableLocales()",
+            "Modifier and Type": "static Locale[]"
+        },
+        {
+            "Comments": "Override equals.",
+            "Function": "getCurrency()",
+            "Modifier and Type": "Currency"
+        },
+        {
+            "Comments": "Returns an array of all locales for which the getInstance methods of this class can return localized instances.",
+            "Function": "getCurrencySymbol()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the currency of these DecimalFormatSymbols.",
+            "Function": "getDecimalSeparator()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Returns the currency symbol for the currency of these DecimalFormatSymbols in their locale.",
+            "Function": "getDigit()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character used for decimal sign.",
+            "Function": "getExponentSeparator()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the character used for a digit in a pattern.",
+            "Function": "getGroupingSeparator()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Returns the string used to separate the mantissa from the exponent.",
+            "Function": "getInfinity()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the character used for thousands separator.",
+            "Function": "getInstance()",
+            "Modifier and Type": "static DecimalFormatSymbols"
+        },
+        {
+            "Comments": "Gets the string used to represent infinity.",
+            "Function": "getInstance(Locale locale)",
+            "Modifier and Type": "static DecimalFormatSymbols"
+        },
+        {
+            "Comments": "Gets the DecimalFormatSymbols instance for the default locale.",
+            "Function": "getInternationalCurrencySymbol()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the DecimalFormatSymbols instance for the specified locale.",
+            "Function": "getMinusSign()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Returns the ISO 4217 currency code of the currency of these DecimalFormatSymbols.",
+            "Function": "getMonetaryDecimalSeparator()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character used to represent minus sign.",
+            "Function": "getNaN()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the monetary decimal separator.",
+            "Function": "getPatternSeparator()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the string used to represent \"not a number\".",
+            "Function": "getPercent()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character used to separate positive and negative subpatterns in a pattern.",
+            "Function": "getPerMill()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character used for percent sign.",
+            "Function": "getZeroDigit()",
+            "Modifier and Type": "char"
+        },
+        {
+            "Comments": "Gets the character used for per mille sign.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the character used for zero.",
+            "Function": "setCurrency(Currency currency)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Override hashCode.",
+            "Function": "setCurrencySymbol(String currency)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the currency of these DecimalFormatSymbols.",
+            "Function": "setDecimalSeparator(char decimalSeparator)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the currency symbol for the currency of these DecimalFormatSymbols in their locale.",
+            "Function": "setDigit(char digit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the character used for decimal sign.",
+            "Function": "setExponentSeparator(String exp)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the character used for a digit in a pattern.",
+            "Function": "setGroupingSeparator(char groupingSeparator)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the string used to separate the mantissa from the exponent.",
+            "Function": "setInfinity(String infinity)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the character used for thousands separator.",
+            "Function": "setInternationalCurrencySymbol(String currencyCode)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the string used to represent infinity.",
+            "Function": "setMinusSign(char minusSign)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the ISO 4217 currency code of the currency of these DecimalFormatSymbols.",
+            "Function": "setMonetaryDecimalSeparator(char sep)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the character used to represent minus sign.",
+            "Function": "setNaN(String NaN)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the monetary decimal separator.",
+            "Function": "setPatternSeparator(char patternSeparator)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the string used to represent \"not a number\".",
+            "Function": "setPercent(char percent)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the character used to separate positive and negative subpatterns in a pattern.",
+            "Function": "setPerMill(char perMill)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the character used for percent sign.",
+            "Function": "setZeroDigit(char zeroDigit)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

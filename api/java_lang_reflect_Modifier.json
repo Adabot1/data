@@ -1,0 +1,159 @@
+{
+    "API": [
+        {
+            "Comments": "The int value representing the abstract modifier.",
+            "Function": "ABSTRACT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the final modifier.",
+            "Function": "FINAL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the interface modifier.",
+            "Function": "INTERFACE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the native modifier.",
+            "Function": "NATIVE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the private modifier.",
+            "Function": "PRIVATE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the protected modifier.",
+            "Function": "PROTECTED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the public modifier.",
+            "Function": "PUBLIC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the static modifier.",
+            "Function": "STATIC",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the strictfp modifier.",
+            "Function": "STRICT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the synchronized modifier.",
+            "Function": "SYNCHRONIZED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the transient modifier.",
+            "Function": "TRANSIENT",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "The int value representing the volatile modifier.",
+            "Function": "VOLATILE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return an int value OR-ing together the source language modifiers that can be applied to a class.",
+            "Function": "classModifiers()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return an int value OR-ing together the source language modifiers that can be applied to a constructor.",
+            "Function": "constructorModifiers()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return an int value OR-ing together the source language modifiers that can be applied to a field.",
+            "Function": "fieldModifiers()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return an int value OR-ing together the source language modifiers that can be applied to an interface.",
+            "Function": "interfaceModifiers()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the abstract modifier, false otherwise.",
+            "Function": "isAbstract(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the final modifier, false otherwise.",
+            "Function": "isFinal(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the interface modifier, false otherwise.",
+            "Function": "isInterface(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the native modifier, false otherwise.",
+            "Function": "isNative(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the private modifier, false otherwise.",
+            "Function": "isPrivate(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the protected modifier, false otherwise.",
+            "Function": "isProtected(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the public modifier, false otherwise.",
+            "Function": "isPublic(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the static modifier, false otherwise.",
+            "Function": "isStatic(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the strictfp modifier, false otherwise.",
+            "Function": "isStrict(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the synchronized modifier, false otherwise.",
+            "Function": "isSynchronized(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the transient modifier, false otherwise.",
+            "Function": "isTransient(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return true if the integer argument includes the volatile modifier, false otherwise.",
+            "Function": "isVolatile(int mod)",
+            "Modifier and Type": "static boolean"
+        },
+        {
+            "Comments": "Return an int value OR-ing together the source language modifiers that can be applied to a method.",
+            "Function": "methodModifiers()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return an int value OR-ing together the source language modifiers that can be applied to a parameter.",
+            "Function": "parameterModifiers()",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Return a string describing the access modifier flags in the specified modifier.",
+            "Function": "toString(int mod)",
+            "Modifier and Type": "static String"
+        }
+    ]
+}

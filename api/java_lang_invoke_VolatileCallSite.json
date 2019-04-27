@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a call site with a volatile binding to its target.",
+            "Function": "getTarget()",
+            "Modifier and Type": "MethodHandle"
+        },
+        {
+            "Comments": "Creates a call site with a volatile binding to its target.",
+            "Function": "setTarget(MethodHandle newTarget)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

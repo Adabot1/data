@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of LDAPCertStoreParameters with the default parameter values (server name \"localhost\", port 389).",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Creates an instance of LDAPCertStoreParameters with the specified server name and a default port of 389.",
+            "Function": "getPort()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates an instance of LDAPCertStoreParameters with the specified parameter values.",
+            "Function": "getServerName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a copy of this object.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

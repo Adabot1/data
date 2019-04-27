@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "openAsynchronousChannelGroup(int nThreads,ThreadFactory threadFactory)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructs a new asynchronous channel group with a fixed thread pool.",
+            "Function": "openAsynchronousChannelGroup(ExecutorService executor,int initialSize)",
+            "Modifier and Type": "abstract AsynchronousChannelGroup"
+        },
+        {
+            "Comments": "Constructs a new asynchronous channel group with the given thread pool.",
+            "Function": "openAsynchronousServerSocketChannel(AsynchronousChannelGroup group)",
+            "Modifier and Type": "abstract AsynchronousChannelGroup"
+        },
+        {
+            "Comments": "Opens an asynchronous server-socket channel.",
+            "Function": "openAsynchronousSocketChannel(AsynchronousChannelGroup group)",
+            "Modifier and Type": "abstract AsynchronousServerSocketChannel"
+        },
+        {
+            "Comments": "Opens an asynchronous socket channel.",
+            "Function": "provider()",
+            "Modifier and Type": "abstract AsynchronousSocketChannel"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "System loggers levels.",
+            "Function": "System.Logger.Level",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Returns the name of this logger.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Checks if a message of the given level would be logged by this logger.",
+            "Function": "isLoggable(System.Logger.Level level)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Logs a message produced from the given object.",
+            "Function": "log(System.Logger.Level level, Object obj)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Logs a message.",
+            "Function": "log(System.Logger.Level level, String msg)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Logs a message with an optional list of parameters.",
+            "Function": "log(System.Logger.Level level, String format, Object... params)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Logs a message associated with a given throwable.",
+            "Function": "log(System.Logger.Level level, String msg, Throwable thrown)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Logs a lazily supplied message.",
+            "Function": "log(System.Logger.Level level, Supplier<String> msgSupplier)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Logs a lazily supplied message associated with a given throwable.",
+            "Function": "log(System.Logger.Level level, Supplier<String> msgSupplier, Throwable thrown)",
+            "Modifier and Type": "default void"
+        },
+        {
+            "Comments": "Logs a message with resource bundle and an optional list of parameters.",
+            "Function": "log(System.Logger.Level level, ResourceBundle bundle, String format, Object... params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Logs a localized message associated with a given throwable.",
+            "Function": "log(System.Logger.Level level, ResourceBundle bundle, String msg, Throwable thrown)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

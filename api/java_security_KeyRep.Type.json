@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Type for private keys.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static KeyRep.Type"
+        },
+        {
+            "Comments": "Type for public keys.",
+            "Function": "values()",
+            "Modifier and Type": "static KeyRep.Type[]"
+        }
+    ]
+}

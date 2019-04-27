@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this CRL entry for equality with the given object.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Get the issuer of the X509Certificate described by this entry.",
+            "Function": "getCertificateIssuer()",
+            "Modifier and Type": "X500Principal"
+        },
+        {
+            "Comments": "Returns the ASN.1 DER-encoded form of this CRL Entry, that is the inner SEQUENCE.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets the revocation date from this X509CRLEntry, the revocationDate.",
+            "Function": "getRevocationDate()",
+            "Modifier and Type": "abstract Date"
+        },
+        {
+            "Comments": "Returns the reason the certificate has been revoked, as specified in the Reason Code extension of this CRL entry.",
+            "Function": "getRevocationReason()",
+            "Modifier and Type": "CRLReason"
+        },
+        {
+            "Comments": "Gets the serial number from this X509CRLEntry, the userCertificate.",
+            "Function": "getSerialNumber()",
+            "Modifier and Type": "abstract BigInteger"
+        },
+        {
+            "Comments": "Returns true if this CRL entry has extensions.",
+            "Function": "hasExtensions()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns a hashcode value for this CRL entry from its encoded form.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string representation of this CRL entry.",
+            "Function": "toString()",
+            "Modifier and Type": "abstract String"
+        }
+    ]
+}

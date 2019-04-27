@@ -1,0 +1,354 @@
+{
+    "API": [
+        {
+            "Comments": "The epoch year LocalDate, '1970-01-01'.",
+            "Function": "EPOCH",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "The maximum supported LocalDate, '+999999999-12-31'.",
+            "Function": "MAX",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "The minimum supported LocalDate, '-999999999-01-01'.",
+            "Function": "MIN",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Adjusts the specified temporal object to have the same date as this object.",
+            "Function": "adjustInto(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Combines this date with the time of midnight to create a LocalDateTime at the start of this date.",
+            "Function": "atStartOfDay()",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Returns a zoned date-time from this date at the earliest valid time according to the rules in the time-zone.",
+            "Function": "atStartOfDay(ZoneId zone)",
+            "Modifier and Type": "ZonedDateTime"
+        },
+        {
+            "Comments": "Combines this date with a time to create a LocalDateTime.",
+            "Function": "atTime(int hour,int minute)",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Combines this date with a time to create a LocalDateTime.",
+            "Function": "atTime(int hour,int minute,int second)",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Combines this date with a time to create a LocalDateTime.",
+            "Function": "atTime(int hour,int minute,int second,int nanoOfSecond)",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Combines this date with a time to create a LocalDateTime.",
+            "Function": "atTime(LocalTime time)",
+            "Modifier and Type": "LocalDateTime"
+        },
+        {
+            "Comments": "Combines this date with an offset time to create an OffsetDateTime.",
+            "Function": "atTime(OffsetTime time)",
+            "Modifier and Type": "OffsetDateTime"
+        },
+        {
+            "Comments": "Compares this date to another date.",
+            "Function": "compareTo(ChronoLocalDate other)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a sequential ordered stream of dates.",
+            "Function": "datesUntil(LocalDate endExclusive)",
+            "Modifier and Type": "Stream<LocalDate>"
+        },
+        {
+            "Comments": "Returns a sequential ordered stream of dates by given incremental step.",
+            "Function": "datesUntil(LocalDate endExclusive,Period step)",
+            "Modifier and Type": "Stream<LocalDate>"
+        },
+        {
+            "Comments": "Checks if this date is equal to another date.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Formats this date using the specified formatter.",
+            "Function": "format(DateTimeFormatter formatter)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this date as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the chronology of this date, which is the ISO calendar system.",
+            "Function": "getChronology()",
+            "Modifier and Type": "IsoChronology"
+        },
+        {
+            "Comments": "Gets the day-of-month field.",
+            "Function": "getDayOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the day-of-week field, which is an enum DayOfWeek.",
+            "Function": "getDayOfWeek()",
+            "Modifier and Type": "DayOfWeek"
+        },
+        {
+            "Comments": "Gets the day-of-year field.",
+            "Function": "getDayOfYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the era applicable at this date.",
+            "Function": "getEra()",
+            "Modifier and Type": "IsoEra"
+        },
+        {
+            "Comments": "Gets the value of the specified field from this date as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the month-of-year field using the Month enum.",
+            "Function": "getMonth()",
+            "Modifier and Type": "Month"
+        },
+        {
+            "Comments": "Gets the month-of-year field from 1 to 12.",
+            "Function": "getMonthValue()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the year field.",
+            "Function": "getYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this date.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if this date is after the specified date.",
+            "Function": "isAfter(ChronoLocalDate other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this date is before the specified date.",
+            "Function": "isBefore(ChronoLocalDate other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if this date is equal to the specified date.",
+            "Function": "isEqual(ChronoLocalDate other)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the year is a leap year, according to the ISO proleptic calendar system rules.",
+            "Function": "isLeapYear()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if the specified unit is supported.",
+            "Function": "isSupported(TemporalUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the length of the month represented by this date.",
+            "Function": "lengthOfMonth()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the length of the year represented by this date.",
+            "Function": "lengthOfYear()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a copy of this date with the specified amount subtracted.",
+            "Function": "minus(long amountToSubtract, TemporalUnit unit)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this date with the specified amount subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of days subtracted.",
+            "Function": "minusDays(long daysToSubtract)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of months subtracted.",
+            "Function": "minusMonths(long monthsToSubtract)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of weeks subtracted.",
+            "Function": "minusWeeks(long weeksToSubtract)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of years subtracted.",
+            "Function": "minusYears(long yearsToSubtract)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Obtains the current date from the system clock in the default time-zone.",
+            "Function": "now()",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains the current date from the specified clock.",
+            "Function": "now(Clock clock)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains the current date from the system clock in the specified time-zone.",
+            "Function": "now(ZoneId zone)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from a year, month and day.",
+            "Function": "of(int year,int month,int dayOfMonth)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from a year, month and day.",
+            "Function": "of(int year,Month month,int dayOfMonth)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from the epoch day count.",
+            "Function": "ofEpochDay(long epochDay)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from an Instant and zone ID.",
+            "Function": "ofInstant(Instant instant, ZoneId zone)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from a year and day-of-year.",
+            "Function": "ofYearDay(int year, int dayOfYear)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from a text string such as 2007-12-03.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Obtains an instance of LocalDate from a text string using a specific formatter.",
+            "Function": "parse(CharSequence text, DateTimeFormatter formatter)",
+            "Modifier and Type": "static LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this date with the specified amount added.",
+            "Function": "plus(long amountToAdd,TemporalUnit unit)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this date with the specified amount added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of days added.",
+            "Function": "plusDays(long daysToAdd)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of months added.",
+            "Function": "plusMonths(long monthsToAdd)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of weeks added.",
+            "Function": "plusWeeks(long weeksToAdd)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the specified number of years added.",
+            "Function": "plusYears(long yearsToAdd)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Queries this date using the specified query.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "<R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "Converts this LocalDate to the number of seconds since the epoch of 1970-01-01T00:00:00Z.",
+            "Function": "toEpochSecond(LocalTime time, ZoneOffset offset)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Outputs this date as a String, such as 2007-12-03.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Calculates the period between this date and another date as a Period.",
+            "Function": "until(ChronoLocalDate endDateExclusive)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Calculates the amount of time until another date in terms of the specified unit.",
+            "Function": "until(Temporal endExclusive, TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns an adjusted copy of this date.",
+            "Function": "with(TemporalAdjuster adjuster)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this date with the specified field set to a new value.",
+            "Function": "with(TemporalField field,long newValue)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the day-of-month altered.",
+            "Function": "withDayOfMonth(int dayOfMonth)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the day-of-year altered.",
+            "Function": "withDayOfYear(int dayOfYear)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the month-of-year altered.",
+            "Function": "withMonth(int month)",
+            "Modifier and Type": "LocalDate"
+        },
+        {
+            "Comments": "Returns a copy of this LocalDate with the year altered.",
+            "Function": "withYear(int year)",
+            "Modifier and Type": "LocalDate"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Gets the value of the specified field as an int.",
+            "Function": "get(TemporalField field)",
+            "Modifier and Type": "default int"
+        },
+        {
+            "Comments": "Gets the value of the specified field as a long.",
+            "Function": "getLong(TemporalField field)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Checks if the specified field is supported.",
+            "Function": "isSupported(TemporalField field)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Queries this date-time.",
+            "Function": "query(TemporalQuery<R> query)",
+            "Modifier and Type": "default <R> R"
+        },
+        {
+            "Comments": "Gets the range of valid values for the specified field.",
+            "Function": "range(TemporalField field)",
+            "Modifier and Type": "default ValueRange"
+        }
+    ]
+}

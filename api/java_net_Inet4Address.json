@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the raw IP address of this InetAddress object.",
+            "Function": "getAddress()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the IP address string in textual presentation form.",
+            "Function": "getHostAddress()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a hashcode for this IP address.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a wildcard address.",
+            "Function": "isAnyLocalAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is an link local address.",
+            "Function": "isLinkLocalAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a loopback address.",
+            "Function": "isLoopbackAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has global scope.",
+            "Function": "isMCGlobal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has link scope.",
+            "Function": "isMCLinkLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has node scope.",
+            "Function": "isMCNodeLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has organization scope.",
+            "Function": "isMCOrgLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the multicast address has site scope.",
+            "Function": "isMCSiteLocal()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is an IP multicast address.",
+            "Function": "isMulticastAddress()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Utility routine to check if the InetAddress is a site local address.",
+            "Function": "isSiteLocalAddress()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

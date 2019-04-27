@@ -1,0 +1,104 @@
+{
+    "API": [
+        {
+            "Comments": "Returns an array of AnnotatedType objects that represent the use of types to specify the declared exceptions of the method/constructor represented by this Executable.",
+            "Function": "getAnnotatedExceptionTypes()",
+            "Modifier and Type": "AnnotatedType[]"
+        },
+        {
+            "Comments": "Returns an array of AnnotatedType objects that represent the use of types to specify formal parameter types of the method/constructor represented by this Executable.",
+            "Function": "getAnnotatedParameterTypes()",
+            "Modifier and Type": "AnnotatedType[]"
+        },
+        {
+            "Comments": "Returns an AnnotatedType object that represents the use of a type to specify the receiver type of the method/constructor represented by this Executable object.",
+            "Function": "getAnnotatedReceiverType()",
+            "Modifier and Type": "AnnotatedType"
+        },
+        {
+            "Comments": "Returns an AnnotatedType object that represents the use of a type to specify the return type of the method/constructor represented by this Executable.",
+            "Function": "getAnnotatedReturnType()",
+            "Modifier and Type": "abstract AnnotatedType"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is present, else null.",
+            "Function": "getAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are associated with this element.",
+            "Function": "getAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Returns the Class object representing the class or interface that declares the executable represented by this object.",
+            "Function": "getDeclaringClass()",
+            "Modifier and Type": "abstract Class<?>"
+        },
+        {
+            "Comments": "Returns an array of Class objects that represent the types of exceptions declared to be thrown by the underlying executable represented by this object.",
+            "Function": "getExceptionTypes()",
+            "Modifier and Type": "abstract Class<?>[]"
+        },
+        {
+            "Comments": "Returns an array of Type objects that represent the exceptions declared to be thrown by this executable object.",
+            "Function": "getGenericExceptionTypes()",
+            "Modifier and Type": "Type[]"
+        },
+        {
+            "Comments": "Returns an array of Type objects that represent the formal parameter types, in declaration order, of the executable represented by this object.",
+            "Function": "getGenericParameterTypes()",
+            "Modifier and Type": "Type[]"
+        },
+        {
+            "Comments": "Returns the Java language modifiers for the executable represented by this object.",
+            "Function": "getModifiers()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns the name of the executable represented by this object.",
+            "Function": "getName()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Returns an array of arrays of Annotations that represent the annotations on the formal parameters, in declaration order, of the Executable represented by this object.",
+            "Function": "getParameterAnnotations()",
+            "Modifier and Type": "abstract Annotation[][]"
+        },
+        {
+            "Comments": "Returns the number of formal parameters (whether explicitly declared or implicitly declared or neither) for the executable represented by this object.",
+            "Function": "getParameterCount()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an array of Parameter objects that represent all the parameters to the underlying executable represented by this object.",
+            "Function": "getParameters()",
+            "Modifier and Type": "Parameter[]"
+        },
+        {
+            "Comments": "Returns an array of Class objects that represent the formal parameter types, in declaration order, of the executable represented by this object.",
+            "Function": "getParameterTypes()",
+            "Modifier and Type": "abstract Class<?>[]"
+        },
+        {
+            "Comments": "Returns an array of TypeVariable objects that represent the type variables declared by the generic declaration represented by this GenericDeclaration object, in declaration order.",
+            "Function": "getTypeParameters()",
+            "Modifier and Type": "abstract TypeVariable<?>[]"
+        },
+        {
+            "Comments": "Returns true if this executable is a synthetic construct; returns false otherwise.",
+            "Function": "isSynthetic()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if this executable was declared to take a variable number of arguments; returns false otherwise.",
+            "Function": "isVarArgs()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a string describing this Executable, including any type parameters.",
+            "Function": "toGenericString()",
+            "Modifier and Type": "abstract String"
+        }
+    ]
+}

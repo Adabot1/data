@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Defines constants that are used as attribute keys in the AttributedCharacterIterator returned from Format.formatToCharacterIterator and as field identifiers in FieldPosition.",
+            "Function": "Format.Field",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Sole constructor.",
+            "Function": "clone()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Creates and returns a copy of this object.",
+            "Function": "format(Object obj)",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Formats an object to produce a string.",
+            "Function": "format(Object obj,StringBuffer toAppendTo,FieldPosition pos)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Formats an object and appends the resulting text to a given string buffer.",
+            "Function": "formatToCharacterIterator(Object obj)",
+            "Modifier and Type": "abstract StringBuffer"
+        },
+        {
+            "Comments": "Formats an Object producing an AttributedCharacterIterator.",
+            "Function": "parseObject(String source)",
+            "Modifier and Type": "AttributedCharacterIterator"
+        },
+        {
+            "Comments": "Parses text from the beginning of the given string to produce an object.",
+            "Function": "parseObject(String source, ParsePosition pos)",
+            "Modifier and Type": "Object"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new phaser with no initially registered parties, no parent, and initial phase number 0.",
+            "Function": "arrive()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new phaser with the given number of registered unarrived parties, no parent, and initial phase number 0.",
+            "Function": "arriveAndAwaitAdvance()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Equivalent to Phaser(parent, 0).",
+            "Function": "arriveAndDeregister()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new phaser with the given parent and number of registered unarrived parties.",
+            "Function": "awaitAdvance(int phase)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Arrives at this phaser, without waiting for others to arrive.",
+            "Function": "awaitAdvanceInterruptibly(int phase)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Arrives at this phaser and awaits others.",
+            "Function": "awaitAdvanceInterruptibly(int phase, long timeout, TimeUnit unit)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Arrives at this phaser and deregisters from it without waiting for others to arrive.",
+            "Function": "bulkRegister(int parties)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Awaits the phase of this phaser to advance from the given phase value, returning immediately if the current phase is not equal to the given phase value or this phaser is terminated.",
+            "Function": "forceTermination()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Awaits the phase of this phaser to advance from the given phase value, throwing InterruptedException if interrupted while waiting, or returning immediately if the current phase is not equal to the given phase value or this phaser is terminated.",
+            "Function": "getArrivedParties()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Awaits the phase of this phaser to advance from the given phase value or the given timeout to elapse, throwing  InterruptedException if interrupted while waiting, or returning immediately if the current phase is not equal to the given phase value or this phaser is terminated.",
+            "Function": "getParent()",
+            "Modifier and Type": "Phaser"
+        },
+        {
+            "Comments": "Adds the given number of new unarrived parties to this phaser.",
+            "Function": "getPhase()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Forces this phaser to enter termination state.",
+            "Function": "getRegisteredParties()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of registered parties that have arrived at the current phase of this phaser.",
+            "Function": "getRoot()",
+            "Modifier and Type": "Phaser"
+        },
+        {
+            "Comments": "Returns the parent of this phaser, or null if none.",
+            "Function": "getUnarrivedParties()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the current phase number.",
+            "Function": "isTerminated()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the number of parties registered at this phaser.",
+            "Function": "onAdvance(int phase, int registeredParties)",
+            "Modifier and Type": "protected boolean"
+        },
+        {
+            "Comments": "Returns the root ancestor of this phaser, which is the same as this phaser if it has no parent.",
+            "Function": "register()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of registered parties that have not yet arrived at the current phase of this phaser.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

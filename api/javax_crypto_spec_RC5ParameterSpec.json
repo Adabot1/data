@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a parameter set for RC5 from the given version, number of rounds and word size (in bits).",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Constructs a parameter set for RC5 from the given version, number of rounds, word size (in bits), and IV.",
+            "Function": "getIV()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Constructs a parameter set for RC5 from the given version, number of rounds, word size (in bits), and IV.",
+            "Function": "getRounds()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Tests for equality between the specified object and this object.",
+            "Function": "getVersion()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the IV or null if this parameter set does not contain an IV.",
+            "Function": "getWordSize()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the number of rounds.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

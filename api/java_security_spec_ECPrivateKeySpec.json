@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new ECPrivateKeySpec with the specified parameter values.",
+            "Function": "getParams()",
+            "Modifier and Type": "ECParameterSpec"
+        },
+        {
+            "Comments": "Returns the associated elliptic curve domain parameters.",
+            "Function": "getS()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

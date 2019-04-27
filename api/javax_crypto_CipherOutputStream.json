@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a CipherOutputStream from an OutputStream without specifying a Cipher.",
+            "Function": "close()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Constructs a CipherOutputStream from an OutputStream and a Cipher.",
+            "Function": "flush()",
+            "Modifier and Type": " "
+        },
+        {
+            "Comments": "Closes this output stream and releases any system resources associated with this stream.",
+            "Function": "write(byte[] b)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes this output stream by forcing any buffered output bytes that have already been processed by the encapsulated cipher object to be written out.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Writes b.length bytes from the specified byte array to this output stream.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

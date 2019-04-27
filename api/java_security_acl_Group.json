@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "addMember(Principal user)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Adds the specified member to the group.",
+            "Function": "isMember(Principal member)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "members()",
+            "Modifier and Type": "Enumeration<? extends Principal>"
+        },
+        {
+            "Comments": "Returns true if the passed principal is a member of the group.",
+            "Function": "removeMember(Principal user)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

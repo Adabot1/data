@@ -1,0 +1,179 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new bit set.",
+            "Function": "and(BitSet set)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a bit set whose initial size is large enough to explicitly represent bits with indices in the range 0 through nbits-1.",
+            "Function": "andNot(BitSet set)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Performs a logical AND of this target bit set with the argument bit set.",
+            "Function": "cardinality()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Clears all of the bits in this BitSet whose corresponding bit is set in the specified BitSet.",
+            "Function": "clear()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the number of bits set to true in this BitSet.",
+            "Function": "clear(int bitIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets all of the bits in this BitSet to false.",
+            "Function": "clear(int fromIndex, int toIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the bit specified by the index to false.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Sets the bits from the specified fromIndex (inclusive) to the specified toIndex (exclusive) to false.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Cloning this BitSet produces a new BitSet that is equal to it.",
+            "Function": "flip(int bitIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Compares this object against the specified object.",
+            "Function": "flip(int fromIndex,int toIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the bit at the specified index to the complement of its current value.",
+            "Function": "get(int bitIndex)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Sets each bit from the specified fromIndex (inclusive) to the specified toIndex (exclusive) to the complement of its current value.",
+            "Function": "get(int fromIndex, int toIndex)",
+            "Modifier and Type": "BitSet"
+        },
+        {
+            "Comments": "Returns the value of the bit with the specified index.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a new BitSet composed of bits from this BitSet from fromIndex (inclusive) to toIndex (exclusive).",
+            "Function": "intersects(BitSet set)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the hash code value for this bit set.",
+            "Function": "isEmpty()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if the specified BitSet has any bits set to true that are also set to true in this BitSet.",
+            "Function": "length()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if this BitSet contains no bits that are set to true.",
+            "Function": "nextClearBit(int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the \"logical size\" of this BitSet: the index of the highest set bit in the BitSet plus one.",
+            "Function": "nextSetBit(int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index of the first bit that is set to false that occurs on or after the specified starting index.",
+            "Function": "or(BitSet set)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the index of the first bit that is set to true that occurs on or after the specified starting index.",
+            "Function": "previousClearBit(int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Performs a logical OR of this bit set with the bit set argument.",
+            "Function": "previousSetBit(int fromIndex)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the index of the nearest bit that is set to false that occurs on or before the specified starting index.",
+            "Function": "set(int bitIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the index of the nearest bit that is set to true that occurs on or before the specified starting index.",
+            "Function": "set(int bitIndex, boolean value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the bit at the specified index to true.",
+            "Function": "set(int fromIndex, int toIndex)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the bit at the specified index to the specified value.",
+            "Function": "set(int fromIndex, int toIndex, boolean value)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the bits from the specified fromIndex (inclusive) to the specified toIndex (exclusive) to true.",
+            "Function": "size()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Sets the bits from the specified fromIndex (inclusive) to the specified toIndex (exclusive) to the specified value.",
+            "Function": "stream()",
+            "Modifier and Type": "IntStream"
+        },
+        {
+            "Comments": "Returns the number of bits of space actually in use by this BitSet to represent bit values.",
+            "Function": "toByteArray()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns a stream of indices for which this BitSet contains a bit in the set state.",
+            "Function": "toLongArray()",
+            "Modifier and Type": "long[]"
+        },
+        {
+            "Comments": "Returns a new byte array containing all the bits in this bit set.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a new long array containing all the bits in this bit set.",
+            "Function": "valueOf(byte[] bytes)",
+            "Modifier and Type": "static BitSet"
+        },
+        {
+            "Comments": "Returns a string representation of this bit set.",
+            "Function": "valueOf(long[] longs)",
+            "Modifier and Type": "static BitSet"
+        },
+        {
+            "Comments": "Returns a new bit set containing all the bits in the given byte array.",
+            "Function": "valueOf(ByteBuffer bb)",
+            "Modifier and Type": "static BitSet"
+        },
+        {
+            "Comments": "Returns a new bit set containing all the bits in the given long array.",
+            "Function": "valueOf(LongBuffer lb)",
+            "Modifier and Type": "static BitSet"
+        },
+        {
+            "Comments": "Returns a new bit set containing all the bits in the given byte buffer between its position and limit.",
+            "Function": "xor(BitSet set)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

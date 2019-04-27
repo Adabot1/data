@@ -1,0 +1,224 @@
+{
+    "API": [
+        {
+            "Comments": "Constant used to initialize cipher to decryption mode.",
+            "Function": "DECRYPT_MODE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant used to initialize cipher to encryption mode.",
+            "Function": "ENCRYPT_MODE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant used to indicate the to-be-unwrapped key is a \"private key\".",
+            "Function": "PRIVATE_KEY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant used to indicate the to-be-unwrapped key is a \"public key\".",
+            "Function": "PUBLIC_KEY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant used to indicate the to-be-unwrapped key is a \"secret key\".",
+            "Function": "SECRET_KEY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant used to initialize cipher to key-unwrapping mode.",
+            "Function": "UNWRAP_MODE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Constant used to initialize cipher to key-wrapping mode.",
+            "Function": "WRAP_MODE",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a Cipher object.",
+            "Function": "doFinal()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Finishes a multiple-part encryption or decryption operation, depending on how this cipher was initialized.",
+            "Function": "doFinal(byte[] input)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "doFinal(byte[] output, int outputOffset)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Finishes a multiple-part encryption or decryption operation, depending on how this cipher was initialized.",
+            "Function": "doFinal(byte[] input, int inputOffset, int inputLen)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "doFinal(byte[] input, int inputOffset, int inputLen, byte[] output)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "doFinal(byte[] input, int inputOffset, int inputLen, byte[] output, int outputOffset)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "doFinal(ByteBuffer input, ByteBuffer output)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Encrypts or decrypts data in a single-part operation, or finishes a multiple-part operation.",
+            "Function": "getAlgorithm()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the algorithm name of this Cipher object.",
+            "Function": "getBlockSize()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the block size (in bytes).",
+            "Function": "getExemptionMechanism()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the exemption mechanism object used with this cipher.",
+            "Function": "getInstance(String transformation)",
+            "Modifier and Type": "ExemptionMechanism"
+        },
+        {
+            "Comments": "Returns a Cipher object that implements the specified transformation.",
+            "Function": "getInstance(String transformation, String provider)",
+            "Modifier and Type": "static Cipher"
+        },
+        {
+            "Comments": "Returns a Cipher object that implements the specified transformation.",
+            "Function": "getInstance(String transformation, Provider provider)",
+            "Modifier and Type": "static Cipher"
+        },
+        {
+            "Comments": "Returns a Cipher object that implements the specified transformation.",
+            "Function": "getIV()",
+            "Modifier and Type": "static Cipher"
+        },
+        {
+            "Comments": "Returns the initialization vector (IV) in a new buffer.",
+            "Function": "getMaxAllowedKeyLength(String transformation)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Returns the maximum key length for the specified transformation according to the installed JCE jurisdiction policy files.",
+            "Function": "getMaxAllowedParameterSpec(String transformation)",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Returns an AlgorithmParameterSpec object which contains the maximum cipher parameter value according to the jurisdiction policy file.",
+            "Function": "getOutputSize(int inputLen)",
+            "Modifier and Type": "static AlgorithmParameterSpec"
+        },
+        {
+            "Comments": "Returns the length in bytes that an output buffer would need to be in order to hold the result of the next update or doFinal operation, given the input length inputLen (in bytes).",
+            "Function": "getParameters()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the parameters used with this cipher.",
+            "Function": "getProvider()",
+            "Modifier and Type": "AlgorithmParameters"
+        },
+        {
+            "Comments": "Returns the provider of this Cipher object.",
+            "Function": "init(int opmode,Certificate certificate)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initializes this cipher with the public key from the given certificate.",
+            "Function": "init(int opmode,Certificate certificate,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this cipher with the public key from the given certificate and a source of randomness.",
+            "Function": "init(int opmode,Key key)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key.",
+            "Function": "init(int opmode,Key key,AlgorithmParameters params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key and a set of algorithm parameters.",
+            "Function": "init(int opmode,Key key,AlgorithmParameters params,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key, a set of algorithm parameters, and a source of randomness.",
+            "Function": "init(int opmode,Key key,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key and a source of randomness.",
+            "Function": "init(int opmode,Key key,AlgorithmParameterSpec params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key and a set of algorithm parameters.",
+            "Function": "init(int opmode,Key key,AlgorithmParameterSpec params,SecureRandom random)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this cipher with a key, a set of algorithm parameters, and a source of randomness.",
+            "Function": "unwrap(byte[] wrappedKey,String wrappedKeyAlgorithm,int wrappedKeyType)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Unwrap a previously wrapped key.",
+            "Function": "update(byte[] input)",
+            "Modifier and Type": "Key"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "update(byte[] input,int inputOffset,int inputLen)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "update(byte[] input,int inputOffset,int inputLen,byte[] output)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "update(byte[] input,int inputOffset,int inputLen,byte[] output,int outputOffset)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "update(ByteBuffer input,ByteBuffer output)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Continues a multiple-part encryption or decryption operation (depending on how this cipher was initialized), processing another data part.",
+            "Function": "updateAAD(byte[] src)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Continues a multi-part update of the Additional Authentication Data (AAD).",
+            "Function": "updateAAD(byte[] src, int offset, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Continues a multi-part update of the Additional Authentication Data (AAD), using a subset of the provided buffer.",
+            "Function": "updateAAD(ByteBuffer src)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Continues a multi-part update of the Additional Authentication Data (AAD).",
+            "Function": "wrap(Key key)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

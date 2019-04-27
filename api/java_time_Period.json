@@ -1,0 +1,189 @@
+{
+    "API": [
+        {
+            "Comments": "A constant for a period of zero.",
+            "Function": "ZERO",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Adds this period to the specified temporal object.",
+            "Function": "addTo(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Obtains a Period consisting of the number of years, months, and days between two dates.",
+            "Function": "between(LocalDate startDateInclusive, LocalDate endDateExclusive)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Checks if this period is equal to another period.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains an instance of Period from a temporal amount.",
+            "Function": "from(TemporalAmount amount)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Gets the value of the requested unit.",
+            "Function": "get(TemporalUnit unit)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Gets the chronology of this period, which is the ISO calendar system.",
+            "Function": "getChronology()",
+            "Modifier and Type": "IsoChronology"
+        },
+        {
+            "Comments": "Gets the amount of days of this period.",
+            "Function": "getDays()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the amount of months of this period.",
+            "Function": "getMonths()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Gets the set of units supported by this period.",
+            "Function": "getUnits()",
+            "Modifier and Type": "List<TemporalUnit>"
+        },
+        {
+            "Comments": "Gets the amount of years of this period.",
+            "Function": "getYears()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "A hash code for this period.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Checks if any of the three units of this period are negative.",
+            "Function": "isNegative()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Checks if all three units of this period are zero.",
+            "Function": "isZero()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified period subtracted.",
+            "Function": "minus(TemporalAmount amountToSubtract)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified days subtracted.",
+            "Function": "minusDays(long daysToSubtract)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified months subtracted.",
+            "Function": "minusMonths(long monthsToSubtract)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified years subtracted.",
+            "Function": "minusYears(long yearsToSubtract)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a new instance with each element in this period multiplied by the specified scalar.",
+            "Function": "multipliedBy(int scalar)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a new instance with each amount in this period negated.",
+            "Function": "negated()",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the years and months normalized.",
+            "Function": "normalized()",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Obtains a Period representing a number of years, months and days.",
+            "Function": "of(int years,int months,int days)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Obtains a Period representing a number of days.",
+            "Function": "ofDays(int days)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Obtains a Period representing a number of months.",
+            "Function": "ofMonths(int months)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Obtains a Period representing a number of weeks.",
+            "Function": "ofWeeks(int weeks)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Obtains a Period representing a number of years.",
+            "Function": "ofYears(int years)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Obtains a Period from a text string such as PnYnMnD.",
+            "Function": "parse(CharSequence text)",
+            "Modifier and Type": "static Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified period added.",
+            "Function": "plus(TemporalAmount amountToAdd)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified days added.",
+            "Function": "plusDays(long daysToAdd)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified months added.",
+            "Function": "plusMonths(long monthsToAdd)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified years added.",
+            "Function": "plusYears(long yearsToAdd)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Subtracts this period from the specified temporal object.",
+            "Function": "subtractFrom(Temporal temporal)",
+            "Modifier and Type": "Temporal"
+        },
+        {
+            "Comments": "Outputs this period as a String, such as P6Y3M1D.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the total number of months in this period.",
+            "Function": "toTotalMonths()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified amount of days.",
+            "Function": "withDays(int days)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified amount of months.",
+            "Function": "withMonths(int months)",
+            "Modifier and Type": "Period"
+        },
+        {
+            "Comments": "Returns a copy of this period with the specified amount of years.",
+            "Function": "withYears(int years)",
+            "Modifier and Type": "Period"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Creates an instance of PKIXCertPathValidatorResult containing the specified parameters.",
+            "Function": "clone()",
+            "Modifier and Type": "Object"
+        },
+        {
+            "Comments": "Returns a copy of this object.",
+            "Function": "getPolicyTree()",
+            "Modifier and Type": "PolicyNode"
+        },
+        {
+            "Comments": "Returns the root node of the valid policy tree resulting from the PKIX certification path validation algorithm.",
+            "Function": "getPublicKey()",
+            "Modifier and Type": "PublicKey"
+        },
+        {
+            "Comments": "Returns the public key of the subject (target) of the certification path, including any inherited public key parameters if applicable.",
+            "Function": "getTrustAnchor()",
+            "Modifier and Type": "TrustAnchor"
+        },
+        {
+            "Comments": "Returns the TrustAnchor describing the CA that served as a trust anchor for the certification path.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

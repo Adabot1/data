@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a CallerRunsPolicy.",
+            "Function": "rejectedExecution(Runnable r, ThreadPoolExecutor e)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

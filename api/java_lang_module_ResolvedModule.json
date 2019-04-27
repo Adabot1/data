@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the configuration that this resolved module is in.",
+            "Function": "configuration()",
+            "Modifier and Type": "Configuration"
+        },
+        {
+            "Comments": "Tests this resolved module for equality with the given object.",
+            "Function": "equals(Object ob)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Computes a hash code for this resolved module.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the module name.",
+            "Function": "name()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the set of resolved modules that this resolved module reads.",
+            "Function": "reads()",
+            "Modifier and Type": "Set<ResolvedModule>"
+        },
+        {
+            "Comments": "Returns the reference to the module's content.",
+            "Function": "reference()",
+            "Modifier and Type": "ModuleReference"
+        },
+        {
+            "Comments": "Returns a string describing this resolved module.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

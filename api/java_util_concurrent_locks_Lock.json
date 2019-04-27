@@ -1,0 +1,34 @@
+{
+    "API": [
+        {
+            "Comments": "Acquires the lock.",
+            "Function": "lock()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Acquires the lock unless the current thread is interrupted.",
+            "Function": "lockInterruptibly()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a new Condition instance that is bound to this Lock instance.",
+            "Function": "newCondition()",
+            "Modifier and Type": "Condition"
+        },
+        {
+            "Comments": "Acquires the lock only if it is free at the time of invocation.",
+            "Function": "tryLock()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Acquires the lock if it is free within the given waiting time and the current thread has not been interrupted.",
+            "Function": "tryLock(long time, TimeUnit unit)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Releases the lock.",
+            "Function": "unlock()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

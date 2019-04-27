@@ -1,0 +1,99 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor for X.509 CRLs.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Compares this CRL for equality with the given object.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the ASN.1 DER-encoded form of this CRL.",
+            "Function": "getIssuerDN()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Denigrated, replaced by getIssuerX500Principal().",
+            "Function": "getIssuerX500Principal()",
+            "Modifier and Type": "abstract Principal"
+        },
+        {
+            "Comments": "Returns the issuer (issuer distinguished name) value from the CRL as an X500Principal.",
+            "Function": "getNextUpdate()",
+            "Modifier and Type": "X500Principal"
+        },
+        {
+            "Comments": "Gets the nextUpdate date from the CRL.",
+            "Function": "getRevokedCertificate(BigInteger serialNumber)",
+            "Modifier and Type": "abstract Date"
+        },
+        {
+            "Comments": "Gets the CRL entry, if any, with the given certificate serialNumber.",
+            "Function": "getRevokedCertificate(X509Certificate certificate)",
+            "Modifier and Type": "abstract X509CRLEntry"
+        },
+        {
+            "Comments": "Get the CRL entry, if any, for the given certificate.",
+            "Function": "getRevokedCertificates()",
+            "Modifier and Type": "X509CRLEntry"
+        },
+        {
+            "Comments": "Gets all the entries from this CRL.",
+            "Function": "getSigAlgName()",
+            "Modifier and Type": "abstract Set<? extends X509CRLEntry>"
+        },
+        {
+            "Comments": "Gets the signature algorithm name for the CRL signature algorithm.",
+            "Function": "getSigAlgOID()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Gets the signature algorithm OID string from the CRL.",
+            "Function": "getSigAlgParams()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Gets the DER-encoded signature algorithm parameters from this CRL's signature algorithm.",
+            "Function": "getSignature()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets the signature value (the raw signature bits) from the CRL.",
+            "Function": "getTBSCertList()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets the DER-encoded CRL information, the tbsCertList from this CRL.",
+            "Function": "getThisUpdate()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets the thisUpdate date from the CRL.",
+            "Function": "getVersion()",
+            "Modifier and Type": "abstract Date"
+        },
+        {
+            "Comments": "Gets the version (version number) value from the CRL.",
+            "Function": "hashCode()",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Returns a hashcode value for this CRL from its encoded form.",
+            "Function": "verify(PublicKey key)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Verifies that this CRL was signed using the private key that corresponds to the given public key.",
+            "Function": "verify(PublicKey key,String sigProvider)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Verifies that this CRL was signed using the private key that corresponds to the given public key.",
+            "Function": "verify(PublicKey key,Provider sigProvider)",
+            "Modifier and Type": "abstract void"
+        }
+    ]
+}

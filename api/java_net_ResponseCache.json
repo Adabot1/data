@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Retrieve the cached response based on the requesting uri, request method and request headers.",
+            "Function": "get(URI uri, String rqstMethod, Map<String,List<String>> rqstHeaders)",
+            "Modifier and Type": "abstract CacheResponse"
+        },
+        {
+            "Comments": "Gets the system-wide response cache.",
+            "Function": "getDefault()",
+            "Modifier and Type": "static ResponseCache"
+        },
+        {
+            "Comments": "The protocol handler calls this method after a resource has been retrieved, and the ResponseCache must decide whether or not to store the resource in its cache.",
+            "Function": "put(URI uri, URLConnection conn)",
+            "Modifier and Type": "abstract CacheRequest"
+        },
+        {
+            "Comments": "Sets (or unsets) the system-wide cache.",
+            "Function": "setDefault(ResponseCache responseCache)",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

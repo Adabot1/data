@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Constructor: only used by the Java Virtual Machine.",
+            "Function": "canAccess(Object obj)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Test if the caller can access this reflected object.",
+            "Function": "getAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is present, else null.",
+            "Function": "getAnnotations()",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are present on this element.",
+            "Function": "getAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "Annotation[]"
+        },
+        {
+            "Comments": "Returns annotations that are associated with this element.",
+            "Function": "getDeclaredAnnotation(Class<T> annotationClass)",
+            "Modifier and Type": "<T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Returns this element's annotation for the specified type if such an annotation is directly present, else null.",
+            "Function": "getDeclaredAnnotations()",
+            "Modifier and Type": "<T extends Annotation>T"
+        },
+        {
+            "Comments": "Returns annotations that are directly present on this element.",
+            "Function": "getDeclaredAnnotationsByType(Class<T> annotationClass)",
+            "Modifier and Type": "Annotation[]"
+        },
+        {
+            "Comments": "Returns this element's annotation(s) for the specified type if such annotations are either directly present or indirectly present.",
+            "Function": "isAccessible()",
+            "Modifier and Type": "<T extends Annotation>T[]"
+        },
+        {
+            "Comments": "Deprecated.This method is deprecated because its name hints that it checks if the reflected object is accessible when it actually indicates if the checks for Java language access control are suppressed.",
+            "Function": "isAnnotationPresent(Class<? extends Annotation> annotationClass)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if an annotation for the specified type is present on this element, else false.",
+            "Function": "setAccessible(boolean flag)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Set the accessible flag for this reflected object to the indicated boolean value.",
+            "Function": "setAccessible(AccessibleObject[] array, boolean flag)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Convenience method to set the accessible flag for an array of reflected objects with a single security check (for efficiency).",
+            "Function": "trySetAccessible()",
+            "Modifier and Type": "static void"
+        }
+    ]
+}

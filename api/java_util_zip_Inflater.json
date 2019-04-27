@@ -1,0 +1,109 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new decompressor.",
+            "Function": "end()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new decompressor.",
+            "Function": "finalize()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Closes the decompressor and discards any unprocessed input.",
+            "Function": "finished()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.The finalize method has been deprecated and will be     removed.",
+            "Function": "getAdler()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if the end of the compressed data stream has been reached.",
+            "Function": "getBytesRead()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the ADLER-32 value of the uncompressed data.",
+            "Function": "getBytesWritten()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the total number of compressed bytes input so far.",
+            "Function": "getRemaining()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the total number of uncompressed bytes output so far.",
+            "Function": "getTotalIn()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the total number of bytes remaining in the input buffer.",
+            "Function": "getTotalOut()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the total number of compressed bytes input so far.",
+            "Function": "inflate(byte[] output)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the total number of uncompressed bytes output so far.",
+            "Function": "inflate(byte[] output, int off, int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Uncompresses bytes into specified buffer.",
+            "Function": "inflate(ByteBuffer output)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Uncompresses bytes into specified buffer.",
+            "Function": "needsDictionary()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Uncompresses bytes into specified buffer.",
+            "Function": "needsInput()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns true if a preset dictionary is needed for decompression.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns true if no data remains in the input buffer.",
+            "Function": "setDictionary(byte[] dictionary)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets inflater so that a new set of input data can be processed.",
+            "Function": "setDictionary(byte[] dictionary, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the preset dictionary to the given array of bytes.",
+            "Function": "setDictionary(ByteBuffer dictionary)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the preset dictionary to the given array of bytes.",
+            "Function": "setInput(byte[] input)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets the preset dictionary to the bytes in the given buffer.",
+            "Function": "setInput(byte[] input,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets input data for decompression.",
+            "Function": "setInput(ByteBuffer input)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

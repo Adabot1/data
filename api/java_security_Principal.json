@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Compares this principal to the specified object.",
+            "Function": "equals(Object another)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the name of this principal.",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a hashcode for this principal.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns true if the specified subject is implied by this principal.",
+            "Function": "implies(Subject subject)",
+            "Modifier and Type": "default boolean"
+        },
+        {
+            "Comments": "Returns a string representation of this principal.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

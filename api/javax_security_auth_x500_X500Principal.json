@@ -1,0 +1,54 @@
+{
+    "API": [
+        {
+            "Comments": "Canonical String format of Distinguished Names.",
+            "Function": "CANONICAL",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "RFC 1779 String format of Distinguished Names.",
+            "Function": "RFC1779",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "RFC 2253 String format of Distinguished Names.",
+            "Function": "RFC2253",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Creates an X500Principal from a distinguished name in ASN.1 DER encoded form.",
+            "Function": "equals(Object o)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Creates an X500Principal from an InputStream containing the distinguished name in ASN.1 DER encoded form.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Creates an X500Principal from a string representation of an X.500 distinguished name (ex: \"CN=Duke, OU=JavaSoft, O=Sun Microsystems, C=US\").",
+            "Function": "getName()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Creates an X500Principal from a string representation of an X.500 distinguished name (ex: \"CN=Duke, OU=JavaSoft, O=Sun Microsystems, C=US\").",
+            "Function": "getName(String format)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Compares the specified Object with this X500Principal for equality.",
+            "Function": "getName(String format, Map<String,String> oidMap)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the distinguished name in ASN.1 DER encoded form.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string representation of the X.500 distinguished name using the format defined in RFC 2253.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

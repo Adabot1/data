@@ -1,0 +1,179 @@
+{
+    "API": [
+        {
+            "Comments": "Compression level for best compression.",
+            "Function": "BEST_COMPRESSION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression level for fastest compression.",
+            "Function": "BEST_SPEED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Default compression level.",
+            "Function": "DEFAULT_COMPRESSION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Default compression strategy.",
+            "Function": "DEFAULT_STRATEGY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression method for the deflate algorithm (the only one currently supported).",
+            "Function": "DEFLATED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression strategy best used for data consisting mostly of small values with a somewhat random distribution.",
+            "Function": "FILTERED",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression flush mode used to flush out all pending output and reset the deflater.",
+            "Function": "FULL_FLUSH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression strategy for Huffman coding only.",
+            "Function": "HUFFMAN_ONLY",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression level for no compression.",
+            "Function": "NO_COMPRESSION",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression flush mode used to achieve best compression result.",
+            "Function": "NO_FLUSH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Compression flush mode used to flush out all pending output; may degrade compression for some compression algorithms.",
+            "Function": "SYNC_FLUSH",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "Creates a new compressor with the default compression level.",
+            "Function": "deflate(byte[] output)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new compressor using the specified compression level.",
+            "Function": "deflate(byte[] output, int off, int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Creates a new compressor using the specified compression level.",
+            "Function": "deflate(byte[] output, int off, int len, int flush)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compresses the input data and fills specified buffer with compressed data.",
+            "Function": "deflate(ByteBuffer output)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compresses the input data and fills specified buffer with compressed data.",
+            "Function": "deflate(ByteBuffer output, int flush)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Compresses the input data and fills the specified buffer with compressed data.",
+            "Function": "end()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Compresses the input data and fills specified buffer with compressed data.",
+            "Function": "finalize()",
+            "Modifier and Type": "protected void"
+        },
+        {
+            "Comments": "Compresses the input data and fills the specified buffer with compressed data.",
+            "Function": "finish()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes the compressor and discards any unprocessed input.",
+            "Function": "finished()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.The finalize method has been deprecated and will be     removed.",
+            "Function": "getAdler()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "When called, indicates that compression should end with the current contents of the input buffer.",
+            "Function": "getBytesRead()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns true if the end of the compressed data output stream has been reached.",
+            "Function": "getBytesWritten()",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "Returns the ADLER-32 value of the uncompressed data.",
+            "Function": "getTotalIn()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the total number of uncompressed bytes input so far.",
+            "Function": "getTotalOut()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the total number of compressed bytes output so far.",
+            "Function": "needsInput()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the total number of uncompressed bytes input so far.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the total number of compressed bytes output so far.",
+            "Function": "setDictionary(byte[] dictionary)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns true if no data remains in the input buffer.",
+            "Function": "setDictionary(byte[] dictionary, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets deflater so that a new set of input data can be processed.",
+            "Function": "setDictionary(ByteBuffer dictionary)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets preset dictionary for compression.",
+            "Function": "setInput(byte[] input)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets preset dictionary for compression.",
+            "Function": "setInput(byte[] input,int off,int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets preset dictionary for compression.",
+            "Function": "setInput(ByteBuffer input)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets input data for compression.",
+            "Function": "setLevel(int level)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Sets input data for compression.",
+            "Function": "setStrategy(int strategy)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

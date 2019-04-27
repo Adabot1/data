@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Cancels the registration with the watch service.",
+            "Function": "cancel()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Tells whether or not this watch key is valid.",
+            "Function": "isValid()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Retrieves and removes all pending events for this watch key, returning a List of the events that were retrieved.",
+            "Function": "pollEvents()",
+            "Modifier and Type": "List<WatchEvent<?>>"
+        },
+        {
+            "Comments": "Resets this watch key.",
+            "Function": "reset()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the object for which this watch key was created.",
+            "Function": "watchable()",
+            "Modifier and Type": "Watchable"
+        }
+    ]
+}

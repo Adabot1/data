@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "The aligned day-of-week within a month.",
+            "Function": "checkValidIntValue(long value)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "The aligned day-of-week within a year.",
+            "Function": "checkValidValue(long value)",
+            "Modifier and Type": "long"
+        },
+        {
+            "Comments": "The aligned week within a month.",
+            "Function": "isDateBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "The aligned week within a year.",
+            "Function": "isTimeBased()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "The am-pm-of-day.",
+            "Function": "range()",
+            "Modifier and Type": "ValueRange"
+        },
+        {
+            "Comments": "The clock-hour-of-am-pm.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static ChronoField"
+        },
+        {
+            "Comments": "The clock-hour-of-day.",
+            "Function": "values()",
+            "Modifier and Type": "static ChronoField[]"
+        }
+    ]
+}

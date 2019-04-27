@@ -1,0 +1,24 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the annotation type of this annotation.",
+            "Function": "annotationType()",
+            "Modifier and Type": "Class<? extends Annotation>"
+        },
+        {
+            "Comments": "Returns true if the specified object represents an annotation that is logically equivalent to this one.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the hash code of this annotation, as defined below:",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string representation of this annotation.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

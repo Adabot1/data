@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "A map of zone overrides to enable the short time-zone names to be used.",
+            "Function": "SHORT_IDS",
+            "Modifier and Type": "static Map<String,​String>"
+        },
+        {
+            "Comments": "Checks if this time-zone ID is equal to another time-zone ID.",
+            "Function": "equals(Object obj)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Obtains an instance of ZoneId from a temporal object.",
+            "Function": "from(TemporalAccessor temporal)",
+            "Modifier and Type": "static ZoneId"
+        },
+        {
+            "Comments": "Gets the set of available zone IDs.",
+            "Function": "getAvailableZoneIds()",
+            "Modifier and Type": "static Set<String>"
+        },
+        {
+            "Comments": "Gets the textual representation of the zone, such as 'British Time' or '+02:00'.",
+            "Function": "getDisplayName(TextStyle style,Locale locale)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Gets the unique time-zone ID.",
+            "Function": "getId()",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Gets the time-zone rules for this ID allowing calculations to be performed.",
+            "Function": "getRules()",
+            "Modifier and Type": "abstract ZoneRules"
+        },
+        {
+            "Comments": "A hash code for this time-zone ID.",
+            "Function": "hashCode()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Normalizes the time-zone ID, returning a ZoneOffset where possible.",
+            "Function": "normalized()",
+            "Modifier and Type": "ZoneId"
+        },
+        {
+            "Comments": "Obtains an instance of ZoneId from an ID ensuring that the ID is valid and available for use.",
+            "Function": "of(String zoneId)",
+            "Modifier and Type": "static ZoneId"
+        },
+        {
+            "Comments": "Obtains an instance of ZoneId using its ID using a map of aliases to supplement the standard zone IDs.",
+            "Function": "of(String zoneId,Map<String,String> aliasMap)",
+            "Modifier and Type": "static ZoneId"
+        },
+        {
+            "Comments": "Obtains an instance of ZoneId wrapping an offset.",
+            "Function": "ofOffset(String prefix,ZoneOffset offset)",
+            "Modifier and Type": "static ZoneId"
+        },
+        {
+            "Comments": "Gets the system default time-zone.",
+            "Function": "systemDefault()",
+            "Modifier and Type": "static ZoneId"
+        },
+        {
+            "Comments": "Outputs this zone as a String, using the ID.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        }
+    ]
+}

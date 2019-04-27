@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new instance of LoggerFinder.",
+            "Function": "getLocalizedLogger(String name,ResourceBundle bundle,Module module)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a localizable instance of Logger for the given module.",
+            "Function": "getLogger(String name, Module module)",
+            "Modifier and Type": "System.Logger"
+        },
+        {
+            "Comments": "Returns an instance of Logger for the given module.",
+            "Function": "getLoggerFinder()",
+            "Modifier and Type": "abstract System.Logger"
+        }
+    ]
+}

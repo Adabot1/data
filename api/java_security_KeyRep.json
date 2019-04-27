@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Key type.",
+            "Function": "KeyRep.Type",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Construct the alternate Key class.",
+            "Function": "readResolve()",
+            "Modifier and Type": "protected Object"
+        }
+    ]
+}

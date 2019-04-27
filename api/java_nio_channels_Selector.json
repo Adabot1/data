@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "Initializes a new instance of this class.",
+            "Function": "close()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Closes this selector.",
+            "Function": "isOpen()",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Tells whether or not this selector is open.",
+            "Function": "keys()",
+            "Modifier and Type": "abstract boolean"
+        },
+        {
+            "Comments": "Returns this selector's key set.",
+            "Function": "open()",
+            "Modifier and Type": "abstract Set<SelectionKey>"
+        },
+        {
+            "Comments": "Opens a selector.",
+            "Function": "provider()",
+            "Modifier and Type": "static Selector"
+        },
+        {
+            "Comments": "Returns the provider that created this channel.",
+            "Function": "select()",
+            "Modifier and Type": "abstract SelectorProvider"
+        },
+        {
+            "Comments": "Selects a set of keys whose corresponding channels are ready for I/O operations.",
+            "Function": "select(long timeout)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Selects a set of keys whose corresponding channels are ready for I/O operations.",
+            "Function": "select(Consumer<SelectionKey> action)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Selects and performs an action on the keys whose corresponding channels are ready for I/O operations.",
+            "Function": "select(Consumer<SelectionKey> action,long timeout)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Selects and performs an action on the keys whose corresponding channels are ready for I/O operations.",
+            "Function": "selectedKeys()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns this selector's selected-key set.",
+            "Function": "selectNow()",
+            "Modifier and Type": "abstract Set<SelectionKey>"
+        },
+        {
+            "Comments": "Selects a set of keys whose corresponding channels are ready for I/O operations.",
+            "Function": "selectNow(Consumer<SelectionKey> action)",
+            "Modifier and Type": "abstract int"
+        },
+        {
+            "Comments": "Selects and performs an action on the keys whose corresponding channels are ready for I/O operations.",
+            "Function": "wakeup()",
+            "Modifier and Type": "int"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "The type fingerprint that is set to indicate serialization compatibility with a previous version of the type.",
+            "Function": "serialVersionUID",
+            "Modifier and Type": "static long"
+        },
+        {
+            "Comments": "Returns the public exponent.",
+            "Function": "getPublicExponent()",
+            "Modifier and Type": "BigInteger"
+        }
+    ]
+}

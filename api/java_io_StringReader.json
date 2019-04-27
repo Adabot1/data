@@ -1,0 +1,44 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a new string reader.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Closes the stream and releases any system resources associated with it.",
+            "Function": "mark(int readAheadLimit)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Marks the present position in the stream.",
+            "Function": "markSupported()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether this stream supports the mark() operation, which it does.",
+            "Function": "read()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads a single character.",
+            "Function": "read(char[] cbuf,int off,int len)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Reads characters into a portion of an array.",
+            "Function": "ready()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether this stream is ready to be read.",
+            "Function": "reset()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets the stream to the most recent mark, or to the beginning of the string if it has never been marked.",
+            "Function": "skip(long ns)",
+            "Modifier and Type": "long"
+        }
+    ]
+}

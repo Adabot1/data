@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "The internal buffer where data is stored.",
+            "Function": "buf",
+            "Modifier and Type": "protected byte[]"
+        },
+        {
+            "Comments": "The number of valid bytes in the buffer.",
+            "Function": "count",
+            "Modifier and Type": "protected int"
+        },
+        {
+            "Comments": "Creates a new buffered output stream to write data to the specified underlying output stream.",
+            "Function": "flush()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Creates a new buffered output stream to write data to the specified underlying output stream with the specified buffer size.",
+            "Function": "write(byte[] b, int off, int len)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Flushes this buffered output stream.",
+            "Function": "write(int b)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

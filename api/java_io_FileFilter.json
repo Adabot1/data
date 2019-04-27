@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Tests whether or not the specified abstract pathname should be included in a pathname list.",
+            "Function": "accept(File pathname)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

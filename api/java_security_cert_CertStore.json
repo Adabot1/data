@@ -1,0 +1,49 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a CertStore object of the given type, and encapsulates the given provider implementation (SPI object) in it.",
+            "Function": "getCertificates(CertSelector selector)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Returns a Collection of Certificates that match the specified selector.",
+            "Function": "getCertStoreParameters()",
+            "Modifier and Type": "Collection<? extends Certificate>"
+        },
+        {
+            "Comments": "Returns the parameters used to initialize this CertStore.",
+            "Function": "getCRLs(CRLSelector selector)",
+            "Modifier and Type": "CertStoreParameters"
+        },
+        {
+            "Comments": "Returns a Collection of CRLs that match the specified selector.",
+            "Function": "getDefaultType()",
+            "Modifier and Type": "Collection<? extends CRL>"
+        },
+        {
+            "Comments": "Returns the default CertStore type as specified by the certstore.type security property, or the string \"LDAP\" if no such property exists.",
+            "Function": "getInstance(String type, CertStoreParameters params)",
+            "Modifier and Type": "static String"
+        },
+        {
+            "Comments": "Returns a CertStore object that implements the specified CertStore type and is initialized with the specified parameters.",
+            "Function": "getInstance(String type, CertStoreParameters params, String provider)",
+            "Modifier and Type": "static CertStore"
+        },
+        {
+            "Comments": "Returns a CertStore object that implements the specified CertStore type.",
+            "Function": "getInstance(String type, CertStoreParameters params, Provider provider)",
+            "Modifier and Type": "static CertStore"
+        },
+        {
+            "Comments": "Returns a CertStore object that implements the specified CertStore type.",
+            "Function": "getProvider()",
+            "Modifier and Type": "static CertStore"
+        },
+        {
+            "Comments": "Returns the provider of this CertStore.",
+            "Function": "getType()",
+            "Modifier and Type": "Provider"
+        }
+    ]
+}

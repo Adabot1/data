@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Returns the algorithm parameters associated with the key.",
+            "Function": "getParams()",
+            "Modifier and Type": "AlgorithmParameterSpec"
+        }
+    ]
+}

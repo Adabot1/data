@@ -1,0 +1,119 @@
+{
+    "API": [
+        {
+            "Comments": "If the current token is a number, this field contains the value of that number.",
+            "Function": "nval",
+            "Modifier and Type": "double"
+        },
+        {
+            "Comments": "If the current token is a word token, this field contains a string giving the characters of the word token.",
+            "Function": "sval",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "A constant indicating that the end of the stream has been read.",
+            "Function": "TT_EOF",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A constant indicating that the end of the line has been read.",
+            "Function": "TT_EOL",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A constant indicating that a number token has been read.",
+            "Function": "TT_NUMBER",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "A constant indicating that a word token has been read.",
+            "Function": "TT_WORD",
+            "Modifier and Type": "static int"
+        },
+        {
+            "Comments": "After a call to the nextToken method, this field contains the type of the token just read.",
+            "Function": "ttype",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Deprecated.As of JDK version 1.1, the preferred way to tokenize an input stream is to convert it into a character stream, for example: ",
+            "Function": "commentChar(int ch)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Create a tokenizer that parses the given character stream.",
+            "Function": "eolIsSignificant(boolean flag)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specified that the character argument starts a single-line comment.",
+            "Function": "lineno()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Determines whether or not ends of line are treated as tokens.",
+            "Function": "lowerCaseMode(boolean fl)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Return the current line number.",
+            "Function": "nextToken()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Determines whether or not word token are automatically lowercased.",
+            "Function": "ordinaryChar(int ch)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Parses the next token from the input stream of this tokenizer.",
+            "Function": "ordinaryChars(int low, int hi)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies that the character argument is \"ordinary\" in this tokenizer.",
+            "Function": "parseNumbers()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies that all characters c in the range low <= c <= high are \"ordinary\" in this tokenizer.",
+            "Function": "pushBack()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies that numbers should be parsed by this tokenizer.",
+            "Function": "quoteChar(int ch)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Causes the next call to the nextToken method of this tokenizer to return the current value in the ttype field, and not to modify the value in the nval or sval field.",
+            "Function": "resetSyntax()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Specifies that matching pairs of this character delimit string constants in this tokenizer.",
+            "Function": "slashSlashComments(boolean flag)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Resets this tokenizer's syntax table so that all characters are \"ordinary.\"",
+            "Function": "slashStarComments(boolean flag)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Determines whether or not the tokenizer recognizes C++-style comments.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Determines whether or not the tokenizer recognizes C-style comments.",
+            "Function": "whitespaceChars(int low, int hi)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns the string representation of the current stream token and the line number it occurs on.",
+            "Function": "wordChars(int low, int hi)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

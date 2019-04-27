@@ -1,0 +1,74 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a Calendar.Builder.",
+            "Function": "build()",
+            "Modifier and Type": "Calendar"
+        },
+        {
+            "Comments": "Returns a Calendar built from the parameters set by the setter methods.",
+            "Function": "set(int field, int value)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the field parameter to the given value.",
+            "Function": "setCalendarType(String type)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the calendar type parameter to the given type.",
+            "Function": "setDate(int year, int month, int dayOfMonth)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the date field parameters to the values given by year, month, and dayOfMonth.",
+            "Function": "setFields(int... fieldValuePairs)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets field parameters to their values given by fieldValuePairs that are pairs of a field and its value.",
+            "Function": "setInstant(long instant)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the instant parameter to the given instant value that is a millisecond offset from the Epoch.",
+            "Function": "setInstant(Date instant)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the instant parameter to the instant value given by a Date.",
+            "Function": "setLenient(boolean lenient)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the lenient mode parameter to the value given by lenient.",
+            "Function": "setLocale(Locale locale)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the locale parameter to the given locale.",
+            "Function": "setTimeOfDay(int hourOfDay,int minute,int second)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the time of day field parameters to the values given by hourOfDay, minute, and second.",
+            "Function": "setTimeOfDay(int hourOfDay,int minute,int second,int millis)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the time of day field parameters to the values given by hourOfDay, minute, second, and millis.",
+            "Function": "setTimeZone(TimeZone zone)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the time zone parameter to the given zone.",
+            "Function": "setWeekDate(int weekYear, int weekOfYear, int dayOfWeek)",
+            "Modifier and Type": "Calendar.Builder"
+        },
+        {
+            "Comments": "Sets the week-based date parameters to the values with the given date specifiers - week year, week of year, and day of week.",
+            "Function": "setWeekDefinition(int firstDayOfWeek, int minimalDaysInFirstWeek)",
+            "Modifier and Type": "Calendar.Builder"
+        }
+    ]
+}

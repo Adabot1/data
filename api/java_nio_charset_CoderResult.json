@@ -1,0 +1,64 @@
+{
+    "API": [
+        {
+            "Comments": "Result object indicating overflow, meaning that there is insufficient room in the output buffer.",
+            "Function": "OVERFLOW",
+            "Modifier and Type": "static CoderResult"
+        },
+        {
+            "Comments": "Result object indicating underflow, meaning that either the input buffer has been completely consumed or, if the input buffer is not yet empty, that additional input is required.",
+            "Function": "UNDERFLOW",
+            "Modifier and Type": "static CoderResult"
+        },
+        {
+            "Comments": "Tells whether or not this object describes an error condition.",
+            "Function": "isError()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this object describes a malformed-input error.",
+            "Function": "isMalformed()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this object describes an overflow condition.",
+            "Function": "isOverflow()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this object describes an underflow condition.",
+            "Function": "isUnderflow()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Tells whether or not this object describes an unmappable-character error.",
+            "Function": "isUnmappable()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the length of the erroneous input described by this object  (optional operation).",
+            "Function": "length()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Static factory method that returns the unique object describing a malformed-input error of the given length.",
+            "Function": "malformedForLength(int length)",
+            "Modifier and Type": "static CoderResult"
+        },
+        {
+            "Comments": "Throws an exception appropriate to the result described by this object.",
+            "Function": "throwException()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Returns a string describing this coder result.",
+            "Function": "toString()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Static factory method that returns the unique result object describing an unmappable-character error of the given length.",
+            "Function": "unmappableForLength(int length)",
+            "Modifier and Type": "static CoderResult"
+        }
+    ]
+}

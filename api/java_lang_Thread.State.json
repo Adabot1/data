@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "Thread state for a thread blocked waiting for a monitor lock.",
+            "Function": "valueOf(String name)",
+            "Modifier and Type": "static Thread.State"
+        },
+        {
+            "Comments": "Thread state for a thread which has not yet started.",
+            "Function": "values()",
+            "Modifier and Type": "static Thread.State[]"
+        }
+    ]
+}

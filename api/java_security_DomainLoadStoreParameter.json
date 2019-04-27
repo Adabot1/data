@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a DomainLoadStoreParameter for a keystore domain with the parameters used to protect keystore data.",
+            "Function": "getConfiguration()",
+            "Modifier and Type": "URI"
+        },
+        {
+            "Comments": "Gets the identifier for the domain configuration data.",
+            "Function": "getProtectionParameter()",
+            "Modifier and Type": "KeyStore.ProtectionParameter"
+        },
+        {
+            "Comments": "Gets the keystore protection parameters for this domain.",
+            "Function": "getProtectionParams()",
+            "Modifier and Type": "Map<String,​KeyStore.ProtectionParameter>"
+        }
+    ]
+}

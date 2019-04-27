@@ -1,0 +1,14 @@
+{
+    "API": [
+        {
+            "Comments": "This is called to notify the listener that it is being bound into an SSLSession.",
+            "Function": "valueBound(SSLSessionBindingEvent event)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "This is called to notify the listener that it is being unbound from a SSLSession.",
+            "Function": "valueUnbound(SSLSessionBindingEvent event)",
+            "Modifier and Type": "void"
+        }
+    ]
+}

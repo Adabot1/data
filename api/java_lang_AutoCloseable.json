@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Closes this resource, relinquishing any underlying resources.",
+            "Function": "close()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

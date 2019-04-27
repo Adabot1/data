@@ -1,0 +1,19 @@
+{
+    "API": [
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "addOwner(Principal caller,Principal owner)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Adds an owner.",
+            "Function": "deleteOwner(Principal caller, Principal owner)",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Deprecated, for removal: This API element is subject to removal in a future version.",
+            "Function": "isOwner(Principal owner)",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "API": [
+        {
+            "Comments": "Constructs a URIParameter with the URI pointing to data intended for an SPI implementation.",
+            "Function": "getURI()",
+            "Modifier and Type": "URI"
+        }
+    ]
+}

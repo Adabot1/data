@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "Returns a RunnableFuture for the given runnable and default value.",
+            "Function": "newTaskFor(Runnable runnable,T value)",
+            "Modifier and Type": "protected <T> RunnableFuture<T>"
+        },
+        {
+            "Comments": "Returns a RunnableFuture for the given callable task.",
+            "Function": "newTaskFor(Callable<T> callable)",
+            "Modifier and Type": "protected <T> RunnableFuture<T>"
+        },
+        {
+            "Comments": "Submits a Runnable task for execution and returns a Future representing that task.",
+            "Function": "submit(Runnable task)",
+            "Modifier and Type": "Future<?>"
+        },
+        {
+            "Comments": "Submits a Runnable task for execution and returns a Future representing that task.",
+            "Function": "submit(Runnable task,T result)",
+            "Modifier and Type": "<T> Future<T>"
+        },
+        {
+            "Comments": "Submits a value-returning task for execution and returns a Future representing the pending results of the task.",
+            "Function": "submit(Callable<T> task)",
+            "Modifier and Type": "<T> Future<T>"
+        }
+    ]
+}

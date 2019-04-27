@@ -1,0 +1,59 @@
+{
+    "API": [
+        {
+            "Comments": "Alternate Certificate class for serialization.",
+            "Function": "Certificate.CertificateRep",
+            "Modifier and Type": "protected static class "
+        },
+        {
+            "Comments": "Creates a certificate of the specified type.",
+            "Function": "equals(Object other)",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Compares this certificate for equality with the specified object.",
+            "Function": "getEncoded()",
+            "Modifier and Type": "boolean"
+        },
+        {
+            "Comments": "Returns the encoded form of this certificate.",
+            "Function": "getPublicKey()",
+            "Modifier and Type": "abstract byte[]"
+        },
+        {
+            "Comments": "Gets the public key from this certificate.",
+            "Function": "getType()",
+            "Modifier and Type": "abstract PublicKey"
+        },
+        {
+            "Comments": "Returns the type of this certificate.",
+            "Function": "hashCode()",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns a hashcode value for this certificate from its encoded form.",
+            "Function": "toString()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns a string representation of this certificate.",
+            "Function": "verify(PublicKey key)",
+            "Modifier and Type": "abstract String"
+        },
+        {
+            "Comments": "Verifies that this certificate was signed using the private key that corresponds to the specified public key.",
+            "Function": "verify(PublicKey key,String sigProvider)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Verifies that this certificate was signed using the private key that corresponds to the specified public key.",
+            "Function": "verify(PublicKey key,Provider sigProvider)",
+            "Modifier and Type": "abstract void"
+        },
+        {
+            "Comments": "Verifies that this certificate was signed using the private key that corresponds to the specified public key.",
+            "Function": "writeReplace()",
+            "Modifier and Type": "void"
+        }
+    ]
+}

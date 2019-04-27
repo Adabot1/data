@@ -1,0 +1,29 @@
+{
+    "API": [
+        {
+            "Comments": "A handle to the standard error stream.",
+            "Function": "err",
+            "Modifier and Type": "static FileDescriptor"
+        },
+        {
+            "Comments": "A handle to the standard input stream.",
+            "Function": "in",
+            "Modifier and Type": "static FileDescriptor"
+        },
+        {
+            "Comments": "A handle to the standard output stream.",
+            "Function": "out",
+            "Modifier and Type": "static FileDescriptor"
+        },
+        {
+            "Comments": "Constructs an (invalid) FileDescriptor object.",
+            "Function": "sync()",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Force all system buffers to synchronize with the underlying device.",
+            "Function": "valid()",
+            "Modifier and Type": "boolean"
+        }
+    ]
+}

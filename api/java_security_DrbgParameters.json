@@ -1,0 +1,39 @@
+{
+    "API": [
+        {
+            "Comments": "The reseedable and prediction resistance capabilities of a DRBG.",
+            "Function": "DrbgParameters.Capability",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "DRBG parameters for instantiation.",
+            "Function": "DrbgParameters.Instantiation",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "DRBG parameters for random bits generation.",
+            "Function": "DrbgParameters.NextBytes",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "DRBG parameters for reseed.",
+            "Function": "DrbgParameters.Reseed",
+            "Modifier and Type": "static class "
+        },
+        {
+            "Comments": "Generates a DrbgParameters.Instantiation object.",
+            "Function": "instantiation(int strength, DrbgParameters.Capability capability, byte[] personalizationString)",
+            "Modifier and Type": "static DrbgParameters.Instantiation"
+        },
+        {
+            "Comments": "Generates a DrbgParameters.NextBytes object.",
+            "Function": "nextBytes(int strength, boolean predictionResistance, byte[] additionalInput)",
+            "Modifier and Type": "static DrbgParameters.NextBytes"
+        },
+        {
+            "Comments": "Generates a DrbgParameters.Reseed object.",
+            "Function": "reseed(boolean predictionResistance,byte[] additionalInput)",
+            "Modifier and Type": "static DrbgParameters.Reseed"
+        }
+    ]
+}

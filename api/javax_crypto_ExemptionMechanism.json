@@ -1,0 +1,69 @@
+{
+    "API": [
+        {
+            "Comments": "Creates a ExemptionMechanism object.",
+            "Function": "genExemptionBlob()",
+            "Modifier and Type": "protected "
+        },
+        {
+            "Comments": "Generates the exemption mechanism key blob.",
+            "Function": "genExemptionBlob(byte[] output)",
+            "Modifier and Type": "byte[]"
+        },
+        {
+            "Comments": "Generates the exemption mechanism key blob, and stores the result in the output buffer.",
+            "Function": "genExemptionBlob(byte[] output,int outputOffset)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Generates the exemption mechanism key blob, and stores the result in the output buffer, starting at outputOffset inclusive.",
+            "Function": "getInstance(String algorithm)",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns an ExemptionMechanism object that implements the specified exemption mechanism algorithm.",
+            "Function": "getInstance(String algorithm, String provider)",
+            "Modifier and Type": "static ExemptionMechanism"
+        },
+        {
+            "Comments": "Returns an ExemptionMechanism object that implements the specified exemption mechanism algorithm.",
+            "Function": "getInstance(String algorithm, Provider provider)",
+            "Modifier and Type": "static ExemptionMechanism"
+        },
+        {
+            "Comments": "Returns an ExemptionMechanism object that implements the specified exemption mechanism algorithm.",
+            "Function": "getName()",
+            "Modifier and Type": "static ExemptionMechanism"
+        },
+        {
+            "Comments": "Returns the exemption mechanism name of this ExemptionMechanism object.",
+            "Function": "getOutputSize(int inputLen)",
+            "Modifier and Type": "String"
+        },
+        {
+            "Comments": "Returns the length in bytes that an output buffer would need to be in order to hold the result of the next genExemptionBlob operation, given the input length inputLen (in bytes).",
+            "Function": "getProvider()",
+            "Modifier and Type": "int"
+        },
+        {
+            "Comments": "Returns the provider of this ExemptionMechanism object.",
+            "Function": "init(Key key)",
+            "Modifier and Type": "Provider"
+        },
+        {
+            "Comments": "Initializes this exemption mechanism with a key.",
+            "Function": "init(Key key,AlgorithmParameters params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this exemption mechanism with a key and a set of algorithm parameters.",
+            "Function": "init(Key key,AlgorithmParameterSpec params)",
+            "Modifier and Type": "void"
+        },
+        {
+            "Comments": "Initializes this exemption mechanism with a key and a set of algorithm parameters.",
+            "Function": "isCryptoAllowed(Key key)",
+            "Modifier and Type": "void"
+        }
+    ]
+}
