@@ -1,0 +1,1 @@
+[{"class": "java.security.acl.Group", "function": "members", "parameters": []}, {"class": "java.security.acl.Group", "function": "toString", "parameters": []}, {"class": "java.security.acl.Group", "function": "hashCode", "parameters": []}, {"class": "java.security.acl.Group", "function": "getName", "parameters": []}]

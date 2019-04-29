@@ -1,0 +1,1 @@
+[{"class": "java.util.concurrent.locks.Condition", "function": "signal", "parameters": []}, {"class": "java.util.concurrent.locks.Condition", "function": "awaitUninterruptibly", "parameters": []}, {"class": "java.util.concurrent.locks.Condition", "function": "signalAll", "parameters": []}, {"class": "java.util.concurrent.locks.Condition", "function": "await", "parameters": []}]

@@ -1,0 +1,1 @@
+[{"class": "java.net.CookieStore", "function": "getCookies", "parameters": []}, {"class": "java.net.CookieStore", "function": "getURIs", "parameters": []}, {"class": "java.net.CookieStore", "function": "removeAll", "parameters": []}]

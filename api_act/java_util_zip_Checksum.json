@@ -1,0 +1,1 @@
+[{"class": "java.util.zip.Checksum", "function": "update", "parameters": ["int"]}, {"class": "java.util.zip.Checksum", "function": "getValue", "parameters": []}, {"class": "java.util.zip.Checksum", "function": "reset", "parameters": []}]

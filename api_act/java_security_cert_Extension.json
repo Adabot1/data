@@ -1,0 +1,1 @@
+[{"class": "java.security.cert.Extension", "function": "isCritical", "parameters": []}, {"class": "java.security.cert.Extension", "function": "getValue", "parameters": []}, {"class": "java.security.cert.Extension", "function": "getId", "parameters": []}]

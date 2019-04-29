@@ -1,0 +1,1 @@
+[{"class": "java.nio.channels.WritableByteChannel", "function": "isOpen", "parameters": []}, {"class": "java.nio.channels.WritableByteChannel", "function": "close", "parameters": []}]

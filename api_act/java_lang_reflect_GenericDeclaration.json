@@ -1,0 +1,1 @@
+[{"class": "java.lang.reflect.GenericDeclaration", "function": "getTypeParameters", "parameters": []}, {"class": "java.lang.reflect.GenericDeclaration", "function": "getAnnotations", "parameters": []}, {"class": "java.lang.reflect.GenericDeclaration", "function": "getDeclaredAnnotations", "parameters": []}]

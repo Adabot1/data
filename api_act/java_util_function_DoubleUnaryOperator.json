@@ -1,0 +1,1 @@
+[{"class": "java.util.function.DoubleUnaryOperator", "function": "identity", "parameters": []}, {"class": "java.util.function.DoubleUnaryOperator", "function": "applyAsDouble", "parameters": ["double"]}]

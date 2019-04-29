@@ -1,0 +1,1 @@
+[{"class": "java.security.acl.Acl", "function": "toString", "parameters": []}, {"class": "java.security.acl.Acl", "function": "getName", "parameters": []}, {"class": "java.security.acl.Acl", "function": "entries", "parameters": []}]

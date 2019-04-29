@@ -1,0 +1,1 @@
+[{"class": "java.security.cert.X509Extension", "function": "getCriticalExtensionOIDs", "parameters": []}, {"class": "java.security.cert.X509Extension", "function": "hasUnsupportedCriticalExtension", "parameters": []}, {"class": "java.security.cert.X509Extension", "function": "getNonCriticalExtensionOIDs", "parameters": []}]

@@ -1,0 +1,1 @@
+[{"class": "java.nio.file.attribute.GroupPrincipal", "function": "toString", "parameters": []}, {"class": "java.nio.file.attribute.GroupPrincipal", "function": "hashCode", "parameters": []}, {"class": "java.nio.file.attribute.GroupPrincipal", "function": "getName", "parameters": []}]

@@ -1,0 +1,1 @@
+[{"class": "java.nio.file.attribute.AclFileAttributeView", "function": "getAcl", "parameters": []}, {"class": "java.nio.file.attribute.AclFileAttributeView", "function": "name", "parameters": []}, {"class": "java.nio.file.attribute.AclFileAttributeView", "function": "getOwner", "parameters": []}]

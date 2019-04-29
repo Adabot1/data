@@ -1,0 +1,1 @@
+[{"class": "java.security.cert.CertPathChecker", "function": "isForwardCheckingSupported", "parameters": []}, {"class": "java.security.cert.CertPathChecker", "function": "init", "parameters": ["boolean"]}]

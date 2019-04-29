@@ -1,0 +1,1 @@
+[{"class": "javax.security.auth.spi.LoginModule", "function": "commit", "parameters": []}, {"class": "javax.security.auth.spi.LoginModule", "function": "login", "parameters": []}, {"class": "javax.security.auth.spi.LoginModule", "function": "logout", "parameters": []}, {"class": "javax.security.auth.spi.LoginModule", "function": "abort", "parameters": []}]

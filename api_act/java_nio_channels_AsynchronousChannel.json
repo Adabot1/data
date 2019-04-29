@@ -1,0 +1,1 @@
+[{"class": "java.nio.channels.AsynchronousChannel", "function": "close", "parameters": []}, {"class": "java.nio.channels.AsynchronousChannel", "function": "isOpen", "parameters": []}]

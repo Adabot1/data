@@ -1,0 +1,1 @@
+[{"class": "javax.security.auth.Destroyable", "function": "isDestroyed", "parameters": []}, {"class": "javax.security.auth.Destroyable", "function": "destroy", "parameters": []}]

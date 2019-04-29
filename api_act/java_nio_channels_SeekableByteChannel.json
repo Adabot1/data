@@ -1,0 +1,1 @@
+[{"class": "java.nio.channels.SeekableByteChannel", "function": "size", "parameters": []}, {"class": "java.nio.channels.SeekableByteChannel", "function": "position", "parameters": []}, {"class": "java.nio.channels.SeekableByteChannel", "function": "isOpen", "parameters": []}, {"class": "java.nio.channels.SeekableByteChannel", "function": "close", "parameters": []}]

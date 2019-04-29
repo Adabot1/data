@@ -1,0 +1,1 @@
+[{"class": "java.nio.file.WatchService", "function": "take", "parameters": []}, {"class": "java.nio.file.WatchService", "function": "poll", "parameters": []}, {"class": "java.nio.file.WatchService", "function": "close", "parameters": []}]
