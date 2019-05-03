@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();java.util.concurrent.atomic.AtomicLongArray.get(-1566673072);}}
+class java_util_concurrent_atomic_AtomicLongArray_get{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();java.util.concurrent.atomic.AtomicLongArray.get(-1200315971);}}

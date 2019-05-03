@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Parameter obj = new java.lang.reflect.Parameter();java.lang.reflect.Parameter.isSynthetic();}}
+class java_lang_reflect_Parameter_isSynthetic{ public static void function() {java.lang.reflect.Parameter obj = new java.lang.reflect.Parameter();java.lang.reflect.Parameter.isSynthetic();}}

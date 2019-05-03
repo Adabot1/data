@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDate.ofYearDay(660680475,-2122209743);}}
+class java_time_LocalDate_ofYearDay{ public static void function() {java.time.LocalDate.ofYearDay(1904841193,853586890);}}

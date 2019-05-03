@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte.compare([B@6a1aab78,[B@462d5aee);}}
+class java_lang_Byte_compare{ public static void function() {java.lang.Byte.compare([B@727803de,[B@704921a5);}}

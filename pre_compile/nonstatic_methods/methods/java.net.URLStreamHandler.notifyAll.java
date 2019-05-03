@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URLStreamHandler obj = new java.net.URLStreamHandler();java.net.URLStreamHandler.notifyAll();}}
+class java_net_URLStreamHandler_notifyAll{ public static void function() {java.net.URLStreamHandler obj = new java.net.URLStreamHandler();java.net.URLStreamHandler.notifyAll();}}

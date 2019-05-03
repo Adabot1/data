@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertificateFactorySpi obj = new java.security.cert.CertificateFactorySpi();java.security.cert.CertificateFactorySpi.getClass();}}
+class java_security_cert_CertificateFactorySpi_getClass{ public static void function() {java.security.cert.CertificateFactorySpi obj = new java.security.cert.CertificateFactorySpi();java.security.cert.CertificateFactorySpi.getClass();}}

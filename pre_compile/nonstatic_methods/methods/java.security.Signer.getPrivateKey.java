@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Signer obj = new java.security.Signer();java.security.Signer.getPrivateKey();}}
+class java_security_Signer_getPrivateKey{ public static void function() {java.security.Signer obj = new java.security.Signer();java.security.Signer.getPrivateKey();}}

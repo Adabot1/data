@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.Bidi obj = new java.text.Bidi();java.text.Bidi.wait();}}
+class java_text_Bidi_wait{ public static void function() {java.text.Bidi obj = new java.text.Bidi();java.text.Bidi.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.Pipe.open();}}
+class java_nio_channels_Pipe_open{ public static void function() {java.nio.channels.Pipe.open();}}

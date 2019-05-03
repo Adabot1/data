@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.ceil(0.48702046875976457);}}
+class java_lang_Math_ceil{ public static void function() {java.lang.Math.ceil(0.32363679319880767);}}

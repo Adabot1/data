@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.Buffer obj = new java.nio.Buffer();java.nio.Buffer.clear();}}
+class java_nio_Buffer_clear{ public static void function() {java.nio.Buffer obj = new java.nio.Buffer();java.nio.Buffer.clear();}}

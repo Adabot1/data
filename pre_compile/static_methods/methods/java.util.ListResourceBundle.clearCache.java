@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.ListResourceBundle.clearCache();}}
+class java_util_ListResourceBundle_clearCache{ public static void function() {java.util.ListResourceBundle.clearCache();}}

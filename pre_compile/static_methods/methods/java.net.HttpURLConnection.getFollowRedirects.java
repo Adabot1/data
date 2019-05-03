@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpURLConnection.getFollowRedirects();}}
+class java_net_HttpURLConnection_getFollowRedirects{ public static void function() {java.net.HttpURLConnection.getFollowRedirects();}}

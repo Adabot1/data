@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.annotation.ElementType obj = new java.lang.annotation.ElementType();java.lang.annotation.ElementType.getDeclaringClass();}}
+class java_lang_annotation_ElementType_getDeclaringClass{ public static void function() {java.lang.annotation.ElementType obj = new java.lang.annotation.ElementType();java.lang.annotation.ElementType.getDeclaringClass();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.RSAPublicKeySpec obj = new java.security.spec.RSAPublicKeySpec();java.security.spec.RSAPublicKeySpec.getClass();}}
+class java_security_spec_RSAPublicKeySpec_getClass{ public static void function() {java.security.spec.RSAPublicKeySpec obj = new java.security.spec.RSAPublicKeySpec();java.security.spec.RSAPublicKeySpec.getClass();}}

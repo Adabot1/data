@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.skipBytes(2052740760);}}
+class java_io_RandomAccessFile_skipBytes{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.skipBytes(-249737475);}}

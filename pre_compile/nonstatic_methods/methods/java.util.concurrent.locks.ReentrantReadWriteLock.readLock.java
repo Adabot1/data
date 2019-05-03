@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.locks.ReentrantReadWriteLock obj = new java.util.concurrent.locks.ReentrantReadWriteLock();java.util.concurrent.locks.ReentrantReadWriteLock.readLock();}}
+class java_util_concurrent_locks_ReentrantReadWriteLock_readLock{ public static void function() {java.util.concurrent.locks.ReentrantReadWriteLock obj = new java.util.concurrent.locks.ReentrantReadWriteLock();java.util.concurrent.locks.ReentrantReadWriteLock.readLock();}}

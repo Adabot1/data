@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Proxy obj = new java.lang.reflect.Proxy();java.lang.reflect.Proxy.hashCode();}}
+class java_lang_reflect_Proxy_hashCode{ public static void function() {java.lang.reflect.Proxy obj = new java.lang.reflect.Proxy();java.lang.reflect.Proxy.hashCode();}}

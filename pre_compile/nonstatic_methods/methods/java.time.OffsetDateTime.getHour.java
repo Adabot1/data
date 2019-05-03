@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();java.time.OffsetDateTime.getHour();}}
+class java_time_OffsetDateTime_getHour{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();java.time.OffsetDateTime.getHour();}}

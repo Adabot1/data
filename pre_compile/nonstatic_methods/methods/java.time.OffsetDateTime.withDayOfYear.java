@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();java.time.OffsetDateTime.withDayOfYear(1285628017);}}
+class java_time_OffsetDateTime_withDayOfYear{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();java.time.OffsetDateTime.withDayOfYear(1585214984);}}

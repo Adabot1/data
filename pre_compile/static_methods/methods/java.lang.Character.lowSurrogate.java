@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.lowSurrogate(-1553037168);}}
+class java_lang_Character_lowSurrogate{ public static void function() {java.lang.Character.lowSurrogate(-1216894630);}}

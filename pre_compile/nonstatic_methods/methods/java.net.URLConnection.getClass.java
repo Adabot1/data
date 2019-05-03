@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.getClass();}}
+class java_net_URLConnection_getClass{ public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.getClass();}}

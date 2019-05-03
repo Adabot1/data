@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.TemporalQueries.precision();}}
+class java_time_temporal_TemporalQueries_precision{ public static void function() {java.time.temporal.TemporalQueries.precision();}}

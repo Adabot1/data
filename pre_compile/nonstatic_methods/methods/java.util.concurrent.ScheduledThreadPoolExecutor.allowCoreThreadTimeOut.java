@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.allowCoreThreadTimeOut(false);}}
+class java_util_concurrent_ScheduledThreadPoolExecutor_allowCoreThreadTimeOut{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.allowCoreThreadTimeOut(true);}}

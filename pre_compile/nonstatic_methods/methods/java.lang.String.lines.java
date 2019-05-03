@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.lines();}}
+class java_lang_String_lines{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.lines();}}

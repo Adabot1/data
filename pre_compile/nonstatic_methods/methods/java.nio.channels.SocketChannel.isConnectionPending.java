@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.SocketChannel obj = new java.nio.channels.SocketChannel();java.nio.channels.SocketChannel.isConnectionPending();}}
+class java_nio_channels_SocketChannel_isConnectionPending{ public static void function() {java.nio.channels.SocketChannel obj = new java.nio.channels.SocketChannel();java.nio.channels.SocketChannel.isConnectionPending();}}

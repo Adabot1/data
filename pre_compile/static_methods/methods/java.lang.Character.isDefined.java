@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isDefined(-627698474);}}
+class java_lang_Character_isDefined{ public static void function() {java.lang.Character.isDefined(247972593);}}

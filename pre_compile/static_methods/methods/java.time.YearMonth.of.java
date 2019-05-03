@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.YearMonth.of(-1355450031,855014790);}}
+class java_time_YearMonth_of{ public static void function() {java.time.YearMonth.of(447319568,-971837938);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.getRequestProperties();}}
+class javax_net_ssl_HttpsURLConnection_getRequestProperties{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.getRequestProperties();}}

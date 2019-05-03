@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer obj = new java.lang.Integer();java.lang.Integer.longValue();}}
+class java_lang_Integer_longValue{ public static void function() {java.lang.Integer obj = new java.lang.Integer();java.lang.Integer.longValue();}}

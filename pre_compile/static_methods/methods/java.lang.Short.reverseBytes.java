@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Short.reverseBytes(20032);}}
+class java_lang_Short_reverseBytes{ public static void function() {java.lang.Short.reverseBytes(-14973);}}

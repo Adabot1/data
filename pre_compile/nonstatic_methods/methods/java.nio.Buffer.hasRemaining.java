@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.Buffer obj = new java.nio.Buffer();java.nio.Buffer.hasRemaining();}}
+class java_nio_Buffer_hasRemaining{ public static void function() {java.nio.Buffer obj = new java.nio.Buffer();java.nio.Buffer.hasRemaining();}}

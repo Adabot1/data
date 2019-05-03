@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.IntStream.of(1277756400);}}
+class java_util_stream_IntStream_of{ public static void function() {java.util.stream.IntStream.of(-1910203514);}}

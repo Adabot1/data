@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Module obj = new java.lang.Module();java.lang.Module.toString();}}
+class java_lang_Module_toString{ public static void function() {java.lang.Module obj = new java.lang.Module();java.lang.Module.toString();}}

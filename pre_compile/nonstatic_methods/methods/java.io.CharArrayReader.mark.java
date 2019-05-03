@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.CharArrayReader obj = new java.io.CharArrayReader();java.io.CharArrayReader.mark(571896666);}}
+class java_io_CharArrayReader_mark{ public static void function() {java.io.CharArrayReader obj = new java.io.CharArrayReader();java.io.CharArrayReader.mark(1569465637);}}

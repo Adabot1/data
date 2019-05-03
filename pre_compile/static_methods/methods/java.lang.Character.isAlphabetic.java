@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isAlphabetic(1757768962);}}
+class java_lang_Character_isAlphabetic{ public static void function() {java.lang.Character.isAlphabetic(-1448837245);}}

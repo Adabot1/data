@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.getDayOfYear();}}
+class java_time_LocalDate_getDayOfYear{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.getDayOfYear();}}

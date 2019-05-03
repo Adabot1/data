@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.SelectionKey obj = new java.nio.channels.SelectionKey();java.nio.channels.SelectionKey.isWritable();}}
+class java_nio_channels_SelectionKey_isWritable{ public static void function() {java.nio.channels.SelectionKey obj = new java.nio.channels.SelectionKey();java.nio.channels.SelectionKey.isWritable();}}

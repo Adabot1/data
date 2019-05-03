@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileReader obj = new java.io.FileReader();java.io.FileReader.getEncoding();}}
+class java_io_FileReader_getEncoding{ public static void function() {java.io.FileReader obj = new java.io.FileReader();java.io.FileReader.getEncoding();}}

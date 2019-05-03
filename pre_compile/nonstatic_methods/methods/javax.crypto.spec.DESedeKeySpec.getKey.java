@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.DESedeKeySpec obj = new javax.crypto.spec.DESedeKeySpec();javax.crypto.spec.DESedeKeySpec.getKey();}}
+class javax_crypto_spec_DESedeKeySpec_getKey{ public static void function() {javax.crypto.spec.DESedeKeySpec obj = new javax.crypto.spec.DESedeKeySpec();javax.crypto.spec.DESedeKeySpec.getKey();}}

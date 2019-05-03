@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.rewind();}}
+class java_nio_MappedByteBuffer_rewind{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.rewind();}}

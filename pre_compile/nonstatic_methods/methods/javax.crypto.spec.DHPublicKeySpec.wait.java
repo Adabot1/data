@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.DHPublicKeySpec obj = new javax.crypto.spec.DHPublicKeySpec();javax.crypto.spec.DHPublicKeySpec.wait();}}
+class javax_crypto_spec_DHPublicKeySpec_wait{ public static void function() {javax.crypto.spec.DHPublicKeySpec obj = new javax.crypto.spec.DHPublicKeySpec();javax.crypto.spec.DHPublicKeySpec.wait();}}

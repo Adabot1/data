@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Executors.defaultThreadFactory();}}
+class java_util_concurrent_Executors_defaultThreadFactory{ public static void function() {java.util.concurrent.Executors.defaultThreadFactory();}}

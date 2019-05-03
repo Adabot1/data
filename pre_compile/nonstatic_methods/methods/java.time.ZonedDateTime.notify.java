@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.notify();}}
+class java_time_ZonedDateTime_notify{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.notify();}}

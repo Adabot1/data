@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.setReadTimeout(553940019);}}
+class javax_net_ssl_HttpsURLConnection_setReadTimeout{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.setReadTimeout(-1119627245);}}

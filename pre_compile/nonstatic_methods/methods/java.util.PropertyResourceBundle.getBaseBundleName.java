@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.PropertyResourceBundle obj = new java.util.PropertyResourceBundle();java.util.PropertyResourceBundle.getBaseBundleName();}}
+class java_util_PropertyResourceBundle_getBaseBundleName{ public static void function() {java.util.PropertyResourceBundle obj = new java.util.PropertyResourceBundle();java.util.PropertyResourceBundle.getBaseBundleName();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.SerializedLambda obj = new java.lang.invoke.SerializedLambda();java.lang.invoke.SerializedLambda.hashCode();}}
+class java_lang_invoke_SerializedLambda_hashCode{ public static void function() {java.lang.invoke.SerializedLambda obj = new java.lang.invoke.SerializedLambda();java.lang.invoke.SerializedLambda.hashCode();}}

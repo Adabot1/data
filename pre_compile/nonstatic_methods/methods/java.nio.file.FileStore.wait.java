@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.FileStore obj = new java.nio.file.FileStore();java.nio.file.FileStore.wait();}}
+class java_nio_file_FileStore_wait{ public static void function() {java.nio.file.FileStore obj = new java.nio.file.FileStore();java.nio.file.FileStore.wait();}}

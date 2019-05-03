@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.whitespaceChars(2074885129,1463884471);}}
+class java_io_StreamTokenizer_whitespaceChars{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.whitespaceChars(1628819891,208681245);}}

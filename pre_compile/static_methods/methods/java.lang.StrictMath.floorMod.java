@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.floorMod(1850369521,-475581760);}}
+class java_lang_StrictMath_floorMod{ public static void function() {java.lang.StrictMath.floorMod(1417892578,1862762517);}}

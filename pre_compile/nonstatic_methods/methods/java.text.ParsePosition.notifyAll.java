@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();java.text.ParsePosition.notifyAll();}}
+class java_text_ParsePosition_notifyAll{ public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();java.text.ParsePosition.notifyAll();}}

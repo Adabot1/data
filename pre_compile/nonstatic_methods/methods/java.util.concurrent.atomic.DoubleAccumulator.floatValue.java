@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.DoubleAccumulator obj = new java.util.concurrent.atomic.DoubleAccumulator();java.util.concurrent.atomic.DoubleAccumulator.floatValue();}}
+class java_util_concurrent_atomic_DoubleAccumulator_floatValue{ public static void function() {java.util.concurrent.atomic.DoubleAccumulator obj = new java.util.concurrent.atomic.DoubleAccumulator();java.util.concurrent.atomic.DoubleAccumulator.floatValue();}}

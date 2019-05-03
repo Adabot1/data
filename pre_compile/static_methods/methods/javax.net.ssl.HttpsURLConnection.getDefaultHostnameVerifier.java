@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection.getDefaultHostnameVerifier();}}
+class javax_net_ssl_HttpsURLConnection_getDefaultHostnameVerifier{ public static void function() {javax.net.ssl.HttpsURLConnection.getDefaultHostnameVerifier();}}

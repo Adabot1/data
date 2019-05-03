@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PipedOutputStream.nullOutputStream();}}
+class java_io_PipedOutputStream_nullOutputStream{ public static void function() {java.io.PipedOutputStream.nullOutputStream();}}

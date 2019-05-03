@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ModuleLayer.boot();}}
+class java_lang_ModuleLayer_boot{ public static void function() {java.lang.ModuleLayer.boot();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.RecursiveAction.getQueuedTaskCount();}}
+class java_util_concurrent_RecursiveAction_getQueuedTaskCount{ public static void function() {java.util.concurrent.RecursiveAction.getQueuedTaskCount();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.XECPublicKeySpec obj = new java.security.spec.XECPublicKeySpec();java.security.spec.XECPublicKeySpec.getU();}}
+class java_security_spec_XECPublicKeySpec_getU{ public static void function() {java.security.spec.XECPublicKeySpec obj = new java.security.spec.XECPublicKeySpec();java.security.spec.XECPublicKeySpec.getU();}}

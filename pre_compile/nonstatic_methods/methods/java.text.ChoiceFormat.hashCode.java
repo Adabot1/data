@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.hashCode();}}
+class java_text_ChoiceFormat_hashCode{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.hashCode();}}

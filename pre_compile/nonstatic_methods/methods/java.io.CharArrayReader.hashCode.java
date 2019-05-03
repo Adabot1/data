@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.CharArrayReader obj = new java.io.CharArrayReader();java.io.CharArrayReader.hashCode();}}
+class java_io_CharArrayReader_hashCode{ public static void function() {java.io.CharArrayReader obj = new java.io.CharArrayReader();java.io.CharArrayReader.hashCode();}}

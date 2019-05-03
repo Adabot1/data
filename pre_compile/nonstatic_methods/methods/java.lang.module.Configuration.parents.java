@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.module.Configuration obj = new java.lang.module.Configuration();java.lang.module.Configuration.parents();}}
+class java_lang_module_Configuration_parents{ public static void function() {java.lang.module.Configuration obj = new java.lang.module.Configuration();java.lang.module.Configuration.parents();}}

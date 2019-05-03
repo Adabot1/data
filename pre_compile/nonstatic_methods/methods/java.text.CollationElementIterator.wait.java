@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.CollationElementIterator obj = new java.text.CollationElementIterator();java.text.CollationElementIterator.wait();}}
+class java_text_CollationElementIterator_wait{ public static void function() {java.text.CollationElementIterator obj = new java.text.CollationElementIterator();java.text.CollationElementIterator.wait();}}

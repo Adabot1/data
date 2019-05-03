@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.KeyGeneratorSpi obj = new javax.crypto.KeyGeneratorSpi();javax.crypto.KeyGeneratorSpi.toString();}}
+class javax_crypto_KeyGeneratorSpi_toString{ public static void function() {javax.crypto.KeyGeneratorSpi obj = new javax.crypto.KeyGeneratorSpi();javax.crypto.KeyGeneratorSpi.toString();}}

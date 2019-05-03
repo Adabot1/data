@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double.doubleToLongBits(0.8401287440407358);}}
+class java_lang_Double_doubleToLongBits{ public static void function() {java.lang.Double.doubleToLongBits(0.052608075279145905);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();java.time.chrono.AbstractChronology.notifyAll();}}
+class java_time_chrono_AbstractChronology_notifyAll{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();java.time.chrono.AbstractChronology.notifyAll();}}

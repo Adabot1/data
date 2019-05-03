@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();java.text.FieldPosition.setEndIndex(-313609759);}}
+class java_text_FieldPosition_setEndIndex{ public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();java.text.FieldPosition.setEndIndex(-2013303588);}}

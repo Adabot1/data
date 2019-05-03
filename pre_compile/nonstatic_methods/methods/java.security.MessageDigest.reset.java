@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.MessageDigest obj = new java.security.MessageDigest();java.security.MessageDigest.reset();}}
+class java_security_MessageDigest_reset{ public static void function() {java.security.MessageDigest obj = new java.security.MessageDigest();java.security.MessageDigest.reset();}}

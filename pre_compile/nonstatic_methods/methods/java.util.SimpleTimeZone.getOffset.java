@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.getOffset(-1520548741,-1415570653,1660340944,-1605411326,-241239093,1079037448);}}
+class java_util_SimpleTimeZone_getOffset{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.getOffset(-1347422933,-569685226,1021719854,-1351191674,1400150532,812775459);}}

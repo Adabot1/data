@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.remove();}}
+class java_util_Scanner_remove{ public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.remove();}}

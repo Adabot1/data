@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicBoolean obj = new java.util.concurrent.atomic.AtomicBoolean();java.util.concurrent.atomic.AtomicBoolean.wait();}}
+class java_util_concurrent_atomic_AtomicBoolean_wait{ public static void function() {java.util.concurrent.atomic.AtomicBoolean obj = new java.util.concurrent.atomic.AtomicBoolean();java.util.concurrent.atomic.AtomicBoolean.wait();}}

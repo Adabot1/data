@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.ResourceBundle obj = new java.util.ResourceBundle();java.util.ResourceBundle.notify();}}
+class java_util_ResourceBundle_notify{ public static void function() {java.util.ResourceBundle obj = new java.util.ResourceBundle();java.util.ResourceBundle.notify();}}

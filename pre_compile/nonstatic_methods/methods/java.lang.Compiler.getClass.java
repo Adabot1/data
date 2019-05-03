@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Compiler obj = new java.lang.Compiler();java.lang.Compiler.getClass();}}
+class java_lang_Compiler_getClass{ public static void function() {java.lang.Compiler obj = new java.lang.Compiler();java.lang.Compiler.getClass();}}

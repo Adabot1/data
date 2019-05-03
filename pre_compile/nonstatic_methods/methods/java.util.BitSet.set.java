@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.set(-1411699249,-2036317210,true);}}
+class java_util_BitSet_set{ public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.set(-876428443,-537318480,true);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.KeyManagerFactorySpi obj = new javax.net.ssl.KeyManagerFactorySpi();javax.net.ssl.KeyManagerFactorySpi.notifyAll();}}
+class javax_net_ssl_KeyManagerFactorySpi_notifyAll{ public static void function() {javax.net.ssl.KeyManagerFactorySpi obj = new javax.net.ssl.KeyManagerFactorySpi();javax.net.ssl.KeyManagerFactorySpi.notifyAll();}}

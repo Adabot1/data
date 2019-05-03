@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();java.text.FieldPosition.toString();}}
+class java_text_FieldPosition_toString{ public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();java.text.FieldPosition.toString();}}

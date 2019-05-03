@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Collections.emptyMap();}}
+class java_util_Collections_emptyMap{ public static void function() {java.util.Collections.emptyMap();}}

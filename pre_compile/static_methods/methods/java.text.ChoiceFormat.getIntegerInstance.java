@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat.getIntegerInstance();}}
+class java_text_ChoiceFormat_getIntegerInstance{ public static void function() {java.text.ChoiceFormat.getIntegerInstance();}}

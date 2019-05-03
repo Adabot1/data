@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZoneOffset obj = new java.time.ZoneOffset();java.time.ZoneOffset.notifyAll();}}
+class java_time_ZoneOffset_notifyAll{ public static void function() {java.time.ZoneOffset obj = new java.time.ZoneOffset();java.time.ZoneOffset.notifyAll();}}

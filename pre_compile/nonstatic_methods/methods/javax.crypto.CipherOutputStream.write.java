@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.CipherOutputStream obj = new javax.crypto.CipherOutputStream();javax.crypto.CipherOutputStream.write(1183982648);}}
+class javax_crypto_CipherOutputStream_write{ public static void function() {javax.crypto.CipherOutputStream obj = new javax.crypto.CipherOutputStream();javax.crypto.CipherOutputStream.write(-1955302345);}}

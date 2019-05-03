@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.StandardProtocolFamily.values();}}
+class java_net_StandardProtocolFamily_values{ public static void function() {java.net.StandardProtocolFamily.values();}}

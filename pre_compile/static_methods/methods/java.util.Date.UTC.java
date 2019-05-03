@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Date.UTC(-83577878,-69775691,-637042359,1993888295,512364064,-379970890);}}
+class java_util_Date_UTC{ public static void function() {java.util.Date.UTC(661937686,1661952684,-2100249961,-1458597186,289512681,1411945987);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();java.io.BufferedReader.mark(1990799919);}}
+class java_io_BufferedReader_mark{ public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();java.io.BufferedReader.mark(-1024517944);}}

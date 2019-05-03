@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Duration obj = new java.time.Duration();java.time.Duration.toNanos();}}
+class java_time_Duration_toNanos{ public static void function() {java.time.Duration obj = new java.time.Duration();java.time.Duration.toNanos();}}

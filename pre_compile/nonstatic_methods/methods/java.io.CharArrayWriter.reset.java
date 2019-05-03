@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.CharArrayWriter obj = new java.io.CharArrayWriter();java.io.CharArrayWriter.reset();}}
+class java_io_CharArrayWriter_reset{ public static void function() {java.io.CharArrayWriter obj = new java.io.CharArrayWriter();java.io.CharArrayWriter.reset();}}

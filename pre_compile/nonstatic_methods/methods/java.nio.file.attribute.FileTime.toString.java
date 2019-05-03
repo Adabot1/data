@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.attribute.FileTime obj = new java.nio.file.attribute.FileTime();java.nio.file.attribute.FileTime.toString();}}
+class java_nio_file_attribute_FileTime_toString{ public static void function() {java.nio.file.attribute.FileTime obj = new java.nio.file.attribute.FileTime();java.nio.file.attribute.FileTime.toString();}}

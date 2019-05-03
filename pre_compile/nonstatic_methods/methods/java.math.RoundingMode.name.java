@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.RoundingMode obj = new java.math.RoundingMode();java.math.RoundingMode.name();}}
+class java_math_RoundingMode_name{ public static void function() {java.math.RoundingMode obj = new java.math.RoundingMode();java.math.RoundingMode.name();}}

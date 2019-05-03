@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();java.time.OffsetDateTime.getNano();}}
+class java_time_OffsetDateTime_getNano{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();java.time.OffsetDateTime.getNano();}}

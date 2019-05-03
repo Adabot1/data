@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.getDayOfWeek();}}
+class java_time_LocalDateTime_getDayOfWeek{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.getDayOfWeek();}}

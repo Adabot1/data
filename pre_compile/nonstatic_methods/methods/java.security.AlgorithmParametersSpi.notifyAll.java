@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.AlgorithmParametersSpi obj = new java.security.AlgorithmParametersSpi();java.security.AlgorithmParametersSpi.notifyAll();}}
+class java_security_AlgorithmParametersSpi_notifyAll{ public static void function() {java.security.AlgorithmParametersSpi obj = new java.security.AlgorithmParametersSpi();java.security.AlgorithmParametersSpi.notifyAll();}}

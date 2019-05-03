@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.SocketImpl obj = new java.net.SocketImpl();java.net.SocketImpl.notifyAll();}}
+class java_net_SocketImpl_notifyAll{ public static void function() {java.net.SocketImpl obj = new java.net.SocketImpl();java.net.SocketImpl.notifyAll();}}

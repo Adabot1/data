@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.copySign(0.9284943788080131,0.5287279593256908);}}
+class java_lang_Math_copySign{ public static void function() {java.lang.Math.copySign(0.14240238437227193,0.013465225836207462);}}

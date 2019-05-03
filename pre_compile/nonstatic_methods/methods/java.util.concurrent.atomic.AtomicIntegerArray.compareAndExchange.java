@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.compareAndExchange(-1916948986,-544367580,-1313963613);}}
+class java_util_concurrent_atomic_AtomicIntegerArray_compareAndExchange{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.compareAndExchange(1001460950,1283453821,638354930);}}

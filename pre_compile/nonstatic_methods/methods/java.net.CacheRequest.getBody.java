@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.CacheRequest obj = new java.net.CacheRequest();java.net.CacheRequest.getBody();}}
+class java_net_CacheRequest_getBody{ public static void function() {java.net.CacheRequest obj = new java.net.CacheRequest();java.net.CacheRequest.getBody();}}

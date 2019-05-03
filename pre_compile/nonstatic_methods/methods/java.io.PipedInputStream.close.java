@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();java.io.PipedInputStream.close();}}
+class java_io_PipedInputStream_close{ public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();java.io.PipedInputStream.close();}}

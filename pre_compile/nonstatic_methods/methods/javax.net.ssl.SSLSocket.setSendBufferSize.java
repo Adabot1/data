@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.setSendBufferSize(-98879846);}}
+class javax_net_ssl_SSLSocket_setSendBufferSize{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.setSendBufferSize(-1427419525);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.getBytes();}}
+class java_lang_String_getBytes{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.getBytes();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.NumberFormat.getAvailableLocales();}}
+class java_text_NumberFormat_getAvailableLocales{ public static void function() {java.text.NumberFormat.getAvailableLocales();}}

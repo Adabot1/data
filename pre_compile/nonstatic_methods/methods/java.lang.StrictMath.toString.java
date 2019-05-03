@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath obj = new java.lang.StrictMath();java.lang.StrictMath.toString();}}
+class java_lang_StrictMath_toString{ public static void function() {java.lang.StrictMath obj = new java.lang.StrictMath();java.lang.StrictMath.toString();}}

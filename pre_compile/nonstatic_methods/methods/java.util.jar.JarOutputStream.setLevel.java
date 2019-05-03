@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();java.util.jar.JarOutputStream.setLevel(1344554654);}}
+class java_util_jar_JarOutputStream_setLevel{ public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();java.util.jar.JarOutputStream.setLevel(248458354);}}

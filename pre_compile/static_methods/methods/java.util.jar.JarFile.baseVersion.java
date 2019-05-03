@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarFile.baseVersion();}}
+class java_util_jar_JarFile_baseVersion{ public static void function() {java.util.jar.JarFile.baseVersion();}}

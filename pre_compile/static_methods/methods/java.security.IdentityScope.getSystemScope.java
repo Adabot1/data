@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.IdentityScope.getSystemScope();}}
+class java_security_IdentityScope_getSystemScope{ public static void function() {java.security.IdentityScope.getSystemScope();}}

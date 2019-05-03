@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertPathBuilder.getDefaultType();}}
+class java_security_cert_CertPathBuilder_getDefaultType{ public static void function() {java.security.cert.CertPathBuilder.getDefaultType();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Proxy obj = new java.net.Proxy();java.net.Proxy.toString();}}
+class java_net_Proxy_toString{ public static void function() {java.net.Proxy obj = new java.net.Proxy();java.net.Proxy.toString();}}

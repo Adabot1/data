@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.setDefaultUseCaches(true);}}
+class java_net_JarURLConnection_setDefaultUseCaches{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.setDefaultUseCaches(false);}}

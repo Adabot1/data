@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ObjectInputStream.nullInputStream();}}
+class java_io_ObjectInputStream_nullInputStream{ public static void function() {java.io.ObjectInputStream.nullInputStream();}}

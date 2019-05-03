@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZoneOffset.ofHoursMinutesSeconds(1284956707,-1053154767,1402698989);}}
+class java_time_ZoneOffset_ofHoursMinutesSeconds{ public static void function() {java.time.ZoneOffset.ofHoursMinutesSeconds(-1291845906,-545953237,1425499769);}}

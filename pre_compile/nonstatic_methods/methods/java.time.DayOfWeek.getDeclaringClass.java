@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();java.time.DayOfWeek.getDeclaringClass();}}
+class java_time_DayOfWeek_getDeclaringClass{ public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();java.time.DayOfWeek.getDeclaringClass();}}

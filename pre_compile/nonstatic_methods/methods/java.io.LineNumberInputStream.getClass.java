@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();java.io.LineNumberInputStream.getClass();}}
+class java_io_LineNumberInputStream_getClass{ public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();java.io.LineNumberInputStream.getClass();}}

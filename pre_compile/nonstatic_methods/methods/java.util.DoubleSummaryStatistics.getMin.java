@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();java.util.DoubleSummaryStatistics.getMin();}}
+class java_util_DoubleSummaryStatistics_getMin{ public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();java.util.DoubleSummaryStatistics.getMin();}}

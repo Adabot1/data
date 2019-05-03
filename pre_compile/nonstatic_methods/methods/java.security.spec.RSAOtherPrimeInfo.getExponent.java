@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.RSAOtherPrimeInfo obj = new java.security.spec.RSAOtherPrimeInfo();java.security.spec.RSAOtherPrimeInfo.getExponent();}}
+class java_security_spec_RSAOtherPrimeInfo_getExponent{ public static void function() {java.security.spec.RSAOtherPrimeInfo obj = new java.security.spec.RSAOtherPrimeInfo();java.security.spec.RSAOtherPrimeInfo.getExponent();}}

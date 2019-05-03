@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLContext.getDefault();}}
+class javax_net_ssl_SSLContext_getDefault{ public static void function() {javax.net.ssl.SSLContext.getDefault();}}

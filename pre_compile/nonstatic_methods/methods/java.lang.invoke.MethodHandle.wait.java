@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MethodHandle obj = new java.lang.invoke.MethodHandle();java.lang.invoke.MethodHandle.wait();}}
+class java_lang_invoke_MethodHandle_wait{ public static void function() {java.lang.invoke.MethodHandle obj = new java.lang.invoke.MethodHandle();java.lang.invoke.MethodHandle.wait();}}

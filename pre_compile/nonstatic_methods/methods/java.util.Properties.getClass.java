@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Properties obj = new java.util.Properties();java.util.Properties.getClass();}}
+class java_util_Properties_getClass{ public static void function() {java.util.Properties obj = new java.util.Properties();java.util.Properties.getClass();}}

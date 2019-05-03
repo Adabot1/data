@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.AccessController obj = new java.security.AccessController();java.security.AccessController.notifyAll();}}
+class java_security_AccessController_notifyAll{ public static void function() {java.security.AccessController obj = new java.security.AccessController();java.security.AccessController.notifyAll();}}

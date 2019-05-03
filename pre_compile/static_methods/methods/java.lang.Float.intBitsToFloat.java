@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Float.intBitsToFloat(1567884569);}}
+class java_lang_Float_intBitsToFloat{ public static void function() {java.lang.Float.intBitsToFloat(-1528229128);}}

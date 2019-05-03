@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ModuleLayer.empty();}}
+class java_lang_ModuleLayer_empty{ public static void function() {java.lang.ModuleLayer.empty();}}

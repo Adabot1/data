@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setReceiveBufferSize(-1623275068);}}
+class java_net_MulticastSocket_setReceiveBufferSize{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setReceiveBufferSize(-1854687379);}}

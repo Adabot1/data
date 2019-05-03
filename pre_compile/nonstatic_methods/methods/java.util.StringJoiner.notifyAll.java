@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.StringJoiner obj = new java.util.StringJoiner();java.util.StringJoiner.notifyAll();}}
+class java_util_StringJoiner_notifyAll{ public static void function() {java.util.StringJoiner obj = new java.util.StringJoiner();java.util.StringJoiner.notifyAll();}}

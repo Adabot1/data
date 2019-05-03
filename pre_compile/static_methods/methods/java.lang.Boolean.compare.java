@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Boolean.compare(true,true);}}
+class java_lang_Boolean_compare{ public static void function() {java.lang.Boolean.compare(true,false);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.OptionalDouble obj = new java.util.OptionalDouble();java.util.OptionalDouble.notifyAll();}}
+class java_util_OptionalDouble_notifyAll{ public static void function() {java.util.OptionalDouble obj = new java.util.OptionalDouble();java.util.OptionalDouble.notifyAll();}}

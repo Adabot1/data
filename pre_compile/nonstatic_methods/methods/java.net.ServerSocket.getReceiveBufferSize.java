@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();java.net.ServerSocket.getReceiveBufferSize();}}
+class java_net_ServerSocket_getReceiveBufferSize{ public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();java.net.ServerSocket.getReceiveBufferSize();}}

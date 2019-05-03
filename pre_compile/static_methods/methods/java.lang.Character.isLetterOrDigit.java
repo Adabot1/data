@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isLetterOrDigit(-69491373);}}
+class java_lang_Character_isLetterOrDigit{ public static void function() {java.lang.Character.isLetterOrDigit(1755360940);}}

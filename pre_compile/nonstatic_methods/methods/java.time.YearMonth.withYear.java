@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.YearMonth obj = new java.time.YearMonth();java.time.YearMonth.withYear(1130037679);}}
+class java_time_YearMonth_withYear{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();java.time.YearMonth.withYear(-1166205161);}}

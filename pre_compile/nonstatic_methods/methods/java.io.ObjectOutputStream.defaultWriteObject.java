@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();java.io.ObjectOutputStream.defaultWriteObject();}}
+class java_io_ObjectOutputStream_defaultWriteObject{ public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();java.io.ObjectOutputStream.defaultWriteObject();}}

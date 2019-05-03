@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MethodHandles.publicLookup();}}
+class java_lang_invoke_MethodHandles_publicLookup{ public static void function() {java.lang.invoke.MethodHandles.publicLookup();}}

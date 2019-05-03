@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDateTime.of(-766610114,1830887142,279733723,705936964,-85897689,1096343404);}}
+class java_time_LocalDateTime_of{ public static void function() {java.time.LocalDateTime.of(-1144744299,-477869047,1384692512,-944445695,1172612589,-2014799030);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getLocalPort();}}
+class javax_net_ssl_SSLSocket_getLocalPort{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getLocalPort();}}

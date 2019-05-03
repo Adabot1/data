@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.ECParameterSpec obj = new java.security.spec.ECParameterSpec();java.security.spec.ECParameterSpec.getGenerator();}}
+class java_security_spec_ECParameterSpec_getGenerator{ public static void function() {java.security.spec.ECParameterSpec obj = new java.security.spec.ECParameterSpec();java.security.spec.ECParameterSpec.getGenerator();}}

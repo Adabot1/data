@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.CryptoPrimitive obj = new java.security.CryptoPrimitive();java.security.CryptoPrimitive.notifyAll();}}
+class java_security_CryptoPrimitive_notifyAll{ public static void function() {java.security.CryptoPrimitive obj = new java.security.CryptoPrimitive();java.security.CryptoPrimitive.notifyAll();}}

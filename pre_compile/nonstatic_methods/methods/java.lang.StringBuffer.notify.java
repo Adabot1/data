@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.notify();}}
+class java_lang_StringBuffer_notify{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.notify();}}

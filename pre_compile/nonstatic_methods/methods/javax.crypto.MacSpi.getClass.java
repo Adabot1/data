@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.MacSpi obj = new javax.crypto.MacSpi();javax.crypto.MacSpi.getClass();}}
+class javax_crypto_MacSpi_getClass{ public static void function() {javax.crypto.MacSpi obj = new javax.crypto.MacSpi();javax.crypto.MacSpi.getClass();}}

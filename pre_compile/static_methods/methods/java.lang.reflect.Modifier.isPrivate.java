@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isPrivate(39772084);}}
+class java_lang_reflect_Modifier_isPrivate{ public static void function() {java.lang.reflect.Modifier.isPrivate(-1324463525);}}

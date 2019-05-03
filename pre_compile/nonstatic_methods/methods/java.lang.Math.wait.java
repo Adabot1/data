@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math obj = new java.lang.Math();java.lang.Math.wait();}}
+class java_lang_Math_wait{ public static void function() {java.lang.Math obj = new java.lang.Math();java.lang.Math.wait();}}

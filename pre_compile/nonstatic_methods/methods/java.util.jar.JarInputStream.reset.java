@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarInputStream obj = new java.util.jar.JarInputStream();java.util.jar.JarInputStream.reset();}}
+class java_util_jar_JarInputStream_reset{ public static void function() {java.util.jar.JarInputStream obj = new java.util.jar.JarInputStream();java.util.jar.JarInputStream.reset();}}

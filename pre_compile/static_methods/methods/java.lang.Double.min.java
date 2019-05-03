@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double.min(0.11161802893306083,0.145996373763971);}}
+class java_lang_Double_min{ public static void function() {java.lang.Double.min(0.9843877948772207,0.7030771891571662);}}

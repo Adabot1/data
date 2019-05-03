@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.toUnsignedLong(-252059350);}}
+class java_lang_Integer_toUnsignedLong{ public static void function() {java.lang.Integer.toUnsignedLong(1589513312);}}

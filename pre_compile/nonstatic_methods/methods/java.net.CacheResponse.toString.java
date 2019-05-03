@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.CacheResponse obj = new java.net.CacheResponse();java.net.CacheResponse.toString();}}
+class java_net_CacheResponse_toString{ public static void function() {java.net.CacheResponse obj = new java.net.CacheResponse();java.net.CacheResponse.toString();}}

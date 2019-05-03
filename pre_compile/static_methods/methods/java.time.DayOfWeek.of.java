@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.DayOfWeek.of(276530287);}}
+class java_time_DayOfWeek_of{ public static void function() {java.time.DayOfWeek.of(165519932);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLServerSocketFactory obj = new javax.net.ssl.SSLServerSocketFactory();javax.net.ssl.SSLServerSocketFactory.notify();}}
+class javax_net_ssl_SSLServerSocketFactory_notify{ public static void function() {javax.net.ssl.SSLServerSocketFactory obj = new javax.net.ssl.SSLServerSocketFactory();javax.net.ssl.SSLServerSocketFactory.notify();}}

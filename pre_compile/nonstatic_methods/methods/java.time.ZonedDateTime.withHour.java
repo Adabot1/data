@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.withHour(-811053834);}}
+class java_time_ZonedDateTime_withHour{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.withHour(-1287719417);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.LongStream.builder();}}
+class java_util_stream_LongStream_builder{ public static void function() {java.util.stream.LongStream.builder();}}

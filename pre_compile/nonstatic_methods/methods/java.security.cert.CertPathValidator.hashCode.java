@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertPathValidator obj = new java.security.cert.CertPathValidator();java.security.cert.CertPathValidator.hashCode();}}
+class java_security_cert_CertPathValidator_hashCode{ public static void function() {java.security.cert.CertPathValidator obj = new java.security.cert.CertPathValidator();java.security.cert.CertPathValidator.hashCode();}}

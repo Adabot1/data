@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();java.net.ServerSocket.getReuseAddress();}}
+class java_net_ServerSocket_getReuseAddress{ public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();java.net.ServerSocket.getReuseAddress();}}

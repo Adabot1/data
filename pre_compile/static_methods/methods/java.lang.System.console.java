@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.System.console();}}
+class java_lang_System_console{ public static void function() {java.lang.System.console();}}

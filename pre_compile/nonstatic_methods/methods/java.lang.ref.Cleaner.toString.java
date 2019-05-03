@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ref.Cleaner obj = new java.lang.ref.Cleaner();java.lang.ref.Cleaner.toString();}}
+class java_lang_ref_Cleaner_toString{ public static void function() {java.lang.ref.Cleaner obj = new java.lang.ref.Cleaner();java.lang.ref.Cleaner.toString();}}

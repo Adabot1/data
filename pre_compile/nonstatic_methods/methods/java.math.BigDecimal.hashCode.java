@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.hashCode();}}
+class java_math_BigDecimal_hashCode{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.hashCode();}}

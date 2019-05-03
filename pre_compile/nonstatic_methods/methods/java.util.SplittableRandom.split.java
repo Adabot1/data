@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();java.util.SplittableRandom.split();}}
+class java_util_SplittableRandom_split{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();java.util.SplittableRandom.split();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();java.net.DatagramSocket.setSendBufferSize(-947612054);}}
+class java_net_DatagramSocket_setSendBufferSize{ public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();java.net.DatagramSocket.setSendBufferSize(-1400582201);}}

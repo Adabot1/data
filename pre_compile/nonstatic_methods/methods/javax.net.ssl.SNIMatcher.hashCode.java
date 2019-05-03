@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SNIMatcher obj = new javax.net.ssl.SNIMatcher();javax.net.ssl.SNIMatcher.hashCode();}}
+class javax_net_ssl_SNIMatcher_hashCode{ public static void function() {javax.net.ssl.SNIMatcher obj = new javax.net.ssl.SNIMatcher();javax.net.ssl.SNIMatcher.hashCode();}}

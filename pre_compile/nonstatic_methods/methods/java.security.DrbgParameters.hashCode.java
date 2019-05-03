@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.DrbgParameters obj = new java.security.DrbgParameters();java.security.DrbgParameters.hashCode();}}
+class java_security_DrbgParameters_hashCode{ public static void function() {java.security.DrbgParameters obj = new java.security.DrbgParameters();java.security.DrbgParameters.hashCode();}}

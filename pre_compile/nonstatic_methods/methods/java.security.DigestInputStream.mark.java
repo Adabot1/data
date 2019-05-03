@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.DigestInputStream obj = new java.security.DigestInputStream();java.security.DigestInputStream.mark(-644192103);}}
+class java_security_DigestInputStream_mark{ public static void function() {java.security.DigestInputStream obj = new java.security.DigestInputStream();java.security.DigestInputStream.mark(-1430949839);}}

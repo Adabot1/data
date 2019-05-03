@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.eolIsSignificant(true);}}
+class java_io_StreamTokenizer_eolIsSignificant{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.eolIsSignificant(true);}}

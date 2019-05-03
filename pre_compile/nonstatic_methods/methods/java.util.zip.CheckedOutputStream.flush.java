@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.CheckedOutputStream obj = new java.util.zip.CheckedOutputStream();java.util.zip.CheckedOutputStream.flush();}}
+class java_util_zip_CheckedOutputStream_flush{ public static void function() {java.util.zip.CheckedOutputStream obj = new java.util.zip.CheckedOutputStream();java.util.zip.CheckedOutputStream.flush();}}

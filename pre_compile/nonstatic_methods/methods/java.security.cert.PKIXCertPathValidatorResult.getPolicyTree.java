@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXCertPathValidatorResult obj = new java.security.cert.PKIXCertPathValidatorResult();java.security.cert.PKIXCertPathValidatorResult.getPolicyTree();}}
+class java_security_cert_PKIXCertPathValidatorResult_getPolicyTree{ public static void function() {java.security.cert.PKIXCertPathValidatorResult obj = new java.security.cert.PKIXCertPathValidatorResult();java.security.cert.PKIXCertPathValidatorResult.getPolicyTree();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.wait();}}
+class java_lang_StringBuilder_wait{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.wait();}}

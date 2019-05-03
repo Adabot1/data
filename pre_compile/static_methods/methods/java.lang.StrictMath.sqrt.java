@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.sqrt(0.43142089927795946);}}
+class java_lang_StrictMath_sqrt{ public static void function() {java.lang.StrictMath.sqrt(0.5887599599515818);}}

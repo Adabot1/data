@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.setMonth(-714215229);}}
+class java_util_Date_setMonth{ public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.setMonth(-854083512);}}

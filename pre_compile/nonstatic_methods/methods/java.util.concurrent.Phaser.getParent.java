@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();java.util.concurrent.Phaser.getParent();}}
+class java_util_concurrent_Phaser_getParent{ public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();java.util.concurrent.Phaser.getParent();}}

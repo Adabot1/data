@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.UnresolvedPermission obj = new java.security.UnresolvedPermission();java.security.UnresolvedPermission.getClass();}}
+class java_security_UnresolvedPermission_getClass{ public static void function() {java.security.UnresolvedPermission obj = new java.security.UnresolvedPermission();java.security.UnresolvedPermission.getClass();}}

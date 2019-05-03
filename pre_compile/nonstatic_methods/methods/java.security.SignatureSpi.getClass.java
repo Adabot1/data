@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.SignatureSpi obj = new java.security.SignatureSpi();java.security.SignatureSpi.getClass();}}
+class java_security_SignatureSpi_getClass{ public static void function() {java.security.SignatureSpi obj = new java.security.SignatureSpi();java.security.SignatureSpi.getClass();}}

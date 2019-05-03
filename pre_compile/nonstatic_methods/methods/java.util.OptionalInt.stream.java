@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.OptionalInt obj = new java.util.OptionalInt();java.util.OptionalInt.stream();}}
+class java_util_OptionalInt_stream{ public static void function() {java.util.OptionalInt obj = new java.util.OptionalInt();java.util.OptionalInt.stream();}}

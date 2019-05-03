@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StringReader obj = new java.io.StringReader();java.io.StringReader.wait();}}
+class java_io_StringReader_wait{ public static void function() {java.io.StringReader obj = new java.io.StringReader();java.io.StringReader.wait();}}

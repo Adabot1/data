@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PipedWriter obj = new java.io.PipedWriter();java.io.PipedWriter.getClass();}}
+class java_io_PipedWriter_getClass{ public static void function() {java.io.PipedWriter obj = new java.io.PipedWriter();java.io.PipedWriter.getClass();}}

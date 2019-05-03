@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URL obj = new java.net.URL();java.net.URL.getPort();}}
+class java_net_URL_getPort{ public static void function() {java.net.URL obj = new java.net.URL();java.net.URL.getPort();}}

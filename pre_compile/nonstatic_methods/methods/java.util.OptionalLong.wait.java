@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();java.util.OptionalLong.wait();}}
+class java_util_OptionalLong_wait{ public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();java.util.OptionalLong.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.ZipInputStream.nullInputStream();}}
+class java_util_zip_ZipInputStream_nullInputStream{ public static void function() {java.util.zip.ZipInputStream.nullInputStream();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.log10(0.011899997427564535);}}
+class java_lang_StrictMath_log10{ public static void function() {java.lang.StrictMath.log10(0.8674966584441743);}}

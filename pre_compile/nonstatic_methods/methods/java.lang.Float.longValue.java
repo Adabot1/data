@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Float obj = new java.lang.Float();java.lang.Float.longValue();}}
+class java_lang_Float_longValue{ public static void function() {java.lang.Float obj = new java.lang.Float();java.lang.Float.longValue();}}

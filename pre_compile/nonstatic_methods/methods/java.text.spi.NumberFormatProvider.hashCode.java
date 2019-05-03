@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.spi.NumberFormatProvider obj = new java.text.spi.NumberFormatProvider();java.text.spi.NumberFormatProvider.hashCode();}}
+class java_text_spi_NumberFormatProvider_hashCode{ public static void function() {java.text.spi.NumberFormatProvider obj = new java.text.spi.NumberFormatProvider();java.text.spi.NumberFormatProvider.hashCode();}}

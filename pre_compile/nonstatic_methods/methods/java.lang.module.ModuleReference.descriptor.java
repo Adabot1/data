@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.module.ModuleReference obj = new java.lang.module.ModuleReference();java.lang.module.ModuleReference.descriptor();}}
+class java_lang_module_ModuleReference_descriptor{ public static void function() {java.lang.module.ModuleReference obj = new java.lang.module.ModuleReference();java.lang.module.ModuleReference.descriptor();}}

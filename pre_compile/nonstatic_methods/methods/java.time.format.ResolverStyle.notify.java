@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.ResolverStyle obj = new java.time.format.ResolverStyle();java.time.format.ResolverStyle.notify();}}
+class java_time_format_ResolverStyle_notify{ public static void function() {java.time.format.ResolverStyle obj = new java.time.format.ResolverStyle();java.time.format.ResolverStyle.notify();}}

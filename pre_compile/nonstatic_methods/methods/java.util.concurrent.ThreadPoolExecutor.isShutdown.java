@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ThreadPoolExecutor obj = new java.util.concurrent.ThreadPoolExecutor();java.util.concurrent.ThreadPoolExecutor.isShutdown();}}
+class java_util_concurrent_ThreadPoolExecutor_isShutdown{ public static void function() {java.util.concurrent.ThreadPoolExecutor obj = new java.util.concurrent.ThreadPoolExecutor();java.util.concurrent.ThreadPoolExecutor.isShutdown();}}

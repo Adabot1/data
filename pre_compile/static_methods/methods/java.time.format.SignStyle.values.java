@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.SignStyle.values();}}
+class java_time_format_SignStyle_values{ public static void function() {java.time.format.SignStyle.values();}}

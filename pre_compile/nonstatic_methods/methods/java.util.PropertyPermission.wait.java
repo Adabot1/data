@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.PropertyPermission obj = new java.util.PropertyPermission();java.util.PropertyPermission.wait();}}
+class java_util_PropertyPermission_wait{ public static void function() {java.util.PropertyPermission obj = new java.util.PropertyPermission();java.util.PropertyPermission.wait();}}

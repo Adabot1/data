@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.isBlank();}}
+class java_lang_String_isBlank{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.isBlank();}}

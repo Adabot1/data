@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();java.util.concurrent.atomic.AtomicLongArray.hashCode();}}
+class java_util_concurrent_atomic_AtomicLongArray_hashCode{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();java.util.concurrent.atomic.AtomicLongArray.hashCode();}}

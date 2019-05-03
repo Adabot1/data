@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();java.lang.ProcessBuilder.hashCode();}}
+class java_lang_ProcessBuilder_hashCode{ public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();java.lang.ProcessBuilder.hashCode();}}

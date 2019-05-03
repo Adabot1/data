@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.isProbablePrime(-736329777);}}
+class java_math_BigInteger_isProbablePrime{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.isProbablePrime(1400809814);}}

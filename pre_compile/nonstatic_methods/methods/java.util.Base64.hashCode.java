@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Base64 obj = new java.util.Base64();java.util.Base64.hashCode();}}
+class java_util_Base64_hashCode{ public static void function() {java.util.Base64 obj = new java.util.Base64();java.util.Base64.hashCode();}}

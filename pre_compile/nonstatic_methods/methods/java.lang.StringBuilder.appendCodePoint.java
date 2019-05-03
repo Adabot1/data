@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.appendCodePoint(258679262);}}
+class java_lang_StringBuilder_appendCodePoint{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.appendCodePoint(36927497);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character obj = new java.lang.Character();java.lang.Character.hashCode();}}
+class java_lang_Character_hashCode{ public static void function() {java.lang.Character obj = new java.lang.Character();java.lang.Character.hashCode();}}

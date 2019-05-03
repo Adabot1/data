@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DateFormat obj = new java.text.DateFormat();java.text.DateFormat.clone();}}
+class java_text_DateFormat_clone{ public static void function() {java.text.DateFormat obj = new java.text.DateFormat();java.text.DateFormat.clone();}}

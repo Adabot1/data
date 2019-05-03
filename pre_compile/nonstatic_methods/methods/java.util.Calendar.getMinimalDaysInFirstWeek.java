@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getMinimalDaysInFirstWeek();}}
+class java_util_Calendar_getMinimalDaysInFirstWeek{ public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getMinimalDaysInFirstWeek();}}

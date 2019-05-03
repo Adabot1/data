@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.MessageFormat obj = new java.text.MessageFormat();java.text.MessageFormat.getFormats();}}
+class java_text_MessageFormat_getFormats{ public static void function() {java.text.MessageFormat obj = new java.text.MessageFormat();java.text.MessageFormat.getFormats();}}

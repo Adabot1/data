@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.getEnabledCipherSuites();}}
+class javax_net_ssl_SSLServerSocket_getEnabledCipherSuites{ public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.getEnabledCipherSuites();}}

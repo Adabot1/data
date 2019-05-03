@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.getExpiration();}}
+class java_net_JarURLConnection_getExpiration{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.getExpiration();}}

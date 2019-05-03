@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isNative(-2083686806);}}
+class java_lang_reflect_Modifier_isNative{ public static void function() {java.lang.reflect.Modifier.isNative(1223765757);}}

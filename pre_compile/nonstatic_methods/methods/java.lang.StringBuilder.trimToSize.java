@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.trimToSize();}}
+class java_lang_StringBuilder_trimToSize{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.trimToSize();}}

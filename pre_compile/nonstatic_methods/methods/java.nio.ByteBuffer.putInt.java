@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();java.nio.ByteBuffer.putInt(-760345006,515886642);}}
+class java_nio_ByteBuffer_putInt{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();java.nio.ByteBuffer.putInt(2092135786,1620530041);}}

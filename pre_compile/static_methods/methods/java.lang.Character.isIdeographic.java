@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isIdeographic(1742288739);}}
+class java_lang_Character_isIdeographic{ public static void function() {java.lang.Character.isIdeographic(-686388827);}}

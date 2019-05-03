@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.clone();}}
+class java_util_Date_clone{ public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.clone();}}

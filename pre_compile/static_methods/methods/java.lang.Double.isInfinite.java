@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double.isInfinite(0.5161647648391122);}}
+class java_lang_Double_isInfinite{ public static void function() {java.lang.Double.isInfinite(0.4925352787651591);}}

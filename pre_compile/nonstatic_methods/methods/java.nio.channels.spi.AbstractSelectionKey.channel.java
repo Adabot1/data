@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.spi.AbstractSelectionKey obj = new java.nio.channels.spi.AbstractSelectionKey();java.nio.channels.spi.AbstractSelectionKey.channel();}}
+class java_nio_channels_spi_AbstractSelectionKey_channel{ public static void function() {java.nio.channels.spi.AbstractSelectionKey obj = new java.nio.channels.spi.AbstractSelectionKey();java.nio.channels.spi.AbstractSelectionKey.channel();}}

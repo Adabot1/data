@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();java.nio.CharBuffer.hashCode();}}
+class java_nio_CharBuffer_hashCode{ public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();java.nio.CharBuffer.hashCode();}}

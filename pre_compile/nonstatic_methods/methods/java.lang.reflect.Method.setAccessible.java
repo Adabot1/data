@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Method obj = new java.lang.reflect.Method();java.lang.reflect.Method.setAccessible(true);}}
+class java_lang_reflect_Method_setAccessible{ public static void function() {java.lang.reflect.Method obj = new java.lang.reflect.Method();java.lang.reflect.Method.setAccessible(false);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.toChars(-162066272);}}
+class java_lang_Character_toChars{ public static void function() {java.lang.Character.toChars(997192325);}}

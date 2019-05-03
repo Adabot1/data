@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.spi.DateFormatSymbolsProvider obj = new java.text.spi.DateFormatSymbolsProvider();java.text.spi.DateFormatSymbolsProvider.wait();}}
+class java_text_spi_DateFormatSymbolsProvider_wait{ public static void function() {java.text.spi.DateFormatSymbolsProvider obj = new java.text.spi.DateFormatSymbolsProvider();java.text.spi.DateFormatSymbolsProvider.wait();}}

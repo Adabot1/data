@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.disconnect();}}
+class java_net_MulticastSocket_disconnect{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.disconnect();}}

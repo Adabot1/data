@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.setMaximumPoolSize(-951262726);}}
+class java_util_concurrent_ScheduledThreadPoolExecutor_setMaximumPoolSize{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.setMaximumPoolSize(1530131205);}}

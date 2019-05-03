@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.attribute.PosixFilePermission.values();}}
+class java_nio_file_attribute_PosixFilePermission_values{ public static void function() {java.nio.file.attribute.PosixFilePermission.values();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer obj = new java.lang.Integer();java.lang.Integer.intValue();}}
+class java_lang_Integer_intValue{ public static void function() {java.lang.Integer obj = new java.lang.Integer();java.lang.Integer.intValue();}}

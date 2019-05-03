@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXBuilderParameters obj = new java.security.cert.PKIXBuilderParameters();java.security.cert.PKIXBuilderParameters.isAnyPolicyInhibited();}}
+class java_security_cert_PKIXBuilderParameters_isAnyPolicyInhibited{ public static void function() {java.security.cert.PKIXBuilderParameters obj = new java.security.cert.PKIXBuilderParameters();java.security.cert.PKIXBuilderParameters.isAnyPolicyInhibited();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();java.nio.LongBuffer.asReadOnlyBuffer();}}
+class java_nio_LongBuffer_asReadOnlyBuffer{ public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();java.nio.LongBuffer.asReadOnlyBuffer();}}

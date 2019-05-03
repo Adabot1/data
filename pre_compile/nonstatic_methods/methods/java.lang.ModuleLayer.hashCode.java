@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ModuleLayer obj = new java.lang.ModuleLayer();java.lang.ModuleLayer.hashCode();}}
+class java_lang_ModuleLayer_hashCode{ public static void function() {java.lang.ModuleLayer obj = new java.lang.ModuleLayer();java.lang.ModuleLayer.hashCode();}}

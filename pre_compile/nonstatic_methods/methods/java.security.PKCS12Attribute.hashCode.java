@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.PKCS12Attribute obj = new java.security.PKCS12Attribute();java.security.PKCS12Attribute.hashCode();}}
+class java_security_PKCS12Attribute_hashCode{ public static void function() {java.security.PKCS12Attribute obj = new java.security.PKCS12Attribute();java.security.PKCS12Attribute.hashCode();}}

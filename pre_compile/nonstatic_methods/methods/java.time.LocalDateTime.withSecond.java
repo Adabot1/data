@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.withSecond(-929795087);}}
+class java_time_LocalDateTime_withSecond{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.withSecond(425120025);}}

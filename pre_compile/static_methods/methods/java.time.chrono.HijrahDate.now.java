@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.HijrahDate.now();}}
+class java_time_chrono_HijrahDate_now{ public static void function() {java.time.chrono.HijrahDate.now();}}

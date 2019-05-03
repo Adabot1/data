@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.hasNextLine();}}
+class java_util_Scanner_hasNextLine{ public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.hasNextLine();}}

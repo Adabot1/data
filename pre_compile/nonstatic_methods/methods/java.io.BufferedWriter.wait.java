@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedWriter obj = new java.io.BufferedWriter();java.io.BufferedWriter.wait();}}
+class java_io_BufferedWriter_wait{ public static void function() {java.io.BufferedWriter obj = new java.io.BufferedWriter();java.io.BufferedWriter.wait();}}

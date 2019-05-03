@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();java.util.DoubleSummaryStatistics.hashCode();}}
+class java_util_DoubleSummaryStatistics_hashCode{ public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();java.util.DoubleSummaryStatistics.hashCode();}}

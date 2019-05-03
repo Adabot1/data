@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ByteArrayOutputStream obj = new java.io.ByteArrayOutputStream();java.io.ByteArrayOutputStream.flush();}}
+class java_io_ByteArrayOutputStream_flush{ public static void function() {java.io.ByteArrayOutputStream obj = new java.io.ByteArrayOutputStream();java.io.ByteArrayOutputStream.flush();}}

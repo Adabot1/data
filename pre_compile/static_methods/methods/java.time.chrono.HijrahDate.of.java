@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.HijrahDate.of(-1315466977,1825448302,-851007459);}}
+class java_time_chrono_HijrahDate_of{ public static void function() {java.time.chrono.HijrahDate.of(-1993791415,-1677058027,-823283194);}}

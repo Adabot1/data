@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.toEpochDay();}}
+class java_time_LocalDate_toEpochDay{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.toEpochDay();}}

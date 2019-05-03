@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.getInterface();}}
+class java_net_MulticastSocket_getInterface{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.getInterface();}}

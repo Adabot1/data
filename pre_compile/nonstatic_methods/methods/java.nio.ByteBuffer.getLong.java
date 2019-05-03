@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();java.nio.ByteBuffer.getLong(-366600925);}}
+class java_nio_ByteBuffer_getLong{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();java.nio.ByteBuffer.getLong(-160038246);}}

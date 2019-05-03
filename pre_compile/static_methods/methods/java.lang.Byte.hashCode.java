@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte.hashCode([B@491cc5c9);}}
+class java_lang_Byte_hashCode{ public static void function() {java.lang.Byte.hashCode([B@4c762604);}}

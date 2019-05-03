@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.max(729422360,-514585185);}}
+class java_lang_StrictMath_max{ public static void function() {java.lang.StrictMath.max(-1188093240,-711614121);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.setChunkedStreamingMode(-164131690);}}
+class javax_net_ssl_HttpsURLConnection_setChunkedStreamingMode{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.setChunkedStreamingMode(-740612671);}}

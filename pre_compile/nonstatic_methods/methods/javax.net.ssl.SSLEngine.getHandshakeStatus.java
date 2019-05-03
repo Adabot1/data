@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLEngine obj = new javax.net.ssl.SSLEngine();javax.net.ssl.SSLEngine.getHandshakeStatus();}}
+class javax_net_ssl_SSLEngine_getHandshakeStatus{ public static void function() {javax.net.ssl.SSLEngine obj = new javax.net.ssl.SSLEngine();javax.net.ssl.SSLEngine.getHandshakeStatus();}}

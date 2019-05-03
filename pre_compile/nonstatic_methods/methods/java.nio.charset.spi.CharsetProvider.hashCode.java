@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.charset.spi.CharsetProvider obj = new java.nio.charset.spi.CharsetProvider();java.nio.charset.spi.CharsetProvider.hashCode();}}
+class java_nio_charset_spi_CharsetProvider_hashCode{ public static void function() {java.nio.charset.spi.CharsetProvider obj = new java.nio.charset.spi.CharsetProvider();java.nio.charset.spi.CharsetProvider.hashCode();}}

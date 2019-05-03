@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Thread.currentThread();}}
+class java_lang_Thread_currentThread{ public static void function() {java.lang.Thread.currentThread();}}

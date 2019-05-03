@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.ChronoField obj = new java.time.temporal.ChronoField();java.time.temporal.ChronoField.range();}}
+class java_time_temporal_ChronoField_range{ public static void function() {java.time.temporal.ChronoField obj = new java.time.temporal.ChronoField();java.time.temporal.ChronoField.range();}}

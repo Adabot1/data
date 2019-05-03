@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.callback.TextInputCallback obj = new javax.security.auth.callback.TextInputCallback();javax.security.auth.callback.TextInputCallback.notify();}}
+class javax_security_auth_callback_TextInputCallback_notify{ public static void function() {javax.security.auth.callback.TextInputCallback obj = new javax.security.auth.callback.TextInputCallback();javax.security.auth.callback.TextInputCallback.notify();}}

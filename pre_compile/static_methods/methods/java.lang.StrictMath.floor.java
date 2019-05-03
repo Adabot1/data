@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.floor(0.32102254548726894);}}
+class java_lang_StrictMath_floor{ public static void function() {java.lang.StrictMath.floor(0.8829493954426966);}}

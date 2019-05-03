@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.floorDiv(879652978,1094108501);}}
+class java_lang_Math_floorDiv{ public static void function() {java.lang.Math.floorDiv(1801699648,-1392983994);}}

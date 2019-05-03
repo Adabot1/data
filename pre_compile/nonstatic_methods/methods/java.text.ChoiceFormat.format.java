@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.format(0.9543117303277321);}}
+class java_text_ChoiceFormat_format{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.format(0.47651872044350707);}}

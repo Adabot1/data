@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Inet6Address obj = new java.net.Inet6Address();java.net.Inet6Address.isLinkLocalAddress();}}
+class java_net_Inet6Address_isLinkLocalAddress{ public static void function() {java.net.Inet6Address obj = new java.net.Inet6Address();java.net.Inet6Address.isLinkLocalAddress();}}

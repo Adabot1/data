@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PolicyQualifierInfo obj = new java.security.cert.PolicyQualifierInfo();java.security.cert.PolicyQualifierInfo.getPolicyQualifierId();}}
+class java_security_cert_PolicyQualifierInfo_getPolicyQualifierId{ public static void function() {java.security.cert.PolicyQualifierInfo obj = new java.security.cert.PolicyQualifierInfo();java.security.cert.PolicyQualifierInfo.getPolicyQualifierId();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.module.ModuleReference obj = new java.lang.module.ModuleReference();java.lang.module.ModuleReference.notifyAll();}}
+class java_lang_module_ModuleReference_notifyAll{ public static void function() {java.lang.module.ModuleReference obj = new java.lang.module.ModuleReference();java.lang.module.ModuleReference.notifyAll();}}

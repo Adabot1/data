@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.SerializedLambda obj = new java.lang.invoke.SerializedLambda();java.lang.invoke.SerializedLambda.getFunctionalInterfaceMethodSignature();}}
+class java_lang_invoke_SerializedLambda_getFunctionalInterfaceMethodSignature{ public static void function() {java.lang.invoke.SerializedLambda obj = new java.lang.invoke.SerializedLambda();java.lang.invoke.SerializedLambda.getFunctionalInterfaceMethodSignature();}}

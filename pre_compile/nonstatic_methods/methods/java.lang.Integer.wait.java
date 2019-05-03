@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer obj = new java.lang.Integer();java.lang.Integer.wait();}}
+class java_lang_Integer_wait{ public static void function() {java.lang.Integer obj = new java.lang.Integer();java.lang.Integer.wait();}}

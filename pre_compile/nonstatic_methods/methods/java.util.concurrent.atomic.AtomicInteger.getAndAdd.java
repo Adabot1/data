@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();java.util.concurrent.atomic.AtomicInteger.getAndAdd(1642894266);}}
+class java_util_concurrent_atomic_AtomicInteger_getAndAdd{ public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();java.util.concurrent.atomic.AtomicInteger.getAndAdd(2109478450);}}

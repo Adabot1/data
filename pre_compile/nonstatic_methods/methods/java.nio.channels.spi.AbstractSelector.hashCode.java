@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.spi.AbstractSelector obj = new java.nio.channels.spi.AbstractSelector();java.nio.channels.spi.AbstractSelector.hashCode();}}
+class java_nio_channels_spi_AbstractSelector_hashCode{ public static void function() {java.nio.channels.spi.AbstractSelector obj = new java.nio.channels.spi.AbstractSelector();java.nio.channels.spi.AbstractSelector.hashCode();}}

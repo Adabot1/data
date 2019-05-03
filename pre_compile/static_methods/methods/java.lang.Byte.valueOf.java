@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte.valueOf([B@74ad1f1f);}}
+class java_lang_Byte_valueOf{ public static void function() {java.lang.Byte.valueOf([B@2641e737);}}

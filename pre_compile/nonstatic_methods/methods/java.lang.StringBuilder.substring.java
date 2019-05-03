@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.substring(-2107336934,-233092283);}}
+class java_lang_StringBuilder_substring{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.substring(8280706,1868956808);}}

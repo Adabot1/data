@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.getPeerPrincipal();}}
+class javax_net_ssl_HttpsURLConnection_getPeerPrincipal{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.getPeerPrincipal();}}

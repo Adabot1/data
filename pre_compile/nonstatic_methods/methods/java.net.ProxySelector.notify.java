@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.ProxySelector obj = new java.net.ProxySelector();java.net.ProxySelector.notify();}}
+class java_net_ProxySelector_notify{ public static void function() {java.net.ProxySelector obj = new java.net.ProxySelector();java.net.ProxySelector.notify();}}

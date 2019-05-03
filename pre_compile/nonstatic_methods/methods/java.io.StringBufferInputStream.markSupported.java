@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();java.io.StringBufferInputStream.markSupported();}}
+class java_io_StringBufferInputStream_markSupported{ public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();java.io.StringBufferInputStream.markSupported();}}

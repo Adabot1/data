@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Inet4Address obj = new java.net.Inet4Address();java.net.Inet4Address.isMulticastAddress();}}
+class java_net_Inet4Address_isMulticastAddress{ public static void function() {java.net.Inet4Address obj = new java.net.Inet4Address();java.net.Inet4Address.isMulticastAddress();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.AuthProvider obj = new java.security.AuthProvider();java.security.AuthProvider.propertyNames();}}
+class java_security_AuthProvider_propertyNames{ public static void function() {java.security.AuthProvider obj = new java.security.AuthProvider();java.security.AuthProvider.propertyNames();}}

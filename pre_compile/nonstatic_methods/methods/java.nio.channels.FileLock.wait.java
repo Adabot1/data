@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.FileLock obj = new java.nio.channels.FileLock();java.nio.channels.FileLock.wait();}}
+class java_nio_channels_FileLock_wait{ public static void function() {java.nio.channels.FileLock obj = new java.nio.channels.FileLock();java.nio.channels.FileLock.wait();}}

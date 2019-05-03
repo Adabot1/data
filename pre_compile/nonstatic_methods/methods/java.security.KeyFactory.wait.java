@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyFactory obj = new java.security.KeyFactory();java.security.KeyFactory.wait();}}
+class java_security_KeyFactory_wait{ public static void function() {java.security.KeyFactory obj = new java.security.KeyFactory();java.security.KeyFactory.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.withHour(574540994);}}
+class java_time_LocalDateTime_withHour{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.withHour(410220463);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.spi.DateFormatSymbolsProvider obj = new java.text.spi.DateFormatSymbolsProvider();java.text.spi.DateFormatSymbolsProvider.getAvailableLocales();}}
+class java_text_spi_DateFormatSymbolsProvider_getAvailableLocales{ public static void function() {java.text.spi.DateFormatSymbolsProvider obj = new java.text.spi.DateFormatSymbolsProvider();java.text.spi.DateFormatSymbolsProvider.getAvailableLocales();}}

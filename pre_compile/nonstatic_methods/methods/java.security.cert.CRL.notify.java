@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CRL obj = new java.security.cert.CRL();java.security.cert.CRL.notify();}}
+class java_security_cert_CRL_notify{ public static void function() {java.security.cert.CRL obj = new java.security.cert.CRL();java.security.cert.CRL.notify();}}

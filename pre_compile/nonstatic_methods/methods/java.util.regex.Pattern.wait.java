@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.regex.Pattern obj = new java.util.regex.Pattern();java.util.regex.Pattern.wait();}}
+class java_util_regex_Pattern_wait{ public static void function() {java.util.regex.Pattern obj = new java.util.regex.Pattern();java.util.regex.Pattern.wait();}}

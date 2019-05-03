@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.FileStore obj = new java.nio.file.FileStore();java.nio.file.FileStore.isReadOnly();}}
+class java_nio_file_FileStore_isReadOnly{ public static void function() {java.nio.file.FileStore obj = new java.nio.file.FileStore();java.nio.file.FileStore.isReadOnly();}}

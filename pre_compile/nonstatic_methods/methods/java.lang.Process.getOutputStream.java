@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.getOutputStream();}}
+class java_lang_Process_getOutputStream{ public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.getOutputStream();}}

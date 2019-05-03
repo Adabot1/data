@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ObjectInputStream obj = new java.io.ObjectInputStream();java.io.ObjectInputStream.readUnshared();}}
+class java_io_ObjectInputStream_readUnshared{ public static void function() {java.io.ObjectInputStream obj = new java.io.ObjectInputStream();java.io.ObjectInputStream.readUnshared();}}

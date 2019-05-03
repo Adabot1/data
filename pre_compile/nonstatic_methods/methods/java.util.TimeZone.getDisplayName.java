@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.TimeZone obj = new java.util.TimeZone();java.util.TimeZone.getDisplayName(true,-1401127216);}}
+class java_util_TimeZone_getDisplayName{ public static void function() {java.util.TimeZone obj = new java.util.TimeZone();java.util.TimeZone.getDisplayName(true,-1765456906);}}

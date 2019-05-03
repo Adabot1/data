@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.Files obj = new java.nio.file.Files();java.nio.file.Files.toString();}}
+class java_nio_file_Files_toString{ public static void function() {java.nio.file.Files obj = new java.nio.file.Files();java.nio.file.Files.toString();}}

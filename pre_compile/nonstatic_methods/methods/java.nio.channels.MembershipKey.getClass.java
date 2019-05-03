@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.MembershipKey obj = new java.nio.channels.MembershipKey();java.nio.channels.MembershipKey.getClass();}}
+class java_nio_channels_MembershipKey_getClass{ public static void function() {java.nio.channels.MembershipKey obj = new java.nio.channels.MembershipKey();java.nio.channels.MembershipKey.getClass();}}

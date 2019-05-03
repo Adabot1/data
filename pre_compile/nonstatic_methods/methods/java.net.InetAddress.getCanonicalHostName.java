@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.InetAddress obj = new java.net.InetAddress();java.net.InetAddress.getCanonicalHostName();}}
+class java_net_InetAddress_getCanonicalHostName{ public static void function() {java.net.InetAddress obj = new java.net.InetAddress();java.net.InetAddress.getCanonicalHostName();}}

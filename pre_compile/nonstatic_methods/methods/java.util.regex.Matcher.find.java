@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.regex.Matcher obj = new java.util.regex.Matcher();java.util.regex.Matcher.find(-939700865);}}
+class java_util_regex_Matcher_find{ public static void function() {java.util.regex.Matcher obj = new java.util.regex.Matcher();java.util.regex.Matcher.find(-1401563708);}}

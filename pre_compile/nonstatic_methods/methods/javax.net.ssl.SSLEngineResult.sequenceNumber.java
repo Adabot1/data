@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLEngineResult obj = new javax.net.ssl.SSLEngineResult();javax.net.ssl.SSLEngineResult.sequenceNumber();}}
+class javax_net_ssl_SSLEngineResult_sequenceNumber{ public static void function() {javax.net.ssl.SSLEngineResult obj = new javax.net.ssl.SSLEngineResult();javax.net.ssl.SSLEngineResult.sequenceNumber();}}

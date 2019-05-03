@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.StandardCopyOption.values();}}
+class java_nio_file_StandardCopyOption_values{ public static void function() {java.nio.file.StandardCopyOption.values();}}

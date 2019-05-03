@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.CharArrayReader.nullReader();}}
+class java_io_CharArrayReader_nullReader{ public static void function() {java.io.CharArrayReader.nullReader();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.System obj = new java.lang.System();java.lang.System.notifyAll();}}
+class java_lang_System_notifyAll{ public static void function() {java.lang.System obj = new java.lang.System();java.lang.System.notifyAll();}}

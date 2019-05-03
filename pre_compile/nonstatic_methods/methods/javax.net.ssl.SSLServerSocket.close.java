@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.close();}}
+class javax_net_ssl_SSLServerSocket_close{ public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.close();}}

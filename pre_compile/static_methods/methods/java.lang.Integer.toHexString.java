@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.toHexString(2051964368);}}
+class java_lang_Integer_toHexString{ public static void function() {java.lang.Integer.toHexString(-2038877441);}}

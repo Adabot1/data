@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.EventObject obj = new java.util.EventObject();java.util.EventObject.notify();}}
+class java_util_EventObject_notify{ public static void function() {java.util.EventObject obj = new java.util.EventObject();java.util.EventObject.notify();}}

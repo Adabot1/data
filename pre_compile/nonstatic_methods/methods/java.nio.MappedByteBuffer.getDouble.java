@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.getDouble(-1481440322);}}
+class java_nio_MappedByteBuffer_getDouble{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.getDouble(-405278940);}}

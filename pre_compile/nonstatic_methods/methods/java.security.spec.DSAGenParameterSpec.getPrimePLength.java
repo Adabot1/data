@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.DSAGenParameterSpec obj = new java.security.spec.DSAGenParameterSpec();java.security.spec.DSAGenParameterSpec.getPrimePLength();}}
+class java_security_spec_DSAGenParameterSpec_getPrimePLength{ public static void function() {java.security.spec.DSAGenParameterSpec obj = new java.security.spec.DSAGenParameterSpec();java.security.spec.DSAGenParameterSpec.getPrimePLength();}}

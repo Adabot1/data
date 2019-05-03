@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.getRoundingMode();}}
+class java_text_ChoiceFormat_getRoundingMode{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.getRoundingMode();}}

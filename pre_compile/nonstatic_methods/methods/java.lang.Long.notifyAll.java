@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Long obj = new java.lang.Long();java.lang.Long.notifyAll();}}
+class java_lang_Long_notifyAll{ public static void function() {java.lang.Long obj = new java.lang.Long();java.lang.Long.notifyAll();}}

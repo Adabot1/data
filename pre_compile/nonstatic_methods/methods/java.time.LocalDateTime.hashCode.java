@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.hashCode();}}
+class java_time_LocalDateTime_hashCode{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();java.time.LocalDateTime.hashCode();}}

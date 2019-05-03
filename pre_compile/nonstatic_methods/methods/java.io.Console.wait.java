@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.Console obj = new java.io.Console();java.io.Console.wait();}}
+class java_io_Console_wait{ public static void function() {java.io.Console obj = new java.io.Console();java.io.Console.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileOutputStream obj = new java.io.FileOutputStream();java.io.FileOutputStream.wait();}}
+class java_io_FileOutputStream_wait{ public static void function() {java.io.FileOutputStream obj = new java.io.FileOutputStream();java.io.FileOutputStream.wait();}}

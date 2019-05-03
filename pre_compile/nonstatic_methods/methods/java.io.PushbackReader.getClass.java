@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();java.io.PushbackReader.getClass();}}
+class java_io_PushbackReader_getClass{ public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();java.io.PushbackReader.getClass();}}

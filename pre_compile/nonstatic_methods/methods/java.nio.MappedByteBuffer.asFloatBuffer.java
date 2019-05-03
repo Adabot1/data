@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.asFloatBuffer();}}
+class java_nio_MappedByteBuffer_asFloatBuffer{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.asFloatBuffer();}}

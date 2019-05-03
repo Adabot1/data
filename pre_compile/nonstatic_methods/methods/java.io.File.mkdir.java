@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.File obj = new java.io.File();java.io.File.mkdir();}}
+class java_io_File_mkdir{ public static void function() {java.io.File obj = new java.io.File();java.io.File.mkdir();}}

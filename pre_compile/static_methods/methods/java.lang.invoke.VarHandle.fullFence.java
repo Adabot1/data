@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.VarHandle.fullFence();}}
+class java_lang_invoke_VarHandle_fullFence{ public static void function() {java.lang.invoke.VarHandle.fullFence();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Timer obj = new java.util.Timer();java.util.Timer.hashCode();}}
+class java_util_Timer_hashCode{ public static void function() {java.util.Timer obj = new java.util.Timer();java.util.Timer.hashCode();}}

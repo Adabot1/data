@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.ContentHandler obj = new java.net.ContentHandler();java.net.ContentHandler.notifyAll();}}
+class java_net_ContentHandler_notifyAll{ public static void function() {java.net.ContentHandler obj = new java.net.ContentHandler();java.net.ContentHandler.notifyAll();}}

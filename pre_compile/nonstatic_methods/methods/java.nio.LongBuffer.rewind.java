@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();java.nio.LongBuffer.rewind();}}
+class java_nio_LongBuffer_rewind{ public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();java.nio.LongBuffer.rewind();}}

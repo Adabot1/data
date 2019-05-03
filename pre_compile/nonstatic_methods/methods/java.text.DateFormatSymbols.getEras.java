@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DateFormatSymbols obj = new java.text.DateFormatSymbols();java.text.DateFormatSymbols.getEras();}}
+class java_text_DateFormatSymbols_getEras{ public static void function() {java.text.DateFormatSymbols obj = new java.text.DateFormatSymbols();java.text.DateFormatSymbols.getEras();}}

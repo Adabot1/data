@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.PropertyPermission obj = new java.util.PropertyPermission();java.util.PropertyPermission.hashCode();}}
+class java_util_PropertyPermission_hashCode{ public static void function() {java.util.PropertyPermission obj = new java.util.PropertyPermission();java.util.PropertyPermission.hashCode();}}

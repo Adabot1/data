@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.notify();}}
+class java_io_StreamTokenizer_notify{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.notify();}}

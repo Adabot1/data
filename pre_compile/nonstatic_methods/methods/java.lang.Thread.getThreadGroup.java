@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Thread obj = new java.lang.Thread();java.lang.Thread.getThreadGroup();}}
+class java_lang_Thread_getThreadGroup{ public static void function() {java.lang.Thread obj = new java.lang.Thread();java.lang.Thread.getThreadGroup();}}

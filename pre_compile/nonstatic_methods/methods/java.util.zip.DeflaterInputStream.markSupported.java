@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.DeflaterInputStream obj = new java.util.zip.DeflaterInputStream();java.util.zip.DeflaterInputStream.markSupported();}}
+class java_util_zip_DeflaterInputStream_markSupported{ public static void function() {java.util.zip.DeflaterInputStream obj = new java.util.zip.DeflaterInputStream();java.util.zip.DeflaterInputStream.markSupported();}}

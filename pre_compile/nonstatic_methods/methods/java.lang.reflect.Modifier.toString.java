@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier obj = new java.lang.reflect.Modifier();java.lang.reflect.Modifier.toString();}}
+class java_lang_reflect_Modifier_toString{ public static void function() {java.lang.reflect.Modifier obj = new java.lang.reflect.Modifier();java.lang.reflect.Modifier.toString();}}

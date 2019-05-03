@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.OptionalDouble obj = new java.util.OptionalDouble();java.util.OptionalDouble.toString();}}
+class java_util_OptionalDouble_toString{ public static void function() {java.util.OptionalDouble obj = new java.util.OptionalDouble();java.util.OptionalDouble.toString();}}

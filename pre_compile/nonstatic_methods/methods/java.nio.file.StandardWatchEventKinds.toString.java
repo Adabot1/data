@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.StandardWatchEventKinds obj = new java.nio.file.StandardWatchEventKinds();java.nio.file.StandardWatchEventKinds.toString();}}
+class java_nio_file_StandardWatchEventKinds_toString{ public static void function() {java.nio.file.StandardWatchEventKinds obj = new java.nio.file.StandardWatchEventKinds();java.nio.file.StandardWatchEventKinds.toString();}}

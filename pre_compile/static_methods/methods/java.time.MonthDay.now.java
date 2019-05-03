@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.MonthDay.now();}}
+class java_time_MonthDay_now{ public static void function() {java.time.MonthDay.now();}}

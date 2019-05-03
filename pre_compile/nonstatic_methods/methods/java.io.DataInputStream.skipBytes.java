@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.DataInputStream obj = new java.io.DataInputStream();java.io.DataInputStream.skipBytes(-600232731);}}
+class java_io_DataInputStream_skipBytes{ public static void function() {java.io.DataInputStream obj = new java.io.DataInputStream();java.io.DataInputStream.skipBytes(1565601623);}}

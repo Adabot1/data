@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.getClass();}}
+class java_io_RandomAccessFile_getClass{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.getClass();}}

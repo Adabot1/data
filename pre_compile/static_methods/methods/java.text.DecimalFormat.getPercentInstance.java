@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat.getPercentInstance();}}
+class java_text_DecimalFormat_getPercentInstance{ public static void function() {java.text.DecimalFormat.getPercentInstance();}}

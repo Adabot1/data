@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ForkJoinWorkerThread obj = new java.util.concurrent.ForkJoinWorkerThread();java.util.concurrent.ForkJoinWorkerThread.toString();}}
+class java_util_concurrent_ForkJoinWorkerThread_toString{ public static void function() {java.util.concurrent.ForkJoinWorkerThread obj = new java.util.concurrent.ForkJoinWorkerThread();java.util.concurrent.ForkJoinWorkerThread.toString();}}

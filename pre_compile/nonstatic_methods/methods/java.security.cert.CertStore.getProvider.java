@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertStore obj = new java.security.cert.CertStore();java.security.cert.CertStore.getProvider();}}
+class java_security_cert_CertStore_getProvider{ public static void function() {java.security.cert.CertStore obj = new java.security.cert.CertStore();java.security.cert.CertStore.getProvider();}}

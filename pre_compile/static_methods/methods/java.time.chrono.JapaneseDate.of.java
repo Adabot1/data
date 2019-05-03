@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.JapaneseDate.of(1018973413,1860726821,-1357116050);}}
+class java_time_chrono_JapaneseDate_of{ public static void function() {java.time.chrono.JapaneseDate.of(650530394,2040476267,-1849023311);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.nextByte(550329559);}}
+class java_util_Scanner_nextByte{ public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.nextByte(1902555661);}}

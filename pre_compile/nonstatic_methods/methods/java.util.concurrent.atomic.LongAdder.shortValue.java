@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.LongAdder obj = new java.util.concurrent.atomic.LongAdder();java.util.concurrent.atomic.LongAdder.shortValue();}}
+class java_util_concurrent_atomic_LongAdder_shortValue{ public static void function() {java.util.concurrent.atomic.LongAdder obj = new java.util.concurrent.atomic.LongAdder();java.util.concurrent.atomic.LongAdder.shortValue();}}

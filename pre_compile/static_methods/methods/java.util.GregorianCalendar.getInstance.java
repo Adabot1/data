@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.GregorianCalendar.getInstance();}}
+class java_util_GregorianCalendar_getInstance{ public static void function() {java.util.GregorianCalendar.getInstance();}}

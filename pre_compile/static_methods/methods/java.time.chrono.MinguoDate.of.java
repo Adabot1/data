@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.MinguoDate.of(2122701581,-1935307766,-2080930540);}}
+class java_time_chrono_MinguoDate_of{ public static void function() {java.time.chrono.MinguoDate.of(237675644,-531163027,-1987071688);}}

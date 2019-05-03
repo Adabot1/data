@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.getTaskCount();}}
+class java_util_concurrent_ScheduledThreadPoolExecutor_getTaskCount{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.getTaskCount();}}

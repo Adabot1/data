@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileDescriptor obj = new java.io.FileDescriptor();java.io.FileDescriptor.valid();}}
+class java_io_FileDescriptor_valid{ public static void function() {java.io.FileDescriptor obj = new java.io.FileDescriptor();java.io.FileDescriptor.valid();}}

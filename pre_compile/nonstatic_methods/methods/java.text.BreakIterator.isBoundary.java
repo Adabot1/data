@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();java.text.BreakIterator.isBoundary(-1205471254);}}
+class java_text_BreakIterator_isBoundary{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();java.text.BreakIterator.isBoundary(625687734);}}

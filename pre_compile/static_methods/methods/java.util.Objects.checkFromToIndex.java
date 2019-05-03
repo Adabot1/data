@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Objects.checkFromToIndex(-2129227976,1720911623,-2077345513);}}
+class java_util_Objects_checkFromToIndex{ public static void function() {java.util.Objects.checkFromToIndex(-1768837508,-1035346495,-1657162281);}}

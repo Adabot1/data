@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.Annotation obj = new java.text.Annotation();java.text.Annotation.getClass();}}
+class java_text_Annotation_getClass{ public static void function() {java.text.Annotation obj = new java.text.Annotation();java.text.Annotation.getClass();}}

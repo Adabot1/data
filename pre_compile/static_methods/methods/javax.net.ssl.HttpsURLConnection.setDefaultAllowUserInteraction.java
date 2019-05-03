@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection.setDefaultAllowUserInteraction(true);}}
+class javax_net_ssl_HttpsURLConnection_setDefaultAllowUserInteraction{ public static void function() {javax.net.ssl.HttpsURLConnection.setDefaultAllowUserInteraction(false);}}

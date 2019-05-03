@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Period obj = new java.time.Period();java.time.Period.getYears();}}
+class java_time_Period_getYears{ public static void function() {java.time.Period obj = new java.time.Period();java.time.Period.getYears();}}

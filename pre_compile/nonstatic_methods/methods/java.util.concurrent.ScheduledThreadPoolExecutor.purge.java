@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.purge();}}
+class java_util_concurrent_ScheduledThreadPoolExecutor_purge{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.purge();}}

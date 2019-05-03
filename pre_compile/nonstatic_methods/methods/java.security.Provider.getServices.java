@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Provider obj = new java.security.Provider();java.security.Provider.getServices();}}
+class java_security_Provider_getServices{ public static void function() {java.security.Provider obj = new java.security.Provider();java.security.Provider.getServices();}}

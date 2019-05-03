@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.TimerTask obj = new java.util.TimerTask();java.util.TimerTask.notify();}}
+class java_util_TimerTask_notify{ public static void function() {java.util.TimerTask obj = new java.util.TimerTask();java.util.TimerTask.notify();}}

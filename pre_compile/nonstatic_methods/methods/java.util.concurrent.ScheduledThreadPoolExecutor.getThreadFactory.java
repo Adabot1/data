@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.getThreadFactory();}}
+class java_util_concurrent_ScheduledThreadPoolExecutor_getThreadFactory{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();java.util.concurrent.ScheduledThreadPoolExecutor.getThreadFactory();}}

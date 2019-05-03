@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Executors.newWorkStealingPool(1241145450);}}
+class java_util_concurrent_Executors_newWorkStealingPool{ public static void function() {java.util.concurrent.Executors.newWorkStealingPool(1993192680);}}

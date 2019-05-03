@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.setStartYear(1290601904);}}
+class java_util_SimpleTimeZone_setStartYear{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.setStartYear(1218183519);}}

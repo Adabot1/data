@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLContextSpi obj = new javax.net.ssl.SSLContextSpi();javax.net.ssl.SSLContextSpi.wait();}}
+class javax_net_ssl_SSLContextSpi_wait{ public static void function() {javax.net.ssl.SSLContextSpi obj = new javax.net.ssl.SSLContextSpi();javax.net.ssl.SSLContextSpi.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Objects.checkIndex(1966636098,378119085);}}
+class java_util_Objects_checkIndex{ public static void function() {java.util.Objects.checkIndex(126961027,643338691);}}

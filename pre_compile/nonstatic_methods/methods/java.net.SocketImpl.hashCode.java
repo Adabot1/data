@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.SocketImpl obj = new java.net.SocketImpl();java.net.SocketImpl.hashCode();}}
+class java_net_SocketImpl_hashCode{ public static void function() {java.net.SocketImpl obj = new java.net.SocketImpl();java.net.SocketImpl.hashCode();}}

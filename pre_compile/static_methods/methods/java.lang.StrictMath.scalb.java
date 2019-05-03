@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.scalb(0.16038966972876723,884816623);}}
+class java_lang_StrictMath_scalb{ public static void function() {java.lang.StrictMath.scalb(0.006353300300622311,1049114413);}}

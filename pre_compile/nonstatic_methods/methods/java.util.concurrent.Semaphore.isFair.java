@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Semaphore obj = new java.util.concurrent.Semaphore();java.util.concurrent.Semaphore.isFair();}}
+class java_util_concurrent_Semaphore_isFair{ public static void function() {java.util.concurrent.Semaphore obj = new java.util.concurrent.Semaphore();java.util.concurrent.Semaphore.isFair();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.stripTrailingZeros();}}
+class java_math_BigDecimal_stripTrailingZeros{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.stripTrailingZeros();}}

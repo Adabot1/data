@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.attribute.AclEntryType obj = new java.nio.file.attribute.AclEntryType();java.nio.file.attribute.AclEntryType.notify();}}
+class java_nio_file_attribute_AclEntryType_notify{ public static void function() {java.nio.file.attribute.AclEntryType obj = new java.nio.file.attribute.AclEntryType();java.nio.file.attribute.AclEntryType.notify();}}

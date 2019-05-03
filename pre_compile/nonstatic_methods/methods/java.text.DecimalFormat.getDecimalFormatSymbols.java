@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.getDecimalFormatSymbols();}}
+class java_text_DecimalFormat_getDecimalFormatSymbols{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.getDecimalFormatSymbols();}}

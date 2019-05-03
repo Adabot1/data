@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.ensureCapacity(1829468252);}}
+class java_lang_StringBuilder_ensureCapacity{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.ensureCapacity(-419455502);}}

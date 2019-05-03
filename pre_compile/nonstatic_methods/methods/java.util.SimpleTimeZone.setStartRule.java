@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.setStartRule(-825930571,-1548119228,-1913634686,-1280308518);}}
+class java_util_SimpleTimeZone_setStartRule{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.setStartRule(-742691384,-1556728856,1288901784,982447042);}}

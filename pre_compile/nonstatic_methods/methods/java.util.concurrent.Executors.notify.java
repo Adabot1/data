@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Executors obj = new java.util.concurrent.Executors();java.util.concurrent.Executors.notify();}}
+class java_util_concurrent_Executors_notify{ public static void function() {java.util.concurrent.Executors obj = new java.util.concurrent.Executors();java.util.concurrent.Executors.notify();}}

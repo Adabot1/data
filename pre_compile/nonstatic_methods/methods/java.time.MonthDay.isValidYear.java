@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.MonthDay obj = new java.time.MonthDay();java.time.MonthDay.isValidYear(981636198);}}
+class java_time_MonthDay_isValidYear{ public static void function() {java.time.MonthDay obj = new java.time.MonthDay();java.time.MonthDay.isValidYear(-888709680);}}

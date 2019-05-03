@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.ECFieldFp obj = new java.security.spec.ECFieldFp();java.security.spec.ECFieldFp.notifyAll();}}
+class java_security_spec_ECFieldFp_notifyAll{ public static void function() {java.security.spec.ECFieldFp obj = new java.security.spec.ECFieldFp();java.security.spec.ECFieldFp.notifyAll();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Flow.defaultBufferSize();}}
+class java_util_concurrent_Flow_defaultBufferSize{ public static void function() {java.util.concurrent.Flow.defaultBufferSize();}}

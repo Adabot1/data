@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.notifyAll();}}
+class java_net_JarURLConnection_notifyAll{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.notifyAll();}}

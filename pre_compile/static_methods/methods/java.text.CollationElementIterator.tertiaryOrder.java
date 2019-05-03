@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.CollationElementIterator.tertiaryOrder(-1585014257);}}
+class java_text_CollationElementIterator_tertiaryOrder{ public static void function() {java.text.CollationElementIterator.tertiaryOrder(-630622678);}}

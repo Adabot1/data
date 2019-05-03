@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.signum(1465440333);}}
+class java_lang_Integer_signum{ public static void function() {java.lang.Integer.signum(-1830897240);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.DSAParameterSpec obj = new java.security.spec.DSAParameterSpec();java.security.spec.DSAParameterSpec.notifyAll();}}
+class java_security_spec_DSAParameterSpec_notifyAll{ public static void function() {java.security.spec.DSAParameterSpec obj = new java.security.spec.DSAParameterSpec();java.security.spec.DSAParameterSpec.notifyAll();}}

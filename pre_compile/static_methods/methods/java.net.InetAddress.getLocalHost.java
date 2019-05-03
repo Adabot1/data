@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.InetAddress.getLocalHost();}}
+class java_net_InetAddress_getLocalHost{ public static void function() {java.net.InetAddress.getLocalHost();}}

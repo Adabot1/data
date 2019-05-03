@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.DigestInputStream obj = new java.security.DigestInputStream();java.security.DigestInputStream.hashCode();}}
+class java_security_DigestInputStream_hashCode{ public static void function() {java.security.DigestInputStream obj = new java.security.DigestInputStream();java.security.DigestInputStream.hashCode();}}

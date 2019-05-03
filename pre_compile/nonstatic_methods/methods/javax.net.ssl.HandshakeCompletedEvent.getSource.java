@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HandshakeCompletedEvent obj = new javax.net.ssl.HandshakeCompletedEvent();javax.net.ssl.HandshakeCompletedEvent.getSource();}}
+class javax_net_ssl_HandshakeCompletedEvent_getSource{ public static void function() {javax.net.ssl.HandshakeCompletedEvent obj = new javax.net.ssl.HandshakeCompletedEvent();javax.net.ssl.HandshakeCompletedEvent.getSource();}}

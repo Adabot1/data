@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertPathValidatorSpi obj = new java.security.cert.CertPathValidatorSpi();java.security.cert.CertPathValidatorSpi.engineGetRevocationChecker();}}
+class java_security_cert_CertPathValidatorSpi_engineGetRevocationChecker{ public static void function() {java.security.cert.CertPathValidatorSpi obj = new java.security.cert.CertPathValidatorSpi();java.security.cert.CertPathValidatorSpi.engineGetRevocationChecker();}}

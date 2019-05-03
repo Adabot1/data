@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.Mac obj = new javax.crypto.Mac();javax.crypto.Mac.update([B@6b4a4e18);}}
+class javax_crypto_Mac_update{ public static void function() {javax.crypto.Mac obj = new javax.crypto.Mac();javax.crypto.Mac.update([B@3c72f59f);}}

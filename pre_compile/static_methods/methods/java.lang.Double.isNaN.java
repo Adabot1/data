@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double.isNaN(0.6686738736173019);}}
+class java_lang_Double_isNaN{ public static void function() {java.lang.Double.isNaN(0.7706917174690713);}}

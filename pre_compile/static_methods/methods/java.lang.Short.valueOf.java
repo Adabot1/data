@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Short.valueOf(-705);}}
+class java_lang_Short_valueOf{ public static void function() {java.lang.Short.valueOf(-11393);}}

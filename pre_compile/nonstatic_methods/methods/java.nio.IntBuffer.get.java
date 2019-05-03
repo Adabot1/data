@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();java.nio.IntBuffer.get(-1922598050);}}
+class java_nio_IntBuffer_get{ public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();java.nio.IntBuffer.get(1563407240);}}

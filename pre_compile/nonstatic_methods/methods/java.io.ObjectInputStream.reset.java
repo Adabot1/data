@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ObjectInputStream obj = new java.io.ObjectInputStream();java.io.ObjectInputStream.reset();}}
+class java_io_ObjectInputStream_reset{ public static void function() {java.io.ObjectInputStream obj = new java.io.ObjectInputStream();java.io.ObjectInputStream.reset();}}

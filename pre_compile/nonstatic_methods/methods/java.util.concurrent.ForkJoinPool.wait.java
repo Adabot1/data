@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ForkJoinPool obj = new java.util.concurrent.ForkJoinPool();java.util.concurrent.ForkJoinPool.wait();}}
+class java_util_concurrent_ForkJoinPool_wait{ public static void function() {java.util.concurrent.ForkJoinPool obj = new java.util.concurrent.ForkJoinPool();java.util.concurrent.ForkJoinPool.wait();}}

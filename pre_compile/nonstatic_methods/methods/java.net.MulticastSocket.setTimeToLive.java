@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setTimeToLive(1587811263);}}
+class java_net_MulticastSocket_setTimeToLive{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setTimeToLive(-736035199);}}

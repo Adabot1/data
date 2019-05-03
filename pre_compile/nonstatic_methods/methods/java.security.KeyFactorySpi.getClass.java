@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyFactorySpi obj = new java.security.KeyFactorySpi();java.security.KeyFactorySpi.getClass();}}
+class java_security_KeyFactorySpi_getClass{ public static void function() {java.security.KeyFactorySpi obj = new java.security.KeyFactorySpi();java.security.KeyFactorySpi.getClass();}}

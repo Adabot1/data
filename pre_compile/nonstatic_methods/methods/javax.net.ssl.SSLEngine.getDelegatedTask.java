@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLEngine obj = new javax.net.ssl.SSLEngine();javax.net.ssl.SSLEngine.getDelegatedTask();}}
+class javax_net_ssl_SSLEngine_getDelegatedTask{ public static void function() {javax.net.ssl.SSLEngine obj = new javax.net.ssl.SSLEngine();javax.net.ssl.SSLEngine.getDelegatedTask();}}

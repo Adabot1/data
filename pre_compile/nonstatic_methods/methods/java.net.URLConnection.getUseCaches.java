@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.getUseCaches();}}
+class java_net_URLConnection_getUseCaches{ public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.getUseCaches();}}

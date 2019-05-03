@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.rotateLeft(919901418,1360471199);}}
+class java_lang_Integer_rotateLeft{ public static void function() {java.lang.Integer.rotateLeft(1226785,-983125740);}}

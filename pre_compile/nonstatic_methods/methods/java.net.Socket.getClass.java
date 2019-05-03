@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.getClass();}}
+class java_net_Socket_getClass{ public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.getClass();}}

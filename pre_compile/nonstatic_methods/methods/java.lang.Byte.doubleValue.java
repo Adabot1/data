@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.doubleValue();}}
+class java_lang_Byte_doubleValue{ public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.doubleValue();}}

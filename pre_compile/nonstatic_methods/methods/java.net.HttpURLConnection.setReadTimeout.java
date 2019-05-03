@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.setReadTimeout(-46677124);}}
+class java_net_HttpURLConnection_setReadTimeout{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.setReadTimeout(1454892164);}}

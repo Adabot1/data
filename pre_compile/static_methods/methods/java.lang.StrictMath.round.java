@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.round(0.8119453747444059);}}
+class java_lang_StrictMath_round{ public static void function() {java.lang.StrictMath.round(0.39958086077722044);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat.getCurrencyInstance();}}
+class java_text_ChoiceFormat_getCurrencyInstance{ public static void function() {java.text.ChoiceFormat.getCurrencyInstance();}}

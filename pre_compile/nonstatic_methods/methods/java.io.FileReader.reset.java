@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileReader obj = new java.io.FileReader();java.io.FileReader.reset();}}
+class java_io_FileReader_reset{ public static void function() {java.io.FileReader obj = new java.io.FileReader();java.io.FileReader.reset();}}

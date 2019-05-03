@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.AttributedString obj = new java.text.AttributedString();java.text.AttributedString.getIterator();}}
+class java_text_AttributedString_getIterator{ public static void function() {java.text.AttributedString obj = new java.text.AttributedString();java.text.AttributedString.getIterator();}}

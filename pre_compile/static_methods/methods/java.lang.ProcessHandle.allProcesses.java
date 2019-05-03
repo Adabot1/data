@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ProcessHandle.allProcesses();}}
+class java_lang_ProcessHandle_allProcesses{ public static void function() {java.lang.ProcessHandle.allProcesses();}}

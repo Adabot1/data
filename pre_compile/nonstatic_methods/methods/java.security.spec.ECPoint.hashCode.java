@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.ECPoint obj = new java.security.spec.ECPoint();java.security.spec.ECPoint.hashCode();}}
+class java_security_spec_ECPoint_hashCode{ public static void function() {java.security.spec.ECPoint obj = new java.security.spec.ECPoint();java.security.spec.ECPoint.hashCode();}}

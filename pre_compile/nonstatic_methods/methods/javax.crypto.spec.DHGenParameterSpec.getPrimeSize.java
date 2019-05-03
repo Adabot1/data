@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.DHGenParameterSpec obj = new javax.crypto.spec.DHGenParameterSpec();javax.crypto.spec.DHGenParameterSpec.getPrimeSize();}}
+class javax_crypto_spec_DHGenParameterSpec_getPrimeSize{ public static void function() {javax.crypto.spec.DHGenParameterSpec obj = new javax.crypto.spec.DHGenParameterSpec();javax.crypto.spec.DHGenParameterSpec.getPrimeSize();}}

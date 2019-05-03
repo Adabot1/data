@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.InflaterInputStream obj = new java.util.zip.InflaterInputStream();java.util.zip.InflaterInputStream.toString();}}
+class java_util_zip_InflaterInputStream_toString{ public static void function() {java.util.zip.InflaterInputStream obj = new java.util.zip.InflaterInputStream();java.util.zip.InflaterInputStream.toString();}}

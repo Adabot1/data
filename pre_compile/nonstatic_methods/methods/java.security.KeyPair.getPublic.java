@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyPair obj = new java.security.KeyPair();java.security.KeyPair.getPublic();}}
+class java_security_KeyPair_getPublic{ public static void function() {java.security.KeyPair obj = new java.security.KeyPair();java.security.KeyPair.getPublic();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.spi.FileTypeDetector obj = new java.nio.file.spi.FileTypeDetector();java.nio.file.spi.FileTypeDetector.toString();}}
+class java_nio_file_spi_FileTypeDetector_toString{ public static void function() {java.nio.file.spi.FileTypeDetector obj = new java.nio.file.spi.FileTypeDetector();java.nio.file.spi.FileTypeDetector.toString();}}

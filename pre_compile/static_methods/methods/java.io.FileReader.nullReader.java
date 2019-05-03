@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileReader.nullReader();}}
+class java_io_FileReader_nullReader{ public static void function() {java.io.FileReader.nullReader();}}

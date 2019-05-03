@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Spliterators.emptyIntSpliterator();}}
+class java_util_Spliterators_emptyIntSpliterator{ public static void function() {java.util.Spliterators.emptyIntSpliterator();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.getMinimumFractionDigits();}}
+class java_text_DecimalFormat_getMinimumFractionDigits{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.getMinimumFractionDigits();}}

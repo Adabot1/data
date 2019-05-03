@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.sendUrgentData(-1355417362);}}
+class java_net_Socket_sendUrgentData{ public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.sendUrgentData(-1663547812);}}

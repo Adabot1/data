@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FilterReader obj = new java.io.FilterReader();java.io.FilterReader.getClass();}}
+class java_io_FilterReader_getClass{ public static void function() {java.io.FilterReader obj = new java.io.FilterReader();java.io.FilterReader.getClass();}}

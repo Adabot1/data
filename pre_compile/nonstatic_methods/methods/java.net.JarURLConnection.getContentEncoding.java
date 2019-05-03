@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.getContentEncoding();}}
+class java_net_JarURLConnection_getContentEncoding{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.getContentEncoding();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Calendar.getInstance();}}
+class java_util_Calendar_getInstance{ public static void function() {java.util.Calendar.getInstance();}}

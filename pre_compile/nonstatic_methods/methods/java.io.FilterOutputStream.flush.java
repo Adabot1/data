@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FilterOutputStream obj = new java.io.FilterOutputStream();java.io.FilterOutputStream.flush();}}
+class java_io_FilterOutputStream_flush{ public static void function() {java.io.FilterOutputStream obj = new java.io.FilterOutputStream();java.io.FilterOutputStream.flush();}}

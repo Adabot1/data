@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.NetPermission obj = new java.net.NetPermission();java.net.NetPermission.getClass();}}
+class java_net_NetPermission_getClass{ public static void function() {java.net.NetPermission obj = new java.net.NetPermission();java.net.NetPermission.getClass();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Random obj = new java.util.Random();java.util.Random.notify();}}
+class java_util_Random_notify{ public static void function() {java.util.Random obj = new java.util.Random();java.util.Random.notify();}}

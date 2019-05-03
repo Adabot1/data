@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.setReceiveBufferSize(1985040909);}}
+class javax_net_ssl_SSLServerSocket_setReceiveBufferSize{ public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.setReceiveBufferSize(-2005803305);}}

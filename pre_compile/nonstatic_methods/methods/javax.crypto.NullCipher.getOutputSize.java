@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.NullCipher obj = new javax.crypto.NullCipher();javax.crypto.NullCipher.getOutputSize(42856414);}}
+class javax_crypto_NullCipher_getOutputSize{ public static void function() {javax.crypto.NullCipher obj = new javax.crypto.NullCipher();javax.crypto.NullCipher.getOutputSize(1726604142);}}

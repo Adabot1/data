@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.TemporalAdjusters.firstDayOfMonth();}}
+class java_time_temporal_TemporalAdjusters_firstDayOfMonth{ public static void function() {java.time.temporal.TemporalAdjusters.firstDayOfMonth();}}

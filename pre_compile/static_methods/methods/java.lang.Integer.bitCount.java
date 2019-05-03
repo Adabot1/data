@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.bitCount(1275856398);}}
+class java_lang_Integer_bitCount{ public static void function() {java.lang.Integer.bitCount(1094812119);}}

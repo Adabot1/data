@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();java.util.concurrent.TimeUnit.hashCode();}}
+class java_util_concurrent_TimeUnit_hashCode{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();java.util.concurrent.TimeUnit.hashCode();}}

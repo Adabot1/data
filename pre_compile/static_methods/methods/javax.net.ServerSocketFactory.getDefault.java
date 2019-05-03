@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ServerSocketFactory.getDefault();}}
+class javax_net_ServerSocketFactory_getDefault{ public static void function() {javax.net.ServerSocketFactory.getDefault();}}

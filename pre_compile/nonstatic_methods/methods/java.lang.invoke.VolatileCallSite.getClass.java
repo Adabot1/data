@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.VolatileCallSite obj = new java.lang.invoke.VolatileCallSite();java.lang.invoke.VolatileCallSite.getClass();}}
+class java_lang_invoke_VolatileCallSite_getClass{ public static void function() {java.lang.invoke.VolatileCallSite obj = new java.lang.invoke.VolatileCallSite();java.lang.invoke.VolatileCallSite.getClass();}}

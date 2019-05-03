@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLPermission obj = new javax.net.ssl.SSLPermission();javax.net.ssl.SSLPermission.notifyAll();}}
+class javax_net_ssl_SSLPermission_notifyAll{ public static void function() {javax.net.ssl.SSLPermission obj = new javax.net.ssl.SSLPermission();javax.net.ssl.SSLPermission.notifyAll();}}

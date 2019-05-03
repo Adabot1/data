@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.DecimalStyle.getAvailableLocales();}}
+class java_time_format_DecimalStyle_getAvailableLocales{ public static void function() {java.time.format.DecimalStyle.getAvailableLocales();}}

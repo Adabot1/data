@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FilterReader obj = new java.io.FilterReader();java.io.FilterReader.mark(-1253186708);}}
+class java_io_FilterReader_mark{ public static void function() {java.io.FilterReader obj = new java.io.FilterReader();java.io.FilterReader.mark(1753480059);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.LineNumberReader.nullReader();}}
+class java_io_LineNumberReader_nullReader{ public static void function() {java.io.LineNumberReader.nullReader();}}

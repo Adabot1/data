@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.ServerSocketChannel obj = new java.nio.channels.ServerSocketChannel();java.nio.channels.ServerSocketChannel.supportedOptions();}}
+class java_nio_channels_ServerSocketChannel_supportedOptions{ public static void function() {java.nio.channels.ServerSocketChannel obj = new java.nio.channels.ServerSocketChannel();java.nio.channels.ServerSocketChannel.supportedOptions();}}

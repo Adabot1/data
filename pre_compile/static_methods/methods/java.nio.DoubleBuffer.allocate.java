@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.DoubleBuffer.allocate(983995466);}}
+class java_nio_DoubleBuffer_allocate{ public static void function() {java.nio.DoubleBuffer.allocate(181884773);}}

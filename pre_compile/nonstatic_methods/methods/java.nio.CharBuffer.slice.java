@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();java.nio.CharBuffer.slice();}}
+class java_nio_CharBuffer_slice{ public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();java.nio.CharBuffer.slice();}}

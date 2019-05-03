@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ForkJoinPool obj = new java.util.concurrent.ForkJoinPool();java.util.concurrent.ForkJoinPool.getAsyncMode();}}
+class java_util_concurrent_ForkJoinPool_getAsyncMode{ public static void function() {java.util.concurrent.ForkJoinPool obj = new java.util.concurrent.ForkJoinPool();java.util.concurrent.ForkJoinPool.getAsyncMode();}}

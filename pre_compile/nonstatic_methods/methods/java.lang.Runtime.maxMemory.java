@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.maxMemory();}}
+class java_lang_Runtime_maxMemory{ public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.maxMemory();}}

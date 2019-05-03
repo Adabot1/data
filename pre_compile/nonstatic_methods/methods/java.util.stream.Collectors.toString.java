@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.Collectors obj = new java.util.stream.Collectors();java.util.stream.Collectors.toString();}}
+class java_util_stream_Collectors_toString{ public static void function() {java.util.stream.Collectors obj = new java.util.stream.Collectors();java.util.stream.Collectors.toString();}}

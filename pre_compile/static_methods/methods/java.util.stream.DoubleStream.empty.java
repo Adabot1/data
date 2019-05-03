@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.DoubleStream.empty();}}
+class java_util_stream_DoubleStream_empty{ public static void function() {java.util.stream.DoubleStream.empty();}}

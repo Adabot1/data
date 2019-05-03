@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.getOutputStream();}}
+class java_net_HttpURLConnection_getOutputStream{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.getOutputStream();}}

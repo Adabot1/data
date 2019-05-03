@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.X509ExtendedTrustManager obj = new javax.net.ssl.X509ExtendedTrustManager();javax.net.ssl.X509ExtendedTrustManager.wait();}}
+class javax_net_ssl_X509ExtendedTrustManager_wait{ public static void function() {javax.net.ssl.X509ExtendedTrustManager obj = new javax.net.ssl.X509ExtendedTrustManager();javax.net.ssl.X509ExtendedTrustManager.wait();}}

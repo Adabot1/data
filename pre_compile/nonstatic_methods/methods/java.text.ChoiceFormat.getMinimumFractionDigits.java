@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.getMinimumFractionDigits();}}
+class java_text_ChoiceFormat_getMinimumFractionDigits{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.getMinimumFractionDigits();}}

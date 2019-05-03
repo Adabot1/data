@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.AccessibleObject obj = new java.lang.reflect.AccessibleObject();java.lang.reflect.AccessibleObject.getAnnotations();}}
+class java_lang_reflect_AccessibleObject_getAnnotations{ public static void function() {java.lang.reflect.AccessibleObject obj = new java.lang.reflect.AccessibleObject();java.lang.reflect.AccessibleObject.getAnnotations();}}

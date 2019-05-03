@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setMinimumIntegerDigits(1755712801);}}
+class java_text_DecimalFormat_setMinimumIntegerDigits{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setMinimumIntegerDigits(783543993);}}

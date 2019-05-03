@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.sin(0.7642551522652954);}}
+class java_lang_StrictMath_sin{ public static void function() {java.lang.StrictMath.sin(0.4439994537865931);}}

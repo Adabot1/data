@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ThreadDeath obj = new java.lang.ThreadDeath();java.lang.ThreadDeath.getSuppressed();}}
+class java_lang_ThreadDeath_getSuppressed{ public static void function() {java.lang.ThreadDeath obj = new java.lang.ThreadDeath();java.lang.ThreadDeath.getSuppressed();}}

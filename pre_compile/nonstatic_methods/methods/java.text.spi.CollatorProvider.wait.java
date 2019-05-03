@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.spi.CollatorProvider obj = new java.text.spi.CollatorProvider();java.text.spi.CollatorProvider.wait();}}
+class java_text_spi_CollatorProvider_wait{ public static void function() {java.text.spi.CollatorProvider obj = new java.text.spi.CollatorProvider();java.text.spi.CollatorProvider.wait();}}

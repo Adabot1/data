@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.AllPermission obj = new java.security.AllPermission();java.security.AllPermission.wait();}}
+class java_security_AllPermission_wait{ public static void function() {java.security.AllPermission obj = new java.security.AllPermission();java.security.AllPermission.wait();}}

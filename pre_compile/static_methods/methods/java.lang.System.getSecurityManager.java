@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.System.getSecurityManager();}}
+class java_lang_System_getSecurityManager{ public static void function() {java.lang.System.getSecurityManager();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.SecurityManager obj = new java.lang.SecurityManager();java.lang.SecurityManager.notify();}}
+class java_lang_SecurityManager_notify{ public static void function() {java.lang.SecurityManager obj = new java.lang.SecurityManager();java.lang.SecurityManager.notify();}}

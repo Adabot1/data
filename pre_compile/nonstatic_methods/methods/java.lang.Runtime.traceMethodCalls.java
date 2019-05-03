@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.traceMethodCalls(false);}}
+class java_lang_Runtime_traceMethodCalls{ public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.traceMethodCalls(false);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.WeekFields obj = new java.time.temporal.WeekFields();java.time.temporal.WeekFields.wait();}}
+class java_time_temporal_WeekFields_wait{ public static void function() {java.time.temporal.WeekFields obj = new java.time.temporal.WeekFields();java.time.temporal.WeekFields.wait();}}

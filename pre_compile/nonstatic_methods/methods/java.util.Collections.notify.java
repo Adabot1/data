@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Collections obj = new java.util.Collections();java.util.Collections.notify();}}
+class java_util_Collections_notify{ public static void function() {java.util.Collections obj = new java.util.Collections();java.util.Collections.notify();}}

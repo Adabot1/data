@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.notifyAll();}}
+class java_lang_Process_notifyAll{ public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.notifyAll();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Package obj = new java.lang.Package();java.lang.Package.getName();}}
+class java_lang_Package_getName{ public static void function() {java.lang.Package obj = new java.lang.Package();java.lang.Package.getName();}}

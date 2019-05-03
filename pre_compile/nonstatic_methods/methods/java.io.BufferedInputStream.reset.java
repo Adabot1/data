@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedInputStream obj = new java.io.BufferedInputStream();java.io.BufferedInputStream.reset();}}
+class java_io_BufferedInputStream_reset{ public static void function() {java.io.BufferedInputStream obj = new java.io.BufferedInputStream();java.io.BufferedInputStream.reset();}}

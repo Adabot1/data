@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.setScale(-658427468,1149252191);}}
+class java_math_BigDecimal_setScale{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.setScale(-2117108051,1138044130);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedOutputStream obj = new java.io.BufferedOutputStream();java.io.BufferedOutputStream.getClass();}}
+class java_io_BufferedOutputStream_getClass{ public static void function() {java.io.BufferedOutputStream obj = new java.io.BufferedOutputStream();java.io.BufferedOutputStream.getClass();}}

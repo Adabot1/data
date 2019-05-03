@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDate.now();}}
+class java_time_LocalDate_now{ public static void function() {java.time.LocalDate.now();}}

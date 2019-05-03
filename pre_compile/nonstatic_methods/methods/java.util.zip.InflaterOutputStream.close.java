@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.InflaterOutputStream obj = new java.util.zip.InflaterOutputStream();java.util.zip.InflaterOutputStream.close();}}
+class java_util_zip_InflaterOutputStream_close{ public static void function() {java.util.zip.InflaterOutputStream obj = new java.util.zip.InflaterOutputStream();java.util.zip.InflaterOutputStream.close();}}

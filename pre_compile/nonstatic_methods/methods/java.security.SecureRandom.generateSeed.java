@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();java.security.SecureRandom.generateSeed(-372451579);}}
+class java_security_SecureRandom_generateSeed{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();java.security.SecureRandom.generateSeed(-1644302933);}}

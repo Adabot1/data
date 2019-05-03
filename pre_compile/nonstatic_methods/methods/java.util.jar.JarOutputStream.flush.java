@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();java.util.jar.JarOutputStream.flush();}}
+class java_util_jar_JarOutputStream_flush{ public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();java.util.jar.JarOutputStream.flush();}}

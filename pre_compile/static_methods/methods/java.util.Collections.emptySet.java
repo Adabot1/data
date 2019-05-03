@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Collections.emptySet();}}
+class java_util_Collections_emptySet{ public static void function() {java.util.Collections.emptySet();}}

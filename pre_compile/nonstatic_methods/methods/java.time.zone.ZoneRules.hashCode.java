@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.zone.ZoneRules obj = new java.time.zone.ZoneRules();java.time.zone.ZoneRules.hashCode();}}
+class java_time_zone_ZoneRules_hashCode{ public static void function() {java.time.zone.ZoneRules obj = new java.time.zone.ZoneRules();java.time.zone.ZoneRules.hashCode();}}

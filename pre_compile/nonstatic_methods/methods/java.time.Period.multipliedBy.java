@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Period obj = new java.time.Period();java.time.Period.multipliedBy(-825058537);}}
+class java_time_Period_multipliedBy{ public static void function() {java.time.Period obj = new java.time.Period();java.time.Period.multipliedBy(1724882461);}}

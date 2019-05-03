@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.CollationKey obj = new java.text.CollationKey();java.text.CollationKey.hashCode();}}
+class java_text_CollationKey_hashCode{ public static void function() {java.text.CollationKey obj = new java.text.CollationKey();java.text.CollationKey.hashCode();}}

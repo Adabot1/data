@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double obj = new java.lang.Double();java.lang.Double.longValue();}}
+class java_lang_Double_longValue{ public static void function() {java.lang.Double obj = new java.lang.Double();java.lang.Double.longValue();}}

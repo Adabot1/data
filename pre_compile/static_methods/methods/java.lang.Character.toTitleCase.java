@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.toTitleCase(-538006934);}}
+class java_lang_Character_toTitleCase{ public static void function() {java.lang.Character.toTitleCase(1520390180);}}

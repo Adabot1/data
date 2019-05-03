@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.toBigInteger();}}
+class java_math_BigDecimal_toBigInteger{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.toBigInteger();}}

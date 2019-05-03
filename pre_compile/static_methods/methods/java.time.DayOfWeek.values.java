@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.DayOfWeek.values();}}
+class java_time_DayOfWeek_values{ public static void function() {java.time.DayOfWeek.values();}}

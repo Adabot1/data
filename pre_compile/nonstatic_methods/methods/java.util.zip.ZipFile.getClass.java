@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.ZipFile obj = new java.util.zip.ZipFile();java.util.zip.ZipFile.getClass();}}
+class java_util_zip_ZipFile_getClass{ public static void function() {java.util.zip.ZipFile obj = new java.util.zip.ZipFile();java.util.zip.ZipFile.getClass();}}

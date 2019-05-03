@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.GZIPInputStream obj = new java.util.zip.GZIPInputStream();java.util.zip.GZIPInputStream.wait();}}
+class java_util_zip_GZIPInputStream_wait{ public static void function() {java.util.zip.GZIPInputStream obj = new java.util.zip.GZIPInputStream();java.util.zip.GZIPInputStream.wait();}}

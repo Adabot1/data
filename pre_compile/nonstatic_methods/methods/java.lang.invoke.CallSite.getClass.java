@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.CallSite obj = new java.lang.invoke.CallSite();java.lang.invoke.CallSite.getClass();}}
+class java_lang_invoke_CallSite_getClass{ public static void function() {java.lang.invoke.CallSite obj = new java.lang.invoke.CallSite();java.lang.invoke.CallSite.getClass();}}

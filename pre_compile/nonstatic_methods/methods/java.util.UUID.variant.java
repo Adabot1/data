@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.UUID obj = new java.util.UUID();java.util.UUID.variant();}}
+class java_util_UUID_variant{ public static void function() {java.util.UUID obj = new java.util.UUID();java.util.UUID.variant();}}

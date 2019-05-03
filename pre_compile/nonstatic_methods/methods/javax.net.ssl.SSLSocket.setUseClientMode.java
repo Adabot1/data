@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.setUseClientMode(false);}}
+class javax_net_ssl_SSLSocket_setUseClientMode{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.setUseClientMode(true);}}

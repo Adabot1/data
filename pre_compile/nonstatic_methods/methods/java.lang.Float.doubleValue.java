@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Float obj = new java.lang.Float();java.lang.Float.doubleValue();}}
+class java_lang_Float_doubleValue{ public static void function() {java.lang.Float obj = new java.lang.Float();java.lang.Float.doubleValue();}}

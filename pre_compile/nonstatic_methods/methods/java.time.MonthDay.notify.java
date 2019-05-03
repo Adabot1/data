@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.MonthDay obj = new java.time.MonthDay();java.time.MonthDay.notify();}}
+class java_time_MonthDay_notify{ public static void function() {java.time.MonthDay obj = new java.time.MonthDay();java.time.MonthDay.notify();}}

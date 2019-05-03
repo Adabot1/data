@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXCertPathChecker obj = new java.security.cert.PKIXCertPathChecker();java.security.cert.PKIXCertPathChecker.isForwardCheckingSupported();}}
+class java_security_cert_PKIXCertPathChecker_isForwardCheckingSupported{ public static void function() {java.security.cert.PKIXCertPathChecker obj = new java.security.cert.PKIXCertPathChecker();java.security.cert.PKIXCertPathChecker.isForwardCheckingSupported();}}

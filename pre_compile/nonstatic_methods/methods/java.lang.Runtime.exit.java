@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.exit(404402516);}}
+class java_lang_Runtime_exit{ public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.exit(193162523);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.getNumericValue(-194702360);}}
+class java_lang_Character_getNumericValue{ public static void function() {java.lang.Character.getNumericValue(1070153561);}}

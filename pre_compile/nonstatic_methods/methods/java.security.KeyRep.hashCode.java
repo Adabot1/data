@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyRep obj = new java.security.KeyRep();java.security.KeyRep.hashCode();}}
+class java_security_KeyRep_hashCode{ public static void function() {java.security.KeyRep obj = new java.security.KeyRep();java.security.KeyRep.hashCode();}}

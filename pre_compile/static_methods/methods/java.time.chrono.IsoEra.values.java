@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.IsoEra.values();}}
+class java_time_chrono_IsoEra_values{ public static void function() {java.time.chrono.IsoEra.values();}}

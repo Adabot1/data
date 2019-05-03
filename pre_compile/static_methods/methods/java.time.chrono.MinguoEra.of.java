@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.MinguoEra.of(-10015510);}}
+class java_time_chrono_MinguoEra_of{ public static void function() {java.time.chrono.MinguoEra.of(-1669957203);}}

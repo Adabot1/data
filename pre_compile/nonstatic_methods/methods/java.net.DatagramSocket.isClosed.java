@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();java.net.DatagramSocket.isClosed();}}
+class java_net_DatagramSocket_isClosed{ public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();java.net.DatagramSocket.isClosed();}}

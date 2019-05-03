@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.halt(1165290996);}}
+class java_lang_Runtime_halt{ public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.halt(1592154458);}}

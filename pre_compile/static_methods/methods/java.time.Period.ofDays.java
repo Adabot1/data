@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Period.ofDays(613498161);}}
+class java_time_Period_ofDays{ public static void function() {java.time.Period.ofDays(-1214680062);}}

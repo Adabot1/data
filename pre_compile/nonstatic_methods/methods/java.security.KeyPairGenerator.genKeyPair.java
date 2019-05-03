@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyPairGenerator obj = new java.security.KeyPairGenerator();java.security.KeyPairGenerator.genKeyPair();}}
+class java_security_KeyPairGenerator_genKeyPair{ public static void function() {java.security.KeyPairGenerator obj = new java.security.KeyPairGenerator();java.security.KeyPairGenerator.genKeyPair();}}

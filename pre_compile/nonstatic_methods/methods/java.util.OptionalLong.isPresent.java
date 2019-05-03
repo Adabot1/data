@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();java.util.OptionalLong.isPresent();}}
+class java_util_OptionalLong_isPresent{ public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();java.util.OptionalLong.isPresent();}}

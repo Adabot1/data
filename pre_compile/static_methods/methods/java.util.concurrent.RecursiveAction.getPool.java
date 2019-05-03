@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.RecursiveAction.getPool();}}
+class java_util_concurrent_RecursiveAction_getPool{ public static void function() {java.util.concurrent.RecursiveAction.getPool();}}

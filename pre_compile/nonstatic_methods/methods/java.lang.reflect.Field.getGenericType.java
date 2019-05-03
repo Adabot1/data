@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Field obj = new java.lang.reflect.Field();java.lang.reflect.Field.getGenericType();}}
+class java_lang_reflect_Field_getGenericType{ public static void function() {java.lang.reflect.Field obj = new java.lang.reflect.Field();java.lang.reflect.Field.getGenericType();}}

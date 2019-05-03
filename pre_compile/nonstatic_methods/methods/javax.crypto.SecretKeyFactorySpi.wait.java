@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.SecretKeyFactorySpi obj = new javax.crypto.SecretKeyFactorySpi();javax.crypto.SecretKeyFactorySpi.wait();}}
+class javax_crypto_SecretKeyFactorySpi_wait{ public static void function() {javax.crypto.SecretKeyFactorySpi obj = new javax.crypto.SecretKeyFactorySpi();javax.crypto.SecretKeyFactorySpi.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.ReflectPermission obj = new java.lang.reflect.ReflectPermission();java.lang.reflect.ReflectPermission.newPermissionCollection();}}
+class java_lang_reflect_ReflectPermission_newPermissionCollection{ public static void function() {java.lang.reflect.ReflectPermission obj = new java.lang.reflect.ReflectPermission();java.lang.reflect.ReflectPermission.newPermissionCollection();}}

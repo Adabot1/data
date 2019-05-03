@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.intern();}}
+class java_lang_String_intern{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.intern();}}

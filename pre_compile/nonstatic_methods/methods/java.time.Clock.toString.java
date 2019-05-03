@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Clock obj = new java.time.Clock();java.time.Clock.toString();}}
+class java_time_Clock_toString{ public static void function() {java.time.Clock obj = new java.time.Clock();java.time.Clock.toString();}}

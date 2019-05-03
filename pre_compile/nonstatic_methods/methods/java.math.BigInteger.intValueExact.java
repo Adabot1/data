@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.intValueExact();}}
+class java_math_BigInteger_intValueExact{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.intValueExact();}}

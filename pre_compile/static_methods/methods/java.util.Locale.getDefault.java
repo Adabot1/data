@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Locale.getDefault();}}
+class java_util_Locale_getDefault{ public static void function() {java.util.Locale.getDefault();}}

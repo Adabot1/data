@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.X509EncodedKeySpec obj = new java.security.spec.X509EncodedKeySpec();java.security.spec.X509EncodedKeySpec.getFormat();}}
+class java_security_spec_X509EncodedKeySpec_getFormat{ public static void function() {java.security.spec.X509EncodedKeySpec obj = new java.security.spec.X509EncodedKeySpec();java.security.spec.X509EncodedKeySpec.getFormat();}}

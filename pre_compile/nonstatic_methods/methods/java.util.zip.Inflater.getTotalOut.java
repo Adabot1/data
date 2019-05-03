@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.Inflater obj = new java.util.zip.Inflater();java.util.zip.Inflater.getTotalOut();}}
+class java_util_zip_Inflater_getTotalOut{ public static void function() {java.util.zip.Inflater obj = new java.util.zip.Inflater();java.util.zip.Inflater.getTotalOut();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.shiftLeft(1317489900);}}
+class java_math_BigInteger_shiftLeft{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.shiftLeft(1931492588);}}

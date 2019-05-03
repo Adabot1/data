@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyStoreSpi obj = new java.security.KeyStoreSpi();java.security.KeyStoreSpi.hashCode();}}
+class java_security_KeyStoreSpi_hashCode{ public static void function() {java.security.KeyStoreSpi obj = new java.security.KeyStoreSpi();java.security.KeyStoreSpi.hashCode();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MethodHandles.lookup();}}
+class java_lang_invoke_MethodHandles_lookup{ public static void function() {java.lang.invoke.MethodHandles.lookup();}}

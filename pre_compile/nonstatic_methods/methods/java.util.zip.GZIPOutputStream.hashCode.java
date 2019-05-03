@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.GZIPOutputStream obj = new java.util.zip.GZIPOutputStream();java.util.zip.GZIPOutputStream.hashCode();}}
+class java_util_zip_GZIPOutputStream_hashCode{ public static void function() {java.util.zip.GZIPOutputStream obj = new java.util.zip.GZIPOutputStream();java.util.zip.GZIPOutputStream.hashCode();}}

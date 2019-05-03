@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.spi.DecimalFormatSymbolsProvider obj = new java.text.spi.DecimalFormatSymbolsProvider();java.text.spi.DecimalFormatSymbolsProvider.getAvailableLocales();}}
+class java_text_spi_DecimalFormatSymbolsProvider_getAvailableLocales{ public static void function() {java.text.spi.DecimalFormatSymbolsProvider obj = new java.text.spi.DecimalFormatSymbolsProvider();java.text.spi.DecimalFormatSymbolsProvider.getAvailableLocales();}}

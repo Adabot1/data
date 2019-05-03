@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.DigestOutputStream obj = new java.security.DigestOutputStream();java.security.DigestOutputStream.on(false);}}
+class java_security_DigestOutputStream_on{ public static void function() {java.security.DigestOutputStream obj = new java.security.DigestOutputStream();java.security.DigestOutputStream.on(true);}}

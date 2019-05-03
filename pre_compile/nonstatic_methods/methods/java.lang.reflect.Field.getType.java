@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Field obj = new java.lang.reflect.Field();java.lang.reflect.Field.getType();}}
+class java_lang_reflect_Field_getType{ public static void function() {java.lang.reflect.Field obj = new java.lang.reflect.Field();java.lang.reflect.Field.getType();}}

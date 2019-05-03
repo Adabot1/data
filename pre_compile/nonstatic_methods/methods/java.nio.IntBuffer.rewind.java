@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();java.nio.IntBuffer.rewind();}}
+class java_nio_IntBuffer_rewind{ public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();java.nio.IntBuffer.rewind();}}

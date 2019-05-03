@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.DecimalStyle obj = new java.time.format.DecimalStyle();java.time.format.DecimalStyle.getPositiveSign();}}
+class java_time_format_DecimalStyle_getPositiveSign{ public static void function() {java.time.format.DecimalStyle obj = new java.time.format.DecimalStyle();java.time.format.DecimalStyle.getPositiveSign();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.wait();}}
+class java_net_URI_wait{ public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.wait();}}

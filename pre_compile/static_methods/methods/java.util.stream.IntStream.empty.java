@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.IntStream.empty();}}
+class java_util_stream_IntStream_empty{ public static void function() {java.util.stream.IntStream.empty();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isISOControl(-1948031458);}}
+class java_lang_Character_isISOControl{ public static void function() {java.lang.Character.isISOControl(-64256025);}}

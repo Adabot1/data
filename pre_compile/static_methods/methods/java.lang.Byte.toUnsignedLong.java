@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte.toUnsignedLong([B@757942a1);}}
+class java_lang_Byte_toUnsignedLong{ public static void function() {java.lang.Byte.toUnsignedLong([B@24a35978);}}

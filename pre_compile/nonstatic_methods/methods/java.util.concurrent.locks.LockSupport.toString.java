@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.locks.LockSupport obj = new java.util.concurrent.locks.LockSupport();java.util.concurrent.locks.LockSupport.toString();}}
+class java_util_concurrent_locks_LockSupport_toString{ public static void function() {java.util.concurrent.locks.LockSupport obj = new java.util.concurrent.locks.LockSupport();java.util.concurrent.locks.LockSupport.toString();}}

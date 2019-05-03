@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.reverse();}}
+class java_lang_StringBuffer_reverse{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.reverse();}}

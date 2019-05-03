@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Locale obj = new java.util.Locale();java.util.Locale.hasExtensions();}}
+class java_util_Locale_hasExtensions{ public static void function() {java.util.Locale obj = new java.util.Locale();java.util.Locale.hasExtensions();}}

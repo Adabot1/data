@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.Deflater obj = new java.util.zip.Deflater();java.util.zip.Deflater.setStrategy(620972175);}}
+class java_util_zip_Deflater_setStrategy{ public static void function() {java.util.zip.Deflater obj = new java.util.zip.Deflater();java.util.zip.Deflater.setStrategy(1711187210);}}

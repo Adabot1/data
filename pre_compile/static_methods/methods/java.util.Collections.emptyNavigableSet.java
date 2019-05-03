@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Collections.emptyNavigableSet();}}
+class java_util_Collections_emptyNavigableSet{ public static void function() {java.util.Collections.emptyNavigableSet();}}

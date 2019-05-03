@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.CookieManager obj = new java.net.CookieManager();java.net.CookieManager.hashCode();}}
+class java_net_CookieManager_hashCode{ public static void function() {java.net.CookieManager obj = new java.net.CookieManager();java.net.CookieManager.hashCode();}}

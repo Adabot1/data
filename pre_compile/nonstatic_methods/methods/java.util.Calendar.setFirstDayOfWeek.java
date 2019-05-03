@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.setFirstDayOfWeek(-466955981);}}
+class java_util_Calendar_setFirstDayOfWeek{ public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.setFirstDayOfWeek(2107561237);}}

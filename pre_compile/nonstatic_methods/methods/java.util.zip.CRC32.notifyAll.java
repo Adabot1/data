@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.CRC32 obj = new java.util.zip.CRC32();java.util.zip.CRC32.notifyAll();}}
+class java_util_zip_CRC32_notifyAll{ public static void function() {java.util.zip.CRC32 obj = new java.util.zip.CRC32();java.util.zip.CRC32.notifyAll();}}

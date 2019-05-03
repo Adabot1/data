@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat.getAvailableLocales();}}
+class java_text_ChoiceFormat_getAvailableLocales{ public static void function() {java.text.ChoiceFormat.getAvailableLocales();}}

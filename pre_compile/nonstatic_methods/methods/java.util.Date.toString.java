@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.toString();}}
+class java_util_Date_toString{ public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.toString();}}

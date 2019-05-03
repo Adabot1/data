@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Authenticator obj = new java.net.Authenticator();java.net.Authenticator.getClass();}}
+class java_net_Authenticator_getClass{ public static void function() {java.net.Authenticator obj = new java.net.Authenticator();java.net.Authenticator.getClass();}}

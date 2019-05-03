@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.AbstractExecutorService obj = new java.util.concurrent.AbstractExecutorService();java.util.concurrent.AbstractExecutorService.shutdown();}}
+class java_util_concurrent_AbstractExecutorService_shutdown{ public static void function() {java.util.concurrent.AbstractExecutorService obj = new java.util.concurrent.AbstractExecutorService();java.util.concurrent.AbstractExecutorService.shutdown();}}

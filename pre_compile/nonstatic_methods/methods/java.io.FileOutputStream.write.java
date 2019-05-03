@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileOutputStream obj = new java.io.FileOutputStream();java.io.FileOutputStream.write(1027730785);}}
+class java_io_FileOutputStream_write{ public static void function() {java.io.FileOutputStream obj = new java.io.FileOutputStream();java.io.FileOutputStream.write(-484771900);}}

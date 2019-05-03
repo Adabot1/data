@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.ResponseCache obj = new java.net.ResponseCache();java.net.ResponseCache.wait();}}
+class java_net_ResponseCache_wait{ public static void function() {java.net.ResponseCache obj = new java.net.ResponseCache();java.net.ResponseCache.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SNIServerName obj = new javax.net.ssl.SNIServerName();javax.net.ssl.SNIServerName.notifyAll();}}
+class javax_net_ssl_SNIServerName_notifyAll{ public static void function() {javax.net.ssl.SNIServerName obj = new javax.net.ssl.SNIServerName();javax.net.ssl.SNIServerName.notifyAll();}}

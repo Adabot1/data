@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Method obj = new java.lang.reflect.Method();java.lang.reflect.Method.getGenericParameterTypes();}}
+class java_lang_reflect_Method_getGenericParameterTypes{ public static void function() {java.lang.reflect.Method obj = new java.lang.reflect.Method();java.lang.reflect.Method.getGenericParameterTypes();}}

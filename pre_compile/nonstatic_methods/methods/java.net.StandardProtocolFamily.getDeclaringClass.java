@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.StandardProtocolFamily obj = new java.net.StandardProtocolFamily();java.net.StandardProtocolFamily.getDeclaringClass();}}
+class java_net_StandardProtocolFamily_getDeclaringClass{ public static void function() {java.net.StandardProtocolFamily obj = new java.net.StandardProtocolFamily();java.net.StandardProtocolFamily.getDeclaringClass();}}

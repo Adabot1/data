@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Identity obj = new java.security.Identity();java.security.Identity.getPublicKey();}}
+class java_security_Identity_getPublicKey{ public static void function() {java.security.Identity obj = new java.security.Identity();java.security.Identity.getPublicKey();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.signum(0.7349757592720236);}}
+class java_lang_Math_signum{ public static void function() {java.lang.Math.signum(0.9762615429039002);}}

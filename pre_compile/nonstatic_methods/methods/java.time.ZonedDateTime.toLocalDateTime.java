@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.toLocalDateTime();}}
+class java_time_ZonedDateTime_toLocalDateTime{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.toLocalDateTime();}}

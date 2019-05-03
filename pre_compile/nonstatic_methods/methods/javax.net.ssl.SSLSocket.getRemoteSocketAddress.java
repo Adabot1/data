@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getRemoteSocketAddress();}}
+class javax_net_ssl_SSLSocket_getRemoteSocketAddress{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getRemoteSocketAddress();}}

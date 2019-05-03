@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.File obj = new java.io.File();java.io.File.createNewFile();}}
+class java_io_File_createNewFile{ public static void function() {java.io.File obj = new java.io.File();java.io.File.createNewFile();}}

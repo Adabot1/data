@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.notify();}}
+class java_lang_Byte_notify{ public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.notify();}}

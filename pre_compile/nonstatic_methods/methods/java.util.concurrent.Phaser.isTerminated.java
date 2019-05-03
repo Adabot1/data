@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();java.util.concurrent.Phaser.isTerminated();}}
+class java_util_concurrent_Phaser_isTerminated{ public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();java.util.concurrent.Phaser.isTerminated();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PrintStream obj = new java.io.PrintStream();java.io.PrintStream.close();}}
+class java_io_PrintStream_close{ public static void function() {java.io.PrintStream obj = new java.io.PrintStream();java.io.PrintStream.close();}}

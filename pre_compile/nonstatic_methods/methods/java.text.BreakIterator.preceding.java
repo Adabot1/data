@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();java.text.BreakIterator.preceding(1821654156);}}
+class java_text_BreakIterator_preceding{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();java.text.BreakIterator.preceding(-253798268);}}

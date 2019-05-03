@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isDigit(7271631);}}
+class java_lang_Character_isDigit{ public static void function() {java.lang.Character.isDigit(1314075701);}}

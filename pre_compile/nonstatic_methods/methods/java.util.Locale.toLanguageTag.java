@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Locale obj = new java.util.Locale();java.util.Locale.toLanguageTag();}}
+class java_util_Locale_toLanguageTag{ public static void function() {java.util.Locale obj = new java.util.Locale();java.util.Locale.toLanguageTag();}}

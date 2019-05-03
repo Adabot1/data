@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.ChronoUnit.values();}}
+class java_time_temporal_ChronoUnit_values{ public static void function() {java.time.temporal.ChronoUnit.values();}}

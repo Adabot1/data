@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PipedReader obj = new java.io.PipedReader();java.io.PipedReader.mark(-1735570019);}}
+class java_io_PipedReader_mark{ public static void function() {java.io.PipedReader obj = new java.io.PipedReader();java.io.PipedReader.mark(1397118551);}}

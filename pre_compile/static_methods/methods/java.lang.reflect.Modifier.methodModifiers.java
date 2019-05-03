@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.methodModifiers();}}
+class java_lang_reflect_Modifier_methodModifiers{ public static void function() {java.lang.reflect.Modifier.methodModifiers();}}

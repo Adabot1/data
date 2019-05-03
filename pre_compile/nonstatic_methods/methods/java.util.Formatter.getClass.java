@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Formatter obj = new java.util.Formatter();java.util.Formatter.getClass();}}
+class java_util_Formatter_getClass{ public static void function() {java.util.Formatter obj = new java.util.Formatter();java.util.Formatter.getClass();}}

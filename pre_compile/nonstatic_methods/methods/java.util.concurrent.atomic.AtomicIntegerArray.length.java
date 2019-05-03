@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.length();}}
+class java_util_concurrent_atomic_AtomicIntegerArray_length{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.length();}}

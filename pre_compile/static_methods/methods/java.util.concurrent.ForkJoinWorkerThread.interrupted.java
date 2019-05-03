@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ForkJoinWorkerThread.interrupted();}}
+class java_util_concurrent_ForkJoinWorkerThread_interrupted{ public static void function() {java.util.concurrent.ForkJoinWorkerThread.interrupted();}}

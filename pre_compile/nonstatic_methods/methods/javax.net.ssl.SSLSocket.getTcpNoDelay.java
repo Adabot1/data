@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getTcpNoDelay();}}
+class javax_net_ssl_SSLSocket_getTcpNoDelay{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getTcpNoDelay();}}

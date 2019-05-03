@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Signer obj = new java.security.Signer();java.security.Signer.hashCode();}}
+class java_security_Signer_hashCode{ public static void function() {java.security.Signer obj = new java.security.Signer();java.security.Signer.hashCode();}}

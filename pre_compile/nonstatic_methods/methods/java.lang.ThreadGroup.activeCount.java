@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();java.lang.ThreadGroup.activeCount();}}
+class java_lang_ThreadGroup_activeCount{ public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();java.lang.ThreadGroup.activeCount();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character obj = new java.lang.Character();java.lang.Character.notifyAll();}}
+class java_lang_Character_notifyAll{ public static void function() {java.lang.Character obj = new java.lang.Character();java.lang.Character.notifyAll();}}

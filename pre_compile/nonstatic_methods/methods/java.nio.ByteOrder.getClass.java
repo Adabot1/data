@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.ByteOrder obj = new java.nio.ByteOrder();java.nio.ByteOrder.getClass();}}
+class java_nio_ByteOrder_getClass{ public static void function() {java.nio.ByteOrder obj = new java.nio.ByteOrder();java.nio.ByteOrder.getClass();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.hashCode();}}
+class java_util_SimpleTimeZone_hashCode{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.hashCode();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.callback.ChoiceCallback obj = new javax.security.auth.callback.ChoiceCallback();javax.security.auth.callback.ChoiceCallback.setSelectedIndex(612764687);}}
+class javax_security_auth_callback_ChoiceCallback_setSelectedIndex{ public static void function() {javax.security.auth.callback.ChoiceCallback obj = new javax.security.auth.callback.ChoiceCallback();javax.security.auth.callback.ChoiceCallback.setSelectedIndex(-2038629952);}}

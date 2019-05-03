@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();java.io.ObjectOutputStream.writeBoolean(true);}}
+class java_io_ObjectOutputStream_writeBoolean{ public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();java.io.ObjectOutputStream.writeBoolean(false);}}

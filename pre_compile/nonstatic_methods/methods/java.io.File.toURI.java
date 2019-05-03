@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.File obj = new java.io.File();java.io.File.toURI();}}
+class java_io_File_toURI{ public static void function() {java.io.File obj = new java.io.File();java.io.File.toURI();}}

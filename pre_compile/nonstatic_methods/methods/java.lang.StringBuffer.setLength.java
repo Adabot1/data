@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.setLength(135590479);}}
+class java_lang_StringBuffer_setLength{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.setLength(1573447716);}}

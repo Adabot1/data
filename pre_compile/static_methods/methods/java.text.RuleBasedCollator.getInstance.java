@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.RuleBasedCollator.getInstance();}}
+class java_text_RuleBasedCollator_getInstance{ public static void function() {java.text.RuleBasedCollator.getInstance();}}

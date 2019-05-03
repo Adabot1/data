@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.Normalizer obj = new java.text.Normalizer();java.text.Normalizer.wait();}}
+class java_text_Normalizer_wait{ public static void function() {java.text.Normalizer obj = new java.text.Normalizer();java.text.Normalizer.wait();}}

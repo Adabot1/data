@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.floorDiv(2129519509,-784741901);}}
+class java_lang_StrictMath_floorDiv{ public static void function() {java.lang.StrictMath.floorDiv(-266069266,93546631);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.attribute.FileTime obj = new java.nio.file.attribute.FileTime();java.nio.file.attribute.FileTime.notifyAll();}}
+class java_nio_file_attribute_FileTime_notifyAll{ public static void function() {java.nio.file.attribute.FileTime obj = new java.nio.file.attribute.FileTime();java.nio.file.attribute.FileTime.notifyAll();}}

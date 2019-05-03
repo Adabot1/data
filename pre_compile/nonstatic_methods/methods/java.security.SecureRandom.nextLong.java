@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();java.security.SecureRandom.nextLong();}}
+class java_security_SecureRandom_nextLong{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();java.security.SecureRandom.nextLong();}}

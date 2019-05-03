@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.InputStreamReader.nullReader();}}
+class java_io_InputStreamReader_nullReader{ public static void function() {java.io.InputStreamReader.nullReader();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.locks.AbstractQueuedSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedSynchronizer();java.util.concurrent.locks.AbstractQueuedSynchronizer.release(1031674873);}}
+class java_util_concurrent_locks_AbstractQueuedSynchronizer_release{ public static void function() {java.util.concurrent.locks.AbstractQueuedSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedSynchronizer();java.util.concurrent.locks.AbstractQueuedSynchronizer.release(1089550620);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXCertPathValidatorResult obj = new java.security.cert.PKIXCertPathValidatorResult();java.security.cert.PKIXCertPathValidatorResult.getTrustAnchor();}}
+class java_security_cert_PKIXCertPathValidatorResult_getTrustAnchor{ public static void function() {java.security.cert.PKIXCertPathValidatorResult obj = new java.security.cert.PKIXCertPathValidatorResult();java.security.cert.PKIXCertPathValidatorResult.getTrustAnchor();}}

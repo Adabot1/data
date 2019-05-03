@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.CollationElementIterator.secondaryOrder(-1148752587);}}
+class java_text_CollationElementIterator_secondaryOrder{ public static void function() {java.text.CollationElementIterator.secondaryOrder(2120951141);}}

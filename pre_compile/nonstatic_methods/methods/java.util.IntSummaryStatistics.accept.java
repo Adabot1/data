@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.IntSummaryStatistics obj = new java.util.IntSummaryStatistics();java.util.IntSummaryStatistics.accept(-855389682);}}
+class java_util_IntSummaryStatistics_accept{ public static void function() {java.util.IntSummaryStatistics obj = new java.util.IntSummaryStatistics();java.util.IntSummaryStatistics.accept(-485450848);}}

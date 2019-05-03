@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.attribute.PosixFilePermission obj = new java.nio.file.attribute.PosixFilePermission();java.nio.file.attribute.PosixFilePermission.hashCode();}}
+class java_nio_file_attribute_PosixFilePermission_hashCode{ public static void function() {java.nio.file.attribute.PosixFilePermission obj = new java.nio.file.attribute.PosixFilePermission();java.nio.file.attribute.PosixFilePermission.hashCode();}}

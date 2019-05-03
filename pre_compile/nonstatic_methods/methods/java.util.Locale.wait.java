@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Locale obj = new java.util.Locale();java.util.Locale.wait();}}
+class java_util_Locale_wait{ public static void function() {java.util.Locale obj = new java.util.Locale();java.util.Locale.wait();}}

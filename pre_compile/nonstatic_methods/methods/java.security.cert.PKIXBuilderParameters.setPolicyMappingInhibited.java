@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXBuilderParameters obj = new java.security.cert.PKIXBuilderParameters();java.security.cert.PKIXBuilderParameters.setPolicyMappingInhibited(false);}}
+class java_security_cert_PKIXBuilderParameters_setPolicyMappingInhibited{ public static void function() {java.security.cert.PKIXBuilderParameters obj = new java.security.cert.PKIXBuilderParameters();java.security.cert.PKIXBuilderParameters.setPolicyMappingInhibited(true);}}

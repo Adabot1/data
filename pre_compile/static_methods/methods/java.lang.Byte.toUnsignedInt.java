@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte.toUnsignedInt([B@69b0fd6f);}}
+class java_lang_Byte_toUnsignedInt{ public static void function() {java.lang.Byte.toUnsignedInt([B@df27fae);}}

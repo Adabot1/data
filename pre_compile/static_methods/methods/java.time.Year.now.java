@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Year.now();}}
+class java_time_Year_now{ public static void function() {java.time.Year.now();}}

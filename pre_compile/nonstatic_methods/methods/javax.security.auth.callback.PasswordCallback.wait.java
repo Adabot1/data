@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.callback.PasswordCallback obj = new javax.security.auth.callback.PasswordCallback();javax.security.auth.callback.PasswordCallback.wait();}}
+class javax_security_auth_callback_PasswordCallback_wait{ public static void function() {javax.security.auth.callback.PasswordCallback obj = new javax.security.auth.callback.PasswordCallback();javax.security.auth.callback.PasswordCallback.wait();}}

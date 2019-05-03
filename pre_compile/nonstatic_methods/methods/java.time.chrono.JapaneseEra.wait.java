@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.JapaneseEra obj = new java.time.chrono.JapaneseEra();java.time.chrono.JapaneseEra.wait();}}
+class java_time_chrono_JapaneseEra_wait{ public static void function() {java.time.chrono.JapaneseEra obj = new java.time.chrono.JapaneseEra();java.time.chrono.JapaneseEra.wait();}}

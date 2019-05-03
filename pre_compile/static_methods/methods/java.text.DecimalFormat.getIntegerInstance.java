@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat.getIntegerInstance();}}
+class java_text_DecimalFormat_getIntegerInstance{ public static void function() {java.text.DecimalFormat.getIntegerInstance();}}

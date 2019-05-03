@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.IDN obj = new java.net.IDN();java.net.IDN.wait();}}
+class java_net_IDN_wait{ public static void function() {java.net.IDN obj = new java.net.IDN();java.net.IDN.wait();}}

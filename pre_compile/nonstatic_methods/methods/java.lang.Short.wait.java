@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Short obj = new java.lang.Short();java.lang.Short.wait();}}
+class java_lang_Short_wait{ public static void function() {java.lang.Short obj = new java.lang.Short();java.lang.Short.wait();}}

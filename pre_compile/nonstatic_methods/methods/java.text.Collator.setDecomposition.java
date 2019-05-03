@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.Collator obj = new java.text.Collator();java.text.Collator.setDecomposition(-1523718744);}}
+class java_text_Collator_setDecomposition{ public static void function() {java.text.Collator obj = new java.text.Collator();java.text.Collator.setDecomposition(1330722681);}}

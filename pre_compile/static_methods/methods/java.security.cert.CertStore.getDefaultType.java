@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertStore.getDefaultType();}}
+class java_security_cert_CertStore_getDefaultType{ public static void function() {java.security.cert.CertStore.getDefaultType();}}

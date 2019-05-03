@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection.getDefaultSSLSocketFactory();}}
+class javax_net_ssl_HttpsURLConnection_getDefaultSSLSocketFactory{ public static void function() {javax.net.ssl.HttpsURLConnection.getDefaultSSLSocketFactory();}}

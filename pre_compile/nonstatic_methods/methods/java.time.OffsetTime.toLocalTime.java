@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();java.time.OffsetTime.toLocalTime();}}
+class java_time_OffsetTime_toLocalTime{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();java.time.OffsetTime.toLocalTime();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setParseBigDecimal(false);}}
+class java_text_DecimalFormat_setParseBigDecimal{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setParseBigDecimal(false);}}

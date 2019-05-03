@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalTime obj = new java.time.LocalTime();java.time.LocalTime.withMinute(1174741960);}}
+class java_time_LocalTime_withMinute{ public static void function() {java.time.LocalTime obj = new java.time.LocalTime();java.time.LocalTime.withMinute(-1327597383);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setMaximumIntegerDigits(-195891007);}}
+class java_text_NumberFormat_setMaximumIntegerDigits{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setMaximumIntegerDigits(950413284);}}

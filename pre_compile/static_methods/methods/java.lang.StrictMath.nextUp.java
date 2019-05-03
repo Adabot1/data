@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.nextUp(0.1806889375433517);}}
+class java_lang_StrictMath_nextUp{ public static void function() {java.lang.StrictMath.nextUp(0.4568991243066366);}}

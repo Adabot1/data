@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.URIParameter obj = new java.security.URIParameter();java.security.URIParameter.toString();}}
+class java_security_URIParameter_toString{ public static void function() {java.security.URIParameter obj = new java.security.URIParameter();java.security.URIParameter.toString();}}

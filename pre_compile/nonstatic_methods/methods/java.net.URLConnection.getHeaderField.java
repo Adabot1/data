@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.getHeaderField(-1773704630);}}
+class java_net_URLConnection_getHeaderField{ public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.getHeaderField(-1331266380);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.SequenceInputStream obj = new java.io.SequenceInputStream();java.io.SequenceInputStream.hashCode();}}
+class java_io_SequenceInputStream_hashCode{ public static void function() {java.io.SequenceInputStream obj = new java.io.SequenceInputStream();java.io.SequenceInputStream.hashCode();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.LongStream.empty();}}
+class java_util_stream_LongStream_empty{ public static void function() {java.util.stream.LongStream.empty();}}

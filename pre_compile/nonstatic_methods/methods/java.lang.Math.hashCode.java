@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math obj = new java.lang.Math();java.lang.Math.hashCode();}}
+class java_lang_Math_hashCode{ public static void function() {java.lang.Math obj = new java.lang.Math();java.lang.Math.hashCode();}}

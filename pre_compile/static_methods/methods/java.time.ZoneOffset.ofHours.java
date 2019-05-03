@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZoneOffset.ofHours(-1953388543);}}
+class java_time_ZoneOffset_ofHours{ public static void function() {java.time.ZoneOffset.ofHours(527239742);}}

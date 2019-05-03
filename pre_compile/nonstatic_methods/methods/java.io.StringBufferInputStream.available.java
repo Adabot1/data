@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();java.io.StringBufferInputStream.available();}}
+class java_io_StringBufferInputStream_available{ public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();java.io.StringBufferInputStream.available();}}

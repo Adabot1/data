@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.MessageDigestSpi obj = new java.security.MessageDigestSpi();java.security.MessageDigestSpi.clone();}}
+class java_security_MessageDigestSpi_clone{ public static void function() {java.security.MessageDigestSpi obj = new java.security.MessageDigestSpi();java.security.MessageDigestSpi.clone();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StringWriter obj = new java.io.StringWriter();java.io.StringWriter.wait();}}
+class java_io_StringWriter_wait{ public static void function() {java.io.StringWriter obj = new java.io.StringWriter();java.io.StringWriter.wait();}}

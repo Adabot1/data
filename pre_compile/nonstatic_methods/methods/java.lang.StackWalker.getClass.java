@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StackWalker obj = new java.lang.StackWalker();java.lang.StackWalker.getClass();}}
+class java_lang_StackWalker_getClass{ public static void function() {java.lang.StackWalker obj = new java.lang.StackWalker();java.lang.StackWalker.getClass();}}

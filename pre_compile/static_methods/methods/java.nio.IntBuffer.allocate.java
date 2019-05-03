@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.IntBuffer.allocate(-133730473);}}
+class java_nio_IntBuffer_allocate{ public static void function() {java.nio.IntBuffer.allocate(969096905);}}

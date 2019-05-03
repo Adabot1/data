@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isTransient(1741661262);}}
+class java_lang_reflect_Modifier_isTransient{ public static void function() {java.lang.reflect.Modifier.isTransient(-910305297);}}

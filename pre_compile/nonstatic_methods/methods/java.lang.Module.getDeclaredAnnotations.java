@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Module obj = new java.lang.Module();java.lang.Module.getDeclaredAnnotations();}}
+class java_lang_Module_getDeclaredAnnotations{ public static void function() {java.lang.Module obj = new java.lang.Module();java.lang.Module.getDeclaredAnnotations();}}

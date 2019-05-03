@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.DomainLoadStoreParameter obj = new java.security.DomainLoadStoreParameter();java.security.DomainLoadStoreParameter.notify();}}
+class java_security_DomainLoadStoreParameter_notify{ public static void function() {java.security.DomainLoadStoreParameter obj = new java.security.DomainLoadStoreParameter();java.security.DomainLoadStoreParameter.notify();}}

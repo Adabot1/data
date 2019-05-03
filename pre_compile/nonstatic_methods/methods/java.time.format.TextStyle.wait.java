@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.TextStyle obj = new java.time.format.TextStyle();java.time.format.TextStyle.wait();}}
+class java_time_format_TextStyle_wait{ public static void function() {java.time.format.TextStyle obj = new java.time.format.TextStyle();java.time.format.TextStyle.wait();}}

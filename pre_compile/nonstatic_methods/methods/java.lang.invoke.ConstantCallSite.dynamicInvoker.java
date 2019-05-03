@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.ConstantCallSite obj = new java.lang.invoke.ConstantCallSite();java.lang.invoke.ConstantCallSite.dynamicInvoker();}}
+class java_lang_invoke_ConstantCallSite_dynamicInvoker{ public static void function() {java.lang.invoke.ConstantCallSite obj = new java.lang.invoke.ConstantCallSite();java.lang.invoke.ConstantCallSite.dynamicInvoker();}}

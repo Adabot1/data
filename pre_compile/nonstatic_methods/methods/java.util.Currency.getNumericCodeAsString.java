@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Currency obj = new java.util.Currency();java.util.Currency.getNumericCodeAsString();}}
+class java_util_Currency_getNumericCodeAsString{ public static void function() {java.util.Currency obj = new java.util.Currency();java.util.Currency.getNumericCodeAsString();}}

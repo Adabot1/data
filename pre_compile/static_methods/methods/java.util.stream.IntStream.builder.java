@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.IntStream.builder();}}
+class java_util_stream_IntStream_builder{ public static void function() {java.util.stream.IntStream.builder();}}

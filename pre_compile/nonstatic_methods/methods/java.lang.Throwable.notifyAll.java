@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Throwable obj = new java.lang.Throwable();java.lang.Throwable.notifyAll();}}
+class java_lang_Throwable_notifyAll{ public static void function() {java.lang.Throwable obj = new java.lang.Throwable();java.lang.Throwable.notifyAll();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.reverse(-511780756);}}
+class java_lang_Integer_reverse{ public static void function() {java.lang.Integer.reverse(-2144153564);}}

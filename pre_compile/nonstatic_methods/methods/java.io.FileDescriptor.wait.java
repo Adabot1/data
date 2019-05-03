@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileDescriptor obj = new java.io.FileDescriptor();java.io.FileDescriptor.wait();}}
+class java_io_FileDescriptor_wait{ public static void function() {java.io.FileDescriptor obj = new java.io.FileDescriptor();java.io.FileDescriptor.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();java.time.chrono.MinguoChronology.dateYearDay(-994116168,-1852326161);}}
+class java_time_chrono_MinguoChronology_dateYearDay{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();java.time.chrono.MinguoChronology.dateYearDay(1551627043,832677450);}}

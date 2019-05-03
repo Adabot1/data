@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXRevocationChecker obj = new java.security.cert.PKIXRevocationChecker();java.security.cert.PKIXRevocationChecker.getClass();}}
+class java_security_cert_PKIXRevocationChecker_getClass{ public static void function() {java.security.cert.PKIXRevocationChecker obj = new java.security.cert.PKIXRevocationChecker();java.security.cert.PKIXRevocationChecker.getClass();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Executors.newCachedThreadPool();}}
+class java_util_concurrent_Executors_newCachedThreadPool{ public static void function() {java.util.concurrent.Executors.newCachedThreadPool();}}

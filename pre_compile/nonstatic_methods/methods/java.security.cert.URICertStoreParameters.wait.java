@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.URICertStoreParameters obj = new java.security.cert.URICertStoreParameters();java.security.cert.URICertStoreParameters.wait();}}
+class java_security_cert_URICertStoreParameters_wait{ public static void function() {java.security.cert.URICertStoreParameters obj = new java.security.cert.URICertStoreParameters();java.security.cert.URICertStoreParameters.wait();}}

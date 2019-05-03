@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ModuleLayer obj = new java.lang.ModuleLayer();java.lang.ModuleLayer.notifyAll();}}
+class java_lang_ModuleLayer_notifyAll{ public static void function() {java.lang.ModuleLayer obj = new java.lang.ModuleLayer();java.lang.ModuleLayer.notifyAll();}}

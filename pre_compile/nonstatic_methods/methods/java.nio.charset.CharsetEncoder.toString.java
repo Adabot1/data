@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.charset.CharsetEncoder obj = new java.nio.charset.CharsetEncoder();java.nio.charset.CharsetEncoder.toString();}}
+class java_nio_charset_CharsetEncoder_toString{ public static void function() {java.nio.charset.CharsetEncoder obj = new java.nio.charset.CharsetEncoder();java.nio.charset.CharsetEncoder.toString();}}

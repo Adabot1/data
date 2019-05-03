@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();java.lang.ThreadGroup.allowThreadSuspension(true);}}
+class java_lang_ThreadGroup_allowThreadSuspension{ public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();java.lang.ThreadGroup.allowThreadSuspension(true);}}

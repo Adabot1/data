@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();java.nio.ByteBuffer.put([B@281e3708);}}
+class java_nio_ByteBuffer_put{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();java.nio.ByteBuffer.put([B@69379752);}}

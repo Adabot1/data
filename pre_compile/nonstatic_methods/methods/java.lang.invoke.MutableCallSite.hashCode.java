@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MutableCallSite obj = new java.lang.invoke.MutableCallSite();java.lang.invoke.MutableCallSite.hashCode();}}
+class java_lang_invoke_MutableCallSite_hashCode{ public static void function() {java.lang.invoke.MutableCallSite obj = new java.lang.invoke.MutableCallSite();java.lang.invoke.MutableCallSite.hashCode();}}

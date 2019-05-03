@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.withFixedOffsetZone();}}
+class java_time_ZonedDateTime_withFixedOffsetZone{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.withFixedOffsetZone();}}

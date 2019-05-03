@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.IEEEremainder(0.6922368433370638,0.30510366948443135);}}
+class java_lang_Math_IEEEremainder{ public static void function() {java.lang.Math.IEEEremainder(0.8984845304605772,0.2828450439065565);}}

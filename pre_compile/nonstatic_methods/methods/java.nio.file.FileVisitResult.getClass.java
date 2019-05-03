@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.FileVisitResult obj = new java.nio.file.FileVisitResult();java.nio.file.FileVisitResult.getClass();}}
+class java_nio_file_FileVisitResult_getClass{ public static void function() {java.nio.file.FileVisitResult obj = new java.nio.file.FileVisitResult();java.nio.file.FileVisitResult.getClass();}}

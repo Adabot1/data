@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();java.nio.DoubleBuffer.slice();}}
+class java_nio_DoubleBuffer_slice{ public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();java.nio.DoubleBuffer.slice();}}

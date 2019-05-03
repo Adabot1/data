@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URL obj = new java.net.URL();java.net.URL.openStream();}}
+class java_net_URL_openStream{ public static void function() {java.net.URL obj = new java.net.URL();java.net.URL.openStream();}}

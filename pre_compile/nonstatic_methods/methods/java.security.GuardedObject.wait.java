@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.GuardedObject obj = new java.security.GuardedObject();java.security.GuardedObject.wait();}}
+class java_security_GuardedObject_wait{ public static void function() {java.security.GuardedObject obj = new java.security.GuardedObject();java.security.GuardedObject.wait();}}

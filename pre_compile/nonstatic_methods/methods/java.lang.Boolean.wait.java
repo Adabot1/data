@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Boolean obj = new java.lang.Boolean();java.lang.Boolean.wait();}}
+class java_lang_Boolean_wait{ public static void function() {java.lang.Boolean obj = new java.lang.Boolean();java.lang.Boolean.wait();}}

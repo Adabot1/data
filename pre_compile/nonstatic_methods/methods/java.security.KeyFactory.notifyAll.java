@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyFactory obj = new java.security.KeyFactory();java.security.KeyFactory.notifyAll();}}
+class java_security_KeyFactory_notifyAll{ public static void function() {java.security.KeyFactory obj = new java.security.KeyFactory();java.security.KeyFactory.notifyAll();}}

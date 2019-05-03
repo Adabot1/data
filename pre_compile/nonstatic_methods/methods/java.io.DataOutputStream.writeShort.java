@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.DataOutputStream obj = new java.io.DataOutputStream();java.io.DataOutputStream.writeShort(-1857059554);}}
+class java_io_DataOutputStream_writeShort{ public static void function() {java.io.DataOutputStream obj = new java.io.DataOutputStream();java.io.DataOutputStream.writeShort(1129329982);}}

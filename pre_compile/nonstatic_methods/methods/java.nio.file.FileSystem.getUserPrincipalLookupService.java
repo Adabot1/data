@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.FileSystem obj = new java.nio.file.FileSystem();java.nio.file.FileSystem.getUserPrincipalLookupService();}}
+class java_nio_file_FileSystem_getUserPrincipalLookupService{ public static void function() {java.nio.file.FileSystem obj = new java.nio.file.FileSystem();java.nio.file.FileSystem.getUserPrincipalLookupService();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.ChronoField obj = new java.time.temporal.ChronoField();java.time.temporal.ChronoField.isTimeBased();}}
+class java_time_temporal_ChronoField_isTimeBased{ public static void function() {java.time.temporal.ChronoField obj = new java.time.temporal.ChronoField();java.time.temporal.ChronoField.isTimeBased();}}

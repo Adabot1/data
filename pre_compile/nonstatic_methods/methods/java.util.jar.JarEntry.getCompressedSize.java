@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();java.util.jar.JarEntry.getCompressedSize();}}
+class java_util_jar_JarEntry_getCompressedSize{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();java.util.jar.JarEntry.getCompressedSize();}}

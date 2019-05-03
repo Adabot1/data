@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyStore obj = new java.security.KeyStore();java.security.KeyStore.notify();}}
+class java_security_KeyStore_notify{ public static void function() {java.security.KeyStore obj = new java.security.KeyStore();java.security.KeyStore.notify();}}

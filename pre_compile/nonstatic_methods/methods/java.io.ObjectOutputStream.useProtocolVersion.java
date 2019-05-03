@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();java.io.ObjectOutputStream.useProtocolVersion(1135440266);}}
+class java_io_ObjectOutputStream_useProtocolVersion{ public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();java.io.ObjectOutputStream.useProtocolVersion(-1933318418);}}

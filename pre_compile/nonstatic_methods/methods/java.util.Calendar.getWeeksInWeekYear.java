@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getWeeksInWeekYear();}}
+class java_util_Calendar_getWeeksInWeekYear{ public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getWeeksInWeekYear();}}

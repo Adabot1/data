@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalTime obj = new java.time.LocalTime();java.time.LocalTime.withNano(-361211404);}}
+class java_time_LocalTime_withNano{ public static void function() {java.time.LocalTime obj = new java.time.LocalTime();java.time.LocalTime.withNano(-100606684);}}

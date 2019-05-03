@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Clock obj = new java.time.Clock();java.time.Clock.notify();}}
+class java_time_Clock_notify{ public static void function() {java.time.Clock obj = new java.time.Clock();java.time.Clock.notify();}}

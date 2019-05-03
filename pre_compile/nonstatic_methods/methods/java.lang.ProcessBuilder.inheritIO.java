@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();java.lang.ProcessBuilder.inheritIO();}}
+class java_lang_ProcessBuilder_inheritIO{ public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();java.lang.ProcessBuilder.inheritIO();}}

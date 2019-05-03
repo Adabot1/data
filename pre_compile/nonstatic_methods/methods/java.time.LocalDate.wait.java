@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.wait();}}
+class java_time_LocalDate_wait{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.wait();}}

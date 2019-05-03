@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double.compare(0.8244834984259518,0.014547504809275913);}}
+class java_lang_Double_compare{ public static void function() {java.lang.Double.compare(0.05664597477309141,0.7857207832642978);}}

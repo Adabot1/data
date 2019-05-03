@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.ZoneId obj = new java.time.ZoneId();java.time.ZoneId.getClass();}}
+class java_time_ZoneId_getClass{ public static void function() {java.time.ZoneId obj = new java.time.ZoneId();java.time.ZoneId.getClass();}}

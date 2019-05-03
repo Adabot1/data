@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.SecretKeyFactorySpi obj = new javax.crypto.SecretKeyFactorySpi();javax.crypto.SecretKeyFactorySpi.notify();}}
+class javax_crypto_SecretKeyFactorySpi_notify{ public static void function() {javax.crypto.SecretKeyFactorySpi obj = new javax.crypto.SecretKeyFactorySpi();javax.crypto.SecretKeyFactorySpi.notify();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedOutputStream obj = new java.io.BufferedOutputStream();java.io.BufferedOutputStream.notify();}}
+class java_io_BufferedOutputStream_notify{ public static void function() {java.io.BufferedOutputStream obj = new java.io.BufferedOutputStream();java.io.BufferedOutputStream.notify();}}

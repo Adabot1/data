@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.StandardCopyOption obj = new java.nio.file.StandardCopyOption();java.nio.file.StandardCopyOption.getClass();}}
+class java_nio_file_StandardCopyOption_getClass{ public static void function() {java.nio.file.StandardCopyOption obj = new java.nio.file.StandardCopyOption();java.nio.file.StandardCopyOption.getClass();}}

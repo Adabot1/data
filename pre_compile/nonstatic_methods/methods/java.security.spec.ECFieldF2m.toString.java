@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.ECFieldF2m obj = new java.security.spec.ECFieldF2m();java.security.spec.ECFieldF2m.toString();}}
+class java_security_spec_ECFieldF2m_toString{ public static void function() {java.security.spec.ECFieldF2m obj = new java.security.spec.ECFieldF2m();java.security.spec.ECFieldF2m.toString();}}

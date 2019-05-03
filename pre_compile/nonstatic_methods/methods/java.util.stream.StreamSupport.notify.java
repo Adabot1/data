@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.StreamSupport obj = new java.util.stream.StreamSupport();java.util.stream.StreamSupport.notify();}}
+class java_util_stream_StreamSupport_notify{ public static void function() {java.util.stream.StreamSupport obj = new java.util.stream.StreamSupport();java.util.stream.StreamSupport.notify();}}

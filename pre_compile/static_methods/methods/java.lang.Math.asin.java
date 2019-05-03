@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.asin(0.6891109578960378);}}
+class java_lang_Math_asin{ public static void function() {java.lang.Math.asin(0.3868494985740968);}}

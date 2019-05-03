@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.wait();}}
+class java_text_NumberFormat_wait{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.wait();}}

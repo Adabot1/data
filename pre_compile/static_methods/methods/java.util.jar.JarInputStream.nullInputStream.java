@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarInputStream.nullInputStream();}}
+class java_util_jar_JarInputStream_nullInputStream{ public static void function() {java.util.jar.JarInputStream.nullInputStream();}}

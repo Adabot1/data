@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Arrays obj = new java.util.Arrays();java.util.Arrays.notifyAll();}}
+class java_util_Arrays_notifyAll{ public static void function() {java.util.Arrays obj = new java.util.Arrays();java.util.Arrays.notifyAll();}}

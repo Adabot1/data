@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.MessageFormat obj = new java.text.MessageFormat();java.text.MessageFormat.hashCode();}}
+class java_text_MessageFormat_hashCode{ public static void function() {java.text.MessageFormat obj = new java.text.MessageFormat();java.text.MessageFormat.hashCode();}}

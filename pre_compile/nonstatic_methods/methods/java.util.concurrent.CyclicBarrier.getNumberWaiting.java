@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.CyclicBarrier obj = new java.util.concurrent.CyclicBarrier();java.util.concurrent.CyclicBarrier.getNumberWaiting();}}
+class java_util_concurrent_CyclicBarrier_getNumberWaiting{ public static void function() {java.util.concurrent.CyclicBarrier obj = new java.util.concurrent.CyclicBarrier();java.util.concurrent.CyclicBarrier.getNumberWaiting();}}

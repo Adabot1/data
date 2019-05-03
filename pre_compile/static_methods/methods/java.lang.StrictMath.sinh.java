@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.sinh(0.030647996822972035);}}
+class java_lang_StrictMath_sinh{ public static void function() {java.lang.StrictMath.sinh(0.24975927051267688);}}

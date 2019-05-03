@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.zone.ZoneOffsetTransitionRule obj = new java.time.zone.ZoneOffsetTransitionRule();java.time.zone.ZoneOffsetTransitionRule.getOffsetAfter();}}
+class java_time_zone_ZoneOffsetTransitionRule_getOffsetAfter{ public static void function() {java.time.zone.ZoneOffsetTransitionRule obj = new java.time.zone.ZoneOffsetTransitionRule();java.time.zone.ZoneOffsetTransitionRule.getOffsetAfter();}}

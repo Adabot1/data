@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.CryptoPrimitive.values();}}
+class java_security_CryptoPrimitive_values{ public static void function() {java.security.CryptoPrimitive.values();}}

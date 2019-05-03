@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertPathBuilder obj = new java.security.cert.CertPathBuilder();java.security.cert.CertPathBuilder.notifyAll();}}
+class java_security_cert_CertPathBuilder_notifyAll{ public static void function() {java.security.cert.CertPathBuilder obj = new java.security.cert.CertPathBuilder();java.security.cert.CertPathBuilder.notifyAll();}}

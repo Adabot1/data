@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.ThaiBuddhistDate obj = new java.time.chrono.ThaiBuddhistDate();java.time.chrono.ThaiBuddhistDate.notifyAll();}}
+class java_time_chrono_ThaiBuddhistDate_notifyAll{ public static void function() {java.time.chrono.ThaiBuddhistDate obj = new java.time.chrono.ThaiBuddhistDate();java.time.chrono.ThaiBuddhistDate.notifyAll();}}

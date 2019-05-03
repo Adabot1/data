@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isProtected(-383675887);}}
+class java_lang_reflect_Modifier_isProtected{ public static void function() {java.lang.reflect.Modifier.isProtected(-1752304006);}}

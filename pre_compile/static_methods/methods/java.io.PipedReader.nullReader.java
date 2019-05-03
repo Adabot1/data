@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PipedReader.nullReader();}}
+class java_io_PipedReader_nullReader{ public static void function() {java.io.PipedReader.nullReader();}}

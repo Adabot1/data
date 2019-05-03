@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.getUserInfo();}}
+class java_net_URI_getUserInfo{ public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.getUserInfo();}}

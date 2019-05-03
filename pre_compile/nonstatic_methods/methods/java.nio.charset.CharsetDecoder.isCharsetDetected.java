@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.charset.CharsetDecoder obj = new java.nio.charset.CharsetDecoder();java.nio.charset.CharsetDecoder.isCharsetDetected();}}
+class java_nio_charset_CharsetDecoder_isCharsetDetected{ public static void function() {java.nio.charset.CharsetDecoder obj = new java.nio.charset.CharsetDecoder();java.nio.charset.CharsetDecoder.isCharsetDetected();}}

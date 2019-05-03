@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PushbackReader.nullReader();}}
+class java_io_PushbackReader_nullReader{ public static void function() {java.io.PushbackReader.nullReader();}}

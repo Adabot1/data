@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.TimeZone obj = new java.util.TimeZone();java.util.TimeZone.toString();}}
+class java_util_TimeZone_toString{ public static void function() {java.util.TimeZone obj = new java.util.TimeZone();java.util.TimeZone.toString();}}

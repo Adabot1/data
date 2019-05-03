@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.TrustManagerFactory obj = new javax.net.ssl.TrustManagerFactory();javax.net.ssl.TrustManagerFactory.notifyAll();}}
+class javax_net_ssl_TrustManagerFactory_notifyAll{ public static void function() {javax.net.ssl.TrustManagerFactory obj = new javax.net.ssl.TrustManagerFactory();javax.net.ssl.TrustManagerFactory.notifyAll();}}

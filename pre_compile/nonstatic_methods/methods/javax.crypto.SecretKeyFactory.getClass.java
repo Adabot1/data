@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.SecretKeyFactory obj = new javax.crypto.SecretKeyFactory();javax.crypto.SecretKeyFactory.getClass();}}
+class javax_crypto_SecretKeyFactory_getClass{ public static void function() {javax.crypto.SecretKeyFactory obj = new javax.crypto.SecretKeyFactory();javax.crypto.SecretKeyFactory.getClass();}}

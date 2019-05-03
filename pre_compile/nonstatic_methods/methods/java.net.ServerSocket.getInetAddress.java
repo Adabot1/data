@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();java.net.ServerSocket.getInetAddress();}}
+class java_net_ServerSocket_getInetAddress{ public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();java.net.ServerSocket.getInetAddress();}}

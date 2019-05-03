@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.YearMonth obj = new java.time.YearMonth();java.time.YearMonth.getMonthValue();}}
+class java_time_YearMonth_getMonthValue{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();java.time.YearMonth.getMonthValue();}}

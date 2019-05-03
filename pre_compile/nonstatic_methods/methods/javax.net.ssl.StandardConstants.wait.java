@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.StandardConstants obj = new javax.net.ssl.StandardConstants();javax.net.ssl.StandardConstants.wait();}}
+class javax_net_ssl_StandardConstants_wait{ public static void function() {javax.net.ssl.StandardConstants obj = new javax.net.ssl.StandardConstants();javax.net.ssl.StandardConstants.wait();}}

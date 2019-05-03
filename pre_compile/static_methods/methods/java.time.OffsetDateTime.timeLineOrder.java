@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.OffsetDateTime.timeLineOrder();}}
+class java_time_OffsetDateTime_timeLineOrder{ public static void function() {java.time.OffsetDateTime.timeLineOrder();}}

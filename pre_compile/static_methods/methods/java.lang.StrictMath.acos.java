@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.acos(0.8869415145116466);}}
+class java_lang_StrictMath_acos{ public static void function() {java.lang.StrictMath.acos(0.8038097680567821);}}

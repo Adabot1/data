@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.FileSystems obj = new java.nio.file.FileSystems();java.nio.file.FileSystems.notify();}}
+class java_nio_file_FileSystems_notify{ public static void function() {java.nio.file.FileSystems obj = new java.nio.file.FileSystems();java.nio.file.FileSystems.notify();}}

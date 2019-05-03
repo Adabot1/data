@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.EncryptedPrivateKeyInfo obj = new javax.crypto.EncryptedPrivateKeyInfo();javax.crypto.EncryptedPrivateKeyInfo.getEncoded();}}
+class javax_crypto_EncryptedPrivateKeyInfo_getEncoded{ public static void function() {javax.crypto.EncryptedPrivateKeyInfo obj = new javax.crypto.EncryptedPrivateKeyInfo();javax.crypto.EncryptedPrivateKeyInfo.getEncoded();}}

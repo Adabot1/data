@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.SecureCacheResponse obj = new java.net.SecureCacheResponse();java.net.SecureCacheResponse.toString();}}
+class java_net_SecureCacheResponse_toString{ public static void function() {java.net.SecureCacheResponse obj = new java.net.SecureCacheResponse();java.net.SecureCacheResponse.toString();}}

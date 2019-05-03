@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.SealedObject obj = new javax.crypto.SealedObject();javax.crypto.SealedObject.toString();}}
+class javax_crypto_SealedObject_toString{ public static void function() {javax.crypto.SealedObject obj = new javax.crypto.SealedObject();javax.crypto.SealedObject.toString();}}

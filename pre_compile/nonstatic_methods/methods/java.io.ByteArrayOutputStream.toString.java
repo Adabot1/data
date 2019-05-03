@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ByteArrayOutputStream obj = new java.io.ByteArrayOutputStream();java.io.ByteArrayOutputStream.toString(2052683548);}}
+class java_io_ByteArrayOutputStream_toString{ public static void function() {java.io.ByteArrayOutputStream obj = new java.io.ByteArrayOutputStream();java.io.ByteArrayOutputStream.toString(-1866725387);}}

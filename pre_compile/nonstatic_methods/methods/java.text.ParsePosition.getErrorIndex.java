@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();java.text.ParsePosition.getErrorIndex();}}
+class java_text_ParsePosition_getErrorIndex{ public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();java.text.ParsePosition.getErrorIndex();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.charCount(-968113448);}}
+class java_lang_Character_charCount{ public static void function() {java.lang.Character.charCount(-73629077);}}

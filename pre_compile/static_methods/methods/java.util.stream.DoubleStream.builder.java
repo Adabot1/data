@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.DoubleStream.builder();}}
+class java_util_stream_DoubleStream_builder{ public static void function() {java.util.stream.DoubleStream.builder();}}

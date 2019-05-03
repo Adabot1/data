@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.CollationKey obj = new java.text.CollationKey();java.text.CollationKey.wait();}}
+class java_text_CollationKey_wait{ public static void function() {java.text.CollationKey obj = new java.text.CollationKey();java.text.CollationKey.wait();}}

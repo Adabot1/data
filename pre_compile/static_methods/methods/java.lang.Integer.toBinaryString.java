@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.toBinaryString(1525962134);}}
+class java_lang_Integer_toBinaryString{ public static void function() {java.lang.Integer.toBinaryString(-526914374);}}

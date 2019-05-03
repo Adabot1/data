@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.SocketPermission obj = new java.net.SocketPermission();java.net.SocketPermission.getClass();}}
+class java_net_SocketPermission_getClass{ public static void function() {java.net.SocketPermission obj = new java.net.SocketPermission();java.net.SocketPermission.getClass();}}

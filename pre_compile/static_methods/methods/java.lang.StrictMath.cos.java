@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.cos(0.8709946780785114);}}
+class java_lang_StrictMath_cos{ public static void function() {java.lang.StrictMath.cos(0.11158529580929355);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.codePointAt(1078383479);}}
+class java_lang_StringBuffer_codePointAt{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.codePointAt(1919126304);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.isParseIntegerOnly();}}
+class java_text_DecimalFormat_isParseIntegerOnly{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.isParseIntegerOnly();}}

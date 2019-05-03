@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.DateTimeFormatterBuilder obj = new java.time.format.DateTimeFormatterBuilder();java.time.format.DateTimeFormatterBuilder.padNext(-1601640471);}}
+class java_time_format_DateTimeFormatterBuilder_padNext{ public static void function() {java.time.format.DateTimeFormatterBuilder obj = new java.time.format.DateTimeFormatterBuilder();java.time.format.DateTimeFormatterBuilder.padNext(1002852474);}}

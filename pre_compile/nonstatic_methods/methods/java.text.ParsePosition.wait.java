@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();java.text.ParsePosition.wait();}}
+class java_text_ParsePosition_wait{ public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();java.text.ParsePosition.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarFile obj = new java.util.jar.JarFile();java.util.jar.JarFile.getName();}}
+class java_util_jar_JarFile_getName{ public static void function() {java.util.jar.JarFile obj = new java.util.jar.JarFile();java.util.jar.JarFile.getName();}}

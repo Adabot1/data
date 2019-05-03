@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();java.io.LineNumberInputStream.markSupported();}}
+class java_io_LineNumberInputStream_markSupported{ public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();java.io.LineNumberInputStream.markSupported();}}

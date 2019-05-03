@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double.isFinite(0.16069089256015545);}}
+class java_lang_Double_isFinite{ public static void function() {java.lang.Double.isFinite(0.6069790294613371);}}

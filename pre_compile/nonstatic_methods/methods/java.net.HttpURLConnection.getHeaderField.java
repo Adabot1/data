@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.getHeaderField(1522157763);}}
+class java_net_HttpURLConnection_getHeaderField{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.getHeaderField(753791244);}}

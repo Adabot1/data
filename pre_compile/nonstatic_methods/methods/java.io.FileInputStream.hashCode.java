@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileInputStream obj = new java.io.FileInputStream();java.io.FileInputStream.hashCode();}}
+class java_io_FileInputStream_hashCode{ public static void function() {java.io.FileInputStream obj = new java.io.FileInputStream();java.io.FileInputStream.hashCode();}}

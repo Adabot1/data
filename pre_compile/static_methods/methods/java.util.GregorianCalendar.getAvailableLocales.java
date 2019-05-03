@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.GregorianCalendar.getAvailableLocales();}}
+class java_util_GregorianCalendar_getAvailableLocales{ public static void function() {java.util.GregorianCalendar.getAvailableLocales();}}

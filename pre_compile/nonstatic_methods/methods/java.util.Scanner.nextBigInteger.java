@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.nextBigInteger();}}
+class java_util_Scanner_nextBigInteger{ public static void function() {java.util.Scanner obj = new java.util.Scanner();java.util.Scanner.nextBigInteger();}}

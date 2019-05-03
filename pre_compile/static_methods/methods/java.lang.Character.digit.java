@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.digit(-845041780,1925772770);}}
+class java_lang_Character_digit{ public static void function() {java.lang.Character.digit(-125136917,2124129024);}}

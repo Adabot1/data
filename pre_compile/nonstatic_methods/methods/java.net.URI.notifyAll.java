@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.notifyAll();}}
+class java_net_URI_notifyAll{ public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.notifyAll();}}

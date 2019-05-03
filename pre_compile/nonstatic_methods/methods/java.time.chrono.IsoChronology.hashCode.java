@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();java.time.chrono.IsoChronology.hashCode();}}
+class java_time_chrono_IsoChronology_hashCode{ public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();java.time.chrono.IsoChronology.hashCode();}}

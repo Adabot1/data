@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.copySign(0.9283635807170245,0.5764821377475201);}}
+class java_lang_StrictMath_copySign{ public static void function() {java.lang.StrictMath.copySign(0.27601392950752746,0.73661858953928);}}

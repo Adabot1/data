@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isAbstract(-1475545728);}}
+class java_lang_reflect_Modifier_isAbstract{ public static void function() {java.lang.reflect.Modifier.isAbstract(-161535982);}}

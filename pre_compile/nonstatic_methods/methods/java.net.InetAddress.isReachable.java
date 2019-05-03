@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.InetAddress obj = new java.net.InetAddress();java.net.InetAddress.isReachable(56246329);}}
+class java_net_InetAddress_isReachable{ public static void function() {java.net.InetAddress obj = new java.net.InetAddress();java.net.InetAddress.isReachable(-932110176);}}

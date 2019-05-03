@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Collections.reverseOrder();}}
+class java_util_Collections_reverseOrder{ public static void function() {java.util.Collections.reverseOrder();}}

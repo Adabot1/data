@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ForkJoinWorkerThread.dumpStack();}}
+class java_util_concurrent_ForkJoinWorkerThread_dumpStack{ public static void function() {java.util.concurrent.ForkJoinWorkerThread.dumpStack();}}

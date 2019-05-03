@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.RuleBasedCollator obj = new java.text.RuleBasedCollator();java.text.RuleBasedCollator.toString();}}
+class java_text_RuleBasedCollator_toString{ public static void function() {java.text.RuleBasedCollator obj = new java.text.RuleBasedCollator();java.text.RuleBasedCollator.toString();}}

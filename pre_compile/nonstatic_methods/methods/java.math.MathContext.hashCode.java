@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.MathContext obj = new java.math.MathContext();java.math.MathContext.hashCode();}}
+class java_math_MathContext_hashCode{ public static void function() {java.math.MathContext obj = new java.math.MathContext();java.math.MathContext.hashCode();}}

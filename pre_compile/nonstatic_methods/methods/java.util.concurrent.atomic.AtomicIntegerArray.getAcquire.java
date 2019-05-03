@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.getAcquire(1063570884);}}
+class java_util_concurrent_atomic_AtomicIntegerArray_getAcquire{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.getAcquire(1401482472);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Permission obj = new java.security.Permission();java.security.Permission.hashCode();}}
+class java_security_Permission_hashCode{ public static void function() {java.security.Permission obj = new java.security.Permission();java.security.Permission.hashCode();}}

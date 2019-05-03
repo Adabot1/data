@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.spi.CalendarDataProvider obj = new java.util.spi.CalendarDataProvider();java.util.spi.CalendarDataProvider.wait();}}
+class java_util_spi_CalendarDataProvider_wait{ public static void function() {java.util.spi.CalendarDataProvider obj = new java.util.spi.CalendarDataProvider();java.util.spi.CalendarDataProvider.wait();}}

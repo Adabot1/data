@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Period.ofMonths(1351176227);}}
+class java_time_Period_ofMonths{ public static void function() {java.time.Period.ofMonths(-793834352);}}

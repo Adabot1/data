@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.OptionalInt.of(-1635942548);}}
+class java_util_OptionalInt_of{ public static void function() {java.util.OptionalInt.of(1181754864);}}

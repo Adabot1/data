@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.RC5ParameterSpec obj = new javax.crypto.spec.RC5ParameterSpec();javax.crypto.spec.RC5ParameterSpec.getIV();}}
+class javax_crypto_spec_RC5ParameterSpec_getIV{ public static void function() {javax.crypto.spec.RC5ParameterSpec obj = new javax.crypto.spec.RC5ParameterSpec();javax.crypto.spec.RC5ParameterSpec.getIV();}}

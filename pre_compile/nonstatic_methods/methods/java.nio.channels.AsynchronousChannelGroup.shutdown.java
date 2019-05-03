@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.AsynchronousChannelGroup obj = new java.nio.channels.AsynchronousChannelGroup();java.nio.channels.AsynchronousChannelGroup.shutdown();}}
+class java_nio_channels_AsynchronousChannelGroup_shutdown{ public static void function() {java.nio.channels.AsynchronousChannelGroup obj = new java.nio.channels.AsynchronousChannelGroup();java.nio.channels.AsynchronousChannelGroup.shutdown();}}

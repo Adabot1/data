@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.RuntimePermission obj = new java.lang.RuntimePermission();java.lang.RuntimePermission.notifyAll();}}
+class java_lang_RuntimePermission_notifyAll{ public static void function() {java.lang.RuntimePermission obj = new java.lang.RuntimePermission();java.lang.RuntimePermission.notifyAll();}}

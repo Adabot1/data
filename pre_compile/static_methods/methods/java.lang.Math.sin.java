@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.sin(0.14884119410868457);}}
+class java_lang_Math_sin{ public static void function() {java.lang.Math.sin(0.03277890044793563);}}

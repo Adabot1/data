@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.floor(0.36392995174479414);}}
+class java_lang_Math_floor{ public static void function() {java.lang.Math.floor(0.3616343855573486);}}

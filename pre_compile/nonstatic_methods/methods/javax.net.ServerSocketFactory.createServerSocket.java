@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ServerSocketFactory obj = new javax.net.ServerSocketFactory();javax.net.ServerSocketFactory.createServerSocket(1803826967);}}
+class javax_net_ServerSocketFactory_createServerSocket{ public static void function() {javax.net.ServerSocketFactory obj = new javax.net.ServerSocketFactory();javax.net.ServerSocketFactory.createServerSocket(960357358);}}

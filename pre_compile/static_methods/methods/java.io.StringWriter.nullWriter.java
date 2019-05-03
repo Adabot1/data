@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StringWriter.nullWriter();}}
+class java_io_StringWriter_nullWriter{ public static void function() {java.io.StringWriter.nullWriter();}}

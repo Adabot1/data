@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.movePointRight(-773327324);}}
+class java_math_BigDecimal_movePointRight{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.movePointRight(1113944518);}}

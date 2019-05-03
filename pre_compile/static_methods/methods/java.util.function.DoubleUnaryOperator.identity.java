@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.function.DoubleUnaryOperator.identity();}}
+class java_util_function_DoubleUnaryOperator_identity{ public static void function() {java.util.function.DoubleUnaryOperator.identity();}}

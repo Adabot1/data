@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Float obj = new java.lang.Float();java.lang.Float.isInfinite();}}
+class java_lang_Float_isInfinite{ public static void function() {java.lang.Float obj = new java.lang.Float();java.lang.Float.isInfinite();}}

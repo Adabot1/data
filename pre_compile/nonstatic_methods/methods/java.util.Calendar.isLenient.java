@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.isLenient();}}
+class java_util_Calendar_isLenient{ public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.isLenient();}}

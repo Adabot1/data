@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setOOBInline(false);}}
+class java_net_Socket_setOOBInline{ public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setOOBInline(false);}}

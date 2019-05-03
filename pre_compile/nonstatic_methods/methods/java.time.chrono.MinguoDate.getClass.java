@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.MinguoDate obj = new java.time.chrono.MinguoDate();java.time.chrono.MinguoDate.getClass();}}
+class java_time_chrono_MinguoDate_getClass{ public static void function() {java.time.chrono.MinguoDate obj = new java.time.chrono.MinguoDate();java.time.chrono.MinguoDate.getClass();}}

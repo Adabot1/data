@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.File.listRoots();}}
+class java_io_File_listRoots{ public static void function() {java.io.File.listRoots();}}

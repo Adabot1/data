@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.alignmentOffset(-1425117398,1381250051);}}
+class java_nio_MappedByteBuffer_alignmentOffset{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.alignmentOffset(613120928,1868929882);}}

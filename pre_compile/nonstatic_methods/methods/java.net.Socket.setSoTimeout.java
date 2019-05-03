@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setSoTimeout(-901818275);}}
+class java_net_Socket_setSoTimeout{ public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setSoTimeout(-1618996475);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.Pack200.newPacker();}}
+class java_util_jar_Pack200_newPacker{ public static void function() {java.util.jar.Pack200.newPacker();}}

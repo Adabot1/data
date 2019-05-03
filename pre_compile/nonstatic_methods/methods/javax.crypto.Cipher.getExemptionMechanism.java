@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();javax.crypto.Cipher.getExemptionMechanism();}}
+class javax_crypto_Cipher_getExemptionMechanism{ public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();javax.crypto.Cipher.getExemptionMechanism();}}

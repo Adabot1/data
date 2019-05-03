@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.StringTokenizer obj = new java.util.StringTokenizer();java.util.StringTokenizer.wait();}}
+class java_util_StringTokenizer_wait{ public static void function() {java.util.StringTokenizer obj = new java.util.StringTokenizer();java.util.StringTokenizer.wait();}}

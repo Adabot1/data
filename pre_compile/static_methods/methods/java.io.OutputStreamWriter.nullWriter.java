@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.OutputStreamWriter.nullWriter();}}
+class java_io_OutputStreamWriter_nullWriter{ public static void function() {java.io.OutputStreamWriter.nullWriter();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Thread obj = new java.lang.Thread();java.lang.Thread.suspend();}}
+class java_lang_Thread_suspend{ public static void function() {java.lang.Thread obj = new java.lang.Thread();java.lang.Thread.suspend();}}

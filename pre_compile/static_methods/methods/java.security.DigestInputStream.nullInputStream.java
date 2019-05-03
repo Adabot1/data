@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.DigestInputStream.nullInputStream();}}
+class java_security_DigestInputStream_nullInputStream{ public static void function() {java.security.DigestInputStream.nullInputStream();}}

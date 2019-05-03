@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DateFormatSymbols obj = new java.text.DateFormatSymbols();java.text.DateFormatSymbols.getMonths();}}
+class java_text_DateFormatSymbols_getMonths{ public static void function() {java.text.DateFormatSymbols obj = new java.text.DateFormatSymbols();java.text.DateFormatSymbols.getMonths();}}

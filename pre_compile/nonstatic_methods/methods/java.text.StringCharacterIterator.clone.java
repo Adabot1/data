@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.StringCharacterIterator obj = new java.text.StringCharacterIterator();java.text.StringCharacterIterator.clone();}}
+class java_text_StringCharacterIterator_clone{ public static void function() {java.text.StringCharacterIterator obj = new java.text.StringCharacterIterator();java.text.StringCharacterIterator.clone();}}

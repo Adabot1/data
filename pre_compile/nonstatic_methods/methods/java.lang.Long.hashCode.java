@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Long obj = new java.lang.Long();java.lang.Long.hashCode();}}
+class java_lang_Long_hashCode{ public static void function() {java.lang.Long obj = new java.lang.Long();java.lang.Long.hashCode();}}

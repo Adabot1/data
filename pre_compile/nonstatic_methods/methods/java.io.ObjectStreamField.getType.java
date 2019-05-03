@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ObjectStreamField obj = new java.io.ObjectStreamField();java.io.ObjectStreamField.getType();}}
+class java_io_ObjectStreamField_getType{ public static void function() {java.io.ObjectStreamField obj = new java.io.ObjectStreamField();java.io.ObjectStreamField.getType();}}

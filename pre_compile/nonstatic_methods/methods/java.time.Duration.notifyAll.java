@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Duration obj = new java.time.Duration();java.time.Duration.notifyAll();}}
+class java_time_Duration_notifyAll{ public static void function() {java.time.Duration obj = new java.time.Duration();java.time.Duration.notifyAll();}}

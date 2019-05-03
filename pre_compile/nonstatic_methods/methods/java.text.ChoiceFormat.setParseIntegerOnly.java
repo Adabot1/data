@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setParseIntegerOnly(false);}}
+class java_text_ChoiceFormat_setParseIntegerOnly{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setParseIntegerOnly(false);}}

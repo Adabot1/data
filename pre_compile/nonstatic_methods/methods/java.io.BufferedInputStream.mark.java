@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedInputStream obj = new java.io.BufferedInputStream();java.io.BufferedInputStream.mark(1712147996);}}
+class java_io_BufferedInputStream_mark{ public static void function() {java.io.BufferedInputStream obj = new java.io.BufferedInputStream();java.io.BufferedInputStream.mark(1891207937);}}

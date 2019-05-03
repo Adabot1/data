@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math obj = new java.lang.Math();java.lang.Math.toString();}}
+class java_lang_Math_toString{ public static void function() {java.lang.Math obj = new java.lang.Math();java.lang.Math.toString();}}

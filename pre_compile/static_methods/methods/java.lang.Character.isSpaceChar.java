@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isSpaceChar(-1326860457);}}
+class java_lang_Character_isSpaceChar{ public static void function() {java.lang.Character.isSpaceChar(709875806);}}

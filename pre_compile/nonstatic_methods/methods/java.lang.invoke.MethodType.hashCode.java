@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MethodType obj = new java.lang.invoke.MethodType();java.lang.invoke.MethodType.hashCode();}}
+class java_lang_invoke_MethodType_hashCode{ public static void function() {java.lang.invoke.MethodType obj = new java.lang.invoke.MethodType();java.lang.invoke.MethodType.hashCode();}}

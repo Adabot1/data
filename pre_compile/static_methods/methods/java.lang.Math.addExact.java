@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.addExact(686708917,-478748837);}}
+class java_lang_Math_addExact{ public static void function() {java.lang.Math.addExact(922697106,-26967372);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Base64.getUrlEncoder();}}
+class java_util_Base64_getUrlEncoder{ public static void function() {java.util.Base64.getUrlEncoder();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.SocketAddress obj = new java.net.SocketAddress();java.net.SocketAddress.notifyAll();}}
+class java_net_SocketAddress_notifyAll{ public static void function() {java.net.SocketAddress obj = new java.net.SocketAddress();java.net.SocketAddress.notifyAll();}}

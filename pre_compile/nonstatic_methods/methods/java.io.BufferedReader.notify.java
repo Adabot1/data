@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();java.io.BufferedReader.notify();}}
+class java_io_BufferedReader_notify{ public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();java.io.BufferedReader.notify();}}

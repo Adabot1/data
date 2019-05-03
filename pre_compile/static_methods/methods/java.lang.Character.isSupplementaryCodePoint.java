@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isSupplementaryCodePoint(102698206);}}
+class java_lang_Character_isSupplementaryCodePoint{ public static void function() {java.lang.Character.isSupplementaryCodePoint(321029029);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.Subject obj = new javax.security.auth.Subject();javax.security.auth.Subject.notify();}}
+class javax_security_auth_Subject_notify{ public static void function() {javax.security.auth.Subject obj = new javax.security.auth.Subject();javax.security.auth.Subject.notify();}}

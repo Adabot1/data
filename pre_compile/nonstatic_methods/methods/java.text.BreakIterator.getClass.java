@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();java.text.BreakIterator.getClass();}}
+class java_text_BreakIterator_getClass{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();java.text.BreakIterator.getClass();}}

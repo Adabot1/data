@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.subSequence(1330821928,770334602);}}
+class java_lang_String_subSequence{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.subSequence(835397128,377712713);}}

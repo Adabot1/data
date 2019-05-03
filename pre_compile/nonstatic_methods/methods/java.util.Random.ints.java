@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Random obj = new java.util.Random();java.util.Random.ints(-370710688,2092781860);}}
+class java_util_Random_ints{ public static void function() {java.util.Random obj = new java.util.Random();java.util.Random.ints(108839719,-1890472728);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.KeyStoreBuilderParameters obj = new javax.net.ssl.KeyStoreBuilderParameters();javax.net.ssl.KeyStoreBuilderParameters.toString();}}
+class javax_net_ssl_KeyStoreBuilderParameters_toString{ public static void function() {javax.net.ssl.KeyStoreBuilderParameters obj = new javax.net.ssl.KeyStoreBuilderParameters();javax.net.ssl.KeyStoreBuilderParameters.toString();}}

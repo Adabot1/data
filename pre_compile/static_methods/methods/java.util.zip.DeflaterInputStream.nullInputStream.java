@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.DeflaterInputStream.nullInputStream();}}
+class java_util_zip_DeflaterInputStream_nullInputStream{ public static void function() {java.util.zip.DeflaterInputStream.nullInputStream();}}

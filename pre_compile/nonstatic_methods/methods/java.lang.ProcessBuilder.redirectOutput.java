@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();java.lang.ProcessBuilder.redirectOutput();}}
+class java_lang_ProcessBuilder_redirectOutput{ public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();java.lang.ProcessBuilder.redirectOutput();}}

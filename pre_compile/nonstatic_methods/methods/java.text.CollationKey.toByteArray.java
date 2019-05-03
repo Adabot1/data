@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.CollationKey obj = new java.text.CollationKey();java.text.CollationKey.toByteArray();}}
+class java_text_CollationKey_toByteArray{ public static void function() {java.text.CollationKey obj = new java.text.CollationKey();java.text.CollationKey.toByteArray();}}

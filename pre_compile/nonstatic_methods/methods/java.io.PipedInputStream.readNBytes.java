@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();java.io.PipedInputStream.readNBytes(1954886613);}}
+class java_io_PipedInputStream_readNBytes{ public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();java.io.PipedInputStream.readNBytes(-169877891);}}

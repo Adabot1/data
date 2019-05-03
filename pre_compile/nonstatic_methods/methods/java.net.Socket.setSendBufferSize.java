@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setSendBufferSize(1471413786);}}
+class java_net_Socket_setSendBufferSize{ public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setSendBufferSize(-33730388);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.StandardOpenOption obj = new java.nio.file.StandardOpenOption();java.nio.file.StandardOpenOption.getDeclaringClass();}}
+class java_nio_file_StandardOpenOption_getDeclaringClass{ public static void function() {java.nio.file.StandardOpenOption obj = new java.nio.file.StandardOpenOption();java.nio.file.StandardOpenOption.getDeclaringClass();}}

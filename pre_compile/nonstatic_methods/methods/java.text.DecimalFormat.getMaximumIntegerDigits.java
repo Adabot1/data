@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.getMaximumIntegerDigits();}}
+class java_text_DecimalFormat_getMaximumIntegerDigits{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.getMaximumIntegerDigits();}}

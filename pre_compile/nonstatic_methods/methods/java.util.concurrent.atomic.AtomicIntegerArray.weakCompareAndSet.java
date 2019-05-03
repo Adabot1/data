@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.weakCompareAndSet(-1918887036,1577220302,277351083);}}
+class java_util_concurrent_atomic_AtomicIntegerArray_weakCompareAndSet{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.weakCompareAndSet(-698818646,-674506376,1799732135);}}

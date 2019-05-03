@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Parameter obj = new java.lang.reflect.Parameter();java.lang.reflect.Parameter.isImplicit();}}
+class java_lang_reflect_Parameter_isImplicit{ public static void function() {java.lang.reflect.Parameter obj = new java.lang.reflect.Parameter();java.lang.reflect.Parameter.isImplicit();}}

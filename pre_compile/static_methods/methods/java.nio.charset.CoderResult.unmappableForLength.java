@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.charset.CoderResult.unmappableForLength(-1188109091);}}
+class java_nio_charset_CoderResult_unmappableForLength{ public static void function() {java.nio.charset.CoderResult.unmappableForLength(1276099332);}}

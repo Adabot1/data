@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Short.toString(-19118);}}
+class java_lang_Short_toString{ public static void function() {java.lang.Short.toString(-5795);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.multiplyExact(-194176689,-544732615);}}
+class java_lang_Math_multiplyExact{ public static void function() {java.lang.Math.multiplyExact(-1791188567,1720196401);}}

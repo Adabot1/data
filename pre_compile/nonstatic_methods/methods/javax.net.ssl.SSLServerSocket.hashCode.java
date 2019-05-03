@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.hashCode();}}
+class javax_net_ssl_SSLServerSocket_hashCode{ public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();javax.net.ssl.SSLServerSocket.hashCode();}}

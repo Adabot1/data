@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.DatagramSocketImpl obj = new java.net.DatagramSocketImpl();java.net.DatagramSocketImpl.notify();}}
+class java_net_DatagramSocketImpl_notify{ public static void function() {java.net.DatagramSocketImpl obj = new java.net.DatagramSocketImpl();java.net.DatagramSocketImpl.notify();}}

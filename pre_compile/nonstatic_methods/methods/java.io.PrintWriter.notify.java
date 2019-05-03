@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PrintWriter obj = new java.io.PrintWriter();java.io.PrintWriter.notify();}}
+class java_io_PrintWriter_notify{ public static void function() {java.io.PrintWriter obj = new java.io.PrintWriter();java.io.PrintWriter.notify();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.getResponseCode();}}
+class java_net_HttpURLConnection_getResponseCode{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.getResponseCode();}}

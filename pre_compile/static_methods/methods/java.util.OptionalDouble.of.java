@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.OptionalDouble.of(0.0836553042014766);}}
+class java_util_OptionalDouble_of{ public static void function() {java.util.OptionalDouble.of(0.519496888595372);}}

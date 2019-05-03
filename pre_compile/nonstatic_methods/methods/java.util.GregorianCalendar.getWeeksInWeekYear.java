@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();java.util.GregorianCalendar.getWeeksInWeekYear();}}
+class java_util_GregorianCalendar_getWeeksInWeekYear{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();java.util.GregorianCalendar.getWeeksInWeekYear();}}

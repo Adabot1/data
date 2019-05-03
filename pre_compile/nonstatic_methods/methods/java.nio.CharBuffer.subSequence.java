@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();java.nio.CharBuffer.subSequence(2095019263,-600853524);}}
+class java_nio_CharBuffer_subSequence{ public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();java.nio.CharBuffer.subSequence(253642751,-1960377503);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.ByteArrayInputStream obj = new java.io.ByteArrayInputStream();java.io.ByteArrayInputStream.readNBytes(1614939836);}}
+class java_io_ByteArrayInputStream_readNBytes{ public static void function() {java.io.ByteArrayInputStream obj = new java.io.ByteArrayInputStream();java.io.ByteArrayInputStream.readNBytes(-1331247950);}}

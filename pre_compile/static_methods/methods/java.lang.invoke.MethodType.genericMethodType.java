@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MethodType.genericMethodType(255932572);}}
+class java_lang_invoke_MethodType_genericMethodType{ public static void function() {java.lang.invoke.MethodType.genericMethodType(730260434);}}

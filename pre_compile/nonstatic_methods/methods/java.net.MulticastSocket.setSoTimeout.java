@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setSoTimeout(-1345944988);}}
+class java_net_MulticastSocket_setSoTimeout{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setSoTimeout(1019837068);}}

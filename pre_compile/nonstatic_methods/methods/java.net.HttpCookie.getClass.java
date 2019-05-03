@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();java.net.HttpCookie.getClass();}}
+class java_net_HttpCookie_getClass{ public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();java.net.HttpCookie.getClass();}}

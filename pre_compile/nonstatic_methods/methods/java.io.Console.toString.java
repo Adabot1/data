@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.Console obj = new java.io.Console();java.io.Console.toString();}}
+class java_io_Console_toString{ public static void function() {java.io.Console obj = new java.io.Console();java.io.Console.toString();}}

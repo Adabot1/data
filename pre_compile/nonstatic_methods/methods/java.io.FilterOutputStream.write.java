@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FilterOutputStream obj = new java.io.FilterOutputStream();java.io.FilterOutputStream.write(1079283401);}}
+class java_io_FilterOutputStream_write{ public static void function() {java.io.FilterOutputStream obj = new java.io.FilterOutputStream();java.io.FilterOutputStream.write(-765708494);}}

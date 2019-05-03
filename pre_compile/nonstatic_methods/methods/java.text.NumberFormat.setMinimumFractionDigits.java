@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setMinimumFractionDigits(-172799756);}}
+class java_text_NumberFormat_setMinimumFractionDigits{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setMinimumFractionDigits(-632412655);}}

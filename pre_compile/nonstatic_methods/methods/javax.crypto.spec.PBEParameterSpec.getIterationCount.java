@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.PBEParameterSpec obj = new javax.crypto.spec.PBEParameterSpec();javax.crypto.spec.PBEParameterSpec.getIterationCount();}}
+class javax_crypto_spec_PBEParameterSpec_getIterationCount{ public static void function() {javax.crypto.spec.PBEParameterSpec obj = new javax.crypto.spec.PBEParameterSpec();javax.crypto.spec.PBEParameterSpec.getIterationCount();}}

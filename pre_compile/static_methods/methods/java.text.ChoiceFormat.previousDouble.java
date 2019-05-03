@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat.previousDouble(0.08672247521382648);}}
+class java_text_ChoiceFormat_previousDouble{ public static void function() {java.text.ChoiceFormat.previousDouble(0.24449255547026838);}}

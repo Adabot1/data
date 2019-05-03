@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.DateTimeFormatter obj = new java.time.format.DateTimeFormatter();java.time.format.DateTimeFormatter.notifyAll();}}
+class java_time_format_DateTimeFormatter_notifyAll{ public static void function() {java.time.format.DateTimeFormatter obj = new java.time.format.DateTimeFormatter();java.time.format.DateTimeFormatter.notifyAll();}}

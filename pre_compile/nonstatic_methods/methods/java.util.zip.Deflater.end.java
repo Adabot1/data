@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.Deflater obj = new java.util.zip.Deflater();java.util.zip.Deflater.end();}}
+class java_util_zip_Deflater_end{ public static void function() {java.util.zip.Deflater obj = new java.util.zip.Deflater();java.util.zip.Deflater.end();}}

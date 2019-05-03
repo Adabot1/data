@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarInputStream obj = new java.util.jar.JarInputStream();java.util.jar.JarInputStream.readNBytes(761606651);}}
+class java_util_jar_JarInputStream_readNBytes{ public static void function() {java.util.jar.JarInputStream obj = new java.util.jar.JarInputStream();java.util.jar.JarInputStream.readNBytes(-962075212);}}

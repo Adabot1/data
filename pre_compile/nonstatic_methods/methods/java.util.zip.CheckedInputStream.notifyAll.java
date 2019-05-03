@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.CheckedInputStream obj = new java.util.zip.CheckedInputStream();java.util.zip.CheckedInputStream.notifyAll();}}
+class java_util_zip_CheckedInputStream_notifyAll{ public static void function() {java.util.zip.CheckedInputStream obj = new java.util.zip.CheckedInputStream();java.util.zip.CheckedInputStream.notifyAll();}}

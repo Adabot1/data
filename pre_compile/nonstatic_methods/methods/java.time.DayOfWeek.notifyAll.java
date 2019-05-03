@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();java.time.DayOfWeek.notifyAll();}}
+class java_time_DayOfWeek_notifyAll{ public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();java.time.DayOfWeek.notifyAll();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URLPermission obj = new java.net.URLPermission();java.net.URLPermission.notify();}}
+class java_net_URLPermission_notify{ public static void function() {java.net.URLPermission obj = new java.net.URLPermission();java.net.URLPermission.notify();}}

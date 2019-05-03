@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CollectionCertStoreParameters obj = new java.security.cert.CollectionCertStoreParameters();java.security.cert.CollectionCertStoreParameters.notifyAll();}}
+class java_security_cert_CollectionCertStoreParameters_notifyAll{ public static void function() {java.security.cert.CollectionCertStoreParameters obj = new java.security.cert.CollectionCertStoreParameters();java.security.cert.CollectionCertStoreParameters.notifyAll();}}

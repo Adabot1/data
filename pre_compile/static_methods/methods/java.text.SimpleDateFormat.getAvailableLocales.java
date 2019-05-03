@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.SimpleDateFormat.getAvailableLocales();}}
+class java_text_SimpleDateFormat_getAvailableLocales{ public static void function() {java.text.SimpleDateFormat.getAvailableLocales();}}

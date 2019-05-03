@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.regex.Matcher obj = new java.util.regex.Matcher();java.util.regex.Matcher.hashCode();}}
+class java_util_regex_Matcher_hashCode{ public static void function() {java.util.regex.Matcher obj = new java.util.regex.Matcher();java.util.regex.Matcher.hashCode();}}

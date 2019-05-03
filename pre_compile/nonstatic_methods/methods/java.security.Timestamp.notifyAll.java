@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Timestamp obj = new java.security.Timestamp();java.security.Timestamp.notifyAll();}}
+class java_security_Timestamp_notifyAll{ public static void function() {java.security.Timestamp obj = new java.security.Timestamp();java.security.Timestamp.notifyAll();}}

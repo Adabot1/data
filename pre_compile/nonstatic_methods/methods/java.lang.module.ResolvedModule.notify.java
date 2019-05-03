@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.module.ResolvedModule obj = new java.lang.module.ResolvedModule();java.lang.module.ResolvedModule.notify();}}
+class java_lang_module_ResolvedModule_notify{ public static void function() {java.lang.module.ResolvedModule obj = new java.lang.module.ResolvedModule();java.lang.module.ResolvedModule.notify();}}

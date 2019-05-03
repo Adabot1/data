@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.ProtectionDomain obj = new java.security.ProtectionDomain();java.security.ProtectionDomain.toString();}}
+class java_security_ProtectionDomain_toString{ public static void function() {java.security.ProtectionDomain obj = new java.security.ProtectionDomain();java.security.ProtectionDomain.toString();}}

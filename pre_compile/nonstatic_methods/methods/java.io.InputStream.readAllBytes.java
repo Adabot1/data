@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.InputStream obj = new java.io.InputStream();java.io.InputStream.readAllBytes();}}
+class java_io_InputStream_readAllBytes{ public static void function() {java.io.InputStream obj = new java.io.InputStream();java.io.InputStream.readAllBytes();}}

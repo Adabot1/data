@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.RuleBasedCollator.getAvailableLocales();}}
+class java_text_RuleBasedCollator_getAvailableLocales{ public static void function() {java.text.RuleBasedCollator.getAvailableLocales();}}

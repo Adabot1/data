@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MethodHandle obj = new java.lang.invoke.MethodHandle();java.lang.invoke.MethodHandle.toString();}}
+class java_lang_invoke_MethodHandle_toString{ public static void function() {java.lang.invoke.MethodHandle obj = new java.lang.invoke.MethodHandle();java.lang.invoke.MethodHandle.toString();}}

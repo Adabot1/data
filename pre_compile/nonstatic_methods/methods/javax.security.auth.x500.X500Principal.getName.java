@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.x500.X500Principal obj = new javax.security.auth.x500.X500Principal();javax.security.auth.x500.X500Principal.getName();}}
+class javax_security_auth_x500_X500Principal_getName{ public static void function() {javax.security.auth.x500.X500Principal obj = new javax.security.auth.x500.X500Principal();javax.security.auth.x500.X500Principal.getName();}}

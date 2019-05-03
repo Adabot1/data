@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.NumberFormat.getCurrencyInstance();}}
+class java_text_NumberFormat_getCurrencyInstance{ public static void function() {java.text.NumberFormat.getCurrencyInstance();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicBoolean obj = new java.util.concurrent.atomic.AtomicBoolean();java.util.concurrent.atomic.AtomicBoolean.lazySet(false);}}
+class java_util_concurrent_atomic_AtomicBoolean_lazySet{ public static void function() {java.util.concurrent.atomic.AtomicBoolean obj = new java.util.concurrent.atomic.AtomicBoolean();java.util.concurrent.atomic.AtomicBoolean.lazySet(true);}}

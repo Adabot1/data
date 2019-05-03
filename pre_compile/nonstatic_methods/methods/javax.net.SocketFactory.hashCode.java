@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.SocketFactory obj = new javax.net.SocketFactory();javax.net.SocketFactory.hashCode();}}
+class javax_net_SocketFactory_hashCode{ public static void function() {javax.net.SocketFactory obj = new javax.net.SocketFactory();javax.net.SocketFactory.hashCode();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Policy.getPolicy();}}
+class java_security_Policy_getPolicy{ public static void function() {java.security.Policy.getPolicy();}}

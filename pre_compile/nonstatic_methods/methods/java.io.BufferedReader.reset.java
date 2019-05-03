@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();java.io.BufferedReader.reset();}}
+class java_io_BufferedReader_reset{ public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();java.io.BufferedReader.reset();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.SecureRandom.getInstanceStrong();}}
+class java_security_SecureRandom_getInstanceStrong{ public static void function() {java.security.SecureRandom.getInstanceStrong();}}

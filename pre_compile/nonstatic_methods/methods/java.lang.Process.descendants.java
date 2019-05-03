@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.descendants();}}
+class java_lang_Process_descendants{ public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.descendants();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.SocketImpl obj = new java.net.SocketImpl();java.net.SocketImpl.getOption(1577473091);}}
+class java_net_SocketImpl_getOption{ public static void function() {java.net.SocketImpl obj = new java.net.SocketImpl();java.net.SocketImpl.getOption(1281293731);}}

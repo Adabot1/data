@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Duration obj = new java.time.Duration();java.time.Duration.toHoursPart();}}
+class java_time_Duration_toHoursPart{ public static void function() {java.time.Duration obj = new java.time.Duration();java.time.Duration.toHoursPart();}}

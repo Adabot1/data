@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXCertPathChecker obj = new java.security.cert.PKIXCertPathChecker();java.security.cert.PKIXCertPathChecker.wait();}}
+class java_security_cert_PKIXCertPathChecker_wait{ public static void function() {java.security.cert.PKIXCertPathChecker obj = new java.security.cert.PKIXCertPathChecker();java.security.cert.PKIXCertPathChecker.wait();}}

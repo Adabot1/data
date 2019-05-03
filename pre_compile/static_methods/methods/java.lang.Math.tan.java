@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.tan(0.7739520017986546);}}
+class java_lang_Math_tan{ public static void function() {java.lang.Math.tan(0.29257611866640043);}}

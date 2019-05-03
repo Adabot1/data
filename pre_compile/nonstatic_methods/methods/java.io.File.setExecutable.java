@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.File obj = new java.io.File();java.io.File.setExecutable(true);}}
+class java_io_File_setExecutable{ public static void function() {java.io.File obj = new java.io.File();java.io.File.setExecutable(true);}}

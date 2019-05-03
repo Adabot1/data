@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.insert(1646466211,0.7168089018499912);}}
+class java_lang_StringBuilder_insert{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.insert(33365631,0.5018325744507439);}}

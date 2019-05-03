@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Compiler.enable();}}
+class java_lang_Compiler_enable{ public static void function() {java.lang.Compiler.enable();}}

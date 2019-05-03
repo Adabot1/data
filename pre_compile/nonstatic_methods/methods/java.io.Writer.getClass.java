@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.Writer obj = new java.io.Writer();java.io.Writer.getClass();}}
+class java_io_Writer_getClass{ public static void function() {java.io.Writer obj = new java.io.Writer();java.io.Writer.getClass();}}

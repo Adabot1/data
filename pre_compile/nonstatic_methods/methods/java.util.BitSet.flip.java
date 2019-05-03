@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.flip(-1062504263);}}
+class java_util_BitSet_flip{ public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.flip(-1111213755);}}

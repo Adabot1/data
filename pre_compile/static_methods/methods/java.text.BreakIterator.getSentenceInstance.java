@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.BreakIterator.getSentenceInstance();}}
+class java_text_BreakIterator_getSentenceInstance{ public static void function() {java.text.BreakIterator.getSentenceInstance();}}

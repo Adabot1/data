@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URLEncoder obj = new java.net.URLEncoder();java.net.URLEncoder.notify();}}
+class java_net_URLEncoder_notify{ public static void function() {java.net.URLEncoder obj = new java.net.URLEncoder();java.net.URLEncoder.notify();}}

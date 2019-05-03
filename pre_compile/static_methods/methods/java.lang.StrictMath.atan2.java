@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.atan2(0.47442278175997166,0.6227102206127882);}}
+class java_lang_StrictMath_atan2{ public static void function() {java.lang.StrictMath.atan2(0.34102850699293696,0.9568632793799974);}}

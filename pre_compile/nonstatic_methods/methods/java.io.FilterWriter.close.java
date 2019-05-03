@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FilterWriter obj = new java.io.FilterWriter();java.io.FilterWriter.close();}}
+class java_io_FilterWriter_close{ public static void function() {java.io.FilterWriter obj = new java.io.FilterWriter();java.io.FilterWriter.close();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Void obj = new java.lang.Void();java.lang.Void.notify();}}
+class java_lang_Void_notify{ public static void function() {java.lang.Void obj = new java.lang.Void();java.lang.Void.notify();}}

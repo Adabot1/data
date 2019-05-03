@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Observable obj = new java.util.Observable();java.util.Observable.countObservers();}}
+class java_util_Observable_countObservers{ public static void function() {java.util.Observable obj = new java.util.Observable();java.util.Observable.countObservers();}}

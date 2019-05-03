@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.JapaneseDate obj = new java.time.chrono.JapaneseDate();java.time.chrono.JapaneseDate.wait();}}
+class java_time_chrono_JapaneseDate_wait{ public static void function() {java.time.chrono.JapaneseDate obj = new java.time.chrono.JapaneseDate();java.time.chrono.JapaneseDate.wait();}}

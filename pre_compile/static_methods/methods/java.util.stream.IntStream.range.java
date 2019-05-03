@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.IntStream.range(2086365723,1373848087);}}
+class java_util_stream_IntStream_range{ public static void function() {java.util.stream.IntStream.range(238601306,-946472444);}}

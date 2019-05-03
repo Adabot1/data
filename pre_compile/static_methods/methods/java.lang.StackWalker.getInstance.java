@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StackWalker.getInstance();}}
+class java_lang_StackWalker_getInstance{ public static void function() {java.lang.StackWalker.getInstance();}}

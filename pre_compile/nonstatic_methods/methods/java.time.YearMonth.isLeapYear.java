@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.YearMonth obj = new java.time.YearMonth();java.time.YearMonth.isLeapYear();}}
+class java_time_YearMonth_isLeapYear{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();java.time.YearMonth.isLeapYear();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();java.io.PushbackInputStream.getClass();}}
+class java_io_PushbackInputStream_getClass{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();java.io.PushbackInputStream.getClass();}}

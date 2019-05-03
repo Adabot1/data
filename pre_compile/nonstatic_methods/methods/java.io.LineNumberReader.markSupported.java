@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.LineNumberReader obj = new java.io.LineNumberReader();java.io.LineNumberReader.markSupported();}}
+class java_io_LineNumberReader_markSupported{ public static void function() {java.io.LineNumberReader obj = new java.io.LineNumberReader();java.io.LineNumberReader.markSupported();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.atTime(1675598205,653697061);}}
+class java_time_LocalDate_atTime{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();java.time.LocalDate.atTime(505309256,-637880928);}}

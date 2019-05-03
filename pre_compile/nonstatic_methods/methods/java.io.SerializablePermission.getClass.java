@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.SerializablePermission obj = new java.io.SerializablePermission();java.io.SerializablePermission.getClass();}}
+class java_io_SerializablePermission_getClass{ public static void function() {java.io.SerializablePermission obj = new java.io.SerializablePermission();java.io.SerializablePermission.getClass();}}

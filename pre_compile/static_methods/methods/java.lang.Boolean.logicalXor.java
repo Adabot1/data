@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Boolean.logicalXor(true,true);}}
+class java_lang_Boolean_logicalXor{ public static void function() {java.lang.Boolean.logicalXor(true,true);}}

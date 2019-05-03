@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Instant obj = new java.time.Instant();java.time.Instant.getClass();}}
+class java_time_Instant_getClass{ public static void function() {java.time.Instant obj = new java.time.Instant();java.time.Instant.getClass();}}

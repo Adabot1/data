@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.LocalTime.of(-205131164,-180829840,1980895158);}}
+class java_time_LocalTime_of{ public static void function() {java.time.LocalTime.of(1222937804,-1865943136,856916098);}}

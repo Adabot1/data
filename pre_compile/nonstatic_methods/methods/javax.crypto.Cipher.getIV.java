@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();javax.crypto.Cipher.getIV();}}
+class javax_crypto_Cipher_getIV{ public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();javax.crypto.Cipher.getIV();}}

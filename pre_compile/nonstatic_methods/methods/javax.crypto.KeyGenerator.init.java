@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.KeyGenerator obj = new javax.crypto.KeyGenerator();javax.crypto.KeyGenerator.init(1133626873);}}
+class javax_crypto_KeyGenerator_init{ public static void function() {javax.crypto.KeyGenerator obj = new javax.crypto.KeyGenerator();javax.crypto.KeyGenerator.init(-1080411217);}}

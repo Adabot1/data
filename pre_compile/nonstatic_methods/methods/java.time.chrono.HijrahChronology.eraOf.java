@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();java.time.chrono.HijrahChronology.eraOf(-116989176);}}
+class java_time_chrono_HijrahChronology_eraOf{ public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();java.time.chrono.HijrahChronology.eraOf(1082739841);}}

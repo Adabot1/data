@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.File obj = new java.io.File();java.io.File.getParentFile();}}
+class java_io_File_getParentFile{ public static void function() {java.io.File obj = new java.io.File();java.io.File.getParentFile();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.PKIXReason obj = new java.security.cert.PKIXReason();java.security.cert.PKIXReason.name();}}
+class java_security_cert_PKIXReason_name{ public static void function() {java.security.cert.PKIXReason obj = new java.security.cert.PKIXReason();java.security.cert.PKIXReason.name();}}

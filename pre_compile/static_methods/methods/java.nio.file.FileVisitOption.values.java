@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.FileVisitOption.values();}}
+class java_nio_file_FileVisitOption_values{ public static void function() {java.nio.file.FileVisitOption.values();}}

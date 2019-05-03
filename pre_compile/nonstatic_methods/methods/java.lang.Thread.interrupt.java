@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Thread obj = new java.lang.Thread();java.lang.Thread.interrupt();}}
+class java_lang_Thread_interrupt{ public static void function() {java.lang.Thread obj = new java.lang.Thread();java.lang.Thread.interrupt();}}

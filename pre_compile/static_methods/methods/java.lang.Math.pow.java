@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.pow(0.11571121081390334,0.9135130157847597);}}
+class java_lang_Math_pow{ public static void function() {java.lang.Math.pow(0.23304323671171223,0.41860537838016176);}}

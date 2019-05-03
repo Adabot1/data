@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.SwitchPoint obj = new java.lang.invoke.SwitchPoint();java.lang.invoke.SwitchPoint.toString();}}
+class java_lang_invoke_SwitchPoint_toString{ public static void function() {java.lang.invoke.SwitchPoint obj = new java.lang.invoke.SwitchPoint();java.lang.invoke.SwitchPoint.toString();}}

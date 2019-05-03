@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setPerformancePreferences(-731118218,-1845496696,-407690505);}}
+class java_net_Socket_setPerformancePreferences{ public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setPerformancePreferences(1576939401,1643912406,-1979930960);}}

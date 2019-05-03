@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.ordinaryChars(1385892305,-1404097810);}}
+class java_io_StreamTokenizer_ordinaryChars{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.ordinaryChars(-1985897854,811374478);}}

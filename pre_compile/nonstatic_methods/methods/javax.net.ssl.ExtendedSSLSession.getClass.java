@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.ExtendedSSLSession obj = new javax.net.ssl.ExtendedSSLSession();javax.net.ssl.ExtendedSSLSession.getClass();}}
+class javax_net_ssl_ExtendedSSLSession_getClass{ public static void function() {javax.net.ssl.ExtendedSSLSession obj = new javax.net.ssl.ExtendedSSLSession();javax.net.ssl.ExtendedSSLSession.getClass();}}

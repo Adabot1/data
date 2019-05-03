@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.codePointCount(408356031,-2018038344);}}
+class java_lang_String_codePointCount{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.codePointCount(1121157130,1686930563);}}

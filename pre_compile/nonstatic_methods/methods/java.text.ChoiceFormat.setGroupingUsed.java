@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setGroupingUsed(false);}}
+class java_text_ChoiceFormat_setGroupingUsed{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setGroupingUsed(true);}}

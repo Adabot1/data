@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.ExtendedSSLSession obj = new javax.net.ssl.ExtendedSSLSession();javax.net.ssl.ExtendedSSLSession.getCreationTime();}}
+class javax_net_ssl_ExtendedSSLSession_getCreationTime{ public static void function() {javax.net.ssl.ExtendedSSLSession obj = new javax.net.ssl.ExtendedSSLSession();javax.net.ssl.ExtendedSSLSession.getCreationTime();}}

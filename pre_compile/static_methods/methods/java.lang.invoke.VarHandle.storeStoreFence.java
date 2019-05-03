@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.VarHandle.storeStoreFence();}}
+class java_lang_invoke_VarHandle_storeStoreFence{ public static void function() {java.lang.invoke.VarHandle.storeStoreFence();}}

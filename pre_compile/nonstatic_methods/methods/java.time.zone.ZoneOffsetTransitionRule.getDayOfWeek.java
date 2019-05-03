@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.zone.ZoneOffsetTransitionRule obj = new java.time.zone.ZoneOffsetTransitionRule();java.time.zone.ZoneOffsetTransitionRule.getDayOfWeek();}}
+class java_time_zone_ZoneOffsetTransitionRule_getDayOfWeek{ public static void function() {java.time.zone.ZoneOffsetTransitionRule obj = new java.time.zone.ZoneOffsetTransitionRule();java.time.zone.ZoneOffsetTransitionRule.getDayOfWeek();}}

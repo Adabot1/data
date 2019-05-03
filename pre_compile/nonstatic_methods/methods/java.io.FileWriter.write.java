@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.FileWriter obj = new java.io.FileWriter();java.io.FileWriter.write(1957054219);}}
+class java_io_FileWriter_write{ public static void function() {java.io.FileWriter obj = new java.io.FileWriter();java.io.FileWriter.write(1732839818);}}

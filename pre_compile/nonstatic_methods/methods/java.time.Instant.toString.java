@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Instant obj = new java.time.Instant();java.time.Instant.toString();}}
+class java_time_Instant_toString{ public static void function() {java.time.Instant obj = new java.time.Instant();java.time.Instant.toString();}}

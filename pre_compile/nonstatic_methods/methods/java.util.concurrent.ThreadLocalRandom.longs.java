@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();java.util.concurrent.ThreadLocalRandom.longs();}}
+class java_util_concurrent_ThreadLocalRandom_longs{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();java.util.concurrent.ThreadLocalRandom.longs();}}

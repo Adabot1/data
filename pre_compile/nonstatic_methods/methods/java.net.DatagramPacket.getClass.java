@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.DatagramPacket obj = new java.net.DatagramPacket();java.net.DatagramPacket.getClass();}}
+class java_net_DatagramPacket_getClass{ public static void function() {java.net.DatagramPacket obj = new java.net.DatagramPacket();java.net.DatagramPacket.getClass();}}

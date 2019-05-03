@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.setFixedLengthStreamingMode(1087367411);}}
+class java_net_HttpURLConnection_setFixedLengthStreamingMode{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();java.net.HttpURLConnection.setFixedLengthStreamingMode(-1045041623);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Locale.getISOLanguages();}}
+class java_util_Locale_getISOLanguages{ public static void function() {java.util.Locale.getISOLanguages();}}

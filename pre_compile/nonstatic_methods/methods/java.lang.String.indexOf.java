@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.indexOf(-422295462,1906931424);}}
+class java_lang_String_indexOf{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.indexOf(-1007874243,-833179127);}}

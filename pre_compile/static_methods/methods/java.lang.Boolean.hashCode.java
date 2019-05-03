@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Boolean.hashCode(false);}}
+class java_lang_Boolean_hashCode{ public static void function() {java.lang.Boolean.hashCode(true);}}

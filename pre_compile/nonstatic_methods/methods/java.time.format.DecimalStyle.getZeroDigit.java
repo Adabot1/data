@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.format.DecimalStyle obj = new java.time.format.DecimalStyle();java.time.format.DecimalStyle.getZeroDigit();}}
+class java_time_format_DecimalStyle_getZeroDigit{ public static void function() {java.time.format.DecimalStyle obj = new java.time.format.DecimalStyle();java.time.format.DecimalStyle.getZeroDigit();}}

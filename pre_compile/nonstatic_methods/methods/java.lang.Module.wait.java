@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Module obj = new java.lang.Module();java.lang.Module.wait();}}
+class java_lang_Module_wait{ public static void function() {java.lang.Module obj = new java.lang.Module();java.lang.Module.wait();}}

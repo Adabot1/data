@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.MappedByteBuffer.allocate(865327498);}}
+class java_nio_MappedByteBuffer_allocate{ public static void function() {java.nio.MappedByteBuffer.allocate(1982476492);}}

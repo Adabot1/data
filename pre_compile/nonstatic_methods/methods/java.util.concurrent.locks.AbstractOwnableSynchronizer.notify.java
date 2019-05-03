@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.locks.AbstractOwnableSynchronizer obj = new java.util.concurrent.locks.AbstractOwnableSynchronizer();java.util.concurrent.locks.AbstractOwnableSynchronizer.notify();}}
+class java_util_concurrent_locks_AbstractOwnableSynchronizer_notify{ public static void function() {java.util.concurrent.locks.AbstractOwnableSynchronizer obj = new java.util.concurrent.locks.AbstractOwnableSynchronizer();java.util.concurrent.locks.AbstractOwnableSynchronizer.notify();}}

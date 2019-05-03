@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Inet4Address.getLoopbackAddress();}}
+class java_net_Inet4Address_getLoopbackAddress{ public static void function() {java.net.Inet4Address.getLoopbackAddress();}}

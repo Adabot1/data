@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();java.util.jar.JarEntry.getClass();}}
+class java_util_jar_JarEntry_getClass{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();java.util.jar.JarEntry.getClass();}}

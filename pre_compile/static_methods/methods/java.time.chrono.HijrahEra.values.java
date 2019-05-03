@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.HijrahEra.values();}}
+class java_time_chrono_HijrahEra_values{ public static void function() {java.time.chrono.HijrahEra.values();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.Executors.newSingleThreadScheduledExecutor();}}
+class java_util_concurrent_Executors_newSingleThreadScheduledExecutor{ public static void function() {java.util.concurrent.Executors.newSingleThreadScheduledExecutor();}}

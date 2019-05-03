@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.regex.Matcher obj = new java.util.regex.Matcher();java.util.regex.Matcher.useTransparentBounds(false);}}
+class java_util_regex_Matcher_useTransparentBounds{ public static void function() {java.util.regex.Matcher obj = new java.util.regex.Matcher();java.util.regex.Matcher.useTransparentBounds(false);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.Writer obj = new java.io.Writer();java.io.Writer.close();}}
+class java_io_Writer_close{ public static void function() {java.io.Writer obj = new java.io.Writer();java.io.Writer.close();}}

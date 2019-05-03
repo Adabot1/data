@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.setFixedLengthStreamingMode(-1104743323);}}
+class javax_net_ssl_HttpsURLConnection_setFixedLengthStreamingMode{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();javax.net.ssl.HttpsURLConnection.setFixedLengthStreamingMode(785911878);}}

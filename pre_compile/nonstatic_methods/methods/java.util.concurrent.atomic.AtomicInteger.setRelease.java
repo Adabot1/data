@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();java.util.concurrent.atomic.AtomicInteger.setRelease(-13586361);}}
+class java_util_concurrent_atomic_AtomicInteger_setRelease{ public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();java.util.concurrent.atomic.AtomicInteger.setRelease(-64957703);}}

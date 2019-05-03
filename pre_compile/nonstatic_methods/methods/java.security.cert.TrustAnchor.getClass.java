@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.TrustAnchor obj = new java.security.cert.TrustAnchor();java.security.cert.TrustAnchor.getClass();}}
+class java_security_cert_TrustAnchor_getClass{ public static void function() {java.security.cert.TrustAnchor obj = new java.security.cert.TrustAnchor();java.security.cert.TrustAnchor.getClass();}}

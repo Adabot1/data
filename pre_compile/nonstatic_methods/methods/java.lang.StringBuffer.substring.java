@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.substring(-419513290);}}
+class java_lang_StringBuffer_substring{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.substring(-845335715);}}

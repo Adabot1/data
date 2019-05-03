@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Short.hashCode(11150);}}
+class java_lang_Short_hashCode{ public static void function() {java.lang.Short.hashCode(27914);}}

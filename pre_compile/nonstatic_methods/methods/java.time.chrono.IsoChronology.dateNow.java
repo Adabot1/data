@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();java.time.chrono.IsoChronology.dateNow();}}
+class java_time_chrono_IsoChronology_dateNow{ public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();java.time.chrono.IsoChronology.dateNow();}}

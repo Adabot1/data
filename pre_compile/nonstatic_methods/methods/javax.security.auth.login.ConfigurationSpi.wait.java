@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.login.ConfigurationSpi obj = new javax.security.auth.login.ConfigurationSpi();javax.security.auth.login.ConfigurationSpi.wait();}}
+class javax_security_auth_login_ConfigurationSpi_wait{ public static void function() {javax.security.auth.login.ConfigurationSpi obj = new javax.security.auth.login.ConfigurationSpi();javax.security.auth.login.ConfigurationSpi.wait();}}

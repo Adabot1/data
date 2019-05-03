@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.System.getProperties();}}
+class java_lang_System_getProperties{ public static void function() {java.lang.System.getProperties();}}

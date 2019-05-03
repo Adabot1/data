@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.jar.Manifest obj = new java.util.jar.Manifest();java.util.jar.Manifest.getMainAttributes();}}
+class java_util_jar_Manifest_getMainAttributes{ public static void function() {java.util.jar.Manifest obj = new java.util.jar.Manifest();java.util.jar.Manifest.getMainAttributes();}}

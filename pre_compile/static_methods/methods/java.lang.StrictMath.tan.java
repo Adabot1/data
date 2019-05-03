@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.tan(0.7142515059841995);}}
+class java_lang_StrictMath_tan{ public static void function() {java.lang.StrictMath.tan(0.9177779083913086);}}

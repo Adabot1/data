@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLSessionBindingEvent obj = new javax.net.ssl.SSLSessionBindingEvent();javax.net.ssl.SSLSessionBindingEvent.getSession();}}
+class javax_net_ssl_SSLSessionBindingEvent_getSession{ public static void function() {javax.net.ssl.SSLSessionBindingEvent obj = new javax.net.ssl.SSLSessionBindingEvent();javax.net.ssl.SSLSessionBindingEvent.getSession();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.AlgorithmParameterGenerator obj = new java.security.AlgorithmParameterGenerator();java.security.AlgorithmParameterGenerator.notify();}}
+class java_security_AlgorithmParameterGenerator_notify{ public static void function() {java.security.AlgorithmParameterGenerator obj = new java.security.AlgorithmParameterGenerator();java.security.AlgorithmParameterGenerator.notify();}}

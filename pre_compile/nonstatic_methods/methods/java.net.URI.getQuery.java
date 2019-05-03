@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.getQuery();}}
+class java_net_URI_getQuery{ public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.getQuery();}}

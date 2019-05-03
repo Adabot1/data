@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PrintStream obj = new java.io.PrintStream();java.io.PrintStream.getClass();}}
+class java_io_PrintStream_getClass{ public static void function() {java.io.PrintStream obj = new java.io.PrintStream();java.io.PrintStream.getClass();}}

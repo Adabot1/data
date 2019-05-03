@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.Format obj = new java.text.Format();java.text.Format.toString();}}
+class java_text_Format_toString{ public static void function() {java.text.Format obj = new java.text.Format();java.text.Format.toString();}}

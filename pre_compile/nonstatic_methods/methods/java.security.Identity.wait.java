@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.Identity obj = new java.security.Identity();java.security.Identity.wait();}}
+class java_security_Identity_wait{ public static void function() {java.security.Identity obj = new java.security.Identity();java.security.Identity.wait();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.DHPrivateKeySpec obj = new javax.crypto.spec.DHPrivateKeySpec();javax.crypto.spec.DHPrivateKeySpec.toString();}}
+class javax_crypto_spec_DHPrivateKeySpec_toString{ public static void function() {javax.crypto.spec.DHPrivateKeySpec obj = new javax.crypto.spec.DHPrivateKeySpec();javax.crypto.spec.DHPrivateKeySpec.toString();}}

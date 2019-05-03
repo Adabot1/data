@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.testBit(-543209042);}}
+class java_math_BigInteger_testBit{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.testBit(-921681068);}}

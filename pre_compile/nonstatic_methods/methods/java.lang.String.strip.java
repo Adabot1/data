@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.strip();}}
+class java_lang_String_strip{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.strip();}}

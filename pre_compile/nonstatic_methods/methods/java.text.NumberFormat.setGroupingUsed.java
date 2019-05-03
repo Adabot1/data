@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setGroupingUsed(true);}}
+class java_text_NumberFormat_setGroupingUsed{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setGroupingUsed(false);}}

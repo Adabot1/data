@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getTimeInMillis();}}
+class java_util_Calendar_getTimeInMillis{ public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getTimeInMillis();}}

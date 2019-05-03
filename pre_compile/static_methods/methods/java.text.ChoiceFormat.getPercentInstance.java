@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat.getPercentInstance();}}
+class java_text_ChoiceFormat_getPercentInstance{ public static void function() {java.text.ChoiceFormat.getPercentInstance();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.SimpleDateFormat.getInstance();}}
+class java_text_SimpleDateFormat_getInstance{ public static void function() {java.text.SimpleDateFormat.getInstance();}}

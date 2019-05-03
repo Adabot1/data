@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.totalMemory();}}
+class java_lang_Runtime_totalMemory{ public static void function() {java.lang.Runtime obj = new java.lang.Runtime();java.lang.Runtime.totalMemory();}}

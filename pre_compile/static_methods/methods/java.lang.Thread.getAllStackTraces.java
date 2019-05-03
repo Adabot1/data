@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Thread.getAllStackTraces();}}
+class java_lang_Thread_getAllStackTraces{ public static void function() {java.lang.Thread.getAllStackTraces();}}

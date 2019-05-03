@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.min(-166413716,-1147878917);}}
+class java_lang_Integer_min{ public static void function() {java.lang.Integer.min(704657661,1226203819);}}

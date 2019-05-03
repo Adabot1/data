@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Base64.getMimeDecoder();}}
+class java_util_Base64_getMimeDecoder{ public static void function() {java.util.Base64.getMimeDecoder();}}

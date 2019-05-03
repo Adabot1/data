@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.ensureCapacity(1315002004);}}
+class java_lang_StringBuffer_ensureCapacity{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.ensureCapacity(1581184611);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();java.time.OffsetTime.withMinute(-380331725);}}
+class java_time_OffsetTime_withMinute{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();java.time.OffsetTime.withMinute(-2075620531);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.attribute.AclEntryType.values();}}
+class java_nio_file_attribute_AclEntryType_values{ public static void function() {java.nio.file.attribute.AclEntryType.values();}}

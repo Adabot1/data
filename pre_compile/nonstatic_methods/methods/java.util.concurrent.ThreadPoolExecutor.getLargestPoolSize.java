@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ThreadPoolExecutor obj = new java.util.concurrent.ThreadPoolExecutor();java.util.concurrent.ThreadPoolExecutor.getLargestPoolSize();}}
+class java_util_concurrent_ThreadPoolExecutor_getLargestPoolSize{ public static void function() {java.util.concurrent.ThreadPoolExecutor obj = new java.util.concurrent.ThreadPoolExecutor();java.util.concurrent.ThreadPoolExecutor.getLargestPoolSize();}}

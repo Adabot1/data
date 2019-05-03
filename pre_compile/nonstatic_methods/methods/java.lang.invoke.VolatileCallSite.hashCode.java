@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.VolatileCallSite obj = new java.lang.invoke.VolatileCallSite();java.lang.invoke.VolatileCallSite.hashCode();}}
+class java_lang_invoke_VolatileCallSite_hashCode{ public static void function() {java.lang.invoke.VolatileCallSite obj = new java.lang.invoke.VolatileCallSite();java.lang.invoke.VolatileCallSite.hashCode();}}

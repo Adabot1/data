@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();java.time.chrono.JapaneseChronology.dateYearDay(1821528340,-1732605039);}}
+class java_time_chrono_JapaneseChronology_dateYearDay{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();java.time.chrono.JapaneseChronology.dateYearDay(819041486,254527086);}}

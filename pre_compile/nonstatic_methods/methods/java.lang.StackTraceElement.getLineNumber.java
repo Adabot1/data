@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StackTraceElement obj = new java.lang.StackTraceElement();java.lang.StackTraceElement.getLineNumber();}}
+class java_lang_StackTraceElement_getLineNumber{ public static void function() {java.lang.StackTraceElement obj = new java.lang.StackTraceElement();java.lang.StackTraceElement.getLineNumber();}}

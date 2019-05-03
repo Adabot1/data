@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.TemporalQueries.offset();}}
+class java_time_temporal_TemporalQueries_offset{ public static void function() {java.time.temporal.TemporalQueries.offset();}}

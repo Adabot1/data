@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.getRawAuthority();}}
+class java_net_URI_getRawAuthority{ public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.getRawAuthority();}}

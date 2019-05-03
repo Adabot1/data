@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isFinal(954373547);}}
+class java_lang_reflect_Modifier_isFinal{ public static void function() {java.lang.reflect.Modifier.isFinal(-1136538020);}}

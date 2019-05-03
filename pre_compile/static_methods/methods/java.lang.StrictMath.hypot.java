@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.hypot(0.9402011930677904,0.707594028486698);}}
+class java_lang_StrictMath_hypot{ public static void function() {java.lang.StrictMath.hypot(0.4058785217927007,0.37886555869785743);}}

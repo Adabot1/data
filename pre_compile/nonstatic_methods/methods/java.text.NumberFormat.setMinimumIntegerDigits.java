@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setMinimumIntegerDigits(-1364283033);}}
+class java_text_NumberFormat_setMinimumIntegerDigits{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setMinimumIntegerDigits(-849515290);}}

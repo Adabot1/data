@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Double.sum(0.941359035986065,0.8771796288927546);}}
+class java_lang_Double_sum{ public static void function() {java.lang.Double.sum(0.9352706962157674,0.8621757344857249);}}

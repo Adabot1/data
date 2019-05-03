@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isVolatile(-1526805829);}}
+class java_lang_reflect_Modifier_isVolatile{ public static void function() {java.lang.reflect.Modifier.isVolatile(-717726215);}}

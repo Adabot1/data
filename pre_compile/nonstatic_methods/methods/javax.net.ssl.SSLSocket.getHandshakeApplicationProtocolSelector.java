@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getHandshakeApplicationProtocolSelector();}}
+class javax_net_ssl_SSLSocket_getHandshakeApplicationProtocolSelector{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.getHandshakeApplicationProtocolSelector();}}

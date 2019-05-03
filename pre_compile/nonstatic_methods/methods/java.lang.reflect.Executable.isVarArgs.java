@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Executable obj = new java.lang.reflect.Executable();java.lang.reflect.Executable.isVarArgs();}}
+class java_lang_reflect_Executable_isVarArgs{ public static void function() {java.lang.reflect.Executable obj = new java.lang.reflect.Executable();java.lang.reflect.Executable.isVarArgs();}}

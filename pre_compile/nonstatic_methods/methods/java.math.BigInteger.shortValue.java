@@ -1,1 +1,1 @@
-class test { public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.shortValue();}}
+class java_math_BigInteger_shortValue{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();java.math.BigInteger.shortValue();}}

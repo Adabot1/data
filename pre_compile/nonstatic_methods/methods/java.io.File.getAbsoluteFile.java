@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.File obj = new java.io.File();java.io.File.getAbsoluteFile();}}
+class java_io_File_getAbsoluteFile{ public static void function() {java.io.File obj = new java.io.File();java.io.File.getAbsoluteFile();}}

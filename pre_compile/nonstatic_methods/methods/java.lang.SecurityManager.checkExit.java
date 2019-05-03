@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.SecurityManager obj = new java.lang.SecurityManager();java.lang.SecurityManager.checkExit(1395974063);}}
+class java_lang_SecurityManager_checkExit{ public static void function() {java.lang.SecurityManager obj = new java.lang.SecurityManager();java.lang.SecurityManager.checkExit(-364300520);}}

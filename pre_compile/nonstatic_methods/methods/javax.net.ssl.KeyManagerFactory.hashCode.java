@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.KeyManagerFactory obj = new javax.net.ssl.KeyManagerFactory();javax.net.ssl.KeyManagerFactory.hashCode();}}
+class javax_net_ssl_KeyManagerFactory_hashCode{ public static void function() {javax.net.ssl.KeyManagerFactory obj = new javax.net.ssl.KeyManagerFactory();javax.net.ssl.KeyManagerFactory.hashCode();}}

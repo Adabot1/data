@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.invoke.MutableCallSite obj = new java.lang.invoke.MutableCallSite();java.lang.invoke.MutableCallSite.toString();}}
+class java_lang_invoke_MutableCallSite_toString{ public static void function() {java.lang.invoke.MutableCallSite obj = new java.lang.invoke.MutableCallSite();java.lang.invoke.MutableCallSite.toString();}}

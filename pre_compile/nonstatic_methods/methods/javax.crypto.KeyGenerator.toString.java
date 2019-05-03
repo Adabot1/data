@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.KeyGenerator obj = new javax.crypto.KeyGenerator();javax.crypto.KeyGenerator.toString();}}
+class javax_crypto_KeyGenerator_toString{ public static void function() {javax.crypto.KeyGenerator obj = new javax.crypto.KeyGenerator();javax.crypto.KeyGenerator.toString();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();java.io.PushbackInputStream.mark(-789138487);}}
+class java_io_PushbackInputStream_mark{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();java.io.PushbackInputStream.mark(-1908794993);}}

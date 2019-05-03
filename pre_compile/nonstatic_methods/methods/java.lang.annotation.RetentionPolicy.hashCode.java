@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.annotation.RetentionPolicy obj = new java.lang.annotation.RetentionPolicy();java.lang.annotation.RetentionPolicy.hashCode();}}
+class java_lang_annotation_RetentionPolicy_hashCode{ public static void function() {java.lang.annotation.RetentionPolicy obj = new java.lang.annotation.RetentionPolicy();java.lang.annotation.RetentionPolicy.hashCode();}}

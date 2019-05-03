@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.NullCipher obj = new javax.crypto.NullCipher();javax.crypto.NullCipher.getClass();}}
+class javax_crypto_NullCipher_getClass{ public static void function() {javax.crypto.NullCipher obj = new javax.crypto.NullCipher();javax.crypto.NullCipher.getClass();}}

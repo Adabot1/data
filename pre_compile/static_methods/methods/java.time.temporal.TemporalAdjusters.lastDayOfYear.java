@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.TemporalAdjusters.lastDayOfYear();}}
+class java_time_temporal_TemporalAdjusters_lastDayOfYear{ public static void function() {java.time.temporal.TemporalAdjusters.lastDayOfYear();}}

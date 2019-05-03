@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.DSAPublicKeySpec obj = new java.security.spec.DSAPublicKeySpec();java.security.spec.DSAPublicKeySpec.getG();}}
+class java_security_spec_DSAPublicKeySpec_getG{ public static void function() {java.security.spec.DSAPublicKeySpec obj = new java.security.spec.DSAPublicKeySpec();java.security.spec.DSAPublicKeySpec.getG();}}

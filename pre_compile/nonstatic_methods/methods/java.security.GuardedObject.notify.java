@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.GuardedObject obj = new java.security.GuardedObject();java.security.GuardedObject.notify();}}
+class java_security_GuardedObject_notify{ public static void function() {java.security.GuardedObject obj = new java.security.GuardedObject();java.security.GuardedObject.notify();}}

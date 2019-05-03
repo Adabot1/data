@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertStore obj = new java.security.cert.CertStore();java.security.cert.CertStore.wait();}}
+class java_security_cert_CertStore_wait{ public static void function() {java.security.cert.CertStore obj = new java.security.cert.CertStore();java.security.cert.CertStore.wait();}}

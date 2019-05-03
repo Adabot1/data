@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.System obj = new java.lang.System();java.lang.System.hashCode();}}
+class java_lang_System_hashCode{ public static void function() {java.lang.System obj = new java.lang.System();java.lang.System.hashCode();}}

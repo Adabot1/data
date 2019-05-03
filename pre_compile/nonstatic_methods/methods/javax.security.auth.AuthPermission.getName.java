@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.AuthPermission obj = new javax.security.auth.AuthPermission();javax.security.auth.AuthPermission.getName();}}
+class javax_security_auth_AuthPermission_getName{ public static void function() {javax.security.auth.AuthPermission obj = new javax.security.auth.AuthPermission();javax.security.auth.AuthPermission.getName();}}

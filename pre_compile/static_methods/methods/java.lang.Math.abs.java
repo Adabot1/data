@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.abs(197181024);}}
+class java_lang_Math_abs{ public static void function() {java.lang.Math.abs(-500586736);}}

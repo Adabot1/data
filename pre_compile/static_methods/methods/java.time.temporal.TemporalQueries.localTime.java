@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.TemporalQueries.localTime();}}
+class java_time_temporal_TemporalQueries_localTime{ public static void function() {java.time.temporal.TemporalQueries.localTime();}}

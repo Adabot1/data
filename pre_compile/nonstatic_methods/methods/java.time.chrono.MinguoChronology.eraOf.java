@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();java.time.chrono.MinguoChronology.eraOf(948777823);}}
+class java_time_chrono_MinguoChronology_eraOf{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();java.time.chrono.MinguoChronology.eraOf(168516956);}}

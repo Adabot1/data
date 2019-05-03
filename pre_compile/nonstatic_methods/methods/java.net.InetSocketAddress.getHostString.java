@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.InetSocketAddress obj = new java.net.InetSocketAddress();java.net.InetSocketAddress.getHostString();}}
+class java_net_InetSocketAddress_getHostString{ public static void function() {java.net.InetSocketAddress obj = new java.net.InetSocketAddress();java.net.InetSocketAddress.getHostString();}}

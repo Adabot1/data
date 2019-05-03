@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DateFormat obj = new java.text.DateFormat();java.text.DateFormat.hashCode();}}
+class java_text_DateFormat_hashCode{ public static void function() {java.text.DateFormat obj = new java.text.DateFormat();java.text.DateFormat.hashCode();}}

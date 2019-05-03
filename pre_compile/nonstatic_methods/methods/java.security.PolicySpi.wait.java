@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.PolicySpi obj = new java.security.PolicySpi();java.security.PolicySpi.wait();}}
+class java_security_PolicySpi_wait{ public static void function() {java.security.PolicySpi obj = new java.security.PolicySpi();java.security.PolicySpi.wait();}}

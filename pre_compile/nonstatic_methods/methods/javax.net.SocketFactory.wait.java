@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.SocketFactory obj = new javax.net.SocketFactory();javax.net.SocketFactory.wait();}}
+class javax_net_SocketFactory_wait{ public static void function() {javax.net.SocketFactory obj = new javax.net.SocketFactory();javax.net.SocketFactory.wait();}}

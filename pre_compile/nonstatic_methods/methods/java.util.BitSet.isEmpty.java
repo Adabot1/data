@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.isEmpty();}}
+class java_util_BitSet_isEmpty{ public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.isEmpty();}}

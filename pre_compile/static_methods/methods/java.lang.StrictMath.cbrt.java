@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.cbrt(0.6813481482555208);}}
+class java_lang_StrictMath_cbrt{ public static void function() {java.lang.StrictMath.cbrt(0.4581257845094513);}}

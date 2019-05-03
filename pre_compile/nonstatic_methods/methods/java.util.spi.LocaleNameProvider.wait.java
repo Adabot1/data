@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.spi.LocaleNameProvider obj = new java.util.spi.LocaleNameProvider();java.util.spi.LocaleNameProvider.wait();}}
+class java_util_spi_LocaleNameProvider_wait{ public static void function() {java.util.spi.LocaleNameProvider obj = new java.util.spi.LocaleNameProvider();java.util.spi.LocaleNameProvider.wait();}}

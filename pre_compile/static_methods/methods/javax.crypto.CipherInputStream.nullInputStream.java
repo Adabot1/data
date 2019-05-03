@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.CipherInputStream.nullInputStream();}}
+class javax_crypto_CipherInputStream_nullInputStream{ public static void function() {javax.crypto.CipherInputStream.nullInputStream();}}

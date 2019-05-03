@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Boolean.toString(false);}}
+class java_lang_Boolean_toString{ public static void function() {java.lang.Boolean.toString(true);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Parameter obj = new java.lang.reflect.Parameter();java.lang.reflect.Parameter.notifyAll();}}
+class java_lang_reflect_Parameter_notifyAll{ public static void function() {java.lang.reflect.Parameter obj = new java.lang.reflect.Parameter();java.lang.reflect.Parameter.notifyAll();}}

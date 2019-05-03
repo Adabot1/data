@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();java.net.HttpCookie.getMaxAge();}}
+class java_net_HttpCookie_getMaxAge{ public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();java.net.HttpCookie.getMaxAge();}}

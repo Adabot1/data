@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isBmpCodePoint(1063852066);}}
+class java_lang_Character_isBmpCodePoint{ public static void function() {java.lang.Character.isBmpCodePoint(-1452730899);}}

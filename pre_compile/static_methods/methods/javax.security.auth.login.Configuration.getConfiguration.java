@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.login.Configuration.getConfiguration();}}
+class javax_security_auth_login_Configuration_getConfiguration{ public static void function() {javax.security.auth.login.Configuration.getConfiguration();}}

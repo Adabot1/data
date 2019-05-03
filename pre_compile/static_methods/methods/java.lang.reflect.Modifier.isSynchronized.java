@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isSynchronized(1020533024);}}
+class java_lang_reflect_Modifier_isSynchronized{ public static void function() {java.lang.reflect.Modifier.isSynchronized(1766570675);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setMaximumIntegerDigits(-1708138504);}}
+class java_text_ChoiceFormat_setMaximumIntegerDigits{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setMaximumIntegerDigits(-1722928262);}}

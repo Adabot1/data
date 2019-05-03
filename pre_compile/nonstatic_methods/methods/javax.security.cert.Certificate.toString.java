@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.cert.Certificate obj = new javax.security.cert.Certificate();javax.security.cert.Certificate.toString();}}
+class javax_security_cert_Certificate_toString{ public static void function() {javax.security.cert.Certificate obj = new javax.security.cert.Certificate();javax.security.cert.Certificate.toString();}}

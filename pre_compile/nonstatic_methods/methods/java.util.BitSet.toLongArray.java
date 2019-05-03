@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.toLongArray();}}
+class java_util_BitSet_toLongArray{ public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.toLongArray();}}

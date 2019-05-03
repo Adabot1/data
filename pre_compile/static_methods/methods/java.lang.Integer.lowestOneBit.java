@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.lowestOneBit(-657781098);}}
+class java_lang_Integer_lowestOneBit{ public static void function() {java.lang.Integer.lowestOneBit(-1924900362);}}

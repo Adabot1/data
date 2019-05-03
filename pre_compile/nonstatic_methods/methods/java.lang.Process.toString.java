@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.toString();}}
+class java_lang_Process_toString{ public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.toString();}}

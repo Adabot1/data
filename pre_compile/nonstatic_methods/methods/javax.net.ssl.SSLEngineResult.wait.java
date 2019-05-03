@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLEngineResult obj = new javax.net.ssl.SSLEngineResult();javax.net.ssl.SSLEngineResult.wait();}}
+class javax_net_ssl_SSLEngineResult_wait{ public static void function() {javax.net.ssl.SSLEngineResult obj = new javax.net.ssl.SSLEngineResult();javax.net.ssl.SSLEngineResult.wait();}}

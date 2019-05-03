@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.interfaceModifiers();}}
+class java_lang_reflect_Modifier_interfaceModifiers{ public static void function() {java.lang.reflect.Modifier.interfaceModifiers();}}

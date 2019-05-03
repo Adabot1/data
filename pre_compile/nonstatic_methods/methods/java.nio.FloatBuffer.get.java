@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.FloatBuffer obj = new java.nio.FloatBuffer();java.nio.FloatBuffer.get(-125972152);}}
+class java_nio_FloatBuffer_get{ public static void function() {java.nio.FloatBuffer obj = new java.nio.FloatBuffer();java.nio.FloatBuffer.get(593509112);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Math.max(0.26971494829500253,0.8842714337099877);}}
+class java_lang_Math_max{ public static void function() {java.lang.Math.max(0.5650025032369972,0.4001805460016309);}}

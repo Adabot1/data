@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.LongSummaryStatistics obj = new java.util.LongSummaryStatistics();java.util.LongSummaryStatistics.accept(517626286);}}
+class java_util_LongSummaryStatistics_accept{ public static void function() {java.util.LongSummaryStatistics obj = new java.util.LongSummaryStatistics();java.util.LongSummaryStatistics.accept(1963498777);}}

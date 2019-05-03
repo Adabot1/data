@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.IdentityScope obj = new java.security.IdentityScope();java.security.IdentityScope.notify();}}
+class java_security_IdentityScope_notify{ public static void function() {java.security.IdentityScope obj = new java.security.IdentityScope();java.security.IdentityScope.notify();}}

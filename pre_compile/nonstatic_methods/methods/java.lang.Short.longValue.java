@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Short obj = new java.lang.Short();java.lang.Short.longValue();}}
+class java_lang_Short_longValue{ public static void function() {java.lang.Short obj = new java.lang.Short();java.lang.Short.longValue();}}

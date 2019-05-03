@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.Paths obj = new java.nio.file.Paths();java.nio.file.Paths.hashCode();}}
+class java_nio_file_Paths_hashCode{ public static void function() {java.nio.file.Paths obj = new java.nio.file.Paths();java.nio.file.Paths.hashCode();}}

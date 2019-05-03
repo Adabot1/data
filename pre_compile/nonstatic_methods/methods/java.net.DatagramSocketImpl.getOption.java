@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.DatagramSocketImpl obj = new java.net.DatagramSocketImpl();java.net.DatagramSocketImpl.getOption(-1693511345);}}
+class java_net_DatagramSocketImpl_getOption{ public static void function() {java.net.DatagramSocketImpl obj = new java.net.DatagramSocketImpl();java.net.DatagramSocketImpl.getOption(862386491);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.PasswordAuthentication obj = new java.net.PasswordAuthentication();java.net.PasswordAuthentication.getUserName();}}
+class java_net_PasswordAuthentication_getUserName{ public static void function() {java.net.PasswordAuthentication obj = new java.net.PasswordAuthentication();java.net.PasswordAuthentication.getUserName();}}

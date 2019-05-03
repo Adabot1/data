@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.DoubleAdder obj = new java.util.concurrent.atomic.DoubleAdder();java.util.concurrent.atomic.DoubleAdder.hashCode();}}
+class java_util_concurrent_atomic_DoubleAdder_hashCode{ public static void function() {java.util.concurrent.atomic.DoubleAdder obj = new java.util.concurrent.atomic.DoubleAdder();java.util.concurrent.atomic.DoubleAdder.hashCode();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Collections.emptyEnumeration();}}
+class java_util_Collections_emptyEnumeration{ public static void function() {java.util.Collections.emptyEnumeration();}}

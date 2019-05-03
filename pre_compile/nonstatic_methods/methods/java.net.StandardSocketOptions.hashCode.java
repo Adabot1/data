@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.StandardSocketOptions obj = new java.net.StandardSocketOptions();java.net.StandardSocketOptions.hashCode();}}
+class java_net_StandardSocketOptions_hashCode{ public static void function() {java.net.StandardSocketOptions obj = new java.net.StandardSocketOptions();java.net.StandardSocketOptions.hashCode();}}

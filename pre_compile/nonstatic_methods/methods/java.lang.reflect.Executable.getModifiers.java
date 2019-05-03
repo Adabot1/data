@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Executable obj = new java.lang.reflect.Executable();java.lang.reflect.Executable.getModifiers();}}
+class java_lang_reflect_Executable_getModifiers{ public static void function() {java.lang.reflect.Executable obj = new java.lang.reflect.Executable();java.lang.reflect.Executable.getModifiers();}}

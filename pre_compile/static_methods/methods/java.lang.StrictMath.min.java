@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.StrictMath.min(0.8624168948606914,0.7294598431475997);}}
+class java_lang_StrictMath_min{ public static void function() {java.lang.StrictMath.min(0.3323369422527751,0.42766203481131426);}}

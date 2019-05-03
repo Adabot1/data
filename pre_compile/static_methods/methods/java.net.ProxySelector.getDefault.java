@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.ProxySelector.getDefault();}}
+class java_net_ProxySelector_getDefault{ public static void function() {java.net.ProxySelector.getDefault();}}

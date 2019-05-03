@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.XECPrivateKeySpec obj = new java.security.spec.XECPrivateKeySpec();java.security.spec.XECPrivateKeySpec.notifyAll();}}
+class java_security_spec_XECPrivateKeySpec_notifyAll{ public static void function() {java.security.spec.XECPrivateKeySpec obj = new java.security.spec.XECPrivateKeySpec();java.security.spec.XECPrivateKeySpec.notifyAll();}}

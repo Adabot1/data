@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();java.util.concurrent.locks.StampedLock.asReadLock();}}
+class java_util_concurrent_locks_StampedLock_asReadLock{ public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();java.util.concurrent.locks.StampedLock.asReadLock();}}

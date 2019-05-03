@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.ServerSocketChannel.open();}}
+class java_nio_channels_ServerSocketChannel_open{ public static void function() {java.nio.channels.ServerSocketChannel.open();}}

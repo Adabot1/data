@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.zip.GZIPOutputStream.nullOutputStream();}}
+class java_util_zip_GZIPOutputStream_nullOutputStream{ public static void function() {java.util.zip.GZIPOutputStream.nullOutputStream();}}

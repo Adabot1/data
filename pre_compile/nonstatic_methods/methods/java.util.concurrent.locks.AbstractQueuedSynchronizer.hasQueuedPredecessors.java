@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.locks.AbstractQueuedSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedSynchronizer();java.util.concurrent.locks.AbstractQueuedSynchronizer.hasQueuedPredecessors();}}
+class java_util_concurrent_locks_AbstractQueuedSynchronizer_hasQueuedPredecessors{ public static void function() {java.util.concurrent.locks.AbstractQueuedSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedSynchronizer();java.util.concurrent.locks.AbstractQueuedSynchronizer.hasQueuedPredecessors();}}

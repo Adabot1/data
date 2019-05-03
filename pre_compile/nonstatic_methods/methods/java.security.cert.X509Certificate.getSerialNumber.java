@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.X509Certificate obj = new java.security.cert.X509Certificate();java.security.cert.X509Certificate.getSerialNumber();}}
+class java_security_cert_X509Certificate_getSerialNumber{ public static void function() {java.security.cert.X509Certificate obj = new java.security.cert.X509Certificate();java.security.cert.X509Certificate.getSerialNumber();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.URICertStoreParameters obj = new java.security.cert.URICertStoreParameters();java.security.cert.URICertStoreParameters.clone();}}
+class java_security_cert_URICertStoreParameters_clone{ public static void function() {java.security.cert.URICertStoreParameters obj = new java.security.cert.URICertStoreParameters();java.security.cert.URICertStoreParameters.clone();}}

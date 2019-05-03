@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.cert.CertPathBuilderSpi obj = new java.security.cert.CertPathBuilderSpi();java.security.cert.CertPathBuilderSpi.wait();}}
+class java_security_cert_CertPathBuilderSpi_wait{ public static void function() {java.security.cert.CertPathBuilderSpi obj = new java.security.cert.CertPathBuilderSpi();java.security.cert.CertPathBuilderSpi.wait();}}

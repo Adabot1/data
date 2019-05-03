@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.atomic.LongAccumulator obj = new java.util.concurrent.atomic.LongAccumulator();java.util.concurrent.atomic.LongAccumulator.intValue();}}
+class java_util_concurrent_atomic_LongAccumulator_intValue{ public static void function() {java.util.concurrent.atomic.LongAccumulator obj = new java.util.concurrent.atomic.LongAccumulator();java.util.concurrent.atomic.LongAccumulator.intValue();}}

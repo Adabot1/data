@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.SecureRandomSpi obj = new java.security.SecureRandomSpi();java.security.SecureRandomSpi.wait();}}
+class java_security_SecureRandomSpi_wait{ public static void function() {java.security.SecureRandomSpi obj = new java.security.SecureRandomSpi();java.security.SecureRandomSpi.wait();}}

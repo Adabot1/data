@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.ShortBuffer obj = new java.nio.ShortBuffer();java.nio.ShortBuffer.capacity();}}
+class java_nio_ShortBuffer_capacity{ public static void function() {java.nio.ShortBuffer obj = new java.nio.ShortBuffer();java.nio.ShortBuffer.capacity();}}

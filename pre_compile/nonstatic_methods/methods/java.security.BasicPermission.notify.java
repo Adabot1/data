@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.BasicPermission obj = new java.security.BasicPermission();java.security.BasicPermission.notify();}}
+class java_security_BasicPermission_notify{ public static void function() {java.security.BasicPermission obj = new java.security.BasicPermission();java.security.BasicPermission.notify();}}

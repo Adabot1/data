@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.stream.Collectors.toSet();}}
+class java_util_stream_Collectors_toSet{ public static void function() {java.util.stream.Collectors.toSet();}}

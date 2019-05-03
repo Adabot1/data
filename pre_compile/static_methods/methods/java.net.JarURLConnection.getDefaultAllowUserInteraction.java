@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.JarURLConnection.getDefaultAllowUserInteraction();}}
+class java_net_JarURLConnection_getDefaultAllowUserInteraction{ public static void function() {java.net.JarURLConnection.getDefaultAllowUserInteraction();}}

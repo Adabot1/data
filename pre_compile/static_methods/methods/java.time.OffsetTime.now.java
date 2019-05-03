@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.OffsetTime.now();}}
+class java_time_OffsetTime_now{ public static void function() {java.time.OffsetTime.now();}}

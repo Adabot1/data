@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.charset.CharsetEncoder obj = new java.nio.charset.CharsetEncoder();java.nio.charset.CharsetEncoder.malformedInputAction();}}
+class java_nio_charset_CharsetEncoder_malformedInputAction{ public static void function() {java.nio.charset.CharsetEncoder obj = new java.nio.charset.CharsetEncoder();java.nio.charset.CharsetEncoder.malformedInputAction();}}

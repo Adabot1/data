@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.Proxy obj = new java.net.Proxy();java.net.Proxy.address();}}
+class java_net_Proxy_address{ public static void function() {java.net.Proxy obj = new java.net.Proxy();java.net.Proxy.address();}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Integer.numberOfLeadingZeros(1452407099);}}
+class java_lang_Integer_numberOfLeadingZeros{ public static void function() {java.lang.Integer.numberOfLeadingZeros(-364373726);}}

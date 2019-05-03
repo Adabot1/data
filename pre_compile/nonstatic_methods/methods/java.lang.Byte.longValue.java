@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.longValue();}}
+class java_lang_Byte_longValue{ public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.longValue();}}

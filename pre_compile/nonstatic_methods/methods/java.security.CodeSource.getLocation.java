@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.CodeSource obj = new java.security.CodeSource();java.security.CodeSource.getLocation();}}
+class java_security_CodeSource_getLocation{ public static void function() {java.security.CodeSource obj = new java.security.CodeSource();java.security.CodeSource.getLocation();}}

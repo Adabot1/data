@@ -1,1 +1,1 @@
-class test { public static void function() {javax.net.ssl.SSLEngine obj = new javax.net.ssl.SSLEngine();javax.net.ssl.SSLEngine.getNeedClientAuth();}}
+class javax_net_ssl_SSLEngine_getNeedClientAuth{ public static void function() {javax.net.ssl.SSLEngine obj = new javax.net.ssl.SSLEngine();javax.net.ssl.SSLEngine.getNeedClientAuth();}}

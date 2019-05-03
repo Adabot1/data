@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Year.of(1616790785);}}
+class java_time_Year_of{ public static void function() {java.time.Year.of(1405699664);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isUpperCase(-291368248);}}
+class java_lang_Character_isUpperCase{ public static void function() {java.lang.Character.isUpperCase(-492192400);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.channels.AsynchronousFileChannel obj = new java.nio.channels.AsynchronousFileChannel();java.nio.channels.AsynchronousFileChannel.lock();}}
+class java_nio_channels_AsynchronousFileChannel_lock{ public static void function() {java.nio.channels.AsynchronousFileChannel obj = new java.nio.channels.AsynchronousFileChannel();java.nio.channels.AsynchronousFileChannel.lock();}}

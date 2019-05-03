@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.KeyPairGeneratorSpi obj = new java.security.KeyPairGeneratorSpi();java.security.KeyPairGeneratorSpi.notify();}}
+class java_security_KeyPairGeneratorSpi_notify{ public static void function() {java.security.KeyPairGeneratorSpi obj = new java.security.KeyPairGeneratorSpi();java.security.KeyPairGeneratorSpi.notify();}}

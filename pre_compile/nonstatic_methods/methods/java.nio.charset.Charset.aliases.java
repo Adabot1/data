@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.charset.Charset obj = new java.nio.charset.Charset();java.nio.charset.Charset.aliases();}}
+class java_nio_charset_Charset_aliases{ public static void function() {java.nio.charset.Charset obj = new java.nio.charset.Charset();java.nio.charset.Charset.aliases();}}

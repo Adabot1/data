@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.Year obj = new java.time.Year();java.time.Year.notify();}}
+class java_time_Year_notify{ public static void function() {java.time.Year obj = new java.time.Year();java.time.Year.notify();}}

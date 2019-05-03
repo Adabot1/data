@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Character.isIdentifierIgnorable(-1597474498);}}
+class java_lang_Character_isIdentifierIgnorable{ public static void function() {java.lang.Character.isIdentifierIgnorable(-527849703);}}

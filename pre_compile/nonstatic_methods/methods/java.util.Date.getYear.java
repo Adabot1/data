@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.getYear();}}
+class java_util_Date_getYear{ public static void function() {java.util.Date obj = new java.util.Date();java.util.Date.getYear();}}

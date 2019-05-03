@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.DHParameterSpec obj = new javax.crypto.spec.DHParameterSpec();javax.crypto.spec.DHParameterSpec.notify();}}
+class javax_crypto_spec_DHParameterSpec_notify{ public static void function() {javax.crypto.spec.DHParameterSpec obj = new javax.crypto.spec.DHParameterSpec();javax.crypto.spec.DHParameterSpec.notify();}}

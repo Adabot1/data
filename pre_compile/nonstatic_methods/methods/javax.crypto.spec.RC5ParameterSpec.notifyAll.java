@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.spec.RC5ParameterSpec obj = new javax.crypto.spec.RC5ParameterSpec();javax.crypto.spec.RC5ParameterSpec.notifyAll();}}
+class javax_crypto_spec_RC5ParameterSpec_notifyAll{ public static void function() {javax.crypto.spec.RC5ParameterSpec obj = new javax.crypto.spec.RC5ParameterSpec();javax.crypto.spec.RC5ParameterSpec.notifyAll();}}

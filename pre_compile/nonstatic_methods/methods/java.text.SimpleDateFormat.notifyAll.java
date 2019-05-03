@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.SimpleDateFormat obj = new java.text.SimpleDateFormat();java.text.SimpleDateFormat.notifyAll();}}
+class java_text_SimpleDateFormat_notifyAll{ public static void function() {java.text.SimpleDateFormat obj = new java.text.SimpleDateFormat();java.text.SimpleDateFormat.notifyAll();}}

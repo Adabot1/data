@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Modifier.isInterface(-55375527);}}
+class java_lang_reflect_Modifier_isInterface{ public static void function() {java.lang.reflect.Modifier.isInterface(1995349942);}}

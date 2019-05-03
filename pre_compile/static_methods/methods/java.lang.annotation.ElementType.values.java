@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.annotation.ElementType.values();}}
+class java_lang_annotation_ElementType_values{ public static void function() {java.lang.annotation.ElementType.values();}}

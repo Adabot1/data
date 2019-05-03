@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.NamedParameterSpec obj = new java.security.spec.NamedParameterSpec();java.security.spec.NamedParameterSpec.getName();}}
+class java_security_spec_NamedParameterSpec_getName{ public static void function() {java.security.spec.NamedParameterSpec obj = new java.security.spec.NamedParameterSpec();java.security.spec.NamedParameterSpec.getName();}}

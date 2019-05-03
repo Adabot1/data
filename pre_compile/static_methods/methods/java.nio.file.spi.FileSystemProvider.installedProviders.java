@@ -1,1 +1,1 @@
-class test { public static void function() {java.nio.file.spi.FileSystemProvider.installedProviders();}}
+class java_nio_file_spi_FileSystemProvider_installedProviders{ public static void function() {java.nio.file.spi.FileSystemProvider.installedProviders();}}

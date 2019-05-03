@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setMaximumFractionDigits(1839981046);}}
+class java_text_ChoiceFormat_setMaximumFractionDigits{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setMaximumFractionDigits(1757735380);}}

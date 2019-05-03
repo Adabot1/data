@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.temporal.IsoFields obj = new java.time.temporal.IsoFields();java.time.temporal.IsoFields.wait();}}
+class java_time_temporal_IsoFields_wait{ public static void function() {java.time.temporal.IsoFields obj = new java.time.temporal.IsoFields();java.time.temporal.IsoFields.wait();}}

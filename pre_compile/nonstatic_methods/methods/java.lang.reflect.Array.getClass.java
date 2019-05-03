@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.reflect.Array obj = new java.lang.reflect.Array();java.lang.reflect.Array.getClass();}}
+class java_lang_reflect_Array_getClass{ public static void function() {java.lang.reflect.Array obj = new java.lang.reflect.Array();java.lang.reflect.Array.getClass();}}

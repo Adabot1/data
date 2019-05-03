@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.Thread.interrupted();}}
+class java_lang_Thread_interrupted{ public static void function() {java.lang.Thread.interrupted();}}

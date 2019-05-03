@@ -1,1 +1,1 @@
-class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setMaximumFractionDigits(-1009128954);}}
+class java_text_DecimalFormat_setMaximumFractionDigits{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setMaximumFractionDigits(108804175);}}

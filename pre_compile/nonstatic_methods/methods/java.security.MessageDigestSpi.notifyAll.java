@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.MessageDigestSpi obj = new java.security.MessageDigestSpi();java.security.MessageDigestSpi.notifyAll();}}
+class java_security_MessageDigestSpi_notifyAll{ public static void function() {java.security.MessageDigestSpi obj = new java.security.MessageDigestSpi();java.security.MessageDigestSpi.notifyAll();}}

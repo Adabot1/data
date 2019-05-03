@@ -1,1 +1,1 @@
-class test { public static void function() {java.security.spec.ECPublicKeySpec obj = new java.security.spec.ECPublicKeySpec();java.security.spec.ECPublicKeySpec.notify();}}
+class java_security_spec_ECPublicKeySpec_notify{ public static void function() {java.security.spec.ECPublicKeySpec obj = new java.security.spec.ECPublicKeySpec();java.security.spec.ECPublicKeySpec.notify();}}

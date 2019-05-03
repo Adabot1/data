@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.setConnectTimeout(-226615681);}}
+class java_net_URLConnection_setConnectTimeout{ public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.setConnectTimeout(-2136257593);}}

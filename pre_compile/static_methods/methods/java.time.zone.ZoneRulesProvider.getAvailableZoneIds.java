@@ -1,1 +1,1 @@
-class test { public static void function() {java.time.zone.ZoneRulesProvider.getAvailableZoneIds();}}
+class java_time_zone_ZoneRulesProvider_getAvailableZoneIds{ public static void function() {java.time.zone.ZoneRulesProvider.getAvailableZoneIds();}}

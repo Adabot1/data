@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.CipherOutputStream obj = new javax.crypto.CipherOutputStream();javax.crypto.CipherOutputStream.notifyAll();}}
+class javax_crypto_CipherOutputStream_notifyAll{ public static void function() {javax.crypto.CipherOutputStream obj = new javax.crypto.CipherOutputStream();javax.crypto.CipherOutputStream.notifyAll();}}

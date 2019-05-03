@@ -1,1 +1,1 @@
-class test { public static void function() {java.io.SequenceInputStream obj = new java.io.SequenceInputStream();java.io.SequenceInputStream.toString();}}
+class java_io_SequenceInputStream_toString{ public static void function() {java.io.SequenceInputStream obj = new java.io.SequenceInputStream();java.io.SequenceInputStream.toString();}}

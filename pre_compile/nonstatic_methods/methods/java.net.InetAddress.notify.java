@@ -1,1 +1,1 @@
-class test { public static void function() {java.net.InetAddress obj = new java.net.InetAddress();java.net.InetAddress.notify();}}
+class java_net_InetAddress_notify{ public static void function() {java.net.InetAddress obj = new java.net.InetAddress();java.net.InetAddress.notify();}}

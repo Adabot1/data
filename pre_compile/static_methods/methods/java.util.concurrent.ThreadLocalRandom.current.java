@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.concurrent.ThreadLocalRandom.current();}}
+class java_util_concurrent_ThreadLocalRandom_current{ public static void function() {java.util.concurrent.ThreadLocalRandom.current();}}

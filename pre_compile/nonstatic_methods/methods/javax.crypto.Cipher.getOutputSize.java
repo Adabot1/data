@@ -1,1 +1,1 @@
-class test { public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();javax.crypto.Cipher.getOutputSize(-1553187204);}}
+class javax_crypto_Cipher_getOutputSize{ public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();javax.crypto.Cipher.getOutputSize(2141338564);}}

@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.spi.AbstractResourceBundleProvider obj = new java.util.spi.AbstractResourceBundleProvider();java.util.spi.AbstractResourceBundleProvider.getClass();}}
+class java_util_spi_AbstractResourceBundleProvider_getClass{ public static void function() {java.util.spi.AbstractResourceBundleProvider obj = new java.util.spi.AbstractResourceBundleProvider();java.util.spi.AbstractResourceBundleProvider.getClass();}}

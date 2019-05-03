@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Spliterators obj = new java.util.Spliterators();java.util.Spliterators.wait();}}
+class java_util_Spliterators_wait{ public static void function() {java.util.Spliterators obj = new java.util.Spliterators();java.util.Spliterators.wait();}}

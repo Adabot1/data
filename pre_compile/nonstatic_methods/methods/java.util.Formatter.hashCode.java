@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Formatter obj = new java.util.Formatter();java.util.Formatter.hashCode();}}
+class java_util_Formatter_hashCode{ public static void function() {java.util.Formatter obj = new java.util.Formatter();java.util.Formatter.hashCode();}}

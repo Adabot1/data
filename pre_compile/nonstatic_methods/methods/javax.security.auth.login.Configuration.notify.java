@@ -1,1 +1,1 @@
-class test { public static void function() {javax.security.auth.login.Configuration obj = new javax.security.auth.login.Configuration();javax.security.auth.login.Configuration.notify();}}
+class javax_security_auth_login_Configuration_notify{ public static void function() {javax.security.auth.login.Configuration obj = new javax.security.auth.login.Configuration();javax.security.auth.login.Configuration.notify();}}

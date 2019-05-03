@@ -1,1 +1,1 @@
-class test { public static void function() {java.util.Calendar.getAvailableLocales();}}
+class java_util_Calendar_getAvailableLocales{ public static void function() {java.util.Calendar.getAvailableLocales();}}

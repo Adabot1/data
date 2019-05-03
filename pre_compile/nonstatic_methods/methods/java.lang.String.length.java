@@ -1,1 +1,1 @@
-class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.length();}}
+class java_lang_String_length{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.length();}}
