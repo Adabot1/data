@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.setMinimalDaysInFirstWeek(1013729946);}}

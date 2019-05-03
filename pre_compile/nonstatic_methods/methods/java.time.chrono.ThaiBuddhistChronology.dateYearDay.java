@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.ThaiBuddhistChronology obj = new java.time.chrono.ThaiBuddhistChronology();java.time.chrono.ThaiBuddhistChronology.dateYearDay(-1170187043,-42506204);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.PrintStream obj = new java.io.PrintStream();java.io.PrintStream.print(0.0730826519326071);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.concurrent.locks.AbstractQueuedLongSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedLongSynchronizer();java.util.concurrent.locks.AbstractQueuedLongSynchronizer.hasContended();}}

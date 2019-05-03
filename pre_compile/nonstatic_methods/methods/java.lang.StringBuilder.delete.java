@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.delete(-1323857871,1397261864);}}

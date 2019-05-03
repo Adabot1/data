@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Boolean obj = new java.lang.Boolean();java.lang.Boolean.notify();}}

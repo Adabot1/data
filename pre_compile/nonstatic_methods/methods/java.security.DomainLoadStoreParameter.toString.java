@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.DomainLoadStoreParameter obj = new java.security.DomainLoadStoreParameter();java.security.DomainLoadStoreParameter.toString();}}

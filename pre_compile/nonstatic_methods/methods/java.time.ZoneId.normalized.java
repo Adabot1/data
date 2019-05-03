@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.ZoneId obj = new java.time.ZoneId();java.time.ZoneId.normalized();}}

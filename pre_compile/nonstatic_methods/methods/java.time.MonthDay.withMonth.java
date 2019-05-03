@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.MonthDay obj = new java.time.MonthDay();java.time.MonthDay.withMonth(-1561803129);}}

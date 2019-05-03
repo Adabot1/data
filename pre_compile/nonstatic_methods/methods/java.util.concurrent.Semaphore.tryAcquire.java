@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.concurrent.Semaphore obj = new java.util.concurrent.Semaphore();java.util.concurrent.Semaphore.tryAcquire(-1436852141);}}

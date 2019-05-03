@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.file.LinkOption obj = new java.nio.file.LinkOption();java.nio.file.LinkOption.hashCode();}}

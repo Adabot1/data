@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();java.time.chrono.AbstractChronology.period(126821686,964869363,1225491576);}}

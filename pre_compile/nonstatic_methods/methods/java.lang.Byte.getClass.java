@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.getClass();}}

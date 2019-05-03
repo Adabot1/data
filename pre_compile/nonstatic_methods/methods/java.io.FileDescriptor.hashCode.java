@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.FileDescriptor obj = new java.io.FileDescriptor();java.io.FileDescriptor.hashCode();}}

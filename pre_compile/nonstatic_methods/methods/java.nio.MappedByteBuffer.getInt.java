@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.getInt(803291982);}}

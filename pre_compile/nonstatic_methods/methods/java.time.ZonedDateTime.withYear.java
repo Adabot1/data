@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.withYear(-1006652275);}}

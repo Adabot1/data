@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.lastIndexOf(1078719674,1423837982);}}

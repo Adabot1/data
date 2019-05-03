@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.cert.PKIXRevocationChecker obj = new java.security.cert.PKIXRevocationChecker();java.security.cert.PKIXRevocationChecker.getOcspResponses();}}

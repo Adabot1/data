@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.SignedObject obj = new java.security.SignedObject();java.security.SignedObject.getObject();}}

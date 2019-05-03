@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.IsoEra obj = new java.time.chrono.IsoEra();java.time.chrono.IsoEra.toString();}}

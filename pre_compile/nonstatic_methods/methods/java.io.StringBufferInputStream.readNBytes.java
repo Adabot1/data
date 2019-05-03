@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();java.io.StringBufferInputStream.readNBytes(1485250633);}}

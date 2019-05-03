@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.StringWriter obj = new java.io.StringWriter();java.io.StringWriter.toString();}}

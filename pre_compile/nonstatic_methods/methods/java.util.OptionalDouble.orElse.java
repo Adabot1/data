@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.OptionalDouble obj = new java.util.OptionalDouble();java.util.OptionalDouble.orElse(0.03946482920053784);}}

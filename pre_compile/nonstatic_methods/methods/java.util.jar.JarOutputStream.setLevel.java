@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();java.util.jar.JarOutputStream.setLevel(1344554654);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.net.DatagramPacket obj = new java.net.DatagramPacket();java.net.DatagramPacket.setPort(-1497000223);}}

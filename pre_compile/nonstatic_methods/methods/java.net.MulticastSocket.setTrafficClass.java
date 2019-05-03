@@ -1,0 +1,1 @@
+class test { public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setTrafficClass(1526857359);}}

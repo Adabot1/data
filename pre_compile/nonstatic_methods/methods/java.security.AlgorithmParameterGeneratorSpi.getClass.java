@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.AlgorithmParameterGeneratorSpi obj = new java.security.AlgorithmParameterGeneratorSpi();java.security.AlgorithmParameterGeneratorSpi.getClass();}}

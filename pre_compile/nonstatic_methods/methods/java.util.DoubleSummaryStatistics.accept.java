@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();java.util.DoubleSummaryStatistics.accept(0.49858542377726267);}}

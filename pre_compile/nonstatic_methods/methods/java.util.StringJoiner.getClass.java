@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.StringJoiner obj = new java.util.StringJoiner();java.util.StringJoiner.getClass();}}

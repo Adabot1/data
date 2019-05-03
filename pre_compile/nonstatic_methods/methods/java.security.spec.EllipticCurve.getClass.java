@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.spec.EllipticCurve obj = new java.security.spec.EllipticCurve();java.security.spec.EllipticCurve.getClass();}}

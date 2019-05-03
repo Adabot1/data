@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.Timestamp obj = new java.security.Timestamp();java.security.Timestamp.getTimestamp();}}

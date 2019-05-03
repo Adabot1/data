@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.zip.InflaterInputStream obj = new java.util.zip.InflaterInputStream();java.util.zip.InflaterInputStream.notifyAll();}}

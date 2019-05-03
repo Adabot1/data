@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.file.spi.FileSystemProvider obj = new java.nio.file.spi.FileSystemProvider();java.nio.file.spi.FileSystemProvider.wait();}}

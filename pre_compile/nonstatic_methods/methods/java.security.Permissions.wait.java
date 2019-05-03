@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.Permissions obj = new java.security.Permissions();java.security.Permissions.wait();}}

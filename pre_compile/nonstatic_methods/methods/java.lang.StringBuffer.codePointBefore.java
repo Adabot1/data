@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.codePointBefore(1502965592);}}

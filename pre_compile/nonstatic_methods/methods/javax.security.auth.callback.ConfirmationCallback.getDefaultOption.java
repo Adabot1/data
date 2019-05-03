@@ -1,0 +1,1 @@
+class test { public static void function() {javax.security.auth.callback.ConfirmationCallback obj = new javax.security.auth.callback.ConfirmationCallback();javax.security.auth.callback.ConfirmationCallback.getDefaultOption();}}

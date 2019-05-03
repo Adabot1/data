@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.getAndAdd(-737017655,1698662975);}}

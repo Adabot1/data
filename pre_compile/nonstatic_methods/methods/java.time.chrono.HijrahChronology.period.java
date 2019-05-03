@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();java.time.chrono.HijrahChronology.period(-1336359692,-404394946,2014867211);}}

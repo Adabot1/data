@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.delete(1094188697,1414622346);}}

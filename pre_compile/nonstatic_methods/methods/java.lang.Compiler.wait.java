@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Compiler obj = new java.lang.Compiler();java.lang.Compiler.wait();}}

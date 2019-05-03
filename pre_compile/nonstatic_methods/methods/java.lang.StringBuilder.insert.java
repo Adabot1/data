@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.insert(1646466211,0.7168089018499912);}}

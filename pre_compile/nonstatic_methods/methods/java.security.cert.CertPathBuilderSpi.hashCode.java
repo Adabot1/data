@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.cert.CertPathBuilderSpi obj = new java.security.cert.CertPathBuilderSpi();java.security.cert.CertPathBuilderSpi.hashCode();}}

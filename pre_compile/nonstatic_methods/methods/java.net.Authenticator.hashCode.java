@@ -1,0 +1,1 @@
+class test { public static void function() {java.net.Authenticator obj = new java.net.Authenticator();java.net.Authenticator.hashCode();}}

@@ -1,0 +1,1 @@
+class test { public static void function() {javax.security.auth.callback.PasswordCallback obj = new javax.security.auth.callback.PasswordCallback();javax.security.auth.callback.PasswordCallback.getClass();}}

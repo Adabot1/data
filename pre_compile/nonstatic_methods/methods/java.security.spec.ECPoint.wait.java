@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.spec.ECPoint obj = new java.security.spec.ECPoint();java.security.spec.ECPoint.wait();}}

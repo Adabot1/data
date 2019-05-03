@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();java.io.LineNumberInputStream.hashCode();}}

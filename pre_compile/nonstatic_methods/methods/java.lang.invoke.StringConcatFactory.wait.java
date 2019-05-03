@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.invoke.StringConcatFactory obj = new java.lang.invoke.StringConcatFactory();java.lang.invoke.StringConcatFactory.wait();}}

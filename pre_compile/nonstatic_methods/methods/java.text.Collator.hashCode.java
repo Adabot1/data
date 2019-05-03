@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.Collator obj = new java.text.Collator();java.text.Collator.hashCode();}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath obj = new java.lang.StrictMath();java.lang.StrictMath.getClass();}}

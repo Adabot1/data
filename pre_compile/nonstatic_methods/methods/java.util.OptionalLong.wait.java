@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();java.util.OptionalLong.wait();}}

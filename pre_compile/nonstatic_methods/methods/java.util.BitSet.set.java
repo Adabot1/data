@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.BitSet obj = new java.util.BitSet();java.util.BitSet.set(-1411699249,-2036317210,true);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();java.time.chrono.MinguoChronology.date(2002119500,-425287585,-592182041);}}

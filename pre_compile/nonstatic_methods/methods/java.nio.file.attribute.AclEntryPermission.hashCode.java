@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.file.attribute.AclEntryPermission obj = new java.nio.file.attribute.AclEntryPermission();java.nio.file.attribute.AclEntryPermission.hashCode();}}

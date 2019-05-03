@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();java.nio.ByteBuffer.alignmentOffset(1575669319,-484902362);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.channels.spi.AbstractInterruptibleChannel obj = new java.nio.channels.spi.AbstractInterruptibleChannel();java.nio.channels.spi.AbstractInterruptibleChannel.notify();}}

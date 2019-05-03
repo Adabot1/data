@@ -1,0 +1,1 @@
+class test { public static void function() {java.net.StandardSocketOptions obj = new java.net.StandardSocketOptions();java.net.StandardSocketOptions.notify();}}

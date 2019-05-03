@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.Bidi obj = new java.text.Bidi();java.text.Bidi.getLevelAt(1830233643);}}

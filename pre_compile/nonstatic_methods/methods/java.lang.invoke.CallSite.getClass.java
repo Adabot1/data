@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.invoke.CallSite obj = new java.lang.invoke.CallSite();java.lang.invoke.CallSite.getClass();}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.invoke.LambdaMetafactory obj = new java.lang.invoke.LambdaMetafactory();java.lang.invoke.LambdaMetafactory.toString();}}

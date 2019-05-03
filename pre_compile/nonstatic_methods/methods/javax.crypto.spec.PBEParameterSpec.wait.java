@@ -1,0 +1,1 @@
+class test { public static void function() {javax.crypto.spec.PBEParameterSpec obj = new javax.crypto.spec.PBEParameterSpec();javax.crypto.spec.PBEParameterSpec.wait();}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.UUID obj = new java.util.UUID();java.util.UUID.version();}}

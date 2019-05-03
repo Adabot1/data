@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.insert(-2124441913,823152072);}}

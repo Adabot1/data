@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.Properties obj = new java.util.Properties();java.util.Properties.clear();}}

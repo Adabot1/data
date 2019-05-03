@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.charset.CoderResult obj = new java.nio.charset.CoderResult();java.nio.charset.CoderResult.isUnderflow();}}

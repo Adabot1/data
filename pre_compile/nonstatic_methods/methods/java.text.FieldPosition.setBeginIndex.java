@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();java.text.FieldPosition.setBeginIndex(1011771195);}}

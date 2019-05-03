@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.format.DateTimeFormatterBuilder obj = new java.time.format.DateTimeFormatterBuilder();java.time.format.DateTimeFormatterBuilder.toString();}}

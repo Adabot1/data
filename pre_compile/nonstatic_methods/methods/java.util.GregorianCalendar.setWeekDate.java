@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();java.util.GregorianCalendar.setWeekDate(-357608506,896791241,2143318298);}}

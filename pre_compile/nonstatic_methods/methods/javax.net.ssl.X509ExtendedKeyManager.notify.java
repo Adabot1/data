@@ -1,0 +1,1 @@
+class test { public static void function() {javax.net.ssl.X509ExtendedKeyManager obj = new javax.net.ssl.X509ExtendedKeyManager();javax.net.ssl.X509ExtendedKeyManager.notify();}}

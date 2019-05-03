@@ -1,0 +1,1 @@
+class test { public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setSoLinger(false,-1792768491);}}

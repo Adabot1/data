@@ -1,0 +1,1 @@
+class test { public static void function() {javax.net.ssl.SNIMatcher obj = new javax.net.ssl.SNIMatcher();javax.net.ssl.SNIMatcher.wait();}}

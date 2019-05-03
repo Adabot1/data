@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.Identity obj = new java.security.Identity();java.security.Identity.getPublicKey();}}

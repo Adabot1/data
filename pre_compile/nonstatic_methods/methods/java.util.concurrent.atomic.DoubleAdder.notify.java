@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.concurrent.atomic.DoubleAdder obj = new java.util.concurrent.atomic.DoubleAdder();java.util.concurrent.atomic.DoubleAdder.notify();}}

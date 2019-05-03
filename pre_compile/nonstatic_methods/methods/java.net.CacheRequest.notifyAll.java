@@ -1,0 +1,1 @@
+class test { public static void function() {java.net.CacheRequest obj = new java.net.CacheRequest();java.net.CacheRequest.notifyAll();}}

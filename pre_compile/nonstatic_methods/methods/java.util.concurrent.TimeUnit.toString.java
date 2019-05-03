@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();java.util.concurrent.TimeUnit.toString();}}

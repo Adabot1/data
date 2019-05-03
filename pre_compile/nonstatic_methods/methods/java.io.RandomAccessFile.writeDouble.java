@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.writeDouble(0.41700571782415596);}}

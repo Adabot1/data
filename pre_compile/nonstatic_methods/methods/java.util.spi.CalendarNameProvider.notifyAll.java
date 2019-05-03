@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.spi.CalendarNameProvider obj = new java.util.spi.CalendarNameProvider();java.util.spi.CalendarNameProvider.notifyAll();}}

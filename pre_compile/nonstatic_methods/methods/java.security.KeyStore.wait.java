@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.KeyStore obj = new java.security.KeyStore();java.security.KeyStore.wait();}}

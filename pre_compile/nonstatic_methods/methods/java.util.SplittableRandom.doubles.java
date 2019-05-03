@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();java.util.SplittableRandom.doubles(0.8788303691086841,0.8171593256770668);}}

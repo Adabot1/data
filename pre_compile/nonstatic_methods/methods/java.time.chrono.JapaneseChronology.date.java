@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();java.time.chrono.JapaneseChronology.date(443806304,-995815955,-464811996);}}

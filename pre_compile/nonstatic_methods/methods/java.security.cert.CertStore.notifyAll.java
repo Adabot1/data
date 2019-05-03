@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.cert.CertStore obj = new java.security.cert.CertStore();java.security.cert.CertStore.notifyAll();}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.stream.StreamSupport obj = new java.util.stream.StreamSupport();java.util.stream.StreamSupport.toString();}}

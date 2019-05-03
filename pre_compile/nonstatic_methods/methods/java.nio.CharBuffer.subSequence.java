@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();java.nio.CharBuffer.subSequence(2095019263,-600853524);}}

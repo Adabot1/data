@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();java.io.PushbackReader.notifyAll();}}

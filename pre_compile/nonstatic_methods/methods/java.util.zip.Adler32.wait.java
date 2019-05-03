@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.zip.Adler32 obj = new java.util.zip.Adler32();java.util.zip.Adler32.wait();}}

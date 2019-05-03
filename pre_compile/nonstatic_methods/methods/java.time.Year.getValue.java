@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.Year obj = new java.time.Year();java.time.Year.getValue();}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getMinimum(-1351382219);}}

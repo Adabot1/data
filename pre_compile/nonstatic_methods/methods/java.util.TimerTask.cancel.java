@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.TimerTask obj = new java.util.TimerTask();java.util.TimerTask.cancel();}}

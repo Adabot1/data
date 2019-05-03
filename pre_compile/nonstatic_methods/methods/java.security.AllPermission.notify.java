@@ -1,0 +1,1 @@
+class test { public static void function() {java.security.AllPermission obj = new java.security.AllPermission();java.security.AllPermission.notify();}}

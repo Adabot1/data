@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.channels.DatagramChannel obj = new java.nio.channels.DatagramChannel();java.nio.channels.DatagramChannel.toString();}}

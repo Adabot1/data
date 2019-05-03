@@ -1,0 +1,1 @@
+class test { public static void function() {javax.net.ssl.KeyManagerFactory obj = new javax.net.ssl.KeyManagerFactory();javax.net.ssl.KeyManagerFactory.notify();}}

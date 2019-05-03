@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.format(0.792828452595627);}}

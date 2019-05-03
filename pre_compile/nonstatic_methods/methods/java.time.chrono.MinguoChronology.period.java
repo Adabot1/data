@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();java.time.chrono.MinguoChronology.period(1327434037,861486930,-960373395);}}

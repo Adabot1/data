@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.invoke.VolatileCallSite obj = new java.lang.invoke.VolatileCallSite();java.lang.invoke.VolatileCallSite.notify();}}
