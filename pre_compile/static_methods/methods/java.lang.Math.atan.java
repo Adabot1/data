@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.atan(0.8643495871082807);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.abs(-695943227);}}

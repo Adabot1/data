@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.tan(0.7739520017986546);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.CharBuffer.allocate(-1862916113);}}

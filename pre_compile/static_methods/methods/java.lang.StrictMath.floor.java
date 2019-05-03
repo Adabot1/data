@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.floor(0.32102254548726894);}}

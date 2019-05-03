@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.module.Configuration.empty();}}

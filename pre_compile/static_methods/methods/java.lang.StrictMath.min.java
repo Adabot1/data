@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.min(0.8624168948606914,0.7294598431475997);}}

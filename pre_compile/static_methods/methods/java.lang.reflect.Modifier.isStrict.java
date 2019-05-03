@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.reflect.Modifier.isStrict(-1087082830);}}

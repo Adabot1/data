@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.tanh(0.3603882311571531);}}

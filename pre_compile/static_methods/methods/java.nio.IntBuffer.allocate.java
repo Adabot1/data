@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.IntBuffer.allocate(-133730473);}}

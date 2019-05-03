@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.Month.of(-1220286180);}}

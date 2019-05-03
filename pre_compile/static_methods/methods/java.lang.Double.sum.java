@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.sum(0.941359035986065,0.8771796288927546);}}

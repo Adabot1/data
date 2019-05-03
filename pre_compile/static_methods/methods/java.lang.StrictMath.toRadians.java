@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.toRadians(0.28931260891358923);}}

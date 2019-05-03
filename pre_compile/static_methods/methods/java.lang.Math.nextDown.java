@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.nextDown(0.2066962637718408);}}

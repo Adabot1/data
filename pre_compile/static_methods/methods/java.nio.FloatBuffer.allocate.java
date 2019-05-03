@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.FloatBuffer.allocate(98593506);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Integer.toHexString(2051964368);}}

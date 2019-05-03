@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.isInfinite(0.5161647648391122);}}

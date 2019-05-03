@@ -1,0 +1,1 @@
+class test { public static void function() {java.math.RoundingMode.valueOf(-1743604149);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.log(0.6374885024825098);}}

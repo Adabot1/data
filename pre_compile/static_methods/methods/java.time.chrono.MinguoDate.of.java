@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.MinguoDate.of(2122701581,-1935307766,-2080930540);}}

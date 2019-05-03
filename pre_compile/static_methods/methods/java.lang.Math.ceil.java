@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.ceil(0.48702046875976457);}}

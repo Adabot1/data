@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.DateFormat.getTimeInstance(-1634278418);}}

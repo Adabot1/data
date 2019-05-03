@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.acos(0.5830874848857706);}}

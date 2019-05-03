@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.nextUp(0.1806889375433517);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.floorMod(1850369521,-475581760);}}

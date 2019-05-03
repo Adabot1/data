@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Byte.toUnsignedInt([B@69b0fd6f);}}

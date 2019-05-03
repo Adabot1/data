@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.function.IntUnaryOperator.identity();}}

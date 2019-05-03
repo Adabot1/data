@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Integer.toString(-1756339797,-1374614528);}}

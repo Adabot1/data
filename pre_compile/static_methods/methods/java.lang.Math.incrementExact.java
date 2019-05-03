@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.incrementExact(-932425530);}}

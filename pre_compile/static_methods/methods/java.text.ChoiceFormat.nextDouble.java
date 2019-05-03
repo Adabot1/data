@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.ChoiceFormat.nextDouble(0.1805393078789227);}}

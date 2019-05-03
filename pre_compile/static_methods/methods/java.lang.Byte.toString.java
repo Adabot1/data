@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Byte.toString([B@1b26f7b2);}}

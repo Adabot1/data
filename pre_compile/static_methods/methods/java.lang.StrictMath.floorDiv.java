@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.floorDiv(2129519509,-784741901);}}

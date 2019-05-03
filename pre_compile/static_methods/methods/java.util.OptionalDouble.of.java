@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.OptionalDouble.of(0.0836553042014766);}}

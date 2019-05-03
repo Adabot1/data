@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.LocalTime.of(-205131164,-180829840,1980895158);}}

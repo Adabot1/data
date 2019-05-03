@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Integer.rotateLeft(919901418,1360471199);}}

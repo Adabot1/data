@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.invoke.MethodHandleInfo.referenceKindToString(1104147439);}}

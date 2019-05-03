@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.floorDiv(879652978,1094108501);}}

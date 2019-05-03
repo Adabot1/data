@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.doubleToRawLongBits(0.6137192650436042);}}

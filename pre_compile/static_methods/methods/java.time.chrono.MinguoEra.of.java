@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.MinguoEra.of(-10015510);}}

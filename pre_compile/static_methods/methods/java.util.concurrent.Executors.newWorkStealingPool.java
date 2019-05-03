@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.concurrent.Executors.newWorkStealingPool(1241145450);}}

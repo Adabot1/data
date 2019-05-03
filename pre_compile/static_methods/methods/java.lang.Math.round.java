@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.round(0.2751427907088836);}}

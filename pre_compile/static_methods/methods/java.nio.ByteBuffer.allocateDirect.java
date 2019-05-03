@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.ByteBuffer.allocateDirect(-1179011969);}}

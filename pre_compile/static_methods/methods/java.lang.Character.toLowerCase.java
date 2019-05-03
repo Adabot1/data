@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.toLowerCase(1055596263);}}

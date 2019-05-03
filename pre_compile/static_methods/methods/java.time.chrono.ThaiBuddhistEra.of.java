@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.ThaiBuddhistEra.of(-495599013);}}

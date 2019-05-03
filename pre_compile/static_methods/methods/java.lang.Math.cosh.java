@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.cosh(0.23707192422455226);}}

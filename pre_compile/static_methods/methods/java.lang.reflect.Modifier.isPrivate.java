@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.reflect.Modifier.isPrivate(39772084);}}

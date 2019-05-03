@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.LongBuffer.allocate(-1956588636);}}

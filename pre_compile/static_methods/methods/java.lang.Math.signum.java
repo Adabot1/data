@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.signum(0.7349757592720236);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.valueOf(0.10601246695237532);}}

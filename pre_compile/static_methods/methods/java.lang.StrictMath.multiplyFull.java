@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.multiplyFull(1514466896,1735367497);}}

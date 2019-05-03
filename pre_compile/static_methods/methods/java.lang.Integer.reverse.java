@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Integer.reverse(-511780756);}}

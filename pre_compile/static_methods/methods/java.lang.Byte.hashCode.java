@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Byte.hashCode([B@491cc5c9);}}

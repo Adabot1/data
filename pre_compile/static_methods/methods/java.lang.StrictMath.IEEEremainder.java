@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.IEEEremainder(0.09309872618222248,0.8478392235253334);}}

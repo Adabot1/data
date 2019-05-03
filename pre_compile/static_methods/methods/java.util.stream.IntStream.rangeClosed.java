@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.stream.IntStream.rangeClosed(1110843771,-968756897);}}

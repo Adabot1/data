@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.max(0.5669629669858187,0.9277450390452275);}}

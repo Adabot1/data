@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.multiplyExact(-555925972,1005536310);}}

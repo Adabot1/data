@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.getExponent(0.5845733549373858);}}

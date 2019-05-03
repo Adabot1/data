@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.acos(0.8869415145116466);}}

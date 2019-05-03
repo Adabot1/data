@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.String.valueOf(0.9586735882768784);}}

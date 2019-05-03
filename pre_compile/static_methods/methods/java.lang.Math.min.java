@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.min(-2025488524,-444903068);}}

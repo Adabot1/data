@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Integer.valueOf(1005218474);}}

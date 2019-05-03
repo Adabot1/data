@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.asin(0.6891109578960378);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.subtractExact(1397948448,-563188833);}}

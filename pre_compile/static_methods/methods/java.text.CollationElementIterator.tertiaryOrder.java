@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.CollationElementIterator.tertiaryOrder(-1585014257);}}

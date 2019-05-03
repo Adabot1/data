@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.Date.UTC(-83577878,-69775691,-637042359,1993888295,512364064,-379970890);}}

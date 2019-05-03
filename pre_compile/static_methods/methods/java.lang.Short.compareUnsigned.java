@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Short.compareUnsigned(1378,1658);}}

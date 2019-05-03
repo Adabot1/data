@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.sqrt(0.18275263892371396);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.SimpleDateFormat.getTimeInstance(-1370276381);}}

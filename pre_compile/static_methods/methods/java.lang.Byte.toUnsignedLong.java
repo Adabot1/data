@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Byte.toUnsignedLong([B@757942a1);}}

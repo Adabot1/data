@@ -1,0 +1,1 @@
+class test { public static void function() {javax.net.SocketFactory.getDefault();}}

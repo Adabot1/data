@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.rint(0.6893401514162089);}}

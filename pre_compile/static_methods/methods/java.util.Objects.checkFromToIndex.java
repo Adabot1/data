@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.Objects.checkFromToIndex(-2129227976,1720911623,-2077345513);}}

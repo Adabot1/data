@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Integer.hashCode(-789680362);}}

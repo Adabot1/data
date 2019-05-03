@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.compare(0.8244834984259518,0.014547504809275913);}}

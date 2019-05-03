@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.cosh(0.9833298494385116);}}

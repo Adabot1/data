@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.isLowerCase(-2036186345);}}

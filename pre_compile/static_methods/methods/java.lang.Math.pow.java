@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.pow(0.11571121081390334,0.9135130157847597);}}

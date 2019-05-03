@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.doubleToLongBits(0.8401287440407358);}}

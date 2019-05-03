@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.ulp(0.04418192856738823);}}

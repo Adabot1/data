@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.asin(0.3693392777940533);}}

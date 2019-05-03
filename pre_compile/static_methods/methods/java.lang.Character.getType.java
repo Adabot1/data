@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.getType(-2056005828);}}

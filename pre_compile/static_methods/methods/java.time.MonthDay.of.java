@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.MonthDay.of(680248163,1915936532);}}

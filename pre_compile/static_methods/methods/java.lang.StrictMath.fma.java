@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.fma(0.51343784183856,0.9548699155474387,0.018204589909545765);}}

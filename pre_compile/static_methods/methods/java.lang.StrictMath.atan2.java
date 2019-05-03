@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.atan2(0.47442278175997166,0.6227102206127882);}}

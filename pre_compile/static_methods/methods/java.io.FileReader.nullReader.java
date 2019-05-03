@@ -1,0 +1,1 @@
+class test { public static void function() {java.io.FileReader.nullReader();}}

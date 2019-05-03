@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.toHexString(0.8508772138187158);}}

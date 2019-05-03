@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.toChars(-162066272);}}

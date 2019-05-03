@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Integer.compare(-1496920787,2138457653);}}

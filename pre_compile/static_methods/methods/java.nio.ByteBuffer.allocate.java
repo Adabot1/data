@@ -1,0 +1,1 @@
+class test { public static void function() {java.nio.ByteBuffer.allocate(401086010);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.reflect.Modifier.isNative(-2083686806);}}

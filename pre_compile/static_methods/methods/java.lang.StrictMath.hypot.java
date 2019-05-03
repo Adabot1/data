@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.hypot(0.9402011930677904,0.707594028486698);}}

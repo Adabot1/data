@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.isISOControl(-1948031458);}}

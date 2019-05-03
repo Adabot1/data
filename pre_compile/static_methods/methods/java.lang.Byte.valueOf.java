@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Byte.valueOf([B@74ad1f1f);}}

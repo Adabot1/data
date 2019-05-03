@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.reflect.Modifier.isSynchronized(1020533024);}}

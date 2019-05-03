@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.exp(0.9457808380827389);}}

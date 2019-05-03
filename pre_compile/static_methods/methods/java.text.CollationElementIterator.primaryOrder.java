@@ -1,0 +1,1 @@
+class test { public static void function() {java.text.CollationElementIterator.primaryOrder(1480342017);}}

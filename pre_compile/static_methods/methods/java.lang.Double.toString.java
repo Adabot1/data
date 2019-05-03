@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.toString(0.0874050870977593);}}

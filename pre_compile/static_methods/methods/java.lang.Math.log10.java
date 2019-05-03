@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.log10(0.10366259379019926);}}

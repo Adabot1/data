@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Double.isFinite(0.16069089256015545);}}

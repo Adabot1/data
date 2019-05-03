@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.stream.DoubleStream.of(0.2423030208612479);}}

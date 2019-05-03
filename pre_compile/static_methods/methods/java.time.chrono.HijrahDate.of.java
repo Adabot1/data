@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.chrono.HijrahDate.of(-1315466977,1825448302,-851007459);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.time.LocalDate.ofYearDay(660680475,-2122209743);}}

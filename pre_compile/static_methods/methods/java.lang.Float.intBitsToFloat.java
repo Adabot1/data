@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Float.intBitsToFloat(1567884569);}}

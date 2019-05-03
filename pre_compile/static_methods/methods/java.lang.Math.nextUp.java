@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.nextUp(0.12966605527641606);}}

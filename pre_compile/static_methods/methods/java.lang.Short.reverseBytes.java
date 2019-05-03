@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Short.reverseBytes(20032);}}

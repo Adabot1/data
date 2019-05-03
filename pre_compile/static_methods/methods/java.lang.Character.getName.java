@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.getName(-84255463);}}

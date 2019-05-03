@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.isIdeographic(1742288739);}}

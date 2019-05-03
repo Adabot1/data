@@ -1,0 +1,1 @@
+class test { public static void function() {java.util.Objects.checkIndex(1966636098,378119085);}}

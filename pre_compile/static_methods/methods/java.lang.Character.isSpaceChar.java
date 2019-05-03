@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Character.isSpaceChar(-1326860457);}}

@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Short.hashCode(11150);}}

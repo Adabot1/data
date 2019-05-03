@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.Math.toDegrees(0.3959367235813609);}}

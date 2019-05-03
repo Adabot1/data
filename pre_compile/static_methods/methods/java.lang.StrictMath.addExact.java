@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.addExact(-716045379,-2121005395);}}

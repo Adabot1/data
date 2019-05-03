@@ -1,0 +1,1 @@
+class test { public static void function() {java.lang.StrictMath.cbrt(0.6813481482555208);}}
