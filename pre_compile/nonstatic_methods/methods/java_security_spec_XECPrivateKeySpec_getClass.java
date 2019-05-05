@@ -1,0 +1,1 @@
+class java_security_spec_XECPrivateKeySpec_getClass{ public static void function() {java.security.spec.XECPrivateKeySpec obj = new java.security.spec.XECPrivateKeySpec();obj.getClass();}}

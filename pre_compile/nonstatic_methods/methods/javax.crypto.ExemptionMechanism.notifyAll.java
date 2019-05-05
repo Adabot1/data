@@ -1,1 +1,0 @@
-class javax_crypto_ExemptionMechanism_notifyAll{ public static void function() {javax.crypto.ExemptionMechanism obj = new javax.crypto.ExemptionMechanism();javax.crypto.ExemptionMechanism.notifyAll();}}

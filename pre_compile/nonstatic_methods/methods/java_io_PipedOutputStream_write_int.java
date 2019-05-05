@@ -1,0 +1,1 @@
+class java_io_PipedOutputStream_write_int{ public static void function() {java.io.PipedOutputStream obj = new java.io.PipedOutputStream();obj.write(-1273453613);}}

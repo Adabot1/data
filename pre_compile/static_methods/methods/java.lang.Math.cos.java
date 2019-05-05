@@ -1,1 +1,0 @@
-class java_lang_Math_cos{ public static void function() {java.lang.Math.cos(0.9807193877602515);}}

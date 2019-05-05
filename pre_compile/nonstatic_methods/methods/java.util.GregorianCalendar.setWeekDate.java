@@ -1,1 +1,0 @@
-class java_util_GregorianCalendar_setWeekDate{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();java.util.GregorianCalendar.setWeekDate(1780667309,11698681,-217475663);}}

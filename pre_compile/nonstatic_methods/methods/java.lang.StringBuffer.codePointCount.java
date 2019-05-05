@@ -1,1 +1,0 @@
-class java_lang_StringBuffer_codePointCount{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.codePointCount(480119790,704280222);}}

@@ -1,0 +1,1 @@
+class java_lang_Character_isTitleCase_int{ public static void function() {java.lang.Character.isTitleCase(-1025189047);}}

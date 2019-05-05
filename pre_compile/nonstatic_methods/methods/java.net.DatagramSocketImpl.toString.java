@@ -1,1 +1,0 @@
-class java_net_DatagramSocketImpl_toString{ public static void function() {java.net.DatagramSocketImpl obj = new java.net.DatagramSocketImpl();java.net.DatagramSocketImpl.toString();}}

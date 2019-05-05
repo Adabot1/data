@@ -1,0 +1,1 @@
+class java_security_cert_PKIXRevocationChecker_init_boolean{ public static void function() {java.security.cert.PKIXRevocationChecker obj = new java.security.cert.PKIXRevocationChecker();obj.init(false);}}

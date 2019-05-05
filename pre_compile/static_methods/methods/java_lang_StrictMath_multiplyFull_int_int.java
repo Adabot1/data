@@ -1,0 +1,1 @@
+class java_lang_StrictMath_multiplyFull_int_int{ public static void function() {java.lang.StrictMath.multiplyFull(-1405948467,1857747640);}}

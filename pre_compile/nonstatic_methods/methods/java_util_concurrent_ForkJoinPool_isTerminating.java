@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinPool_isTerminating{ public static void function() {java.util.concurrent.ForkJoinPool obj = new java.util.concurrent.ForkJoinPool();obj.isTerminating();}}

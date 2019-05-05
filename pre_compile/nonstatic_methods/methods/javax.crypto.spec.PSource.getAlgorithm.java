@@ -1,1 +1,0 @@
-class javax_crypto_spec_PSource_getAlgorithm{ public static void function() {javax.crypto.spec.PSource obj = new javax.crypto.spec.PSource();javax.crypto.spec.PSource.getAlgorithm();}}

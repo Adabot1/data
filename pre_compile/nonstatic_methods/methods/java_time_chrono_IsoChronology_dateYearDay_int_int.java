@@ -1,0 +1,1 @@
+class java_time_chrono_IsoChronology_dateYearDay_int_int{ public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();obj.dateYearDay(-1685774451,1264271060);}}

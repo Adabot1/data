@@ -1,0 +1,1 @@
+class javax_crypto_Cipher_getClass{ public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();obj.getClass();}}

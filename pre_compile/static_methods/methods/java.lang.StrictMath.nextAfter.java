@@ -1,1 +1,0 @@
-class java_lang_StrictMath_nextAfter{ public static void function() {java.lang.StrictMath.nextAfter(0.9567149839952359,0.21825344225650523);}}

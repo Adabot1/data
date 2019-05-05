@@ -1,0 +1,1 @@
+class java_lang_Character_notify{ public static void function() {java.lang.Character obj = new java.lang.Character();obj.notify();}}

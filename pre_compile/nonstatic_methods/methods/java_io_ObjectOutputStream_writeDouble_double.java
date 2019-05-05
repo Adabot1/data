@@ -1,0 +1,1 @@
+class java_io_ObjectOutputStream_writeDouble_double{ public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();obj.writeDouble(0.7468546795640486);}}

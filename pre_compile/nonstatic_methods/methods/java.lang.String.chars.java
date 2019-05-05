@@ -1,1 +1,0 @@
-class java_lang_String_chars{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.chars();}}

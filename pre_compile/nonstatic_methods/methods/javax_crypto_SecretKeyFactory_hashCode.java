@@ -1,0 +1,1 @@
+class javax_crypto_SecretKeyFactory_hashCode{ public static void function() {javax.crypto.SecretKeyFactory obj = new javax.crypto.SecretKeyFactory();obj.hashCode();}}

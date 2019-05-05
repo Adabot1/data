@@ -1,1 +1,0 @@
-class java_lang_Math_cosh{ public static void function() {java.lang.Math.cosh(0.17440153153546845);}}

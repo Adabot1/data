@@ -1,1 +1,0 @@
-class java_lang_StringBuilder_insert{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.insert(33365631,0.5018325744507439);}}

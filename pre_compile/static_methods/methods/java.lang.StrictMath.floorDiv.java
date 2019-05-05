@@ -1,1 +1,0 @@
-class java_lang_StrictMath_floorDiv{ public static void function() {java.lang.StrictMath.floorDiv(-266069266,93546631);}}

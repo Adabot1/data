@@ -1,0 +1,1 @@
+class java_lang_invoke_MethodType_genericMethodType_int_boolean{ public static void function() {java.lang.invoke.MethodType.genericMethodType(-2141903261,true);}}

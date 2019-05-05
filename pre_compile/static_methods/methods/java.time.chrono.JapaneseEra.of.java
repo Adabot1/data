@@ -1,1 +1,0 @@
-class java_time_chrono_JapaneseEra_of{ public static void function() {java.time.chrono.JapaneseEra.of(-1102499492);}}

@@ -1,0 +1,1 @@
+class java_util_TimeZone_getDisplayName{ public static void function() {java.util.TimeZone obj = new java.util.TimeZone();obj.getDisplayName();}}

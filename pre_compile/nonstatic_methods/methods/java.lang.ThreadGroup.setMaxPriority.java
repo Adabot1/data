@@ -1,1 +1,0 @@
-class java_lang_ThreadGroup_setMaxPriority{ public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();java.lang.ThreadGroup.setMaxPriority(364475372);}}

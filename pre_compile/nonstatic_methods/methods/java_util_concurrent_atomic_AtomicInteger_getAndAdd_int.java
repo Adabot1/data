@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicInteger_getAndAdd_int{ public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();obj.getAndAdd(1699947880);}}

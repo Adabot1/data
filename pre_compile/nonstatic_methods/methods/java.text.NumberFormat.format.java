@@ -1,1 +1,0 @@
-class java_text_NumberFormat_format{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.format(0.16537202292135322);}}

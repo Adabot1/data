@@ -1,1 +1,0 @@
-class java_text_DecimalFormat_wait{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.wait();}}

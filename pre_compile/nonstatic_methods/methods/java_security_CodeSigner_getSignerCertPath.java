@@ -1,0 +1,1 @@
+class java_security_CodeSigner_getSignerCertPath{ public static void function() {java.security.CodeSigner obj = new java.security.CodeSigner();obj.getSignerCertPath();}}

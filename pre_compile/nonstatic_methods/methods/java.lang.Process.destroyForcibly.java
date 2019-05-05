@@ -1,1 +1,0 @@
-class java_lang_Process_destroyForcibly{ public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.destroyForcibly();}}

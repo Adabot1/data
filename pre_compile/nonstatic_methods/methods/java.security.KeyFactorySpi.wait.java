@@ -1,1 +1,0 @@
-class java_security_KeyFactorySpi_wait{ public static void function() {java.security.KeyFactorySpi obj = new java.security.KeyFactorySpi();java.security.KeyFactorySpi.wait();}}

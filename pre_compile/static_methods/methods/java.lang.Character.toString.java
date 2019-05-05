@@ -1,1 +1,0 @@
-class java_lang_Character_toString{ public static void function() {java.lang.Character.toString(-472142888);}}

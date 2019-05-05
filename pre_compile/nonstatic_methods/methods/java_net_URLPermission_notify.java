@@ -1,0 +1,1 @@
+class java_net_URLPermission_notify{ public static void function() {java.net.URLPermission obj = new java.net.URLPermission();obj.notify();}}

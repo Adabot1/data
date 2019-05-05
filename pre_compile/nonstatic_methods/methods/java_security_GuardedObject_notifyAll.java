@@ -1,0 +1,1 @@
+class java_security_GuardedObject_notifyAll{ public static void function() {java.security.GuardedObject obj = new java.security.GuardedObject();obj.notifyAll();}}

@@ -1,1 +1,0 @@
-class java_text_BreakIterator_following{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();java.text.BreakIterator.following(1797022867);}}

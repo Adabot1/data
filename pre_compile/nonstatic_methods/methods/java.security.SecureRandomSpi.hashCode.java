@@ -1,1 +1,0 @@
-class java_security_SecureRandomSpi_hashCode{ public static void function() {java.security.SecureRandomSpi obj = new java.security.SecureRandomSpi();java.security.SecureRandomSpi.hashCode();}}

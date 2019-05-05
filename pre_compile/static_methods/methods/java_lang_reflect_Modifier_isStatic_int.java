@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isStatic_int{ public static void function() {java.lang.reflect.Modifier.isStatic(-514391551);}}

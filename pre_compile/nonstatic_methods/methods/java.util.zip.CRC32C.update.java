@@ -1,1 +1,0 @@
-class java_util_zip_CRC32C_update{ public static void function() {java.util.zip.CRC32C obj = new java.util.zip.CRC32C();java.util.zip.CRC32C.update(2108099103);}}

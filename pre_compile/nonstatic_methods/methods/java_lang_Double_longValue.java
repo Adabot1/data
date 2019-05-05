@@ -1,0 +1,1 @@
+class java_lang_Double_longValue{ public static void function() {java.lang.Double obj = new java.lang.Double();obj.longValue();}}

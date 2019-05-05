@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadLocalRandom_ints_int_int{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();obj.ints(-1561557685,-1966778881);}}

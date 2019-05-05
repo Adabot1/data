@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isAbstract_int{ public static void function() {java.lang.reflect.Modifier.isAbstract(1221744167);}}

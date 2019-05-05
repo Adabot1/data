@@ -1,0 +1,1 @@
+class java_nio_DoubleBuffer_put_double{ public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();obj.put(0.5234811753813415);}}

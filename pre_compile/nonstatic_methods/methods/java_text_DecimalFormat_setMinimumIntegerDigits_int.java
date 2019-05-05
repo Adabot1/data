@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_setMinimumIntegerDigits_int{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.setMinimumIntegerDigits(396681643);}}

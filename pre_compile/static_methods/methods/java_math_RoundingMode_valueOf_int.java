@@ -1,0 +1,1 @@
+class java_math_RoundingMode_valueOf_int{ public static void function() {java.math.RoundingMode.valueOf(-836843721);}}

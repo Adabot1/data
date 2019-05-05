@@ -1,0 +1,1 @@
+class java_util_TimeZone_getOffset_int_int_int_int_int_int{ public static void function() {java.util.TimeZone obj = new java.util.TimeZone();obj.getOffset(1508505559,1167185759,-790364539,1258880510,477329229,571524436);}}

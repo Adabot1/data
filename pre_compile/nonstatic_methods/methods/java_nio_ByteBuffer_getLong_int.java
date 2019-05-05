@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_getLong_int{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.getLong(-37989711);}}

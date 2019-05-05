@@ -1,1 +1,0 @@
-class java_net_URLConnection_setAllowUserInteraction{ public static void function() {java.net.URLConnection obj = new java.net.URLConnection();java.net.URLConnection.setAllowUserInteraction(true);}}

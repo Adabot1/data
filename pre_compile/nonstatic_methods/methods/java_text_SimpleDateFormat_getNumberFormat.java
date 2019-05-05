@@ -1,0 +1,1 @@
+class java_text_SimpleDateFormat_getNumberFormat{ public static void function() {java.text.SimpleDateFormat obj = new java.text.SimpleDateFormat();obj.getNumberFormat();}}

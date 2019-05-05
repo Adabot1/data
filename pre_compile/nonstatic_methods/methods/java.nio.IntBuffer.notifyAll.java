@@ -1,1 +1,0 @@
-class java_nio_IntBuffer_notifyAll{ public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();java.nio.IntBuffer.notifyAll();}}

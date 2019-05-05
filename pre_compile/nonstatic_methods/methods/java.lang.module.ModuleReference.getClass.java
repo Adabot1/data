@@ -1,1 +1,0 @@
-class java_lang_module_ModuleReference_getClass{ public static void function() {java.lang.module.ModuleReference obj = new java.lang.module.ModuleReference();java.lang.module.ModuleReference.getClass();}}

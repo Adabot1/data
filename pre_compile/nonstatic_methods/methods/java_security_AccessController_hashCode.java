@@ -1,0 +1,1 @@
+class java_security_AccessController_hashCode{ public static void function() {java.security.AccessController obj = new java.security.AccessController();obj.hashCode();}}

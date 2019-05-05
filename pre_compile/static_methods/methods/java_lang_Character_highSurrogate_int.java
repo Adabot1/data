@@ -1,0 +1,1 @@
+class java_lang_Character_highSurrogate_int{ public static void function() {java.lang.Character.highSurrogate(-1512676842);}}

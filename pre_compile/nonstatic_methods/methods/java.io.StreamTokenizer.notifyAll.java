@@ -1,1 +1,0 @@
-class java_io_StreamTokenizer_notifyAll{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();java.io.StreamTokenizer.notifyAll();}}

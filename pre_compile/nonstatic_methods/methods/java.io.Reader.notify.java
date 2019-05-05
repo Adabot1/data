@@ -1,1 +1,0 @@
-class java_io_Reader_notify{ public static void function() {java.io.Reader obj = new java.io.Reader();java.io.Reader.notify();}}

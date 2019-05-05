@@ -1,1 +1,0 @@
-class java_lang_Math_ulp{ public static void function() {java.lang.Math.ulp(0.2944260243200696);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_ThaiBuddhistChronology_date_int_int_int{ public static void function() {java.time.chrono.ThaiBuddhistChronology obj = new java.time.chrono.ThaiBuddhistChronology();obj.date(742064381,-928886242,-1929995437);}}

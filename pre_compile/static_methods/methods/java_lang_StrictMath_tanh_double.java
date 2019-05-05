@@ -1,0 +1,1 @@
+class java_lang_StrictMath_tanh_double{ public static void function() {java.lang.StrictMath.tanh(0.14667020680721443);}}

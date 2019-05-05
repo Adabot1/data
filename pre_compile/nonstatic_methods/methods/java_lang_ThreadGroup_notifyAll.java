@@ -1,0 +1,1 @@
+class java_lang_ThreadGroup_notifyAll{ public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();obj.notifyAll();}}

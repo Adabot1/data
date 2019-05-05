@@ -1,0 +1,1 @@
+class java_util_zip_CheckedInputStream_reset{ public static void function() {java.util.zip.CheckedInputStream obj = new java.util.zip.CheckedInputStream();obj.reset();}}

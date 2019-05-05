@@ -1,0 +1,1 @@
+class java_time_Year_of_int{ public static void function() {java.time.Year.of(-514678233);}}

@@ -1,0 +1,1 @@
+class java_lang_invoke_LambdaMetafactory_notify{ public static void function() {java.lang.invoke.LambdaMetafactory obj = new java.lang.invoke.LambdaMetafactory();obj.notify();}}

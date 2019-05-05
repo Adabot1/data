@@ -1,0 +1,1 @@
+class java_lang_Integer_sum_int_int{ public static void function() {java.lang.Integer.sum(2036018133,1041069421);}}

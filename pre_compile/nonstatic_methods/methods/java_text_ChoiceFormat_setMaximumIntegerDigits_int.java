@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_setMaximumIntegerDigits_int{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();obj.setMaximumIntegerDigits(2115373863);}}

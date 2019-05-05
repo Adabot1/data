@@ -1,0 +1,1 @@
+class java_lang_Short_compare_short_short{ public static void function() {java.lang.Short.compare(27289,-13024);}}

@@ -1,0 +1,1 @@
+class java_util_Date_setSeconds_int{ public static void function() {java.util.Date obj = new java.util.Date();obj.setSeconds(1737092973);}}

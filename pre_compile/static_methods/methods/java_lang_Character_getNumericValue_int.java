@@ -1,0 +1,1 @@
+class java_lang_Character_getNumericValue_int{ public static void function() {java.lang.Character.getNumericValue(1082265625);}}

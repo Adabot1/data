@@ -1,1 +1,0 @@
-class java_util_stream_StreamSupport_hashCode{ public static void function() {java.util.stream.StreamSupport obj = new java.util.stream.StreamSupport();java.util.stream.StreamSupport.hashCode();}}

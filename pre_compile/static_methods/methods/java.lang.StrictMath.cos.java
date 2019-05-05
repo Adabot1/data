@@ -1,1 +1,0 @@
-class java_lang_StrictMath_cos{ public static void function() {java.lang.StrictMath.cos(0.11158529580929355);}}

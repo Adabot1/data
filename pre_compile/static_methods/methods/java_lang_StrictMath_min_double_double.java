@@ -1,0 +1,1 @@
+class java_lang_StrictMath_min_double_double{ public static void function() {java.lang.StrictMath.min(0.7839489278101849,0.8858077709314395);}}

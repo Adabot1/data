@@ -1,1 +1,0 @@
-class java_time_chrono_AbstractChronology_eraOf{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();java.time.chrono.AbstractChronology.eraOf(663666914);}}

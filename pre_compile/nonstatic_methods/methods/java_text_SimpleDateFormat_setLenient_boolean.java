@@ -1,0 +1,1 @@
+class java_text_SimpleDateFormat_setLenient_boolean{ public static void function() {java.text.SimpleDateFormat obj = new java.text.SimpleDateFormat();obj.setLenient(false);}}

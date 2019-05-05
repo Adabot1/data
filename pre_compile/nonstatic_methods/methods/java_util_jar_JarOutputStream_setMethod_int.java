@@ -1,0 +1,1 @@
+class java_util_jar_JarOutputStream_setMethod_int{ public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();obj.setMethod(-1923001482);}}

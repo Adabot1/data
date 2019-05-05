@@ -1,1 +1,0 @@
-class java_text_Format_getClass{ public static void function() {java.text.Format obj = new java.text.Format();java.text.Format.getClass();}}

@@ -1,1 +1,0 @@
-class java_lang_Integer_highestOneBit{ public static void function() {java.lang.Integer.highestOneBit(-888310342);}}

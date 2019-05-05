@@ -1,1 +1,0 @@
-class java_lang_Integer_toHexString{ public static void function() {java.lang.Integer.toHexString(-2038877441);}}

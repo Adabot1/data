@@ -1,0 +1,1 @@
+class java_lang_Short_hashCode_short{ public static void function() {java.lang.Short.hashCode(22595);}}

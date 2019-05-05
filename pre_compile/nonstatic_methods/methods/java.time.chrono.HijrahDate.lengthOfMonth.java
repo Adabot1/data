@@ -1,1 +1,0 @@
-class java_time_chrono_HijrahDate_lengthOfMonth{ public static void function() {java.time.chrono.HijrahDate obj = new java.time.chrono.HijrahDate();java.time.chrono.HijrahDate.lengthOfMonth();}}

@@ -1,1 +1,0 @@
-class java_lang_Integer_toString{ public static void function() {java.lang.Integer.toString(1628619912,780585757);}}

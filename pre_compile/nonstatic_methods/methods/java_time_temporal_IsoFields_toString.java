@@ -1,0 +1,1 @@
+class java_time_temporal_IsoFields_toString{ public static void function() {java.time.temporal.IsoFields obj = new java.time.temporal.IsoFields();obj.toString();}}

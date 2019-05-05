@@ -1,0 +1,1 @@
+class java_util_SplittableRandom_ints_int_int{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();obj.ints(1538079493,1070870945);}}

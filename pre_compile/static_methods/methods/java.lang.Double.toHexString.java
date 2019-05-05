@@ -1,1 +1,0 @@
-class java_lang_Double_toHexString{ public static void function() {java.lang.Double.toHexString(0.4579037991157703);}}

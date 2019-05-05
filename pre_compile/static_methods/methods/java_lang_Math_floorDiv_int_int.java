@@ -1,0 +1,1 @@
+class java_lang_Math_floorDiv_int_int{ public static void function() {java.lang.Math.floorDiv(-182735623,990870247);}}

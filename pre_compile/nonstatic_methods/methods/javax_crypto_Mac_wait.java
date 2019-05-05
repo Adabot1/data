@@ -1,0 +1,1 @@
+class javax_crypto_Mac_wait{ public static void function() {javax.crypto.Mac obj = new javax.crypto.Mac();obj.wait();}}

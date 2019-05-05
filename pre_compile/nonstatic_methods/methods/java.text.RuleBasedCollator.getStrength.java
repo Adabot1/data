@@ -1,1 +1,0 @@
-class java_text_RuleBasedCollator_getStrength{ public static void function() {java.text.RuleBasedCollator obj = new java.text.RuleBasedCollator();java.text.RuleBasedCollator.getStrength();}}

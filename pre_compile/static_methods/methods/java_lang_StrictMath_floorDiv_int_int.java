@@ -1,0 +1,1 @@
+class java_lang_StrictMath_floorDiv_int_int{ public static void function() {java.lang.StrictMath.floorDiv(1526541299,802748380);}}

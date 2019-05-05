@@ -1,0 +1,1 @@
+class java_lang_Byte_toUnsignedLong_byte{ public static void function() {java.lang.Byte.toUnsignedLong([B@2a70a3d8);}}

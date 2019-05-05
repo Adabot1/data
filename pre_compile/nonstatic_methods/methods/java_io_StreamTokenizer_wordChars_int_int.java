@@ -1,0 +1,1 @@
+class java_io_StreamTokenizer_wordChars_int_int{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();obj.wordChars(-378554076,-70908499);}}

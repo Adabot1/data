@@ -1,1 +1,0 @@
-class java_lang_StringBuilder_codePointBefore{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.codePointBefore(-941451104);}}

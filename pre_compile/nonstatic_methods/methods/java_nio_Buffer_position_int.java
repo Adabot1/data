@@ -1,0 +1,1 @@
+class java_nio_Buffer_position_int{ public static void function() {java.nio.Buffer obj = new java.nio.Buffer();obj.position(-1873345120);}}

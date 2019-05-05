@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLServerSocket_setWantClientAuth_boolean{ public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();obj.setWantClientAuth(false);}}

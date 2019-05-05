@@ -1,0 +1,1 @@
+class java_text_Bidi_getLevelAt_int{ public static void function() {java.text.Bidi obj = new java.text.Bidi();obj.getLevelAt(431424746);}}

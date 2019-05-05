@@ -1,1 +1,0 @@
-class java_security_Security_notifyAll{ public static void function() {java.security.Security obj = new java.security.Security();java.security.Security.notifyAll();}}

@@ -1,1 +1,0 @@
-class javax_net_ssl_SSLSocket_setSoTimeout{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();javax.net.ssl.SSLSocket.setSoTimeout(-1862208099);}}

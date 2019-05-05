@@ -1,0 +1,1 @@
+class java_net_ServerSocket_setPerformancePreferences_int_int_int{ public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();obj.setPerformancePreferences(-418391303,-1527659846,-424197);}}

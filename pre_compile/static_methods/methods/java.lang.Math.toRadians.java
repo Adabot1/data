@@ -1,1 +1,0 @@
-class java_lang_Math_toRadians{ public static void function() {java.lang.Math.toRadians(0.2582785183706269);}}

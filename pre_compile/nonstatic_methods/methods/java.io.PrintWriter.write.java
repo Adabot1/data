@@ -1,1 +1,0 @@
-class java_io_PrintWriter_write{ public static void function() {java.io.PrintWriter obj = new java.io.PrintWriter();java.io.PrintWriter.write(-1659083289);}}

@@ -1,0 +1,1 @@
+class java_lang_invoke_ConstantBootstraps_notifyAll{ public static void function() {java.lang.invoke.ConstantBootstraps obj = new java.lang.invoke.ConstantBootstraps();obj.notifyAll();}}

@@ -1,1 +1,0 @@
-class java_lang_StringBuilder_append{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.append(false);}}

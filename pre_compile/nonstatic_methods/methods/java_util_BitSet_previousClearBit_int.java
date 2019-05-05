@@ -1,0 +1,1 @@
+class java_util_BitSet_previousClearBit_int{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.previousClearBit(-1126156557);}}

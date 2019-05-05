@@ -1,0 +1,1 @@
+class java_io_PrintStream_wait{ public static void function() {java.io.PrintStream obj = new java.io.PrintStream();obj.wait();}}

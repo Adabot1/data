@@ -1,0 +1,1 @@
+class java_util_zip_InflaterInputStream_mark_int{ public static void function() {java.util.zip.InflaterInputStream obj = new java.util.zip.InflaterInputStream();obj.mark(1876478536);}}

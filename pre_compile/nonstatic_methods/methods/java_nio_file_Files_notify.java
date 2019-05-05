@@ -1,0 +1,1 @@
+class java_nio_file_Files_notify{ public static void function() {java.nio.file.Files obj = new java.nio.file.Files();obj.notify();}}

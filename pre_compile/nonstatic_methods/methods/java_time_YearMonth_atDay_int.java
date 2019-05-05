@@ -1,0 +1,1 @@
+class java_time_YearMonth_atDay_int{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.atDay(757584368);}}

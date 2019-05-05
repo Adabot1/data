@@ -1,1 +1,0 @@
-class java_security_Identity_getName{ public static void function() {java.security.Identity obj = new java.security.Identity();java.security.Identity.getName();}}

@@ -1,1 +1,0 @@
-class java_io_DataOutputStream_writeChar{ public static void function() {java.io.DataOutputStream obj = new java.io.DataOutputStream();java.io.DataOutputStream.writeChar(23560800);}}

@@ -1,0 +1,1 @@
+class java_lang_Math_hypot_double_double{ public static void function() {java.lang.Math.hypot(0.9301817717255109,0.9990570648038165);}}

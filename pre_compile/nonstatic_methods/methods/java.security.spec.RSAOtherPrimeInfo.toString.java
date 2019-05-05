@@ -1,1 +1,0 @@
-class java_security_spec_RSAOtherPrimeInfo_toString{ public static void function() {java.security.spec.RSAOtherPrimeInfo obj = new java.security.spec.RSAOtherPrimeInfo();java.security.spec.RSAOtherPrimeInfo.toString();}}

@@ -1,1 +1,0 @@
-class java_text_DecimalFormat_setDecimalSeparatorAlwaysShown{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setDecimalSeparatorAlwaysShown(true);}}

@@ -1,1 +1,0 @@
-class java_util_SimpleTimeZone_getAvailableIDs{ public static void function() {java.util.SimpleTimeZone.getAvailableIDs(1996383510);}}

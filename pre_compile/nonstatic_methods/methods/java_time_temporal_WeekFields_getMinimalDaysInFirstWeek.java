@@ -1,0 +1,1 @@
+class java_time_temporal_WeekFields_getMinimalDaysInFirstWeek{ public static void function() {java.time.temporal.WeekFields obj = new java.time.temporal.WeekFields();obj.getMinimalDaysInFirstWeek();}}

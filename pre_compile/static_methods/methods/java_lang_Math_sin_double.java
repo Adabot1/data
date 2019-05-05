@@ -1,0 +1,1 @@
+class java_lang_Math_sin_double{ public static void function() {java.lang.Math.sin(0.9287874094177975);}}

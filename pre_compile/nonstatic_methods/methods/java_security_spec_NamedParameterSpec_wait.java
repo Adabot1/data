@@ -1,0 +1,1 @@
+class java_security_spec_NamedParameterSpec_wait{ public static void function() {java.security.spec.NamedParameterSpec obj = new java.security.spec.NamedParameterSpec();obj.wait();}}

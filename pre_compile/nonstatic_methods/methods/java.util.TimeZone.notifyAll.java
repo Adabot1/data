@@ -1,1 +1,0 @@
-class java_util_TimeZone_notifyAll{ public static void function() {java.util.TimeZone obj = new java.util.TimeZone();java.util.TimeZone.notifyAll();}}

@@ -1,1 +1,0 @@
-class java_time_chrono_AbstractChronology_dateYearDay{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();java.time.chrono.AbstractChronology.dateYearDay(-1945919574,-936403753);}}

@@ -1,0 +1,1 @@
+class java_text_CollationElementIterator_setOffset_int{ public static void function() {java.text.CollationElementIterator obj = new java.text.CollationElementIterator();obj.setOffset(1128330386);}}

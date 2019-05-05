@@ -1,0 +1,1 @@
+class java_util_TimeZone_getAvailableIDs_int{ public static void function() {java.util.TimeZone.getAvailableIDs(-916694877);}}

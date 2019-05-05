@@ -1,0 +1,1 @@
+class java_lang_invoke_SwitchPoint_wait{ public static void function() {java.lang.invoke.SwitchPoint obj = new java.lang.invoke.SwitchPoint();obj.wait();}}

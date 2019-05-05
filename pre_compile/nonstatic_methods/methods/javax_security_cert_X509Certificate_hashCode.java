@@ -1,0 +1,1 @@
+class javax_security_cert_X509Certificate_hashCode{ public static void function() {javax.security.cert.X509Certificate obj = new javax.security.cert.X509Certificate();obj.hashCode();}}

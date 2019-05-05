@@ -1,1 +1,0 @@
-class java_util_Properties_keySet{ public static void function() {java.util.Properties obj = new java.util.Properties();java.util.Properties.keySet();}}

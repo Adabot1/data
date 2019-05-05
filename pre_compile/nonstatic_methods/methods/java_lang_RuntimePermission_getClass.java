@@ -1,0 +1,1 @@
+class java_lang_RuntimePermission_getClass{ public static void function() {java.lang.RuntimePermission obj = new java.lang.RuntimePermission();obj.getClass();}}

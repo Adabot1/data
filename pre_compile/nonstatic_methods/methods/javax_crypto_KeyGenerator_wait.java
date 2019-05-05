@@ -1,0 +1,1 @@
+class javax_crypto_KeyGenerator_wait{ public static void function() {javax.crypto.KeyGenerator obj = new javax.crypto.KeyGenerator();obj.wait();}}

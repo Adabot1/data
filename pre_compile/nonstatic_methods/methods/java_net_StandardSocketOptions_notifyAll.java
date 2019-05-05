@@ -1,0 +1,1 @@
+class java_net_StandardSocketOptions_notifyAll{ public static void function() {java.net.StandardSocketOptions obj = new java.net.StandardSocketOptions();obj.notifyAll();}}

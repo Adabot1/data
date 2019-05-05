@@ -1,1 +1,0 @@
-class java_util_stream_IntStream_range{ public static void function() {java.util.stream.IntStream.range(238601306,-946472444);}}

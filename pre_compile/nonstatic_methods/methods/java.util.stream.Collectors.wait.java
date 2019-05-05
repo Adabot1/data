@@ -1,1 +1,0 @@
-class java_util_stream_Collectors_wait{ public static void function() {java.util.stream.Collectors obj = new java.util.stream.Collectors();java.util.stream.Collectors.wait();}}

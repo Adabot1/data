@@ -1,1 +1,0 @@
-class java_util_SimpleTimeZone_getID{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();java.util.SimpleTimeZone.getID();}}

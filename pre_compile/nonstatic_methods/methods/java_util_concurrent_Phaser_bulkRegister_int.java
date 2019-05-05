@@ -1,0 +1,1 @@
+class java_util_concurrent_Phaser_bulkRegister_int{ public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();obj.bulkRegister(319730392);}}

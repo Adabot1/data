@@ -1,1 +1,0 @@
-class java_util_Calendar_getMaximum{ public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getMaximum(886749238);}}

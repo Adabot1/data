@@ -1,1 +1,0 @@
-class java_util_LongSummaryStatistics_getClass{ public static void function() {java.util.LongSummaryStatistics obj = new java.util.LongSummaryStatistics();java.util.LongSummaryStatistics.getClass();}}

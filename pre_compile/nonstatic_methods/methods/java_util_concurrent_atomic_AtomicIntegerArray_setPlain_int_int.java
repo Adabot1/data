@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_setPlain_int_int{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.setPlain(-171657660,-2134039419);}}

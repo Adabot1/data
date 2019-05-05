@@ -1,0 +1,1 @@
+class java_time_Duration_toMillis{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.toMillis();}}

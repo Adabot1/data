@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_trimToSize{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.trimToSize();}}

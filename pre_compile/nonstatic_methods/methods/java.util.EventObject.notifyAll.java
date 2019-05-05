@@ -1,1 +1,0 @@
-class java_util_EventObject_notifyAll{ public static void function() {java.util.EventObject obj = new java.util.EventObject();java.util.EventObject.notifyAll();}}

@@ -1,0 +1,1 @@
+class java_security_PolicySpi_wait{ public static void function() {java.security.PolicySpi obj = new java.security.PolicySpi();obj.wait();}}

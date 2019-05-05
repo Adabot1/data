@@ -1,1 +1,0 @@
-class java_util_zip_ZipOutputStream_close{ public static void function() {java.util.zip.ZipOutputStream obj = new java.util.zip.ZipOutputStream();java.util.zip.ZipOutputStream.close();}}

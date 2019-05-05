@@ -1,0 +1,1 @@
+class java_lang_Package_getImplementationVendor{ public static void function() {java.lang.Package obj = new java.lang.Package();obj.getImplementationVendor();}}

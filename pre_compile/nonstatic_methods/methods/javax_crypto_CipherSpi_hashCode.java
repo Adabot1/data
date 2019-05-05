@@ -1,0 +1,1 @@
+class javax_crypto_CipherSpi_hashCode{ public static void function() {javax.crypto.CipherSpi obj = new javax.crypto.CipherSpi();obj.hashCode();}}

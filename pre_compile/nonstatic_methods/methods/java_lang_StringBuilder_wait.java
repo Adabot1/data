@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_wait{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.wait();}}

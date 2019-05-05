@@ -1,1 +1,0 @@
-class java_lang_Math_min{ public static void function() {java.lang.Math.min(1563981898,484276128);}}

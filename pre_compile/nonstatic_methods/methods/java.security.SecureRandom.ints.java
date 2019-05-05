@@ -1,1 +1,0 @@
-class java_security_SecureRandom_ints{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();java.security.SecureRandom.ints(795883398,41463111);}}

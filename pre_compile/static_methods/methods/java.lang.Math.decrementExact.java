@@ -1,1 +1,0 @@
-class java_lang_Math_decrementExact{ public static void function() {java.lang.Math.decrementExact(-56801656);}}

@@ -1,1 +1,0 @@
-class java_util_Calendar_getGreatestMinimum{ public static void function() {java.util.Calendar obj = new java.util.Calendar();java.util.Calendar.getGreatestMinimum(-816707570);}}

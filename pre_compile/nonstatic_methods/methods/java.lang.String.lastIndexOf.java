@@ -1,1 +1,0 @@
-class java_lang_String_lastIndexOf{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.lastIndexOf(534356951,-1161040480);}}

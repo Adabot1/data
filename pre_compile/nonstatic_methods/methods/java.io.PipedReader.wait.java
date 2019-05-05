@@ -1,1 +1,0 @@
-class java_io_PipedReader_wait{ public static void function() {java.io.PipedReader obj = new java.io.PipedReader();java.io.PipedReader.wait();}}

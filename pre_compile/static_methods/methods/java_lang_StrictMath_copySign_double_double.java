@@ -1,0 +1,1 @@
+class java_lang_StrictMath_copySign_double_double{ public static void function() {java.lang.StrictMath.copySign(0.8194423681057701,0.9920287206169194);}}

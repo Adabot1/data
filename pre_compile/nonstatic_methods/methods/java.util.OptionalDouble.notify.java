@@ -1,1 +1,0 @@
-class java_util_OptionalDouble_notify{ public static void function() {java.util.OptionalDouble obj = new java.util.OptionalDouble();java.util.OptionalDouble.notify();}}

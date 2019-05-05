@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLServerSocket_setPerformancePreferences_int_int_int{ public static void function() {javax.net.ssl.SSLServerSocket obj = new javax.net.ssl.SSLServerSocket();obj.setPerformancePreferences(697521317,1751347717,1071921992);}}

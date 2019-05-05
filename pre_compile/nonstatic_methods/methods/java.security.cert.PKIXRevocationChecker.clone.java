@@ -1,1 +1,0 @@
-class java_security_cert_PKIXRevocationChecker_clone{ public static void function() {java.security.cert.PKIXRevocationChecker obj = new java.security.cert.PKIXRevocationChecker();java.security.cert.PKIXRevocationChecker.clone();}}

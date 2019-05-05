@@ -1,0 +1,1 @@
+class java_lang_Double_compare_double_double{ public static void function() {java.lang.Double.compare(0.8169314522708371,0.05531209188776154);}}

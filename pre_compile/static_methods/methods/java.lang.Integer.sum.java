@@ -1,1 +1,0 @@
-class java_lang_Integer_sum{ public static void function() {java.lang.Integer.sum(-1799451380,-1639920127);}}

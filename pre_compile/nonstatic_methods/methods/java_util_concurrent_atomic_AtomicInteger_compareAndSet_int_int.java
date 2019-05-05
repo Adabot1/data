@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicInteger_compareAndSet_int_int{ public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();obj.compareAndSet(1244215447,-1173547635);}}

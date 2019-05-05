@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_setMinimumFractionDigits_int{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();obj.setMinimumFractionDigits(-1789933818);}}

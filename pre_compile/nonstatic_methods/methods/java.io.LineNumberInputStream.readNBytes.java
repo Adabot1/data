@@ -1,1 +1,0 @@
-class java_io_LineNumberInputStream_readNBytes{ public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();java.io.LineNumberInputStream.readNBytes(1723372342);}}

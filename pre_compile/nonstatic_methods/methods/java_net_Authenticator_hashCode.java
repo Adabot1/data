@@ -1,0 +1,1 @@
+class java_net_Authenticator_hashCode{ public static void function() {java.net.Authenticator obj = new java.net.Authenticator();obj.hashCode();}}

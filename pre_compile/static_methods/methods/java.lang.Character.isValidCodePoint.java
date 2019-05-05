@@ -1,1 +1,0 @@
-class java_lang_Character_isValidCodePoint{ public static void function() {java.lang.Character.isValidCodePoint(-930952380);}}

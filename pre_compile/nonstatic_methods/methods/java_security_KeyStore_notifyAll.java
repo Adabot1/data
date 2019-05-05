@@ -1,0 +1,1 @@
+class java_security_KeyStore_notifyAll{ public static void function() {java.security.KeyStore obj = new java.security.KeyStore();obj.notifyAll();}}

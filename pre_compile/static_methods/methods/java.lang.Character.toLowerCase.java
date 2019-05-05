@@ -1,1 +1,0 @@
-class java_lang_Character_toLowerCase{ public static void function() {java.lang.Character.toLowerCase(-1291935854);}}

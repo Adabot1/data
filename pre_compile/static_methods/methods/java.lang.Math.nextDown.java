@@ -1,1 +1,0 @@
-class java_lang_Math_nextDown{ public static void function() {java.lang.Math.nextDown(0.1090630880671376);}}

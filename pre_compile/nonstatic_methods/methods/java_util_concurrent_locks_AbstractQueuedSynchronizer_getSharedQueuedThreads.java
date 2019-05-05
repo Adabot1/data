@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_AbstractQueuedSynchronizer_getSharedQueuedThreads{ public static void function() {java.util.concurrent.locks.AbstractQueuedSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedSynchronizer();obj.getSharedQueuedThreads();}}

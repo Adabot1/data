@@ -1,1 +1,0 @@
-class java_util_OptionalInt_notifyAll{ public static void function() {java.util.OptionalInt obj = new java.util.OptionalInt();java.util.OptionalInt.notifyAll();}}

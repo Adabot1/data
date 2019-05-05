@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_setMethod_int{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.setMethod(-805503433);}}

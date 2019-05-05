@@ -1,0 +1,1 @@
+class java_security_spec_RSAMultiPrimePrivateCrtKeySpec_getModulus{ public static void function() {java.security.spec.RSAMultiPrimePrivateCrtKeySpec obj = new java.security.spec.RSAMultiPrimePrivateCrtKeySpec();obj.getModulus();}}

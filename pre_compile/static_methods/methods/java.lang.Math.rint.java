@@ -1,1 +1,0 @@
-class java_lang_Math_rint{ public static void function() {java.lang.Math.rint(0.6816934084817502);}}

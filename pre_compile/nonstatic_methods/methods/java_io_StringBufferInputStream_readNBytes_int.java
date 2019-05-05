@@ -1,0 +1,1 @@
+class java_io_StringBufferInputStream_readNBytes_int{ public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();obj.readNBytes(-2089139436);}}

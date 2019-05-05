@@ -1,1 +1,0 @@
-class java_lang_Process_wait{ public static void function() {java.lang.Process obj = new java.lang.Process();java.lang.Process.wait();}}

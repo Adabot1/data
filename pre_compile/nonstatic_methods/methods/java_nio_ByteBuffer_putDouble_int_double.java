@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_putDouble_int_double{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.putDouble(-613714009,0.734692401636944);}}

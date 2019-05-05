@@ -1,0 +1,1 @@
+class java_time_Clock_getClass{ public static void function() {java.time.Clock obj = new java.time.Clock();obj.getClass();}}

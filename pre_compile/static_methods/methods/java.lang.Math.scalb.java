@@ -1,1 +1,0 @@
-class java_lang_Math_scalb{ public static void function() {java.lang.Math.scalb(0.813895325781013,-507358823);}}

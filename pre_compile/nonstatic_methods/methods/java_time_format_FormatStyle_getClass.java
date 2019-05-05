@@ -1,0 +1,1 @@
+class java_time_format_FormatStyle_getClass{ public static void function() {java.time.format.FormatStyle obj = new java.time.format.FormatStyle();obj.getClass();}}

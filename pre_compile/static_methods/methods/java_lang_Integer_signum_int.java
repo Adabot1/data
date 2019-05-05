@@ -1,0 +1,1 @@
+class java_lang_Integer_signum_int{ public static void function() {java.lang.Integer.signum(-1476255803);}}

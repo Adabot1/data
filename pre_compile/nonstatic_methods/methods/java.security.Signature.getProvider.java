@@ -1,1 +1,0 @@
-class java_security_Signature_getProvider{ public static void function() {java.security.Signature obj = new java.security.Signature();java.security.Signature.getProvider();}}

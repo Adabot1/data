@@ -1,1 +1,0 @@
-class javax_net_ssl_SSLSocketFactory_getDefaultCipherSuites{ public static void function() {javax.net.ssl.SSLSocketFactory obj = new javax.net.ssl.SSLSocketFactory();javax.net.ssl.SSLSocketFactory.getDefaultCipherSuites();}}

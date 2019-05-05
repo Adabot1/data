@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_getAcquire_int{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.getAcquire(-204396496);}}

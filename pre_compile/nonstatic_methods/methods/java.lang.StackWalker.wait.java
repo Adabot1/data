@@ -1,1 +1,0 @@
-class java_lang_StackWalker_wait{ public static void function() {java.lang.StackWalker obj = new java.lang.StackWalker();java.lang.StackWalker.wait();}}

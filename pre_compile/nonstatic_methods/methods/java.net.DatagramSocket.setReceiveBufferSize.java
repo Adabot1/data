@@ -1,1 +1,0 @@
-class java_net_DatagramSocket_setReceiveBufferSize{ public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();java.net.DatagramSocket.setReceiveBufferSize(13504763);}}

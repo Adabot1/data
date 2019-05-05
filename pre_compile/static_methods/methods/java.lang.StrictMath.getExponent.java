@@ -1,1 +1,0 @@
-class java_lang_StrictMath_getExponent{ public static void function() {java.lang.StrictMath.getExponent(0.2202762918741623);}}

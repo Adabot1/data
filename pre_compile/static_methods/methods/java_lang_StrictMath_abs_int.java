@@ -1,0 +1,1 @@
+class java_lang_StrictMath_abs_int{ public static void function() {java.lang.StrictMath.abs(1658134518);}}

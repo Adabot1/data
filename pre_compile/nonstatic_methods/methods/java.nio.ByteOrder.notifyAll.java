@@ -1,1 +1,0 @@
-class java_nio_ByteOrder_notifyAll{ public static void function() {java.nio.ByteOrder obj = new java.nio.ByteOrder();java.nio.ByteOrder.notifyAll();}}

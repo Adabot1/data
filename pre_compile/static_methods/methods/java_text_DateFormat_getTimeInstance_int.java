@@ -1,0 +1,1 @@
+class java_text_DateFormat_getTimeInstance_int{ public static void function() {java.text.DateFormat.getTimeInstance(1481470188);}}

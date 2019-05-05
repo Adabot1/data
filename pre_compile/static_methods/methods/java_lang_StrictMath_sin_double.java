@@ -1,0 +1,1 @@
+class java_lang_StrictMath_sin_double{ public static void function() {java.lang.StrictMath.sin(0.38403521921674455);}}

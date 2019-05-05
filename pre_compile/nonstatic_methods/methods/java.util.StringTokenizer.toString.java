@@ -1,1 +1,0 @@
-class java_util_StringTokenizer_toString{ public static void function() {java.util.StringTokenizer obj = new java.util.StringTokenizer();java.util.StringTokenizer.toString();}}

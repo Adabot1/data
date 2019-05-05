@@ -1,1 +1,0 @@
-class java_security_SecurityPermission_notify{ public static void function() {java.security.SecurityPermission obj = new java.security.SecurityPermission();java.security.SecurityPermission.notify();}}

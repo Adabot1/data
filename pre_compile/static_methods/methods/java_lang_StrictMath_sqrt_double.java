@@ -1,0 +1,1 @@
+class java_lang_StrictMath_sqrt_double{ public static void function() {java.lang.StrictMath.sqrt(0.34643066287034174);}}

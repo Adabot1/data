@@ -1,1 +1,0 @@
-class java_lang_Integer_rotateRight{ public static void function() {java.lang.Integer.rotateRight(-931096598,-2030189521);}}

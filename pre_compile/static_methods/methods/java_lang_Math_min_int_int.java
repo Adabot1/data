@@ -1,0 +1,1 @@
+class java_lang_Math_min_int_int{ public static void function() {java.lang.Math.min(1334178517,-1031741076);}}

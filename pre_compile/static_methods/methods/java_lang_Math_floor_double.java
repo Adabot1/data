@@ -1,0 +1,1 @@
+class java_lang_Math_floor_double{ public static void function() {java.lang.Math.floor(0.9709756192588662);}}

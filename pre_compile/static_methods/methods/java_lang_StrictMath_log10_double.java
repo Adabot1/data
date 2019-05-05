@@ -1,0 +1,1 @@
+class java_lang_StrictMath_log10_double{ public static void function() {java.lang.StrictMath.log10(0.8675460367228558);}}

@@ -1,0 +1,1 @@
+class java_util_Formatter_close{ public static void function() {java.util.Formatter obj = new java.util.Formatter();obj.close();}}

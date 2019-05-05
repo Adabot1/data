@@ -1,0 +1,1 @@
+class java_util_TimerTask_run{ public static void function() {java.util.TimerTask obj = new java.util.TimerTask();obj.run();}}

@@ -1,0 +1,1 @@
+class java_time_temporal_TemporalQueries_notifyAll{ public static void function() {java.time.temporal.TemporalQueries obj = new java.time.temporal.TemporalQueries();obj.notifyAll();}}

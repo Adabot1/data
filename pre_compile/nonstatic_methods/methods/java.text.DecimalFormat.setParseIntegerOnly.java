@@ -1,1 +1,0 @@
-class java_text_DecimalFormat_setParseIntegerOnly{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setParseIntegerOnly(false);}}

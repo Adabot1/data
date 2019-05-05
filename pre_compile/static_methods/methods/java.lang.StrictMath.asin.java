@@ -1,1 +1,0 @@
-class java_lang_StrictMath_asin{ public static void function() {java.lang.StrictMath.asin(0.6008053997194088);}}

@@ -1,0 +1,1 @@
+class java_util_Random_nextInt_int{ public static void function() {java.util.Random obj = new java.util.Random();obj.nextInt(-507696486);}}

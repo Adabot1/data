@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_setMaximumIntegerDigits_int{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.setMaximumIntegerDigits(1921670043);}}

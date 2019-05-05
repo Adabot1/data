@@ -1,0 +1,1 @@
+class java_util_Collections_getClass{ public static void function() {java.util.Collections obj = new java.util.Collections();obj.getClass();}}

@@ -1,1 +1,0 @@
-class java_time_chrono_ThaiBuddhistDate_of{ public static void function() {java.time.chrono.ThaiBuddhistDate.of(1199721164,1138126666,762187475);}}

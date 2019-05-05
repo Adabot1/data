@@ -1,0 +1,1 @@
+class java_net_CookieManager_notifyAll{ public static void function() {java.net.CookieManager obj = new java.net.CookieManager();obj.notifyAll();}}

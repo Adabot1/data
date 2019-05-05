@@ -1,1 +1,0 @@
-class java_util_concurrent_TimeUnit_notify{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();java.util.concurrent.TimeUnit.notify();}}

@@ -1,1 +1,0 @@
-class java_lang_Math_sqrt{ public static void function() {java.lang.Math.sqrt(0.49682294535849214);}}

@@ -1,1 +1,0 @@
-class java_security_DigestOutputStream_write{ public static void function() {java.security.DigestOutputStream obj = new java.security.DigestOutputStream();java.security.DigestOutputStream.write(-1670271920);}}

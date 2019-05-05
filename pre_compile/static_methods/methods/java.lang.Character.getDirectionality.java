@@ -1,1 +1,0 @@
-class java_lang_Character_getDirectionality{ public static void function() {java.lang.Character.getDirectionality(-1179347641);}}

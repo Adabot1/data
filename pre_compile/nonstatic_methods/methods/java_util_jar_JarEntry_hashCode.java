@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_hashCode{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.hashCode();}}

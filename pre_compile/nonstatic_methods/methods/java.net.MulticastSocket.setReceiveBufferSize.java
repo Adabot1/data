@@ -1,1 +1,0 @@
-class java_net_MulticastSocket_setReceiveBufferSize{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setReceiveBufferSize(-1854687379);}}

@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isPrivate_int{ public static void function() {java.lang.reflect.Modifier.isPrivate(96187364);}}

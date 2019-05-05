@@ -1,0 +1,1 @@
+class java_security_PermissionCollection_notify{ public static void function() {java.security.PermissionCollection obj = new java.security.PermissionCollection();obj.notify();}}

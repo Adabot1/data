@@ -1,1 +1,0 @@
-class java_lang_Math_hypot{ public static void function() {java.lang.Math.hypot(0.6039475961336278,0.03013727530875343);}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLContext_wait{ public static void function() {javax.net.ssl.SSLContext obj = new javax.net.ssl.SSLContext();obj.wait();}}

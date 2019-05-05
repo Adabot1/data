@@ -1,1 +1,0 @@
-class java_text_FieldPosition_hashCode{ public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();java.text.FieldPosition.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_security_cert_Certificate_getClass{ public static void function() {javax.security.cert.Certificate obj = new javax.security.cert.Certificate();obj.getClass();}}

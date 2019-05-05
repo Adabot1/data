@@ -1,0 +1,1 @@
+class java_security_ProtectionDomain_toString{ public static void function() {java.security.ProtectionDomain obj = new java.security.ProtectionDomain();obj.toString();}}

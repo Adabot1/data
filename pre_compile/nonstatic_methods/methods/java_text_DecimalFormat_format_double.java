@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_format_double{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.format(0.1382493608791564);}}

@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_withMinute_int{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.withMinute(801962895);}}

@@ -1,1 +1,0 @@
-class java_net_URLDecoder_getClass{ public static void function() {java.net.URLDecoder obj = new java.net.URLDecoder();java.net.URLDecoder.getClass();}}

@@ -1,1 +1,0 @@
-class java_lang_reflect_Modifier_isStrict{ public static void function() {java.lang.reflect.Modifier.isStrict(998962798);}}

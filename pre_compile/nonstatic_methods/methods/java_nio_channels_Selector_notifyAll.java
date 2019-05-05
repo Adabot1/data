@@ -1,0 +1,1 @@
+class java_nio_channels_Selector_notifyAll{ public static void function() {java.nio.channels.Selector obj = new java.nio.channels.Selector();obj.notifyAll();}}

@@ -1,1 +1,0 @@
-class java_util_zip_Adler32_update{ public static void function() {java.util.zip.Adler32 obj = new java.util.zip.Adler32();java.util.zip.Adler32.update(-413566756);}}

@@ -1,1 +1,0 @@
-class javax_crypto_MacSpi_toString{ public static void function() {javax.crypto.MacSpi obj = new javax.crypto.MacSpi();javax.crypto.MacSpi.toString();}}

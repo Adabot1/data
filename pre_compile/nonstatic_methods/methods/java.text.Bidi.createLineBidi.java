@@ -1,1 +1,0 @@
-class java_text_Bidi_createLineBidi{ public static void function() {java.text.Bidi obj = new java.text.Bidi();java.text.Bidi.createLineBidi(-2046141511,-182815348);}}

@@ -1,0 +1,1 @@
+class java_io_PushbackInputStream_available{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();obj.available();}}

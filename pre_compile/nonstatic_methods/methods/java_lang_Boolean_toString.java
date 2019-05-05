@@ -1,0 +1,1 @@
+class java_lang_Boolean_toString{ public static void function() {java.lang.Boolean obj = new java.lang.Boolean();obj.toString();}}

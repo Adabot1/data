@@ -1,1 +1,0 @@
-class java_lang_StrictMath_multiplyExact{ public static void function() {java.lang.StrictMath.multiplyExact(-867525088,267499664);}}

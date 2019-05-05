@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_putShort_int_short{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.putShort(-1166891634,-13920);}}

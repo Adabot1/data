@@ -1,1 +1,0 @@
-class java_io_PushbackReader_notifyAll{ public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();java.io.PushbackReader.notifyAll();}}

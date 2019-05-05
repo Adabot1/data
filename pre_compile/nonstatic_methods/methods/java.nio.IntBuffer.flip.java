@@ -1,1 +1,0 @@
-class java_nio_IntBuffer_flip{ public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();java.nio.IntBuffer.flip();}}

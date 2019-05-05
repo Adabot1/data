@@ -1,1 +1,0 @@
-class java_lang_invoke_MethodType_dropParameterTypes{ public static void function() {java.lang.invoke.MethodType obj = new java.lang.invoke.MethodType();java.lang.invoke.MethodType.dropParameterTypes(-2008667646,-420620043);}}

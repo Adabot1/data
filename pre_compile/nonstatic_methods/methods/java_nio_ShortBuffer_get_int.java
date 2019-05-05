@@ -1,0 +1,1 @@
+class java_nio_ShortBuffer_get_int{ public static void function() {java.nio.ShortBuffer obj = new java.nio.ShortBuffer();obj.get(1877269866);}}

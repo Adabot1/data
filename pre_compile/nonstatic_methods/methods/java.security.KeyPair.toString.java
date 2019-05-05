@@ -1,1 +1,0 @@
-class java_security_KeyPair_toString{ public static void function() {java.security.KeyPair obj = new java.security.KeyPair();java.security.KeyPair.toString();}}

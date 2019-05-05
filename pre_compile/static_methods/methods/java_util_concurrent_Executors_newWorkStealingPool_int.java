@@ -1,0 +1,1 @@
+class java_util_concurrent_Executors_newWorkStealingPool_int{ public static void function() {java.util.concurrent.Executors.newWorkStealingPool(-589056012);}}

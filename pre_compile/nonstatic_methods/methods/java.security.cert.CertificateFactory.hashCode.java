@@ -1,1 +1,0 @@
-class java_security_cert_CertificateFactory_hashCode{ public static void function() {java.security.cert.CertificateFactory obj = new java.security.cert.CertificateFactory();java.security.cert.CertificateFactory.hashCode();}}

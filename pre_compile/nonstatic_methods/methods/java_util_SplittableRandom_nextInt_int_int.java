@@ -1,0 +1,1 @@
+class java_util_SplittableRandom_nextInt_int_int{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();obj.nextInt(-895715123,1755483774);}}

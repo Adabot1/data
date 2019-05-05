@@ -1,0 +1,1 @@
+class java_util_concurrent_CyclicBarrier_hashCode{ public static void function() {java.util.concurrent.CyclicBarrier obj = new java.util.concurrent.CyclicBarrier();obj.hashCode();}}

@@ -1,1 +1,0 @@
-class java_time_LocalTime_getClass{ public static void function() {java.time.LocalTime obj = new java.time.LocalTime();java.time.LocalTime.getClass();}}

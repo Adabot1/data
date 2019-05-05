@@ -1,1 +1,0 @@
-class java_security_MessageDigest_getAlgorithm{ public static void function() {java.security.MessageDigest obj = new java.security.MessageDigest();java.security.MessageDigest.getAlgorithm();}}

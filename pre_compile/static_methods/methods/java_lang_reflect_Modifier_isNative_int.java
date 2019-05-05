@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isNative_int{ public static void function() {java.lang.reflect.Modifier.isNative(1154669477);}}

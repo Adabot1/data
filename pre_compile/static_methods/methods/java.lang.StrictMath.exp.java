@@ -1,1 +1,0 @@
-class java_lang_StrictMath_exp{ public static void function() {java.lang.StrictMath.exp(0.450508654833886);}}

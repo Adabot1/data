@@ -1,0 +1,1 @@
+class java_net_HttpCookie_getClass{ public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();obj.getClass();}}

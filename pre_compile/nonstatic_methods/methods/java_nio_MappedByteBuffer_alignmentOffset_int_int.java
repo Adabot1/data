@@ -1,0 +1,1 @@
+class java_nio_MappedByteBuffer_alignmentOffset_int_int{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();obj.alignmentOffset(1848234856,-1529994959);}}

@@ -1,1 +1,0 @@
-class java_security_spec_ECPublicKeySpec_getParams{ public static void function() {java.security.spec.ECPublicKeySpec obj = new java.security.spec.ECPublicKeySpec();java.security.spec.ECPublicKeySpec.getParams();}}

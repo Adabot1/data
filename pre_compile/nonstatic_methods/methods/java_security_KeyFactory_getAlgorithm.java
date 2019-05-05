@@ -1,0 +1,1 @@
+class java_security_KeyFactory_getAlgorithm{ public static void function() {java.security.KeyFactory obj = new java.security.KeyFactory();obj.getAlgorithm();}}

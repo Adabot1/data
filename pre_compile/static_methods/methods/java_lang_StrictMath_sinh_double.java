@@ -1,0 +1,1 @@
+class java_lang_StrictMath_sinh_double{ public static void function() {java.lang.StrictMath.sinh(0.10686656947607354);}}

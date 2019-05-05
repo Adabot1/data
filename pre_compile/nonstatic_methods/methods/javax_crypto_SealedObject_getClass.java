@@ -1,0 +1,1 @@
+class javax_crypto_SealedObject_getClass{ public static void function() {javax.crypto.SealedObject obj = new javax.crypto.SealedObject();obj.getClass();}}

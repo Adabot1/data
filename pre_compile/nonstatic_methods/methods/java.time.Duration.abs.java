@@ -1,1 +1,0 @@
-class java_time_Duration_abs{ public static void function() {java.time.Duration obj = new java.time.Duration();java.time.Duration.abs();}}

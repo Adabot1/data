@@ -1,0 +1,1 @@
+class java_io_BufferedOutputStream_getClass{ public static void function() {java.io.BufferedOutputStream obj = new java.io.BufferedOutputStream();obj.getClass();}}

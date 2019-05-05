@@ -1,1 +1,0 @@
-class java_security_KeyPairGenerator_getClass{ public static void function() {java.security.KeyPairGenerator obj = new java.security.KeyPairGenerator();java.security.KeyPairGenerator.getClass();}}

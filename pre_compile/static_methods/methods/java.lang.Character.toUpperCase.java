@@ -1,1 +1,0 @@
-class java_lang_Character_toUpperCase{ public static void function() {java.lang.Character.toUpperCase(-1357728172);}}

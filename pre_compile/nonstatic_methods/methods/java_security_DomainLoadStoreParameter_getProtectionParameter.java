@@ -1,0 +1,1 @@
+class java_security_DomainLoadStoreParameter_getProtectionParameter{ public static void function() {java.security.DomainLoadStoreParameter obj = new java.security.DomainLoadStoreParameter();obj.getProtectionParameter();}}

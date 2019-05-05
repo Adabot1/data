@@ -1,0 +1,1 @@
+class java_security_Signer_toString{ public static void function() {java.security.Signer obj = new java.security.Signer();obj.toString();}}

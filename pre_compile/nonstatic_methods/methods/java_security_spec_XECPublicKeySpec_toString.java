@@ -1,0 +1,1 @@
+class java_security_spec_XECPublicKeySpec_toString{ public static void function() {java.security.spec.XECPublicKeySpec obj = new java.security.spec.XECPublicKeySpec();obj.toString();}}

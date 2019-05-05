@@ -1,1 +1,0 @@
-class java_security_AuthProvider_logout{ public static void function() {java.security.AuthProvider obj = new java.security.AuthProvider();java.security.AuthProvider.logout();}}

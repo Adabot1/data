@@ -1,1 +1,0 @@
-class java_math_BigDecimal_scale{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.scale();}}

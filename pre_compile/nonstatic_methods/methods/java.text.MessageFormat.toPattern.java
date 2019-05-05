@@ -1,1 +1,0 @@
-class java_text_MessageFormat_toPattern{ public static void function() {java.text.MessageFormat obj = new java.text.MessageFormat();java.text.MessageFormat.toPattern();}}

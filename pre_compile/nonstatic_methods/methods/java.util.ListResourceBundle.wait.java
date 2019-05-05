@@ -1,1 +1,0 @@
-class java_util_ListResourceBundle_wait{ public static void function() {java.util.ListResourceBundle obj = new java.util.ListResourceBundle();java.util.ListResourceBundle.wait();}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_cbrt_double{ public static void function() {java.lang.StrictMath.cbrt(0.9963480736365293);}}

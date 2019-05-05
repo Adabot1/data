@@ -1,1 +1,0 @@
-class java_lang_Void_wait{ public static void function() {java.lang.Void obj = new java.lang.Void();java.lang.Void.wait();}}

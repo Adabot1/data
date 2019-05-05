@@ -1,1 +1,0 @@
-class java_io_SequenceInputStream_getClass{ public static void function() {java.io.SequenceInputStream obj = new java.io.SequenceInputStream();java.io.SequenceInputStream.getClass();}}

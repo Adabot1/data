@@ -1,1 +1,0 @@
-class java_util_TimerTask_cancel{ public static void function() {java.util.TimerTask obj = new java.util.TimerTask();java.util.TimerTask.cancel();}}

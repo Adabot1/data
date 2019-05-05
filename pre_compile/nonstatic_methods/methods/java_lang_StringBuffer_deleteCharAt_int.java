@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_deleteCharAt_int{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.deleteCharAt(-1886356805);}}

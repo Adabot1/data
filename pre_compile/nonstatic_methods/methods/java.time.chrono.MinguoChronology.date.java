@@ -1,1 +1,0 @@
-class java_time_chrono_MinguoChronology_date{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();java.time.chrono.MinguoChronology.date(1156580467,89213058,-117211453);}}

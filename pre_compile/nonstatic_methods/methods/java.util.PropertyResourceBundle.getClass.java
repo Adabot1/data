@@ -1,1 +1,0 @@
-class java_util_PropertyResourceBundle_getClass{ public static void function() {java.util.PropertyResourceBundle obj = new java.util.PropertyResourceBundle();java.util.PropertyResourceBundle.getClass();}}

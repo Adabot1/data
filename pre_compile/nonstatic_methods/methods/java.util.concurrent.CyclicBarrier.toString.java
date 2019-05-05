@@ -1,1 +1,0 @@
-class java_util_concurrent_CyclicBarrier_toString{ public static void function() {java.util.concurrent.CyclicBarrier obj = new java.util.concurrent.CyclicBarrier();java.util.concurrent.CyclicBarrier.toString();}}

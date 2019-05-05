@@ -1,1 +1,0 @@
-class java_util_zip_CheckedInputStream_readNBytes{ public static void function() {java.util.zip.CheckedInputStream obj = new java.util.zip.CheckedInputStream();java.util.zip.CheckedInputStream.readNBytes(-330350998);}}

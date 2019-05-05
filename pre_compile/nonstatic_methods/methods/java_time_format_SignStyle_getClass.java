@@ -1,0 +1,1 @@
+class java_time_format_SignStyle_getClass{ public static void function() {java.time.format.SignStyle obj = new java.time.format.SignStyle();obj.getClass();}}

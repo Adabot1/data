@@ -1,1 +1,0 @@
-class java_lang_StrictMath_expm1{ public static void function() {java.lang.StrictMath.expm1(0.33304921912233687);}}

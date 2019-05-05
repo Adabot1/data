@@ -1,1 +1,0 @@
-class java_lang_Double_byteValue{ public static void function() {java.lang.Double obj = new java.lang.Double();java.lang.Double.byteValue();}}

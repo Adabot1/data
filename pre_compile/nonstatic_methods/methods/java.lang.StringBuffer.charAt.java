@@ -1,1 +1,0 @@
-class java_lang_StringBuffer_charAt{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.charAt(720918606);}}

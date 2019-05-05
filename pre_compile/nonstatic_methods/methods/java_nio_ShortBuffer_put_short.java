@@ -1,0 +1,1 @@
+class java_nio_ShortBuffer_put_short{ public static void function() {java.nio.ShortBuffer obj = new java.nio.ShortBuffer();obj.put(-17118);}}

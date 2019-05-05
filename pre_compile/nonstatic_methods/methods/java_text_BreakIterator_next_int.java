@@ -1,0 +1,1 @@
+class java_text_BreakIterator_next_int{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();obj.next(-650813990);}}

@@ -1,1 +1,0 @@
-class java_lang_StrictMath_wait{ public static void function() {java.lang.StrictMath obj = new java.lang.StrictMath();java.lang.StrictMath.wait();}}

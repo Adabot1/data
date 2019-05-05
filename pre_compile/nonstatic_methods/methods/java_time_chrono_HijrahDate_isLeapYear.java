@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahDate_isLeapYear{ public static void function() {java.time.chrono.HijrahDate obj = new java.time.chrono.HijrahDate();obj.isLeapYear();}}

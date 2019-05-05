@@ -1,1 +1,0 @@
-class java_lang_StrictMath_toDegrees{ public static void function() {java.lang.StrictMath.toDegrees(0.7081582009075851);}}

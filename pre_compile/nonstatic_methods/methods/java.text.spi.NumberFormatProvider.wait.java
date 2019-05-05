@@ -1,1 +1,0 @@
-class java_text_spi_NumberFormatProvider_wait{ public static void function() {java.text.spi.NumberFormatProvider obj = new java.text.spi.NumberFormatProvider();java.text.spi.NumberFormatProvider.wait();}}

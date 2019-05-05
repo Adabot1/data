@@ -1,1 +1,0 @@
-class java_time_chrono_ThaiBuddhistEra_of{ public static void function() {java.time.chrono.ThaiBuddhistEra.of(-1563654841);}}

@@ -1,1 +1,0 @@
-class java_security_KeyFactory_toString{ public static void function() {java.security.KeyFactory obj = new java.security.KeyFactory();java.security.KeyFactory.toString();}}

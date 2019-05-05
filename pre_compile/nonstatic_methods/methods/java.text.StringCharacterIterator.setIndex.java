@@ -1,1 +1,0 @@
-class java_text_StringCharacterIterator_setIndex{ public static void function() {java.text.StringCharacterIterator obj = new java.text.StringCharacterIterator();java.text.StringCharacterIterator.setIndex(1000561474);}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLSocketFactory_getClass{ public static void function() {javax.net.ssl.SSLSocketFactory obj = new javax.net.ssl.SSLSocketFactory();obj.getClass();}}

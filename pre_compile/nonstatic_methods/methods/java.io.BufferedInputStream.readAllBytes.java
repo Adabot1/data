@@ -1,1 +1,0 @@
-class java_io_BufferedInputStream_readAllBytes{ public static void function() {java.io.BufferedInputStream obj = new java.io.BufferedInputStream();java.io.BufferedInputStream.readAllBytes();}}

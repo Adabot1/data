@@ -1,1 +1,0 @@
-class java_security_spec_ECGenParameterSpec_wait{ public static void function() {java.security.spec.ECGenParameterSpec obj = new java.security.spec.ECGenParameterSpec();java.security.spec.ECGenParameterSpec.wait();}}

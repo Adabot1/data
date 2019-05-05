@@ -1,1 +1,0 @@
-class java_time_ZonedDateTime_getNano{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();java.time.ZonedDateTime.getNano();}}

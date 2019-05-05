@@ -1,1 +1,0 @@
-class javax_security_auth_login_Configuration_getType{ public static void function() {javax.security.auth.login.Configuration obj = new javax.security.auth.login.Configuration();javax.security.auth.login.Configuration.getType();}}

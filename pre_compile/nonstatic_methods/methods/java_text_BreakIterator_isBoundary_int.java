@@ -1,0 +1,1 @@
+class java_text_BreakIterator_isBoundary_int{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();obj.isBoundary(-160399371);}}

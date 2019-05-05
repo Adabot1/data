@@ -1,1 +1,0 @@
-class java_net_HttpURLConnection_setDefaultAllowUserInteraction{ public static void function() {java.net.HttpURLConnection.setDefaultAllowUserInteraction(false);}}

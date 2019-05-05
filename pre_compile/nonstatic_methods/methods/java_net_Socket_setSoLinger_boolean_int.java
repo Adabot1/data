@@ -1,0 +1,1 @@
+class java_net_Socket_setSoLinger_boolean_int{ public static void function() {java.net.Socket obj = new java.net.Socket();obj.setSoLinger(false,1563463815);}}

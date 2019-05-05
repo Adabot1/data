@@ -1,0 +1,1 @@
+class java_io_StringReader_toString{ public static void function() {java.io.StringReader obj = new java.io.StringReader();obj.toString();}}

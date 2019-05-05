@@ -1,1 +1,0 @@
-class java_lang_Byte_compare{ public static void function() {java.lang.Byte.compare([B@727803de,[B@704921a5);}}

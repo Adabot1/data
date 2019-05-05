@@ -1,1 +1,0 @@
-class java_lang_Math_fma{ public static void function() {java.lang.Math.fma(0.5472051487611906,0.3054553702243258,0.15241971525759346);}}

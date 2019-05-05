@@ -1,1 +1,0 @@
-class java_lang_Math_nextAfter{ public static void function() {java.lang.Math.nextAfter(0.0681931454373984,0.4308424157104185);}}

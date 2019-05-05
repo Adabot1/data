@@ -1,1 +1,0 @@
-class java_util_zip_ZipOutputStream_setMethod{ public static void function() {java.util.zip.ZipOutputStream obj = new java.util.zip.ZipOutputStream();java.util.zip.ZipOutputStream.setMethod(-1477948583);}}

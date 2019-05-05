@@ -1,0 +1,1 @@
+class java_lang_Integer_valueOf_int{ public static void function() {java.lang.Integer.valueOf(-1710075425);}}

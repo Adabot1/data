@@ -1,1 +1,0 @@
-class java_lang_Byte_compareUnsigned{ public static void function() {java.lang.Byte.compareUnsigned([B@16f7c8c1,[B@2f0a87b3);}}

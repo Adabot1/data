@@ -1,0 +1,1 @@
+class java_text_Bidi_getRunLevel_int{ public static void function() {java.text.Bidi obj = new java.text.Bidi();obj.getRunLevel(-345269585);}}

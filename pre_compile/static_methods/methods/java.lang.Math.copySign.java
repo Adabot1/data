@@ -1,1 +1,0 @@
-class java_lang_Math_copySign{ public static void function() {java.lang.Math.copySign(0.14240238437227193,0.013465225836207462);}}

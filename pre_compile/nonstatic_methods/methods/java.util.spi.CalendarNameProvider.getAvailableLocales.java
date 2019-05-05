@@ -1,1 +1,0 @@
-class java_util_spi_CalendarNameProvider_getAvailableLocales{ public static void function() {java.util.spi.CalendarNameProvider obj = new java.util.spi.CalendarNameProvider();java.util.spi.CalendarNameProvider.getAvailableLocales();}}

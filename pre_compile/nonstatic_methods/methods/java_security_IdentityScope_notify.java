@@ -1,0 +1,1 @@
+class java_security_IdentityScope_notify{ public static void function() {java.security.IdentityScope obj = new java.security.IdentityScope();obj.notify();}}

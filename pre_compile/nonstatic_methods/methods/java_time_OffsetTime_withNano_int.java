@@ -1,0 +1,1 @@
+class java_time_OffsetTime_withNano_int{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();obj.withNano(273950180);}}

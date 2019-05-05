@@ -1,1 +1,0 @@
-class java_lang_Boolean_logicalAnd{ public static void function() {java.lang.Boolean.logicalAnd(true,true);}}

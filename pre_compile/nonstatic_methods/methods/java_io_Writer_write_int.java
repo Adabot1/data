@@ -1,0 +1,1 @@
+class java_io_Writer_write_int{ public static void function() {java.io.Writer obj = new java.io.Writer();obj.write(-286745003);}}

@@ -1,0 +1,1 @@
+class java_net_Inet4Address_isLoopbackAddress{ public static void function() {java.net.Inet4Address obj = new java.net.Inet4Address();obj.isLoopbackAddress();}}

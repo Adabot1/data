@@ -1,0 +1,1 @@
+class java_util_StringTokenizer_nextElement{ public static void function() {java.util.StringTokenizer obj = new java.util.StringTokenizer();obj.nextElement();}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_nextUp_double{ public static void function() {java.lang.StrictMath.nextUp(0.5801193888612164);}}

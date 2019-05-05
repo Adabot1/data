@@ -1,0 +1,1 @@
+class java_net_InetSocketAddress_notify{ public static void function() {java.net.InetSocketAddress obj = new java.net.InetSocketAddress();obj.notify();}}

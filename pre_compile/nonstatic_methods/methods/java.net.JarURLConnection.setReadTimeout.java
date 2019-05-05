@@ -1,1 +1,0 @@
-class java_net_JarURLConnection_setReadTimeout{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.setReadTimeout(98992402);}}

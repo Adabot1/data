@@ -1,0 +1,1 @@
+class javax_net_ssl_HttpsURLConnection_setDoOutput_boolean{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();obj.setDoOutput(false);}}

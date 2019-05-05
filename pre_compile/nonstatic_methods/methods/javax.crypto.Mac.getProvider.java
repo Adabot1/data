@@ -1,1 +1,0 @@
-class javax_crypto_Mac_getProvider{ public static void function() {javax.crypto.Mac obj = new javax.crypto.Mac();javax.crypto.Mac.getProvider();}}

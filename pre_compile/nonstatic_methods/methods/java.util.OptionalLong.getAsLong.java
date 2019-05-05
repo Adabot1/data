@@ -1,1 +1,0 @@
-class java_util_OptionalLong_getAsLong{ public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();java.util.OptionalLong.getAsLong();}}

@@ -1,0 +1,1 @@
+class java_net_HttpURLConnection_setConnectTimeout_int{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();obj.setConnectTimeout(347507822);}}

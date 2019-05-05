@@ -1,1 +1,0 @@
-class java_nio_IntBuffer_wait{ public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();java.nio.IntBuffer.wait();}}

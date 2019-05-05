@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_setMinimumFractionDigits_int{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.setMinimumFractionDigits(508523361);}}

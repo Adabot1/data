@@ -1,0 +1,1 @@
+class java_text_Bidi_hashCode{ public static void function() {java.text.Bidi obj = new java.text.Bidi();obj.hashCode();}}

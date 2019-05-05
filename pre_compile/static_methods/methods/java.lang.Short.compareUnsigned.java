@@ -1,1 +1,0 @@
-class java_lang_Short_compareUnsigned{ public static void function() {java.lang.Short.compareUnsigned(2628,-4578);}}

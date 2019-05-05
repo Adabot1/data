@@ -1,0 +1,1 @@
+class java_util_ListResourceBundle_hashCode{ public static void function() {java.util.ListResourceBundle obj = new java.util.ListResourceBundle();obj.hashCode();}}

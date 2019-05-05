@@ -1,1 +1,0 @@
-class java_lang_Byte_shortValue{ public static void function() {java.lang.Byte obj = new java.lang.Byte();java.lang.Byte.shortValue();}}

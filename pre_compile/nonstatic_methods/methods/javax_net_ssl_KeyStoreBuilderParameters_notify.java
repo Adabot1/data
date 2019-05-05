@@ -1,0 +1,1 @@
+class javax_net_ssl_KeyStoreBuilderParameters_notify{ public static void function() {javax.net.ssl.KeyStoreBuilderParameters obj = new javax.net.ssl.KeyStoreBuilderParameters();obj.notify();}}

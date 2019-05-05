@@ -1,0 +1,1 @@
+class java_util_Base64_notify{ public static void function() {java.util.Base64 obj = new java.util.Base64();obj.notify();}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_StandardConstants_hashCode{ public static void function() {javax.net.ssl.StandardConstants obj = new javax.net.ssl.StandardConstants();obj.hashCode();}}

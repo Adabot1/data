@@ -1,1 +1,0 @@
-class java_net_JarURLConnection_getOutputStream{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();java.net.JarURLConnection.getOutputStream();}}

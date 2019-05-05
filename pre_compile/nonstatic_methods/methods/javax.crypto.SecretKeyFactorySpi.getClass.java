@@ -1,1 +1,0 @@
-class javax_crypto_SecretKeyFactorySpi_getClass{ public static void function() {javax.crypto.SecretKeyFactorySpi obj = new javax.crypto.SecretKeyFactorySpi();javax.crypto.SecretKeyFactorySpi.getClass();}}

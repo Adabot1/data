@@ -1,1 +1,0 @@
-class javax_security_cert_Certificate_notifyAll{ public static void function() {javax.security.cert.Certificate obj = new javax.security.cert.Certificate();javax.security.cert.Certificate.notifyAll();}}

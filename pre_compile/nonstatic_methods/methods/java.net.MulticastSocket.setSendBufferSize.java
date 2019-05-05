@@ -1,1 +1,0 @@
-class java_net_MulticastSocket_setSendBufferSize{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();java.net.MulticastSocket.setSendBufferSize(1010807924);}}

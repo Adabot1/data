@@ -1,1 +1,0 @@
-class java_lang_Thread_setPriority{ public static void function() {java.lang.Thread obj = new java.lang.Thread();java.lang.Thread.setPriority(-755640496);}}

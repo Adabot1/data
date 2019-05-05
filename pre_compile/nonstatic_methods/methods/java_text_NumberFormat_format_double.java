@@ -1,0 +1,1 @@
+class java_text_NumberFormat_format_double{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();obj.format(0.6922740549196306);}}

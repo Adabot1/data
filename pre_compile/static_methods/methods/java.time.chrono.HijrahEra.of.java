@@ -1,1 +1,0 @@
-class java_time_chrono_HijrahEra_of{ public static void function() {java.time.chrono.HijrahEra.of(-650911647);}}

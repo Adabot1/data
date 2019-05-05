@@ -1,1 +1,0 @@
-class java_net_URI_getRawUserInfo{ public static void function() {java.net.URI obj = new java.net.URI();java.net.URI.getRawUserInfo();}}

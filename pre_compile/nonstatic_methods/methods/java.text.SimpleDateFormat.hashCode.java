@@ -1,1 +1,0 @@
-class java_text_SimpleDateFormat_hashCode{ public static void function() {java.text.SimpleDateFormat obj = new java.text.SimpleDateFormat();java.text.SimpleDateFormat.hashCode();}}

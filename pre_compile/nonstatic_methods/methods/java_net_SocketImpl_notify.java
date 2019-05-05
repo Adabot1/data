@@ -1,0 +1,1 @@
+class java_net_SocketImpl_notify{ public static void function() {java.net.SocketImpl obj = new java.net.SocketImpl();obj.notify();}}

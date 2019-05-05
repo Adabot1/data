@@ -1,0 +1,1 @@
+class java_lang_Math_getExponent_double{ public static void function() {java.lang.Math.getExponent(0.5326321685145039);}}

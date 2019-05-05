@@ -1,1 +1,0 @@
-class java_time_Instant_getNano{ public static void function() {java.time.Instant obj = new java.time.Instant();java.time.Instant.getNano();}}

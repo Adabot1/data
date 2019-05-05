@@ -1,1 +1,0 @@
-class java_lang_System_exit{ public static void function() {java.lang.System.exit(-832380465);}}

@@ -1,0 +1,1 @@
+class java_lang_Character_charCount_int{ public static void function() {java.lang.Character.charCount(-2047972396);}}

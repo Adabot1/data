@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isInterface_int{ public static void function() {java.lang.reflect.Modifier.isInterface(-900571550);}}

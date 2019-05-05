@@ -1,0 +1,1 @@
+class java_lang_Integer_hashCode_int{ public static void function() {java.lang.Integer.hashCode(-1016638924);}}

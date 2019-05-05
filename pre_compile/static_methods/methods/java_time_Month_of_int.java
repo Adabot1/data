@@ -1,0 +1,1 @@
+class java_time_Month_of_int{ public static void function() {java.time.Month.of(-402696967);}}

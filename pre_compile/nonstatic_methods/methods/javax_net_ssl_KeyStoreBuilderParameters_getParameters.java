@@ -1,0 +1,1 @@
+class javax_net_ssl_KeyStoreBuilderParameters_getParameters{ public static void function() {javax.net.ssl.KeyStoreBuilderParameters obj = new javax.net.ssl.KeyStoreBuilderParameters();obj.getParameters();}}

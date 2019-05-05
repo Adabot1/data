@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahChronology_period_int_int_int{ public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();obj.period(1267742081,-1749011985,718335358);}}

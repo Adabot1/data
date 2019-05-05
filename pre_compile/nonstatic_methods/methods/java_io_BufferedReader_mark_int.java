@@ -1,0 +1,1 @@
+class java_io_BufferedReader_mark_int{ public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();obj.mark(1233530260);}}

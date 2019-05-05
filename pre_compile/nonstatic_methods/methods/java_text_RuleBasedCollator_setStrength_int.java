@@ -1,0 +1,1 @@
+class java_text_RuleBasedCollator_setStrength_int{ public static void function() {java.text.RuleBasedCollator obj = new java.text.RuleBasedCollator();obj.setStrength(1046981959);}}

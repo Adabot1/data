@@ -1,0 +1,1 @@
+class java_net_URLDecoder_toString{ public static void function() {java.net.URLDecoder obj = new java.net.URLDecoder();obj.toString();}}

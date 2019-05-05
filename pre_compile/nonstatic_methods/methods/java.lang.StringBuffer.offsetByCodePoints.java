@@ -1,1 +1,0 @@
-class java_lang_StringBuffer_offsetByCodePoints{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.offsetByCodePoints(1588399603,1266504298);}}

@@ -1,1 +1,0 @@
-class java_lang_Math_negateExact{ public static void function() {java.lang.Math.negateExact(-763774031);}}

@@ -1,0 +1,1 @@
+class java_io_FileDescriptor_notifyAll{ public static void function() {java.io.FileDescriptor obj = new java.io.FileDescriptor();obj.notifyAll();}}

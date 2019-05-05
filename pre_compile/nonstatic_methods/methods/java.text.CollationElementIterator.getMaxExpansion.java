@@ -1,1 +1,0 @@
-class java_text_CollationElementIterator_getMaxExpansion{ public static void function() {java.text.CollationElementIterator obj = new java.text.CollationElementIterator();java.text.CollationElementIterator.getMaxExpansion(-1938876828);}}

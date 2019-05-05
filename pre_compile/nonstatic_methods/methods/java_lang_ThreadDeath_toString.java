@@ -1,0 +1,1 @@
+class java_lang_ThreadDeath_toString{ public static void function() {java.lang.ThreadDeath obj = new java.lang.ThreadDeath();obj.toString();}}

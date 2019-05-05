@@ -1,0 +1,1 @@
+class java_lang_StrictMath_floor_double{ public static void function() {java.lang.StrictMath.floor(0.7039355455819141);}}

@@ -1,1 +1,0 @@
-class java_time_ZoneId_notifyAll{ public static void function() {java.time.ZoneId obj = new java.time.ZoneId();java.time.ZoneId.notifyAll();}}

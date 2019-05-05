@@ -1,0 +1,1 @@
+class java_io_FileReader_read{ public static void function() {java.io.FileReader obj = new java.io.FileReader();obj.read();}}

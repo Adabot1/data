@@ -1,1 +1,0 @@
-class java_io_PipedInputStream_reset{ public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();java.io.PipedInputStream.reset();}}

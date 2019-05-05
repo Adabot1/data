@@ -1,0 +1,1 @@
+class java_security_AlgorithmParametersSpi_toString{ public static void function() {java.security.AlgorithmParametersSpi obj = new java.security.AlgorithmParametersSpi();obj.toString();}}

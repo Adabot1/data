@@ -1,0 +1,1 @@
+class java_net_Proxy_notifyAll{ public static void function() {java.net.Proxy obj = new java.net.Proxy();obj.notifyAll();}}

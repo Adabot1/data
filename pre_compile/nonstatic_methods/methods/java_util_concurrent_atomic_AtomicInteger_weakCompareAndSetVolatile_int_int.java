@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicInteger_weakCompareAndSetVolatile_int_int{ public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();obj.weakCompareAndSetVolatile(471928133,-683907150);}}

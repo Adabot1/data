@@ -1,1 +1,0 @@
-class java_io_RandomAccessFile_readUTF{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.readUTF();}}

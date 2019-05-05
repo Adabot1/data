@@ -1,0 +1,1 @@
+class java_security_cert_PKIXCertPathValidatorResult_clone{ public static void function() {java.security.cert.PKIXCertPathValidatorResult obj = new java.security.cert.PKIXCertPathValidatorResult();obj.clone();}}

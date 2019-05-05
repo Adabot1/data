@@ -1,1 +1,0 @@
-class java_time_Period_ofMonths{ public static void function() {java.time.Period.ofMonths(-793834352);}}

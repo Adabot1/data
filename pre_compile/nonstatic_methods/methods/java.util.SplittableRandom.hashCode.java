@@ -1,1 +1,0 @@
-class java_util_SplittableRandom_hashCode{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();java.util.SplittableRandom.hashCode();}}

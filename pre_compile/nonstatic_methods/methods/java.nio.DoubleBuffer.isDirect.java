@@ -1,1 +1,0 @@
-class java_nio_DoubleBuffer_isDirect{ public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();java.nio.DoubleBuffer.isDirect();}}

@@ -1,0 +1,1 @@
+class java_time_format_ResolverStyle_name{ public static void function() {java.time.format.ResolverStyle obj = new java.time.format.ResolverStyle();obj.name();}}

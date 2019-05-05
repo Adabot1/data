@@ -1,1 +1,0 @@
-class java_net_Authenticator_toString{ public static void function() {java.net.Authenticator obj = new java.net.Authenticator();java.net.Authenticator.toString();}}

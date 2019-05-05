@@ -1,0 +1,1 @@
+class java_math_BigInteger_setBit_int{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();obj.setBit(-1823196355);}}

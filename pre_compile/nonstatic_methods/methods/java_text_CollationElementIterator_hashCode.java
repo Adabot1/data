@@ -1,0 +1,1 @@
+class java_text_CollationElementIterator_hashCode{ public static void function() {java.text.CollationElementIterator obj = new java.text.CollationElementIterator();obj.hashCode();}}

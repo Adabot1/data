@@ -1,1 +1,0 @@
-class java_lang_Integer_numberOfTrailingZeros{ public static void function() {java.lang.Integer.numberOfTrailingZeros(-289070166);}}

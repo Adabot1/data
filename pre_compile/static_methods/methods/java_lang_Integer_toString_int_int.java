@@ -1,0 +1,1 @@
+class java_lang_Integer_toString_int_int{ public static void function() {java.lang.Integer.toString(-50478166,-1581292424);}}

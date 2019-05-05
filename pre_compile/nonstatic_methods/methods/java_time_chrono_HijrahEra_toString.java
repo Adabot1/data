@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahEra_toString{ public static void function() {java.time.chrono.HijrahEra obj = new java.time.chrono.HijrahEra();obj.toString();}}

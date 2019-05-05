@@ -1,0 +1,1 @@
+class java_nio_channels_FileLock_notifyAll{ public static void function() {java.nio.channels.FileLock obj = new java.nio.channels.FileLock();obj.notifyAll();}}

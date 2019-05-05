@@ -1,1 +1,0 @@
-class java_lang_StrictMath_addExact{ public static void function() {java.lang.StrictMath.addExact(1004200562,-1438635625);}}

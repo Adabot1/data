@@ -1,0 +1,1 @@
+class java_lang_Character_lowSurrogate_int{ public static void function() {java.lang.Character.lowSurrogate(1885842034);}}

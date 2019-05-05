@@ -1,1 +1,0 @@
-class java_time_chrono_ThaiBuddhistChronology_period{ public static void function() {java.time.chrono.ThaiBuddhistChronology obj = new java.time.chrono.ThaiBuddhistChronology();java.time.chrono.ThaiBuddhistChronology.period(414067248,-437573758,1643364131);}}

@@ -1,0 +1,1 @@
+class java_io_PipedInputStream_notifyAll{ public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();obj.notifyAll();}}

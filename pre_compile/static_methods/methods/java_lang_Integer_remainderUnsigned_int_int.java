@@ -1,0 +1,1 @@
+class java_lang_Integer_remainderUnsigned_int_int{ public static void function() {java.lang.Integer.remainderUnsigned(1601306562,1421370289);}}

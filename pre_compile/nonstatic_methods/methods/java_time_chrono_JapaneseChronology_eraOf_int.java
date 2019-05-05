@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_eraOf_int{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.eraOf(1243447139);}}

@@ -1,1 +1,0 @@
-class java_util_spi_AbstractResourceBundleProvider_hashCode{ public static void function() {java.util.spi.AbstractResourceBundleProvider obj = new java.util.spi.AbstractResourceBundleProvider();java.util.spi.AbstractResourceBundleProvider.hashCode();}}

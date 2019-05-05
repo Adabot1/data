@@ -1,1 +1,0 @@
-class java_text_CollationElementIterator_previous{ public static void function() {java.text.CollationElementIterator obj = new java.text.CollationElementIterator();java.text.CollationElementIterator.previous();}}

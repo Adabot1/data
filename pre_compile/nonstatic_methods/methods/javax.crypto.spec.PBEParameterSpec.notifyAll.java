@@ -1,1 +1,0 @@
-class javax_crypto_spec_PBEParameterSpec_notifyAll{ public static void function() {javax.crypto.spec.PBEParameterSpec obj = new javax.crypto.spec.PBEParameterSpec();javax.crypto.spec.PBEParameterSpec.notifyAll();}}

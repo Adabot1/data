@@ -1,0 +1,1 @@
+class java_text_Collator_setStrength_int{ public static void function() {java.text.Collator obj = new java.text.Collator();obj.setStrength(349377068);}}

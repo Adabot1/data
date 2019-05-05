@@ -1,1 +1,0 @@
-class java_lang_Character_getName{ public static void function() {java.lang.Character.getName(-1019802192);}}

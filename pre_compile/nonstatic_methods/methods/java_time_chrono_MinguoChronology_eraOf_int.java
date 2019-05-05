@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoChronology_eraOf_int{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();obj.eraOf(236213949);}}

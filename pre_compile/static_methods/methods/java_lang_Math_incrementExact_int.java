@@ -1,0 +1,1 @@
+class java_lang_Math_incrementExact_int{ public static void function() {java.lang.Math.incrementExact(-894154062);}}

@@ -1,1 +1,0 @@
-class javax_net_ssl_SSLPermission_newPermissionCollection{ public static void function() {javax.net.ssl.SSLPermission obj = new javax.net.ssl.SSLPermission();javax.net.ssl.SSLPermission.newPermissionCollection();}}

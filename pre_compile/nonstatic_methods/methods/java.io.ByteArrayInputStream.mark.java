@@ -1,1 +1,0 @@
-class java_io_ByteArrayInputStream_mark{ public static void function() {java.io.ByteArrayInputStream obj = new java.io.ByteArrayInputStream();java.io.ByteArrayInputStream.mark(-1648198768);}}

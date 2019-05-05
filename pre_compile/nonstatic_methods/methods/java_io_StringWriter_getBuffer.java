@@ -1,0 +1,1 @@
+class java_io_StringWriter_getBuffer{ public static void function() {java.io.StringWriter obj = new java.io.StringWriter();obj.getBuffer();}}

@@ -1,0 +1,1 @@
+class java_util_zip_Inflater_notify{ public static void function() {java.util.zip.Inflater obj = new java.util.zip.Inflater();obj.notify();}}

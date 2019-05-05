@@ -1,0 +1,1 @@
+class java_util_jar_JarFile_isMultiRelease{ public static void function() {java.util.jar.JarFile obj = new java.util.jar.JarFile();obj.isMultiRelease();}}

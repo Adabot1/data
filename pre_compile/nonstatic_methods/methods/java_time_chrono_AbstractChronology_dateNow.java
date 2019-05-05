@@ -1,0 +1,1 @@
+class java_time_chrono_AbstractChronology_dateNow{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();obj.dateNow();}}

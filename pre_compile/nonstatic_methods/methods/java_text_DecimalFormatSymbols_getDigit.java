@@ -1,0 +1,1 @@
+class java_text_DecimalFormatSymbols_getDigit{ public static void function() {java.text.DecimalFormatSymbols obj = new java.text.DecimalFormatSymbols();obj.getDigit();}}

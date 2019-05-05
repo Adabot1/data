@@ -1,0 +1,1 @@
+class java_lang_Integer_max_int_int{ public static void function() {java.lang.Integer.max(-1754306062,11130181);}}

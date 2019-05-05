@@ -1,0 +1,1 @@
+class java_lang_Math_addExact_int_int{ public static void function() {java.lang.Math.addExact(-1208799779,-1343190916);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_ScheduledThreadPoolExecutor_setMaximumPoolSize_int{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();obj.setMaximumPoolSize(620402488);}}

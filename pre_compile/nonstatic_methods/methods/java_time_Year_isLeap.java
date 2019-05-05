@@ -1,0 +1,1 @@
+class java_time_Year_isLeap{ public static void function() {java.time.Year obj = new java.time.Year();obj.isLeap();}}

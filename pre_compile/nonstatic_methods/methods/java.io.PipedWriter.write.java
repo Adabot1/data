@@ -1,1 +1,0 @@
-class java_io_PipedWriter_write{ public static void function() {java.io.PipedWriter obj = new java.io.PipedWriter();java.io.PipedWriter.write(1866408022);}}

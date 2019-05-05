@@ -1,1 +1,0 @@
-class java_lang_Boolean_hashCode{ public static void function() {java.lang.Boolean.hashCode(true);}}

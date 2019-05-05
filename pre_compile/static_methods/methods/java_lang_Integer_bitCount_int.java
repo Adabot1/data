@@ -1,0 +1,1 @@
+class java_lang_Integer_bitCount_int{ public static void function() {java.lang.Integer.bitCount(244202517);}}

@@ -1,0 +1,1 @@
+class java_time_YearMonth_isValidDay_int{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.isValidDay(-874101565);}}

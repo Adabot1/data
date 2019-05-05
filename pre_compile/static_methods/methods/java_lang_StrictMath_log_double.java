@@ -1,0 +1,1 @@
+class java_lang_StrictMath_log_double{ public static void function() {java.lang.StrictMath.log(0.9769124300789234);}}

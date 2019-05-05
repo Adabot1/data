@@ -1,0 +1,1 @@
+class java_nio_charset_spi_CharsetProvider_charsets{ public static void function() {java.nio.charset.spi.CharsetProvider obj = new java.nio.charset.spi.CharsetProvider();obj.charsets();}}

@@ -1,1 +1,0 @@
-class java_util_jar_JarEntry_getCodeSigners{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();java.util.jar.JarEntry.getCodeSigners();}}

@@ -1,0 +1,1 @@
+class java_net_DatagramSocketImpl_notifyAll{ public static void function() {java.net.DatagramSocketImpl obj = new java.net.DatagramSocketImpl();obj.notifyAll();}}

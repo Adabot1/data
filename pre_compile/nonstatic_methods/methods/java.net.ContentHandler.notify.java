@@ -1,1 +1,0 @@
-class java_net_ContentHandler_notify{ public static void function() {java.net.ContentHandler obj = new java.net.ContentHandler();java.net.ContentHandler.notify();}}

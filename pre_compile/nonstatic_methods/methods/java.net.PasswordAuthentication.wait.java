@@ -1,1 +1,0 @@
-class java_net_PasswordAuthentication_wait{ public static void function() {java.net.PasswordAuthentication obj = new java.net.PasswordAuthentication();java.net.PasswordAuthentication.wait();}}

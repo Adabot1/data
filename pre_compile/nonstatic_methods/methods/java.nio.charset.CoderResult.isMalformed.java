@@ -1,1 +1,0 @@
-class java_nio_charset_CoderResult_isMalformed{ public static void function() {java.nio.charset.CoderResult obj = new java.nio.charset.CoderResult();java.nio.charset.CoderResult.isMalformed();}}

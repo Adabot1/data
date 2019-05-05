@@ -1,1 +1,0 @@
-class java_time_MonthDay_of{ public static void function() {java.time.MonthDay.of(-1235614933,1037225276);}}

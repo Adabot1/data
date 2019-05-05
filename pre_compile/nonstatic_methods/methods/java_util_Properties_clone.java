@@ -1,0 +1,1 @@
+class java_util_Properties_clone{ public static void function() {java.util.Properties obj = new java.util.Properties();obj.clone();}}

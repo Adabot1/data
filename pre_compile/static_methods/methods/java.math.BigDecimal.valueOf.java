@@ -1,1 +1,0 @@
-class java_math_BigDecimal_valueOf{ public static void function() {java.math.BigDecimal.valueOf(0.4641009938346813);}}

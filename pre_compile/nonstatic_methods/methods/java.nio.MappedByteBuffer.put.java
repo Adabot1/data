@@ -1,1 +1,0 @@
-class java_nio_MappedByteBuffer_put{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.put([B@48a242ce);}}

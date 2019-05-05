@@ -1,1 +1,0 @@
-class java_security_SignedObject_wait{ public static void function() {java.security.SignedObject obj = new java.security.SignedObject();java.security.SignedObject.wait();}}

@@ -1,0 +1,1 @@
+class java_util_zip_ZipOutputStream_setMethod_int{ public static void function() {java.util.zip.ZipOutputStream obj = new java.util.zip.ZipOutputStream();obj.setMethod(451398934);}}

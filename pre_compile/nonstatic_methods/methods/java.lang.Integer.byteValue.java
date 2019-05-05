@@ -1,1 +1,0 @@
-class java_lang_Integer_byteValue{ public static void function() {java.lang.Integer obj = new java.lang.Integer();java.lang.Integer.byteValue();}}

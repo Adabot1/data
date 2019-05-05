@@ -1,0 +1,1 @@
+class java_util_jar_JarInputStream_readNBytes_int{ public static void function() {java.util.jar.JarInputStream obj = new java.util.jar.JarInputStream();obj.readNBytes(1789016560);}}

@@ -1,0 +1,1 @@
+class java_lang_Byte_valueOf_byte{ public static void function() {java.lang.Byte.valueOf([B@43738a82);}}

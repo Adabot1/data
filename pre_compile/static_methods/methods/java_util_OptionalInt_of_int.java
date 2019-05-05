@@ -1,0 +1,1 @@
+class java_util_OptionalInt_of_int{ public static void function() {java.util.OptionalInt.of(-166523226);}}

@@ -1,1 +1,0 @@
-class java_net_IDN_notifyAll{ public static void function() {java.net.IDN obj = new java.net.IDN();java.net.IDN.notifyAll();}}

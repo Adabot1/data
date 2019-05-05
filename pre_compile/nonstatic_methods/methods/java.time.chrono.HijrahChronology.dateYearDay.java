@@ -1,1 +1,0 @@
-class java_time_chrono_HijrahChronology_dateYearDay{ public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();java.time.chrono.HijrahChronology.dateYearDay(-2084774674,1867776865);}}

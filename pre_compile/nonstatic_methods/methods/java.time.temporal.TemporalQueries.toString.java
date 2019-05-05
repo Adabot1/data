@@ -1,1 +1,0 @@
-class java_time_temporal_TemporalQueries_toString{ public static void function() {java.time.temporal.TemporalQueries obj = new java.time.temporal.TemporalQueries();java.time.temporal.TemporalQueries.toString();}}

@@ -1,0 +1,1 @@
+class java_lang_StackTraceElement_getClass{ public static void function() {java.lang.StackTraceElement obj = new java.lang.StackTraceElement();obj.getClass();}}

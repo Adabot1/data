@@ -1,0 +1,1 @@
+class java_time_Clock_instant{ public static void function() {java.time.Clock obj = new java.time.Clock();obj.instant();}}

@@ -1,1 +1,0 @@
-class java_net_HttpCookie_getSecure{ public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();java.net.HttpCookie.getSecure();}}

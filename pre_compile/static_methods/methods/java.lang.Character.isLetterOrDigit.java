@@ -1,1 +1,0 @@
-class java_lang_Character_isLetterOrDigit{ public static void function() {java.lang.Character.isLetterOrDigit(1755360940);}}

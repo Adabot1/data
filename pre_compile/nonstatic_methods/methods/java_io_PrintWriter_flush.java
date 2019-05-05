@@ -1,0 +1,1 @@
+class java_io_PrintWriter_flush{ public static void function() {java.io.PrintWriter obj = new java.io.PrintWriter();obj.flush();}}

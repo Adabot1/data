@@ -1,1 +1,0 @@
-class java_text_DecimalFormat_setGroupingSize{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();java.text.DecimalFormat.setGroupingSize(562385946);}}

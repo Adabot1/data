@@ -1,0 +1,1 @@
+class java_lang_StrictMath_atan_double{ public static void function() {java.lang.StrictMath.atan(0.20731074358144475);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_Phaser_getPhase{ public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();obj.getPhase();}}

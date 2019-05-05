@@ -1,1 +1,0 @@
-class java_nio_LongBuffer_allocate{ public static void function() {java.nio.LongBuffer.allocate(1172208393);}}

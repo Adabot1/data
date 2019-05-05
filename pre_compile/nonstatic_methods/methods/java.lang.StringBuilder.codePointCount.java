@@ -1,1 +1,0 @@
-class java_lang_StringBuilder_codePointCount{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();java.lang.StringBuilder.codePointCount(1290231955,-125556850);}}

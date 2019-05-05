@@ -1,0 +1,1 @@
+class java_nio_MappedByteBuffer_getChar_int{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();obj.getChar(-820685922);}}

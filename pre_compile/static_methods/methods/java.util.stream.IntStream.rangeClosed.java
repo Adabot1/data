@@ -1,1 +1,0 @@
-class java_util_stream_IntStream_rangeClosed{ public static void function() {java.util.stream.IntStream.rangeClosed(1343648276,898604180);}}

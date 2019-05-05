@@ -1,0 +1,1 @@
+class java_util_zip_Deflater_getAdler{ public static void function() {java.util.zip.Deflater obj = new java.util.zip.Deflater();obj.getAdler();}}

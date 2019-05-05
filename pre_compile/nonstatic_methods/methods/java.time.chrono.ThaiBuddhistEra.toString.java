@@ -1,1 +1,0 @@
-class java_time_chrono_ThaiBuddhistEra_toString{ public static void function() {java.time.chrono.ThaiBuddhistEra obj = new java.time.chrono.ThaiBuddhistEra();java.time.chrono.ThaiBuddhistEra.toString();}}

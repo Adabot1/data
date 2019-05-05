@@ -1,0 +1,1 @@
+class java_security_Provider_notifyAll{ public static void function() {java.security.Provider obj = new java.security.Provider();obj.notifyAll();}}

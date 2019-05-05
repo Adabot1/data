@@ -1,0 +1,1 @@
+class java_net_HttpURLConnection_setFollowRedirects_boolean{ public static void function() {java.net.HttpURLConnection.setFollowRedirects(false);}}

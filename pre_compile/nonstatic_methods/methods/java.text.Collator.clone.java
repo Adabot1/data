@@ -1,1 +1,0 @@
-class java_text_Collator_clone{ public static void function() {java.text.Collator obj = new java.text.Collator();java.text.Collator.clone();}}

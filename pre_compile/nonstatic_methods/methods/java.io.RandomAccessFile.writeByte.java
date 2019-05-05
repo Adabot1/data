@@ -1,1 +1,0 @@
-class java_io_RandomAccessFile_writeByte{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.writeByte(1038922623);}}

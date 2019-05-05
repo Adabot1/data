@@ -1,0 +1,1 @@
+class java_lang_Double_doubleToRawLongBits_double{ public static void function() {java.lang.Double.doubleToRawLongBits(0.8198313716841863);}}

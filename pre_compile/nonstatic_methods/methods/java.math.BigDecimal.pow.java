@@ -1,1 +1,0 @@
-class java_math_BigDecimal_pow{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();java.math.BigDecimal.pow(-1595299598);}}

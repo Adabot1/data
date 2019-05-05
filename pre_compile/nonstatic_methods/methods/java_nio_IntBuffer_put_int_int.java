@@ -1,0 +1,1 @@
+class java_nio_IntBuffer_put_int_int{ public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();obj.put(-845200021,-161826805);}}

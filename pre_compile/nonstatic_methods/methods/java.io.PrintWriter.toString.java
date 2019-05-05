@@ -1,1 +1,0 @@
-class java_io_PrintWriter_toString{ public static void function() {java.io.PrintWriter obj = new java.io.PrintWriter();java.io.PrintWriter.toString();}}

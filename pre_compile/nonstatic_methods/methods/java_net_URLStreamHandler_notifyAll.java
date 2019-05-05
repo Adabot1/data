@@ -1,0 +1,1 @@
+class java_net_URLStreamHandler_notifyAll{ public static void function() {java.net.URLStreamHandler obj = new java.net.URLStreamHandler();obj.notifyAll();}}

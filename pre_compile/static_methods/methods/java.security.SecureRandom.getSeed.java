@@ -1,1 +1,0 @@
-class java_security_SecureRandom_getSeed{ public static void function() {java.security.SecureRandom.getSeed(927741250);}}

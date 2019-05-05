@@ -1,1 +1,0 @@
-class java_io_PushbackInputStream_hashCode{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();java.io.PushbackInputStream.hashCode();}}

@@ -1,1 +1,0 @@
-class java_lang_Math_expm1{ public static void function() {java.lang.Math.expm1(0.2827529964783474);}}

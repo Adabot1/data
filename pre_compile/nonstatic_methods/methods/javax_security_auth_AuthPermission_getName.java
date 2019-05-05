@@ -1,0 +1,1 @@
+class javax_security_auth_AuthPermission_getName{ public static void function() {javax.security.auth.AuthPermission obj = new javax.security.auth.AuthPermission();obj.getName();}}

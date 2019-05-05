@@ -1,0 +1,1 @@
+class java_nio_file_FileVisitResult_toString{ public static void function() {java.nio.file.FileVisitResult obj = new java.nio.file.FileVisitResult();obj.toString();}}

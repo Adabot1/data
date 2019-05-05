@@ -1,1 +1,0 @@
-class java_util_Formatter_flush{ public static void function() {java.util.Formatter obj = new java.util.Formatter();java.util.Formatter.flush();}}

@@ -1,0 +1,1 @@
+class java_lang_module_ModuleDescriptor_isOpen{ public static void function() {java.lang.module.ModuleDescriptor obj = new java.lang.module.ModuleDescriptor();obj.isOpen();}}

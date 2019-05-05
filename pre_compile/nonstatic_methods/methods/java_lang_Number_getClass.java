@@ -1,0 +1,1 @@
+class java_lang_Number_getClass{ public static void function() {java.lang.Number obj = new java.lang.Number();obj.getClass();}}

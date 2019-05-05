@@ -1,0 +1,1 @@
+class java_nio_MappedByteBuffer_allocate_int{ public static void function() {java.nio.MappedByteBuffer.allocate(1916236718);}}

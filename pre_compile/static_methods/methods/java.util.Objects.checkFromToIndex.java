@@ -1,1 +1,0 @@
-class java_util_Objects_checkFromToIndex{ public static void function() {java.util.Objects.checkFromToIndex(-1768837508,-1035346495,-1657162281);}}

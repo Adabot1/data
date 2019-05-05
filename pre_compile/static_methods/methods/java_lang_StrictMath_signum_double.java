@@ -1,0 +1,1 @@
+class java_lang_StrictMath_signum_double{ public static void function() {java.lang.StrictMath.signum(0.1367840401689292);}}

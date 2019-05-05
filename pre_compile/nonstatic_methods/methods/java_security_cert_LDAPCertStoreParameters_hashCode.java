@@ -1,0 +1,1 @@
+class java_security_cert_LDAPCertStoreParameters_hashCode{ public static void function() {java.security.cert.LDAPCertStoreParameters obj = new java.security.cert.LDAPCertStoreParameters();obj.hashCode();}}

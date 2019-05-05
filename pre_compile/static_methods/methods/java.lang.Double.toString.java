@@ -1,1 +1,0 @@
-class java_lang_Double_toString{ public static void function() {java.lang.Double.toString(0.1760884746437127);}}

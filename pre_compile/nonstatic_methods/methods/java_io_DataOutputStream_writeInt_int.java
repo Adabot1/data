@@ -1,0 +1,1 @@
+class java_io_DataOutputStream_writeInt_int{ public static void function() {java.io.DataOutputStream obj = new java.io.DataOutputStream();obj.writeInt(2019094483);}}

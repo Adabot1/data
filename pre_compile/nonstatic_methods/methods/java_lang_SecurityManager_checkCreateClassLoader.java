@@ -1,0 +1,1 @@
+class java_lang_SecurityManager_checkCreateClassLoader{ public static void function() {java.lang.SecurityManager obj = new java.lang.SecurityManager();obj.checkCreateClassLoader();}}

@@ -1,0 +1,1 @@
+class java_math_BigDecimal_plus{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();obj.plus();}}

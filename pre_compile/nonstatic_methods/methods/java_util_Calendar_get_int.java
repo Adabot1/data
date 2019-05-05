@@ -1,0 +1,1 @@
+class java_util_Calendar_get_int{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.get(-1551901358);}}

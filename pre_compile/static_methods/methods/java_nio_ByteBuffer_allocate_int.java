@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_allocate_int{ public static void function() {java.nio.ByteBuffer.allocate(852917524);}}

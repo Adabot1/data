@@ -1,1 +1,0 @@
-class java_security_cert_CertPathValidator_wait{ public static void function() {java.security.cert.CertPathValidator obj = new java.security.cert.CertPathValidator();java.security.cert.CertPathValidator.wait();}}

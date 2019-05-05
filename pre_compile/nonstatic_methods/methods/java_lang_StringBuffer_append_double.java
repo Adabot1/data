@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_append_double{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.append(0.04226730683480484);}}

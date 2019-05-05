@@ -1,1 +1,0 @@
-class java_io_StringWriter_hashCode{ public static void function() {java.io.StringWriter obj = new java.io.StringWriter();java.io.StringWriter.hashCode();}}

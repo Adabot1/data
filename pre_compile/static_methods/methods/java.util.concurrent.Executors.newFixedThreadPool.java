@@ -1,1 +1,0 @@
-class java_util_concurrent_Executors_newFixedThreadPool{ public static void function() {java.util.concurrent.Executors.newFixedThreadPool(654512579);}}

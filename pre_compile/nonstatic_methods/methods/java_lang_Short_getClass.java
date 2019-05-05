@@ -1,0 +1,1 @@
+class java_lang_Short_getClass{ public static void function() {java.lang.Short obj = new java.lang.Short();obj.getClass();}}

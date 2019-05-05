@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_length{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.length();}}

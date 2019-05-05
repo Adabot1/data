@@ -1,1 +1,0 @@
-class java_lang_Character_isUnicodeIdentifierStart{ public static void function() {java.lang.Character.isUnicodeIdentifierStart(-250170740);}}

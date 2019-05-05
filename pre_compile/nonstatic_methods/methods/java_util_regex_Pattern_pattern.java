@@ -1,0 +1,1 @@
+class java_util_regex_Pattern_pattern{ public static void function() {java.util.regex.Pattern obj = new java.util.regex.Pattern();obj.pattern();}}

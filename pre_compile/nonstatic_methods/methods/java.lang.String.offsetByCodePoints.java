@@ -1,1 +1,0 @@
-class java_lang_String_offsetByCodePoints{ public static void function() {java.lang.String obj = new java.lang.String();java.lang.String.offsetByCodePoints(636455499,-1577711156);}}

@@ -1,1 +1,0 @@
-class java_util_DoubleSummaryStatistics_getSum{ public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();java.util.DoubleSummaryStatistics.getSum();}}

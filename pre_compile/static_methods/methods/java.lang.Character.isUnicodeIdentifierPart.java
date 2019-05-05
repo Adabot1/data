@@ -1,1 +1,0 @@
-class java_lang_Character_isUnicodeIdentifierPart{ public static void function() {java.lang.Character.isUnicodeIdentifierPart(1061592131);}}

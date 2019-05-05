@@ -1,1 +1,0 @@
-class java_text_NumberFormat_setMaximumFractionDigits{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();java.text.NumberFormat.setMaximumFractionDigits(-1114556579);}}

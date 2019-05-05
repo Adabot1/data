@@ -1,0 +1,1 @@
+class javax_net_ssl_SNIHostName_getType{ public static void function() {javax.net.ssl.SNIHostName obj = new javax.net.ssl.SNIHostName();obj.getType();}}

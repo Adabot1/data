@@ -1,0 +1,1 @@
+class java_time_YearMonth_getClass{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.getClass();}}

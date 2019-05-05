@@ -1,0 +1,1 @@
+class java_text_FieldPosition_getFieldAttribute{ public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();obj.getFieldAttribute();}}

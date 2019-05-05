@@ -1,1 +1,0 @@
-class java_util_zip_InflaterOutputStream_wait{ public static void function() {java.util.zip.InflaterOutputStream obj = new java.util.zip.InflaterOutputStream();java.util.zip.InflaterOutputStream.wait();}}

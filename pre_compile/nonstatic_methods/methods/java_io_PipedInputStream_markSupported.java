@@ -1,0 +1,1 @@
+class java_io_PipedInputStream_markSupported{ public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();obj.markSupported();}}

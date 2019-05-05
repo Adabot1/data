@@ -1,0 +1,1 @@
+class java_util_zip_Adler32_update_int{ public static void function() {java.util.zip.Adler32 obj = new java.util.zip.Adler32();obj.update(-602235558);}}

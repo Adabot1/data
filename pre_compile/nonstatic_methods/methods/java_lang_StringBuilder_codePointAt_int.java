@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_codePointAt_int{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.codePointAt(-1057238130);}}

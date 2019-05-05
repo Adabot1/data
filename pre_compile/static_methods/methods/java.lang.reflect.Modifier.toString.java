@@ -1,1 +1,0 @@
-class java_lang_reflect_Modifier_toString{ public static void function() {java.lang.reflect.Modifier.toString(-1105697179);}}

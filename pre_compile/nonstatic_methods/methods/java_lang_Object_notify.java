@@ -1,0 +1,1 @@
+class java_lang_Object_notify{ public static void function() {java.lang.Object obj = new java.lang.Object();obj.notify();}}

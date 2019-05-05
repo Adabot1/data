@@ -1,1 +1,0 @@
-class java_nio_MappedByteBuffer_getShort{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();java.nio.MappedByteBuffer.getShort(-1807182516);}}

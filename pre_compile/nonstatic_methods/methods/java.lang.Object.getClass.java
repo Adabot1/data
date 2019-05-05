@@ -1,1 +1,0 @@
-class java_lang_Object_getClass{ public static void function() {java.lang.Object obj = new java.lang.Object();java.lang.Object.getClass();}}

@@ -1,0 +1,1 @@
+class java_lang_Double_isFinite_double{ public static void function() {java.lang.Double.isFinite(0.6885937126814886);}}

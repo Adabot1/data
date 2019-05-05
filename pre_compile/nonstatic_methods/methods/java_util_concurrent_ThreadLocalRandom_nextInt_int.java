@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadLocalRandom_nextInt_int{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();obj.nextInt(1116470803);}}

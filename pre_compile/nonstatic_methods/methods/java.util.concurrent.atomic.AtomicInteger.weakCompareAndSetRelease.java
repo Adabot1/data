@@ -1,1 +1,0 @@
-class java_util_concurrent_atomic_AtomicInteger_weakCompareAndSetRelease{ public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();java.util.concurrent.atomic.AtomicInteger.weakCompareAndSetRelease(-992345322,2073483870);}}

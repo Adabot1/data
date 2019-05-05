@@ -1,0 +1,1 @@
+class java_io_StreamTokenizer_commentChar_int{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();obj.commentChar(146338273);}}

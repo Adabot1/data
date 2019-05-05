@@ -1,0 +1,1 @@
+class javax_crypto_NullCipher_getProvider{ public static void function() {javax.crypto.NullCipher obj = new javax.crypto.NullCipher();obj.getProvider();}}

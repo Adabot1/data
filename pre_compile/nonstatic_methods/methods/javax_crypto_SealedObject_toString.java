@@ -1,0 +1,1 @@
+class javax_crypto_SealedObject_toString{ public static void function() {javax.crypto.SealedObject obj = new javax.crypto.SealedObject();obj.toString();}}

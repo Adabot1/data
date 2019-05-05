@@ -1,1 +1,0 @@
-class java_lang_StringBuffer_append{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();java.lang.StringBuffer.append(0.2909968774433793);}}

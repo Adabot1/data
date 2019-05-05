@@ -1,0 +1,1 @@
+class java_lang_Character_getType_int{ public static void function() {java.lang.Character.getType(-1554793764);}}

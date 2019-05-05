@@ -1,1 +1,0 @@
-class java_text_Bidi_getBaseLevel{ public static void function() {java.text.Bidi obj = new java.text.Bidi();java.text.Bidi.getBaseLevel();}}

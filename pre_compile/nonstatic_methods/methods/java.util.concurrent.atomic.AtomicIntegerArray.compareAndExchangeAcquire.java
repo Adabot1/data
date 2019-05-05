@@ -1,1 +1,0 @@
-class java_util_concurrent_atomic_AtomicIntegerArray_compareAndExchangeAcquire{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.compareAndExchangeAcquire(876380307,-1937879243,-595561397);}}

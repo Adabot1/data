@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_dateYearDay_int_int{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.dateYearDay(-416682663,371919031);}}

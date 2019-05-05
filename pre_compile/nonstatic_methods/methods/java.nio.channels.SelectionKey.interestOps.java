@@ -1,1 +1,0 @@
-class java_nio_channels_SelectionKey_interestOps{ public static void function() {java.nio.channels.SelectionKey obj = new java.nio.channels.SelectionKey();java.nio.channels.SelectionKey.interestOps(-1415084645);}}

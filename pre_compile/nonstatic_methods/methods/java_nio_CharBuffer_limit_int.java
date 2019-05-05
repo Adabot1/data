@@ -1,0 +1,1 @@
+class java_nio_CharBuffer_limit_int{ public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();obj.limit(894448223);}}

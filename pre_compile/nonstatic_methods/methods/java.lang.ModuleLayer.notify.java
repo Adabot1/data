@@ -1,1 +1,0 @@
-class java_lang_ModuleLayer_notify{ public static void function() {java.lang.ModuleLayer obj = new java.lang.ModuleLayer();java.lang.ModuleLayer.notify();}}

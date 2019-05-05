@@ -1,0 +1,1 @@
+class java_time_chrono_AbstractChronology_period_int_int_int{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();obj.period(2127099527,-1368948448,1113559757);}}

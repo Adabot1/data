@@ -1,0 +1,1 @@
+class java_nio_Buffer_isDirect{ public static void function() {java.nio.Buffer obj = new java.nio.Buffer();obj.isDirect();}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinPool_shutdown{ public static void function() {java.util.concurrent.ForkJoinPool obj = new java.util.concurrent.ForkJoinPool();obj.shutdown();}}

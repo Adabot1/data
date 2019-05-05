@@ -1,1 +1,0 @@
-class java_time_ZoneOffset_ofHoursMinutes{ public static void function() {java.time.ZoneOffset.ofHoursMinutes(1456239911,-372066498);}}

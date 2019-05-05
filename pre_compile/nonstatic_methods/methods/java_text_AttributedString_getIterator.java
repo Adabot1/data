@@ -1,0 +1,1 @@
+class java_text_AttributedString_getIterator{ public static void function() {java.text.AttributedString obj = new java.text.AttributedString();obj.getIterator();}}

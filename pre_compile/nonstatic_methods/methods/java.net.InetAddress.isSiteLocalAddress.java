@@ -1,1 +1,0 @@
-class java_net_InetAddress_isSiteLocalAddress{ public static void function() {java.net.InetAddress obj = new java.net.InetAddress();java.net.InetAddress.isSiteLocalAddress();}}

@@ -1,0 +1,1 @@
+class java_net_PasswordAuthentication_getUserName{ public static void function() {java.net.PasswordAuthentication obj = new java.net.PasswordAuthentication();obj.getUserName();}}

@@ -1,0 +1,1 @@
+class java_nio_file_StandardWatchEventKinds_wait{ public static void function() {java.nio.file.StandardWatchEventKinds obj = new java.nio.file.StandardWatchEventKinds();obj.wait();}}

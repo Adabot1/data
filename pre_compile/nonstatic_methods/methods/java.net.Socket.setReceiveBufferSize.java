@@ -1,1 +1,0 @@
-class java_net_Socket_setReceiveBufferSize{ public static void function() {java.net.Socket obj = new java.net.Socket();java.net.Socket.setReceiveBufferSize(761291054);}}

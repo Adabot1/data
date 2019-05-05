@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_codePointBefore_int{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.codePointBefore(-157483113);}}

@@ -1,0 +1,1 @@
+class java_time_OffsetTime_withHour_int{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();obj.withHour(-1886976555);}}

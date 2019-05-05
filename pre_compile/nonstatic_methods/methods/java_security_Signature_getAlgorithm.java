@@ -1,0 +1,1 @@
+class java_security_Signature_getAlgorithm{ public static void function() {java.security.Signature obj = new java.security.Signature();obj.getAlgorithm();}}

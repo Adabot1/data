@@ -1,0 +1,1 @@
+class java_lang_Math_max_int_int{ public static void function() {java.lang.Math.max(-633482613,-1613055001);}}

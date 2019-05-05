@@ -1,0 +1,1 @@
+class java_lang_ProcessBuilder_redirectErrorStream{ public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();obj.redirectErrorStream();}}

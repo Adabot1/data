@@ -1,1 +1,0 @@
-class java_lang_Byte_hashCode{ public static void function() {java.lang.Byte.hashCode([B@4c762604);}}

@@ -1,0 +1,1 @@
+class java_security_spec_MGF1ParameterSpec_hashCode{ public static void function() {java.security.spec.MGF1ParameterSpec obj = new java.security.spec.MGF1ParameterSpec();obj.hashCode();}}

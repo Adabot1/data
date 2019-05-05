@@ -1,0 +1,1 @@
+class java_lang_Integer_compareUnsigned_int_int{ public static void function() {java.lang.Integer.compareUnsigned(-1599381442,1402998021);}}

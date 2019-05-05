@@ -1,1 +1,0 @@
-class java_lang_StrictMath_fma{ public static void function() {java.lang.StrictMath.fma(0.7485942635283795,0.19272020939428514,0.9190339432393322);}}

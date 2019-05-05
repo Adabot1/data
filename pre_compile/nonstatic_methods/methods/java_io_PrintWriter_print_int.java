@@ -1,0 +1,1 @@
+class java_io_PrintWriter_print_int{ public static void function() {java.io.PrintWriter obj = new java.io.PrintWriter();obj.print(-1051903620);}}

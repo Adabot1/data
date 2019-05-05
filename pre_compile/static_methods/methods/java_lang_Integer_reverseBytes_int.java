@@ -1,0 +1,1 @@
+class java_lang_Integer_reverseBytes_int{ public static void function() {java.lang.Integer.reverseBytes(-305910603);}}

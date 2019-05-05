@@ -1,0 +1,1 @@
+class java_text_DateFormat_notifyAll{ public static void function() {java.text.DateFormat obj = new java.text.DateFormat();obj.notifyAll();}}

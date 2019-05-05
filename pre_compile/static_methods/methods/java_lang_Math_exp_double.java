@@ -1,0 +1,1 @@
+class java_lang_Math_exp_double{ public static void function() {java.lang.Math.exp(0.04735888067490879);}}

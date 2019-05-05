@@ -1,0 +1,1 @@
+class java_util_concurrent_Semaphore_tryAcquire_int{ public static void function() {java.util.concurrent.Semaphore obj = new java.util.concurrent.Semaphore();obj.tryAcquire(-391439819);}}

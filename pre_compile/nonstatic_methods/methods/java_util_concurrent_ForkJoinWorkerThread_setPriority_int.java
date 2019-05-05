@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinWorkerThread_setPriority_int{ public static void function() {java.util.concurrent.ForkJoinWorkerThread obj = new java.util.concurrent.ForkJoinWorkerThread();obj.setPriority(106058062);}}

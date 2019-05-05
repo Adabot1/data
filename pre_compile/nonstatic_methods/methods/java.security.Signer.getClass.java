@@ -1,1 +1,0 @@
-class java_security_Signer_getClass{ public static void function() {java.security.Signer obj = new java.security.Signer();java.security.Signer.getClass();}}

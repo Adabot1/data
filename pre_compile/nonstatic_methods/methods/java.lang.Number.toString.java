@@ -1,1 +1,0 @@
-class java_lang_Number_toString{ public static void function() {java.lang.Number obj = new java.lang.Number();java.lang.Number.toString();}}

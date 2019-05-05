@@ -1,0 +1,1 @@
+class java_io_OutputStreamWriter_wait{ public static void function() {java.io.OutputStreamWriter obj = new java.io.OutputStreamWriter();obj.wait();}}

@@ -1,0 +1,1 @@
+class javax_crypto_spec_ChaCha20ParameterSpec_getNonce{ public static void function() {javax.crypto.spec.ChaCha20ParameterSpec obj = new javax.crypto.spec.ChaCha20ParameterSpec();obj.getNonce();}}

@@ -1,1 +1,0 @@
-class java_util_concurrent_atomic_AtomicIntegerArray_lazySet{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();java.util.concurrent.atomic.AtomicIntegerArray.lazySet(1807759004,252365370);}}

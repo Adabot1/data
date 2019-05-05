@@ -1,0 +1,1 @@
+class java_security_URIParameter_hashCode{ public static void function() {java.security.URIParameter obj = new java.security.URIParameter();obj.hashCode();}}

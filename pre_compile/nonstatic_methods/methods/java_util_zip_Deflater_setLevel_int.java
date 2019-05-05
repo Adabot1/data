@@ -1,0 +1,1 @@
+class java_util_zip_Deflater_setLevel_int{ public static void function() {java.util.zip.Deflater obj = new java.util.zip.Deflater();obj.setLevel(1674596498);}}

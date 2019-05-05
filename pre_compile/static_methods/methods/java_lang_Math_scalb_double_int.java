@@ -1,0 +1,1 @@
+class java_lang_Math_scalb_double_int{ public static void function() {java.lang.Math.scalb(0.2546750962282286,-676761924);}}

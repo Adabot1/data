@@ -1,1 +1,0 @@
-class java_lang_Character_isJavaIdentifierPart{ public static void function() {java.lang.Character.isJavaIdentifierPart(256273114);}}

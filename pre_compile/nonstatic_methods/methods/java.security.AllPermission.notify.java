@@ -1,1 +1,0 @@
-class java_security_AllPermission_notify{ public static void function() {java.security.AllPermission obj = new java.security.AllPermission();java.security.AllPermission.notify();}}

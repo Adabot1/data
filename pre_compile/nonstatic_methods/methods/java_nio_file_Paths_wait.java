@@ -1,0 +1,1 @@
+class java_nio_file_Paths_wait{ public static void function() {java.nio.file.Paths obj = new java.nio.file.Paths();obj.wait();}}

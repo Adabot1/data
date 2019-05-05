@@ -1,0 +1,1 @@
+class java_security_spec_ECFieldF2m_wait{ public static void function() {java.security.spec.ECFieldF2m obj = new java.security.spec.ECFieldF2m();obj.wait();}}

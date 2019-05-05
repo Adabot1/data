@@ -1,0 +1,1 @@
+class java_security_CryptoPrimitive_getClass{ public static void function() {java.security.CryptoPrimitive obj = new java.security.CryptoPrimitive();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_util_OptionalDouble_of_double{ public static void function() {java.util.OptionalDouble.of(0.08597147891345103);}}

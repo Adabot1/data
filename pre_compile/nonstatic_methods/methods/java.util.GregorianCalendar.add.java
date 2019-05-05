@@ -1,1 +1,0 @@
-class java_util_GregorianCalendar_add{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();java.util.GregorianCalendar.add(1326728442,625707770);}}

@@ -1,0 +1,1 @@
+class java_io_RandomAccessFile_notifyAll{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();obj.notifyAll();}}

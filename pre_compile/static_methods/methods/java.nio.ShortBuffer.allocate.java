@@ -1,1 +1,0 @@
-class java_nio_ShortBuffer_allocate{ public static void function() {java.nio.ShortBuffer.allocate(-38204025);}}

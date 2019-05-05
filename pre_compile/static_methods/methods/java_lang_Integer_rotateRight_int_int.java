@@ -1,0 +1,1 @@
+class java_lang_Integer_rotateRight_int_int{ public static void function() {java.lang.Integer.rotateRight(929749894,1986125192);}}

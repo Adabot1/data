@@ -1,0 +1,1 @@
+class java_lang_Integer_toOctalString_int{ public static void function() {java.lang.Integer.toOctalString(889198095);}}

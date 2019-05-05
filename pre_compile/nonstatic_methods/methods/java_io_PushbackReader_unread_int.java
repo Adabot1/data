@@ -1,0 +1,1 @@
+class java_io_PushbackReader_unread_int{ public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();obj.unread(282657366);}}

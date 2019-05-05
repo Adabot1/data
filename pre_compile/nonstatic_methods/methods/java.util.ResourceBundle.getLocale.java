@@ -1,1 +1,0 @@
-class java_util_ResourceBundle_getLocale{ public static void function() {java.util.ResourceBundle obj = new java.util.ResourceBundle();java.util.ResourceBundle.getLocale();}}

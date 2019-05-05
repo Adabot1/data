@@ -1,1 +1,0 @@
-class java_text_ChoiceFormat_nextDouble{ public static void function() {java.text.ChoiceFormat.nextDouble(0.11297288761886815);}}

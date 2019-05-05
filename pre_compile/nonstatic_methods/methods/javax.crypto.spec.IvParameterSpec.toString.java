@@ -1,1 +1,0 @@
-class javax_crypto_spec_IvParameterSpec_toString{ public static void function() {javax.crypto.spec.IvParameterSpec obj = new javax.crypto.spec.IvParameterSpec();javax.crypto.spec.IvParameterSpec.toString();}}

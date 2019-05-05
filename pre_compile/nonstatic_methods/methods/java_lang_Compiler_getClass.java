@@ -1,0 +1,1 @@
+class java_lang_Compiler_getClass{ public static void function() {java.lang.Compiler obj = new java.lang.Compiler();obj.getClass();}}

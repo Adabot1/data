@@ -1,1 +1,0 @@
-class java_nio_channels_SocketChannel_blockingLock{ public static void function() {java.nio.channels.SocketChannel obj = new java.nio.channels.SocketChannel();java.nio.channels.SocketChannel.blockingLock();}}

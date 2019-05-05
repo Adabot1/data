@@ -1,0 +1,1 @@
+class java_net_DatagramSocket_setTrafficClass_int{ public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();obj.setTrafficClass(1892651466);}}

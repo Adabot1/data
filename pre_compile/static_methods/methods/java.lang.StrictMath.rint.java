@@ -1,1 +1,0 @@
-class java_lang_StrictMath_rint{ public static void function() {java.lang.StrictMath.rint(0.7423484630044663);}}

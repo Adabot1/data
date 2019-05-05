@@ -1,0 +1,1 @@
+class javax_crypto_CipherOutputStream_getClass{ public static void function() {javax.crypto.CipherOutputStream obj = new javax.crypto.CipherOutputStream();obj.getClass();}}

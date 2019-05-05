@@ -1,0 +1,1 @@
+class java_util_zip_ZipFile_getComment{ public static void function() {java.util.zip.ZipFile obj = new java.util.zip.ZipFile();obj.getComment();}}

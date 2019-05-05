@@ -1,1 +1,0 @@
-class java_security_spec_RSAKeyGenParameterSpec_getPublicExponent{ public static void function() {java.security.spec.RSAKeyGenParameterSpec obj = new java.security.spec.RSAKeyGenParameterSpec();java.security.spec.RSAKeyGenParameterSpec.getPublicExponent();}}

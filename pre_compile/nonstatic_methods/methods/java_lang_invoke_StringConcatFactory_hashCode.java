@@ -1,0 +1,1 @@
+class java_lang_invoke_StringConcatFactory_hashCode{ public static void function() {java.lang.invoke.StringConcatFactory obj = new java.lang.invoke.StringConcatFactory();obj.hashCode();}}

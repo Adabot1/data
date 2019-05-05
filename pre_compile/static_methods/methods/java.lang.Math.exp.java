@@ -1,1 +1,0 @@
-class java_lang_Math_exp{ public static void function() {java.lang.Math.exp(0.5202410384553628);}}

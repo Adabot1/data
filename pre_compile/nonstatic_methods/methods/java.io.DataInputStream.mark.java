@@ -1,1 +1,0 @@
-class java_io_DataInputStream_mark{ public static void function() {java.io.DataInputStream obj = new java.io.DataInputStream();java.io.DataInputStream.mark(1466952989);}}

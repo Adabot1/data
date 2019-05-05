@@ -1,1 +1,0 @@
-class java_lang_annotation_RetentionPolicy_name{ public static void function() {java.lang.annotation.RetentionPolicy obj = new java.lang.annotation.RetentionPolicy();java.lang.annotation.RetentionPolicy.name();}}

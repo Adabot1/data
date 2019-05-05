@@ -1,0 +1,1 @@
+class java_util_Date_UTC_int_int_int_int_int_int{ public static void function() {java.util.Date.UTC(1415080586,658960466,-333902032,-194551503,-2113766236,45730365);}}

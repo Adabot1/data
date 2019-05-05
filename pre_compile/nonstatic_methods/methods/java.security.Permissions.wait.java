@@ -1,1 +1,0 @@
-class java_security_Permissions_wait{ public static void function() {java.security.Permissions obj = new java.security.Permissions();java.security.Permissions.wait();}}

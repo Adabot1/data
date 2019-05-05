@@ -1,1 +1,0 @@
-class java_util_jar_JarOutputStream_write{ public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();java.util.jar.JarOutputStream.write(1092308432);}}

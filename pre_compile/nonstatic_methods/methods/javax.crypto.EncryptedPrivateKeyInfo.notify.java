@@ -1,1 +1,0 @@
-class javax_crypto_EncryptedPrivateKeyInfo_notify{ public static void function() {javax.crypto.EncryptedPrivateKeyInfo obj = new javax.crypto.EncryptedPrivateKeyInfo();javax.crypto.EncryptedPrivateKeyInfo.notify();}}

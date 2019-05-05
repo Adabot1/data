@@ -1,1 +1,0 @@
-class java_lang_Character_isJavaIdentifierStart{ public static void function() {java.lang.Character.isJavaIdentifierStart(1760901009);}}

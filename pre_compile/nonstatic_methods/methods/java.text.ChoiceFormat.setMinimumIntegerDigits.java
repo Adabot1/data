@@ -1,1 +1,0 @@
-class java_text_ChoiceFormat_setMinimumIntegerDigits{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();java.text.ChoiceFormat.setMinimumIntegerDigits(-1044964992);}}

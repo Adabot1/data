@@ -1,0 +1,1 @@
+class java_lang_Math_subtractExact_int_int{ public static void function() {java.lang.Math.subtractExact(1920218573,1221005407);}}

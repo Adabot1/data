@@ -1,1 +1,0 @@
-class java_math_MathContext_toString{ public static void function() {java.math.MathContext obj = new java.math.MathContext();java.math.MathContext.toString();}}

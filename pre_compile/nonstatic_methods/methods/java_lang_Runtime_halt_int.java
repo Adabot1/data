@@ -1,0 +1,1 @@
+class java_lang_Runtime_halt_int{ public static void function() {java.lang.Runtime obj = new java.lang.Runtime();obj.halt(1152268811);}}

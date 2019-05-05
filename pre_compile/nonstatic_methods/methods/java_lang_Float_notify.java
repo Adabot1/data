@@ -1,0 +1,1 @@
+class java_lang_Float_notify{ public static void function() {java.lang.Float obj = new java.lang.Float();obj.notify();}}

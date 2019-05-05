@@ -1,1 +1,0 @@
-class java_security_CryptoPrimitive_toString{ public static void function() {java.security.CryptoPrimitive obj = new java.security.CryptoPrimitive();java.security.CryptoPrimitive.toString();}}

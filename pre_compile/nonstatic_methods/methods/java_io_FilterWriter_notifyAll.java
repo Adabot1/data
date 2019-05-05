@@ -1,0 +1,1 @@
+class java_io_FilterWriter_notifyAll{ public static void function() {java.io.FilterWriter obj = new java.io.FilterWriter();obj.notifyAll();}}

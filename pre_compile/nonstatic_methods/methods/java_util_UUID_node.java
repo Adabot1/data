@@ -1,0 +1,1 @@
+class java_util_UUID_node{ public static void function() {java.util.UUID obj = new java.util.UUID();obj.node();}}

@@ -1,0 +1,1 @@
+class java_net_ServerSocket_setSoTimeout_int{ public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();obj.setSoTimeout(-1500335973);}}

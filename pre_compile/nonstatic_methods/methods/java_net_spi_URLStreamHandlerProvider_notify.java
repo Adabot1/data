@@ -1,0 +1,1 @@
+class java_net_spi_URLStreamHandlerProvider_notify{ public static void function() {java.net.spi.URLStreamHandlerProvider obj = new java.net.spi.URLStreamHandlerProvider();obj.notify();}}

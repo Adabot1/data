@@ -1,0 +1,1 @@
+class java_nio_file_LinkPermission_getClass{ public static void function() {java.nio.file.LinkPermission obj = new java.nio.file.LinkPermission();obj.getClass();}}

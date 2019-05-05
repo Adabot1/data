@@ -1,1 +1,0 @@
-class java_util_EventObject_toString{ public static void function() {java.util.EventObject obj = new java.util.EventObject();java.util.EventObject.toString();}}

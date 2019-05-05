@@ -1,1 +1,0 @@
-class java_lang_Character_forDigit{ public static void function() {java.lang.Character.forDigit(1238017133,-1552552192);}}

@@ -1,1 +1,0 @@
-class java_util_PropertyPermission_toString{ public static void function() {java.util.PropertyPermission obj = new java.util.PropertyPermission();java.util.PropertyPermission.toString();}}

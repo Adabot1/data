@@ -1,0 +1,1 @@
+class java_net_MulticastSocket_setSoTimeout_int{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();obj.setSoTimeout(1415690714);}}

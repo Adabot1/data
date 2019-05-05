@@ -1,1 +1,0 @@
-class java_net_JarURLConnection_setDefaultAllowUserInteraction{ public static void function() {java.net.JarURLConnection.setDefaultAllowUserInteraction(false);}}

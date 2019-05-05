@@ -1,0 +1,1 @@
+class java_net_URLEncoder_toString{ public static void function() {java.net.URLEncoder obj = new java.net.URLEncoder();obj.toString();}}

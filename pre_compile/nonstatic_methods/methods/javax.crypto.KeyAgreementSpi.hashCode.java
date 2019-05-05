@@ -1,1 +1,0 @@
-class javax_crypto_KeyAgreementSpi_hashCode{ public static void function() {javax.crypto.KeyAgreementSpi obj = new javax.crypto.KeyAgreementSpi();javax.crypto.KeyAgreementSpi.hashCode();}}

@@ -1,0 +1,1 @@
+class java_util_OptionalLong_toString{ public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();obj.toString();}}

@@ -1,0 +1,1 @@
+class java_time_YearMonth_lengthOfMonth{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.lengthOfMonth();}}

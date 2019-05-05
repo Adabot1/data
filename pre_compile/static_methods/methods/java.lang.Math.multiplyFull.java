@@ -1,1 +1,0 @@
-class java_lang_Math_multiplyFull{ public static void function() {java.lang.Math.multiplyFull(250222292,2032976161);}}

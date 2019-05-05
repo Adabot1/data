@@ -1,1 +1,0 @@
-class java_io_File_canRead{ public static void function() {java.io.File obj = new java.io.File();java.io.File.canRead();}}

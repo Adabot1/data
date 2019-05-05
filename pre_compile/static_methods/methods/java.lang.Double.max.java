@@ -1,1 +1,0 @@
-class java_lang_Double_max{ public static void function() {java.lang.Double.max(0.5717710204059846,0.7474699706329166);}}

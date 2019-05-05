@@ -1,0 +1,1 @@
+class java_util_UUID_timestamp{ public static void function() {java.util.UUID obj = new java.util.UUID();obj.timestamp();}}

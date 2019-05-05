@@ -1,1 +1,0 @@
-class java_lang_reflect_Modifier_wait{ public static void function() {java.lang.reflect.Modifier obj = new java.lang.reflect.Modifier();java.lang.reflect.Modifier.wait();}}

@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_withSecond_int{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.withSecond(1929518807);}}

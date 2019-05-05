@@ -1,1 +1,0 @@
-class java_lang_Character_isMirrored{ public static void function() {java.lang.Character.isMirrored(1817093500);}}

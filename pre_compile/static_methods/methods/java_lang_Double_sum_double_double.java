@@ -1,0 +1,1 @@
+class java_lang_Double_sum_double_double{ public static void function() {java.lang.Double.sum(0.6562997398823661,0.25479466681973606);}}

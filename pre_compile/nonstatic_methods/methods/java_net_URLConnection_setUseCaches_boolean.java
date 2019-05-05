@@ -1,0 +1,1 @@
+class java_net_URLConnection_setUseCaches_boolean{ public static void function() {java.net.URLConnection obj = new java.net.URLConnection();obj.setUseCaches(false);}}

@@ -1,0 +1,1 @@
+class java_lang_Byte_toString_byte{ public static void function() {java.lang.Byte.toString([B@51c8530f);}}

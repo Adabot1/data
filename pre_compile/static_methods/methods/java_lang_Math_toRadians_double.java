@@ -1,0 +1,1 @@
+class java_lang_Math_toRadians_double{ public static void function() {java.lang.Math.toRadians(0.30958627951999573);}}

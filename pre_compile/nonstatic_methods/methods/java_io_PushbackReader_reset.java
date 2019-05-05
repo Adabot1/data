@@ -1,0 +1,1 @@
+class java_io_PushbackReader_reset{ public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();obj.reset();}}

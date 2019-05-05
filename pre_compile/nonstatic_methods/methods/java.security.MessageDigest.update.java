@@ -1,1 +1,0 @@
-class java_security_MessageDigest_update{ public static void function() {java.security.MessageDigest obj = new java.security.MessageDigest();java.security.MessageDigest.update([B@25359ed8);}}

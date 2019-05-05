@@ -1,1 +1,0 @@
-class javax_crypto_spec_DHPublicKeySpec_getY{ public static void function() {javax.crypto.spec.DHPublicKeySpec obj = new javax.crypto.spec.DHPublicKeySpec();javax.crypto.spec.DHPublicKeySpec.getY();}}

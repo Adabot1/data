@@ -1,1 +1,0 @@
-class java_lang_Double_valueOf{ public static void function() {java.lang.Double.valueOf(0.10636249274853882);}}

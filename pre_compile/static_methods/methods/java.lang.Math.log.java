@@ -1,1 +1,0 @@
-class java_lang_Math_log{ public static void function() {java.lang.Math.log(0.8587741875058371);}}

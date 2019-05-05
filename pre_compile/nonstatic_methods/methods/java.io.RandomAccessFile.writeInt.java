@@ -1,1 +1,0 @@
-class java_io_RandomAccessFile_writeInt{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();java.io.RandomAccessFile.writeInt(-1184813318);}}

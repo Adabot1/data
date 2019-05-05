@@ -1,1 +1,0 @@
-class java_util_Objects_checkFromIndexSize{ public static void function() {java.util.Objects.checkFromIndexSize(-2122805932,-295035064,1018082265);}}

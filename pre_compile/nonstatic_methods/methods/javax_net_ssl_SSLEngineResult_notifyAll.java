@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLEngineResult_notifyAll{ public static void function() {javax.net.ssl.SSLEngineResult obj = new javax.net.ssl.SSLEngineResult();obj.notifyAll();}}

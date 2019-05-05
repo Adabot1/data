@@ -1,0 +1,1 @@
+class java_net_URI_getPort{ public static void function() {java.net.URI obj = new java.net.URI();obj.getPort();}}

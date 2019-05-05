@@ -1,1 +1,0 @@
-class java_lang_Integer_valueOf{ public static void function() {java.lang.Integer.valueOf(1903381852);}}

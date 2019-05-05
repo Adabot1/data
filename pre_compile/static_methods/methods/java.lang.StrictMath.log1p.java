@@ -1,1 +1,0 @@
-class java_lang_StrictMath_log1p{ public static void function() {java.lang.StrictMath.log1p(0.09208612635374158);}}

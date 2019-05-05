@@ -1,1 +1,0 @@
-class java_util_OptionalDouble_orElse{ public static void function() {java.util.OptionalDouble obj = new java.util.OptionalDouble();java.util.OptionalDouble.orElse(0.03491159298839541);}}

@@ -1,1 +1,0 @@
-class java_lang_Character_isISOControl{ public static void function() {java.lang.Character.isISOControl(-64256025);}}

@@ -1,1 +1,0 @@
-class java_util_stream_IntStream_of{ public static void function() {java.util.stream.IntStream.of(-1910203514);}}

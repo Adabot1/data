@@ -1,1 +1,0 @@
-class java_time_Period_of{ public static void function() {java.time.Period.of(1695957568,965793567,-1126808967);}}

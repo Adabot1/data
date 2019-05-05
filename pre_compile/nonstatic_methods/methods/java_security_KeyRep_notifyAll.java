@@ -1,0 +1,1 @@
+class java_security_KeyRep_notifyAll{ public static void function() {java.security.KeyRep obj = new java.security.KeyRep();obj.notifyAll();}}

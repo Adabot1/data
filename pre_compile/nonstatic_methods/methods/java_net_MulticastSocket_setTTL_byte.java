@@ -1,0 +1,1 @@
+class java_net_MulticastSocket_setTTL_byte{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();obj.setTTL([B@24a35978);}}

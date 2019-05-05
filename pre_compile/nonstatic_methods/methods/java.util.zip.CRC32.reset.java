@@ -1,1 +1,0 @@
-class java_util_zip_CRC32_reset{ public static void function() {java.util.zip.CRC32 obj = new java.util.zip.CRC32();java.util.zip.CRC32.reset();}}

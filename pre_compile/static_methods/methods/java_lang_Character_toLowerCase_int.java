@@ -1,0 +1,1 @@
+class java_lang_Character_toLowerCase_int{ public static void function() {java.lang.Character.toLowerCase(186189766);}}

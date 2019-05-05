@@ -1,1 +1,0 @@
-class java_security_BasicPermission_getActions{ public static void function() {java.security.BasicPermission obj = new java.security.BasicPermission();java.security.BasicPermission.getActions();}}

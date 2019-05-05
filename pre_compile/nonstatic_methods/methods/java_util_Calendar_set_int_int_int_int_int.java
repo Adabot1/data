@@ -1,0 +1,1 @@
+class java_util_Calendar_set_int_int_int_int_int{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.set(339622650,-22580245,-1975010969,-1684841921,-1498775996);}}

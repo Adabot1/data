@@ -1,0 +1,1 @@
+class java_io_DataInputStream_readNBytes_int{ public static void function() {java.io.DataInputStream obj = new java.io.DataInputStream();obj.readNBytes(582065839);}}

@@ -1,0 +1,1 @@
+class java_lang_String_getClass{ public static void function() {java.lang.String obj = new java.lang.String();obj.getClass();}}

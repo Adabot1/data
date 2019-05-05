@@ -1,1 +1,0 @@
-class java_security_Timestamp_toString{ public static void function() {java.security.Timestamp obj = new java.security.Timestamp();java.security.Timestamp.toString();}}

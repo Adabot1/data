@@ -1,1 +1,0 @@
-class java_time_DayOfWeek_getValue{ public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();java.time.DayOfWeek.getValue();}}

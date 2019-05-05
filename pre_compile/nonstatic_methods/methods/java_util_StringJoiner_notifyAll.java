@@ -1,0 +1,1 @@
+class java_util_StringJoiner_notifyAll{ public static void function() {java.util.StringJoiner obj = new java.util.StringJoiner();obj.notifyAll();}}

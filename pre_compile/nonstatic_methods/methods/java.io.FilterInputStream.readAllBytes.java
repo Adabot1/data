@@ -1,1 +1,0 @@
-class java_io_FilterInputStream_readAllBytes{ public static void function() {java.io.FilterInputStream obj = new java.io.FilterInputStream();java.io.FilterInputStream.readAllBytes();}}

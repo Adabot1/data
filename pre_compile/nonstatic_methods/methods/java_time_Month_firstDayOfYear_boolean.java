@@ -1,0 +1,1 @@
+class java_time_Month_firstDayOfYear_boolean{ public static void function() {java.time.Month obj = new java.time.Month();obj.firstDayOfYear(false);}}

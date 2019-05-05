@@ -1,0 +1,1 @@
+class javax_crypto_KeyAgreementSpi_notifyAll{ public static void function() {javax.crypto.KeyAgreementSpi obj = new javax.crypto.KeyAgreementSpi();obj.notifyAll();}}

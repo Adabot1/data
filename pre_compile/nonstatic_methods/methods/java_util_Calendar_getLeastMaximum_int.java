@@ -1,0 +1,1 @@
+class java_util_Calendar_getLeastMaximum_int{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.getLeastMaximum(-1811579064);}}

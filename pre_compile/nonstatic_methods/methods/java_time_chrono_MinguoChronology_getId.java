@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoChronology_getId{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();obj.getId();}}

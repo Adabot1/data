@@ -1,0 +1,1 @@
+class java_net_SecureCacheResponse_getClass{ public static void function() {java.net.SecureCacheResponse obj = new java.net.SecureCacheResponse();obj.getClass();}}

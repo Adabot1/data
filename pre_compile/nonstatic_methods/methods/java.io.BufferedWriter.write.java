@@ -1,1 +1,0 @@
-class java_io_BufferedWriter_write{ public static void function() {java.io.BufferedWriter obj = new java.io.BufferedWriter();java.io.BufferedWriter.write(-452953820);}}

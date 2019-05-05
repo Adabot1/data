@@ -1,0 +1,1 @@
+class javax_net_ssl_HttpsURLConnection_setFollowRedirects_boolean{ public static void function() {javax.net.ssl.HttpsURLConnection.setFollowRedirects(false);}}

@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_getOffset_int_int_int_int_int_int{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.getOffset(1300851195,61262858,1628235467,1485382790,1616644068,-918077994);}}

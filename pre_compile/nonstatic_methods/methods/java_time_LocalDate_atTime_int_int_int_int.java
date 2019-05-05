@@ -1,0 +1,1 @@
+class java_time_LocalDate_atTime_int_int_int_int{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();obj.atTime(915363036,358056813,-231105326,-1862929226);}}

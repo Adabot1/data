@@ -1,0 +1,1 @@
+class java_io_BufferedInputStream_notifyAll{ public static void function() {java.io.BufferedInputStream obj = new java.io.BufferedInputStream();obj.notifyAll();}}

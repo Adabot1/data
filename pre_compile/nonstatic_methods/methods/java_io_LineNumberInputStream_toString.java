@@ -1,0 +1,1 @@
+class java_io_LineNumberInputStream_toString{ public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();obj.toString();}}

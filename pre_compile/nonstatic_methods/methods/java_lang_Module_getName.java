@@ -1,0 +1,1 @@
+class java_lang_Module_getName{ public static void function() {java.lang.Module obj = new java.lang.Module();obj.getName();}}

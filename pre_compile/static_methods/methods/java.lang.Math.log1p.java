@@ -1,1 +1,0 @@
-class java_lang_Math_log1p{ public static void function() {java.lang.Math.log1p(0.13602704071785987);}}

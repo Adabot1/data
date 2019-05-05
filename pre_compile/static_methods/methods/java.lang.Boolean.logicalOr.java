@@ -1,1 +1,0 @@
-class java_lang_Boolean_logicalOr{ public static void function() {java.lang.Boolean.logicalOr(true,false);}}

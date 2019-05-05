@@ -1,1 +1,0 @@
-class java_time_temporal_IsoFields_hashCode{ public static void function() {java.time.temporal.IsoFields obj = new java.time.temporal.IsoFields();java.time.temporal.IsoFields.hashCode();}}

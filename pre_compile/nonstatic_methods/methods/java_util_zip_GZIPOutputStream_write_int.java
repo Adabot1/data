@@ -1,0 +1,1 @@
+class java_util_zip_GZIPOutputStream_write_int{ public static void function() {java.util.zip.GZIPOutputStream obj = new java.util.zip.GZIPOutputStream();obj.write(-1649025027);}}

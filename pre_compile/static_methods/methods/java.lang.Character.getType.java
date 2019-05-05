@@ -1,1 +1,0 @@
-class java_lang_Character_getType{ public static void function() {java.lang.Character.getType(-391183814);}}

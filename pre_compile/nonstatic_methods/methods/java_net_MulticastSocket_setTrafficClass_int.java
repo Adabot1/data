@@ -1,0 +1,1 @@
+class java_net_MulticastSocket_setTrafficClass_int{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();obj.setTrafficClass(-2053396523);}}

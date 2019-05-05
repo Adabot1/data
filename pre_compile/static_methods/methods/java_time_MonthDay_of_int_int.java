@@ -1,0 +1,1 @@
+class java_time_MonthDay_of_int_int{ public static void function() {java.time.MonthDay.of(-796560157,-1272591211);}}

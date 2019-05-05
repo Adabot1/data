@@ -1,0 +1,1 @@
+class java_net_JarURLConnection_getHeaderField_int{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();obj.getHeaderField(1061063379);}}

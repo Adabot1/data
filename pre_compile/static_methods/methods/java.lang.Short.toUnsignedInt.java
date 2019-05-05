@@ -1,1 +1,0 @@
-class java_lang_Short_toUnsignedInt{ public static void function() {java.lang.Short.toUnsignedInt(-45);}}

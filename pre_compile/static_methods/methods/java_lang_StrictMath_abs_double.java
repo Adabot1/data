@@ -1,0 +1,1 @@
+class java_lang_StrictMath_abs_double{ public static void function() {java.lang.StrictMath.abs(0.8035505761426363);}}
