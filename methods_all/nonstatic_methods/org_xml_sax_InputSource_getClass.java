@@ -1,0 +1,1 @@
+class org_xml_sax_InputSource_getClass{ public static void function() {org.xml.sax.InputSource obj = new org.xml.sax.InputSource();obj.getClass();}}

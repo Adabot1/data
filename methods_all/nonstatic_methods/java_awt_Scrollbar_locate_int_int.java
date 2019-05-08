@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_locate_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.locate(1784317051,-1830449292);}}

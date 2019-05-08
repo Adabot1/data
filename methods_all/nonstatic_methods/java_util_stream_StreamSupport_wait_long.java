@@ -1,0 +1,1 @@
+class java_util_stream_StreamSupport_wait_long{ public static void function() {java.util.stream.StreamSupport obj = new java.util.stream.StreamSupport();obj.wait(-7004011323659450914);}}

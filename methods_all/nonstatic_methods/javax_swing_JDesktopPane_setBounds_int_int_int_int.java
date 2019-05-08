@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_setBounds_int_int_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.setBounds(-1333844478,-1759240029,-2000347900,-925188857);}}

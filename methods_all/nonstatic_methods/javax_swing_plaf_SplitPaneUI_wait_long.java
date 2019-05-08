@@ -1,0 +1,1 @@
+class javax_swing_plaf_SplitPaneUI_wait_long{ public static void function() {javax.swing.plaf.SplitPaneUI obj = new javax.swing.plaf.SplitPaneUI();obj.wait(192550476075391570);}}

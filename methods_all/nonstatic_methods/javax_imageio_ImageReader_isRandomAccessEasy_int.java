@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_isRandomAccessEasy_int{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.isRandomAccessEasy(-1279417267);}}

@@ -1,0 +1,1 @@
+class java_beans_PropertyChangeListenerProxy_wait_long_int{ public static void function() {java.beans.PropertyChangeListenerProxy obj = new java.beans.PropertyChangeListenerProxy();obj.wait(3321087274049426667,-271839996);}}

@@ -1,0 +1,1 @@
+class java_nio_file_LinkOption_wait_long_int{ public static void function() {java.nio.file.LinkOption obj = new java.nio.file.LinkOption();obj.wait(6972818348750787066,-2040544037);}}

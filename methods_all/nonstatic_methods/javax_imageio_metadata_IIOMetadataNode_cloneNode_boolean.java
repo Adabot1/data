@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOMetadataNode_cloneNode_boolean{ public static void function() {javax.imageio.metadata.IIOMetadataNode obj = new javax.imageio.metadata.IIOMetadataNode();obj.cloneNode(true);}}

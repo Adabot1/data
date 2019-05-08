@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_createImage_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.createImage(-1102718055,-1298493861);}}

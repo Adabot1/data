@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_contains_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.contains(-1060433796,-693246600);}}

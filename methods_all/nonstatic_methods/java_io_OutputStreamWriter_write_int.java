@@ -1,0 +1,1 @@
+class java_io_OutputStreamWriter_write_int{ public static void function() {java.io.OutputStreamWriter obj = new java.io.OutputStreamWriter();obj.write(-309897406);}}

@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_hashCode{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.hashCode();}}

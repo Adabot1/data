@@ -1,0 +1,1 @@
+class javax_swing_border_SoftBevelBorder_getBevelType{ public static void function() {javax.swing.border.SoftBevelBorder obj = new javax.swing.border.SoftBevelBorder();obj.getBevelType();}}

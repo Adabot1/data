@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_MediaPrintableArea_getWidth_int{ public static void function() {javax.print.attribute.standard.MediaPrintableArea obj = new javax.print.attribute.standard.MediaPrintableArea();obj.getWidth(-1618409648);}}

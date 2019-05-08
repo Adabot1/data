@@ -1,0 +1,1 @@
+class java_awt_image_IndexColorModel_createCompatibleSampleModel_int_int{ public static void function() {java.awt.image.IndexColorModel obj = new java.awt.image.IndexColorModel();obj.createCompatibleSampleModel(821427786,-1317705475);}}

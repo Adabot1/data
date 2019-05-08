@@ -1,0 +1,1 @@
+class org_ietf_jgss_ChannelBinding_wait_long_int{ public static void function() {org.ietf.jgss.ChannelBinding obj = new org.ietf.jgss.ChannelBinding();obj.wait(-8377965588314299616,-238620794);}}

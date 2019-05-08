@@ -1,0 +1,1 @@
+class java_util_Timer_wait_long{ public static void function() {java.util.Timer obj = new java.util.Timer();obj.wait(4807228680876688280);}}

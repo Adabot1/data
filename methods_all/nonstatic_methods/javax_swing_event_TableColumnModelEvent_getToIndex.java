@@ -1,0 +1,1 @@
+class javax_swing_event_TableColumnModelEvent_getToIndex{ public static void function() {javax.swing.event.TableColumnModelEvent obj = new javax.swing.event.TableColumnModelEvent();obj.getToIndex();}}

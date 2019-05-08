@@ -1,0 +1,1 @@
+class java_util_spi_CurrencyNameProvider_wait_long{ public static void function() {java.util.spi.CurrencyNameProvider obj = new java.util.spi.CurrencyNameProvider();obj.wait(-6616213069819281531);}}

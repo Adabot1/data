@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_repaint_int_int_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.repaint(-1981662694,1571896202,696891528,-1358541024);}}

@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpPrincipal_wait{ public static void function() {com.sun.net.httpserver.HttpPrincipal obj = new com.sun.net.httpserver.HttpPrincipal();obj.wait();}}

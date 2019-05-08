@@ -1,0 +1,1 @@
+class java_awt_Polygon_reset{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.reset();}}

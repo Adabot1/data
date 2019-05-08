@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_withNano_int{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.withNano(1781427140);}}

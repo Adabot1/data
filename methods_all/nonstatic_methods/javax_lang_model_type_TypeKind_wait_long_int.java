@@ -1,0 +1,1 @@
+class javax_lang_model_type_TypeKind_wait_long_int{ public static void function() {javax.lang.model.type.TypeKind obj = new javax.lang.model.type.TypeKind();obj.wait(-5927335184552311007,-1390496867);}}

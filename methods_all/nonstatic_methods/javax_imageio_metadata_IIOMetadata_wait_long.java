@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOMetadata_wait_long{ public static void function() {javax.imageio.metadata.IIOMetadata obj = new javax.imageio.metadata.IIOMetadata();obj.wait(3633954183390716718);}}

@@ -1,0 +1,1 @@
+class javax_naming_ldap_LdapReferralException_wait_long{ public static void function() {javax.naming.ldap.LdapReferralException obj = new javax.naming.ldap.LdapReferralException();obj.wait(3289270632739419347);}}

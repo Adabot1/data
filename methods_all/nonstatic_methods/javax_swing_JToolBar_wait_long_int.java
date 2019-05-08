@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_wait_long_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.wait(-2469649547301542788,-504518536);}}

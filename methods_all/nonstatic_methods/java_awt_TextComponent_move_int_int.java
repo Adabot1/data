@@ -1,0 +1,1 @@
+class java_awt_TextComponent_move_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.move(-601637472,-1836392607);}}

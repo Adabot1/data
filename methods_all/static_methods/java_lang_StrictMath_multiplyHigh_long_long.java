@@ -1,0 +1,1 @@
+class java_lang_StrictMath_multiplyHigh_long_long{ public static void function() {java.lang.StrictMath.multiplyHigh(3366462389975205148,8027592184840162646);}}

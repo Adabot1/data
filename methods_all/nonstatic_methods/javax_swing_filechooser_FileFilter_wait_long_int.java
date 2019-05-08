@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileFilter_wait_long_int{ public static void function() {javax.swing.filechooser.FileFilter obj = new javax.swing.filechooser.FileFilter();obj.wait(2035996307034553119,157088941);}}

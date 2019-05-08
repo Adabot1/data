@@ -1,0 +1,1 @@
+class javax_naming_spi_ResolveResult_wait{ public static void function() {javax.naming.spi.ResolveResult obj = new javax.naming.spi.ResolveResult();obj.wait();}}

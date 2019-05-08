@@ -1,0 +1,1 @@
+class java_beans_IndexedPropertyChangeEvent_wait{ public static void function() {java.beans.IndexedPropertyChangeEvent obj = new java.beans.IndexedPropertyChangeEvent();obj.wait();}}

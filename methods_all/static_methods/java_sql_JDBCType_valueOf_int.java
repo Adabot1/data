@@ -1,0 +1,1 @@
+class java_sql_JDBCType_valueOf_int{ public static void function() {java.sql.JDBCType.valueOf(-1114433381);}}

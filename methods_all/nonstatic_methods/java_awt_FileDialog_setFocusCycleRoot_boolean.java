@@ -1,0 +1,1 @@
+class java_awt_FileDialog_setFocusCycleRoot_boolean{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.setFocusCycleRoot(true);}}

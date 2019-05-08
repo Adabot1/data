@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_wait_long{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.wait(1442730644971985264);}}

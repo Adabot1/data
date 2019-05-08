@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_setFlashTime_int{ public static void function() {javax.swing.DebugGraphics.setFlashTime(-1710844519);}}

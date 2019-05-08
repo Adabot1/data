@@ -1,0 +1,1 @@
+class java_awt_List_getFocusTraversalKeys_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.getFocusTraversalKeys(454874686);}}

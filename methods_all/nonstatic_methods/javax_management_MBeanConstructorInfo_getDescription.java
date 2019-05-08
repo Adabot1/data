@@ -1,0 +1,1 @@
+class javax_management_MBeanConstructorInfo_getDescription{ public static void function() {javax.management.MBeanConstructorInfo obj = new javax.management.MBeanConstructorInfo();obj.getDescription();}}

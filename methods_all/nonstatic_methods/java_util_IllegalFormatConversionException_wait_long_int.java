@@ -1,0 +1,1 @@
+class java_util_IllegalFormatConversionException_wait_long_int{ public static void function() {java.util.IllegalFormatConversionException obj = new java.util.IllegalFormatConversionException();obj.wait(2695797729284638179,924477185);}}

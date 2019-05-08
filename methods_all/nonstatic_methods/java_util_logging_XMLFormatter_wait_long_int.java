@@ -1,0 +1,1 @@
+class java_util_logging_XMLFormatter_wait_long_int{ public static void function() {java.util.logging.XMLFormatter obj = new java.util.logging.XMLFormatter();obj.wait(-4980702187829205499,1166542862);}}

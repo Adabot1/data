@@ -1,0 +1,1 @@
+class java_net_CacheRequest_wait_long_int{ public static void function() {java.net.CacheRequest obj = new java.net.CacheRequest();obj.wait(2449729477084441250,1533048551);}}

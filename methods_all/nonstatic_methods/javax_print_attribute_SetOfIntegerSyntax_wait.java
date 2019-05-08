@@ -1,0 +1,1 @@
+class javax_print_attribute_SetOfIntegerSyntax_wait{ public static void function() {javax.print.attribute.SetOfIntegerSyntax obj = new javax.print.attribute.SetOfIntegerSyntax();obj.wait();}}

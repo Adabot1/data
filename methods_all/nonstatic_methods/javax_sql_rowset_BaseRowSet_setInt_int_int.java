@@ -1,0 +1,1 @@
+class javax_sql_rowset_BaseRowSet_setInt_int_int{ public static void function() {javax.sql.rowset.BaseRowSet obj = new javax.sql.rowset.BaseRowSet();obj.setInt(-2077698416,-534290024);}}

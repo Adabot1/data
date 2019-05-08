@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_repaint_long{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.repaint(-5681167031874020635);}}

@@ -1,0 +1,1 @@
+class javax_imageio_ImageTypeSpecifier_getSampleModel{ public static void function() {javax.imageio.ImageTypeSpecifier obj = new javax.imageio.ImageTypeSpecifier();obj.getSampleModel();}}

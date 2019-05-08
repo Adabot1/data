@@ -1,0 +1,1 @@
+class javax_imageio_spi_IIOServiceProvider_getClass{ public static void function() {javax.imageio.spi.IIOServiceProvider obj = new javax.imageio.spi.IIOServiceProvider();obj.getClass();}}

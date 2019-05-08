@@ -1,0 +1,1 @@
+class jdk_net_SocketFlow_create{ public static void function() {jdk.net.SocketFlow.create();}}

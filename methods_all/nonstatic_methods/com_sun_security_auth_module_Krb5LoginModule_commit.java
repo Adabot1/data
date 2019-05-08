@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_Krb5LoginModule_commit{ public static void function() {com.sun.security.auth.module.Krb5LoginModule obj = new com.sun.security.auth.module.Krb5LoginModule();obj.commit();}}

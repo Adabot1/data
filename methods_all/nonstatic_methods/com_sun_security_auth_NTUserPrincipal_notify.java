@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTUserPrincipal_notify{ public static void function() {com.sun.security.auth.NTUserPrincipal obj = new com.sun.security.auth.NTUserPrincipal();obj.notify();}}

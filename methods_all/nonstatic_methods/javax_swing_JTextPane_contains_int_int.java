@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_contains_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.contains(-1081739646,486081299);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_GlyphView_isVisible{ public static void function() {javax.swing.text.GlyphView obj = new javax.swing.text.GlyphView();obj.isVisible();}}

@@ -1,0 +1,1 @@
+class java_awt_image_MultiPixelPackedSampleModel_getNumBands{ public static void function() {java.awt.image.MultiPixelPackedSampleModel obj = new java.awt.image.MultiPixelPackedSampleModel();obj.getNumBands();}}

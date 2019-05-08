@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_setSize_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.setSize(1599155289,1034748833);}}

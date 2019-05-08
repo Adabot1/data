@@ -1,0 +1,1 @@
+class java_util_BitSet_clear_int_int{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.clear(-1738457034,1619193154);}}

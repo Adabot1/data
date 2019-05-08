@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_wait_long{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.wait(-6906448402382220479);}}

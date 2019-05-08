@@ -1,0 +1,1 @@
+class java_nio_charset_spi_CharsetProvider_wait_long{ public static void function() {java.nio.charset.spi.CharsetProvider obj = new java.nio.charset.spi.CharsetProvider();obj.wait(-544684197088544837);}}

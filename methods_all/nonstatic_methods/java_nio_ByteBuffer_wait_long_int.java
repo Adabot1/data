@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_wait_long_int{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.wait(-6756889864623089586,-829996844);}}

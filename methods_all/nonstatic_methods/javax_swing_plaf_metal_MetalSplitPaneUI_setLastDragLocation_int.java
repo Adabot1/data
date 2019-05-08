@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalSplitPaneUI_setLastDragLocation_int{ public static void function() {javax.swing.plaf.metal.MetalSplitPaneUI obj = new javax.swing.plaf.metal.MetalSplitPaneUI();obj.setLastDragLocation(1137947428);}}

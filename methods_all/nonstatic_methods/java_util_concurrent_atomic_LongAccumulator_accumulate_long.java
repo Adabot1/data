@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_LongAccumulator_accumulate_long{ public static void function() {java.util.concurrent.atomic.LongAccumulator obj = new java.util.concurrent.atomic.LongAccumulator();obj.accumulate(-9002177313696016411);}}

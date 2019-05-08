@@ -1,0 +1,1 @@
+class java_sql_SQLException_wait{ public static void function() {java.sql.SQLException obj = new java.sql.SQLException();obj.wait();}}

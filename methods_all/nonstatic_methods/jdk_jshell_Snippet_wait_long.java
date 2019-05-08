@@ -1,0 +1,1 @@
+class jdk_jshell_Snippet_wait_long{ public static void function() {jdk.jshell.Snippet obj = new jdk.jshell.Snippet();obj.wait(-1673075694413980918);}}

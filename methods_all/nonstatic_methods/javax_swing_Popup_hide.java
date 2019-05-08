@@ -1,0 +1,1 @@
+class javax_swing_Popup_hide{ public static void function() {javax.swing.Popup obj = new javax.swing.Popup();obj.hide();}}

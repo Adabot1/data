@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_repaint_long_int_int_int_int{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.repaint(-3488340067970683289,-1343606429,1989175054,162595537,230480817);}}

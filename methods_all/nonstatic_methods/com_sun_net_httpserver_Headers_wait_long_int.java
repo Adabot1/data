@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_Headers_wait_long_int{ public static void function() {com.sun.net.httpserver.Headers obj = new com.sun.net.httpserver.Headers();obj.wait(-6528780077884026190,282758144);}}

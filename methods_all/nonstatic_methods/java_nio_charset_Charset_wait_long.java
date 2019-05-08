@@ -1,0 +1,1 @@
+class java_nio_charset_Charset_wait_long{ public static void function() {java.nio.charset.Charset obj = new java.nio.charset.Charset();obj.wait(-4040328473835855592);}}

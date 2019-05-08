@@ -1,0 +1,1 @@
+class javax_swing_text_MaskFormatter_notifyAll{ public static void function() {javax.swing.text.MaskFormatter obj = new javax.swing.text.MaskFormatter();obj.notifyAll();}}

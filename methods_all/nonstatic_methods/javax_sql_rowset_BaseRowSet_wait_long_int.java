@@ -1,0 +1,1 @@
+class javax_sql_rowset_BaseRowSet_wait_long_int{ public static void function() {javax.sql.rowset.BaseRowSet obj = new javax.sql.rowset.BaseRowSet();obj.wait(-5344568822958757580,1449409622);}}

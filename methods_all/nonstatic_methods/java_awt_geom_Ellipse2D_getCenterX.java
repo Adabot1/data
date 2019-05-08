@@ -1,0 +1,1 @@
+class java_awt_geom_Ellipse2D_getCenterX{ public static void function() {java.awt.geom.Ellipse2D obj = new java.awt.geom.Ellipse2D();obj.getCenterX();}}

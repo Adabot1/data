@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalCheckBoxIcon_getIconWidth{ public static void function() {javax.swing.plaf.metal.MetalCheckBoxIcon obj = new javax.swing.plaf.metal.MetalCheckBoxIcon();obj.getIconWidth();}}

@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_substring_int_int{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.substring(136976830,1925134854);}}

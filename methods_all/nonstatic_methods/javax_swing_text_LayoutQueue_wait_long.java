@@ -1,0 +1,1 @@
+class javax_swing_text_LayoutQueue_wait_long{ public static void function() {javax.swing.text.LayoutQueue obj = new javax.swing.text.LayoutQueue();obj.wait(-9221933212187540610);}}

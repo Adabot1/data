@@ -1,0 +1,1 @@
+class java_awt_MultipleGradientPaint_wait_long_int{ public static void function() {java.awt.MultipleGradientPaint obj = new java.awt.MultipleGradientPaint();obj.wait(-6460153928339206802,654620342);}}

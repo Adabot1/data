@@ -1,0 +1,1 @@
+class javax_swing_text_EditorKit_createDefaultDocument{ public static void function() {javax.swing.text.EditorKit obj = new javax.swing.text.EditorKit();obj.createDefaultDocument();}}

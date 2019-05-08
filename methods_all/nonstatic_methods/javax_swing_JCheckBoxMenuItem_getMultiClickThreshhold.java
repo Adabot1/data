@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_getMultiClickThreshhold{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.getMultiClickThreshhold();}}

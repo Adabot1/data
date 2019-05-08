@@ -1,0 +1,1 @@
+class java_awt_image_Raster_createCompatibleWritableRaster_int_int{ public static void function() {java.awt.image.Raster obj = new java.awt.image.Raster();obj.createCompatibleWritableRaster(-343863169,481116404);}}

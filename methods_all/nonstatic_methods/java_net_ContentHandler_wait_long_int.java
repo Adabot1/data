@@ -1,0 +1,1 @@
+class java_net_ContentHandler_wait_long_int{ public static void function() {java.net.ContentHandler obj = new java.net.ContentHandler();obj.wait(-3768378734742509200,-1778907969);}}

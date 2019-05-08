@@ -1,0 +1,1 @@
+class java_lang_Integer_compare_int_int{ public static void function() {java.lang.Integer.compare(1662597109,-1986083329);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLWriter_wait_long_int{ public static void function() {javax.swing.text.html.HTMLWriter obj = new javax.swing.text.html.HTMLWriter();obj.wait(-1594912945024561456,9219170);}}

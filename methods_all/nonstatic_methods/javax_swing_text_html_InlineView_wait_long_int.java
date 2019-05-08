@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_wait_long_int{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.wait(3443202651511344388,-1691172742);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_getPartialSpan_int_int{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.getPartialSpan(1727470694,1082336071);}}

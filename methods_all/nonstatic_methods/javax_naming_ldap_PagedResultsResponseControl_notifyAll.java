@@ -1,0 +1,1 @@
+class javax_naming_ldap_PagedResultsResponseControl_notifyAll{ public static void function() {javax.naming.ldap.PagedResultsResponseControl obj = new javax.naming.ldap.PagedResultsResponseControl();obj.notifyAll();}}

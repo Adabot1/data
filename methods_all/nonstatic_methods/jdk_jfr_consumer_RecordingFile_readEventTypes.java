@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordingFile_readEventTypes{ public static void function() {jdk.jfr.consumer.RecordingFile obj = new jdk.jfr.consumer.RecordingFile();obj.readEventTypes();}}

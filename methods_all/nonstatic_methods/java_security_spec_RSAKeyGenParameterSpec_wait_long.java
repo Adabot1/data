@@ -1,0 +1,1 @@
+class java_security_spec_RSAKeyGenParameterSpec_wait_long{ public static void function() {java.security.spec.RSAKeyGenParameterSpec obj = new java.security.spec.RSAKeyGenParameterSpec();obj.wait(4398734594396338830);}}

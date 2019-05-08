@@ -1,0 +1,1 @@
+class java_awt_geom_Line2D_relativeCCW_double_double{ public static void function() {java.awt.geom.Line2D obj = new java.awt.geom.Line2D();obj.relativeCCW(0.022765063099130733,0.6199883919100051);}}

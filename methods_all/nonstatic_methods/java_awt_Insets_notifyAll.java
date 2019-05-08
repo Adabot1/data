@@ -1,0 +1,1 @@
+class java_awt_Insets_notifyAll{ public static void function() {java.awt.Insets obj = new java.awt.Insets();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class netscape_javascript_JSObject_getSlot_int{ public static void function() {netscape.javascript.JSObject obj = new netscape.javascript.JSObject();obj.getSlot(1035871352);}}

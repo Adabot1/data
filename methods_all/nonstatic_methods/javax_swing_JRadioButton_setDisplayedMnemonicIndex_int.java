@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_setDisplayedMnemonicIndex_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.setDisplayedMnemonicIndex(1480784788);}}

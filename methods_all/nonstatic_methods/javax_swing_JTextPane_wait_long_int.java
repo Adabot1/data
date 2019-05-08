@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_wait_long_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.wait(5147997701010939635,-1363159078);}}

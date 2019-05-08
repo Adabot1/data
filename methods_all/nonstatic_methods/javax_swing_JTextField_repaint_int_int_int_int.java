@@ -1,0 +1,1 @@
+class javax_swing_JTextField_repaint_int_int_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.repaint(-215036835,2133372211,746186089,1089563913);}}

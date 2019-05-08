@@ -1,0 +1,1 @@
+class java_util_concurrent_CyclicBarrier_wait_long{ public static void function() {java.util.concurrent.CyclicBarrier obj = new java.util.concurrent.CyclicBarrier();obj.wait(-3209862930676733903);}}

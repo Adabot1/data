@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_KeyTab_notify{ public static void function() {javax.security.auth.kerberos.KeyTab obj = new javax.security.auth.kerberos.KeyTab();obj.notify();}}

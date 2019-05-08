@@ -1,0 +1,1 @@
+class java_nio_file_Files_wait_long{ public static void function() {java.nio.file.Files obj = new java.nio.file.Files();obj.wait(6923208601457098260);}}

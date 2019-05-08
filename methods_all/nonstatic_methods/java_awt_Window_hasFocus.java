@@ -1,0 +1,1 @@
+class java_awt_Window_hasFocus{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.hasFocus();}}

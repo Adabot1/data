@@ -1,0 +1,1 @@
+class java_io_FilterWriter_wait_long{ public static void function() {java.io.FilterWriter obj = new java.io.FilterWriter();obj.wait(-5697092077105361145);}}

@@ -1,0 +1,1 @@
+class java_time_DayOfWeek_minus_long{ public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();obj.minus(-3716334208888502718);}}

@@ -1,0 +1,1 @@
+class java_net_MulticastSocket_setTimeToLive_int{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();obj.setTimeToLive(-767053954);}}

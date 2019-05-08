@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_weakCompareAndSetVolatile_int_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.weakCompareAndSetVolatile(1887024074,-1951017181158409110,4115210889653758519);}}

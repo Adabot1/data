@@ -1,0 +1,1 @@
+class java_beans_DefaultPersistenceDelegate_wait_long{ public static void function() {java.beans.DefaultPersistenceDelegate obj = new java.beans.DefaultPersistenceDelegate();obj.wait(-2326572843366661108);}}

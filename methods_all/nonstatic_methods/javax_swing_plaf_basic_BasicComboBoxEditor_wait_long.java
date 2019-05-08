@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboBoxEditor_wait_long{ public static void function() {javax.swing.plaf.basic.BasicComboBoxEditor obj = new javax.swing.plaf.basic.BasicComboBoxEditor();obj.wait(3252560519801201084);}}

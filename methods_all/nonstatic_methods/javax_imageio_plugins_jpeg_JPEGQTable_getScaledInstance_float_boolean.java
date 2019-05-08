@@ -1,0 +1,1 @@
+class javax_imageio_plugins_jpeg_JPEGQTable_getScaledInstance_float_boolean{ public static void function() {javax.imageio.plugins.jpeg.JPEGQTable obj = new javax.imageio.plugins.jpeg.JPEGQTable();obj.getScaledInstance(0.00900507,false);}}

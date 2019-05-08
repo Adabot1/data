@@ -1,0 +1,1 @@
+class javax_naming_Reference_wait_long{ public static void function() {javax.naming.Reference obj = new javax.naming.Reference();obj.wait(-1880461770727904107);}}

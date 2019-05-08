@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriter_canReplacePixels_int{ public static void function() {javax.imageio.ImageWriter obj = new javax.imageio.ImageWriter();obj.canReplacePixels(1549819040);}}

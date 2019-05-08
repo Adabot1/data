@@ -1,0 +1,1 @@
+class javax_swing_JViewport_move_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.move(859263360,150702812);}}

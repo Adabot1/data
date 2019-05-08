@@ -1,0 +1,1 @@
+class java_awt_TextComponent_select_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.select(-1541054338,1018674822);}}

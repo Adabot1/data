@@ -1,0 +1,1 @@
+class com_sun_source_util_TaskEvent_wait_long_int{ public static void function() {com.sun.source.util.TaskEvent obj = new com.sun.source.util.TaskEvent();obj.wait(-2110506749476528849,1891405149);}}

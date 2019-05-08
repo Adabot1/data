@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTarget_setDefaultActions_int{ public static void function() {java.awt.dnd.DropTarget obj = new java.awt.dnd.DropTarget();obj.setDefaultActions(-937435670);}}

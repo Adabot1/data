@@ -1,0 +1,1 @@
+class java_lang_reflect_UndeclaredThrowableException_getSuppressed{ public static void function() {java.lang.reflect.UndeclaredThrowableException obj = new java.lang.reflect.UndeclaredThrowableException();obj.getSuppressed();}}

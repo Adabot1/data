@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_setAlignmentX_float{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.setAlignmentX(0.96822095);}}

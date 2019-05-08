@@ -1,0 +1,1 @@
+class java_awt_FlowLayout_setAlignOnBaseline_boolean{ public static void function() {java.awt.FlowLayout obj = new java.awt.FlowLayout();obj.setAlignOnBaseline(true);}}

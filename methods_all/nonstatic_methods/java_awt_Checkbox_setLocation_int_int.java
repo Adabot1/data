@@ -1,0 +1,1 @@
+class java_awt_Checkbox_setLocation_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.setLocation(-1777619163,-719305836);}}

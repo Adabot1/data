@@ -1,0 +1,1 @@
+class java_awt_Robot_wait_long_int{ public static void function() {java.awt.Robot obj = new java.awt.Robot();obj.wait(-8675674789721828230,585479564);}}

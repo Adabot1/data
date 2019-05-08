@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_setSize_int_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.setSize(1171430750,636673910);}}

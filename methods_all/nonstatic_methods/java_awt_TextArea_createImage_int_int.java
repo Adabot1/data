@@ -1,0 +1,1 @@
+class java_awt_TextArea_createImage_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.createImage(1501747482,-1605364111);}}

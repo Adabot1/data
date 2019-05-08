@@ -1,0 +1,1 @@
+class javax_swing_JApplet_createVolatileImage_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.createVolatileImage(512693481,-77628682);}}

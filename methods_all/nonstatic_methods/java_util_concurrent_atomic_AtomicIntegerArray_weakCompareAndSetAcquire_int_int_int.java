@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_weakCompareAndSetAcquire_int_int_int{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.weakCompareAndSetAcquire(-310729608,-49522235,1184668691);}}

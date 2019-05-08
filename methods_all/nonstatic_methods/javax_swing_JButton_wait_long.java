@@ -1,0 +1,1 @@
+class javax_swing_JButton_wait_long{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.wait(4642297731094461544);}}

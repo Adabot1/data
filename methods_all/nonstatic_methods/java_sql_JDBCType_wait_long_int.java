@@ -1,0 +1,1 @@
+class java_sql_JDBCType_wait_long_int{ public static void function() {java.sql.JDBCType obj = new java.sql.JDBCType();obj.wait(-2533867951433956328,290733454);}}

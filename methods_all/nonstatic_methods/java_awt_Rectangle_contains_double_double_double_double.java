@@ -1,0 +1,1 @@
+class java_awt_Rectangle_contains_double_double_double_double{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.contains(0.05195046995525343,0.008495186389191445,0.6471707939561718,0.24059898165395333);}}

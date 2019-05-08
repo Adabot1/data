@@ -1,0 +1,1 @@
+class javax_swing_text_CompositeView_wait_long{ public static void function() {javax.swing.text.CompositeView obj = new javax.swing.text.CompositeView();obj.wait(5961664107101933587);}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextField_resize_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.resize(-1322512722,1914595552);}}

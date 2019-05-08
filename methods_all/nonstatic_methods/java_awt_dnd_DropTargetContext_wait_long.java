@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTargetContext_wait_long{ public static void function() {java.awt.dnd.DropTargetContext obj = new java.awt.dnd.DropTargetContext();obj.wait(-3497462680285773454);}}

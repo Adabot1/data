@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicScrollPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicScrollPaneUI obj = new javax.swing.plaf.basic.BasicScrollPaneUI();obj.wait(8035641457057824376,-1222283232);}}

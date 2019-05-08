@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_removeAll{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.removeAll();}}

@@ -1,0 +1,1 @@
+class java_awt_PrintJob_end{ public static void function() {java.awt.PrintJob obj = new java.awt.PrintJob();obj.end();}}

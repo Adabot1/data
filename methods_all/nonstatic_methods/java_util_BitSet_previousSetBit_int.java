@@ -1,0 +1,1 @@
+class java_util_BitSet_previousSetBit_int{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.previousSetBit(541730174);}}

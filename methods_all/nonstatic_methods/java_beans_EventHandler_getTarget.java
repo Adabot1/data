@@ -1,0 +1,1 @@
+class java_beans_EventHandler_getTarget{ public static void function() {java.beans.EventHandler obj = new java.beans.EventHandler();obj.getTarget();}}

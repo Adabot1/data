@@ -1,0 +1,1 @@
+class java_awt_Image_hashCode{ public static void function() {java.awt.Image obj = new java.awt.Image();obj.hashCode();}}

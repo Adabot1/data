@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_getComponent_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.getComponent(395337292);}}

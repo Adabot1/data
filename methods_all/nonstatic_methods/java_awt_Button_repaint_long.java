@@ -1,0 +1,1 @@
+class java_awt_Button_repaint_long{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.repaint(-3838823186882492995);}}

@@ -1,0 +1,1 @@
+class java_security_cert_CertStoreSpi_wait_long_int{ public static void function() {java.security.cert.CertStoreSpi obj = new java.security.cert.CertStoreSpi();obj.wait(7211411191625502083,210254659);}}

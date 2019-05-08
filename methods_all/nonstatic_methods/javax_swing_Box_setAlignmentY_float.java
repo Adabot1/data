@@ -1,0 +1,1 @@
+class javax_swing_Box_setAlignmentY_float{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.setAlignmentY(0.9009162);}}

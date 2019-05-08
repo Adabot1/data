@@ -1,0 +1,1 @@
+class java_sql_Timestamp_wait_long{ public static void function() {java.sql.Timestamp obj = new java.sql.Timestamp();obj.wait(3363134852482518436);}}

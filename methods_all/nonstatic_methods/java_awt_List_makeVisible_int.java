@@ -1,0 +1,1 @@
+class java_awt_List_makeVisible_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.makeVisible(952072879);}}

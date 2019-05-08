@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpContext_wait_long{ public static void function() {com.sun.net.httpserver.HttpContext obj = new com.sun.net.httpserver.HttpContext();obj.wait(-3493120936218140081);}}

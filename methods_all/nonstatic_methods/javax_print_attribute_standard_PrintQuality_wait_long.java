@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrintQuality_wait_long{ public static void function() {javax.print.attribute.standard.PrintQuality obj = new javax.print.attribute.standard.PrintQuality();obj.wait(6811204876446903513);}}

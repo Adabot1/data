@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobKOctetsProcessed_wait_long_int{ public static void function() {javax.print.attribute.standard.JobKOctetsProcessed obj = new javax.print.attribute.standard.JobKOctetsProcessed();obj.wait(-130497973232307772,-962694735);}}

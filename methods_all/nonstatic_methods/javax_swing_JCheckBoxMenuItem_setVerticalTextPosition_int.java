@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_setVerticalTextPosition_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.setVerticalTextPosition(1403133160);}}

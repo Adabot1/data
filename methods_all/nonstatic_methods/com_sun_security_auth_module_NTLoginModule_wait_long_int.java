@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_NTLoginModule_wait_long_int{ public static void function() {com.sun.security.auth.module.NTLoginModule obj = new com.sun.security.auth.module.NTLoginModule();obj.wait(646792052911741983,-373669746);}}

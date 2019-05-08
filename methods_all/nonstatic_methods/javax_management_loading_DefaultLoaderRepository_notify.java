@@ -1,0 +1,1 @@
+class javax_management_loading_DefaultLoaderRepository_notify{ public static void function() {javax.management.loading.DefaultLoaderRepository obj = new javax.management.loading.DefaultLoaderRepository();obj.notify();}}

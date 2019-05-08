@@ -1,0 +1,1 @@
+class jdk_jfr_Recording_wait_long_int{ public static void function() {jdk.jfr.Recording obj = new jdk.jfr.Recording();obj.wait(2705874810695348081,-1463218587);}}

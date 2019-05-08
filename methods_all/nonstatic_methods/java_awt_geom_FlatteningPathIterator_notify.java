@@ -1,0 +1,1 @@
+class java_awt_geom_FlatteningPathIterator_notify{ public static void function() {java.awt.geom.FlatteningPathIterator obj = new java.awt.geom.FlatteningPathIterator();obj.notify();}}

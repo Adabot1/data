@@ -1,0 +1,1 @@
+class javax_sql_rowset_spi_SyncFactory_getSyncFactory{ public static void function() {javax.sql.rowset.spi.SyncFactory.getSyncFactory();}}

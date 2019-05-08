@@ -1,0 +1,1 @@
+class java_beans_DefaultPersistenceDelegate_notifyAll{ public static void function() {java.beans.DefaultPersistenceDelegate obj = new java.beans.DefaultPersistenceDelegate();obj.notifyAll();}}

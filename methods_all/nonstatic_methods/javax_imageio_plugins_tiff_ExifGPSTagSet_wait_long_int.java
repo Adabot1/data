@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_ExifGPSTagSet_wait_long_int{ public static void function() {javax.imageio.plugins.tiff.ExifGPSTagSet obj = new javax.imageio.plugins.tiff.ExifGPSTagSet();obj.wait(4291442798067496280,-1501010867);}}

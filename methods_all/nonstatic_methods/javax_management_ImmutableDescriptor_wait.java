@@ -1,0 +1,1 @@
+class javax_management_ImmutableDescriptor_wait{ public static void function() {javax.management.ImmutableDescriptor obj = new javax.management.ImmutableDescriptor();obj.wait();}}

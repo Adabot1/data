@@ -1,0 +1,1 @@
+class java_util_SplittableRandom_wait_long_int{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();obj.wait(2788720125820160376,-28052458);}}

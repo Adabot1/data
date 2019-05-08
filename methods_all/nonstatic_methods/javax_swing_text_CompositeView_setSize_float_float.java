@@ -1,0 +1,1 @@
+class javax_swing_text_CompositeView_setSize_float_float{ public static void function() {javax.swing.text.CompositeView obj = new javax.swing.text.CompositeView();obj.setSize(0.51662135,0.74626094);}}

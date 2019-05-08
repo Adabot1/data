@@ -1,0 +1,1 @@
+class java_awt_font_TextLayout_getLogicalHighlightShape_int_int{ public static void function() {java.awt.font.TextLayout obj = new java.awt.font.TextLayout();obj.getLogicalHighlightShape(398286752,-684225646);}}

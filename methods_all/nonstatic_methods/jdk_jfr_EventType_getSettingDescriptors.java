@@ -1,0 +1,1 @@
+class jdk_jfr_EventType_getSettingDescriptors{ public static void function() {jdk.jfr.EventType obj = new jdk.jfr.EventType();obj.getSettingDescriptors();}}

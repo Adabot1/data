@@ -1,0 +1,1 @@
+class javax_swing_GroupLayout_wait_long{ public static void function() {javax.swing.GroupLayout obj = new javax.swing.GroupLayout();obj.wait(7040922800846066194);}}

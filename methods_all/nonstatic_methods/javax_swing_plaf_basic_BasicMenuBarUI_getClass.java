@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicMenuBarUI_getClass{ public static void function() {javax.swing.plaf.basic.BasicMenuBarUI obj = new javax.swing.plaf.basic.BasicMenuBarUI();obj.getClass();}}

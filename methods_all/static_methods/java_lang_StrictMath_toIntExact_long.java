@@ -1,0 +1,1 @@
+class java_lang_StrictMath_toIntExact_long{ public static void function() {java.lang.StrictMath.toIntExact(-7208208267813984452);}}

@@ -1,0 +1,1 @@
+class javax_crypto_spec_DHGenParameterSpec_getClass{ public static void function() {javax.crypto.spec.DHGenParameterSpec obj = new javax.crypto.spec.DHGenParameterSpec();obj.getClass();}}

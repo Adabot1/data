@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicPanelUI_notifyAll{ public static void function() {javax.swing.plaf.basic.BasicPanelUI obj = new javax.swing.plaf.basic.BasicPanelUI();obj.notifyAll();}}

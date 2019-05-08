@@ -1,0 +1,1 @@
+class java_lang_reflect_Array_toString{ public static void function() {java.lang.reflect.Array obj = new java.lang.reflect.Array();obj.toString();}}

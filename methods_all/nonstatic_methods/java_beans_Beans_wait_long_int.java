@@ -1,0 +1,1 @@
+class java_beans_Beans_wait_long_int{ public static void function() {java.beans.Beans obj = new java.beans.Beans();obj.wait(418951955988218549,933392434);}}

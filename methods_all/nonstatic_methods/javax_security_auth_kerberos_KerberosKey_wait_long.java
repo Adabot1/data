@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_KerberosKey_wait_long{ public static void function() {javax.security.auth.kerberos.KerberosKey obj = new javax.security.auth.kerberos.KerberosKey();obj.wait(-5844745950524328770);}}

@@ -1,0 +1,1 @@
+class java_lang_Math_scalb_float_int{ public static void function() {java.lang.Math.scalb(0.50829154,-2130773419);}}

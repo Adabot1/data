@@ -1,0 +1,1 @@
+class java_awt_PointerInfo_wait_long_int{ public static void function() {java.awt.PointerInfo obj = new java.awt.PointerInfo();obj.wait(9156020166148922660,-252204541);}}

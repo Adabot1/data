@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSidGroupPrincipal_wait_long_int{ public static void function() {com.sun.security.auth.NTSidGroupPrincipal obj = new com.sun.security.auth.NTSidGroupPrincipal();obj.wait(2311847893231295952,1325041596);}}

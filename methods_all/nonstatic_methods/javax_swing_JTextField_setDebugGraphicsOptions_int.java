@@ -1,0 +1,1 @@
+class javax_swing_JTextField_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.setDebugGraphicsOptions(-770570451);}}

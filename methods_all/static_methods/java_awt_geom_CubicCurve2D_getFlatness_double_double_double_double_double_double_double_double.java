@@ -1,0 +1,1 @@
+class java_awt_geom_CubicCurve2D_getFlatness_double_double_double_double_double_double_double_double{ public static void function() {java.awt.geom.CubicCurve2D.getFlatness(0.9358048840345771,0.831033186476013,0.04482101699269159,0.8035381245140724,0.29307171892512573,0.03568112076296981,0.5911994844355148,0.5770269085565116);}}

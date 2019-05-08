@@ -1,0 +1,1 @@
+class java_util_Base64_wait_long{ public static void function() {java.util.Base64 obj = new java.util.Base64();obj.wait(-6366105765907432947);}}

@@ -1,0 +1,1 @@
+class javax_naming_directory_SearchControls_setCountLimit_long{ public static void function() {javax.naming.directory.SearchControls obj = new javax.naming.directory.SearchControls();obj.setCountLimit(-3703593206840935418);}}

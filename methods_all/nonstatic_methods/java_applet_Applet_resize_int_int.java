@@ -1,0 +1,1 @@
+class java_applet_Applet_resize_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.resize(-1515886198,1742794179);}}

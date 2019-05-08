@@ -1,0 +1,1 @@
+class javax_management_loading_MLetContent_wait_long{ public static void function() {javax.management.loading.MLetContent obj = new javax.management.loading.MLetContent();obj.wait(3699616199709239701);}}

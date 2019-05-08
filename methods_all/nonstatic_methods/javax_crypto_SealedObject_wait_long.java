@@ -1,0 +1,1 @@
+class javax_crypto_SealedObject_wait_long{ public static void function() {javax.crypto.SealedObject obj = new javax.crypto.SealedObject();obj.wait(-375292540703735692);}}

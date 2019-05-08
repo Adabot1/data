@@ -1,0 +1,1 @@
+class javax_swing_JMenu_findComponentAt_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.findComponentAt(1475190336,3371052);}}

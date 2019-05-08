@@ -1,0 +1,1 @@
+class org_xml_sax_ext_DefaultHandler2_endCDATA{ public static void function() {org.xml.sax.ext.DefaultHandler2 obj = new org.xml.sax.ext.DefaultHandler2();obj.endCDATA();}}

@@ -1,0 +1,1 @@
+class javax_swing_JFrame_move_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.move(-1011821785,-1544027630);}}

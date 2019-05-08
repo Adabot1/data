@@ -1,0 +1,1 @@
+class jdk_management_jfr_ConfigurationInfo_getContents{ public static void function() {jdk.management.jfr.ConfigurationInfo obj = new jdk.management.jfr.ConfigurationInfo();obj.getContents();}}

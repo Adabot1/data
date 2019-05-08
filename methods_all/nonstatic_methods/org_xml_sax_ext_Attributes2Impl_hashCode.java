@@ -1,0 +1,1 @@
+class org_xml_sax_ext_Attributes2Impl_hashCode{ public static void function() {org.xml.sax.ext.Attributes2Impl obj = new org.xml.sax.ext.Attributes2Impl();obj.hashCode();}}

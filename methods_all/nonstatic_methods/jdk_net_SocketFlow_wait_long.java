@@ -1,0 +1,1 @@
+class jdk_net_SocketFlow_wait_long{ public static void function() {jdk.net.SocketFlow obj = new jdk.net.SocketFlow();obj.wait(-2823475631362107163);}}

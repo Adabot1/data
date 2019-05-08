@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicToolBarUI_setOrientation_int{ public static void function() {javax.swing.plaf.basic.BasicToolBarUI obj = new javax.swing.plaf.basic.BasicToolBarUI();obj.setOrientation(-1296156348);}}

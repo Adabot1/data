@@ -1,0 +1,1 @@
+class java_lang_Module_wait_long_int{ public static void function() {java.lang.Module obj = new java.lang.Module();obj.wait(-8375443562647280006,-155726427);}}

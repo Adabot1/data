@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_SheetCollate_wait_long_int{ public static void function() {javax.print.attribute.standard.SheetCollate obj = new javax.print.attribute.standard.SheetCollate();obj.wait(3920925635096705930,752880176);}}

@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroupID_getSystem{ public static void function() {java.rmi.activation.ActivationGroupID obj = new java.rmi.activation.ActivationGroupID();obj.getSystem();}}

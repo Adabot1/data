@@ -1,0 +1,1 @@
+class java_awt_desktop_FilesEvent_getSource{ public static void function() {java.awt.desktop.FilesEvent obj = new java.awt.desktop.FilesEvent();obj.getSource();}}

@@ -1,0 +1,1 @@
+class java_math_BigDecimal_valueOf_long{ public static void function() {java.math.BigDecimal.valueOf(-801436492962821190);}}

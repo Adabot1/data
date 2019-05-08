@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoChronology_dateYearDay_int_int{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();obj.dateYearDay(-426457335,-2133983921);}}

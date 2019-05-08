@@ -1,0 +1,1 @@
+class java_awt_ContainerOrderFocusTraversalPolicy_getImplicitDownCycleTraversal{ public static void function() {java.awt.ContainerOrderFocusTraversalPolicy obj = new java.awt.ContainerOrderFocusTraversalPolicy();obj.getImplicitDownCycleTraversal();}}

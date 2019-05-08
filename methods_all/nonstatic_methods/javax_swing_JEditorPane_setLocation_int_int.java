@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_setLocation_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.setLocation(-76621766,-260953699);}}

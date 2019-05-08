@@ -1,0 +1,1 @@
+class java_util_logging_Formatter_wait{ public static void function() {java.util.logging.Formatter obj = new java.util.logging.Formatter();obj.wait();}}

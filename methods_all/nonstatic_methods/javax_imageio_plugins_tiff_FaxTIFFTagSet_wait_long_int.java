@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_FaxTIFFTagSet_wait_long_int{ public static void function() {javax.imageio.plugins.tiff.FaxTIFFTagSet obj = new javax.imageio.plugins.tiff.FaxTIFFTagSet();obj.wait(-7543557047321502596,949617197);}}

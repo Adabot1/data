@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.paintImmediately(-305837626,470909962,921650758,-1292187817);}}

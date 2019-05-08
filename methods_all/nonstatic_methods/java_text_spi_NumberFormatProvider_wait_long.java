@@ -1,0 +1,1 @@
+class java_text_spi_NumberFormatProvider_wait_long{ public static void function() {java.text.spi.NumberFormatProvider obj = new java.text.spi.NumberFormatProvider();obj.wait(-6640485117366909379);}}

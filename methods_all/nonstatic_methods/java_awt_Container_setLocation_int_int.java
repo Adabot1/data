@@ -1,0 +1,1 @@
+class java_awt_Container_setLocation_int_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.setLocation(156537451,-318979185);}}

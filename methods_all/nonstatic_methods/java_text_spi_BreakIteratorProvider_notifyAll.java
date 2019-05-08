@@ -1,0 +1,1 @@
+class java_text_spi_BreakIteratorProvider_notifyAll{ public static void function() {java.text.spi.BreakIteratorProvider obj = new java.text.spi.BreakIteratorProvider();obj.notifyAll();}}

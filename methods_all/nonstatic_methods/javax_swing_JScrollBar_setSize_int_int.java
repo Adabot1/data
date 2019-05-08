@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_setSize_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.setSize(-873371043,-943309614);}}

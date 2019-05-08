@@ -1,0 +1,1 @@
+class javax_swing_text_CompositeView_getMaximumSpan_int{ public static void function() {javax.swing.text.CompositeView obj = new javax.swing.text.CompositeView();obj.getMaximumSpan(-2146075893);}}

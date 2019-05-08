@@ -1,0 +1,1 @@
+class java_security_PermissionCollection_wait_long_int{ public static void function() {java.security.PermissionCollection obj = new java.security.PermissionCollection();obj.wait(-6413134796886816895,686999801);}}

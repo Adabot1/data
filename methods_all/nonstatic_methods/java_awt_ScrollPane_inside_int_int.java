@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_inside_int_int{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.inside(-1720501892,-1201919125);}}

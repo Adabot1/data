@@ -1,0 +1,1 @@
+class javax_naming_CompositeName_remove_int{ public static void function() {javax.naming.CompositeName obj = new javax.naming.CompositeName();obj.remove(-1393828395);}}

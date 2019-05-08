@@ -1,0 +1,1 @@
+class java_beans_MethodDescriptor_notifyAll{ public static void function() {java.beans.MethodDescriptor obj = new java.beans.MethodDescriptor();obj.notifyAll();}}

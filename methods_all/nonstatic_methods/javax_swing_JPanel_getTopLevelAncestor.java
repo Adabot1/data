@@ -1,0 +1,1 @@
+class javax_swing_JPanel_getTopLevelAncestor{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.getTopLevelAncestor();}}

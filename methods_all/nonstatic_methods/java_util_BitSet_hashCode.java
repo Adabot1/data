@@ -1,0 +1,1 @@
+class java_util_BitSet_hashCode{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.hashCode();}}

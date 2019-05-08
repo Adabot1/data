@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_plusMinutes_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.plusMinutes(8828293526521989856);}}

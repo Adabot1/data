@@ -1,0 +1,1 @@
+class javax_crypto_KeyAgreement_wait_long_int{ public static void function() {javax.crypto.KeyAgreement obj = new javax.crypto.KeyAgreement();obj.wait(-5668136241964056221,-76315840);}}

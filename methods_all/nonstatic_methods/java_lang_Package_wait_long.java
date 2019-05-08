@@ -1,0 +1,1 @@
+class java_lang_Package_wait_long{ public static void function() {java.lang.Package obj = new java.lang.Package();obj.wait(-8069128417486933341);}}

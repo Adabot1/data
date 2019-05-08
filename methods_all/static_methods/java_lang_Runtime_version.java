@@ -1,0 +1,1 @@
+class java_lang_Runtime_version{ public static void function() {java.lang.Runtime.version();}}

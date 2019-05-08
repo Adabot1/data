@@ -1,0 +1,1 @@
+class javax_swing_event_RowSorterEvent_wait_long_int{ public static void function() {javax.swing.event.RowSorterEvent obj = new javax.swing.event.RowSorterEvent();obj.wait(7056659051446022171,-979038699);}}

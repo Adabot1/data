@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_URLReader_mark_int{ public static void function() {jdk.nashorn.api.scripting.URLReader obj = new jdk.nashorn.api.scripting.URLReader();obj.mark(958717258);}}

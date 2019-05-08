@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_reshape_int_int_int_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.reshape(89646896,1249482922,1917162424,401722664);}}

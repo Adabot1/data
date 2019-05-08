@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_KeyStoreLoginModule_wait_long_int{ public static void function() {com.sun.security.auth.module.KeyStoreLoginModule obj = new com.sun.security.auth.module.KeyStoreLoginModule();obj.wait(3995769466938342682,497810194);}}

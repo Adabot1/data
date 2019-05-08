@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_createVolatileImage_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.createVolatileImage(-848121978,52730673);}}

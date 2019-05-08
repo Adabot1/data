@@ -1,0 +1,1 @@
+class javax_imageio_IIOParam_setSourceSubsampling_int_int_int_int{ public static void function() {javax.imageio.IIOParam obj = new javax.imageio.IIOParam();obj.setSourceSubsampling(2036192821,-1024001742,1285446332,911113695);}}

@@ -1,0 +1,1 @@
+class javax_swing_JButton_getDefaultLocale{ public static void function() {javax.swing.JButton.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class javax_sql_rowset_RowSetMetaDataImpl_setCurrency_int_boolean{ public static void function() {javax.sql.rowset.RowSetMetaDataImpl obj = new javax.sql.rowset.RowSetMetaDataImpl();obj.setCurrency(-2146682610,true);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoDate_now{ public static void function() {java.time.chrono.MinguoDate.now();}}

@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_plusHours_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.plusHours(8302473146425444242);}}

@@ -1,0 +1,1 @@
+class java_beans_VetoableChangeListenerProxy_wait_long{ public static void function() {java.beans.VetoableChangeListenerProxy obj = new java.beans.VetoableChangeListenerProxy();obj.wait(3870136578109352955);}}

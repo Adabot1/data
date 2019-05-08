@@ -1,0 +1,1 @@
+class java_awt_image_MemoryImageSource_newPixels_int_int_int_int_boolean{ public static void function() {java.awt.image.MemoryImageSource obj = new java.awt.image.MemoryImageSource();obj.newPixels(-715669156,-231616045,47724785,1284537955,true);}}

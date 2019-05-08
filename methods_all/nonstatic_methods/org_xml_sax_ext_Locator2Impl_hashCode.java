@@ -1,0 +1,1 @@
+class org_xml_sax_ext_Locator2Impl_hashCode{ public static void function() {org.xml.sax.ext.Locator2Impl obj = new org.xml.sax.ext.Locator2Impl();obj.hashCode();}}

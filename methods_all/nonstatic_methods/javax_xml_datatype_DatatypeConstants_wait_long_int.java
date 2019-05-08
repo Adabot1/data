@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeConstants_wait_long_int{ public static void function() {javax.xml.datatype.DatatypeConstants obj = new javax.xml.datatype.DatatypeConstants();obj.wait(-2380217030606745352,-1986559478);}}

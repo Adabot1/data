@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_resize_int_int{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.resize(-1224396782,-2063842642);}}

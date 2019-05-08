@@ -1,0 +1,1 @@
+class javax_swing_text_BoxView_remove_int{ public static void function() {javax.swing.text.BoxView obj = new javax.swing.text.BoxView();obj.remove(1157040233);}}

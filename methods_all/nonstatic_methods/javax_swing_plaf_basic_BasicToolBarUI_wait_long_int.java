@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicToolBarUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicToolBarUI obj = new javax.swing.plaf.basic.BasicToolBarUI();obj.wait(6376534485991624417,1151638812);}}

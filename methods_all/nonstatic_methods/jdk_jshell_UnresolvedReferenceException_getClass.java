@@ -1,0 +1,1 @@
+class jdk_jshell_UnresolvedReferenceException_getClass{ public static void function() {jdk.jshell.UnresolvedReferenceException obj = new jdk.jshell.UnresolvedReferenceException();obj.getClass();}}

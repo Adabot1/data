@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_spec_XPathFilterParameterSpec_wait_long_int{ public static void function() {javax.xml.crypto.dsig.spec.XPathFilterParameterSpec obj = new javax.xml.crypto.dsig.spec.XPathFilterParameterSpec();obj.wait(875954139946545673,-1635701167);}}

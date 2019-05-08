@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiViewportUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiViewportUI obj = new javax.swing.plaf.multi.MultiViewportUI();obj.wait(3461991368508727640,453406122);}}

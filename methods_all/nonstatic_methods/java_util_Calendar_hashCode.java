@@ -1,0 +1,1 @@
+class java_util_Calendar_hashCode{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_remove_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.remove(-1371423422);}}

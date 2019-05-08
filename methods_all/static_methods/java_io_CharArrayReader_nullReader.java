@@ -1,0 +1,1 @@
+class java_io_CharArrayReader_nullReader{ public static void function() {java.io.CharArrayReader.nullReader();}}

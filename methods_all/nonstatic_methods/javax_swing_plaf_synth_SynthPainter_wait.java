@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthPainter_wait{ public static void function() {javax.swing.plaf.synth.SynthPainter obj = new javax.swing.plaf.synth.SynthPainter();obj.wait();}}

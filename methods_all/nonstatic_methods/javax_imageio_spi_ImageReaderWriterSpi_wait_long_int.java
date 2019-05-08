@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageReaderWriterSpi_wait_long_int{ public static void function() {javax.imageio.spi.ImageReaderWriterSpi obj = new javax.imageio.spi.ImageReaderWriterSpi();obj.wait(9093651124786639626,1121223318);}}

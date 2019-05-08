@@ -1,0 +1,1 @@
+class java_util_logging_LogRecord_setSequenceNumber_long{ public static void function() {java.util.logging.LogRecord obj = new java.util.logging.LogRecord();obj.setSequenceNumber(7382297405567519231);}}

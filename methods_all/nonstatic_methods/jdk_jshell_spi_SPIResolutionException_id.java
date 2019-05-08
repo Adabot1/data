@@ -1,0 +1,1 @@
+class jdk_jshell_spi_SPIResolutionException_id{ public static void function() {jdk.jshell.spi.SPIResolutionException obj = new jdk.jshell.spi.SPIResolutionException();obj.id();}}

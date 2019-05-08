@@ -1,0 +1,1 @@
+class java_security_cert_PKIXParameters_wait{ public static void function() {java.security.cert.PKIXParameters obj = new java.security.cert.PKIXParameters();obj.wait();}}

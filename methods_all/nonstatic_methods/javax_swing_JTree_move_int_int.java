@@ -1,0 +1,1 @@
+class javax_swing_JTree_move_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.move(452179781,1744229950);}}

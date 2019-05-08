@@ -1,0 +1,1 @@
+class javax_swing_SortingFocusTraversalPolicy_getClass{ public static void function() {javax.swing.SortingFocusTraversalPolicy obj = new javax.swing.SortingFocusTraversalPolicy();obj.getClass();}}

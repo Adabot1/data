@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthProgressBarUI_toString{ public static void function() {javax.swing.plaf.synth.SynthProgressBarUI obj = new javax.swing.plaf.synth.SynthProgressBarUI();obj.toString();}}

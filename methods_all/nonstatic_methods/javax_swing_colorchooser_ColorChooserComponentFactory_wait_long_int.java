@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_ColorChooserComponentFactory_wait_long_int{ public static void function() {javax.swing.colorchooser.ColorChooserComponentFactory obj = new javax.swing.colorchooser.ColorChooserComponentFactory();obj.wait(2396454040175998611,-649794932);}}

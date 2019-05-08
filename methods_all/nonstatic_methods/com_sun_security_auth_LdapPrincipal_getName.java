@@ -1,0 +1,1 @@
+class com_sun_security_auth_LdapPrincipal_getName{ public static void function() {com.sun.security.auth.LdapPrincipal obj = new com.sun.security.auth.LdapPrincipal();obj.getName();}}

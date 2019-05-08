@@ -1,0 +1,1 @@
+class java_time_temporal_WeekFields_wait_long{ public static void function() {java.time.temporal.WeekFields obj = new java.time.temporal.WeekFields();obj.wait(6746675311205297722);}}

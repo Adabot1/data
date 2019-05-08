@@ -1,0 +1,1 @@
+class java_awt_image_SampleModel_wait_long{ public static void function() {java.awt.image.SampleModel obj = new java.awt.image.SampleModel();obj.wait(6942936878453560315);}}

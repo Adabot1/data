@@ -1,0 +1,1 @@
+class java_util_FormatFlagsConversionMismatchException_notify{ public static void function() {java.util.FormatFlagsConversionMismatchException obj = new java.util.FormatFlagsConversionMismatchException();obj.notify();}}

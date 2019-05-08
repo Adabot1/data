@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicInteger_wait_long_int{ public static void function() {java.util.concurrent.atomic.AtomicInteger obj = new java.util.concurrent.atomic.AtomicInteger();obj.wait(-4293962951458044099,371014325);}}

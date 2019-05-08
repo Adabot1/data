@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_setPlain_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.setPlain(-4192460065473242026);}}

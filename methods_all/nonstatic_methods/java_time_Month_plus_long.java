@@ -1,0 +1,1 @@
+class java_time_Month_plus_long{ public static void function() {java.time.Month obj = new java.time.Month();obj.plus(-6953806499254584850);}}

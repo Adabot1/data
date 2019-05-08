@@ -1,0 +1,1 @@
+class java_time_Instant_minusSeconds_long{ public static void function() {java.time.Instant obj = new java.time.Instant();obj.minusSeconds(-3966545959801055541);}}

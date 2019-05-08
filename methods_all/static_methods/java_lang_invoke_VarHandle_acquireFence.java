@@ -1,0 +1,1 @@
+class java_lang_invoke_VarHandle_acquireFence{ public static void function() {java.lang.invoke.VarHandle.acquireFence();}}

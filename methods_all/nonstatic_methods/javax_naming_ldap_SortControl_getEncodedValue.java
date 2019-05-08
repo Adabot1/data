@@ -1,0 +1,1 @@
+class javax_naming_ldap_SortControl_getEncodedValue{ public static void function() {javax.naming.ldap.SortControl obj = new javax.naming.ldap.SortControl();obj.getEncodedValue();}}

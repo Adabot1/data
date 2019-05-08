@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_ExifGPSTagSet_notifyAll{ public static void function() {javax.imageio.plugins.tiff.ExifGPSTagSet obj = new javax.imageio.plugins.tiff.ExifGPSTagSet();obj.notifyAll();}}

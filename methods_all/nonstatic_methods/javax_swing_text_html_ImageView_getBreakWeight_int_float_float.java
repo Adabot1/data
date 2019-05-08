@@ -1,0 +1,1 @@
+class javax_swing_text_html_ImageView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.html.ImageView obj = new javax.swing.text.html.ImageView();obj.getBreakWeight(443057882,0.6527091,0.6477785);}}

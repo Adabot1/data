@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_setWindowDecorationStyle_int{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.setWindowDecorationStyle(1597641861);}}

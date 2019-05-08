@@ -1,0 +1,1 @@
+class java_security_cert_CertPathValidator_getProvider{ public static void function() {java.security.cert.CertPathValidator obj = new java.security.cert.CertPathValidator();obj.getProvider();}}

@@ -1,0 +1,1 @@
+class java_util_IllegalFormatPrecisionException_wait_long{ public static void function() {java.util.IllegalFormatPrecisionException obj = new java.util.IllegalFormatPrecisionException();obj.wait(-6523667152211367703);}}

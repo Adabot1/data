@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_createVolatileImage_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.createVolatileImage(-1400942603,1684360179);}}

@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileImageOutputStream_wait_long_int{ public static void function() {javax.imageio.stream.FileImageOutputStream obj = new javax.imageio.stream.FileImageOutputStream();obj.wait(4154349721855884170,436443020);}}

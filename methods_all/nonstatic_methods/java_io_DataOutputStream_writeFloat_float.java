@@ -1,0 +1,1 @@
+class java_io_DataOutputStream_writeFloat_float{ public static void function() {java.io.DataOutputStream obj = new java.io.DataOutputStream();obj.writeFloat(0.3483088);}}

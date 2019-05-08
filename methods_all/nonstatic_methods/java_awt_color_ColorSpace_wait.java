@@ -1,0 +1,1 @@
+class java_awt_color_ColorSpace_wait{ public static void function() {java.awt.color.ColorSpace obj = new java.awt.color.ColorSpace();obj.wait();}}

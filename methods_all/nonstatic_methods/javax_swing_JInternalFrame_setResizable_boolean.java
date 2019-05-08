@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_setResizable_boolean{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.setResizable(false);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_setHorizontalAlignment_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.setHorizontalAlignment(-847885270);}}

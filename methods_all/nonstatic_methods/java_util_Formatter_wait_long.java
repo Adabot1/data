@@ -1,0 +1,1 @@
+class java_util_Formatter_wait_long{ public static void function() {java.util.Formatter obj = new java.util.Formatter();obj.wait(-7276566779961446374);}}

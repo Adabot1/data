@@ -1,0 +1,1 @@
+class java_lang_StackTraceElement_hashCode{ public static void function() {java.lang.StackTraceElement obj = new java.lang.StackTraceElement();obj.hashCode();}}

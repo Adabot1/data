@@ -1,0 +1,1 @@
+class java_awt_ComponentOrientation_notifyAll{ public static void function() {java.awt.ComponentOrientation obj = new java.awt.ComponentOrientation();obj.notifyAll();}}

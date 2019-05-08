@@ -1,0 +1,1 @@
+class javax_net_ssl_SNIMatcher_wait_long{ public static void function() {javax.net.ssl.SNIMatcher obj = new javax.net.ssl.SNIMatcher();obj.wait(-6732251986960641937);}}

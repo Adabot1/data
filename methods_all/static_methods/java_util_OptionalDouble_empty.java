@@ -1,0 +1,1 @@
+class java_util_OptionalDouble_empty{ public static void function() {java.util.OptionalDouble.empty();}}

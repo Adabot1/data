@@ -1,0 +1,1 @@
+class org_xml_sax_InputSource_wait_long{ public static void function() {org.xml.sax.InputSource obj = new org.xml.sax.InputSource();obj.wait(-4502217596321929397);}}

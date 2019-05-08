@@ -1,0 +1,1 @@
+class java_awt_Button_setBounds_int_int_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.setBounds(-754151406,-890350916,1302274695,844458500);}}

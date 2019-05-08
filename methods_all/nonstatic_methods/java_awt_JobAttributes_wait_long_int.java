@@ -1,0 +1,1 @@
+class java_awt_JobAttributes_wait_long_int{ public static void function() {java.awt.JobAttributes obj = new java.awt.JobAttributes();obj.wait(-8980120757133576812,1013317539);}}

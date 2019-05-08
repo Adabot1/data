@@ -1,0 +1,1 @@
+class java_awt_Button_repaint_int_int_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.repaint(-1313784426,1375943753,-2124698331,-220224009);}}

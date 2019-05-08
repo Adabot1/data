@@ -1,0 +1,1 @@
+class javax_swing_DropMode_wait_long_int{ public static void function() {javax.swing.DropMode obj = new javax.swing.DropMode();obj.wait(-1643686956640747353,1392005717);}}

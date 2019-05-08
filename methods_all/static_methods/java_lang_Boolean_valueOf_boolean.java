@@ -1,0 +1,1 @@
+class java_lang_Boolean_valueOf_boolean{ public static void function() {java.lang.Boolean.valueOf(false);}}

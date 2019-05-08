@@ -1,0 +1,1 @@
+class java_util_UnknownFormatConversionException_notifyAll{ public static void function() {java.util.UnknownFormatConversionException obj = new java.util.UnknownFormatConversionException();obj.notifyAll();}}

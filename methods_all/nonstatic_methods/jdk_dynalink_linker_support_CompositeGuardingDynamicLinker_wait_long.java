@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_support_CompositeGuardingDynamicLinker_wait_long{ public static void function() {jdk.dynalink.linker.support.CompositeGuardingDynamicLinker obj = new jdk.dynalink.linker.support.CompositeGuardingDynamicLinker();obj.wait(4612459152672978709);}}

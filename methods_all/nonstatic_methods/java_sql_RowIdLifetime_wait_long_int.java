@@ -1,0 +1,1 @@
+class java_sql_RowIdLifetime_wait_long_int{ public static void function() {java.sql.RowIdLifetime obj = new java.sql.RowIdLifetime();obj.wait(5678003090584855734,-936083593);}}

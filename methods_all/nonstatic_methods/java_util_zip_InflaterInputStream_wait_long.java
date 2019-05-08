@@ -1,0 +1,1 @@
+class java_util_zip_InflaterInputStream_wait_long{ public static void function() {java.util.zip.InflaterInputStream obj = new java.util.zip.InflaterInputStream();obj.wait(-2772990067148463972);}}

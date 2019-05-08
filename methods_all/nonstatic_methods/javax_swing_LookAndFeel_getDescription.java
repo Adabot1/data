@@ -1,0 +1,1 @@
+class javax_swing_LookAndFeel_getDescription{ public static void function() {javax.swing.LookAndFeel obj = new javax.swing.LookAndFeel();obj.getDescription();}}

@@ -1,0 +1,1 @@
+class java_awt_datatransfer_StringSelection_wait{ public static void function() {java.awt.datatransfer.StringSelection obj = new java.awt.datatransfer.StringSelection();obj.wait();}}

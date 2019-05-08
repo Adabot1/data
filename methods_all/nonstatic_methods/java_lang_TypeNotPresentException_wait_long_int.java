@@ -1,0 +1,1 @@
+class java_lang_TypeNotPresentException_wait_long_int{ public static void function() {java.lang.TypeNotPresentException obj = new java.lang.TypeNotPresentException();obj.wait(-7433039285955308677,-243540008);}}

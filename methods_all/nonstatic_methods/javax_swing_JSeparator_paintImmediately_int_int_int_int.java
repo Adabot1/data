@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.paintImmediately(-1655713451,1246540273,-1477793443,-1603927504);}}

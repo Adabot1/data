@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeFactory_newDurationYearMonth_long{ public static void function() {javax.xml.datatype.DatatypeFactory obj = new javax.xml.datatype.DatatypeFactory();obj.newDurationYearMonth(-6187768452554538674);}}

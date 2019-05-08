@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_DoubleAccumulator_accumulate_double{ public static void function() {java.util.concurrent.atomic.DoubleAccumulator obj = new java.util.concurrent.atomic.DoubleAccumulator();obj.accumulate(0.7885905313734188);}}

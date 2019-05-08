@@ -1,0 +1,1 @@
+class javax_swing_GrayFilter_wait{ public static void function() {javax.swing.GrayFilter obj = new javax.swing.GrayFilter();obj.wait();}}

@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_setBounds_int_int_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.setBounds(-2050235182,1801370598,-585976037,-1362868928);}}

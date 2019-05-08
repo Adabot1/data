@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferByte_getDataType{ public static void function() {java.awt.image.DataBufferByte obj = new java.awt.image.DataBufferByte();obj.getDataType();}}

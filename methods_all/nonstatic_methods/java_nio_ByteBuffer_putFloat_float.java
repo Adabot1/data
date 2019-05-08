@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_putFloat_float{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.putFloat(0.111512184);}}

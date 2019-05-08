@@ -1,0 +1,1 @@
+class javax_swing_DefaultButtonModel_wait_long{ public static void function() {javax.swing.DefaultButtonModel obj = new javax.swing.DefaultButtonModel();obj.wait(5771592609022881131);}}

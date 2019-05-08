@@ -1,0 +1,1 @@
+class javax_swing_DropMode_notifyAll{ public static void function() {javax.swing.DropMode obj = new javax.swing.DropMode();obj.notifyAll();}}

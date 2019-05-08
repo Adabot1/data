@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_move_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.move(-237222332,478992615);}}

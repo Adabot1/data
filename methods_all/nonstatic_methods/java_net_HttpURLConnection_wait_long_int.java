@@ -1,0 +1,1 @@
+class java_net_HttpURLConnection_wait_long_int{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();obj.wait(3021306165654214478,-2051458991);}}

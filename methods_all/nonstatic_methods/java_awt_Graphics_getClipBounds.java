@@ -1,0 +1,1 @@
+class java_awt_Graphics_getClipBounds{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.getClipBounds();}}

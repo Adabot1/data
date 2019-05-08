@@ -1,0 +1,1 @@
+class javax_security_auth_x500_X500Principal_wait_long{ public static void function() {javax.security.auth.x500.X500Principal obj = new javax.security.auth.x500.X500Principal();obj.wait(-1823763286827411027);}}

@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.paintImmediately(317610502,-2046916682,806322579,225664242);}}

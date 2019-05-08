@@ -1,0 +1,1 @@
+class java_time_zone_ZoneOffsetTransition_wait_long_int{ public static void function() {java.time.zone.ZoneOffsetTransition obj = new java.time.zone.ZoneOffsetTransition();obj.wait(-5762265598376218884,1058985709);}}

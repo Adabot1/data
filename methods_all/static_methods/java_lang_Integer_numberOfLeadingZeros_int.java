@@ -1,0 +1,1 @@
+class java_lang_Integer_numberOfLeadingZeros_int{ public static void function() {java.lang.Integer.numberOfLeadingZeros(185159569);}}

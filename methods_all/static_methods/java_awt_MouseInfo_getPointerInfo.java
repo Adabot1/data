@@ -1,0 +1,1 @@
+class java_awt_MouseInfo_getPointerInfo{ public static void function() {java.awt.MouseInfo.getPointerInfo();}}

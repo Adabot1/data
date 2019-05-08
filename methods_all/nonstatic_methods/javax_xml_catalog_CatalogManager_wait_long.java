@@ -1,0 +1,1 @@
+class javax_xml_catalog_CatalogManager_wait_long{ public static void function() {javax.xml.catalog.CatalogManager obj = new javax.xml.catalog.CatalogManager();obj.wait(-5062892047634951278);}}

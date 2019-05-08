@@ -1,0 +1,1 @@
+class java_lang_String_valueOf_boolean{ public static void function() {java.lang.String.valueOf(true);}}

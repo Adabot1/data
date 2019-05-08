@@ -1,0 +1,1 @@
+class java_util_jar_JarOutputStream_wait_long_int{ public static void function() {java.util.jar.JarOutputStream obj = new java.util.jar.JarOutputStream();obj.wait(-6244517826737900457,1978320767);}}

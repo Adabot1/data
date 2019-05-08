@@ -1,0 +1,1 @@
+class java_awt_Toolkit_isFrameStateSupported_int{ public static void function() {java.awt.Toolkit obj = new java.awt.Toolkit();obj.isFrameStateSupported(-367885191);}}

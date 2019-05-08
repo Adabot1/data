@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_isValidateRoot{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.isValidateRoot();}}

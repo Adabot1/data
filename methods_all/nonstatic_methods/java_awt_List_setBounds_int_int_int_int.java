@@ -1,0 +1,1 @@
+class java_awt_List_setBounds_int_int_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.setBounds(-1187894955,-1911535391,1688540334,75977593);}}

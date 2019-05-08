@@ -1,0 +1,1 @@
+class java_awt_dnd_DragGestureRecognizer_setSourceActions_int{ public static void function() {java.awt.dnd.DragGestureRecognizer obj = new java.awt.dnd.DragGestureRecognizer();obj.setSourceActions(-983855222);}}

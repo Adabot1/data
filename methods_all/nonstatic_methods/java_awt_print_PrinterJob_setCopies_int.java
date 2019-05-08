@@ -1,0 +1,1 @@
+class java_awt_print_PrinterJob_setCopies_int{ public static void function() {java.awt.print.PrinterJob obj = new java.awt.print.PrinterJob();obj.setCopies(-843869672);}}

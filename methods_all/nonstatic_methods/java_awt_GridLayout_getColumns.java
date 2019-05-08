@@ -1,0 +1,1 @@
+class java_awt_GridLayout_getColumns{ public static void function() {java.awt.GridLayout obj = new java.awt.GridLayout();obj.getColumns();}}

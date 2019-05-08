@@ -1,0 +1,1 @@
+class java_awt_im_InputContext_wait_long{ public static void function() {java.awt.im.InputContext obj = new java.awt.im.InputContext();obj.wait(3816249586336320808);}}

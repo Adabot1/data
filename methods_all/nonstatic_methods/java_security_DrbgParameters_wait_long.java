@@ -1,0 +1,1 @@
+class java_security_DrbgParameters_wait_long{ public static void function() {java.security.DrbgParameters obj = new java.security.DrbgParameters();obj.wait(-2295855947627365884);}}

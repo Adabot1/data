@@ -1,0 +1,1 @@
+class java_awt_Choice_inside_int_int{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.inside(436444703,558055779);}}

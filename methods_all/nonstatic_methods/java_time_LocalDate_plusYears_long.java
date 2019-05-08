@@ -1,0 +1,1 @@
+class java_time_LocalDate_plusYears_long{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();obj.plusYears(-9061789908008429653);}}

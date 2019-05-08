@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_minusMonths_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.minusMonths(2635325058357273791);}}

@@ -1,0 +1,1 @@
+class javax_swing_JViewport_repaint_long{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.repaint(6482936600893528165);}}

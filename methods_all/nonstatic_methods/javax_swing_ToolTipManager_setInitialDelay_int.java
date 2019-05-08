@@ -1,0 +1,1 @@
+class javax_swing_ToolTipManager_setInitialDelay_int{ public static void function() {javax.swing.ToolTipManager obj = new javax.swing.ToolTipManager();obj.setInitialDelay(-1012008601);}}

@@ -1,0 +1,1 @@
+class java_time_ZoneId_wait_long_int{ public static void function() {java.time.ZoneId obj = new java.time.ZoneId();obj.wait(6282005535824610782,-2028327902);}}

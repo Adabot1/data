@@ -1,0 +1,1 @@
+class java_lang_invoke_SwitchPoint_wait_long_int{ public static void function() {java.lang.invoke.SwitchPoint obj = new java.lang.invoke.SwitchPoint();obj.wait(5224668930748946045,1068174779);}}

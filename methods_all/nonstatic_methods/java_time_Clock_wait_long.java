@@ -1,0 +1,1 @@
+class java_time_Clock_wait_long{ public static void function() {java.time.Clock obj = new java.time.Clock();obj.wait(-5443129928310276603);}}

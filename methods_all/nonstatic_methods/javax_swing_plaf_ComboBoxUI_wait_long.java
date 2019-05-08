@@ -1,0 +1,1 @@
+class javax_swing_plaf_ComboBoxUI_wait_long{ public static void function() {javax.swing.plaf.ComboBoxUI obj = new javax.swing.plaf.ComboBoxUI();obj.wait(2215493196491785985);}}

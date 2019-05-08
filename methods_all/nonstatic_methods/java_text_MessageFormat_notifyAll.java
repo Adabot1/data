@@ -1,0 +1,1 @@
+class java_text_MessageFormat_notifyAll{ public static void function() {java.text.MessageFormat obj = new java.text.MessageFormat();obj.notifyAll();}}

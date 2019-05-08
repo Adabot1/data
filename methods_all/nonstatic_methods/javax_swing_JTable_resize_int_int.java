@@ -1,0 +1,1 @@
+class javax_swing_JTable_resize_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.resize(-669926366,2083040373);}}

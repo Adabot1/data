@@ -1,0 +1,1 @@
+class javax_swing_OverlayLayout_toString{ public static void function() {javax.swing.OverlayLayout obj = new javax.swing.OverlayLayout();obj.toString();}}

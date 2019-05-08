@@ -1,0 +1,1 @@
+class java_awt_Taskbar_wait_long_int{ public static void function() {java.awt.Taskbar obj = new java.awt.Taskbar();obj.wait(8175973053741462218,-857496749);}}

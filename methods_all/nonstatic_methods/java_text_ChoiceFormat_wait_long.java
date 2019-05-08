@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_wait_long{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();obj.wait(-3062309295185140465);}}

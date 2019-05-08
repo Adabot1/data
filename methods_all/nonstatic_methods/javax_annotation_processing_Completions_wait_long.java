@@ -1,0 +1,1 @@
+class javax_annotation_processing_Completions_wait_long{ public static void function() {javax.annotation.processing.Completions obj = new javax.annotation.processing.Completions();obj.wait(-734853914237129696);}}

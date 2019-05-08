@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_setAlignmentY_float{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.setAlignmentY(0.090474725);}}

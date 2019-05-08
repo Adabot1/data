@@ -1,0 +1,1 @@
+class javax_script_CompiledScript_wait{ public static void function() {javax.script.CompiledScript obj = new javax.script.CompiledScript();obj.wait();}}

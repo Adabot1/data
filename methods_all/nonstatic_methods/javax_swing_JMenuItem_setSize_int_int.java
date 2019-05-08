@@ -1,0 +1,1 @@
+class javax_swing_JMenuItem_setSize_int_int{ public static void function() {javax.swing.JMenuItem obj = new javax.swing.JMenuItem();obj.setSize(-1697359049,1813597923);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicOptionPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicOptionPaneUI obj = new javax.swing.plaf.basic.BasicOptionPaneUI();obj.wait(4891362192144699780,-1669753213);}}

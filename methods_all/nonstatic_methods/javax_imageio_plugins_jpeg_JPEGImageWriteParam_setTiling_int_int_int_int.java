@@ -1,0 +1,1 @@
+class javax_imageio_plugins_jpeg_JPEGImageWriteParam_setTiling_int_int_int_int{ public static void function() {javax.imageio.plugins.jpeg.JPEGImageWriteParam obj = new javax.imageio.plugins.jpeg.JPEGImageWriteParam();obj.setTiling(1000903914,433617392,108446987,1127561809);}}

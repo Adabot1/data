@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFDirectory_containsTIFFField_int{ public static void function() {javax.imageio.plugins.tiff.TIFFDirectory obj = new javax.imageio.plugins.tiff.TIFFDirectory();obj.containsTIFFField(-466093171);}}

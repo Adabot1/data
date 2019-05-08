@@ -1,0 +1,1 @@
+class java_awt_Cursor_notify{ public static void function() {java.awt.Cursor obj = new java.awt.Cursor();obj.notify();}}

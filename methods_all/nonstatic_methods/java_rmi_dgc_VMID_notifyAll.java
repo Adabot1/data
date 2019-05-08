@@ -1,0 +1,1 @@
+class java_rmi_dgc_VMID_notifyAll{ public static void function() {java.rmi.dgc.VMID obj = new java.rmi.dgc.VMID();obj.notifyAll();}}

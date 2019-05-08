@@ -1,0 +1,1 @@
+class javax_swing_ToolTipManager_wait_long_int{ public static void function() {javax.swing.ToolTipManager obj = new javax.swing.ToolTipManager();obj.wait(-462983893082969658,1570518200);}}

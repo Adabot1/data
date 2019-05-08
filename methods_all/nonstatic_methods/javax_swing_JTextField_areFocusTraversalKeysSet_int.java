@@ -1,0 +1,1 @@
+class javax_swing_JTextField_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.areFocusTraversalKeysSet(-60982790);}}

@@ -1,0 +1,1 @@
+class com_sun_jdi_Bootstrap_wait_long{ public static void function() {com.sun.jdi.Bootstrap obj = new com.sun.jdi.Bootstrap();obj.wait(-6456526133298615501);}}

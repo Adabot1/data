@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_KerberosPrincipal_wait_long_int{ public static void function() {javax.security.auth.kerberos.KerberosPrincipal obj = new javax.security.auth.kerberos.KerberosPrincipal();obj.wait(4448342722151125679,149617501);}}

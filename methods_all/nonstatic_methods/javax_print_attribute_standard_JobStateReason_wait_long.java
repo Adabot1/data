@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobStateReason_wait_long{ public static void function() {javax.print.attribute.standard.JobStateReason obj = new javax.print.attribute.standard.JobStateReason();obj.wait(-8813443922135650535);}}

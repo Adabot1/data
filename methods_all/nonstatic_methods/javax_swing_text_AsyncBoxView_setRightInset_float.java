@@ -1,0 +1,1 @@
+class javax_swing_text_AsyncBoxView_setRightInset_float{ public static void function() {javax.swing.text.AsyncBoxView obj = new javax.swing.text.AsyncBoxView();obj.setRightInset(0.08921671);}}

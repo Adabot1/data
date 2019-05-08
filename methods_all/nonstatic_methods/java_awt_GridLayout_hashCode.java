@@ -1,0 +1,1 @@
+class java_awt_GridLayout_hashCode{ public static void function() {java.awt.GridLayout obj = new java.awt.GridLayout();obj.hashCode();}}

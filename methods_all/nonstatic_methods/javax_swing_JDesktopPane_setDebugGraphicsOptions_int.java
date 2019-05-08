@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.setDebugGraphicsOptions(-1983911584);}}

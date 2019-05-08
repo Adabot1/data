@@ -1,0 +1,1 @@
+class java_awt_color_ICC_ColorSpace_getName_int{ public static void function() {java.awt.color.ICC_ColorSpace obj = new java.awt.color.ICC_ColorSpace();obj.getName(-1844402223);}}

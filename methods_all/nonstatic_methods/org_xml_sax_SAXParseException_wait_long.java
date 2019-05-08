@@ -1,0 +1,1 @@
+class org_xml_sax_SAXParseException_wait_long{ public static void function() {org.xml.sax.SAXParseException obj = new org.xml.sax.SAXParseException();obj.wait(-2310777459514455003);}}

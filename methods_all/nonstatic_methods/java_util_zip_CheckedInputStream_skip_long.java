@@ -1,0 +1,1 @@
+class java_util_zip_CheckedInputStream_skip_long{ public static void function() {java.util.zip.CheckedInputStream obj = new java.util.zip.CheckedInputStream();obj.skip(8943858679546369416);}}

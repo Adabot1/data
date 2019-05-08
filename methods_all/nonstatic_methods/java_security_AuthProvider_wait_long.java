@@ -1,0 +1,1 @@
+class java_security_AuthProvider_wait_long{ public static void function() {java.security.AuthProvider obj = new java.security.AuthProvider();obj.wait(1999368691865615849);}}

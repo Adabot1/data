@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_weakCompareAndSetVolatile_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.weakCompareAndSetVolatile(-1024247347184420865,-8699820543476930684);}}

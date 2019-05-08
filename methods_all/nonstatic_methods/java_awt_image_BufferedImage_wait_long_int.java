@@ -1,0 +1,1 @@
+class java_awt_image_BufferedImage_wait_long_int{ public static void function() {java.awt.image.BufferedImage obj = new java.awt.image.BufferedImage();obj.wait(5130181179367183646,2273812);}}

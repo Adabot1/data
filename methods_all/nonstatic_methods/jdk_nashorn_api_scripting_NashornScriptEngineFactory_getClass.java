@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_NashornScriptEngineFactory_getClass{ public static void function() {jdk.nashorn.api.scripting.NashornScriptEngineFactory obj = new jdk.nashorn.api.scripting.NashornScriptEngineFactory();obj.getClass();}}

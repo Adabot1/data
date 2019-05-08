@@ -1,0 +1,1 @@
+class javax_swing_SpinnerNumberModel_wait_long_int{ public static void function() {javax.swing.SpinnerNumberModel obj = new javax.swing.SpinnerNumberModel();obj.wait(8103792865988586925,-657424578);}}

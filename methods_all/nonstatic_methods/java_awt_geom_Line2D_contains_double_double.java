@@ -1,0 +1,1 @@
+class java_awt_geom_Line2D_contains_double_double{ public static void function() {java.awt.geom.Line2D obj = new java.awt.geom.Line2D();obj.contains(0.8266444694158666,0.806969877855557);}}

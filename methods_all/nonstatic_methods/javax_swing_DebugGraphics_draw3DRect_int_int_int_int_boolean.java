@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_draw3DRect_int_int_int_int_boolean{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.draw3DRect(-1925366399,-1273710219,872234529,-699898951,false);}}

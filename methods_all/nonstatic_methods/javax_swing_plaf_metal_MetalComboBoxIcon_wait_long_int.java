@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxIcon_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxIcon obj = new javax.swing.plaf.metal.MetalComboBoxIcon();obj.wait(-8367472528584303507,-29218324);}}

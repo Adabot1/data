@@ -1,0 +1,1 @@
+class java_awt_Dialog_repaint_int_int_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.repaint(404180583,-1191498144,326448659,196219816);}}

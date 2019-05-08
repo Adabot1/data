@@ -1,0 +1,1 @@
+class java_awt_Toolkit_getBestCursorSize_int_int{ public static void function() {java.awt.Toolkit obj = new java.awt.Toolkit();obj.getBestCursorSize(-1013358122,290701456);}}

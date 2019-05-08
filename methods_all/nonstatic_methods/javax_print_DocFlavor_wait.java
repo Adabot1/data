@@ -1,0 +1,1 @@
+class javax_print_DocFlavor_wait{ public static void function() {javax.print.DocFlavor obj = new javax.print.DocFlavor();obj.wait();}}

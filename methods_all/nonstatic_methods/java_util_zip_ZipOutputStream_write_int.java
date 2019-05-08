@@ -1,0 +1,1 @@
+class java_util_zip_ZipOutputStream_write_int{ public static void function() {java.util.zip.ZipOutputStream obj = new java.util.zip.ZipOutputStream();obj.write(-2107221715);}}

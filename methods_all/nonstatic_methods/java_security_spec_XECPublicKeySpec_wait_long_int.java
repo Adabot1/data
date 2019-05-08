@@ -1,0 +1,1 @@
+class java_security_spec_XECPublicKeySpec_wait_long_int{ public static void function() {java.security.spec.XECPublicKeySpec obj = new java.security.spec.XECPublicKeySpec();obj.wait(7272721290057855659,706499144);}}

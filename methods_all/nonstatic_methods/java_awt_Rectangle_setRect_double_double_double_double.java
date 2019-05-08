@@ -1,0 +1,1 @@
+class java_awt_Rectangle_setRect_double_double_double_double{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.setRect(0.29084971734713716,0.5220003958106313,0.3010623485601429,0.6341458000612141);}}

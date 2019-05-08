@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLEditorKit_wait_long{ public static void function() {javax.swing.text.html.HTMLEditorKit obj = new javax.swing.text.html.HTMLEditorKit();obj.wait(-678638523912005075);}}

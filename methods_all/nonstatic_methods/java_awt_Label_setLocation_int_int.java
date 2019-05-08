@@ -1,0 +1,1 @@
+class java_awt_Label_setLocation_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.setLocation(-920234025,276729372);}}

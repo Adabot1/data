@@ -1,0 +1,1 @@
+class javax_swing_FocusManager_notify{ public static void function() {javax.swing.FocusManager obj = new javax.swing.FocusManager();obj.notify();}}

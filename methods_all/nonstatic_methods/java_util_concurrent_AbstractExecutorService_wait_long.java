@@ -1,0 +1,1 @@
+class java_util_concurrent_AbstractExecutorService_wait_long{ public static void function() {java.util.concurrent.AbstractExecutorService obj = new java.util.concurrent.AbstractExecutorService();obj.wait(541348971331705444);}}

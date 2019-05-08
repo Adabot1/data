@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_repaint_long{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.repaint(-578947050885413359);}}

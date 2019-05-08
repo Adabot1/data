@@ -1,0 +1,1 @@
+class java_util_DoubleSummaryStatistics_hashCode{ public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_InputVerifier_getClass{ public static void function() {javax.swing.InputVerifier obj = new javax.swing.InputVerifier();obj.getClass();}}

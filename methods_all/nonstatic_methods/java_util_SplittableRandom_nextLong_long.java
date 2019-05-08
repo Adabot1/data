@@ -1,0 +1,1 @@
+class java_util_SplittableRandom_nextLong_long{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();obj.nextLong(-2340775535783527651);}}

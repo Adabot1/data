@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_getMargin{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.getMargin();}}

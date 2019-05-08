@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_setMultiClickThreshhold_long{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.setMultiClickThreshhold(-6623716084300972745);}}

@@ -1,0 +1,1 @@
+class java_math_MathContext_wait_long_int{ public static void function() {java.math.MathContext obj = new java.math.MathContext();obj.wait(4006010710514323447,-104902286);}}

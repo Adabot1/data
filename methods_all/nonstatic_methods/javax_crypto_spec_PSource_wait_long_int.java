@@ -1,0 +1,1 @@
+class javax_crypto_spec_PSource_wait_long_int{ public static void function() {javax.crypto.spec.PSource obj = new javax.crypto.spec.PSource();obj.wait(2862737429060956999,-548668713);}}

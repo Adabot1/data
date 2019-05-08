@@ -1,0 +1,1 @@
+class java_awt_FileDialog_removeAll{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.removeAll();}}

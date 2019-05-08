@@ -1,0 +1,1 @@
+class java_beans_SimpleBeanInfo_getPropertyDescriptors{ public static void function() {java.beans.SimpleBeanInfo obj = new java.beans.SimpleBeanInfo();obj.getPropertyDescriptors();}}

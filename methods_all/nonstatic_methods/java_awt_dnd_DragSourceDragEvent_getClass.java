@@ -1,0 +1,1 @@
+class java_awt_dnd_DragSourceDragEvent_getClass{ public static void function() {java.awt.dnd.DragSourceDragEvent obj = new java.awt.dnd.DragSourceDragEvent();obj.getClass();}}

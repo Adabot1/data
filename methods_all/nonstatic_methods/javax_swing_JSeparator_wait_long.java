@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_wait_long{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.wait(-5881866178761796609);}}

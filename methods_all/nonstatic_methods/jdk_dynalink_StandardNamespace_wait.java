@@ -1,0 +1,1 @@
+class jdk_dynalink_StandardNamespace_wait{ public static void function() {jdk.dynalink.StandardNamespace obj = new jdk.dynalink.StandardNamespace();obj.wait();}}

@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_createImage_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.createImage(1352316069,-1096450455);}}

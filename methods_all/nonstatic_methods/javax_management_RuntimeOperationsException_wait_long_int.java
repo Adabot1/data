@@ -1,0 +1,1 @@
+class javax_management_RuntimeOperationsException_wait_long_int{ public static void function() {javax.management.RuntimeOperationsException obj = new javax.management.RuntimeOperationsException();obj.wait(-197745382945677358,-29953793);}}

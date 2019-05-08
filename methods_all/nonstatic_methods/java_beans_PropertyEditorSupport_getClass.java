@@ -1,0 +1,1 @@
+class java_beans_PropertyEditorSupport_getClass{ public static void function() {java.beans.PropertyEditorSupport obj = new java.beans.PropertyEditorSupport();obj.getClass();}}

@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_SwingEventMonitor_wait_long{ public static void function() {com.sun.java.accessibility.util.SwingEventMonitor obj = new com.sun.java.accessibility.util.SwingEventMonitor();obj.wait(2851125669558382029);}}

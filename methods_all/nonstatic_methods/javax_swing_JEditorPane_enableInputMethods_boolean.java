@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_enableInputMethods_boolean{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.enableInputMethods(false);}}

@@ -1,0 +1,1 @@
+class java_util_Objects_checkIndex_int_int{ public static void function() {java.util.Objects.checkIndex(1656282251,886319201);}}

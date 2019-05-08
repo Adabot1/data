@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedThread_getOSName{ public static void function() {jdk.jfr.consumer.RecordedThread obj = new jdk.jfr.consumer.RecordedThread();obj.getOSName();}}

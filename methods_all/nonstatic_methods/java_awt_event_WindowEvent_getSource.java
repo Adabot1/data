@@ -1,0 +1,1 @@
+class java_awt_event_WindowEvent_getSource{ public static void function() {java.awt.event.WindowEvent obj = new java.awt.event.WindowEvent();obj.getSource();}}

@@ -1,0 +1,1 @@
+class java_awt_Dialog_createImage_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.createImage(-1416163915,-217607460);}}

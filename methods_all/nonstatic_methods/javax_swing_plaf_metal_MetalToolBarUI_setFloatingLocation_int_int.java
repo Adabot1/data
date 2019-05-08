@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalToolBarUI_setFloatingLocation_int_int{ public static void function() {javax.swing.plaf.metal.MetalToolBarUI obj = new javax.swing.plaf.metal.MetalToolBarUI();obj.setFloatingLocation(-1919652682,1427284094);}}

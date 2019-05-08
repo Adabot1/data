@@ -1,0 +1,1 @@
+class javax_xml_crypto_NoSuchMechanismException_printStackTrace{ public static void function() {javax.xml.crypto.NoSuchMechanismException obj = new javax.xml.crypto.NoSuchMechanismException();obj.printStackTrace();}}

@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_NashornScriptEngine_getContext{ public static void function() {jdk.nashorn.api.scripting.NashornScriptEngine obj = new jdk.nashorn.api.scripting.NashornScriptEngine();obj.getContext();}}

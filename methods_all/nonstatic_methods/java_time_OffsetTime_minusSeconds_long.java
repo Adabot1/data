@@ -1,0 +1,1 @@
+class java_time_OffsetTime_minusSeconds_long{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();obj.minusSeconds(-5205215446517289725);}}

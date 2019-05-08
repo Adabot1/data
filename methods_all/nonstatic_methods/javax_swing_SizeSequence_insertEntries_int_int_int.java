@@ -1,0 +1,1 @@
+class javax_swing_SizeSequence_insertEntries_int_int_int{ public static void function() {javax.swing.SizeSequence obj = new javax.swing.SizeSequence();obj.insertEntries(-555994476,-979107802,1753424072);}}

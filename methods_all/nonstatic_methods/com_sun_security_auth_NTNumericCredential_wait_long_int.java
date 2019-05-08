@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTNumericCredential_wait_long_int{ public static void function() {com.sun.security.auth.NTNumericCredential obj = new com.sun.security.auth.NTNumericCredential();obj.wait(-498755297715002937,643726950);}}

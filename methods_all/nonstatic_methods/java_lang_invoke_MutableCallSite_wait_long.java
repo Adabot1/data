@@ -1,0 +1,1 @@
+class java_lang_invoke_MutableCallSite_wait_long{ public static void function() {java.lang.invoke.MutableCallSite obj = new java.lang.invoke.MutableCallSite();obj.wait(3051986740001435832);}}

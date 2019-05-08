@@ -1,0 +1,1 @@
+class java_net_http_HttpRequest_wait_long{ public static void function() {java.net.http.HttpRequest obj = new java.net.http.HttpRequest();obj.wait(-1227734879610459406);}}

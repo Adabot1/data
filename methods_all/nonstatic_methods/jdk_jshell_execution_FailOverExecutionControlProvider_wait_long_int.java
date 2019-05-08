@@ -1,0 +1,1 @@
+class jdk_jshell_execution_FailOverExecutionControlProvider_wait_long_int{ public static void function() {jdk.jshell.execution.FailOverExecutionControlProvider obj = new jdk.jshell.execution.FailOverExecutionControlProvider();obj.wait(-5199583006968766253,196578170);}}

@@ -1,0 +1,1 @@
+class java_util_prefs_PreferenceChangeEvent_getClass{ public static void function() {java.util.prefs.PreferenceChangeEvent obj = new java.util.prefs.PreferenceChangeEvent();obj.getClass();}}

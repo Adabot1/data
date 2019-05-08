@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_wait_long{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.wait(-8101049080125989744);}}

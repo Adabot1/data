@@ -1,0 +1,1 @@
+class javax_swing_JComponent_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.paintImmediately(1791671154,1343968426,-285188922,1155417034);}}

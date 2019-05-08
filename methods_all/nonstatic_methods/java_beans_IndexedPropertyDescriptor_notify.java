@@ -1,0 +1,1 @@
+class java_beans_IndexedPropertyDescriptor_notify{ public static void function() {java.beans.IndexedPropertyDescriptor obj = new java.beans.IndexedPropertyDescriptor();obj.notify();}}

@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_createImage_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.createImage(-431557151,775235477);}}

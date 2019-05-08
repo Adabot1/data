@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_Authenticator_wait_long_int{ public static void function() {com.sun.net.httpserver.Authenticator obj = new com.sun.net.httpserver.Authenticator();obj.wait(4279345934071620876,-1728156151);}}

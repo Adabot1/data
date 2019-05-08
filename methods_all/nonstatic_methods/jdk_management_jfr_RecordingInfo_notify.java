@@ -1,0 +1,1 @@
+class jdk_management_jfr_RecordingInfo_notify{ public static void function() {jdk.management.jfr.RecordingInfo obj = new jdk.management.jfr.RecordingInfo();obj.notify();}}

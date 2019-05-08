@@ -1,0 +1,1 @@
+class java_awt_TextField_repaint_long{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.repaint(-5340366656850770956);}}

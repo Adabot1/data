@@ -1,0 +1,1 @@
+class java_time_format_DateTimeFormatter_parsedExcessDays{ public static void function() {java.time.format.DateTimeFormatter.parsedExcessDays();}}

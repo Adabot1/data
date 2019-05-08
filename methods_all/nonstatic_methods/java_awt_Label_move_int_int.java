@@ -1,0 +1,1 @@
+class java_awt_Label_move_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.move(2023330126,-1023754799);}}

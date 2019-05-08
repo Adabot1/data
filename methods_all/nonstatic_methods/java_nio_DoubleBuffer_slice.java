@@ -1,0 +1,1 @@
+class java_nio_DoubleBuffer_slice{ public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();obj.slice();}}

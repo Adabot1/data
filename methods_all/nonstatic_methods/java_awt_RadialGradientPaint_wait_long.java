@@ -1,0 +1,1 @@
+class java_awt_RadialGradientPaint_wait_long{ public static void function() {java.awt.RadialGradientPaint obj = new java.awt.RadialGradientPaint();obj.wait(-6121036888228845704);}}

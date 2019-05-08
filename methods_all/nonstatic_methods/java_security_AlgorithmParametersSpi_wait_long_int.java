@@ -1,0 +1,1 @@
+class java_security_AlgorithmParametersSpi_wait_long_int{ public static void function() {java.security.AlgorithmParametersSpi obj = new java.security.AlgorithmParametersSpi();obj.wait(5074828236692722312,-1672903347);}}

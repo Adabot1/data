@@ -1,0 +1,1 @@
+class java_sql_Types_hashCode{ public static void function() {java.sql.Types obj = new java.sql.Types();obj.hashCode();}}

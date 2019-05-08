@@ -1,0 +1,1 @@
+class javax_print_ServiceUIFactory_hashCode{ public static void function() {javax.print.ServiceUIFactory obj = new javax.print.ServiceUIFactory();obj.hashCode();}}

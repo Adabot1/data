@@ -1,0 +1,1 @@
+class java_awt_Font_wait_long{ public static void function() {java.awt.Font obj = new java.awt.Font();obj.wait(-2560297153619016212);}}

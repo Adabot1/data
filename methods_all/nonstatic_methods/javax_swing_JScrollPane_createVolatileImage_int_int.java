@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_createVolatileImage_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.createVolatileImage(745636964,-394434733);}}

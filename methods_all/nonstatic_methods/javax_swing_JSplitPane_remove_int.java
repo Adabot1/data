@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_remove_int{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.remove(-1588248010);}}

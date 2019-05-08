@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalBorders_getTextFieldBorder{ public static void function() {javax.swing.plaf.metal.MetalBorders.getTextFieldBorder();}}

@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_findComponentAt_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.findComponentAt(-1496203325,-1096873059);}}

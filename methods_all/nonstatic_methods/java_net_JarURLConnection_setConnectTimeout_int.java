@@ -1,0 +1,1 @@
+class java_net_JarURLConnection_setConnectTimeout_int{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();obj.setConnectTimeout(655146751);}}

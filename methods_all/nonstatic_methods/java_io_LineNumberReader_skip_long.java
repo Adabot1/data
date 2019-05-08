@@ -1,0 +1,1 @@
+class java_io_LineNumberReader_skip_long{ public static void function() {java.io.LineNumberReader obj = new java.io.LineNumberReader();obj.skip(-419926483920947067);}}

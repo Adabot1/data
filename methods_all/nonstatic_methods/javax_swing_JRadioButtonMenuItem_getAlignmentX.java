@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_getAlignmentX{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.getAlignmentX();}}

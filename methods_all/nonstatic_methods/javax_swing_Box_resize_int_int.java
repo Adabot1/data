@@ -1,0 +1,1 @@
+class javax_swing_Box_resize_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.resize(-1412300638,2019185242);}}

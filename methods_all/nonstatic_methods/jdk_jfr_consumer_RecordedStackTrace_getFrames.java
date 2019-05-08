@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedStackTrace_getFrames{ public static void function() {jdk.jfr.consumer.RecordedStackTrace obj = new jdk.jfr.consumer.RecordedStackTrace();obj.getFrames();}}

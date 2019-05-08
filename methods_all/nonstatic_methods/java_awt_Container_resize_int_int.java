@@ -1,0 +1,1 @@
+class java_awt_Container_resize_int_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.resize(-1729091782,1973184859);}}

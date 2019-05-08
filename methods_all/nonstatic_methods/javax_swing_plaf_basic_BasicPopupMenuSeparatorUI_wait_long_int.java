@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicPopupMenuSeparatorUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicPopupMenuSeparatorUI obj = new javax.swing.plaf.basic.BasicPopupMenuSeparatorUI();obj.wait(-4612481785178763108,-1500932340);}}

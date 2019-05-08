@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalSplitPaneUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalSplitPaneUI obj = new javax.swing.plaf.metal.MetalSplitPaneUI();obj.wait(-1206186941456437147);}}

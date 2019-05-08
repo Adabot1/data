@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOMetadata_isStandardMetadataFormatSupported{ public static void function() {javax.imageio.metadata.IIOMetadata obj = new javax.imageio.metadata.IIOMetadata();obj.isStandardMetadataFormatSupported();}}

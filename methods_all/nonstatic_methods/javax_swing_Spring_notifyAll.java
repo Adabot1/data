@@ -1,0 +1,1 @@
+class javax_swing_Spring_notifyAll{ public static void function() {javax.swing.Spring obj = new javax.swing.Spring();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_getBaseline_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.getBaseline(2075791980,-1538984646);}}

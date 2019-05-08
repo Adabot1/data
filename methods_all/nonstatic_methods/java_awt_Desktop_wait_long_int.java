@@ -1,0 +1,1 @@
+class java_awt_Desktop_wait_long_int{ public static void function() {java.awt.Desktop obj = new java.awt.Desktop();obj.wait(3968890460659244993,1310146537);}}

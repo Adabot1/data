@@ -1,0 +1,1 @@
+class java_awt_BorderLayout_toString{ public static void function() {java.awt.BorderLayout obj = new java.awt.BorderLayout();obj.toString();}}

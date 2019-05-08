@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_KerberosPrincipal_getName{ public static void function() {javax.security.auth.kerberos.KerberosPrincipal obj = new javax.security.auth.kerberos.KerberosPrincipal();obj.getName();}}

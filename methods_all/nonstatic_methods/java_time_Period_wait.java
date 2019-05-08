@@ -1,0 +1,1 @@
+class java_time_Period_wait{ public static void function() {java.time.Period obj = new java.time.Period();obj.wait();}}

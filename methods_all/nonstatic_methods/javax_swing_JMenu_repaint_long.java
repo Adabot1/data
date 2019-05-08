@@ -1,0 +1,1 @@
+class javax_swing_JMenu_repaint_long{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.repaint(5634915787340673066);}}

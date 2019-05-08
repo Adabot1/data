@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_wait_long{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.wait(-996924050235501514);}}

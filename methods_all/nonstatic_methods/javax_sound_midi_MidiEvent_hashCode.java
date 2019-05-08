@@ -1,0 +1,1 @@
+class javax_sound_midi_MidiEvent_hashCode{ public static void function() {javax.sound.midi.MidiEvent obj = new javax.sound.midi.MidiEvent();obj.hashCode();}}

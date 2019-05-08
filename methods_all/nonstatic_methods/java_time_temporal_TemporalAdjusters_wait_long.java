@@ -1,0 +1,1 @@
+class java_time_temporal_TemporalAdjusters_wait_long{ public static void function() {java.time.temporal.TemporalAdjusters obj = new java.time.temporal.TemporalAdjusters();obj.wait(-3416043381648964560);}}

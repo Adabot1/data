@@ -1,0 +1,1 @@
+class java_sql_Date_setHours_int{ public static void function() {java.sql.Date obj = new java.sql.Date();obj.setHours(-1561278693);}}

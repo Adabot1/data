@@ -1,0 +1,1 @@
+class javax_swing_JButton_inside_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.inside(2017343819,1726522884);}}

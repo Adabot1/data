@@ -1,0 +1,1 @@
+class java_awt_GridLayout_getRows{ public static void function() {java.awt.GridLayout obj = new java.awt.GridLayout();obj.getRows();}}

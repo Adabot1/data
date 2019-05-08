@@ -1,0 +1,1 @@
+class javax_print_StreamPrintServiceFactory_getOutputFormat{ public static void function() {javax.print.StreamPrintServiceFactory obj = new javax.print.StreamPrintServiceFactory();obj.getOutputFormat();}}

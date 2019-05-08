@@ -1,0 +1,1 @@
+class jdk_jshell_VarSnippet_wait_long{ public static void function() {jdk.jshell.VarSnippet obj = new jdk.jshell.VarSnippet();obj.wait(-7124292523615358340);}}

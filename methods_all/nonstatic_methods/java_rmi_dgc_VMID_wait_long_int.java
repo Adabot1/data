@@ -1,0 +1,1 @@
+class java_rmi_dgc_VMID_wait_long_int{ public static void function() {java.rmi.dgc.VMID obj = new java.rmi.dgc.VMID();obj.wait(-1866830431655198096,-1506029353);}}

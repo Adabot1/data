@@ -1,0 +1,1 @@
+class java_net_JarURLConnection_wait_long_int{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();obj.wait(-6451914215574365370,524741634);}}

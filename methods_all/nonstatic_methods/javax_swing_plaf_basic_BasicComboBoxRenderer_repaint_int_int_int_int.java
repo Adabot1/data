@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboBoxRenderer_repaint_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboBoxRenderer obj = new javax.swing.plaf.basic.BasicComboBoxRenderer();obj.repaint(1487177285,-1380748717,1554185802,1002490293);}}

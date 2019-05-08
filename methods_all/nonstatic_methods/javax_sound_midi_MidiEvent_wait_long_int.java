@@ -1,0 +1,1 @@
+class javax_sound_midi_MidiEvent_wait_long_int{ public static void function() {javax.sound.midi.MidiEvent obj = new javax.sound.midi.MidiEvent();obj.wait(3434904053674872014,-155028163);}}

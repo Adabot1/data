@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahEra_of_int{ public static void function() {java.time.chrono.HijrahEra.of(1832529574);}}

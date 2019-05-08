@@ -1,0 +1,1 @@
+class java_security_AccessControlException_getCause{ public static void function() {java.security.AccessControlException obj = new java.security.AccessControlException();obj.getCause();}}

@@ -1,0 +1,1 @@
+class javax_naming_ldap_SortResponseControl_wait_long_int{ public static void function() {javax.naming.ldap.SortResponseControl obj = new javax.naming.ldap.SortResponseControl();obj.wait(5338856859726919400,-749632841);}}

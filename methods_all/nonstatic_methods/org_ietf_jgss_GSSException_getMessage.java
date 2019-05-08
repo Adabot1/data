@@ -1,0 +1,1 @@
+class org_ietf_jgss_GSSException_getMessage{ public static void function() {org.ietf.jgss.GSSException obj = new org.ietf.jgss.GSSException();obj.getMessage();}}

@@ -1,0 +1,1 @@
+class java_net_IDN_wait_long{ public static void function() {java.net.IDN obj = new java.net.IDN();obj.wait(3238334031869322666);}}

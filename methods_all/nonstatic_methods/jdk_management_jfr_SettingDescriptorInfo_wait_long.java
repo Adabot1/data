@@ -1,0 +1,1 @@
+class jdk_management_jfr_SettingDescriptorInfo_wait_long{ public static void function() {jdk.management.jfr.SettingDescriptorInfo obj = new jdk.management.jfr.SettingDescriptorInfo();obj.wait(8550690714369483117);}}

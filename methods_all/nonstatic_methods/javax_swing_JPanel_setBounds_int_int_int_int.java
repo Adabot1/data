@@ -1,0 +1,1 @@
+class javax_swing_JPanel_setBounds_int_int_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.setBounds(-496123114,-2042489385,1388633645,1042375571);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_setBlinkRate_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.setBlinkRate(1358136279);}}

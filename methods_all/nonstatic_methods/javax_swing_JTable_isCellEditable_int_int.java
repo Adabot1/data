@@ -1,0 +1,1 @@
+class javax_swing_JTable_isCellEditable_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.isCellEditable(228059136,-1313240084);}}

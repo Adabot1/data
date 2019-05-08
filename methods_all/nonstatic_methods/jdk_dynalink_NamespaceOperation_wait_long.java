@@ -1,0 +1,1 @@
+class jdk_dynalink_NamespaceOperation_wait_long{ public static void function() {jdk.dynalink.NamespaceOperation obj = new jdk.dynalink.NamespaceOperation();obj.wait(320345990948969235);}}

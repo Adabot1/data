@@ -1,0 +1,1 @@
+class javax_swing_text_Segment_previous{ public static void function() {javax.swing.text.Segment obj = new javax.swing.text.Segment();obj.previous();}}

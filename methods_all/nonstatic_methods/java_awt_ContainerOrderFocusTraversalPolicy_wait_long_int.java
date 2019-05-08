@@ -1,0 +1,1 @@
+class java_awt_ContainerOrderFocusTraversalPolicy_wait_long_int{ public static void function() {java.awt.ContainerOrderFocusTraversalPolicy obj = new java.awt.ContainerOrderFocusTraversalPolicy();obj.wait(-5936699294335536188,-635382758);}}

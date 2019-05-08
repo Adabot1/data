@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_repaint_long_int_int_int_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.repaint(-977649499506426036,-881042671,-225929010,1948655873,-1459895284);}}

@@ -1,0 +1,1 @@
+class javax_swing_JWindow_setBounds_int_int_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.setBounds(-1616008067,1322485091,1519129449,1563097671);}}

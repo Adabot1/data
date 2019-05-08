@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_SctpMultiChannel_wait_long_int{ public static void function() {com.sun.nio.sctp.SctpMultiChannel obj = new com.sun.nio.sctp.SctpMultiChannel();obj.wait(-728607585073515262,-338921993);}}

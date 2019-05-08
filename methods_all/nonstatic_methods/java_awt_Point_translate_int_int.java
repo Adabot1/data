@@ -1,0 +1,1 @@
+class java_awt_Point_translate_int_int{ public static void function() {java.awt.Point obj = new java.awt.Point();obj.translate(-2028512659,2087094680);}}

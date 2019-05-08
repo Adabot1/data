@@ -1,0 +1,1 @@
+class javax_management_monitor_GaugeMonitor_wait_long_int{ public static void function() {javax.management.monitor.GaugeMonitor obj = new javax.management.monitor.GaugeMonitor();obj.wait(6313377520058096286,531707600);}}

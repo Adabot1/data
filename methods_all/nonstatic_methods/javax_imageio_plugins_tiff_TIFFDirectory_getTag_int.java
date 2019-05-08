@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFDirectory_getTag_int{ public static void function() {javax.imageio.plugins.tiff.TIFFDirectory obj = new javax.imageio.plugins.tiff.TIFFDirectory();obj.getTag(-1223356744);}}

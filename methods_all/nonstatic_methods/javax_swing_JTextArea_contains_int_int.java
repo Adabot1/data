@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_contains_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.contains(700058693,421050104);}}

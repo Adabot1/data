@@ -1,0 +1,1 @@
+class javax_print_ServiceUIFactory_wait_long{ public static void function() {javax.print.ServiceUIFactory obj = new javax.print.ServiceUIFactory();obj.wait(604445556594350426);}}

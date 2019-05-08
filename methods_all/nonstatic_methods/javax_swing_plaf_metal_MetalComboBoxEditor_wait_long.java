@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxEditor_wait_long{ public static void function() {javax.swing.plaf.metal.MetalComboBoxEditor obj = new javax.swing.plaf.metal.MetalComboBoxEditor();obj.wait(-5267488964327378047);}}

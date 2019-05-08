@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSplitPaneDivider_createImage_int_int{ public static void function() {javax.swing.plaf.basic.BasicSplitPaneDivider obj = new javax.swing.plaf.basic.BasicSplitPaneDivider();obj.createImage(1294889513,1885730980);}}

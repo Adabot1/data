@@ -1,0 +1,1 @@
+class javax_script_ScriptException_wait_long{ public static void function() {javax.script.ScriptException obj = new javax.script.ScriptException();obj.wait(-3354308112330513378);}}

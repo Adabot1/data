@@ -1,0 +1,1 @@
+class java_awt_event_WindowAdapter_wait{ public static void function() {java.awt.event.WindowAdapter obj = new java.awt.event.WindowAdapter();obj.wait();}}

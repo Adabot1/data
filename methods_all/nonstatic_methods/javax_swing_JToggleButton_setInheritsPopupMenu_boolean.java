@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_setInheritsPopupMenu_boolean{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.setInheritsPopupMenu(false);}}

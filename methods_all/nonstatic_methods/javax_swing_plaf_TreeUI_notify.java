@@ -1,0 +1,1 @@
+class javax_swing_plaf_TreeUI_notify{ public static void function() {javax.swing.plaf.TreeUI obj = new javax.swing.plaf.TreeUI();obj.notify();}}

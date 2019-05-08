@@ -1,0 +1,1 @@
+class java_util_Calendar_getAvailableCalendarTypes{ public static void function() {java.util.Calendar.getAvailableCalendarTypes();}}

@@ -1,0 +1,1 @@
+class javax_management_remote_JMXConnectionNotification_wait_long_int{ public static void function() {javax.management.remote.JMXConnectionNotification obj = new javax.management.remote.JMXConnectionNotification();obj.wait(-5376184550695563536,-441941907);}}

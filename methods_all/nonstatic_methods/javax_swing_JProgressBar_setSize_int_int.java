@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_setSize_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.setSize(-1911994267,-1441544874);}}

@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_BaselineTIFFTagSet_wait_long_int{ public static void function() {javax.imageio.plugins.tiff.BaselineTIFFTagSet obj = new javax.imageio.plugins.tiff.BaselineTIFFTagSet();obj.wait(-8498819537375320328,582777919);}}

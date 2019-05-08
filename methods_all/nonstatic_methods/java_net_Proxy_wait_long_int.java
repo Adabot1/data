@@ -1,0 +1,1 @@
+class java_net_Proxy_wait_long_int{ public static void function() {java.net.Proxy obj = new java.net.Proxy();obj.wait(2797976373494700716,1066853162);}}

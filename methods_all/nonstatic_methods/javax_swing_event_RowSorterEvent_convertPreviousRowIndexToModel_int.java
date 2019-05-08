@@ -1,0 +1,1 @@
+class javax_swing_event_RowSorterEvent_convertPreviousRowIndexToModel_int{ public static void function() {javax.swing.event.RowSorterEvent obj = new javax.swing.event.RowSorterEvent();obj.convertPreviousRowIndexToModel(1239515924);}}

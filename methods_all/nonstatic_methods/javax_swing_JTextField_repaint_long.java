@@ -1,0 +1,1 @@
+class javax_swing_JTextField_repaint_long{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.repaint(-2488480469190144511);}}

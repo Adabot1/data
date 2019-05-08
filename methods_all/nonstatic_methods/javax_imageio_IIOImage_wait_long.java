@@ -1,0 +1,1 @@
+class javax_imageio_IIOImage_wait_long{ public static void function() {javax.imageio.IIOImage obj = new javax.imageio.IIOImage();obj.wait(7261927777733070224);}}

@@ -1,0 +1,1 @@
+class java_awt_font_TextHitInfo_hashCode{ public static void function() {java.awt.font.TextHitInfo obj = new java.awt.font.TextHitInfo();obj.hashCode();}}

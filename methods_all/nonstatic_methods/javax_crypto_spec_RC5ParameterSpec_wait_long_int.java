@@ -1,0 +1,1 @@
+class javax_crypto_spec_RC5ParameterSpec_wait_long_int{ public static void function() {javax.crypto.spec.RC5ParameterSpec obj = new javax.crypto.spec.RC5ParameterSpec();obj.wait(-1073714204079687558,-833627030);}}

@@ -1,0 +1,1 @@
+class javax_swing_border_AbstractBorder_toString{ public static void function() {javax.swing.border.AbstractBorder obj = new javax.swing.border.AbstractBorder();obj.toString();}}

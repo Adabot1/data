@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_removeAllIIOReadWarningListeners{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.removeAllIIOReadWarningListeners();}}

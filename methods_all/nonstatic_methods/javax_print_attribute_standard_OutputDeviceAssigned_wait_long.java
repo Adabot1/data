@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_OutputDeviceAssigned_wait_long{ public static void function() {javax.print.attribute.standard.OutputDeviceAssigned obj = new javax.print.attribute.standard.OutputDeviceAssigned();obj.wait(6365286572457952282);}}

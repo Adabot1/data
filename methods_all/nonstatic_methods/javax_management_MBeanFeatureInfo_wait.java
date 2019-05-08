@@ -1,0 +1,1 @@
+class javax_management_MBeanFeatureInfo_wait{ public static void function() {javax.management.MBeanFeatureInfo obj = new javax.management.MBeanFeatureInfo();obj.wait();}}

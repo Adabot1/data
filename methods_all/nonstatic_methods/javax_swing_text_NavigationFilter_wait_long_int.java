@@ -1,0 +1,1 @@
+class javax_swing_text_NavigationFilter_wait_long_int{ public static void function() {javax.swing.text.NavigationFilter obj = new javax.swing.text.NavigationFilter();obj.wait(4795798091977610055,-990931934);}}

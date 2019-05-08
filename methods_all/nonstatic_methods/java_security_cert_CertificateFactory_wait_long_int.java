@@ -1,0 +1,1 @@
+class java_security_cert_CertificateFactory_wait_long_int{ public static void function() {java.security.cert.CertificateFactory obj = new java.security.cert.CertificateFactory();obj.wait(-5464251746744804331,721540518);}}

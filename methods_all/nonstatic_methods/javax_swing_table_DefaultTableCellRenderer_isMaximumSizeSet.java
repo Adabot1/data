@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_isMaximumSizeSet{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.isMaximumSizeSet();}}

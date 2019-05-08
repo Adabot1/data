@@ -1,0 +1,1 @@
+class java_beans_PropertyVetoException_wait_long_int{ public static void function() {java.beans.PropertyVetoException obj = new java.beans.PropertyVetoException();obj.wait(-609350279286341057,-185553144);}}

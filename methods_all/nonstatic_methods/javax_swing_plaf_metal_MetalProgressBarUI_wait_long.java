@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalProgressBarUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalProgressBarUI obj = new javax.swing.plaf.metal.MetalProgressBarUI();obj.wait(-8198897854244593687);}}

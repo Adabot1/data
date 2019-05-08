@@ -1,0 +1,1 @@
+class java_security_cert_PKIXCertPathChecker_wait_long{ public static void function() {java.security.cert.PKIXCertPathChecker obj = new java.security.cert.PKIXCertPathChecker();obj.wait(-4831433762804387541);}}

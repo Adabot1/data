@@ -1,0 +1,1 @@
+class javax_crypto_spec_RC2ParameterSpec_wait_long{ public static void function() {javax.crypto.spec.RC2ParameterSpec obj = new javax.crypto.spec.RC2ParameterSpec();obj.wait(2441355870958998671);}}

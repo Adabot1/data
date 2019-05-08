@@ -1,0 +1,1 @@
+class javax_imageio_spi_IIOServiceProvider_notifyAll{ public static void function() {javax.imageio.spi.IIOServiceProvider obj = new javax.imageio.spi.IIOServiceProvider();obj.notifyAll();}}

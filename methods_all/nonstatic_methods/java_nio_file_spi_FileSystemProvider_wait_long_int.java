@@ -1,0 +1,1 @@
+class java_nio_file_spi_FileSystemProvider_wait_long_int{ public static void function() {java.nio.file.spi.FileSystemProvider obj = new java.nio.file.spi.FileSystemProvider();obj.wait(-5483444874668451699,-708827958);}}

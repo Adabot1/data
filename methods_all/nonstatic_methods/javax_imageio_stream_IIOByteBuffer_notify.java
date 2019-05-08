@@ -1,0 +1,1 @@
+class javax_imageio_stream_IIOByteBuffer_notify{ public static void function() {javax.imageio.stream.IIOByteBuffer obj = new javax.imageio.stream.IIOByteBuffer();obj.notify();}}

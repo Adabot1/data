@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_setDebugGraphicsOptions_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.setDebugGraphicsOptions(1478185827);}}

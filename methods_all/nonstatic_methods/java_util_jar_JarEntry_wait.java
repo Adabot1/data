@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_wait{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.wait();}}

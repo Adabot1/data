@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_MultipleDocumentHandling_wait_long{ public static void function() {javax.print.attribute.standard.MultipleDocumentHandling obj = new javax.print.attribute.standard.MultipleDocumentHandling();obj.wait(1239775925072267416);}}

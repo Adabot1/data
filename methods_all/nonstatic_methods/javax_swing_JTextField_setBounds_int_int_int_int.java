@@ -1,0 +1,1 @@
+class javax_swing_JTextField_setBounds_int_int_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.setBounds(2092382268,1243068813,340200629,556743130);}}

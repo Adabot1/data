@@ -1,0 +1,1 @@
+class java_net_CacheResponse_wait_long{ public static void function() {java.net.CacheResponse obj = new java.net.CacheResponse();obj.wait(6337091294137545664);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_inside_int_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.inside(1445940688,-451301122);}}

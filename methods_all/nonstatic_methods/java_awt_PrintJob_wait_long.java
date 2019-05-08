@@ -1,0 +1,1 @@
+class java_awt_PrintJob_wait_long{ public static void function() {java.awt.PrintJob obj = new java.awt.PrintJob();obj.wait(-8796328218216812349);}}

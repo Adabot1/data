@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_isMinimumSizeSet{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.isMinimumSizeSet();}}

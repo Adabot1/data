@@ -1,0 +1,1 @@
+class javax_swing_text_PlainDocument_remove_int_int{ public static void function() {javax.swing.text.PlainDocument obj = new javax.swing.text.PlainDocument();obj.remove(-1458288466,77359939);}}

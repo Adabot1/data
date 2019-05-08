@@ -1,0 +1,1 @@
+class org_xml_sax_SAXException_getStackTrace{ public static void function() {org.xml.sax.SAXException obj = new org.xml.sax.SAXException();obj.getStackTrace();}}

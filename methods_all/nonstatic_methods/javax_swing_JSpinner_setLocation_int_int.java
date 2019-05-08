@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_setLocation_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.setLocation(669224724,69895661);}}

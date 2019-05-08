@@ -1,0 +1,1 @@
+class java_lang_management_MonitorInfo_getLockedStackDepth{ public static void function() {java.lang.management.MonitorInfo obj = new java.lang.management.MonitorInfo();obj.getLockedStackDepth();}}

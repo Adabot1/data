@@ -1,0 +1,1 @@
+class javax_swing_UIDefaults_clone{ public static void function() {javax.swing.UIDefaults obj = new javax.swing.UIDefaults();obj.clone();}}

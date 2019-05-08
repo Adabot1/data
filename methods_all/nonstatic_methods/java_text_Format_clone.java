@@ -1,0 +1,1 @@
+class java_text_Format_clone{ public static void function() {java.text.Format obj = new java.text.Format();obj.clone();}}

@@ -1,0 +1,1 @@
+class javax_swing_JPanel_setFocusTraversalPolicyProvider_boolean{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.setFocusTraversalPolicyProvider(false);}}

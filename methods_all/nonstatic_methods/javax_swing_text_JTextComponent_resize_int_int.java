@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_resize_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.resize(185791165,-1569887764);}}

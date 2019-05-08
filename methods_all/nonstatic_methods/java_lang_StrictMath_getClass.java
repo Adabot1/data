@@ -1,0 +1,1 @@
+class java_lang_StrictMath_getClass{ public static void function() {java.lang.StrictMath obj = new java.lang.StrictMath();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_util_UnknownFormatConversionException_getLocalizedMessage{ public static void function() {java.util.UnknownFormatConversionException obj = new java.util.UnknownFormatConversionException();obj.getLocalizedMessage();}}

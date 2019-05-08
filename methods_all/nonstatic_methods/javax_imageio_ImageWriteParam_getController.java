@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriteParam_getController{ public static void function() {javax.imageio.ImageWriteParam obj = new javax.imageio.ImageWriteParam();obj.getController();}}

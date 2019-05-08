@@ -1,0 +1,1 @@
+class java_nio_file_attribute_AclEntryFlag_wait_long_int{ public static void function() {java.nio.file.attribute.AclEntryFlag obj = new java.nio.file.attribute.AclEntryFlag();obj.wait(5224192147126357317,-812759988);}}

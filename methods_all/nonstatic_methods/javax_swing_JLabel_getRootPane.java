@@ -1,0 +1,1 @@
+class javax_swing_JLabel_getRootPane{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.getRootPane();}}

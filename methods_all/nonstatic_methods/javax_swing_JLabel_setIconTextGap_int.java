@@ -1,0 +1,1 @@
+class javax_swing_JLabel_setIconTextGap_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.setIconTextGap(1535674244);}}

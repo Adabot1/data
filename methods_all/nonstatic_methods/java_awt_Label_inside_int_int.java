@@ -1,0 +1,1 @@
+class java_awt_Label_inside_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.inside(648749968,320495020);}}

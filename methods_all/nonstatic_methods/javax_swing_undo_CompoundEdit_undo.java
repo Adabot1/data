@@ -1,0 +1,1 @@
+class javax_swing_undo_CompoundEdit_undo{ public static void function() {javax.swing.undo.CompoundEdit obj = new javax.swing.undo.CompoundEdit();obj.undo();}}

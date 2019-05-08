@@ -1,0 +1,1 @@
+class java_lang_StackWalker_notify{ public static void function() {java.lang.StackWalker obj = new java.lang.StackWalker();obj.notify();}}

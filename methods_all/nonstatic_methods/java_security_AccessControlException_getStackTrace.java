@@ -1,0 +1,1 @@
+class java_security_AccessControlException_getStackTrace{ public static void function() {java.security.AccessControlException obj = new java.security.AccessControlException();obj.getStackTrace();}}

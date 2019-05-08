@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_inside_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.inside(-1008551070,-1147889495);}}

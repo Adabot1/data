@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_wait_long{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.wait(3072501484306473687);}}

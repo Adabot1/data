@@ -1,0 +1,1 @@
+class java_awt_image_BufferedImage_setRGB_int_int_int{ public static void function() {java.awt.image.BufferedImage obj = new java.awt.image.BufferedImage();obj.setRGB(-388322624,782375413,1106995669);}}

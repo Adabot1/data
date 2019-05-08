@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.areFocusTraversalKeysSet(-1019737586);}}

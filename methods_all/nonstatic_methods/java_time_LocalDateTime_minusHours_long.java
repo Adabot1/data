@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_minusHours_long{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.minusHours(-6899159606612884590);}}

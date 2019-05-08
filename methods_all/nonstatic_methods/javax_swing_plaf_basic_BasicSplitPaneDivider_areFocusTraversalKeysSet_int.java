@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSplitPaneDivider_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.plaf.basic.BasicSplitPaneDivider obj = new javax.swing.plaf.basic.BasicSplitPaneDivider();obj.areFocusTraversalKeysSet(1683104871);}}

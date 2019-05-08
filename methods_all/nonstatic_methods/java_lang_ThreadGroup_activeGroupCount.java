@@ -1,0 +1,1 @@
+class java_lang_ThreadGroup_activeGroupCount{ public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();obj.activeGroupCount();}}

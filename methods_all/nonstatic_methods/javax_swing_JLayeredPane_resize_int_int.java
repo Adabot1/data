@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_resize_int_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.resize(-601851695,456184389);}}

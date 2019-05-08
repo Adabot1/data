@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_createImage_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.createImage(-1165655422,1253396712);}}

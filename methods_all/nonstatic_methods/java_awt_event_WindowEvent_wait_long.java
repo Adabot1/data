@@ -1,0 +1,1 @@
+class java_awt_event_WindowEvent_wait_long{ public static void function() {java.awt.event.WindowEvent obj = new java.awt.event.WindowEvent();obj.wait(-9079580481387951072);}}

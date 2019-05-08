@@ -1,0 +1,1 @@
+class javax_xml_stream_XMLOutputFactory_notifyAll{ public static void function() {javax.xml.stream.XMLOutputFactory obj = new javax.xml.stream.XMLOutputFactory();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthPasswordFieldUI_getClass{ public static void function() {javax.swing.plaf.synth.SynthPasswordFieldUI obj = new javax.swing.plaf.synth.SynthPasswordFieldUI();obj.getClass();}}

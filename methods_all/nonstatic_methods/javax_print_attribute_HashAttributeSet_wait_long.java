@@ -1,0 +1,1 @@
+class javax_print_attribute_HashAttributeSet_wait_long{ public static void function() {javax.print.attribute.HashAttributeSet obj = new javax.print.attribute.HashAttributeSet();obj.wait(1948716827906621529);}}

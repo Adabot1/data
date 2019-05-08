@@ -1,0 +1,1 @@
+class javax_swing_text_html_StyleSheet_wait{ public static void function() {javax.swing.text.html.StyleSheet obj = new javax.swing.text.html.StyleSheet();obj.wait();}}

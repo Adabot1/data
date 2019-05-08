@@ -1,0 +1,1 @@
+class java_lang_Short_wait_long{ public static void function() {java.lang.Short obj = new java.lang.Short();obj.wait(-1818366781430780680);}}

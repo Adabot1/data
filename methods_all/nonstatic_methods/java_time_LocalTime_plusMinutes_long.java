@@ -1,0 +1,1 @@
+class java_time_LocalTime_plusMinutes_long{ public static void function() {java.time.LocalTime obj = new java.time.LocalTime();obj.plusMinutes(-8839120958479503977);}}

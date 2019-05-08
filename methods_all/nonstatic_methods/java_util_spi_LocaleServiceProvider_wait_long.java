@@ -1,0 +1,1 @@
+class java_util_spi_LocaleServiceProvider_wait_long{ public static void function() {java.util.spi.LocaleServiceProvider obj = new java.util.spi.LocaleServiceProvider();obj.wait(3725018072802047051);}}

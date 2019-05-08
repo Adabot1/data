@@ -1,0 +1,1 @@
+class java_awt_geom_Area_wait_long{ public static void function() {java.awt.geom.Area obj = new java.awt.geom.Area();obj.wait(352007247602529771);}}

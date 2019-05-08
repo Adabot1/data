@@ -1,0 +1,1 @@
+class javax_swing_JTable_sizeColumnsToFit_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.sizeColumnsToFit(1533420943);}}

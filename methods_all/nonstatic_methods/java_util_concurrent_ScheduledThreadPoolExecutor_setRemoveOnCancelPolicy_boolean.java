@@ -1,0 +1,1 @@
+class java_util_concurrent_ScheduledThreadPoolExecutor_setRemoveOnCancelPolicy_boolean{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();obj.setRemoveOnCancelPolicy(true);}}

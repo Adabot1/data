@@ -1,0 +1,1 @@
+class java_awt_font_GraphicAttribute_getJustificationInfo{ public static void function() {java.awt.font.GraphicAttribute obj = new java.awt.font.GraphicAttribute();obj.getJustificationInfo();}}

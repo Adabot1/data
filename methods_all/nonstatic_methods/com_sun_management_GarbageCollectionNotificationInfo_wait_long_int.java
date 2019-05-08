@@ -1,0 +1,1 @@
+class com_sun_management_GarbageCollectionNotificationInfo_wait_long_int{ public static void function() {com.sun.management.GarbageCollectionNotificationInfo obj = new com.sun.management.GarbageCollectionNotificationInfo();obj.wait(-4725690870114433079,1200428276);}}

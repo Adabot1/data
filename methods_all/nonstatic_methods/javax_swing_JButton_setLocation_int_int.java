@@ -1,0 +1,1 @@
+class javax_swing_JButton_setLocation_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setLocation(-578205561,-2096873943);}}

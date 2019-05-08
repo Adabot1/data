@@ -1,0 +1,1 @@
+class javax_swing_JButton_setOpaque_boolean{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setOpaque(true);}}

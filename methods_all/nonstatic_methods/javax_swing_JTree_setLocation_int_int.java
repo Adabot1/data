@@ -1,0 +1,1 @@
+class javax_swing_JTree_setLocation_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.setLocation(785042076,592597670);}}

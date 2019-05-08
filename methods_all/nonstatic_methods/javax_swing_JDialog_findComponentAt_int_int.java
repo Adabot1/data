@@ -1,0 +1,1 @@
+class javax_swing_JDialog_findComponentAt_int_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.findComponentAt(-354082995,1984644711);}}

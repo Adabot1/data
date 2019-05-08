@@ -1,0 +1,1 @@
+class java_awt_FileDialog_repaint_long_int_int_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.repaint(-1992224006033304550,-1767236462,-449762250,1415014944,1313864022);}}

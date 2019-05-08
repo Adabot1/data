@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_createVolatileImage_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.createVolatileImage(1948828628,1403377476);}}

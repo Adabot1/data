@@ -1,0 +1,1 @@
+class java_awt_Canvas_inside_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.inside(271600616,-1020610459);}}

@@ -1,0 +1,1 @@
+class java_awt_FileDialog_wait_long_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.wait(5064264180265140848,1561257504);}}

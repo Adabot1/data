@@ -1,0 +1,1 @@
+class java_util_logging_SocketHandler_flush{ public static void function() {java.util.logging.SocketHandler obj = new java.util.logging.SocketHandler();obj.flush();}}

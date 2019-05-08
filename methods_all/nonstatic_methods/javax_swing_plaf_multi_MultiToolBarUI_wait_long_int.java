@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiToolBarUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiToolBarUI obj = new javax.swing.plaf.multi.MultiToolBarUI();obj.wait(-6951258106779070624,1113801684);}}

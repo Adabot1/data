@@ -1,0 +1,1 @@
+class java_awt_TextField_move_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.move(-169348848,-1266792870);}}

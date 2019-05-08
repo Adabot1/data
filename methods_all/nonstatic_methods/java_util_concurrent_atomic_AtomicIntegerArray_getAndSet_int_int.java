@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_getAndSet_int_int{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.getAndSet(1522575985,-1702986359);}}

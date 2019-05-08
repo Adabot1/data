@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setMajorTickSpacing_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setMajorTickSpacing(1260379455);}}

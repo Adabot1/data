@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSliderUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicSliderUI obj = new javax.swing.plaf.basic.BasicSliderUI();obj.wait(7395072525592798175,1656152979);}}

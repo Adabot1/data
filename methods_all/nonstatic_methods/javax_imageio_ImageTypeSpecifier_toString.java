@@ -1,0 +1,1 @@
+class javax_imageio_ImageTypeSpecifier_toString{ public static void function() {javax.imageio.ImageTypeSpecifier obj = new javax.imageio.ImageTypeSpecifier();obj.toString();}}

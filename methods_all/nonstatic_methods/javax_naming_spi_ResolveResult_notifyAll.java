@@ -1,0 +1,1 @@
+class javax_naming_spi_ResolveResult_notifyAll{ public static void function() {javax.naming.spi.ResolveResult obj = new javax.naming.spi.ResolveResult();obj.notifyAll();}}

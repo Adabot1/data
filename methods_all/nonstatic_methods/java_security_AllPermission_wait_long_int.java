@@ -1,0 +1,1 @@
+class java_security_AllPermission_wait_long_int{ public static void function() {java.security.AllPermission obj = new java.security.AllPermission();obj.wait(3985733544196529314,-624896975);}}

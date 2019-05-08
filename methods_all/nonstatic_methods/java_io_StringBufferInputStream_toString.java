@@ -1,0 +1,1 @@
+class java_io_StringBufferInputStream_toString{ public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();obj.toString();}}

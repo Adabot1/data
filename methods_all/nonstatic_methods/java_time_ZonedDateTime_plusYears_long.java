@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_plusYears_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.plusYears(-8190519295140322854);}}

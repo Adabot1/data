@@ -1,0 +1,1 @@
+class java_beans_Statement_getMethodName{ public static void function() {java.beans.Statement obj = new java.beans.Statement();obj.getMethodName();}}

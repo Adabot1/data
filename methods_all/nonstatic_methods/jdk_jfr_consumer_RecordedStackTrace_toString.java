@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedStackTrace_toString{ public static void function() {jdk.jfr.consumer.RecordedStackTrace obj = new jdk.jfr.consumer.RecordedStackTrace();obj.toString();}}

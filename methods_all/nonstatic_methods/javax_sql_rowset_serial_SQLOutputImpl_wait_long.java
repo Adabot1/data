@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SQLOutputImpl_wait_long{ public static void function() {javax.sql.rowset.serial.SQLOutputImpl obj = new javax.sql.rowset.serial.SQLOutputImpl();obj.wait(6222836954331670831);}}

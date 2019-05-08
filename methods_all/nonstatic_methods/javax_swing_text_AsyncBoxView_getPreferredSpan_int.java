@@ -1,0 +1,1 @@
+class javax_swing_text_AsyncBoxView_getPreferredSpan_int{ public static void function() {javax.swing.text.AsyncBoxView obj = new javax.swing.text.AsyncBoxView();obj.getPreferredSpan(-1786231000);}}

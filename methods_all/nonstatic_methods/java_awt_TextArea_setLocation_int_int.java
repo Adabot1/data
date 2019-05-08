@@ -1,0 +1,1 @@
+class java_awt_TextArea_setLocation_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.setLocation(-694882457,-91558587);}}

@@ -1,0 +1,1 @@
+class java_security_CodeSource_getCertificates{ public static void function() {java.security.CodeSource obj = new java.security.CodeSource();obj.getCertificates();}}

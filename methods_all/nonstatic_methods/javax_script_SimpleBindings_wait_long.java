@@ -1,0 +1,1 @@
+class javax_script_SimpleBindings_wait_long{ public static void function() {javax.script.SimpleBindings obj = new javax.script.SimpleBindings();obj.wait(-513169863167515172);}}

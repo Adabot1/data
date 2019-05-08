@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_ParserAdapter_wait_long_int{ public static void function() {org.xml.sax.helpers.ParserAdapter obj = new org.xml.sax.helpers.ParserAdapter();obj.wait(-8994718729037051074,1365986484);}}

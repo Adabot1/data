@@ -1,0 +1,1 @@
+class java_security_spec_EllipticCurve_wait_long_int{ public static void function() {java.security.spec.EllipticCurve obj = new java.security.spec.EllipticCurve();obj.wait(-7062003557365480230,-1052024531);}}

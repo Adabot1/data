@@ -1,0 +1,1 @@
+class javax_imageio_stream_MemoryCacheImageInputStream_flushBefore_long{ public static void function() {javax.imageio.stream.MemoryCacheImageInputStream obj = new javax.imageio.stream.MemoryCacheImageInputStream();obj.flushBefore(8884816958235146260);}}

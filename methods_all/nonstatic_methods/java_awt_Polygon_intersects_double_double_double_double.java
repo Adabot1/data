@@ -1,0 +1,1 @@
+class java_awt_Polygon_intersects_double_double_double_double{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.intersects(0.6815715045162811,0.09354672409356879,0.5697710381125137,0.27956514471423854);}}

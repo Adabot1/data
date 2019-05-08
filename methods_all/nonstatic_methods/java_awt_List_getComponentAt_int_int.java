@@ -1,0 +1,1 @@
+class java_awt_List_getComponentAt_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.getComponentAt(-1482510265,-907391969);}}

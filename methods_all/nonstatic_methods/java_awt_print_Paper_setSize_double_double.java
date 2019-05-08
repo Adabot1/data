@@ -1,0 +1,1 @@
+class java_awt_print_Paper_setSize_double_double{ public static void function() {java.awt.print.Paper obj = new java.awt.print.Paper();obj.setSize(0.725582676317942,0.8365138923669898);}}

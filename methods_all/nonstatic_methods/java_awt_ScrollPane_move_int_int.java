@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_move_int_int{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.move(830351863,-285410565);}}

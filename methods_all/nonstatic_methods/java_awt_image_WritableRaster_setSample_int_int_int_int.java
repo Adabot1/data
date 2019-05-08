@@ -1,0 +1,1 @@
+class java_awt_image_WritableRaster_setSample_int_int_int_int{ public static void function() {java.awt.image.WritableRaster obj = new java.awt.image.WritableRaster();obj.setSample(1182256135,-959592258,-1266136184,1211407149);}}

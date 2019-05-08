@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.paintImmediately(-1044634423,76745816,98202023,-2091458031);}}

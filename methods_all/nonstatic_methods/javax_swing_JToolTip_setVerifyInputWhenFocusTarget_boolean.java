@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_setVerifyInputWhenFocusTarget_boolean{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.setVerifyInputWhenFocusTarget(true);}}

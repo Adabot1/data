@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_isWriteLockStamp_long{ public static void function() {java.util.concurrent.locks.StampedLock.isWriteLockStamp(-8499248937872431380);}}

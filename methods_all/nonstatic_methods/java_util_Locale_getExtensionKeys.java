@@ -1,0 +1,1 @@
+class java_util_Locale_getExtensionKeys{ public static void function() {java.util.Locale obj = new java.util.Locale();obj.getExtensionKeys();}}

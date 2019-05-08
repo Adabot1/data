@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_createImage_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.createImage(-899235304,-932198056);}}

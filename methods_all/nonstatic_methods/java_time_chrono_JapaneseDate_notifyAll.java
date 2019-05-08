@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseDate_notifyAll{ public static void function() {java.time.chrono.JapaneseDate obj = new java.time.chrono.JapaneseDate();obj.notifyAll();}}

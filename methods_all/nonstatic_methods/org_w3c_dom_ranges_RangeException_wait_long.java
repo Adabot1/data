@@ -1,0 +1,1 @@
+class org_w3c_dom_ranges_RangeException_wait_long{ public static void function() {org.w3c.dom.ranges.RangeException obj = new org.w3c.dom.ranges.RangeException();obj.wait(-5862522737012497830);}}

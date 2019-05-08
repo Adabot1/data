@@ -1,0 +1,1 @@
+class javax_swing_JMenu_getInputMap_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.getInputMap(585101875);}}

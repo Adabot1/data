@@ -1,0 +1,1 @@
+class java_util_jar_JarInputStream_skip_long{ public static void function() {java.util.jar.JarInputStream obj = new java.util.jar.JarInputStream();obj.skip(-5129157097100808376);}}

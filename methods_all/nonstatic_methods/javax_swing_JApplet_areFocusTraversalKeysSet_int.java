@@ -1,0 +1,1 @@
+class javax_swing_JApplet_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.areFocusTraversalKeysSet(2084708853);}}

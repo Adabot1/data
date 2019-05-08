@@ -1,0 +1,1 @@
+class java_security_cert_TrustAnchor_wait_long{ public static void function() {java.security.cert.TrustAnchor obj = new java.security.cert.TrustAnchor();obj.wait(4667722656101304481);}}

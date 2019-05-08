@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_DTD_wait_long{ public static void function() {javax.swing.text.html.parser.DTD obj = new javax.swing.text.html.parser.DTD();obj.wait(-5844950323988484846);}}

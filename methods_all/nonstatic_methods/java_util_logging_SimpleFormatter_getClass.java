@@ -1,0 +1,1 @@
+class java_util_logging_SimpleFormatter_getClass{ public static void function() {java.util.logging.SimpleFormatter obj = new java.util.logging.SimpleFormatter();obj.getClass();}}

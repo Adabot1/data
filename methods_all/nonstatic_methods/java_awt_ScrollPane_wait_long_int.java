@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_wait_long_int{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.wait(978341680810322362,-2119972959);}}

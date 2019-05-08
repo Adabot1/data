@@ -1,0 +1,1 @@
+class javax_smartcardio_CardTerminals_toString{ public static void function() {javax.smartcardio.CardTerminals obj = new javax.smartcardio.CardTerminals();obj.toString();}}

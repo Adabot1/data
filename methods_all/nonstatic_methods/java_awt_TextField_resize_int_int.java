@@ -1,0 +1,1 @@
+class java_awt_TextField_resize_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.resize(1000607640,-279180240);}}

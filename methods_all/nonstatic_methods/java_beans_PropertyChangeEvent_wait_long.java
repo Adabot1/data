@@ -1,0 +1,1 @@
+class java_beans_PropertyChangeEvent_wait_long{ public static void function() {java.beans.PropertyChangeEvent obj = new java.beans.PropertyChangeEvent();obj.wait(-7389580517105813360);}}

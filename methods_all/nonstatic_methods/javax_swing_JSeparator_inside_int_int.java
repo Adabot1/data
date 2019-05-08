@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_inside_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.inside(382149026,-733619595);}}

@@ -1,0 +1,1 @@
+class javax_swing_UIManager_getClass{ public static void function() {javax.swing.UIManager obj = new javax.swing.UIManager();obj.getClass();}}

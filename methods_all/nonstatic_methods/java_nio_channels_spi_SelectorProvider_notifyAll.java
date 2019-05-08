@@ -1,0 +1,1 @@
+class java_nio_channels_spi_SelectorProvider_notifyAll{ public static void function() {java.nio.channels.spi.SelectorProvider obj = new java.nio.channels.spi.SelectorProvider();obj.notifyAll();}}

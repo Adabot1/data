@@ -1,0 +1,1 @@
+class java_lang_Throwable_wait_long_int{ public static void function() {java.lang.Throwable obj = new java.lang.Throwable();obj.wait(5514509122370580880,1747307565);}}

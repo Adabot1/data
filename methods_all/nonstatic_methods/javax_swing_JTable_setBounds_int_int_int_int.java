@@ -1,0 +1,1 @@
+class javax_swing_JTable_setBounds_int_int_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.setBounds(-1332262726,2017408012,-1824358498,-659154034);}}

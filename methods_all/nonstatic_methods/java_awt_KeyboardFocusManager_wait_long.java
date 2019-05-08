@@ -1,0 +1,1 @@
+class java_awt_KeyboardFocusManager_wait_long{ public static void function() {java.awt.KeyboardFocusManager obj = new java.awt.KeyboardFocusManager();obj.wait(8983384928401911823);}}

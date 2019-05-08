@@ -1,0 +1,1 @@
+class javax_print_attribute_URISyntax_wait_long_int{ public static void function() {javax.print.attribute.URISyntax obj = new javax.print.attribute.URISyntax();obj.wait(-1040821938948352989,-1815350874);}}

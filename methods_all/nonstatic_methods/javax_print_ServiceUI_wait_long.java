@@ -1,0 +1,1 @@
+class javax_print_ServiceUI_wait_long{ public static void function() {javax.print.ServiceUI obj = new javax.print.ServiceUI();obj.wait(-6051583403552336089);}}

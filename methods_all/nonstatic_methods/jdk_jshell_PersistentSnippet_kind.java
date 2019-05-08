@@ -1,0 +1,1 @@
+class jdk_jshell_PersistentSnippet_kind{ public static void function() {jdk.jshell.PersistentSnippet obj = new jdk.jshell.PersistentSnippet();obj.kind();}}

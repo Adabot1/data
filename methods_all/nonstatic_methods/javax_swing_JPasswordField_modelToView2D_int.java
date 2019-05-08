@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_modelToView2D_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.modelToView2D(-1286948414);}}

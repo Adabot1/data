@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthDesktopPaneUI_notify{ public static void function() {javax.swing.plaf.synth.SynthDesktopPaneUI obj = new javax.swing.plaf.synth.SynthDesktopPaneUI();obj.notify();}}

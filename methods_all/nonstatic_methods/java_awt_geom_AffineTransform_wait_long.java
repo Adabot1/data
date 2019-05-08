@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_wait_long{ public static void function() {java.awt.geom.AffineTransform obj = new java.awt.geom.AffineTransform();obj.wait(-5859014028806984389);}}

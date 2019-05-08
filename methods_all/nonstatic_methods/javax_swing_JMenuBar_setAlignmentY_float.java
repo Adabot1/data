@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_setAlignmentY_float{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.setAlignmentY(0.69869006);}}

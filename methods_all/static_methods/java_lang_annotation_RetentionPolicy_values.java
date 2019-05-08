@@ -1,0 +1,1 @@
+class java_lang_annotation_RetentionPolicy_values{ public static void function() {java.lang.annotation.RetentionPolicy.values();}}

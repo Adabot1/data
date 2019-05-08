@@ -1,0 +1,1 @@
+class javax_naming_ldap_LdapName_wait_long{ public static void function() {javax.naming.ldap.LdapName obj = new javax.naming.ldap.LdapName();obj.wait(4559660559021145940);}}

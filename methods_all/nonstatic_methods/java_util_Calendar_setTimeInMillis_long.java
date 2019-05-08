@@ -1,0 +1,1 @@
+class java_util_Calendar_setTimeInMillis_long{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.setTimeInMillis(-2849624254423224508);}}

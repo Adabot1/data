@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_getDefaultLocale{ public static void function() {javax.swing.DefaultListCellRenderer.getDefaultLocale();}}

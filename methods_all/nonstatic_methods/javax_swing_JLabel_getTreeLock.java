@@ -1,0 +1,1 @@
+class javax_swing_JLabel_getTreeLock{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.getTreeLock();}}

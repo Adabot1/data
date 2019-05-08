@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileSystemView_notify{ public static void function() {javax.swing.filechooser.FileSystemView obj = new javax.swing.filechooser.FileSystemView();obj.notify();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicCheckBoxUI_getPropertyPrefix{ public static void function() {javax.swing.plaf.basic.BasicCheckBoxUI obj = new javax.swing.plaf.basic.BasicCheckBoxUI();obj.getPropertyPrefix();}}

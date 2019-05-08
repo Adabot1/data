@@ -1,0 +1,1 @@
+class javax_print_attribute_Size2DSyntax_getX_int{ public static void function() {javax.print.attribute.Size2DSyntax obj = new javax.print.attribute.Size2DSyntax();obj.getX(670065758);}}

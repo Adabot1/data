@@ -1,0 +1,1 @@
+class javax_imageio_ImageReadParam_setSourceSubsampling_int_int_int_int{ public static void function() {javax.imageio.ImageReadParam obj = new javax.imageio.ImageReadParam();obj.setSourceSubsampling(2021413190,-189661490,1952202206,2009200105);}}

@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialClob_setAsciiStream_long{ public static void function() {javax.sql.rowset.serial.SerialClob obj = new javax.sql.rowset.serial.SerialClob();obj.setAsciiStream(2468777371519300276);}}

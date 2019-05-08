@@ -1,0 +1,1 @@
+class jdk_dynalink_NamespaceOperation_notifyAll{ public static void function() {jdk.dynalink.NamespaceOperation obj = new jdk.dynalink.NamespaceOperation();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class java_time_LocalDate_wait_long_int{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();obj.wait(3689390959857738317,-529965766);}}

@@ -1,0 +1,1 @@
+class java_awt_Panel_repaint_int_int_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.repaint(-1997753790,1202956179,-956576210,-1100158515);}}

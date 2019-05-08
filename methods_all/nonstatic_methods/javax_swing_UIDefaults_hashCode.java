@@ -1,0 +1,1 @@
+class javax_swing_UIDefaults_hashCode{ public static void function() {javax.swing.UIDefaults obj = new javax.swing.UIDefaults();obj.hashCode();}}

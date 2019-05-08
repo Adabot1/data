@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_setUnitIncrement_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.setUnitIncrement(-257060152);}}

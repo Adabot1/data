@@ -1,0 +1,1 @@
+class javax_swing_Box_contains_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.contains(975845438,1854886869);}}

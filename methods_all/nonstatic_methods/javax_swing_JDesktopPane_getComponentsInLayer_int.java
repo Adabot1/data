@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_getComponentsInLayer_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.getComponentsInLayer(-2028821378);}}

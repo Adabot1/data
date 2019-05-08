@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSplitPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicSplitPaneUI obj = new javax.swing.plaf.basic.BasicSplitPaneUI();obj.wait(3320814670136742988,1101967566);}}

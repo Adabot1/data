@@ -1,0 +1,1 @@
+class javax_management_remote_JMXServiceURL_getProtocol{ public static void function() {javax.management.remote.JMXServiceURL obj = new javax.management.remote.JMXServiceURL();obj.getProtocol();}}

@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_breakView_int_int_float_float{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.breakView(-1523212745,-1061864249,0.5149376,0.46126044);}}

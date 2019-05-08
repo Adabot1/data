@@ -1,0 +1,1 @@
+class com_sun_tools_javac_Main_getClass{ public static void function() {com.sun.tools.javac.Main obj = new com.sun.tools.javac.Main();obj.getClass();}}

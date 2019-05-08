@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_getFocusTraversalKeys_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.getFocusTraversalKeys(-2024555678);}}

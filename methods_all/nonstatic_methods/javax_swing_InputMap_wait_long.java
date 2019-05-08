@@ -1,0 +1,1 @@
+class javax_swing_InputMap_wait_long{ public static void function() {javax.swing.InputMap obj = new javax.swing.InputMap();obj.wait(7614381735424787331);}}

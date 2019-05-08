@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_createImage_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.createImage(-2127836416,-818242456);}}

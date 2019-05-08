@@ -1,0 +1,1 @@
+class java_util_concurrent_CountDownLatch_wait_long_int{ public static void function() {java.util.concurrent.CountDownLatch obj = new java.util.concurrent.CountDownLatch();obj.wait(1776271288225326137,1596547120);}}

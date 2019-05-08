@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_setBounds_int_int_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.setBounds(-1879112410,-157478168,-867172530,-1409914246);}}

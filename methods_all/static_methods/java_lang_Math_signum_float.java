@@ -1,0 +1,1 @@
+class java_lang_Math_signum_float{ public static void function() {java.lang.Math.signum(0.27226657);}}

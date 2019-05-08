@@ -1,0 +1,1 @@
+class java_awt_image_PixelInterleavedSampleModel_createCompatibleSampleModel_int_int{ public static void function() {java.awt.image.PixelInterleavedSampleModel obj = new java.awt.image.PixelInterleavedSampleModel();obj.createCompatibleSampleModel(-1515786718,1440243118);}}

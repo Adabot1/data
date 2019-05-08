@@ -1,0 +1,1 @@
+class javax_naming_event_NamingExceptionEvent_wait_long_int{ public static void function() {javax.naming.event.NamingExceptionEvent obj = new javax.naming.event.NamingExceptionEvent();obj.wait(-2215185927067498312,97282947);}}

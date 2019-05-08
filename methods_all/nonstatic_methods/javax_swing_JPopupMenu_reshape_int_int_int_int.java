@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_reshape_int_int_int_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.reshape(-1421312350,263007014,-1086468514,-1870241243);}}

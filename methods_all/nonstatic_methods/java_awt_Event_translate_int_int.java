@@ -1,0 +1,1 @@
+class java_awt_Event_translate_int_int{ public static void function() {java.awt.Event obj = new java.awt.Event();obj.translate(483857995,1086700381);}}

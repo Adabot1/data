@@ -1,0 +1,1 @@
+class java_beans_Introspector_wait_long{ public static void function() {java.beans.Introspector obj = new java.beans.Introspector();obj.wait(7582238218761585205);}}

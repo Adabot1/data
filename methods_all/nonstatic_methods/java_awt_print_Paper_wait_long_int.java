@@ -1,0 +1,1 @@
+class java_awt_print_Paper_wait_long_int{ public static void function() {java.awt.print.Paper obj = new java.awt.print.Paper();obj.wait(7624815655131923025,-262757784);}}

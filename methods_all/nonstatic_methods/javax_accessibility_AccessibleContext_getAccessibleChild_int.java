@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleContext_getAccessibleChild_int{ public static void function() {javax.accessibility.AccessibleContext obj = new javax.accessibility.AccessibleContext();obj.getAccessibleChild(-1172571727);}}

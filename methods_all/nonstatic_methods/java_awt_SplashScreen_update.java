@@ -1,0 +1,1 @@
+class java_awt_SplashScreen_update{ public static void function() {java.awt.SplashScreen obj = new java.awt.SplashScreen();obj.update();}}

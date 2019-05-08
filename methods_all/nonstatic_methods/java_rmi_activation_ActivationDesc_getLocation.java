@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationDesc_getLocation{ public static void function() {java.rmi.activation.ActivationDesc obj = new java.rmi.activation.ActivationDesc();obj.getLocation();}}

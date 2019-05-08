@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinWorkerThread_sleep_long{ public static void function() {java.util.concurrent.ForkJoinWorkerThread.sleep(-8358257293287235495);}}

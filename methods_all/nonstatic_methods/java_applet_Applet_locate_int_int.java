@@ -1,0 +1,1 @@
+class java_applet_Applet_locate_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.locate(959577837,1464744742);}}

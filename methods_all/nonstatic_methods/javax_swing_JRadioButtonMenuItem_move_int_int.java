@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_move_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.move(-1891033681,-585954455);}}

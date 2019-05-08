@@ -1,0 +1,1 @@
+class java_net_Inet6Address_wait_long_int{ public static void function() {java.net.Inet6Address obj = new java.net.Inet6Address();obj.wait(374821168357833048,-1326937214);}}

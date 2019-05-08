@@ -1,0 +1,1 @@
+class javax_xml_catalog_CatalogFeatures_wait{ public static void function() {javax.xml.catalog.CatalogFeatures obj = new javax.xml.catalog.CatalogFeatures();obj.wait();}}

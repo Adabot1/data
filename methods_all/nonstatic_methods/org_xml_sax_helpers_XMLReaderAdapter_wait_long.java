@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_XMLReaderAdapter_wait_long{ public static void function() {org.xml.sax.helpers.XMLReaderAdapter obj = new org.xml.sax.helpers.XMLReaderAdapter();obj.wait(7047830755723087470);}}

@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_offsetByCodePoints_int_int{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.offsetByCodePoints(1478643626,298601356);}}

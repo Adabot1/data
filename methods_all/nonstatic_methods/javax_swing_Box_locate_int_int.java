@@ -1,0 +1,1 @@
+class javax_swing_Box_locate_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.locate(-1991839734,-835584124);}}

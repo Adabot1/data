@@ -1,0 +1,1 @@
+class javax_swing_text_html_Option_wait_long_int{ public static void function() {javax.swing.text.html.Option obj = new javax.swing.text.html.Option();obj.wait(-7258950720740299697,-949455915);}}

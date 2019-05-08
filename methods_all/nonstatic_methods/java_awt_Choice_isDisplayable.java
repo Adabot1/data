@@ -1,0 +1,1 @@
+class java_awt_Choice_isDisplayable{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.isDisplayable();}}

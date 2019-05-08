@@ -1,0 +1,1 @@
+class java_awt_Container_repaint_long_int_int_int_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.repaint(-7396334530125590176,1404303376,-707783304,1575291546,1156197065);}}

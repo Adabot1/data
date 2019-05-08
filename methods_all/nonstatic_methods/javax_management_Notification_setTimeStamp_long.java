@@ -1,0 +1,1 @@
+class javax_management_Notification_setTimeStamp_long{ public static void function() {javax.management.Notification obj = new javax.management.Notification();obj.setTimeStamp(8935183645805021240);}}

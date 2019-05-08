@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_setEnabled_boolean{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.setEnabled(false);}}

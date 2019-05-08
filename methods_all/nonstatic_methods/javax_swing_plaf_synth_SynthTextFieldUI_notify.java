@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTextFieldUI_notify{ public static void function() {javax.swing.plaf.synth.SynthTextFieldUI obj = new javax.swing.plaf.synth.SynthTextFieldUI();obj.notify();}}

@@ -1,0 +1,1 @@
+class java_io_FilterReader_hashCode{ public static void function() {java.io.FilterReader obj = new java.io.FilterReader();obj.hashCode();}}

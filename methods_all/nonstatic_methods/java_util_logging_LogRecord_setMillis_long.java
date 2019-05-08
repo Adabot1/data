@@ -1,0 +1,1 @@
+class java_util_logging_LogRecord_setMillis_long{ public static void function() {java.util.logging.LogRecord obj = new java.util.logging.LogRecord();obj.setMillis(-755034140917829466);}}

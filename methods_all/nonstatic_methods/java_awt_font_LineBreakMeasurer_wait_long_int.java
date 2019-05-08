@@ -1,0 +1,1 @@
+class java_awt_font_LineBreakMeasurer_wait_long_int{ public static void function() {java.awt.font.LineBreakMeasurer obj = new java.awt.font.LineBreakMeasurer();obj.wait(-9166003075572434406,276989253);}}

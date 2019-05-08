@@ -1,0 +1,1 @@
+class java_awt_BufferCapabilities_getClass{ public static void function() {java.awt.BufferCapabilities obj = new java.awt.BufferCapabilities();obj.getClass();}}

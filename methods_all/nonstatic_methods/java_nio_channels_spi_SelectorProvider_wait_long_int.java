@@ -1,0 +1,1 @@
+class java_nio_channels_spi_SelectorProvider_wait_long_int{ public static void function() {java.nio.channels.spi.SelectorProvider obj = new java.nio.channels.spi.SelectorProvider();obj.wait(-8553827412668559086,-1054411642);}}

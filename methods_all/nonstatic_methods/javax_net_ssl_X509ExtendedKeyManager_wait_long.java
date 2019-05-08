@@ -1,0 +1,1 @@
+class javax_net_ssl_X509ExtendedKeyManager_wait_long{ public static void function() {javax.net.ssl.X509ExtendedKeyManager obj = new javax.net.ssl.X509ExtendedKeyManager();obj.wait(8722725041317245689);}}

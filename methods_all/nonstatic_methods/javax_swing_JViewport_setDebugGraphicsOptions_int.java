@@ -1,0 +1,1 @@
+class javax_swing_JViewport_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.setDebugGraphicsOptions(-346928513);}}

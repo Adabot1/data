@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_Element_wait_long{ public static void function() {javax.swing.text.html.parser.Element obj = new javax.swing.text.html.parser.Element();obj.wait(-5731039797371986343);}}

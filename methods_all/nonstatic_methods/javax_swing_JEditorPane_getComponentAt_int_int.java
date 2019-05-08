@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_getComponentAt_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.getComponentAt(-406957494,-515642660);}}

@@ -1,0 +1,1 @@
+class jdk_jshell_UnresolvedReferenceException_getSuppressed{ public static void function() {jdk.jshell.UnresolvedReferenceException obj = new jdk.jshell.UnresolvedReferenceException();obj.getSuppressed();}}

@@ -1,0 +1,1 @@
+class java_lang_String_codePointAt_int{ public static void function() {java.lang.String obj = new java.lang.String();obj.codePointAt(-815507645);}}

@@ -1,0 +1,1 @@
+class java_awt_Button_setLocation_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.setLocation(229470516,2128995086);}}

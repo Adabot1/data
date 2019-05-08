@@ -1,0 +1,1 @@
+class jdk_jshell_ErroneousSnippet_hashCode{ public static void function() {jdk.jshell.ErroneousSnippet obj = new jdk.jshell.ErroneousSnippet();obj.hashCode();}}

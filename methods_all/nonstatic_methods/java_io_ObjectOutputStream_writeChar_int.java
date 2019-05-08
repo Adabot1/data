@@ -1,0 +1,1 @@
+class java_io_ObjectOutputStream_writeChar_int{ public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();obj.writeChar(1857129179);}}

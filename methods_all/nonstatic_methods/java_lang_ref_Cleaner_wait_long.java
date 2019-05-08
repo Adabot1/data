@@ -1,0 +1,1 @@
+class java_lang_ref_Cleaner_wait_long{ public static void function() {java.lang.ref.Cleaner obj = new java.lang.ref.Cleaner();obj.wait(-2008404336209766234);}}

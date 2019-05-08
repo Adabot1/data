@@ -1,0 +1,1 @@
+class javax_swing_JButton_findComponentAt_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.findComponentAt(289102164,942574202);}}

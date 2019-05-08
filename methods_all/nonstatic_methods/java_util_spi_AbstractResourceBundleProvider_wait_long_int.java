@@ -1,0 +1,1 @@
+class java_util_spi_AbstractResourceBundleProvider_wait_long_int{ public static void function() {java.util.spi.AbstractResourceBundleProvider obj = new java.util.spi.AbstractResourceBundleProvider();obj.wait(2047559177909652750,1073300042);}}

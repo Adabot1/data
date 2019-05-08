@@ -1,0 +1,1 @@
+class java_nio_charset_CoderResult_malformedForLength_int{ public static void function() {java.nio.charset.CoderResult.malformedForLength(-1941883098);}}

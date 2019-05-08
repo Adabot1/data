@@ -1,0 +1,1 @@
+class javax_swing_JWindow_getWindows{ public static void function() {javax.swing.JWindow.getWindows();}}

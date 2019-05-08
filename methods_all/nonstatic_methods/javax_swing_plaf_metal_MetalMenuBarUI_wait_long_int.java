@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalMenuBarUI_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalMenuBarUI obj = new javax.swing.plaf.metal.MetalMenuBarUI();obj.wait(1698356091207063941,408942658);}}

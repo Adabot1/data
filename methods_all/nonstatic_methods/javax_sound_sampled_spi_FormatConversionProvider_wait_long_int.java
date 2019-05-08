@@ -1,0 +1,1 @@
+class javax_sound_sampled_spi_FormatConversionProvider_wait_long_int{ public static void function() {javax.sound.sampled.spi.FormatConversionProvider obj = new javax.sound.sampled.spi.FormatConversionProvider();obj.wait(4125003218252031151,1974735363);}}

@@ -1,0 +1,1 @@
+class java_beans_EventSetDescriptor_wait_long_int{ public static void function() {java.beans.EventSetDescriptor obj = new java.beans.EventSetDescriptor();obj.wait(5256657428060049968,-1601533653);}}

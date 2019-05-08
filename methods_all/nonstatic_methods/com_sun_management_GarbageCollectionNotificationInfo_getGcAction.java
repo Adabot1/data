@@ -1,0 +1,1 @@
+class com_sun_management_GarbageCollectionNotificationInfo_getGcAction{ public static void function() {com.sun.management.GarbageCollectionNotificationInfo obj = new com.sun.management.GarbageCollectionNotificationInfo();obj.getGcAction();}}

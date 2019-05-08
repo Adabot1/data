@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_putLong_int_long{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.putLong(1942464124,2402128129573211261);}}

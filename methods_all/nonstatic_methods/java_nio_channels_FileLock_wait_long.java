@@ -1,0 +1,1 @@
+class java_nio_channels_FileLock_wait_long{ public static void function() {java.nio.channels.FileLock obj = new java.nio.channels.FileLock();obj.wait(6073716486073121036);}}

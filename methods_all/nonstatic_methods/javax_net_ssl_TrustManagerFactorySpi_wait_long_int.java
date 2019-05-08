@@ -1,0 +1,1 @@
+class javax_net_ssl_TrustManagerFactorySpi_wait_long_int{ public static void function() {javax.net.ssl.TrustManagerFactorySpi obj = new javax.net.ssl.TrustManagerFactorySpi();obj.wait(-9149173977187640790,-1578293461);}}

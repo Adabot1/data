@@ -1,0 +1,1 @@
+class javax_swing_text_PlainView_nextTabStop_float_int{ public static void function() {javax.swing.text.PlainView obj = new javax.swing.text.PlainView();obj.nextTabStop(0.7025362,-285830881);}}

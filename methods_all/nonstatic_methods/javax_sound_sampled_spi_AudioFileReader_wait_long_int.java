@@ -1,0 +1,1 @@
+class javax_sound_sampled_spi_AudioFileReader_wait_long_int{ public static void function() {javax.sound.sampled.spi.AudioFileReader obj = new javax.sound.sampled.spi.AudioFileReader();obj.wait(-8991354481031244500,689082302);}}

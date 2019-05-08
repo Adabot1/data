@@ -1,0 +1,1 @@
+class javax_swing_JFrame_wait_long_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.wait(-8151986850734372952,1308776422);}}

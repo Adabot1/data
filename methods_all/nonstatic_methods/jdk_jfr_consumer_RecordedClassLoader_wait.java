@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedClassLoader_wait{ public static void function() {jdk.jfr.consumer.RecordedClassLoader obj = new jdk.jfr.consumer.RecordedClassLoader();obj.wait();}}

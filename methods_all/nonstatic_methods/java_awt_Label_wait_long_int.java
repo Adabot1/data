@@ -1,0 +1,1 @@
+class java_awt_Label_wait_long_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.wait(-541388027942850309,-1871124780);}}

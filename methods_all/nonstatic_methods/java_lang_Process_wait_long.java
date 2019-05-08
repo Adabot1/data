@@ -1,0 +1,1 @@
+class java_lang_Process_wait_long{ public static void function() {java.lang.Process obj = new java.lang.Process();obj.wait(-32634370655537198);}}

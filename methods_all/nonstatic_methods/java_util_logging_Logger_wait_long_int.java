@@ -1,0 +1,1 @@
+class java_util_logging_Logger_wait_long_int{ public static void function() {java.util.logging.Logger obj = new java.util.logging.Logger();obj.wait(8289690314067873318,-1259178627);}}

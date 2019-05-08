@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_setSize_int_int{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.setSize(731953325,731227014);}}

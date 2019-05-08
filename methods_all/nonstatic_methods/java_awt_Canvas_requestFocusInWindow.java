@@ -1,0 +1,1 @@
+class java_awt_Canvas_requestFocusInWindow{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.requestFocusInWindow();}}

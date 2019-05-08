@@ -1,0 +1,1 @@
+class jdk_jshell_execution_LocalExecutionControlProvider_wait_long_int{ public static void function() {jdk.jshell.execution.LocalExecutionControlProvider obj = new jdk.jshell.execution.LocalExecutionControlProvider();obj.wait(-6175789721647162048,-164491849);}}

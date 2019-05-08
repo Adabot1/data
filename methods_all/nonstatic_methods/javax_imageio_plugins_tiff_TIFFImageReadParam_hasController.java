@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFImageReadParam_hasController{ public static void function() {javax.imageio.plugins.tiff.TIFFImageReadParam obj = new javax.imageio.plugins.tiff.TIFFImageReadParam();obj.hasController();}}

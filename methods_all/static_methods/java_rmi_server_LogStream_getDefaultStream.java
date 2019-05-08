@@ -1,0 +1,1 @@
+class java_rmi_server_LogStream_getDefaultStream{ public static void function() {java.rmi.server.LogStream.getDefaultStream();}}

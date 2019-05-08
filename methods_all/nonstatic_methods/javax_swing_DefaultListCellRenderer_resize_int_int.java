@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_resize_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.resize(2079140262,-1614952643);}}

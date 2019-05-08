@@ -1,0 +1,1 @@
+class java_util_Currency_wait_long_int{ public static void function() {java.util.Currency obj = new java.util.Currency();obj.wait(-1999546863415927093,1011926260);}}

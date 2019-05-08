@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileCacheImageInputStream_setBitOffset_int{ public static void function() {javax.imageio.stream.FileCacheImageInputStream obj = new javax.imageio.stream.FileCacheImageInputStream();obj.setBitOffset(325005181);}}

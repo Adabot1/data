@@ -1,0 +1,1 @@
+class java_lang_StrictMath_max_float_float{ public static void function() {java.lang.StrictMath.max(0.8366928,0.05407083);}}

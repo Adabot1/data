@@ -1,0 +1,1 @@
+class java_util_IllegalFormatWidthException_wait_long_int{ public static void function() {java.util.IllegalFormatWidthException obj = new java.util.IllegalFormatWidthException();obj.wait(1948161818840237331,-1287410535);}}

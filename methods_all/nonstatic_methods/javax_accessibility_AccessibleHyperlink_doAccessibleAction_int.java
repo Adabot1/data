@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleHyperlink_doAccessibleAction_int{ public static void function() {javax.accessibility.AccessibleHyperlink obj = new javax.accessibility.AccessibleHyperlink();obj.doAccessibleAction(873921548);}}

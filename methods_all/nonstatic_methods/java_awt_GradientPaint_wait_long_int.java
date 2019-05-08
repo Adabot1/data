@@ -1,0 +1,1 @@
+class java_awt_GradientPaint_wait_long_int{ public static void function() {java.awt.GradientPaint obj = new java.awt.GradientPaint();obj.wait(-4077430095039988290,1155981872);}}

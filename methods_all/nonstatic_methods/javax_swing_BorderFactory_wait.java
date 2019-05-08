@@ -1,0 +1,1 @@
+class javax_swing_BorderFactory_wait{ public static void function() {javax.swing.BorderFactory obj = new javax.swing.BorderFactory();obj.wait();}}

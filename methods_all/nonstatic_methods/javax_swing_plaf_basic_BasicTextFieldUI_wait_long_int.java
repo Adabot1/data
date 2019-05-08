@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicTextFieldUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicTextFieldUI obj = new javax.swing.plaf.basic.BasicTextFieldUI();obj.wait(-9025083118677510120,-1814325642);}}

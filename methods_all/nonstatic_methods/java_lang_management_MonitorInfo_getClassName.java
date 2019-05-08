@@ -1,0 +1,1 @@
+class java_lang_management_MonitorInfo_getClassName{ public static void function() {java.lang.management.MonitorInfo obj = new java.lang.management.MonitorInfo();obj.getClassName();}}

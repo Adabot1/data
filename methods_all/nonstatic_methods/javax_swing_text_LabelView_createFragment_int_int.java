@@ -1,0 +1,1 @@
+class javax_swing_text_LabelView_createFragment_int_int{ public static void function() {javax.swing.text.LabelView obj = new javax.swing.text.LabelView();obj.createFragment(-1146275538,-515126743);}}

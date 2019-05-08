@@ -1,0 +1,1 @@
+class java_beans_PropertyVetoException_getStackTrace{ public static void function() {java.beans.PropertyVetoException obj = new java.beans.PropertyVetoException();obj.getStackTrace();}}

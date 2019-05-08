@@ -1,0 +1,1 @@
+class java_nio_CharBuffer_wait_long{ public static void function() {java.nio.CharBuffer obj = new java.nio.CharBuffer();obj.wait(-258265573054051598);}}

@@ -1,0 +1,1 @@
+class javax_management_modelmbean_RequiredModelMBean_notify{ public static void function() {javax.management.modelmbean.RequiredModelMBean obj = new javax.management.modelmbean.RequiredModelMBean();obj.notify();}}

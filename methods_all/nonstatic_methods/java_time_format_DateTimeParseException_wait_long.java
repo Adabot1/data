@@ -1,0 +1,1 @@
+class java_time_format_DateTimeParseException_wait_long{ public static void function() {java.time.format.DateTimeParseException obj = new java.time.format.DateTimeParseException();obj.wait(2341607098548759893);}}

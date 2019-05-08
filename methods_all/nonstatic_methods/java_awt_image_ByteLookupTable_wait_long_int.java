@@ -1,0 +1,1 @@
+class java_awt_image_ByteLookupTable_wait_long_int{ public static void function() {java.awt.image.ByteLookupTable obj = new java.awt.image.ByteLookupTable();obj.wait(-7840634042736120401,63589112);}}

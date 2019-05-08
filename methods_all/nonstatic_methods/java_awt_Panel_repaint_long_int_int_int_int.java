@@ -1,0 +1,1 @@
+class java_awt_Panel_repaint_long_int_int_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.repaint(2307908987023354649,351445260,452513853,-1326479103,1795084133);}}

@@ -1,0 +1,1 @@
+class java_awt_Frame_areFocusTraversalKeysSet_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.areFocusTraversalKeysSet(818085283);}}

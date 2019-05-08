@@ -1,0 +1,1 @@
+class java_util_regex_PatternSyntaxException_wait_long{ public static void function() {java.util.regex.PatternSyntaxException obj = new java.util.regex.PatternSyntaxException();obj.wait(3739025208173440367);}}

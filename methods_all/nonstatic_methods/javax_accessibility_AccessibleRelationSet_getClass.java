@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleRelationSet_getClass{ public static void function() {javax.accessibility.AccessibleRelationSet obj = new javax.accessibility.AccessibleRelationSet();obj.getClass();}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_inside_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.inside(1527118839,327964137);}}

@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialBlob_getBinaryStream_long_long{ public static void function() {javax.sql.rowset.serial.SerialBlob obj = new javax.sql.rowset.serial.SerialBlob();obj.getBinaryStream(3498775662782299944,-7929019858229653666);}}

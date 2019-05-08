@@ -1,0 +1,1 @@
+class javax_sound_midi_MidiMessage_wait_long_int{ public static void function() {javax.sound.midi.MidiMessage obj = new javax.sound.midi.MidiMessage();obj.wait(-5987165143096317667,1852308848);}}

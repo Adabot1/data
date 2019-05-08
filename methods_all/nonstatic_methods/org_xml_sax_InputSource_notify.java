@@ -1,0 +1,1 @@
+class org_xml_sax_InputSource_notify{ public static void function() {org.xml.sax.InputSource obj = new org.xml.sax.InputSource();obj.notify();}}

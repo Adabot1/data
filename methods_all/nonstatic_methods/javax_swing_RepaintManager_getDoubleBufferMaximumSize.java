@@ -1,0 +1,1 @@
+class javax_swing_RepaintManager_getDoubleBufferMaximumSize{ public static void function() {javax.swing.RepaintManager obj = new javax.swing.RepaintManager();obj.getDoubleBufferMaximumSize();}}

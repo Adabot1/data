@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriteParam_wait_long_int{ public static void function() {javax.imageio.ImageWriteParam obj = new javax.imageio.ImageWriteParam();obj.wait(7358298027369564651,-1838668433);}}

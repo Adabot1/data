@@ -1,0 +1,1 @@
+class javax_xml_validation_ValidatorHandler_wait{ public static void function() {javax.xml.validation.ValidatorHandler obj = new javax.xml.validation.ValidatorHandler();obj.wait();}}

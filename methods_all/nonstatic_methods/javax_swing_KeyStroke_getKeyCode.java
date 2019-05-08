@@ -1,0 +1,1 @@
+class javax_swing_KeyStroke_getKeyCode{ public static void function() {javax.swing.KeyStroke obj = new javax.swing.KeyStroke();obj.getKeyCode();}}

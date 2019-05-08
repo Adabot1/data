@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_repaint_long_int_int_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.repaint(-759579821848000036,-664363269,-1519338388,530917880,2047564784);}}

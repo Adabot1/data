@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_repaint{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.repaint();}}

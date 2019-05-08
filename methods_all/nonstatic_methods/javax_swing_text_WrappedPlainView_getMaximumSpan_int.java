@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_getMaximumSpan_int{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.getMaximumSpan(1737075407);}}

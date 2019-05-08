@@ -1,0 +1,1 @@
+class javax_imageio_ImageIO_getWriterMIMETypes{ public static void function() {javax.imageio.ImageIO.getWriterMIMETypes();}}

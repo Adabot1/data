@@ -1,0 +1,1 @@
+class javax_crypto_spec_DESedeKeySpec_getClass{ public static void function() {javax.crypto.spec.DESedeKeySpec obj = new javax.crypto.spec.DESedeKeySpec();obj.getClass();}}

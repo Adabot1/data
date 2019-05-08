@@ -1,0 +1,1 @@
+class java_awt_image_DirectColorModel_getRed_int{ public static void function() {java.awt.image.DirectColorModel obj = new java.awt.image.DirectColorModel();obj.getRed(-999010298);}}

@@ -1,0 +1,1 @@
+class javax_script_ScriptEngineManager_getEngineFactories{ public static void function() {javax.script.ScriptEngineManager obj = new javax.script.ScriptEngineManager();obj.getEngineFactories();}}

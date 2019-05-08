@@ -1,0 +1,1 @@
+class javax_naming_spi_DirectoryManager_hasInitialContextFactoryBuilder{ public static void function() {javax.naming.spi.DirectoryManager.hasInitialContextFactoryBuilder();}}

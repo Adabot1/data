@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_locate_int_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.locate(-86021210,1159277507);}}

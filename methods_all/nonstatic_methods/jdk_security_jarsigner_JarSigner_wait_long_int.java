@@ -1,0 +1,1 @@
+class jdk_security_jarsigner_JarSigner_wait_long_int{ public static void function() {jdk.security.jarsigner.JarSigner obj = new jdk.security.jarsigner.JarSigner();obj.wait(-7912043444278456302,-1146685456);}}

@@ -1,0 +1,1 @@
+class jdk_dynalink_beans_StaticClass_hashCode{ public static void function() {jdk.dynalink.beans.StaticClass obj = new jdk.dynalink.beans.StaticClass();obj.hashCode();}}

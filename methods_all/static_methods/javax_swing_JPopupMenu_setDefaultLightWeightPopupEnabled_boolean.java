@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_setDefaultLightWeightPopupEnabled_boolean{ public static void function() {javax.swing.JPopupMenu.setDefaultLightWeightPopupEnabled(false);}}

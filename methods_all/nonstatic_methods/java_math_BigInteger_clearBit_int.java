@@ -1,0 +1,1 @@
+class java_math_BigInteger_clearBit_int{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();obj.clearBit(1903532560);}}

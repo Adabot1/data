@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_getComponentAt_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.getComponentAt(-1722607092,-688305239);}}

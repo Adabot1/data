@@ -1,0 +1,1 @@
+class java_sql_SQLClientInfoException_hashCode{ public static void function() {java.sql.SQLClientInfoException obj = new java.sql.SQLClientInfoException();obj.hashCode();}}

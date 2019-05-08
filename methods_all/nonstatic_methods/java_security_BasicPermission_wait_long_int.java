@@ -1,0 +1,1 @@
+class java_security_BasicPermission_wait_long_int{ public static void function() {java.security.BasicPermission obj = new java.security.BasicPermission();obj.wait(5822018345788846160,1550698674);}}

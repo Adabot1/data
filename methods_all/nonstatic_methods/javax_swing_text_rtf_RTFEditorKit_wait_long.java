@@ -1,0 +1,1 @@
+class javax_swing_text_rtf_RTFEditorKit_wait_long{ public static void function() {javax.swing.text.rtf.RTFEditorKit obj = new javax.swing.text.rtf.RTFEditorKit();obj.wait(8962445728543309606);}}

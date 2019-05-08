@@ -1,0 +1,1 @@
+class java_awt_image_MultiPixelPackedSampleModel_createCompatibleSampleModel_int_int{ public static void function() {java.awt.image.MultiPixelPackedSampleModel obj = new java.awt.image.MultiPixelPackedSampleModel();obj.createCompatibleSampleModel(-2009817953,-743871958);}}

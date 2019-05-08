@@ -1,0 +1,1 @@
+class java_awt_GridBagLayout_wait_long_int{ public static void function() {java.awt.GridBagLayout obj = new java.awt.GridBagLayout();obj.wait(-5866797652598710999,1216692067);}}

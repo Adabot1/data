@@ -1,0 +1,1 @@
+class java_security_Signature_sign{ public static void function() {java.security.Signature obj = new java.security.Signature();obj.sign();}}

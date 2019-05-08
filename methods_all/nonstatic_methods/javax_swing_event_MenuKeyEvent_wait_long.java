@@ -1,0 +1,1 @@
+class javax_swing_event_MenuKeyEvent_wait_long{ public static void function() {javax.swing.event.MenuKeyEvent obj = new javax.swing.event.MenuKeyEvent();obj.wait(-1627217607978364875);}}

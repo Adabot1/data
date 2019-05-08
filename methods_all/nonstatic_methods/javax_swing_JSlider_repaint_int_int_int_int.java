@@ -1,0 +1,1 @@
+class javax_swing_JSlider_repaint_int_int_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.repaint(1679442029,2108334788,-1129657894,-1579482763);}}

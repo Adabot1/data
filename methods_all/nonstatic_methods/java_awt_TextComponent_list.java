@@ -1,0 +1,1 @@
+class java_awt_TextComponent_list{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.list();}}

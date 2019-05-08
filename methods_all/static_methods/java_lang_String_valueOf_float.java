@@ -1,0 +1,1 @@
+class java_lang_String_valueOf_float{ public static void function() {java.lang.String.valueOf(0.54492074);}}

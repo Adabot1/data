@@ -1,0 +1,1 @@
+class java_awt_image_BufferedImage_getScaledInstance_int_int_int{ public static void function() {java.awt.image.BufferedImage obj = new java.awt.image.BufferedImage();obj.getScaledInstance(-466320677,-1513832353,-204114779);}}

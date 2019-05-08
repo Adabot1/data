@@ -1,0 +1,1 @@
+class java_util_zip_ZipEntry_wait_long_int{ public static void function() {java.util.zip.ZipEntry obj = new java.util.zip.ZipEntry();obj.wait(6037118522822351336,-834667581);}}

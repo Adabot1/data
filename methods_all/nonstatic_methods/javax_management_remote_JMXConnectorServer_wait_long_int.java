@@ -1,0 +1,1 @@
+class javax_management_remote_JMXConnectorServer_wait_long_int{ public static void function() {javax.management.remote.JMXConnectorServer obj = new javax.management.remote.JMXConnectorServer();obj.wait(3823925136655476201,-1004887502);}}

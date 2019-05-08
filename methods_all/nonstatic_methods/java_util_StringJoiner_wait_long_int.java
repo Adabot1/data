@@ -1,0 +1,1 @@
+class java_util_StringJoiner_wait_long_int{ public static void function() {java.util.StringJoiner obj = new java.util.StringJoiner();obj.wait(-6687444163791986381,1081565840);}}

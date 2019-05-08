@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_repaint_int_int_int_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.repaint(-702647674,1106056273,-309538926,179114637);}}

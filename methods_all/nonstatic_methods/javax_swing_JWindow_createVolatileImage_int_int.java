@@ -1,0 +1,1 @@
+class javax_swing_JWindow_createVolatileImage_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.createVolatileImage(1190885813,763706733);}}

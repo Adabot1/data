@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLFrameHyperlinkEvent_getTarget{ public static void function() {javax.swing.text.html.HTMLFrameHyperlinkEvent obj = new javax.swing.text.html.HTMLFrameHyperlinkEvent();obj.getTarget();}}

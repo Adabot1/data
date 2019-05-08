@@ -1,0 +1,1 @@
+class jdk_jfr_EventFactory_wait_long{ public static void function() {jdk.jfr.EventFactory obj = new jdk.jfr.EventFactory();obj.wait(-248421954945801185);}}

@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_reshape_int_int_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.reshape(-805247727,-259416870,2076825447,1004832850);}}

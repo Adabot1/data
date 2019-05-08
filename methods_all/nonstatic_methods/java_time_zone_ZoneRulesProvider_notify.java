@@ -1,0 +1,1 @@
+class java_time_zone_ZoneRulesProvider_notify{ public static void function() {java.time.zone.ZoneRulesProvider obj = new java.time.zone.ZoneRulesProvider();obj.notify();}}

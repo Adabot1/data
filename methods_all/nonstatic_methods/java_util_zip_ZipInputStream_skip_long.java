@@ -1,0 +1,1 @@
+class java_util_zip_ZipInputStream_skip_long{ public static void function() {java.util.zip.ZipInputStream obj = new java.util.zip.ZipInputStream();obj.skip(-8034432216960131028);}}

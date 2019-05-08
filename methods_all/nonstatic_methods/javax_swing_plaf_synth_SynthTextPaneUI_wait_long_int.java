@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTextPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthTextPaneUI obj = new javax.swing.plaf.synth.SynthTextPaneUI();obj.wait(-7135129235056775465,739234748);}}

@@ -1,0 +1,1 @@
+class java_nio_DoubleBuffer_get{ public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();obj.get();}}

@@ -1,0 +1,1 @@
+class javax_swing_JApplet_move_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.move(1217305944,-1226499508);}}

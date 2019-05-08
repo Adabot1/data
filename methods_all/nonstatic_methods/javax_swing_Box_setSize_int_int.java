@@ -1,0 +1,1 @@
+class javax_swing_Box_setSize_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.setSize(568925670,-1192244532);}}

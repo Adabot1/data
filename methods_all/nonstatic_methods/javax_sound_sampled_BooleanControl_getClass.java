@@ -1,0 +1,1 @@
+class javax_sound_sampled_BooleanControl_getClass{ public static void function() {javax.sound.sampled.BooleanControl obj = new javax.sound.sampled.BooleanControl();obj.getClass();}}

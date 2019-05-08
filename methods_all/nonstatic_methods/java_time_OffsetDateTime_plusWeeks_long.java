@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_plusWeeks_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.plusWeeks(4066023326848651627);}}

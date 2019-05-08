@@ -1,0 +1,1 @@
+class javax_swing_ScrollPaneLayout_setHorizontalScrollBarPolicy_int{ public static void function() {javax.swing.ScrollPaneLayout obj = new javax.swing.ScrollPaneLayout();obj.setHorizontalScrollBarPolicy(1846984944);}}

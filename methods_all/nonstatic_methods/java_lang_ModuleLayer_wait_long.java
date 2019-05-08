@@ -1,0 +1,1 @@
+class java_lang_ModuleLayer_wait_long{ public static void function() {java.lang.ModuleLayer obj = new java.lang.ModuleLayer();obj.wait(4618219562103343128);}}

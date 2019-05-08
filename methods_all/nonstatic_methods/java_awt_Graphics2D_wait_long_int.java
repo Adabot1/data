@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_wait_long_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.wait(6746777804431104156,-174270671);}}

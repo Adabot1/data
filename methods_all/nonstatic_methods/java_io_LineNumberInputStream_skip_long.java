@@ -1,0 +1,1 @@
+class java_io_LineNumberInputStream_skip_long{ public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();obj.skip(-9095760195199214721);}}

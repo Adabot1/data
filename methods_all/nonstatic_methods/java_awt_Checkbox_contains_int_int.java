@@ -1,0 +1,1 @@
+class java_awt_Checkbox_contains_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.contains(-656624797,179005036);}}

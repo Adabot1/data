@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_weakCompareAndSetAcquire_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.weakCompareAndSetAcquire(4297332767474645401,6106591401032708680);}}

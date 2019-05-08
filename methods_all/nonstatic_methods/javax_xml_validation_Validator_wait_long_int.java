@@ -1,0 +1,1 @@
+class javax_xml_validation_Validator_wait_long_int{ public static void function() {javax.xml.validation.Validator obj = new javax.xml.validation.Validator();obj.wait(-1239617892218399354,-1332927156);}}

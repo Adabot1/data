@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthScrollPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthScrollPaneUI obj = new javax.swing.plaf.synth.SynthScrollPaneUI();obj.wait(8506419564547216939,-316560412);}}

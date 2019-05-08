@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_getAndSet_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.getAndSet(-3350542725821836130);}}

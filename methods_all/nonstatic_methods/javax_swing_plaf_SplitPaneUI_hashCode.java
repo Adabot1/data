@@ -1,0 +1,1 @@
+class javax_swing_plaf_SplitPaneUI_hashCode{ public static void function() {javax.swing.plaf.SplitPaneUI obj = new javax.swing.plaf.SplitPaneUI();obj.hashCode();}}

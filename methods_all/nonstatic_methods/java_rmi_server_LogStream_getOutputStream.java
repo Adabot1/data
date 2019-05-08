@@ -1,0 +1,1 @@
+class java_rmi_server_LogStream_getOutputStream{ public static void function() {java.rmi.server.LogStream obj = new java.rmi.server.LogStream();obj.getOutputStream();}}

@@ -1,0 +1,1 @@
+class java_awt_MenuComponent_wait{ public static void function() {java.awt.MenuComponent obj = new java.awt.MenuComponent();obj.wait();}}

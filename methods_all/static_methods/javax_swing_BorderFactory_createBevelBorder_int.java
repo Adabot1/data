@@ -1,0 +1,1 @@
+class javax_swing_BorderFactory_createBevelBorder_int{ public static void function() {javax.swing.BorderFactory.createBevelBorder(-1999685453);}}

@@ -1,0 +1,1 @@
+class javax_lang_model_type_UnknownTypeException_wait_long{ public static void function() {javax.lang.model.type.UnknownTypeException obj = new javax.lang.model.type.UnknownTypeException();obj.wait(-4776939210874844689);}}

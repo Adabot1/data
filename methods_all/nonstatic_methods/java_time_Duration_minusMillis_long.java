@@ -1,0 +1,1 @@
+class java_time_Duration_minusMillis_long{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.minusMillis(3009995759757795064);}}

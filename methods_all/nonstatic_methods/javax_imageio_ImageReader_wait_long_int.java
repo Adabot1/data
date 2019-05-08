@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_wait_long_int{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.wait(560128627610318093,1037329382);}}

@@ -1,0 +1,1 @@
+class javax_swing_InputVerifier_wait_long{ public static void function() {javax.swing.InputVerifier obj = new javax.swing.InputVerifier();obj.wait(-730571170040942656);}}

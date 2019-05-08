@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthButtonUI_toString{ public static void function() {javax.swing.plaf.synth.SynthButtonUI obj = new javax.swing.plaf.synth.SynthButtonUI();obj.toString();}}

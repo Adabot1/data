@@ -1,0 +1,1 @@
+class javax_xml_validation_Validator_reset{ public static void function() {javax.xml.validation.Validator obj = new javax.xml.validation.Validator();obj.reset();}}

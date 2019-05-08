@@ -1,0 +1,1 @@
+class java_rmi_server_RemoteObject_getClass{ public static void function() {java.rmi.server.RemoteObject obj = new java.rmi.server.RemoteObject();obj.getClass();}}

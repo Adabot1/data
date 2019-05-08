@@ -1,0 +1,1 @@
+class java_awt_Panel_isVisible{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.isVisible();}}

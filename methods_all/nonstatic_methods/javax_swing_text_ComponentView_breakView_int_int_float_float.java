@@ -1,0 +1,1 @@
+class javax_swing_text_ComponentView_breakView_int_int_float_float{ public static void function() {javax.swing.text.ComponentView obj = new javax.swing.text.ComponentView();obj.breakView(-1662801380,542037187,0.51540786,0.092619956);}}

@@ -1,0 +1,1 @@
+class java_nio_file_StandardOpenOption_wait_long{ public static void function() {java.nio.file.StandardOpenOption obj = new java.nio.file.StandardOpenOption();obj.wait(-3218960144807842016);}}

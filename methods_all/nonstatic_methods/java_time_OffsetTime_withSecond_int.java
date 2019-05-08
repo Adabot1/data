@@ -1,0 +1,1 @@
+class java_time_OffsetTime_withSecond_int{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();obj.withSecond(-1831733640);}}

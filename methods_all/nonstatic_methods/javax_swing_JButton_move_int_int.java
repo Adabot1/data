@@ -1,0 +1,1 @@
+class javax_swing_JButton_move_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.move(-404535483,390363811);}}

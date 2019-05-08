@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_getDefaultLocale{ public static void function() {javax.swing.JTextPane.getDefaultLocale();}}

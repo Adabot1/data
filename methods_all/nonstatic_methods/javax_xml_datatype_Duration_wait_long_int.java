@@ -1,0 +1,1 @@
+class javax_xml_datatype_Duration_wait_long_int{ public static void function() {javax.xml.datatype.Duration obj = new javax.xml.datatype.Duration();obj.wait(-4154962122712173621,435709792);}}

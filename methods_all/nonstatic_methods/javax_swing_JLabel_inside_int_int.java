@@ -1,0 +1,1 @@
+class javax_swing_JLabel_inside_int_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.inside(-573816793,-1306080085);}}

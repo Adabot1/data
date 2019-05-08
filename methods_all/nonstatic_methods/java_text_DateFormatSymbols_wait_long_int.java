@@ -1,0 +1,1 @@
+class java_text_DateFormatSymbols_wait_long_int{ public static void function() {java.text.DateFormatSymbols obj = new java.text.DateFormatSymbols();obj.wait(5270585301976885139,-840152162);}}

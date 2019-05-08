@@ -1,0 +1,1 @@
+class java_awt_TextField_createImage_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.createImage(329628929,492660967);}}

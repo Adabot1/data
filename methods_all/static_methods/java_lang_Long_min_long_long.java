@@ -1,0 +1,1 @@
+class java_lang_Long_min_long_long{ public static void function() {java.lang.Long.min(8246470160168391094,-4231990156973667535);}}

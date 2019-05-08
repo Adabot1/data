@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_notifyAll{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.notifyAll();}}

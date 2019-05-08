@@ -1,0 +1,1 @@
+class javax_swing_JTree_getBaseline_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.getBaseline(1008242847,-1806977773);}}

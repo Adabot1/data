@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_setSize_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.setSize(-1028215799,1225162461);}}

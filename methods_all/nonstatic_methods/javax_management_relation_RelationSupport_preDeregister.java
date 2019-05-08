@@ -1,0 +1,1 @@
+class javax_management_relation_RelationSupport_preDeregister{ public static void function() {javax.management.relation.RelationSupport obj = new javax.management.relation.RelationSupport();obj.preDeregister();}}

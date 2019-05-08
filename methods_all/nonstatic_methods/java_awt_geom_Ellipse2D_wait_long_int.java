@@ -1,0 +1,1 @@
+class java_awt_geom_Ellipse2D_wait_long_int{ public static void function() {java.awt.geom.Ellipse2D obj = new java.awt.geom.Ellipse2D();obj.wait(2401951131929125407,698724982);}}

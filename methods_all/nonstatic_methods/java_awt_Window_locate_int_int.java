@@ -1,0 +1,1 @@
+class java_awt_Window_locate_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.locate(-1464171302,-1432840582);}}

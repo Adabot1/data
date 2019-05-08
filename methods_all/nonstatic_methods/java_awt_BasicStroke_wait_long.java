@@ -1,0 +1,1 @@
+class java_awt_BasicStroke_wait_long{ public static void function() {java.awt.BasicStroke obj = new java.awt.BasicStroke();obj.wait(7619816008410596944);}}

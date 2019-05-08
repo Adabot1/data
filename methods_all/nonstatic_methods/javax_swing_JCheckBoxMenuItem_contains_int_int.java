@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_contains_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.contains(1734002806,525353140);}}

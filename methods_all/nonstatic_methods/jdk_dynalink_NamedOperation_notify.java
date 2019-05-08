@@ -1,0 +1,1 @@
+class jdk_dynalink_NamedOperation_notify{ public static void function() {jdk.dynalink.NamedOperation obj = new jdk.dynalink.NamedOperation();obj.notify();}}

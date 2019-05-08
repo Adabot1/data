@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setSize_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setSize(824927224,635686395);}}

@@ -1,0 +1,1 @@
+class java_awt_image_BufferedImage_releaseWritableTile_int_int{ public static void function() {java.awt.image.BufferedImage obj = new java.awt.image.BufferedImage();obj.releaseWritableTile(413942140,-1189385206);}}

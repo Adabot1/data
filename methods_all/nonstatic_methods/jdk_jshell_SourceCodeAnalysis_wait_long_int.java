@@ -1,0 +1,1 @@
+class jdk_jshell_SourceCodeAnalysis_wait_long_int{ public static void function() {jdk.jshell.SourceCodeAnalysis obj = new jdk.jshell.SourceCodeAnalysis();obj.wait(-3361644809118700378,-639977580);}}

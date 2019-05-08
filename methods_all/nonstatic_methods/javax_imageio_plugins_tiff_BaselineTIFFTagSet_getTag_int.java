@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_BaselineTIFFTagSet_getTag_int{ public static void function() {javax.imageio.plugins.tiff.BaselineTIFFTagSet obj = new javax.imageio.plugins.tiff.BaselineTIFFTagSet();obj.getTag(-1617283805);}}

@@ -1,0 +1,1 @@
+class java_awt_geom_Path2D_moveTo_double_double{ public static void function() {java.awt.geom.Path2D obj = new java.awt.geom.Path2D();obj.moveTo(0.6879893563006286,0.8186355704765331);}}

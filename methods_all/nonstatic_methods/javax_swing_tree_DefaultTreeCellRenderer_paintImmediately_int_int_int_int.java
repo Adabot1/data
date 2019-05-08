@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_paintImmediately_int_int_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.paintImmediately(312722902,1418558549,-221223586,-373846591);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahEra_wait_long{ public static void function() {java.time.chrono.HijrahEra obj = new java.time.chrono.HijrahEra();obj.wait(1743710587390615149);}}

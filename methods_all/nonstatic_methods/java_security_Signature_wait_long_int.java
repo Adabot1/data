@@ -1,0 +1,1 @@
+class java_security_Signature_wait_long_int{ public static void function() {java.security.Signature obj = new java.security.Signature();obj.wait(-6383839214633277897,-598075349);}}

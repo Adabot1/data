@@ -1,0 +1,1 @@
+class java_awt_event_ItemEvent_getStateChange{ public static void function() {java.awt.event.ItemEvent obj = new java.awt.event.ItemEvent();obj.getStateChange();}}

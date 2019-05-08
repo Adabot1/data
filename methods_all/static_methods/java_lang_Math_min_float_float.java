@@ -1,0 +1,1 @@
+class java_lang_Math_min_float_float{ public static void function() {java.lang.Math.min(0.024161994,0.3512166);}}

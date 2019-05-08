@@ -1,0 +1,1 @@
+class java_time_chrono_IsoChronology_period_int_int_int{ public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();obj.period(-1452875393,-2040225132,-1484390986);}}

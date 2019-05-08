@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_getFocusTraversalPolicy{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.getFocusTraversalPolicy();}}

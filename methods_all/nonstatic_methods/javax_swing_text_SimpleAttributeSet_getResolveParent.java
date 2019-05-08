@@ -1,0 +1,1 @@
+class javax_swing_text_SimpleAttributeSet_getResolveParent{ public static void function() {javax.swing.text.SimpleAttributeSet obj = new javax.swing.text.SimpleAttributeSet();obj.getResolveParent();}}

@@ -1,0 +1,1 @@
+class java_util_logging_Level_wait_long_int{ public static void function() {java.util.logging.Level obj = new java.util.logging.Level();obj.wait(4526387033036053271,-964996294);}}

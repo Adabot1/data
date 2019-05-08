@@ -1,0 +1,1 @@
+class java_lang_Class_getGenericInterfaces{ public static void function() {java.lang.Class obj = new java.lang.Class();obj.getGenericInterfaces();}}

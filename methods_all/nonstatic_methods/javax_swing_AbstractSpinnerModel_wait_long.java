@@ -1,0 +1,1 @@
+class javax_swing_AbstractSpinnerModel_wait_long{ public static void function() {javax.swing.AbstractSpinnerModel obj = new javax.swing.AbstractSpinnerModel();obj.wait(-3381134211873596530);}}

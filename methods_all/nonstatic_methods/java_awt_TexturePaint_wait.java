@@ -1,0 +1,1 @@
+class java_awt_TexturePaint_wait{ public static void function() {java.awt.TexturePaint obj = new java.awt.TexturePaint();obj.wait();}}

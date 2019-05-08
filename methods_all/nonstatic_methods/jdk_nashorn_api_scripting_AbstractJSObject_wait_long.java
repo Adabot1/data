@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_AbstractJSObject_wait_long{ public static void function() {jdk.nashorn.api.scripting.AbstractJSObject obj = new jdk.nashorn.api.scripting.AbstractJSObject();obj.wait(6005517619923701555);}}

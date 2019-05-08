@@ -1,0 +1,1 @@
+class javax_swing_JMenu_getBaseline_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.getBaseline(1276321030,-1629474008);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_inside_int_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.inside(1816895247,293137699);}}

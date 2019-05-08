@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_getLineOfOffset_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.getLineOfOffset(-1219043281);}}

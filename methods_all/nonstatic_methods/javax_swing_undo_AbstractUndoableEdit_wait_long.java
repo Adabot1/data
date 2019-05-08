@@ -1,0 +1,1 @@
+class javax_swing_undo_AbstractUndoableEdit_wait_long{ public static void function() {javax.swing.undo.AbstractUndoableEdit obj = new javax.swing.undo.AbstractUndoableEdit();obj.wait(5265612606750687219);}}

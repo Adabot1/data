@@ -1,0 +1,1 @@
+class javax_swing_border_MatteBorder_toString{ public static void function() {javax.swing.border.MatteBorder obj = new javax.swing.border.MatteBorder();obj.toString();}}

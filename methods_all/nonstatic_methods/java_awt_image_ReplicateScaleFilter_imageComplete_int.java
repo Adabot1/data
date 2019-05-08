@@ -1,0 +1,1 @@
+class java_awt_image_ReplicateScaleFilter_imageComplete_int{ public static void function() {java.awt.image.ReplicateScaleFilter obj = new java.awt.image.ReplicateScaleFilter();obj.imageComplete(-1433998957);}}

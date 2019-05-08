@@ -1,0 +1,1 @@
+class javax_swing_Timer_setDelay_int{ public static void function() {javax.swing.Timer obj = new javax.swing.Timer();obj.setDelay(-1713205534);}}

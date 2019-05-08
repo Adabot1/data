@@ -1,0 +1,1 @@
+class java_lang_Character_forDigit_int_int{ public static void function() {java.lang.Character.forDigit(-942624905,546542290);}}

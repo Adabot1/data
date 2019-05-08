@@ -1,0 +1,1 @@
+class javax_swing_JMenu_contains_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.contains(842553379,-37619983);}}

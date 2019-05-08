@@ -1,0 +1,1 @@
+class java_security_CodeSigner_wait_long{ public static void function() {java.security.CodeSigner obj = new java.security.CodeSigner();obj.wait(-5607097543755269601);}}

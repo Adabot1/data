@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialDatalink_wait_long_int{ public static void function() {javax.sql.rowset.serial.SerialDatalink obj = new javax.sql.rowset.serial.SerialDatalink();obj.wait(1211392802467551982,1486220290);}}

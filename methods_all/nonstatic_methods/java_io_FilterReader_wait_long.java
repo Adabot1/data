@@ -1,0 +1,1 @@
+class java_io_FilterReader_wait_long{ public static void function() {java.io.FilterReader obj = new java.io.FilterReader();obj.wait(2349629066175659060);}}

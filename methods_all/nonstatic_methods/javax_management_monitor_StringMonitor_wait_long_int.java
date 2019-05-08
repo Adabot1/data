@@ -1,0 +1,1 @@
+class javax_management_monitor_StringMonitor_wait_long_int{ public static void function() {javax.management.monitor.StringMonitor obj = new javax.management.monitor.StringMonitor();obj.wait(7652115391478782296,1835325192);}}

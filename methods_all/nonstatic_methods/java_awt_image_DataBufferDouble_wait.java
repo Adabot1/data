@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferDouble_wait{ public static void function() {java.awt.image.DataBufferDouble obj = new java.awt.image.DataBufferDouble();obj.wait();}}

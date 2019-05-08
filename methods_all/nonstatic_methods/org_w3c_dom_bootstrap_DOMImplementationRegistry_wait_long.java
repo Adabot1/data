@@ -1,0 +1,1 @@
+class org_w3c_dom_bootstrap_DOMImplementationRegistry_wait_long{ public static void function() {org.w3c.dom.bootstrap.DOMImplementationRegistry obj = new org.w3c.dom.bootstrap.DOMImplementationRegistry();obj.wait(-4951067015234771415);}}

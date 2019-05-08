@@ -1,0 +1,1 @@
+class javax_management_modelmbean_ModelMBeanNotificationInfo_getNotifTypes{ public static void function() {javax.management.modelmbean.ModelMBeanNotificationInfo obj = new javax.management.modelmbean.ModelMBeanNotificationInfo();obj.getNotifTypes();}}

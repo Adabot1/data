@@ -1,0 +1,1 @@
+class java_awt_List_setLocation_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.setLocation(-1469340387,1636626160);}}

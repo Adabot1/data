@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultStyledDocument_createPosition_int{ public static void function() {javax.swing.text.DefaultStyledDocument obj = new javax.swing.text.DefaultStyledDocument();obj.createPosition(-371666098);}}

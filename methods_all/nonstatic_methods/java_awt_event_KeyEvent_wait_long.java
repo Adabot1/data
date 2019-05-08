@@ -1,0 +1,1 @@
+class java_awt_event_KeyEvent_wait_long{ public static void function() {java.awt.event.KeyEvent obj = new java.awt.event.KeyEvent();obj.wait(-5553316787479872540);}}

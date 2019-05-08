@@ -1,0 +1,1 @@
+class java_lang_Math_copySign_float_float{ public static void function() {java.lang.Math.copySign(0.87612313,0.41227806);}}

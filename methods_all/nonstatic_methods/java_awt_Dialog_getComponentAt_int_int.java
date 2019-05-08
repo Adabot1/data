@@ -1,0 +1,1 @@
+class java_awt_Dialog_getComponentAt_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.getComponentAt(1355919479,-1481705466);}}

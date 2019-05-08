@@ -1,0 +1,1 @@
+class java_util_Collections_wait_long_int{ public static void function() {java.util.Collections obj = new java.util.Collections();obj.wait(2193158963290194180,-841892869);}}

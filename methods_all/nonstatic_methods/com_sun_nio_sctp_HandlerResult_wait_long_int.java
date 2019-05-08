@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_HandlerResult_wait_long_int{ public static void function() {com.sun.nio.sctp.HandlerResult obj = new com.sun.nio.sctp.HandlerResult();obj.wait(7823900154208055526,-1956392782);}}

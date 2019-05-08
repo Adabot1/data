@@ -1,0 +1,1 @@
+class java_lang_reflect_Array_wait_long{ public static void function() {java.lang.reflect.Array obj = new java.lang.reflect.Array();obj.wait(3907981782340384058);}}

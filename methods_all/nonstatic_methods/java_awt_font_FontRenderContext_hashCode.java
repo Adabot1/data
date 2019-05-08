@@ -1,0 +1,1 @@
+class java_awt_font_FontRenderContext_hashCode{ public static void function() {java.awt.font.FontRenderContext obj = new java.awt.font.FontRenderContext();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class java_util_MissingFormatWidthException_wait_long{ public static void function() {java.util.MissingFormatWidthException obj = new java.util.MissingFormatWidthException();obj.wait(7045019700671148790);}}

@@ -1,0 +1,1 @@
+class javax_swing_UIManager_wait_long{ public static void function() {javax.swing.UIManager obj = new javax.swing.UIManager();obj.wait(-8195487284002337710);}}

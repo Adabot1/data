@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalInternalFrameTitlePane_setBounds_int_int_int_int{ public static void function() {javax.swing.plaf.metal.MetalInternalFrameTitlePane obj = new javax.swing.plaf.metal.MetalInternalFrameTitlePane();obj.setBounds(-245742928,-71293796,1875523305,-454529016);}}

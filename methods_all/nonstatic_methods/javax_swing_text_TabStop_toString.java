@@ -1,0 +1,1 @@
+class javax_swing_text_TabStop_toString{ public static void function() {javax.swing.text.TabStop obj = new javax.swing.text.TabStop();obj.toString();}}

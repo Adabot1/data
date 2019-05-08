@@ -1,0 +1,1 @@
+class javax_swing_Box_createVerticalStrut_int{ public static void function() {javax.swing.Box.createVerticalStrut(1786089799);}}

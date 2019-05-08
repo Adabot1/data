@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_getComponent_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.getComponent(-1983233356);}}

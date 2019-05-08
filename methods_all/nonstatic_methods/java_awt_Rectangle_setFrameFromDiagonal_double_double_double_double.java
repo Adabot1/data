@@ -1,0 +1,1 @@
+class java_awt_Rectangle_setFrameFromDiagonal_double_double_double_double{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.setFrameFromDiagonal(0.03750025033543902,0.5631728180194235,0.9278886384809836,0.7092267323968319);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_setControlButtonsAreShown_boolean{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.setControlButtonsAreShown(false);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_AbstractDocument_hashCode{ public static void function() {javax.swing.text.AbstractDocument obj = new javax.swing.text.AbstractDocument();obj.hashCode();}}

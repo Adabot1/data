@@ -1,0 +1,1 @@
+class javax_swing_text_html_BlockView_getGraphics{ public static void function() {javax.swing.text.html.BlockView obj = new javax.swing.text.html.BlockView();obj.getGraphics();}}

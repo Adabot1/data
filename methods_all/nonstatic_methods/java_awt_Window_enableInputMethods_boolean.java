@@ -1,0 +1,1 @@
+class java_awt_Window_enableInputMethods_boolean{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.enableInputMethods(true);}}

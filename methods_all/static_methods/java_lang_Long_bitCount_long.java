@@ -1,0 +1,1 @@
+class java_lang_Long_bitCount_long{ public static void function() {java.lang.Long.bitCount(1197361127687359621);}}

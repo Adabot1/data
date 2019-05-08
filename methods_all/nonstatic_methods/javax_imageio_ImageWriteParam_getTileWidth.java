@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriteParam_getTileWidth{ public static void function() {javax.imageio.ImageWriteParam obj = new javax.imageio.ImageWriteParam();obj.getTileWidth();}}

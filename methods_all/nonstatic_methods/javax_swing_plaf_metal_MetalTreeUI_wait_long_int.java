@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalTreeUI_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalTreeUI obj = new javax.swing.plaf.metal.MetalTreeUI();obj.wait(-3614367931010567750,590635908);}}

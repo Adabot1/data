@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_remove_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.remove(-1388792751);}}

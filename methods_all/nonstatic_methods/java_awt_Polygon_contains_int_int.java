@@ -1,0 +1,1 @@
+class java_awt_Polygon_contains_int_int{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.contains(-1737044605,327029411);}}

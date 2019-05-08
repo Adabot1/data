@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.areFocusTraversalKeysSet(-226973857);}}

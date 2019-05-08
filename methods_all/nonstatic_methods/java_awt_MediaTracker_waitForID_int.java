@@ -1,0 +1,1 @@
+class java_awt_MediaTracker_waitForID_int{ public static void function() {java.awt.MediaTracker obj = new java.awt.MediaTracker();obj.waitForID(-1413935788);}}

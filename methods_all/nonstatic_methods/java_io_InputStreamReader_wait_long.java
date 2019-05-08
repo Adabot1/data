@@ -1,0 +1,1 @@
+class java_io_InputStreamReader_wait_long{ public static void function() {java.io.InputStreamReader obj = new java.io.InputStreamReader();obj.wait(-2920690923858021170);}}

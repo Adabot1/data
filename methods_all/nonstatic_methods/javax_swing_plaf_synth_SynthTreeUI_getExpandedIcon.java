@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTreeUI_getExpandedIcon{ public static void function() {javax.swing.plaf.synth.SynthTreeUI obj = new javax.swing.plaf.synth.SynthTreeUI();obj.getExpandedIcon();}}

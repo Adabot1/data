@@ -1,0 +1,1 @@
+class java_util_regex_Pattern_wait_long{ public static void function() {java.util.regex.Pattern obj = new java.util.regex.Pattern();obj.wait(-208406461527471691);}}

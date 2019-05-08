@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_getQuadrantRotateInstance_int{ public static void function() {java.awt.geom.AffineTransform.getQuadrantRotateInstance(682488993);}}

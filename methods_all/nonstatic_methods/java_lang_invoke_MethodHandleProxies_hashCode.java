@@ -1,0 +1,1 @@
+class java_lang_invoke_MethodHandleProxies_hashCode{ public static void function() {java.lang.invoke.MethodHandleProxies obj = new java.lang.invoke.MethodHandleProxies();obj.hashCode();}}

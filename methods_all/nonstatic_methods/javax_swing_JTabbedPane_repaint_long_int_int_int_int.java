@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_repaint_long_int_int_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.repaint(5663119001716100915,1448721487,-1464445392,-579622250,-1192957071);}}

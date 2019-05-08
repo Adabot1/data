@@ -1,0 +1,1 @@
+class java_security_SecureRandom_longs_long_long{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();obj.longs(2589796353332521763,692867355146169744);}}

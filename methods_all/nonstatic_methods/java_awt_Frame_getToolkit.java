@@ -1,0 +1,1 @@
+class java_awt_Frame_getToolkit{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.getToolkit();}}

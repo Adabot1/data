@@ -1,0 +1,1 @@
+class java_time_chrono_ThaiBuddhistChronology_isLeapYear_long{ public static void function() {java.time.chrono.ThaiBuddhistChronology obj = new java.time.chrono.ThaiBuddhistChronology();obj.isLeapYear(4215425145373049094);}}

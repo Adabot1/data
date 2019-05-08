@@ -1,0 +1,1 @@
+class java_lang_ProcessBuilder_getClass{ public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();obj.getClass();}}

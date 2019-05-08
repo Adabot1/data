@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_move_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.move(992170319,-195521167);}}

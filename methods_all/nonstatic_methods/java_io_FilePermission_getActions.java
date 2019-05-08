@@ -1,0 +1,1 @@
+class java_io_FilePermission_getActions{ public static void function() {java.io.FilePermission obj = new java.io.FilePermission();obj.getActions();}}

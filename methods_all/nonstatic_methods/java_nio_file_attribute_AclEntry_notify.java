@@ -1,0 +1,1 @@
+class java_nio_file_attribute_AclEntry_notify{ public static void function() {java.nio.file.attribute.AclEntry obj = new java.nio.file.attribute.AclEntry();obj.notify();}}

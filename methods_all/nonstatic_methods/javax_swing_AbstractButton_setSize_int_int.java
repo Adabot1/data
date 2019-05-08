@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_setSize_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.setSize(-1986917171,-731744243);}}

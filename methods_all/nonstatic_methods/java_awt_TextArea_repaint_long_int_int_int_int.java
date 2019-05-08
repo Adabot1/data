@@ -1,0 +1,1 @@
+class java_awt_TextArea_repaint_long_int_int_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.repaint(-5576021470958101144,-1825882931,-654163389,-1469317291,-1991863795);}}

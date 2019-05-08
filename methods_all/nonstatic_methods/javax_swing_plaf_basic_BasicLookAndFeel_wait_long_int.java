@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicLookAndFeel_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicLookAndFeel obj = new javax.swing.plaf.basic.BasicLookAndFeel();obj.wait(2811680970615893953,856258629);}}

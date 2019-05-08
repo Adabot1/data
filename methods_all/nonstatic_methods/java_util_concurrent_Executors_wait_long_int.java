@@ -1,0 +1,1 @@
+class java_util_concurrent_Executors_wait_long_int{ public static void function() {java.util.concurrent.Executors obj = new java.util.concurrent.Executors();obj.wait(-1468069106097947376,1526181547);}}

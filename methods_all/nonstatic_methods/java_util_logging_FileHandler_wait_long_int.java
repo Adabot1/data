@@ -1,0 +1,1 @@
+class java_util_logging_FileHandler_wait_long_int{ public static void function() {java.util.logging.FileHandler obj = new java.util.logging.FileHandler();obj.wait(5806748550034864158,1646083620);}}

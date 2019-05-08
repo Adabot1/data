@@ -1,0 +1,1 @@
+class javax_sound_midi_ShortMessage_setMessage_int_int_int_int{ public static void function() {javax.sound.midi.ShortMessage obj = new javax.sound.midi.ShortMessage();obj.setMessage(415759961,1779909421,1185274670,2122624727);}}

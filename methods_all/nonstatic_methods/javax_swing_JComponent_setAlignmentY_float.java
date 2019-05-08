@@ -1,0 +1,1 @@
+class javax_swing_JComponent_setAlignmentY_float{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.setAlignmentY(0.2927401);}}

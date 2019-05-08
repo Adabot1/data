@@ -1,0 +1,1 @@
+class jdk_dynalink_beans_StaticClass_wait_long{ public static void function() {jdk.dynalink.beans.StaticClass obj = new jdk.dynalink.beans.StaticClass();obj.wait(-6903128878061768664);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicInternalFrameUI_wait{ public static void function() {javax.swing.plaf.basic.BasicInternalFrameUI obj = new javax.swing.plaf.basic.BasicInternalFrameUI();obj.wait();}}

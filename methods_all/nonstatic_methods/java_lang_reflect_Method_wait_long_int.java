@@ -1,0 +1,1 @@
+class java_lang_reflect_Method_wait_long_int{ public static void function() {java.lang.reflect.Method obj = new java.lang.reflect.Method();obj.wait(-7715161459483324560,-1976577955);}}

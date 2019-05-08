@@ -1,0 +1,1 @@
+class javax_swing_Timer_hashCode{ public static void function() {javax.swing.Timer obj = new javax.swing.Timer();obj.hashCode();}}

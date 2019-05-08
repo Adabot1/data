@@ -1,0 +1,1 @@
+class jdk_dynalink_NamespaceOperation_getNamespace_int{ public static void function() {jdk.dynalink.NamespaceOperation obj = new jdk.dynalink.NamespaceOperation();obj.getNamespace(1977442628);}}

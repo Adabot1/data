@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_getTopLevelAncestor{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.getTopLevelAncestor();}}

@@ -1,0 +1,1 @@
+class javax_xml_transform_TransformerException_wait_long{ public static void function() {javax.xml.transform.TransformerException obj = new javax.xml.transform.TransformerException();obj.wait(-2054449486456193405);}}

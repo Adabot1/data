@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalTextFieldUI_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalTextFieldUI obj = new javax.swing.plaf.metal.MetalTextFieldUI();obj.wait(-3864895286590985401,-1698547414);}}

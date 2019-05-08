@@ -1,0 +1,1 @@
+class java_nio_file_attribute_AclEntryPermission_wait_long_int{ public static void function() {java.nio.file.attribute.AclEntryPermission obj = new java.nio.file.attribute.AclEntryPermission();obj.wait(-4030355053839516052,-597172513);}}

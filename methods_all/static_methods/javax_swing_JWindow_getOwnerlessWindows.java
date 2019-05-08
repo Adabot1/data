@@ -1,0 +1,1 @@
+class javax_swing_JWindow_getOwnerlessWindows{ public static void function() {javax.swing.JWindow.getOwnerlessWindows();}}

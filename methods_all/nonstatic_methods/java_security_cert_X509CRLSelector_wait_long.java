@@ -1,0 +1,1 @@
+class java_security_cert_X509CRLSelector_wait_long{ public static void function() {java.security.cert.X509CRLSelector obj = new java.security.cert.X509CRLSelector();obj.wait(5710873174810430645);}}

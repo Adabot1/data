@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthProgressBarUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthProgressBarUI obj = new javax.swing.plaf.synth.SynthProgressBarUI();obj.wait(-2570790340308757047);}}

@@ -1,0 +1,1 @@
+class java_awt_image_DirectColorModel_createCompatibleWritableRaster_int_int{ public static void function() {java.awt.image.DirectColorModel obj = new java.awt.image.DirectColorModel();obj.createCompatibleWritableRaster(-1705013104,390152505);}}

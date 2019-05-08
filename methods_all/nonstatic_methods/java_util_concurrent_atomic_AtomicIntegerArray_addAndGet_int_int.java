@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_addAndGet_int_int{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.addAndGet(-172004115,-1297951911);}}

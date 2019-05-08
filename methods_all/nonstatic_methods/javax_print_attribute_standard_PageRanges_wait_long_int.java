@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PageRanges_wait_long_int{ public static void function() {javax.print.attribute.standard.PageRanges obj = new javax.print.attribute.standard.PageRanges();obj.wait(-7778993180060868203,1841092231);}}

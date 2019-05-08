@@ -1,0 +1,1 @@
+class javax_swing_InternalFrameFocusTraversalPolicy_wait_long_int{ public static void function() {javax.swing.InternalFrameFocusTraversalPolicy obj = new javax.swing.InternalFrameFocusTraversalPolicy();obj.wait(-8188712780015476898,1894535389);}}

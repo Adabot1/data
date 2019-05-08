@@ -1,0 +1,1 @@
+class javax_swing_DefaultBoundedRangeModel_setExtent_int{ public static void function() {javax.swing.DefaultBoundedRangeModel obj = new javax.swing.DefaultBoundedRangeModel();obj.setExtent(-585934111);}}

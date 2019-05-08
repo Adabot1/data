@@ -1,0 +1,1 @@
+class javax_swing_JButton_setVerticalTextPosition_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setVerticalTextPosition(-1753529215);}}

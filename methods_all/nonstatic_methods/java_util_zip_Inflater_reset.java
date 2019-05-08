@@ -1,0 +1,1 @@
+class java_util_zip_Inflater_reset{ public static void function() {java.util.zip.Inflater obj = new java.util.zip.Inflater();obj.reset();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_TabbedPaneUI_getClass{ public static void function() {javax.swing.plaf.TabbedPaneUI obj = new javax.swing.plaf.TabbedPaneUI();obj.getClass();}}

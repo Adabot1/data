@@ -1,0 +1,1 @@
+class javax_swing_DefaultFocusManager_wait_long_int{ public static void function() {javax.swing.DefaultFocusManager obj = new javax.swing.DefaultFocusManager();obj.wait(-64469463964698926,-1135415422);}}

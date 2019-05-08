@@ -1,0 +1,1 @@
+class jdk_net_ExtendedSocketOptions_getClass{ public static void function() {jdk.net.ExtendedSocketOptions obj = new jdk.net.ExtendedSocketOptions();obj.getClass();}}

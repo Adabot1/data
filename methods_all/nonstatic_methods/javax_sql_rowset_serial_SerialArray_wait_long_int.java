@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialArray_wait_long_int{ public static void function() {javax.sql.rowset.serial.SerialArray obj = new javax.sql.rowset.serial.SerialArray();obj.wait(4174207724956500863,1463840255);}}

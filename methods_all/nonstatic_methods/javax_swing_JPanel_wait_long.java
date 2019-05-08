@@ -1,0 +1,1 @@
+class javax_swing_JPanel_wait_long{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.wait(-1614336576299716033);}}

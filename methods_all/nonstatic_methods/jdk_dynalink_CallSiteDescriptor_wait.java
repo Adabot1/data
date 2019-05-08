@@ -1,0 +1,1 @@
+class jdk_dynalink_CallSiteDescriptor_wait{ public static void function() {jdk.dynalink.CallSiteDescriptor obj = new jdk.dynalink.CallSiteDescriptor();obj.wait();}}

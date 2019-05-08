@@ -1,0 +1,1 @@
+class java_awt_Rectangle_getHeight{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.getHeight();}}

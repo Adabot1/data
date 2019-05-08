@@ -1,0 +1,1 @@
+class java_awt_image_ShortLookupTable_wait{ public static void function() {java.awt.image.ShortLookupTable obj = new java.awt.image.ShortLookupTable();obj.wait();}}

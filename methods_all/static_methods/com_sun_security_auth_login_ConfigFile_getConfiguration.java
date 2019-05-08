@@ -1,0 +1,1 @@
+class com_sun_security_auth_login_ConfigFile_getConfiguration{ public static void function() {com.sun.security.auth.login.ConfigFile.getConfiguration();}}

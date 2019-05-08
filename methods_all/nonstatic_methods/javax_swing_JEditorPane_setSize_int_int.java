@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_setSize_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.setSize(-1691849936,242373500);}}

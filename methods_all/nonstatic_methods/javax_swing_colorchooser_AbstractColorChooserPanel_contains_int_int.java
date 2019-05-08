@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_contains_int_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.contains(82738654,1444969392);}}

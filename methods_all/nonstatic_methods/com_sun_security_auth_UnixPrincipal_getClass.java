@@ -1,0 +1,1 @@
+class com_sun_security_auth_UnixPrincipal_getClass{ public static void function() {com.sun.security.auth.UnixPrincipal obj = new com.sun.security.auth.UnixPrincipal();obj.getClass();}}

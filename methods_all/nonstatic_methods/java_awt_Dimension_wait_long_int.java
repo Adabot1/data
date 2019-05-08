@@ -1,0 +1,1 @@
+class java_awt_Dimension_wait_long_int{ public static void function() {java.awt.Dimension obj = new java.awt.Dimension();obj.wait(-8941366628934214014,-609803589);}}

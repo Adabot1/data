@@ -1,0 +1,1 @@
+class java_rmi_server_LogStream_write_int{ public static void function() {java.rmi.server.LogStream obj = new java.rmi.server.LogStream();obj.write(148016788);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalDesktopIconUI_hashCode{ public static void function() {javax.swing.plaf.metal.MetalDesktopIconUI obj = new javax.swing.plaf.metal.MetalDesktopIconUI();obj.hashCode();}}

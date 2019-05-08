@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_locate_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.locate(-1577861934,-277161635);}}

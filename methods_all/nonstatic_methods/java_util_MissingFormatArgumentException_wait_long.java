@@ -1,0 +1,1 @@
+class java_util_MissingFormatArgumentException_wait_long{ public static void function() {java.util.MissingFormatArgumentException obj = new java.util.MissingFormatArgumentException();obj.wait(5329115946319877683);}}

@@ -1,0 +1,1 @@
+class javax_swing_JWindow_inside_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.inside(-1101321974,-1561353101);}}

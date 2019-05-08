@@ -1,0 +1,1 @@
+class java_lang_Math_abs_double{ public static void function() {java.lang.Math.abs(0.4755465053776171);}}

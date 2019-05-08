@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_drawOval_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.drawOval(-1614264201,1673698660,-1102402576,-585733750);}}

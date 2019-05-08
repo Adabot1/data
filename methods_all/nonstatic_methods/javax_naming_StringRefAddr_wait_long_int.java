@@ -1,0 +1,1 @@
+class javax_naming_StringRefAddr_wait_long_int{ public static void function() {javax.naming.StringRefAddr obj = new javax.naming.StringRefAddr();obj.wait(8936431485115868003,513104569);}}

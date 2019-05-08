@@ -1,0 +1,1 @@
+class java_awt_Component_getFocusTraversalKeys_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.getFocusTraversalKeys(-805862650);}}

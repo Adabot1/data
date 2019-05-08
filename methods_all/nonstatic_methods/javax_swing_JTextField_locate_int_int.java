@@ -1,0 +1,1 @@
+class javax_swing_JTextField_locate_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.locate(-265714945,814510841);}}

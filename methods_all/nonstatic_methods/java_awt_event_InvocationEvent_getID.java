@@ -1,0 +1,1 @@
+class java_awt_event_InvocationEvent_getID{ public static void function() {java.awt.event.InvocationEvent obj = new java.awt.event.InvocationEvent();obj.getID();}}

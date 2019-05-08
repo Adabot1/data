@@ -1,0 +1,1 @@
+class java_lang_module_ModuleReference_wait_long_int{ public static void function() {java.lang.module.ModuleReference obj = new java.lang.module.ModuleReference();obj.wait(7571784530338485775,-1472591190);}}

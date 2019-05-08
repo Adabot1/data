@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_repaint_long{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.repaint(-3144336215791160987);}}

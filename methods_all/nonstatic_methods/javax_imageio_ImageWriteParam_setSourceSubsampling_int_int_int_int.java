@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriteParam_setSourceSubsampling_int_int_int_int{ public static void function() {javax.imageio.ImageWriteParam obj = new javax.imageio.ImageWriteParam();obj.setSourceSubsampling(160822834,190027026,-319125438,-572410664);}}

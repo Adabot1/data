@@ -1,0 +1,1 @@
+class javax_swing_text_BoxView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.BoxView obj = new javax.swing.text.BoxView();obj.getBreakWeight(538995657,0.70888656,0.16144907);}}

@@ -1,0 +1,1 @@
+class java_awt_Button_reshape_int_int_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.reshape(-970953477,178417714,-1210185138,-2084630348);}}

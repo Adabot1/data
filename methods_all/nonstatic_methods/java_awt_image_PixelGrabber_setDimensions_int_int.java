@@ -1,0 +1,1 @@
+class java_awt_image_PixelGrabber_setDimensions_int_int{ public static void function() {java.awt.image.PixelGrabber obj = new java.awt.image.PixelGrabber();obj.setDimensions(1279774207,-1801427148);}}

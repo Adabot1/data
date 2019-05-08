@@ -1,0 +1,1 @@
+class javax_swing_text_StyleConstants_hashCode{ public static void function() {javax.swing.text.StyleConstants obj = new javax.swing.text.StyleConstants();obj.hashCode();}}

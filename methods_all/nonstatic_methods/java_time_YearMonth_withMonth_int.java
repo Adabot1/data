@@ -1,0 +1,1 @@
+class java_time_YearMonth_withMonth_int{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.withMonth(-388041305);}}

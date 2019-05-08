@@ -1,0 +1,1 @@
+class java_awt_Frame_repaint_long_int_int_int_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.repaint(2908142533529666900,-1289214203,-127483085,2146332941,-2041343259);}}

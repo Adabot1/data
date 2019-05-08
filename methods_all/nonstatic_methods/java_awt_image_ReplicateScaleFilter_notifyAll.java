@@ -1,0 +1,1 @@
+class java_awt_image_ReplicateScaleFilter_notifyAll{ public static void function() {java.awt.image.ReplicateScaleFilter obj = new java.awt.image.ReplicateScaleFilter();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class java_security_spec_ECFieldFp_notifyAll{ public static void function() {java.security.spec.ECFieldFp obj = new java.security.spec.ECFieldFp();obj.notifyAll();}}

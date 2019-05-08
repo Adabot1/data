@@ -1,0 +1,1 @@
+class java_lang_management_MemoryUsage_wait_long_int{ public static void function() {java.lang.management.MemoryUsage obj = new java.lang.management.MemoryUsage();obj.wait(5676068640226902885,1691300276);}}

@@ -1,0 +1,1 @@
+class java_awt_FileDialog_move_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.move(1993828967,-930655861);}}

@@ -1,0 +1,1 @@
+class java_sql_Date_setDate_int{ public static void function() {java.sql.Date obj = new java.sql.Date();obj.setDate(-1574163435);}}

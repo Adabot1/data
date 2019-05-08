@@ -1,0 +1,1 @@
+class java_awt_Point_move_int_int{ public static void function() {java.awt.Point obj = new java.awt.Point();obj.move(-1511577592,-1455787910);}}

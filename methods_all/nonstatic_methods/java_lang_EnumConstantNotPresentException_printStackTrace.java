@@ -1,0 +1,1 @@
+class java_lang_EnumConstantNotPresentException_printStackTrace{ public static void function() {java.lang.EnumConstantNotPresentException obj = new java.lang.EnumConstantNotPresentException();obj.printStackTrace();}}

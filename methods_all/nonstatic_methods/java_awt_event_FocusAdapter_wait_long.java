@@ -1,0 +1,1 @@
+class java_awt_event_FocusAdapter_wait_long{ public static void function() {java.awt.event.FocusAdapter obj = new java.awt.event.FocusAdapter();obj.wait(-7105196026571884301);}}

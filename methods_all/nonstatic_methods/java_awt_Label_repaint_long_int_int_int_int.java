@@ -1,0 +1,1 @@
+class java_awt_Label_repaint_long_int_int_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.repaint(6090395661197625955,1706376529,-148976892,308715518,55614237);}}

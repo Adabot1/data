@@ -1,0 +1,1 @@
+class java_util_concurrent_ScheduledThreadPoolExecutor_setContinueExistingPeriodicTasksAfterShutdownPolicy_boolean{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();obj.setContinueExistingPeriodicTasksAfterShutdownPolicy(false);}}

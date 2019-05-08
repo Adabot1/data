@@ -1,0 +1,1 @@
+class javax_swing_JFrame_createVolatileImage_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.createVolatileImage(-2055463017,-980071333);}}

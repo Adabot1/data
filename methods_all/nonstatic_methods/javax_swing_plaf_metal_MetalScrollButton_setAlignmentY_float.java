@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollButton_setAlignmentY_float{ public static void function() {javax.swing.plaf.metal.MetalScrollButton obj = new javax.swing.plaf.metal.MetalScrollButton();obj.setAlignmentY(0.041326046);}}

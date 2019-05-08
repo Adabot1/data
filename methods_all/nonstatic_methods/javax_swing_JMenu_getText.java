@@ -1,0 +1,1 @@
+class javax_swing_JMenu_getText{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.getText();}}

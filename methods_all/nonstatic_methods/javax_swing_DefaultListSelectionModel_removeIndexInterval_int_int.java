@@ -1,0 +1,1 @@
+class javax_swing_DefaultListSelectionModel_removeIndexInterval_int_int{ public static void function() {javax.swing.DefaultListSelectionModel obj = new javax.swing.DefaultListSelectionModel();obj.removeIndexInterval(1566467881,818866160);}}

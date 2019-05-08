@@ -1,0 +1,1 @@
+class java_awt_List_delItem_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.delItem(2078956036);}}

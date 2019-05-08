@@ -1,0 +1,1 @@
+class java_lang_instrument_ClassDefinition_wait_long_int{ public static void function() {java.lang.instrument.ClassDefinition obj = new java.lang.instrument.ClassDefinition();obj.wait(6107039763371660729,-1524390671);}}

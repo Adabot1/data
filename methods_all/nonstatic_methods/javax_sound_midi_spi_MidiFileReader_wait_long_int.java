@@ -1,0 +1,1 @@
+class javax_sound_midi_spi_MidiFileReader_wait_long_int{ public static void function() {javax.sound.midi.spi.MidiFileReader obj = new javax.sound.midi.spi.MidiFileReader();obj.wait(-1093142800155882136,1189383566);}}

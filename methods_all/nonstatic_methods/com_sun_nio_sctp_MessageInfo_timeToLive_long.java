@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_MessageInfo_timeToLive_long{ public static void function() {com.sun.nio.sctp.MessageInfo obj = new com.sun.nio.sctp.MessageInfo();obj.timeToLive(-6609424481068000833);}}

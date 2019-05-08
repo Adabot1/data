@@ -1,0 +1,1 @@
+class javax_swing_JViewport_getBaseline_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.getBaseline(-460184491,-1698427281);}}

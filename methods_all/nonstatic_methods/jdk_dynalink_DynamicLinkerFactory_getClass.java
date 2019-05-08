@@ -1,0 +1,1 @@
+class jdk_dynalink_DynamicLinkerFactory_getClass{ public static void function() {jdk.dynalink.DynamicLinkerFactory obj = new jdk.dynalink.DynamicLinkerFactory();obj.getClass();}}

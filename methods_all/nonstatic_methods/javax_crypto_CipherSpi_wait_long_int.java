@@ -1,0 +1,1 @@
+class javax_crypto_CipherSpi_wait_long_int{ public static void function() {javax.crypto.CipherSpi obj = new javax.crypto.CipherSpi();obj.wait(2322113555673712828,2041230803);}}

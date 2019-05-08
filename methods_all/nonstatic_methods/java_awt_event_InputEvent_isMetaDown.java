@@ -1,0 +1,1 @@
+class java_awt_event_InputEvent_isMetaDown{ public static void function() {java.awt.event.InputEvent obj = new java.awt.event.InputEvent();obj.isMetaDown();}}

@@ -1,0 +1,1 @@
+class java_nio_file_attribute_UserPrincipalNotFoundException_getName{ public static void function() {java.nio.file.attribute.UserPrincipalNotFoundException obj = new java.nio.file.attribute.UserPrincipalNotFoundException();obj.getName();}}

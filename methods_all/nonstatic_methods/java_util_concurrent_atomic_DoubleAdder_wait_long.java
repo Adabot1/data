@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_DoubleAdder_wait_long{ public static void function() {java.util.concurrent.atomic.DoubleAdder obj = new java.util.concurrent.atomic.DoubleAdder();obj.wait(1058757920690560080);}}

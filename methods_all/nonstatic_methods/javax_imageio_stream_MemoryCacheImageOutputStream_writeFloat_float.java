@@ -1,0 +1,1 @@
+class javax_imageio_stream_MemoryCacheImageOutputStream_writeFloat_float{ public static void function() {javax.imageio.stream.MemoryCacheImageOutputStream obj = new javax.imageio.stream.MemoryCacheImageOutputStream();obj.writeFloat(0.6109516);}}

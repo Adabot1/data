@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahChronology_wait_long_int{ public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();obj.wait(-4714129548625162365,-1839672127);}}

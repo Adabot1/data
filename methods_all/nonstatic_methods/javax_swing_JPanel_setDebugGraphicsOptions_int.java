@@ -1,0 +1,1 @@
+class javax_swing_JPanel_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.setDebugGraphicsOptions(1498211475);}}

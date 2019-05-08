@@ -1,0 +1,1 @@
+class java_awt_datatransfer_Clipboard_wait_long{ public static void function() {java.awt.datatransfer.Clipboard obj = new java.awt.datatransfer.Clipboard();obj.wait(7872636309963993201);}}

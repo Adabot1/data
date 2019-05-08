@@ -1,0 +1,1 @@
+class java_lang_annotation_RetentionPolicy_wait_long{ public static void function() {java.lang.annotation.RetentionPolicy obj = new java.lang.annotation.RetentionPolicy();obj.wait(3543466760087866044);}}

@@ -1,0 +1,1 @@
+class javax_naming_CompoundName_getSuffix_int{ public static void function() {javax.naming.CompoundName obj = new javax.naming.CompoundName();obj.getSuffix(-1962190727);}}

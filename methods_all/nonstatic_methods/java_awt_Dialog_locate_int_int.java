@@ -1,0 +1,1 @@
+class java_awt_Dialog_locate_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.locate(-705759249,709665581);}}

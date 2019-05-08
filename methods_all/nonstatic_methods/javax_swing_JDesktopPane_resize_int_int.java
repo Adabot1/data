@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_resize_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.resize(-1130190661,1649160277);}}

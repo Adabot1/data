@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_getBaseline_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.getBaseline(-247337141,554825797);}}

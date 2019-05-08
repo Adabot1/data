@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_contains_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.contains(-453084979,-147312752);}}

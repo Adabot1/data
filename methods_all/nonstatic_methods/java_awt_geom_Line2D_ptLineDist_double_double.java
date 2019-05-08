@@ -1,0 +1,1 @@
+class java_awt_geom_Line2D_ptLineDist_double_double{ public static void function() {java.awt.geom.Line2D obj = new java.awt.geom.Line2D();obj.ptLineDist(0.34070066043117264,0.7914708519137085);}}

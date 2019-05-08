@@ -1,0 +1,1 @@
+class jdk_dynalink_DynamicLinker_wait_long{ public static void function() {jdk.dynalink.DynamicLinker obj = new jdk.dynalink.DynamicLinker();obj.wait(-5293567268821639765);}}

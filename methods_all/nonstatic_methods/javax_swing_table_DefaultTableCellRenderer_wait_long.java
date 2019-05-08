@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_wait_long{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.wait(-4504777047582639201);}}

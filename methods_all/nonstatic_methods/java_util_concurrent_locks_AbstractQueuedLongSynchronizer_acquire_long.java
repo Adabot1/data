@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_AbstractQueuedLongSynchronizer_acquire_long{ public static void function() {java.util.concurrent.locks.AbstractQueuedLongSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedLongSynchronizer();obj.acquire(1540672119449407964);}}

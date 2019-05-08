@@ -1,0 +1,1 @@
+class java_awt_Component_resize_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.resize(-1305672096,-2141234303);}}

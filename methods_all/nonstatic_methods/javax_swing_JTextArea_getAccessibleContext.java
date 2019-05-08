@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_getAccessibleContext{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.getAccessibleContext();}}

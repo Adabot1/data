@@ -1,0 +1,1 @@
+class javax_net_SocketFactory_getDefault{ public static void function() {javax.net.SocketFactory.getDefault();}}

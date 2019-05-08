@@ -1,0 +1,1 @@
+class java_awt_Window_reshape_int_int_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.reshape(-999144615,-615842043,1008387974,-1718294503);}}

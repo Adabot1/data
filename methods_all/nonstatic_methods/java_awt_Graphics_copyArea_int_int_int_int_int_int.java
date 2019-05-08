@@ -1,0 +1,1 @@
+class java_awt_Graphics_copyArea_int_int_int_int_int_int{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.copyArea(221974441,-910729509,-311113084,-69009221,-1851289031,-666779989);}}

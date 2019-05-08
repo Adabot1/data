@@ -1,0 +1,1 @@
+class javax_swing_SpringLayout_wait_long_int{ public static void function() {javax.swing.SpringLayout obj = new javax.swing.SpringLayout();obj.wait(-6380064517755347468,1405004397);}}

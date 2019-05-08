@@ -1,0 +1,1 @@
+class java_awt_image_PixelGrabber_wait_long{ public static void function() {java.awt.image.PixelGrabber obj = new java.awt.image.PixelGrabber();obj.wait(-7103684929756624403);}}

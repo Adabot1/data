@@ -1,0 +1,1 @@
+class javax_net_ssl_SNIServerName_wait{ public static void function() {javax.net.ssl.SNIServerName obj = new javax.net.ssl.SNIServerName();obj.wait();}}

@@ -1,0 +1,1 @@
+class java_util_spi_CalendarDataProvider_notify{ public static void function() {java.util.spi.CalendarDataProvider obj = new java.util.spi.CalendarDataProvider();obj.notify();}}

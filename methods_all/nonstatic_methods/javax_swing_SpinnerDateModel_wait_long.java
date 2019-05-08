@@ -1,0 +1,1 @@
+class javax_swing_SpinnerDateModel_wait_long{ public static void function() {javax.swing.SpinnerDateModel obj = new javax.swing.SpinnerDateModel();obj.wait(4078559853460269452);}}

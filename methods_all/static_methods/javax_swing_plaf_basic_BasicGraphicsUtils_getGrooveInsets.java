@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicGraphicsUtils_getGrooveInsets{ public static void function() {javax.swing.plaf.basic.BasicGraphicsUtils.getGrooveInsets();}}

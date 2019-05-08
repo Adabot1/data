@@ -1,0 +1,1 @@
+class netscape_javascript_JSObject_wait_long_int{ public static void function() {netscape.javascript.JSObject obj = new netscape.javascript.JSObject();obj.wait(-8475102265702568083,1347117684);}}

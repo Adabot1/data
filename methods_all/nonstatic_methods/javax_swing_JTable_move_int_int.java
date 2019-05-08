@@ -1,0 +1,1 @@
+class javax_swing_JTable_move_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.move(-1417647015,1813347255);}}

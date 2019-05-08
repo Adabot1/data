@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicToolBarSeparatorUI_wait_long{ public static void function() {javax.swing.plaf.basic.BasicToolBarSeparatorUI obj = new javax.swing.plaf.basic.BasicToolBarSeparatorUI();obj.wait(-322684841122313875);}}

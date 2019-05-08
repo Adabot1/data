@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalToolBarUI_setRolloverBorders_boolean{ public static void function() {javax.swing.plaf.metal.MetalToolBarUI obj = new javax.swing.plaf.metal.MetalToolBarUI();obj.setRolloverBorders(true);}}

@@ -1,0 +1,1 @@
+class javax_management_ReflectionException_getLocalizedMessage{ public static void function() {javax.management.ReflectionException obj = new javax.management.ReflectionException();obj.getLocalizedMessage();}}

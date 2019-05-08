@@ -1,0 +1,1 @@
+class javax_swing_text_html_ImageView_wait_long_int{ public static void function() {javax.swing.text.html.ImageView obj = new javax.swing.text.html.ImageView();obj.wait(-1067039144761742482,-925351704);}}

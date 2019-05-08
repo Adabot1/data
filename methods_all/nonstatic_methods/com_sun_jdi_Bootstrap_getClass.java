@@ -1,0 +1,1 @@
+class com_sun_jdi_Bootstrap_getClass{ public static void function() {com.sun.jdi.Bootstrap obj = new com.sun.jdi.Bootstrap();obj.getClass();}}

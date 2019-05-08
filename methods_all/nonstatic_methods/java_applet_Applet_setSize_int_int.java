@@ -1,0 +1,1 @@
+class java_applet_Applet_setSize_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.setSize(-1682016769,639748454);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_getAutoscrolls{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.getAutoscrolls();}}

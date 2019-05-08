@@ -1,0 +1,1 @@
+class java_lang_Long_toString_long{ public static void function() {java.lang.Long.toString(-4857378098094554164);}}

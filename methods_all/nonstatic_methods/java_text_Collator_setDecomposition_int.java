@@ -1,0 +1,1 @@
+class java_text_Collator_setDecomposition_int{ public static void function() {java.text.Collator obj = new java.text.Collator();obj.setDecomposition(-1283670453);}}

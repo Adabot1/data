@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_wait_long{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.wait(4808324146248306092);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_getText_int_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.getText(-2030377113,803355449);}}

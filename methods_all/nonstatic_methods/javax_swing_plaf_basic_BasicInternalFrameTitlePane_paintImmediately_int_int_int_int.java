@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicInternalFrameTitlePane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicInternalFrameTitlePane obj = new javax.swing.plaf.basic.BasicInternalFrameTitlePane();obj.paintImmediately(-912729150,1904062153,-596333239,1074236255);}}

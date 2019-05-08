@@ -1,0 +1,1 @@
+class javax_swing_JDialog_locate_int_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.locate(592075118,-933040796);}}

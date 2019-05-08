@@ -1,0 +1,1 @@
+class java_io_RandomAccessFile_writeDouble_double{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();obj.writeDouble(0.9714766375839143);}}

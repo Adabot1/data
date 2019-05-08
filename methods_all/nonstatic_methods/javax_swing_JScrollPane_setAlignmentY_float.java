@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_setAlignmentY_float{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.setAlignmentY(0.6456638);}}

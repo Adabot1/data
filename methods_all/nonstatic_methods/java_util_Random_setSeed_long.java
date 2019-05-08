@@ -1,0 +1,1 @@
+class java_util_Random_setSeed_long{ public static void function() {java.util.Random obj = new java.util.Random();obj.setSeed(-1766727518737920742);}}

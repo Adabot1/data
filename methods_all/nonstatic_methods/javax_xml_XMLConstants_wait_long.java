@@ -1,0 +1,1 @@
+class javax_xml_XMLConstants_wait_long{ public static void function() {javax.xml.XMLConstants obj = new javax.xml.XMLConstants();obj.wait(-7568614314474542928);}}

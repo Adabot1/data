@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalPopupMenuSeparatorUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalPopupMenuSeparatorUI obj = new javax.swing.plaf.metal.MetalPopupMenuSeparatorUI();obj.wait(-1577489291413703207);}}

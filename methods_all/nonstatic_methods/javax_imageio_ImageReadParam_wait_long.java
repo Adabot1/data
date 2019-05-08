@@ -1,0 +1,1 @@
+class javax_imageio_ImageReadParam_wait_long{ public static void function() {javax.imageio.ImageReadParam obj = new javax.imageio.ImageReadParam();obj.wait(3854463528371506387);}}

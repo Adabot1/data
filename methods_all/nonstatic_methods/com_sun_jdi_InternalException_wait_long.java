@@ -1,0 +1,1 @@
+class com_sun_jdi_InternalException_wait_long{ public static void function() {com.sun.jdi.InternalException obj = new com.sun.jdi.InternalException();obj.wait(7890582460771117695);}}

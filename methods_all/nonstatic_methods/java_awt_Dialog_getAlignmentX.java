@@ -1,0 +1,1 @@
+class java_awt_Dialog_getAlignmentX{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.getAlignmentX();}}

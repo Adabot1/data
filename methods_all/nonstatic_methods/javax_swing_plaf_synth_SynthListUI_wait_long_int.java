@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthListUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthListUI obj = new javax.swing.plaf.synth.SynthListUI();obj.wait(-1996387678248969476,-2039171727);}}

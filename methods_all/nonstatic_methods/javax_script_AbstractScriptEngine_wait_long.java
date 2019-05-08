@@ -1,0 +1,1 @@
+class javax_script_AbstractScriptEngine_wait_long{ public static void function() {javax.script.AbstractScriptEngine obj = new javax.script.AbstractScriptEngine();obj.wait(-5827571827628516015);}}

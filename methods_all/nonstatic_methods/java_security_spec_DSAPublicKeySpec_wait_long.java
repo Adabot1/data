@@ -1,0 +1,1 @@
+class java_security_spec_DSAPublicKeySpec_wait_long{ public static void function() {java.security.spec.DSAPublicKeySpec obj = new java.security.spec.DSAPublicKeySpec();obj.wait(7353675798026285806);}}

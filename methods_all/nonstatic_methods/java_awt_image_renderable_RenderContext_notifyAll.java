@@ -1,0 +1,1 @@
+class java_awt_image_renderable_RenderContext_notifyAll{ public static void function() {java.awt.image.renderable.RenderContext obj = new java.awt.image.renderable.RenderContext();obj.notifyAll();}}

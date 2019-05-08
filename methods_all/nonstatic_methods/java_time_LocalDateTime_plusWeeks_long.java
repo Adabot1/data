@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_plusWeeks_long{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.plusWeeks(5396712942652025137);}}

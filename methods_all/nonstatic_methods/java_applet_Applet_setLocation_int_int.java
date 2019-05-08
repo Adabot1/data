@@ -1,0 +1,1 @@
+class java_applet_Applet_setLocation_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.setLocation(-341968416,-1537507445);}}

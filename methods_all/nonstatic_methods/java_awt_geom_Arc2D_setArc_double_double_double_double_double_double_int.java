@@ -1,0 +1,1 @@
+class java_awt_geom_Arc2D_setArc_double_double_double_double_double_double_int{ public static void function() {java.awt.geom.Arc2D obj = new java.awt.geom.Arc2D();obj.setArc(0.5053863440360304,0.6138273863257661,0.9157563593872657,0.5042899422862073,0.662052680687042,0.2408537520378351,1442046527);}}

@@ -1,0 +1,1 @@
+class javax_naming_directory_AttributeModificationException_wait_long_int{ public static void function() {javax.naming.directory.AttributeModificationException obj = new javax.naming.directory.AttributeModificationException();obj.wait(7847648796674033462,-1550759857);}}

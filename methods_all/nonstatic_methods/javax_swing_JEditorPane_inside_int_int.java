@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_inside_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.inside(-1086160368,-1947121046);}}

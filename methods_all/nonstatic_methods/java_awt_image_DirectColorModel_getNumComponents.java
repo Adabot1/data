@@ -1,0 +1,1 @@
+class java_awt_image_DirectColorModel_getNumComponents{ public static void function() {java.awt.image.DirectColorModel obj = new java.awt.image.DirectColorModel();obj.getNumComponents();}}

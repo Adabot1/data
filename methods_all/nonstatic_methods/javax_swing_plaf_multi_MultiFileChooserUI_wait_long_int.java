@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiFileChooserUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiFileChooserUI obj = new javax.swing.plaf.multi.MultiFileChooserUI();obj.wait(3454306520500381299,743374167);}}

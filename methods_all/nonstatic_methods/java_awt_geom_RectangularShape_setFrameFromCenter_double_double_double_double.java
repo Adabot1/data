@@ -1,0 +1,1 @@
+class java_awt_geom_RectangularShape_setFrameFromCenter_double_double_double_double{ public static void function() {java.awt.geom.RectangularShape obj = new java.awt.geom.RectangularShape();obj.setFrameFromCenter(0.5582090745871661,0.805457161220273,0.38797121730367834,0.21750531855506816);}}

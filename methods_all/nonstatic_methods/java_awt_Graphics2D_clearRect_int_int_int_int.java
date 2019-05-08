@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_clearRect_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.clearRect(-663870761,1712398174,-1671826968,-1566723965);}}

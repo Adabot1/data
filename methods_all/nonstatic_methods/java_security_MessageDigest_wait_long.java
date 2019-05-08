@@ -1,0 +1,1 @@
+class java_security_MessageDigest_wait_long{ public static void function() {java.security.MessageDigest obj = new java.security.MessageDigest();obj.wait(-943772912660519009);}}

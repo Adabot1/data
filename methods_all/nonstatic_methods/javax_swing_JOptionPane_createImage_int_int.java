@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_createImage_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.createImage(-904996444,-1116365150);}}

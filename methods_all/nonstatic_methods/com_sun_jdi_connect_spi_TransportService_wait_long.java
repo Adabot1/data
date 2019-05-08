@@ -1,0 +1,1 @@
+class com_sun_jdi_connect_spi_TransportService_wait_long{ public static void function() {com.sun.jdi.connect.spi.TransportService obj = new com.sun.jdi.connect.spi.TransportService();obj.wait(3160870339651727725);}}

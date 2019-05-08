@@ -1,0 +1,1 @@
+class java_lang_System_lineSeparator{ public static void function() {java.lang.System.lineSeparator();}}

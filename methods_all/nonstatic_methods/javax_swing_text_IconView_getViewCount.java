@@ -1,0 +1,1 @@
+class javax_swing_text_IconView_getViewCount{ public static void function() {javax.swing.text.IconView obj = new javax.swing.text.IconView();obj.getViewCount();}}

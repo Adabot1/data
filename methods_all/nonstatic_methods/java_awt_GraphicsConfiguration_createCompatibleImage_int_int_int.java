@@ -1,0 +1,1 @@
+class java_awt_GraphicsConfiguration_createCompatibleImage_int_int_int{ public static void function() {java.awt.GraphicsConfiguration obj = new java.awt.GraphicsConfiguration();obj.createCompatibleImage(297708939,89054035,-1149422058);}}

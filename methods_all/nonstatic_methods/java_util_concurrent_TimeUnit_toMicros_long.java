@@ -1,0 +1,1 @@
+class java_util_concurrent_TimeUnit_toMicros_long{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();obj.toMicros(-648518881156058975);}}

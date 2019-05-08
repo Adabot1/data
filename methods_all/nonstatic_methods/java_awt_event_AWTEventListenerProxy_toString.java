@@ -1,0 +1,1 @@
+class java_awt_event_AWTEventListenerProxy_toString{ public static void function() {java.awt.event.AWTEventListenerProxy obj = new java.awt.event.AWTEventListenerProxy();obj.toString();}}

@@ -1,0 +1,1 @@
+class javax_swing_JMenu_insertSeparator_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.insertSeparator(-112623681);}}

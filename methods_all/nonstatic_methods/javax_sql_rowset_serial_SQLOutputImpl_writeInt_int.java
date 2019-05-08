@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SQLOutputImpl_writeInt_int{ public static void function() {javax.sql.rowset.serial.SQLOutputImpl obj = new javax.sql.rowset.serial.SQLOutputImpl();obj.writeInt(813868352);}}

@@ -1,0 +1,1 @@
+class java_awt_PointerInfo_getLocation{ public static void function() {java.awt.PointerInfo obj = new java.awt.PointerInfo();obj.getLocation();}}

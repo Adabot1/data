@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_inside_int_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.inside(1705851309,-1467340442);}}

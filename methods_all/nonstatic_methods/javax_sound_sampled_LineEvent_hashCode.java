@@ -1,0 +1,1 @@
+class javax_sound_sampled_LineEvent_hashCode{ public static void function() {javax.sound.sampled.LineEvent obj = new javax.sound.sampled.LineEvent();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_JFrame_repaint_long{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.repaint(-4978874960148055571);}}

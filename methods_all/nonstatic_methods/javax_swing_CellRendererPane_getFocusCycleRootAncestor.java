@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_getFocusCycleRootAncestor{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.getFocusCycleRootAncestor();}}

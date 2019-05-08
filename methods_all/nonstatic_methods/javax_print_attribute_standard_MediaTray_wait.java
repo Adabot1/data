@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_MediaTray_wait{ public static void function() {javax.print.attribute.standard.MediaTray obj = new javax.print.attribute.standard.MediaTray();obj.wait();}}

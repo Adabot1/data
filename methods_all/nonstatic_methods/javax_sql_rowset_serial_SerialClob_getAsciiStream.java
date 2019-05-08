@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialClob_getAsciiStream{ public static void function() {javax.sql.rowset.serial.SerialClob obj = new javax.sql.rowset.serial.SerialClob();obj.getAsciiStream();}}

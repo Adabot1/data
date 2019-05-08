@@ -1,0 +1,1 @@
+class javax_swing_text_html_ParagraphView_getBreakWeight_int_float{ public static void function() {javax.swing.text.html.ParagraphView obj = new javax.swing.text.html.ParagraphView();obj.getBreakWeight(254490437,0.32575142);}}

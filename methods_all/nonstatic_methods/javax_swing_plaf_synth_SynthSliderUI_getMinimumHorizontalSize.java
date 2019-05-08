@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthSliderUI_getMinimumHorizontalSize{ public static void function() {javax.swing.plaf.synth.SynthSliderUI obj = new javax.swing.plaf.synth.SynthSliderUI();obj.getMinimumHorizontalSize();}}

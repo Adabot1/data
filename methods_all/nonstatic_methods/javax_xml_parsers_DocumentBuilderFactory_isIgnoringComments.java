@@ -1,0 +1,1 @@
+class javax_xml_parsers_DocumentBuilderFactory_isIgnoringComments{ public static void function() {javax.xml.parsers.DocumentBuilderFactory obj = new javax.xml.parsers.DocumentBuilderFactory();obj.isIgnoringComments();}}

@@ -1,0 +1,1 @@
+class java_awt_MediaTracker_statusAll_boolean{ public static void function() {java.awt.MediaTracker obj = new java.awt.MediaTracker();obj.statusAll(false);}}

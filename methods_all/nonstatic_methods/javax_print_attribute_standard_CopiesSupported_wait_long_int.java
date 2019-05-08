@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_CopiesSupported_wait_long_int{ public static void function() {javax.print.attribute.standard.CopiesSupported obj = new javax.print.attribute.standard.CopiesSupported();obj.wait(-4077876801123386260,-2075291157);}}

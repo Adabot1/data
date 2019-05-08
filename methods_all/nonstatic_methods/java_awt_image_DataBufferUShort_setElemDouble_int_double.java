@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferUShort_setElemDouble_int_double{ public static void function() {java.awt.image.DataBufferUShort obj = new java.awt.image.DataBufferUShort();obj.setElemDouble(1199018668,0.9255158672636992);}}

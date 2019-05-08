@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_locate_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.locate(-1046852168,1390420214);}}

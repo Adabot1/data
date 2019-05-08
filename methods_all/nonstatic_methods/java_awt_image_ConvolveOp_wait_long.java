@@ -1,0 +1,1 @@
+class java_awt_image_ConvolveOp_wait_long{ public static void function() {java.awt.image.ConvolveOp obj = new java.awt.image.ConvolveOp();obj.wait(3436945467926559777);}}

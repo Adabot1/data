@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriter_canInsertImage_int{ public static void function() {javax.imageio.ImageWriter obj = new javax.imageio.ImageWriter();obj.canInsertImage(14508556);}}

@@ -1,0 +1,1 @@
+class javax_management_MBeanServerInvocationHandler_wait_long_int{ public static void function() {javax.management.MBeanServerInvocationHandler obj = new javax.management.MBeanServerInvocationHandler();obj.wait(-4170565067389671590,-1812145961);}}

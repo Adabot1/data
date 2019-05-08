@@ -1,0 +1,1 @@
+class java_net_StandardSocketOptions_wait_long_int{ public static void function() {java.net.StandardSocketOptions obj = new java.net.StandardSocketOptions();obj.wait(4204403427151265883,688963001);}}

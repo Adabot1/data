@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_repaint_long_int_int_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.repaint(-7348232840012474970,349252528,-295460881,1825812511,-1411268178);}}

@@ -1,0 +1,1 @@
+class javax_sound_midi_Patch_wait_long{ public static void function() {javax.sound.midi.Patch obj = new javax.sound.midi.Patch();obj.wait(-3738874363671485772);}}

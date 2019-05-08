@@ -1,0 +1,1 @@
+class java_nio_channels_SocketChannel_wait_long_int{ public static void function() {java.nio.channels.SocketChannel obj = new java.nio.channels.SocketChannel();obj.wait(-4152178890968979776,934130467);}}

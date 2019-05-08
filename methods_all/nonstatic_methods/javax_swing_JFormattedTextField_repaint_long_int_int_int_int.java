@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_repaint_long_int_int_int_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.repaint(-763526764935989708,-1766054689,-871777578,463204682,-1278480119);}}

@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFImageReadParam_setSourceSubsampling_int_int_int_int{ public static void function() {javax.imageio.plugins.tiff.TIFFImageReadParam obj = new javax.imageio.plugins.tiff.TIFFImageReadParam();obj.setSourceSubsampling(-1657581180,-1120888881,1643727843,1428757729);}}

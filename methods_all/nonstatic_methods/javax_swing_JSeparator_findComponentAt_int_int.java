@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_findComponentAt_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.findComponentAt(-1800049077,-362080848);}}

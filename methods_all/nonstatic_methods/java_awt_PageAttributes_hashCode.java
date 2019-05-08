@@ -1,0 +1,1 @@
+class java_awt_PageAttributes_hashCode{ public static void function() {java.awt.PageAttributes obj = new java.awt.PageAttributes();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthRadioButtonUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthRadioButtonUI obj = new javax.swing.plaf.synth.SynthRadioButtonUI();obj.wait(-1439862053750381169);}}

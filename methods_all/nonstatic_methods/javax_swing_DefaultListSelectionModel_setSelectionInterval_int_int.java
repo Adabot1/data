@@ -1,0 +1,1 @@
+class javax_swing_DefaultListSelectionModel_setSelectionInterval_int_int{ public static void function() {javax.swing.DefaultListSelectionModel obj = new javax.swing.DefaultListSelectionModel();obj.setSelectionInterval(-571226146,-1084391754);}}

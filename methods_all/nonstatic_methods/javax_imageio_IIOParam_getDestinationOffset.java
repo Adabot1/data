@@ -1,0 +1,1 @@
+class javax_imageio_IIOParam_getDestinationOffset{ public static void function() {javax.imageio.IIOParam obj = new javax.imageio.IIOParam();obj.getDestinationOffset();}}

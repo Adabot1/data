@@ -1,0 +1,1 @@
+class javax_swing_SizeSequence_setSize_int_int{ public static void function() {javax.swing.SizeSequence obj = new javax.swing.SizeSequence();obj.setSize(86330030,621803672);}}

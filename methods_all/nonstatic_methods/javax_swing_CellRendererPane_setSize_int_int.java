@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_setSize_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.setSize(560337191,275380054);}}

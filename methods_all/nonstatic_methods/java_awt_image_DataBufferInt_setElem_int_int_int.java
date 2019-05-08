@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferInt_setElem_int_int_int{ public static void function() {java.awt.image.DataBufferInt obj = new java.awt.image.DataBufferInt();obj.setElem(1019686087,-949466923,1853241685);}}

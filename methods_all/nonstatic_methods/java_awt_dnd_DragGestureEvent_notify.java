@@ -1,0 +1,1 @@
+class java_awt_dnd_DragGestureEvent_notify{ public static void function() {java.awt.dnd.DragGestureEvent obj = new java.awt.dnd.DragGestureEvent();obj.notify();}}

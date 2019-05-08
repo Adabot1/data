@@ -1,0 +1,1 @@
+class java_io_PipedReader_mark_int{ public static void function() {java.io.PipedReader obj = new java.io.PipedReader();obj.mark(1030277101);}}

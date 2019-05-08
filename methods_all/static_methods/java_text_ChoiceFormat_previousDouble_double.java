@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_previousDouble_double{ public static void function() {java.text.ChoiceFormat.previousDouble(0.2980051961194815);}}

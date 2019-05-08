@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedEvent_wait_long_int{ public static void function() {jdk.jfr.consumer.RecordedEvent obj = new jdk.jfr.consumer.RecordedEvent();obj.wait(-3892656381158163202,150474037);}}

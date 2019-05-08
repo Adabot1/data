@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_move_int_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.move(801168594,816735379);}}

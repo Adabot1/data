@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferDouble_getData{ public static void function() {java.awt.image.DataBufferDouble obj = new java.awt.image.DataBufferDouble();obj.getData();}}

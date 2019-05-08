@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_DocumentName_wait_long_int{ public static void function() {javax.print.attribute.standard.DocumentName obj = new javax.print.attribute.standard.DocumentName();obj.wait(-4232925495009665905,721786234);}}

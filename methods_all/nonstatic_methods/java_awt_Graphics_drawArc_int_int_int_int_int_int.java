@@ -1,0 +1,1 @@
+class java_awt_Graphics_drawArc_int_int_int_int_int_int{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.drawArc(638748354,-1043452069,1681139685,-439856883,-21495381,-2073061764);}}

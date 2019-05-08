@@ -1,0 +1,1 @@
+class javax_swing_plaf_ComboBoxUI_hashCode{ public static void function() {javax.swing.plaf.ComboBoxUI obj = new javax.swing.plaf.ComboBoxUI();obj.hashCode();}}

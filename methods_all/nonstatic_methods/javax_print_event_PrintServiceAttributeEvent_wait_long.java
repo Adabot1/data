@@ -1,0 +1,1 @@
+class javax_print_event_PrintServiceAttributeEvent_wait_long{ public static void function() {javax.print.event.PrintServiceAttributeEvent obj = new javax.print.event.PrintServiceAttributeEvent();obj.wait(-3086043114275654951);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_AsyncBoxView_wait_long{ public static void function() {javax.swing.text.AsyncBoxView obj = new javax.swing.text.AsyncBoxView();obj.wait(-8535573257043926970);}}

@@ -1,0 +1,1 @@
+class java_text_Annotation_wait_long_int{ public static void function() {java.text.Annotation obj = new java.text.Annotation();obj.wait(4685589860817916158,-1180658544);}}

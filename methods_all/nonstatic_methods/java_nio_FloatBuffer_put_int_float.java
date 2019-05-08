@@ -1,0 +1,1 @@
+class java_nio_FloatBuffer_put_int_float{ public static void function() {java.nio.FloatBuffer obj = new java.nio.FloatBuffer();obj.put(-416214468,0.457559);}}

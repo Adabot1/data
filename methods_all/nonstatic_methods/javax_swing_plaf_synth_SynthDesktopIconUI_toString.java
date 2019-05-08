@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthDesktopIconUI_toString{ public static void function() {javax.swing.plaf.synth.SynthDesktopIconUI obj = new javax.swing.plaf.synth.SynthDesktopIconUI();obj.toString();}}

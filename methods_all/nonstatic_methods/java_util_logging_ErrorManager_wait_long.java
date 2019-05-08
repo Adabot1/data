@@ -1,0 +1,1 @@
+class java_util_logging_ErrorManager_wait_long{ public static void function() {java.util.logging.ErrorManager obj = new java.util.logging.ErrorManager();obj.wait(-8021429143637607417);}}

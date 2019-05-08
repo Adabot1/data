@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_getFocusTraversalKeys_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.getFocusTraversalKeys(402466070);}}

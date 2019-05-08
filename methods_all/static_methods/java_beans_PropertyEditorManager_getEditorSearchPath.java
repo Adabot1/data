@@ -1,0 +1,1 @@
+class java_beans_PropertyEditorManager_getEditorSearchPath{ public static void function() {java.beans.PropertyEditorManager.getEditorSearchPath();}}

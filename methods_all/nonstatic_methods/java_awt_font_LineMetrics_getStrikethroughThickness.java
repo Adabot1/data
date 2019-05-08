@@ -1,0 +1,1 @@
+class java_awt_font_LineMetrics_getStrikethroughThickness{ public static void function() {java.awt.font.LineMetrics obj = new java.awt.font.LineMetrics();obj.getStrikethroughThickness();}}

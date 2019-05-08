@@ -1,0 +1,1 @@
+class java_lang_ClassLoader_getSystemClassLoader{ public static void function() {java.lang.ClassLoader.getSystemClassLoader();}}

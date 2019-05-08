@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferDouble_getElemFloat_int_int{ public static void function() {java.awt.image.DataBufferDouble obj = new java.awt.image.DataBufferDouble();obj.getElemFloat(1081087988,250493015);}}

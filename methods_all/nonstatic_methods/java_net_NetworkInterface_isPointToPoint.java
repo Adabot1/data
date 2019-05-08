@@ -1,0 +1,1 @@
+class java_net_NetworkInterface_isPointToPoint{ public static void function() {java.net.NetworkInterface obj = new java.net.NetworkInterface();obj.isPointToPoint();}}

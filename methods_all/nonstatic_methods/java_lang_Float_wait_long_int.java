@@ -1,0 +1,1 @@
+class java_lang_Float_wait_long_int{ public static void function() {java.lang.Float obj = new java.lang.Float();obj.wait(-93525122292793234,1281155154);}}

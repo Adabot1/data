@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLDocument_setAsynchronousLoadPriority_int{ public static void function() {javax.swing.text.html.HTMLDocument obj = new javax.swing.text.html.HTMLDocument();obj.setAsynchronousLoadPriority(-1395681143);}}

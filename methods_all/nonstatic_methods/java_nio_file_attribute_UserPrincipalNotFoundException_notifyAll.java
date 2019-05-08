@@ -1,0 +1,1 @@
+class java_nio_file_attribute_UserPrincipalNotFoundException_notifyAll{ public static void function() {java.nio.file.attribute.UserPrincipalNotFoundException obj = new java.nio.file.attribute.UserPrincipalNotFoundException();obj.notifyAll();}}

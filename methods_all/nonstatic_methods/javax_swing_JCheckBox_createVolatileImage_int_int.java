@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_createVolatileImage_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.createVolatileImage(-1027940169,-655289578);}}

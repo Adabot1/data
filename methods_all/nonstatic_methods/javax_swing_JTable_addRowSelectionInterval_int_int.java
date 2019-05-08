@@ -1,0 +1,1 @@
+class javax_swing_JTable_addRowSelectionInterval_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.addRowSelectionInterval(2020514867,1979369155);}}

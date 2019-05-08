@@ -1,0 +1,1 @@
+class java_util_IllegalFormatFlagsException_getSuppressed{ public static void function() {java.util.IllegalFormatFlagsException obj = new java.util.IllegalFormatFlagsException();obj.getSuppressed();}}

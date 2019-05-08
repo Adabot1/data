@@ -1,0 +1,1 @@
+class java_awt_image_ColorConvertOp_wait_long_int{ public static void function() {java.awt.image.ColorConvertOp obj = new java.awt.image.ColorConvertOp();obj.wait(674266151172224787,1093018888);}}

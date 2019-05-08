@@ -1,0 +1,1 @@
+class javax_management_RuntimeErrorException_wait_long{ public static void function() {javax.management.RuntimeErrorException obj = new javax.management.RuntimeErrorException();obj.wait(-6436766036266644275);}}

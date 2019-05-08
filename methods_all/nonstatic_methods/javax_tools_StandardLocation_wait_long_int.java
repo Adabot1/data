@@ -1,0 +1,1 @@
+class javax_tools_StandardLocation_wait_long_int{ public static void function() {javax.tools.StandardLocation obj = new javax.tools.StandardLocation();obj.wait(-6364183085618388976,-1182286233);}}

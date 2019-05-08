@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SQLOutputImpl_writeLong_long{ public static void function() {javax.sql.rowset.serial.SQLOutputImpl obj = new javax.sql.rowset.serial.SQLOutputImpl();obj.writeLong(5980524270911579996);}}

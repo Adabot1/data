@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_getFocusTraversalKeys_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.getFocusTraversalKeys(-1095011169);}}

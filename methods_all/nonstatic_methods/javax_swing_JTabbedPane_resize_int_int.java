@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_resize_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.resize(1250649631,-2124323787);}}

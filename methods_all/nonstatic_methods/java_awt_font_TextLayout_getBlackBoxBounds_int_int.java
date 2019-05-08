@@ -1,0 +1,1 @@
+class java_awt_font_TextLayout_getBlackBoxBounds_int_int{ public static void function() {java.awt.font.TextLayout obj = new java.awt.font.TextLayout();obj.getBlackBoxBounds(-1739516340,242991604);}}

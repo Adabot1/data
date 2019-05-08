@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSidUserPrincipal_wait_long_int{ public static void function() {com.sun.security.auth.NTSidUserPrincipal obj = new com.sun.security.auth.NTSidUserPrincipal();obj.wait(4910061669373246442,592451650);}}

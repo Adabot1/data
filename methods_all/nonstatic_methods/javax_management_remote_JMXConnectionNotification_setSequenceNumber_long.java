@@ -1,0 +1,1 @@
+class javax_management_remote_JMXConnectionNotification_setSequenceNumber_long{ public static void function() {javax.management.remote.JMXConnectionNotification obj = new javax.management.remote.JMXConnectionNotification();obj.setSequenceNumber(7770404032541205967);}}

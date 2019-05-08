@@ -1,0 +1,1 @@
+class java_util_GregorianCalendar_getCalendarType{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();obj.getCalendarType();}}

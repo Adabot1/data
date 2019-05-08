@@ -1,0 +1,1 @@
+class javax_swing_event_TableColumnModelEvent_wait_long_int{ public static void function() {javax.swing.event.TableColumnModelEvent obj = new javax.swing.event.TableColumnModelEvent();obj.wait(-739642720455873424,1812193369);}}

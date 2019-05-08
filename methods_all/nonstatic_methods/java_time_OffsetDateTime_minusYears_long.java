@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_minusYears_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.minusYears(-7258956384133892700);}}

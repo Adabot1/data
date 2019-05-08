@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_createVolatileImage_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.createVolatileImage(1012712965,-1746876816);}}

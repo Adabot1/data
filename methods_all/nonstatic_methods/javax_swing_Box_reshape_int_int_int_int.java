@@ -1,0 +1,1 @@
+class javax_swing_Box_reshape_int_int_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.reshape(1469430435,-631712763,1419182103,-803158703);}}

@@ -1,0 +1,1 @@
+class javax_print_SimpleDoc_wait_long{ public static void function() {javax.print.SimpleDoc obj = new javax.print.SimpleDoc();obj.wait(3858123969924748998);}}

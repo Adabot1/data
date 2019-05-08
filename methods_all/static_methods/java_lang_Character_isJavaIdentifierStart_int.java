@@ -1,0 +1,1 @@
+class java_lang_Character_isJavaIdentifierStart_int{ public static void function() {java.lang.Character.isJavaIdentifierStart(1778862453);}}

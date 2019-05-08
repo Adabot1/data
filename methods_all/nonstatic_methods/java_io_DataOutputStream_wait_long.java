@@ -1,0 +1,1 @@
+class java_io_DataOutputStream_wait_long{ public static void function() {java.io.DataOutputStream obj = new java.io.DataOutputStream();obj.wait(8156284288879731781);}}

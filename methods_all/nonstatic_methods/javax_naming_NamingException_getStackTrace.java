@@ -1,0 +1,1 @@
+class javax_naming_NamingException_getStackTrace{ public static void function() {javax.naming.NamingException obj = new javax.naming.NamingException();obj.getStackTrace();}}

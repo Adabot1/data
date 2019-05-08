@@ -1,0 +1,1 @@
+class javax_xml_transform_Transformer_wait_long_int{ public static void function() {javax.xml.transform.Transformer obj = new javax.xml.transform.Transformer();obj.wait(8561824191868989947,-61436460);}}

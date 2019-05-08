@@ -1,0 +1,1 @@
+class jdk_jfr_Configuration_getDescription{ public static void function() {jdk.jfr.Configuration obj = new jdk.jfr.Configuration();obj.getDescription();}}

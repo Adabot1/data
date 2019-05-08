@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroup_Stub_wait_long{ public static void function() {java.rmi.activation.ActivationGroup_Stub obj = new java.rmi.activation.ActivationGroup_Stub();obj.wait(-3171941824471770247);}}

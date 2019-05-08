@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_NamespaceSupport_setNamespaceDeclUris_boolean{ public static void function() {org.xml.sax.helpers.NamespaceSupport obj = new org.xml.sax.helpers.NamespaceSupport();obj.setNamespaceDeclUris(false);}}

@@ -1,0 +1,1 @@
+class java_awt_FileDialog_removeNotify{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.removeNotify();}}

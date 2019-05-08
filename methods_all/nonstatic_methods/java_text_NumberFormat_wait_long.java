@@ -1,0 +1,1 @@
+class java_text_NumberFormat_wait_long{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();obj.wait(8821420144277580582);}}

@@ -1,0 +1,1 @@
+class javax_swing_JPanel_contains_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.contains(103522258,-957801445);}}

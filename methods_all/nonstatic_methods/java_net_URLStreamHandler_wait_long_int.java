@@ -1,0 +1,1 @@
+class java_net_URLStreamHandler_wait_long_int{ public static void function() {java.net.URLStreamHandler obj = new java.net.URLStreamHandler();obj.wait(1482288968006063761,445925511);}}

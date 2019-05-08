@@ -1,0 +1,1 @@
+class javax_xml_datatype_XMLGregorianCalendar_setTime_int_int_int{ public static void function() {javax.xml.datatype.XMLGregorianCalendar obj = new javax.xml.datatype.XMLGregorianCalendar();obj.setTime(-1790409445,-105487499,637877295);}}

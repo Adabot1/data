@@ -1,0 +1,1 @@
+class java_awt_AlphaComposite_hashCode{ public static void function() {java.awt.AlphaComposite obj = new java.awt.AlphaComposite();obj.hashCode();}}

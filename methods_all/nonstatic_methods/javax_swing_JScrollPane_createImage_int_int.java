@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_createImage_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.createImage(64676920,1300642569);}}

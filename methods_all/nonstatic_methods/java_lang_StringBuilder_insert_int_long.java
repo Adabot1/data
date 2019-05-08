@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_insert_int_long{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.insert(-371151370,-8147084267551654870);}}

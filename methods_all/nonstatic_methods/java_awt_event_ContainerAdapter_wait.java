@@ -1,0 +1,1 @@
+class java_awt_event_ContainerAdapter_wait{ public static void function() {java.awt.event.ContainerAdapter obj = new java.awt.event.ContainerAdapter();obj.wait();}}

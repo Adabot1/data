@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_getBounds{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.getBounds();}}

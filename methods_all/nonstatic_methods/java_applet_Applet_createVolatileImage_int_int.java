@@ -1,0 +1,1 @@
+class java_applet_Applet_createVolatileImage_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.createVolatileImage(471189662,-443767309);}}

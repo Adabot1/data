@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageInputStreamImpl_flush{ public static void function() {javax.imageio.stream.ImageInputStreamImpl obj = new javax.imageio.stream.ImageInputStreamImpl();obj.flush();}}

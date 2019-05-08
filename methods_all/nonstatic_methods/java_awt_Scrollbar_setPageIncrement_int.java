@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_setPageIncrement_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.setPageIncrement(-1276883673);}}

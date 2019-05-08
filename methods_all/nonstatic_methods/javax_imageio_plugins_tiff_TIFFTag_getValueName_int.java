@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFTag_getValueName_int{ public static void function() {javax.imageio.plugins.tiff.TIFFTag obj = new javax.imageio.plugins.tiff.TIFFTag();obj.getValueName(-98584162);}}

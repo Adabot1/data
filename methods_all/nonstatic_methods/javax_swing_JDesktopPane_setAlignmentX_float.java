@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_setAlignmentX_float{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.setAlignmentX(0.92914814);}}

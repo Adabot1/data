@@ -1,0 +1,1 @@
+class javax_swing_Box_createVerticalGlue{ public static void function() {javax.swing.Box.createVerticalGlue();}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextField_moveCaretPosition_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.moveCaretPosition(833280152);}}

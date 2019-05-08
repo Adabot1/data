@@ -1,0 +1,1 @@
+class java_applet_Applet_repaint_long{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.repaint(6037040396300044660);}}

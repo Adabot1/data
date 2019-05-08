@@ -1,0 +1,1 @@
+class java_text_DateFormat_hashCode{ public static void function() {java.text.DateFormat obj = new java.text.DateFormat();obj.hashCode();}}

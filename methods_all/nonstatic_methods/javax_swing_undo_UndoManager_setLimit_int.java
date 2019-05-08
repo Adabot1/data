@@ -1,0 +1,1 @@
+class javax_swing_undo_UndoManager_setLimit_int{ public static void function() {javax.swing.undo.UndoManager obj = new javax.swing.undo.UndoManager();obj.setLimit(1625102044);}}

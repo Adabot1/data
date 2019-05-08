@@ -1,0 +1,1 @@
+class javax_management_timer_TimerNotification_getSource{ public static void function() {javax.management.timer.TimerNotification obj = new javax.management.timer.TimerNotification();obj.getSource();}}

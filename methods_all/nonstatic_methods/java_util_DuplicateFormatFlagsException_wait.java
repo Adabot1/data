@@ -1,0 +1,1 @@
+class java_util_DuplicateFormatFlagsException_wait{ public static void function() {java.util.DuplicateFormatFlagsException obj = new java.util.DuplicateFormatFlagsException();obj.wait();}}

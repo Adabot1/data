@@ -1,0 +1,1 @@
+class java_awt_event_ComponentAdapter_wait_long{ public static void function() {java.awt.event.ComponentAdapter obj = new java.awt.event.ComponentAdapter();obj.wait(-2828979572909035676);}}

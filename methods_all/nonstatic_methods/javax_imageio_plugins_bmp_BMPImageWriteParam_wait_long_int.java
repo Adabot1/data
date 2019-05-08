@@ -1,0 +1,1 @@
+class javax_imageio_plugins_bmp_BMPImageWriteParam_wait_long_int{ public static void function() {javax.imageio.plugins.bmp.BMPImageWriteParam obj = new javax.imageio.plugins.bmp.BMPImageWriteParam();obj.wait(-2875985007503184873,-1739810625);}}

@@ -1,0 +1,1 @@
+class javax_swing_JWindow_setFocusCycleRoot_boolean{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.setFocusCycleRoot(true);}}

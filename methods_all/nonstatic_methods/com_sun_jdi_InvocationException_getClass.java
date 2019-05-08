@@ -1,0 +1,1 @@
+class com_sun_jdi_InvocationException_getClass{ public static void function() {com.sun.jdi.InvocationException obj = new com.sun.jdi.InvocationException();obj.getClass();}}

@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_setBounds_int_int_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.setBounds(-1696024357,-871254008,215924498,1911373065);}}

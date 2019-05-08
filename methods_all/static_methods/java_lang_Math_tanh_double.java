@@ -1,0 +1,1 @@
+class java_lang_Math_tanh_double{ public static void function() {java.lang.Math.tanh(0.39676590796713285);}}

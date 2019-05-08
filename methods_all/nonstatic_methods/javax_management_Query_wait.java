@@ -1,0 +1,1 @@
+class javax_management_Query_wait{ public static void function() {javax.management.Query obj = new javax.management.Query();obj.wait();}}

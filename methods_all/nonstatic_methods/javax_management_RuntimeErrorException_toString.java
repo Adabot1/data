@@ -1,0 +1,1 @@
+class javax_management_RuntimeErrorException_toString{ public static void function() {javax.management.RuntimeErrorException obj = new javax.management.RuntimeErrorException();obj.toString();}}

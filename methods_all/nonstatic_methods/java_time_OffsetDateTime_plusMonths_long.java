@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_plusMonths_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.plusMonths(-6985142923963743919);}}

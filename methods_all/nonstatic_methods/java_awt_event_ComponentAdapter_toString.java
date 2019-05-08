@@ -1,0 +1,1 @@
+class java_awt_event_ComponentAdapter_toString{ public static void function() {java.awt.event.ComponentAdapter obj = new java.awt.event.ComponentAdapter();obj.toString();}}

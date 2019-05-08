@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_OceanTheme_getPrimaryControlInfo{ public static void function() {javax.swing.plaf.metal.OceanTheme obj = new javax.swing.plaf.metal.OceanTheme();obj.getPrimaryControlInfo();}}

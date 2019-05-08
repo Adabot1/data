@@ -1,0 +1,1 @@
+class java_awt_Window_repaint_int_int_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.repaint(456217784,-1531928025,1679285906,934024755);}}

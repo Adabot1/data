@@ -1,0 +1,1 @@
+class javax_swing_undo_AbstractUndoableEdit_toString{ public static void function() {javax.swing.undo.AbstractUndoableEdit obj = new javax.swing.undo.AbstractUndoableEdit();obj.toString();}}

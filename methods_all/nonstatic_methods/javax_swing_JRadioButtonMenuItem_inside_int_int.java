@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_inside_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.inside(-141180740,-803501729);}}

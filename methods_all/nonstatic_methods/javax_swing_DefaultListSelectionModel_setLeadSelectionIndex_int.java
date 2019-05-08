@@ -1,0 +1,1 @@
+class javax_swing_DefaultListSelectionModel_setLeadSelectionIndex_int{ public static void function() {javax.swing.DefaultListSelectionModel obj = new javax.swing.DefaultListSelectionModel();obj.setLeadSelectionIndex(1411279860);}}

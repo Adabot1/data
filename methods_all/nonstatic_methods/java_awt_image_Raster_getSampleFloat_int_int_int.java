@@ -1,0 +1,1 @@
+class java_awt_image_Raster_getSampleFloat_int_int_int{ public static void function() {java.awt.image.Raster obj = new java.awt.image.Raster();obj.getSampleFloat(525658981,-435011766,-140298242);}}

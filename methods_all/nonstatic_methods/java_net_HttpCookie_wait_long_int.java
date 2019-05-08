@@ -1,0 +1,1 @@
+class java_net_HttpCookie_wait_long_int{ public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();obj.wait(1766771354021347916,-1133544560);}}

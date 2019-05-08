@@ -1,0 +1,1 @@
+class java_awt_image_AreaAveragingScaleFilter_imageComplete_int{ public static void function() {java.awt.image.AreaAveragingScaleFilter obj = new java.awt.image.AreaAveragingScaleFilter();obj.imageComplete(-1998173005);}}

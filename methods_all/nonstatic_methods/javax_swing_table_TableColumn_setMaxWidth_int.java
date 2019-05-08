@@ -1,0 +1,1 @@
+class javax_swing_table_TableColumn_setMaxWidth_int{ public static void function() {javax.swing.table.TableColumn obj = new javax.swing.table.TableColumn();obj.setMaxWidth(-921402658);}}

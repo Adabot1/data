@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthPasswordFieldUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthPasswordFieldUI obj = new javax.swing.plaf.synth.SynthPasswordFieldUI();obj.wait(5640083982460845567);}}

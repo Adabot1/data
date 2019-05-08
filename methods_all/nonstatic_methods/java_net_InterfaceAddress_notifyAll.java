@@ -1,0 +1,1 @@
+class java_net_InterfaceAddress_notifyAll{ public static void function() {java.net.InterfaceAddress obj = new java.net.InterfaceAddress();obj.notifyAll();}}

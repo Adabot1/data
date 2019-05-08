@@ -1,0 +1,1 @@
+class javax_swing_text_MaskFormatter_wait_long{ public static void function() {javax.swing.text.MaskFormatter obj = new javax.swing.text.MaskFormatter();obj.wait(-5753588649296959951);}}

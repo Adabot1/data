@@ -1,0 +1,1 @@
+class javax_sound_midi_Instrument_wait_long_int{ public static void function() {javax.sound.midi.Instrument obj = new javax.sound.midi.Instrument();obj.wait(5603076761259637856,-2108376572);}}

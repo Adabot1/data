@@ -1,0 +1,1 @@
+class javax_swing_undo_StateEdit_wait_long_int{ public static void function() {javax.swing.undo.StateEdit obj = new javax.swing.undo.StateEdit();obj.wait(144867159421348902,-96603367);}}

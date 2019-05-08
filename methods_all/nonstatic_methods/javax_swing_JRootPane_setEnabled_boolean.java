@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_setEnabled_boolean{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.setEnabled(true);}}

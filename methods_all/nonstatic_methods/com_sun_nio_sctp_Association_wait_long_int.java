@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_Association_wait_long_int{ public static void function() {com.sun.nio.sctp.Association obj = new com.sun.nio.sctp.Association();obj.wait(-1869072342864789596,-185336814);}}

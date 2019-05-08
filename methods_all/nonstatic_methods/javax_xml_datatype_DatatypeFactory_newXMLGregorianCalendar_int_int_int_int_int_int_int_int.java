@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeFactory_newXMLGregorianCalendar_int_int_int_int_int_int_int_int{ public static void function() {javax.xml.datatype.DatatypeFactory obj = new javax.xml.datatype.DatatypeFactory();obj.newXMLGregorianCalendar(121467320,855692226,1597020494,502306123,-1533170290,1577765171,-1790488507,-376187802);}}

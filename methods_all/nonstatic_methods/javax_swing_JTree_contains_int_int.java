@@ -1,0 +1,1 @@
+class javax_swing_JTree_contains_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.contains(-1142354279,1956541855);}}

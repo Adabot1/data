@@ -1,0 +1,1 @@
+class java_lang_ThreadGroup_wait_long{ public static void function() {java.lang.ThreadGroup obj = new java.lang.ThreadGroup();obj.wait(-1901610141862755440);}}

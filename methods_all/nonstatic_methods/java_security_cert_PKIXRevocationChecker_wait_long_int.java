@@ -1,0 +1,1 @@
+class java_security_cert_PKIXRevocationChecker_wait_long_int{ public static void function() {java.security.cert.PKIXRevocationChecker obj = new java.security.cert.PKIXRevocationChecker();obj.wait(3502278019447829880,374526641);}}

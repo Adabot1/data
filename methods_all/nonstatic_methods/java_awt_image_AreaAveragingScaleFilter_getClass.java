@@ -1,0 +1,1 @@
+class java_awt_image_AreaAveragingScaleFilter_getClass{ public static void function() {java.awt.image.AreaAveragingScaleFilter obj = new java.awt.image.AreaAveragingScaleFilter();obj.getClass();}}

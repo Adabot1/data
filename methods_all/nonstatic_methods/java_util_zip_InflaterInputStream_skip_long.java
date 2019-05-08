@@ -1,0 +1,1 @@
+class java_util_zip_InflaterInputStream_skip_long{ public static void function() {java.util.zip.InflaterInputStream obj = new java.util.zip.InflaterInputStream();obj.skip(-5707541732095786439);}}

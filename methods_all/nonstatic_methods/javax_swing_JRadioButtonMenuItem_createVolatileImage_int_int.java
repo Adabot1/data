@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_createVolatileImage_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.createVolatileImage(-1926363229,-1235933162);}}

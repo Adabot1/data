@@ -1,0 +1,1 @@
+class java_awt_event_InvocationEvent_wait_long_int{ public static void function() {java.awt.event.InvocationEvent obj = new java.awt.event.InvocationEvent();obj.wait(5794427012172831402,9004744);}}

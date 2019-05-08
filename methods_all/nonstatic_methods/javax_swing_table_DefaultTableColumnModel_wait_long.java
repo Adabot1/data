@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableColumnModel_wait_long{ public static void function() {javax.swing.table.DefaultTableColumnModel obj = new javax.swing.table.DefaultTableColumnModel();obj.wait(2074295077443112897);}}

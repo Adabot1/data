@@ -1,0 +1,1 @@
+class javax_swing_JWindow_wait_long_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.wait(661098920889805452,-231737372);}}

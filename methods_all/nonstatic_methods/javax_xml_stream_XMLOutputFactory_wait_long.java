@@ -1,0 +1,1 @@
+class javax_xml_stream_XMLOutputFactory_wait_long{ public static void function() {javax.xml.stream.XMLOutputFactory obj = new javax.xml.stream.XMLOutputFactory();obj.wait(229710848238805838);}}

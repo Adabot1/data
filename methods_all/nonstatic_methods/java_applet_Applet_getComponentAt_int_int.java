@@ -1,0 +1,1 @@
+class java_applet_Applet_getComponentAt_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.getComponentAt(839582124,487437173);}}

@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_setFocusCycleRoot_boolean{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.setFocusCycleRoot(false);}}

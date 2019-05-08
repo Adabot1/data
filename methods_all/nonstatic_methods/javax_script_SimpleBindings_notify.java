@@ -1,0 +1,1 @@
+class javax_script_SimpleBindings_notify{ public static void function() {javax.script.SimpleBindings obj = new javax.script.SimpleBindings();obj.notify();}}

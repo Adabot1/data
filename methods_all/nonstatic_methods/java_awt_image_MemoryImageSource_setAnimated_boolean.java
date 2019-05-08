@@ -1,0 +1,1 @@
+class java_awt_image_MemoryImageSource_setAnimated_boolean{ public static void function() {java.awt.image.MemoryImageSource obj = new java.awt.image.MemoryImageSource();obj.setAnimated(true);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_AbstractTableModel_fireTableRowsUpdated_int_int{ public static void function() {javax.swing.table.AbstractTableModel obj = new javax.swing.table.AbstractTableModel();obj.fireTableRowsUpdated(-1058768189,1648753068);}}

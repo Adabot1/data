@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_setDebugOptions_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.setDebugOptions(-209887203);}}

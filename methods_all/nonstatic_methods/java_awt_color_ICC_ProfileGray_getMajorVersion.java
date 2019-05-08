@@ -1,0 +1,1 @@
+class java_awt_color_ICC_ProfileGray_getMajorVersion{ public static void function() {java.awt.color.ICC_ProfileGray obj = new java.awt.color.ICC_ProfileGray();obj.getMajorVersion();}}

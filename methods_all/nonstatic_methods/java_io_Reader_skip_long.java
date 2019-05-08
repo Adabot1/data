@@ -1,0 +1,1 @@
+class java_io_Reader_skip_long{ public static void function() {java.io.Reader obj = new java.io.Reader();obj.skip(-7083368177228694465);}}

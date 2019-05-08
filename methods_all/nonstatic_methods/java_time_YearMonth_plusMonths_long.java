@@ -1,0 +1,1 @@
+class java_time_YearMonth_plusMonths_long{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.plusMonths(7927648284605785470);}}

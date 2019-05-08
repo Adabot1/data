@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_getAvailableLocales{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.getAvailableLocales();}}

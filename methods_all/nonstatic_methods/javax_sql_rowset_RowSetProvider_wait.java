@@ -1,0 +1,1 @@
+class javax_sql_rowset_RowSetProvider_wait{ public static void function() {javax.sql.rowset.RowSetProvider obj = new javax.sql.rowset.RowSetProvider();obj.wait();}}

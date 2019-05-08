@@ -1,0 +1,1 @@
+class jdk_jfr_FlightRecorder_wait_long{ public static void function() {jdk.jfr.FlightRecorder obj = new jdk.jfr.FlightRecorder();obj.wait(1181946624767242474);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLDocument_getText_int_int{ public static void function() {javax.swing.text.html.HTMLDocument obj = new javax.swing.text.html.HTMLDocument();obj.getText(1856605004,1208237395);}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_notify{ public static void function() {java.lang.StrictMath obj = new java.lang.StrictMath();obj.notify();}}

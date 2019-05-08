@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_remove_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.remove(-439625463);}}

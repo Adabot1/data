@@ -1,0 +1,1 @@
+class javax_swing_JTree_setAlignmentY_float{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.setAlignmentY(0.5859022);}}

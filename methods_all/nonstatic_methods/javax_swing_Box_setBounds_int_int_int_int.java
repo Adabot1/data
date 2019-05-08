@@ -1,0 +1,1 @@
+class javax_swing_Box_setBounds_int_int_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.setBounds(-383556902,-395188832,2029830000,-1056050329);}}

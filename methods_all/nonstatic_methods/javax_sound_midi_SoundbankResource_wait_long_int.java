@@ -1,0 +1,1 @@
+class javax_sound_midi_SoundbankResource_wait_long_int{ public static void function() {javax.sound.midi.SoundbankResource obj = new javax.sound.midi.SoundbankResource();obj.wait(-7567591951585954674,-653940103);}}

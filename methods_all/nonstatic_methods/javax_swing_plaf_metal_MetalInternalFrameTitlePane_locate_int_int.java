@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalInternalFrameTitlePane_locate_int_int{ public static void function() {javax.swing.plaf.metal.MetalInternalFrameTitlePane obj = new javax.swing.plaf.metal.MetalInternalFrameTitlePane();obj.locate(2145514583,1170539309);}}

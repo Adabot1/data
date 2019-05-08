@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_getInputMap_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.getInputMap(1370701834);}}

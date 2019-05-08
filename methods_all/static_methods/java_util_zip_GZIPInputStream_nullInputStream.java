@@ -1,0 +1,1 @@
+class java_util_zip_GZIPInputStream_nullInputStream{ public static void function() {java.util.zip.GZIPInputStream.nullInputStream();}}

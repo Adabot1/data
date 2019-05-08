@@ -1,0 +1,1 @@
+class java_io_Reader_wait_long_int{ public static void function() {java.io.Reader obj = new java.io.Reader();obj.wait(8270901697132374601,-1014384901);}}

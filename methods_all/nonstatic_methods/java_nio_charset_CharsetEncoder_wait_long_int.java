@@ -1,0 +1,1 @@
+class java_nio_charset_CharsetEncoder_wait_long_int{ public static void function() {java.nio.charset.CharsetEncoder obj = new java.nio.charset.CharsetEncoder();obj.wait(-5382849520871656011,1809215598);}}

@@ -1,0 +1,1 @@
+class javax_sql_rowset_RowSetMetaDataImpl_getColumnType_int{ public static void function() {javax.sql.rowset.RowSetMetaDataImpl obj = new javax.sql.rowset.RowSetMetaDataImpl();obj.getColumnType(-1031701486);}}

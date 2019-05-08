@@ -1,0 +1,1 @@
+class javax_transaction_xa_XAException_wait_long{ public static void function() {javax.transaction.xa.XAException obj = new javax.transaction.xa.XAException();obj.wait(7049399635607448782);}}

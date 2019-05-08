@@ -1,0 +1,1 @@
+class javax_swing_JComponent_setSize_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.setSize(151368478,-1747327488);}}

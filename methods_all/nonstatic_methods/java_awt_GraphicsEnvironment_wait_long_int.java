@@ -1,0 +1,1 @@
+class java_awt_GraphicsEnvironment_wait_long_int{ public static void function() {java.awt.GraphicsEnvironment obj = new java.awt.GraphicsEnvironment();obj.wait(2415213317264847242,1423469857);}}

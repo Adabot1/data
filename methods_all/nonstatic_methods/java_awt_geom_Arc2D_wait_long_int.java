@@ -1,0 +1,1 @@
+class java_awt_geom_Arc2D_wait_long_int{ public static void function() {java.awt.geom.Arc2D obj = new java.awt.geom.Arc2D();obj.wait(-5110713593677036555,464885156);}}

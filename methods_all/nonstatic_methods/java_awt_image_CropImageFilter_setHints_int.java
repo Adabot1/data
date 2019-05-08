@@ -1,0 +1,1 @@
+class java_awt_image_CropImageFilter_setHints_int{ public static void function() {java.awt.image.CropImageFilter obj = new java.awt.image.CropImageFilter();obj.setHints(-812424230);}}

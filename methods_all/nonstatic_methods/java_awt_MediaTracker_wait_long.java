@@ -1,0 +1,1 @@
+class java_awt_MediaTracker_wait_long{ public static void function() {java.awt.MediaTracker obj = new java.awt.MediaTracker();obj.wait(3076422574284687075);}}

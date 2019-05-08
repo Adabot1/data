@@ -1,0 +1,1 @@
+class javax_swing_text_PlainDocument_setAsynchronousLoadPriority_int{ public static void function() {javax.swing.text.PlainDocument obj = new javax.swing.text.PlainDocument();obj.setAsynchronousLoadPriority(1242466755);}}

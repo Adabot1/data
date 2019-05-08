@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_setBounds_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.setBounds(984643613,885654238,1904538149,-1138735048);}}

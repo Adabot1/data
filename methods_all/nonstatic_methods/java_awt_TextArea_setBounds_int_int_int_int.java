@@ -1,0 +1,1 @@
+class java_awt_TextArea_setBounds_int_int_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.setBounds(-760809371,-541429355,-1008038071,-2138546389);}}

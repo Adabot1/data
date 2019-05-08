@@ -1,0 +1,1 @@
+class javax_imageio_plugins_bmp_BMPImageWriteParam_setTiling_int_int_int_int{ public static void function() {javax.imageio.plugins.bmp.BMPImageWriteParam obj = new javax.imageio.plugins.bmp.BMPImageWriteParam();obj.setTiling(-1005540987,-1511416013,-2135483636,1230985658);}}

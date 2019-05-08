@@ -1,0 +1,1 @@
+class java_io_PipedReader_skip_long{ public static void function() {java.io.PipedReader obj = new java.io.PipedReader();obj.skip(-3099102149822859544);}}

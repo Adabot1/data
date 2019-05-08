@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_getYear{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.getYear();}}

@@ -1,0 +1,1 @@
+class java_io_RandomAccessFile_setLength_long{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();obj.setLength(5655239308871932008);}}

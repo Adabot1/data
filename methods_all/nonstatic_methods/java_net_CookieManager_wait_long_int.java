@@ -1,0 +1,1 @@
+class java_net_CookieManager_wait_long_int{ public static void function() {java.net.CookieManager obj = new java.net.CookieManager();obj.wait(-256654934631428973,636232925);}}

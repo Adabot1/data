@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_minusWeeks_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.minusWeeks(-3481535385985778266);}}

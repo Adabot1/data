@@ -1,0 +1,1 @@
+class java_lang_Character_isBmpCodePoint_int{ public static void function() {java.lang.Character.isBmpCodePoint(416799578);}}

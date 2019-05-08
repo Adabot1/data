@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialClob_getCharacterStream{ public static void function() {javax.sql.rowset.serial.SerialClob obj = new javax.sql.rowset.serial.SerialClob();obj.getCharacterStream();}}

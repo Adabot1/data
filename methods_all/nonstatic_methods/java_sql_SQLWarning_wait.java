@@ -1,0 +1,1 @@
+class java_sql_SQLWarning_wait{ public static void function() {java.sql.SQLWarning obj = new java.sql.SQLWarning();obj.wait();}}

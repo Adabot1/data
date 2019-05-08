@@ -1,0 +1,1 @@
+class java_awt_Label_resize_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.resize(961350032,285024274);}}

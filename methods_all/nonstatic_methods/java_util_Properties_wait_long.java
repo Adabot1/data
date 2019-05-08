@@ -1,0 +1,1 @@
+class java_util_Properties_wait_long{ public static void function() {java.util.Properties obj = new java.util.Properties();obj.wait(125009329221575883);}}

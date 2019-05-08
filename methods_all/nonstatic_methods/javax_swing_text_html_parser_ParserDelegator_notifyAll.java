@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_ParserDelegator_notifyAll{ public static void function() {javax.swing.text.html.parser.ParserDelegator obj = new javax.swing.text.html.parser.ParserDelegator();obj.notifyAll();}}

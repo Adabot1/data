@@ -1,0 +1,1 @@
+class java_awt_Dimension_setSize_int_int{ public static void function() {java.awt.Dimension obj = new java.awt.Dimension();obj.setSize(-902246184,896860891);}}

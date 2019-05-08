@@ -1,0 +1,1 @@
+class javax_swing_text_PlainDocument_wait_long{ public static void function() {javax.swing.text.PlainDocument obj = new javax.swing.text.PlainDocument();obj.wait(2096016798456803069);}}

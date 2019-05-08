@@ -1,0 +1,1 @@
+class javax_swing_JFrame_getContainerListeners{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.getContainerListeners();}}

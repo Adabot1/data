@@ -1,0 +1,1 @@
+class java_math_BigInteger_shiftRight_int{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();obj.shiftRight(-1945393144);}}

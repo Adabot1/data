@@ -1,0 +1,1 @@
+class javax_swing_JComponent_resize_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.resize(-828740912,-525874929);}}

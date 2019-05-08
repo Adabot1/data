@@ -1,0 +1,1 @@
+class java_io_ObjectStreamClass_toString{ public static void function() {java.io.ObjectStreamClass obj = new java.io.ObjectStreamClass();obj.toString();}}

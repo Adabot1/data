@@ -1,0 +1,1 @@
+class java_lang_ExceptionInInitializerError_wait_long_int{ public static void function() {java.lang.ExceptionInInitializerError obj = new java.lang.ExceptionInInitializerError();obj.wait(-7886494452788758975,849334056);}}

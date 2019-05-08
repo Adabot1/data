@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollButton_setMultiClickThreshhold_long{ public static void function() {javax.swing.plaf.metal.MetalScrollButton obj = new javax.swing.plaf.metal.MetalScrollButton();obj.setMultiClickThreshhold(89114110247958551);}}

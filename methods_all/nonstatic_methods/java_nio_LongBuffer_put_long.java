@@ -1,0 +1,1 @@
+class java_nio_LongBuffer_put_long{ public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();obj.put(-2221421553536806432);}}

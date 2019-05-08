@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTargetEvent_getDropTargetContext{ public static void function() {java.awt.dnd.DropTargetEvent obj = new java.awt.dnd.DropTargetEvent();obj.getDropTargetContext();}}

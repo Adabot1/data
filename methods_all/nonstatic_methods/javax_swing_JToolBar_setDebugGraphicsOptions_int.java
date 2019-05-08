@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.setDebugGraphicsOptions(-1009482057);}}

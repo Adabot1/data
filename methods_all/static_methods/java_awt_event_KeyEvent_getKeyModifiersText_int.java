@@ -1,0 +1,1 @@
+class java_awt_event_KeyEvent_getKeyModifiersText_int{ public static void function() {java.awt.event.KeyEvent.getKeyModifiersText(1098252714);}}

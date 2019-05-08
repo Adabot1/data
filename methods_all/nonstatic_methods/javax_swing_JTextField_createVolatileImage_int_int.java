@@ -1,0 +1,1 @@
+class javax_swing_JTextField_createVolatileImage_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.createVolatileImage(-434485725,125467788);}}

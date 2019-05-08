@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalBorders_hashCode{ public static void function() {javax.swing.plaf.metal.MetalBorders obj = new javax.swing.plaf.metal.MetalBorders();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_event_SwingPropertyChangeSupport_wait_long{ public static void function() {javax.swing.event.SwingPropertyChangeSupport obj = new javax.swing.event.SwingPropertyChangeSupport();obj.wait(-6053192275589979521);}}

@@ -1,0 +1,1 @@
+class java_io_FileDescriptor_wait_long{ public static void function() {java.io.FileDescriptor obj = new java.io.FileDescriptor();obj.wait(5930919191501256480);}}

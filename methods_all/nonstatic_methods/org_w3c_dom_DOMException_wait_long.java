@@ -1,0 +1,1 @@
+class org_w3c_dom_DOMException_wait_long{ public static void function() {org.w3c.dom.DOMException obj = new org.w3c.dom.DOMException();obj.wait(3385471109501627504);}}

@@ -1,0 +1,1 @@
+class javax_management_modelmbean_ModelMBeanConstructorInfo_wait_long{ public static void function() {javax.management.modelmbean.ModelMBeanConstructorInfo obj = new javax.management.modelmbean.ModelMBeanConstructorInfo();obj.wait(8660172627896953284);}}

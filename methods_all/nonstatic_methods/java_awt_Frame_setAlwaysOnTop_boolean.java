@@ -1,0 +1,1 @@
+class java_awt_Frame_setAlwaysOnTop_boolean{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.setAlwaysOnTop(true);}}

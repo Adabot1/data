@@ -1,0 +1,1 @@
+class java_security_spec_ECPublicKeySpec_notifyAll{ public static void function() {java.security.spec.ECPublicKeySpec obj = new java.security.spec.ECPublicKeySpec();obj.notifyAll();}}

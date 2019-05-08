@@ -1,0 +1,1 @@
+class java_text_StringCharacterIterator_wait_long_int{ public static void function() {java.text.StringCharacterIterator obj = new java.text.StringCharacterIterator();obj.wait(-5511783452180908754,-1515194480);}}

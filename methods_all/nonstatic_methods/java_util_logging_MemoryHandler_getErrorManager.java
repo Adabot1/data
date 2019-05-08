@@ -1,0 +1,1 @@
+class java_util_logging_MemoryHandler_getErrorManager{ public static void function() {java.util.logging.MemoryHandler obj = new java.util.logging.MemoryHandler();obj.getErrorManager();}}

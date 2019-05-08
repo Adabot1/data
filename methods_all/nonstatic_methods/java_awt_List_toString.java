@@ -1,0 +1,1 @@
+class java_awt_List_toString{ public static void function() {java.awt.List obj = new java.awt.List();obj.toString();}}

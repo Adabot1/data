@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_setValue_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.setValue(1295725694);}}

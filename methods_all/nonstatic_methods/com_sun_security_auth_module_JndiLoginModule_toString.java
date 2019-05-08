@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_JndiLoginModule_toString{ public static void function() {com.sun.security.auth.module.JndiLoginModule obj = new com.sun.security.auth.module.JndiLoginModule();obj.toString();}}

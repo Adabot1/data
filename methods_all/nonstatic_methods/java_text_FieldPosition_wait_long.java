@@ -1,0 +1,1 @@
+class java_text_FieldPosition_wait_long{ public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();obj.wait(-4586373381538672202);}}

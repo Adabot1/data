@@ -1,0 +1,1 @@
+class java_io_StreamTokenizer_wait_long{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();obj.wait(-7414981411150982961);}}

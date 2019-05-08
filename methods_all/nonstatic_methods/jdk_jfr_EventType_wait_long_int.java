@@ -1,0 +1,1 @@
+class jdk_jfr_EventType_wait_long_int{ public static void function() {jdk.jfr.EventType obj = new jdk.jfr.EventType();obj.wait(7270945356129093449,-2102814205);}}

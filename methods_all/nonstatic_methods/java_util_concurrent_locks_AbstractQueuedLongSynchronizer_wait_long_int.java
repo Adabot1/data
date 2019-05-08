@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_AbstractQueuedLongSynchronizer_wait_long_int{ public static void function() {java.util.concurrent.locks.AbstractQueuedLongSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedLongSynchronizer();obj.wait(-6439770896181144572,-1313557674);}}

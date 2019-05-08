@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_getBaseline_int_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.getBaseline(-1869846165,2110571330);}}

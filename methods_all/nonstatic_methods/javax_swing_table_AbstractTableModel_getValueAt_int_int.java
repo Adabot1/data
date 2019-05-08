@@ -1,0 +1,1 @@
+class javax_swing_table_AbstractTableModel_getValueAt_int_int{ public static void function() {javax.swing.table.AbstractTableModel obj = new javax.swing.table.AbstractTableModel();obj.getValueAt(-1457213316,-1693197522);}}

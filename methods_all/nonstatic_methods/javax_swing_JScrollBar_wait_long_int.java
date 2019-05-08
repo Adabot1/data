@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_wait_long_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.wait(9026681458961117786,877860060);}}

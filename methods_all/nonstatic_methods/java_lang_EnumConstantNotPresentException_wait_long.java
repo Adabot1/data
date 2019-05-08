@@ -1,0 +1,1 @@
+class java_lang_EnumConstantNotPresentException_wait_long{ public static void function() {java.lang.EnumConstantNotPresentException obj = new java.lang.EnumConstantNotPresentException();obj.wait(6291178011464718731);}}

@@ -1,0 +1,1 @@
+class javax_imageio_ImageTypeSpecifier_createGrayscale_int_int_boolean_boolean{ public static void function() {javax.imageio.ImageTypeSpecifier.createGrayscale(-692770989,-841478127,true,true);}}

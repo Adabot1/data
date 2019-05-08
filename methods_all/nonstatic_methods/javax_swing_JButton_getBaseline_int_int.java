@@ -1,0 +1,1 @@
+class javax_swing_JButton_getBaseline_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.getBaseline(-355472109,-548842156);}}

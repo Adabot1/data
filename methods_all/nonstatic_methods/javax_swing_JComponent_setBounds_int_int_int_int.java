@@ -1,0 +1,1 @@
+class javax_swing_JComponent_setBounds_int_int_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.setBounds(715108989,-878360395,-187026863,1925330005);}}

@@ -1,0 +1,1 @@
+class java_awt_Canvas_getForeground{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.getForeground();}}

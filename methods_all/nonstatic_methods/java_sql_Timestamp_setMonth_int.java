@@ -1,0 +1,1 @@
+class java_sql_Timestamp_setMonth_int{ public static void function() {java.sql.Timestamp obj = new java.sql.Timestamp();obj.setMonth(-381845521);}}

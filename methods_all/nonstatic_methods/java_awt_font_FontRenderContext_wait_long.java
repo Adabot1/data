@@ -1,0 +1,1 @@
+class java_awt_font_FontRenderContext_wait_long{ public static void function() {java.awt.font.FontRenderContext obj = new java.awt.font.FontRenderContext();obj.wait(8116898157513104229);}}

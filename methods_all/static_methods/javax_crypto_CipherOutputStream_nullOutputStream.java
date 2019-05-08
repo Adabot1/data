@@ -1,0 +1,1 @@
+class javax_crypto_CipherOutputStream_nullOutputStream{ public static void function() {javax.crypto.CipherOutputStream.nullOutputStream();}}

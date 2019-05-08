@@ -1,0 +1,1 @@
+class javax_swing_event_EventListenerList_toString{ public static void function() {javax.swing.event.EventListenerList obj = new javax.swing.event.EventListenerList();obj.toString();}}

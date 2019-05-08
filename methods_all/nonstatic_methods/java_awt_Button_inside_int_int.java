@@ -1,0 +1,1 @@
+class java_awt_Button_inside_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.inside(-1553254320,-1237931220);}}

@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_LocatorImpl_setLineNumber_int{ public static void function() {org.xml.sax.helpers.LocatorImpl obj = new org.xml.sax.helpers.LocatorImpl();obj.setLineNumber(-390605047);}}

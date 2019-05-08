@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_wait_long{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.wait(1236098197179956500);}}

@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_setBounds_int_int_int_int{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.setBounds(-439201497,-1207790724,474222797,-166142593);}}

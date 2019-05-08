@@ -1,0 +1,1 @@
+class java_time_temporal_ChronoUnit_wait_long_int{ public static void function() {java.time.temporal.ChronoUnit obj = new java.time.temporal.ChronoUnit();obj.wait(-8983898483118139175,1352072456);}}

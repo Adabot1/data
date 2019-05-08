@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_locate_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.locate(-1584579482,-1243556094);}}

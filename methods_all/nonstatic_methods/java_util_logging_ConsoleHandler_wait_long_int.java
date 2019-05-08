@@ -1,0 +1,1 @@
+class java_util_logging_ConsoleHandler_wait_long_int{ public static void function() {java.util.logging.ConsoleHandler obj = new java.util.logging.ConsoleHandler();obj.wait(4437408104551816668,-1247495567);}}

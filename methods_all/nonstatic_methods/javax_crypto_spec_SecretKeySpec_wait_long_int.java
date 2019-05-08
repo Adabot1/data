@@ -1,0 +1,1 @@
+class javax_crypto_spec_SecretKeySpec_wait_long_int{ public static void function() {javax.crypto.spec.SecretKeySpec obj = new javax.crypto.spec.SecretKeySpec();obj.wait(-5429362357343800696,1624841828);}}

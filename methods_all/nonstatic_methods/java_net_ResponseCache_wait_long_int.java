@@ -1,0 +1,1 @@
+class java_net_ResponseCache_wait_long_int{ public static void function() {java.net.ResponseCache obj = new java.net.ResponseCache();obj.wait(5328398083380799897,273948390);}}

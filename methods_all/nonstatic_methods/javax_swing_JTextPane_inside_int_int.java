@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_inside_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.inside(1020623344,513008694);}}

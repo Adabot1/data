@@ -1,0 +1,1 @@
+class javax_naming_directory_SearchResult_getAttributes{ public static void function() {javax.naming.directory.SearchResult obj = new javax.naming.directory.SearchResult();obj.getAttributes();}}

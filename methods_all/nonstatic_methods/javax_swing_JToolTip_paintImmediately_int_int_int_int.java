@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.paintImmediately(1666694177,293090824,-150350799,-876773203);}}

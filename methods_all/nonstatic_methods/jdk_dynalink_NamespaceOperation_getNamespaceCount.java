@@ -1,0 +1,1 @@
+class jdk_dynalink_NamespaceOperation_getNamespaceCount{ public static void function() {jdk.dynalink.NamespaceOperation obj = new jdk.dynalink.NamespaceOperation();obj.getNamespaceCount();}}

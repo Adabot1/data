@@ -1,0 +1,1 @@
+class java_awt_Window_getBaseline_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.getBaseline(-316763406,-1079280549);}}

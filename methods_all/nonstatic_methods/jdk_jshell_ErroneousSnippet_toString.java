@@ -1,0 +1,1 @@
+class jdk_jshell_ErroneousSnippet_toString{ public static void function() {jdk.jshell.ErroneousSnippet obj = new jdk.jshell.ErroneousSnippet();obj.toString();}}

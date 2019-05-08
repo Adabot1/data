@@ -1,0 +1,1 @@
+class java_rmi_dgc_Lease_wait_long{ public static void function() {java.rmi.dgc.Lease obj = new java.rmi.dgc.Lease();obj.wait(4094536086056533101);}}

@@ -1,0 +1,1 @@
+class java_awt_Choice_isShowing{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.isShowing();}}

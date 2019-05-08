@@ -1,0 +1,1 @@
+class javax_xml_transform_TransformerFactoryConfigurationError_getSuppressed{ public static void function() {javax.xml.transform.TransformerFactoryConfigurationError obj = new javax.xml.transform.TransformerFactoryConfigurationError();obj.getSuppressed();}}

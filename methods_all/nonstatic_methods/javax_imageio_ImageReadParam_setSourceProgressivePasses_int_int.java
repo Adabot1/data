@@ -1,0 +1,1 @@
+class javax_imageio_ImageReadParam_setSourceProgressivePasses_int_int{ public static void function() {javax.imageio.ImageReadParam obj = new javax.imageio.ImageReadParam();obj.setSourceProgressivePasses(1683983826,-1332420449);}}

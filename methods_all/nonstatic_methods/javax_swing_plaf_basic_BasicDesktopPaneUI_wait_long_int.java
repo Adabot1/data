@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicDesktopPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicDesktopPaneUI obj = new javax.swing.plaf.basic.BasicDesktopPaneUI();obj.wait(4061867380953825950,1452721046);}}

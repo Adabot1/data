@@ -1,0 +1,1 @@
+class java_awt_Checkbox_getComponentAt_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.getComponentAt(-1307730124,327312450);}}

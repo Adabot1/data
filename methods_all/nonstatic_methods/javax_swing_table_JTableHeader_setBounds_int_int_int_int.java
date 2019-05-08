@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_setBounds_int_int_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.setBounds(-1332137742,-1755201922,1134083259,-1965006438);}}

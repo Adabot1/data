@@ -1,0 +1,1 @@
+class javax_sound_sampled_BooleanControl_wait_long_int{ public static void function() {javax.sound.sampled.BooleanControl obj = new javax.sound.sampled.BooleanControl();obj.wait(397232320247345481,1494166911);}}

@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_locate_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.locate(-1043573666,-189784544);}}

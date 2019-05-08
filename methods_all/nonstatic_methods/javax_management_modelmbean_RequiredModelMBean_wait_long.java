@@ -1,0 +1,1 @@
+class javax_management_modelmbean_RequiredModelMBean_wait_long{ public static void function() {javax.management.modelmbean.RequiredModelMBean obj = new javax.management.modelmbean.RequiredModelMBean();obj.wait(3933717032089090447);}}

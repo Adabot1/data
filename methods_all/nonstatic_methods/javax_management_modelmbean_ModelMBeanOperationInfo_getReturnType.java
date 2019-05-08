@@ -1,0 +1,1 @@
+class javax_management_modelmbean_ModelMBeanOperationInfo_getReturnType{ public static void function() {javax.management.modelmbean.ModelMBeanOperationInfo obj = new javax.management.modelmbean.ModelMBeanOperationInfo();obj.getReturnType();}}

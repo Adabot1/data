@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_weakCompareAndSetAcquire_int_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.weakCompareAndSetAcquire(-268405674,-408932140948389303,2993115662764117673);}}

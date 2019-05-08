@@ -1,0 +1,1 @@
+class javax_management_timer_Timer_wait_long_int{ public static void function() {javax.management.timer.Timer obj = new javax.management.timer.Timer();obj.wait(-5642935010344805755,1875039802);}}

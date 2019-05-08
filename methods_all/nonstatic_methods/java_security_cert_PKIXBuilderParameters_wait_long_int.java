@@ -1,0 +1,1 @@
+class java_security_cert_PKIXBuilderParameters_wait_long_int{ public static void function() {java.security.cert.PKIXBuilderParameters obj = new java.security.cert.PKIXBuilderParameters();obj.wait(2793240675659824576,121712315);}}

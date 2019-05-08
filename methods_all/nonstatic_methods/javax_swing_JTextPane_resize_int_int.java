@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_resize_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.resize(-582334326,-920804518);}}

@@ -1,0 +1,1 @@
+class javax_xml_parsers_SAXParserFactory_hashCode{ public static void function() {javax.xml.parsers.SAXParserFactory obj = new javax.xml.parsers.SAXParserFactory();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_contains_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.contains(1054504390,741709520);}}

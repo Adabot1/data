@@ -1,0 +1,1 @@
+class javax_management_relation_MBeanServerNotificationFilter_wait_long{ public static void function() {javax.management.relation.MBeanServerNotificationFilter obj = new javax.management.relation.MBeanServerNotificationFilter();obj.wait(2512651190239823815);}}

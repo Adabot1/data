@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setVerifyInputWhenFocusTarget_boolean{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setVerifyInputWhenFocusTarget(false);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableModel_wait_long_int{ public static void function() {javax.swing.table.DefaultTableModel obj = new javax.swing.table.DefaultTableModel();obj.wait(4164647532242671699,712273563);}}

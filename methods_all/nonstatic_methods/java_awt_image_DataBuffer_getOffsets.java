@@ -1,0 +1,1 @@
+class java_awt_image_DataBuffer_getOffsets{ public static void function() {java.awt.image.DataBuffer obj = new java.awt.image.DataBuffer();obj.getOffsets();}}

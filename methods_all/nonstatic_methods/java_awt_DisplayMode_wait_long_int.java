@@ -1,0 +1,1 @@
+class java_awt_DisplayMode_wait_long_int{ public static void function() {java.awt.DisplayMode obj = new java.awt.DisplayMode();obj.wait(-6034430457876401663,-476140755);}}

@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFField_createArrayForType_int_int{ public static void function() {javax.imageio.plugins.tiff.TIFFField.createArrayForType(1422672763,-925182726);}}

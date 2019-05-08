@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_resize_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.resize(1905909778,-606238185);}}

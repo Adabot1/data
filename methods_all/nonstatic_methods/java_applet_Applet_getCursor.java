@@ -1,0 +1,1 @@
+class java_applet_Applet_getCursor{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.getCursor();}}

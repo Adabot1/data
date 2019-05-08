@@ -1,0 +1,1 @@
+class javax_sql_rowset_BaseRowSet_setMaxFieldSize_int{ public static void function() {javax.sql.rowset.BaseRowSet obj = new javax.sql.rowset.BaseRowSet();obj.setMaxFieldSize(1999112371);}}

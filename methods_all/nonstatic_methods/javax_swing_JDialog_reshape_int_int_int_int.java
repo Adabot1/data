@@ -1,0 +1,1 @@
+class javax_swing_JDialog_reshape_int_int_int_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.reshape(-1434837730,-1449066306,1407983084,-596352404);}}

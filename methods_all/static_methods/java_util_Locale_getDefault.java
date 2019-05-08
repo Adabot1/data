@@ -1,0 +1,1 @@
+class java_util_Locale_getDefault{ public static void function() {java.util.Locale.getDefault();}}

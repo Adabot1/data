@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_inside_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.inside(361755108,-343868304);}}

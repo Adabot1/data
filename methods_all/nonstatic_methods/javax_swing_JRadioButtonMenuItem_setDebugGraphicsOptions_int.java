@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.setDebugGraphicsOptions(1082484516);}}

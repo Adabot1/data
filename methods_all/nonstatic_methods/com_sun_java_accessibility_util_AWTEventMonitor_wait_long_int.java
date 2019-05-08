@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_AWTEventMonitor_wait_long_int{ public static void function() {com.sun.java.accessibility.util.AWTEventMonitor obj = new com.sun.java.accessibility.util.AWTEventMonitor();obj.wait(-7706936398793227608,-640055129);}}

@@ -1,0 +1,1 @@
+class javax_naming_ldap_Rdn_toString{ public static void function() {javax.naming.ldap.Rdn obj = new javax.naming.ldap.Rdn();obj.toString();}}

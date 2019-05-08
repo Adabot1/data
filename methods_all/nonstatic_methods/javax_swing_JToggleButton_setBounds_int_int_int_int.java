@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_setBounds_int_int_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.setBounds(-2002058550,-239837723,-835194416,1542191495);}}

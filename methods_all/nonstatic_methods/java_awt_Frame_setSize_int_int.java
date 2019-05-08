@@ -1,0 +1,1 @@
+class java_awt_Frame_setSize_int_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.setSize(836499161,-665095327);}}

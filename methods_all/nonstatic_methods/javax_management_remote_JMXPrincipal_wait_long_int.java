@@ -1,0 +1,1 @@
+class javax_management_remote_JMXPrincipal_wait_long_int{ public static void function() {javax.management.remote.JMXPrincipal obj = new javax.management.remote.JMXPrincipal();obj.wait(-8327776137294125860,2062268813);}}

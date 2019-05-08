@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_support_Lookup_wait_long_int{ public static void function() {jdk.dynalink.linker.support.Lookup obj = new jdk.dynalink.linker.support.Lookup();obj.wait(539582650531421731,-1583458919);}}

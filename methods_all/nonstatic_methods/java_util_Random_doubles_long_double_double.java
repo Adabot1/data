@@ -1,0 +1,1 @@
+class java_util_Random_doubles_long_double_double{ public static void function() {java.util.Random obj = new java.util.Random();obj.doubles(1423569038516493310,0.5444547570324075,0.8693131344665164);}}

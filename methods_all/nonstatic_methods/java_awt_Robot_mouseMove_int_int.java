@@ -1,0 +1,1 @@
+class java_awt_Robot_mouseMove_int_int{ public static void function() {java.awt.Robot obj = new java.awt.Robot();obj.mouseMove(931342158,739253950);}}

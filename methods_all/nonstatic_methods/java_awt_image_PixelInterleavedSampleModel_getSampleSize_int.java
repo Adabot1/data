@@ -1,0 +1,1 @@
+class java_awt_image_PixelInterleavedSampleModel_getSampleSize_int{ public static void function() {java.awt.image.PixelInterleavedSampleModel obj = new java.awt.image.PixelInterleavedSampleModel();obj.getSampleSize(-450324822);}}

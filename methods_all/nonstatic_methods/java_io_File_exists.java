@@ -1,0 +1,1 @@
+class java_io_File_exists{ public static void function() {java.io.File obj = new java.io.File();obj.exists();}}

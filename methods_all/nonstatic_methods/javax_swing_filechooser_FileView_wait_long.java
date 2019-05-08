@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileView_wait_long{ public static void function() {javax.swing.filechooser.FileView obj = new javax.swing.filechooser.FileView();obj.wait(-1902565819463671364);}}

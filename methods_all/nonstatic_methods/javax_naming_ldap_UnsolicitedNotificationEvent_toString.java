@@ -1,0 +1,1 @@
+class javax_naming_ldap_UnsolicitedNotificationEvent_toString{ public static void function() {javax.naming.ldap.UnsolicitedNotificationEvent obj = new javax.naming.ldap.UnsolicitedNotificationEvent();obj.toString();}}

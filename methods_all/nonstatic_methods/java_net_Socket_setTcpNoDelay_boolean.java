@@ -1,0 +1,1 @@
+class java_net_Socket_setTcpNoDelay_boolean{ public static void function() {java.net.Socket obj = new java.net.Socket();obj.setTcpNoDelay(true);}}

@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_AccessibilityEventMonitor_wait_long_int{ public static void function() {com.sun.java.accessibility.util.AccessibilityEventMonitor obj = new com.sun.java.accessibility.util.AccessibilityEventMonitor();obj.wait(8150114760824949772,-577467361);}}

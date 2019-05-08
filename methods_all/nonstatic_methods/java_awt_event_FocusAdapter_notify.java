@@ -1,0 +1,1 @@
+class java_awt_event_FocusAdapter_notify{ public static void function() {java.awt.event.FocusAdapter obj = new java.awt.event.FocusAdapter();obj.notify();}}

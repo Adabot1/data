@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialBlob_getBytes_long_int{ public static void function() {javax.sql.rowset.serial.SerialBlob obj = new javax.sql.rowset.serial.SerialBlob();obj.getBytes(2727640683674013584,-215104219);}}

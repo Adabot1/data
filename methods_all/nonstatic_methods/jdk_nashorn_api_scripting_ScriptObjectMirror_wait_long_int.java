@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_ScriptObjectMirror_wait_long_int{ public static void function() {jdk.nashorn.api.scripting.ScriptObjectMirror obj = new jdk.nashorn.api.scripting.ScriptObjectMirror();obj.wait(-5586805516129752585,-1621491030);}}

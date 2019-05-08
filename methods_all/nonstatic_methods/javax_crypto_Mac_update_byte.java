@@ -1,0 +1,1 @@
+class javax_crypto_Mac_update_byte{ public static void function() {javax.crypto.Mac obj = new javax.crypto.Mac();obj.update([B@78b66d36);}}

@@ -1,0 +1,1 @@
+class javax_swing_border_BevelBorder_wait_long{ public static void function() {javax.swing.border.BevelBorder obj = new javax.swing.border.BevelBorder();obj.wait(-126610426239475980);}}

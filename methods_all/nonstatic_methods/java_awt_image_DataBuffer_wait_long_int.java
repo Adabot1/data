@@ -1,0 +1,1 @@
+class java_awt_image_DataBuffer_wait_long_int{ public static void function() {java.awt.image.DataBuffer obj = new java.awt.image.DataBuffer();obj.wait(7816691129694734944,2088542255);}}

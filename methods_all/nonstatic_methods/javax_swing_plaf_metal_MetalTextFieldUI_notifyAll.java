@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalTextFieldUI_notifyAll{ public static void function() {javax.swing.plaf.metal.MetalTextFieldUI obj = new javax.swing.plaf.metal.MetalTextFieldUI();obj.notifyAll();}}

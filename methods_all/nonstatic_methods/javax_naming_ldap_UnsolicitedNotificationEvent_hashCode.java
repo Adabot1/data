@@ -1,0 +1,1 @@
+class javax_naming_ldap_UnsolicitedNotificationEvent_hashCode{ public static void function() {javax.naming.ldap.UnsolicitedNotificationEvent obj = new javax.naming.ldap.UnsolicitedNotificationEvent();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_CertPathTrustManagerParameters_wait_long_int{ public static void function() {javax.net.ssl.CertPathTrustManagerParameters obj = new javax.net.ssl.CertPathTrustManagerParameters();obj.wait(-5056058750114339445,-475822885);}}

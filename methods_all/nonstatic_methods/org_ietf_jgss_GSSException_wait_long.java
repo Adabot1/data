@@ -1,0 +1,1 @@
+class org_ietf_jgss_GSSException_wait_long{ public static void function() {org.ietf.jgss.GSSException obj = new org.ietf.jgss.GSSException();obj.wait(2565867582763216213);}}

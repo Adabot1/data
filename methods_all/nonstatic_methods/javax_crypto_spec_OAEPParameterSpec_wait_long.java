@@ -1,0 +1,1 @@
+class javax_crypto_spec_OAEPParameterSpec_wait_long{ public static void function() {javax.crypto.spec.OAEPParameterSpec obj = new javax.crypto.spec.OAEPParameterSpec();obj.wait(7263445153626377761);}}

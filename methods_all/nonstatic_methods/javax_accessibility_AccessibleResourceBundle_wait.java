@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleResourceBundle_wait{ public static void function() {javax.accessibility.AccessibleResourceBundle obj = new javax.accessibility.AccessibleResourceBundle();obj.wait();}}

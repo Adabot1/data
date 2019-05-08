@@ -1,0 +1,1 @@
+class java_lang_Long_toHexString_long{ public static void function() {java.lang.Long.toHexString(4163692802822048281);}}

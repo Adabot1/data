@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSliderUI_setThumbLocation_int_int{ public static void function() {javax.swing.plaf.basic.BasicSliderUI obj = new javax.swing.plaf.basic.BasicSliderUI();obj.setThumbLocation(-534046815,-1069574620);}}

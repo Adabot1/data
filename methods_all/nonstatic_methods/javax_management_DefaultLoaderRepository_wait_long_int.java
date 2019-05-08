@@ -1,0 +1,1 @@
+class javax_management_DefaultLoaderRepository_wait_long_int{ public static void function() {javax.management.DefaultLoaderRepository obj = new javax.management.DefaultLoaderRepository();obj.wait(-9077599495186576355,-78010958);}}

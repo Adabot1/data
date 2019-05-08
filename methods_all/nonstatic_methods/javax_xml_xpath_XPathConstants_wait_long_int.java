@@ -1,0 +1,1 @@
+class javax_xml_xpath_XPathConstants_wait_long_int{ public static void function() {javax.xml.xpath.XPathConstants obj = new javax.xml.xpath.XPathConstants();obj.wait(6175891740299139226,1737654242);}}

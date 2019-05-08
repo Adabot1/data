@@ -1,0 +1,1 @@
+class javax_management_monitor_MonitorNotification_setTimeStamp_long{ public static void function() {javax.management.monitor.MonitorNotification obj = new javax.management.monitor.MonitorNotification();obj.setTimeStamp(-2658242832657387891);}}

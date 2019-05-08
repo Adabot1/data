@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_rotate_double_double_double_double{ public static void function() {java.awt.geom.AffineTransform obj = new java.awt.geom.AffineTransform();obj.rotate(0.6571624159327062,0.5691660098505509,0.6577312515205137,0.39084669586093557);}}

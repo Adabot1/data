@@ -1,0 +1,1 @@
+class java_awt_Rectangle_move_int_int{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.move(-382392334,-1151280562);}}

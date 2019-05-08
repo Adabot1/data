@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpServer_getClass{ public static void function() {com.sun.net.httpserver.HttpServer obj = new com.sun.net.httpserver.HttpServer();obj.getClass();}}

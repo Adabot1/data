@@ -1,0 +1,1 @@
+class java_awt_geom_Line2D_wait_long_int{ public static void function() {java.awt.geom.Line2D obj = new java.awt.geom.Line2D();obj.wait(-2781772801769904936,-560518522);}}

@@ -1,0 +1,1 @@
+class java_awt_TextComponent_repaint_long_int_int_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.repaint(8437182209485279956,-259440942,1327124913,-1393899616,784923278);}}

@@ -1,0 +1,1 @@
+class javax_management_modelmbean_ModelMBeanAttributeInfo_isIs{ public static void function() {javax.management.modelmbean.ModelMBeanAttributeInfo obj = new javax.management.modelmbean.ModelMBeanAttributeInfo();obj.isIs();}}

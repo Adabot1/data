@@ -1,0 +1,1 @@
+class java_awt_Button_createVolatileImage_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.createVolatileImage(-1013857031,1229748915);}}

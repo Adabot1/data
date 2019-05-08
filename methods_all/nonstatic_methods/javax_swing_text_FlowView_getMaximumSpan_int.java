@@ -1,0 +1,1 @@
+class javax_swing_text_FlowView_getMaximumSpan_int{ public static void function() {javax.swing.text.FlowView obj = new javax.swing.text.FlowView();obj.getMaximumSpan(-309545016);}}

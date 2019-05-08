@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOInvalidTreeException_wait_long_int{ public static void function() {javax.imageio.metadata.IIOInvalidTreeException obj = new javax.imageio.metadata.IIOInvalidTreeException();obj.wait(805530511838820169,-637072336);}}

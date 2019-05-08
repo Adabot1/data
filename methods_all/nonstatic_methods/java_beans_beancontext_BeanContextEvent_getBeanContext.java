@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextEvent_getBeanContext{ public static void function() {java.beans.beancontext.BeanContextEvent obj = new java.beans.beancontext.BeanContextEvent();obj.getBeanContext();}}

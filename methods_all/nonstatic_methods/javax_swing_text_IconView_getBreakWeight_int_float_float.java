@@ -1,0 +1,1 @@
+class javax_swing_text_IconView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.IconView obj = new javax.swing.text.IconView();obj.getBreakWeight(-55421229,0.94595814,0.96607333);}}

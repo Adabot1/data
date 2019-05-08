@@ -1,0 +1,1 @@
+class java_awt_Canvas_createImage_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.createImage(-1880785984,-580334937);}}

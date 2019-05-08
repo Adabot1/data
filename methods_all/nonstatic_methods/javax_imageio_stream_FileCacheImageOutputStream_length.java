@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileCacheImageOutputStream_length{ public static void function() {javax.imageio.stream.FileCacheImageOutputStream obj = new javax.imageio.stream.FileCacheImageOutputStream();obj.length();}}

@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_getComponentCountInLayer_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.getComponentCountInLayer(1661398653);}}

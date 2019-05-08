@@ -1,0 +1,1 @@
+class java_beans_EventHandler_wait_long_int{ public static void function() {java.beans.EventHandler obj = new java.beans.EventHandler();obj.wait(-3420312091806908404,1487337248);}}

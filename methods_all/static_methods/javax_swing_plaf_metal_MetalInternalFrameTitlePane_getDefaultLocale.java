@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalInternalFrameTitlePane_getDefaultLocale{ public static void function() {javax.swing.plaf.metal.MetalInternalFrameTitlePane.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class java_util_Calendar_setMinimalDaysInFirstWeek_int{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.setMinimalDaysInFirstWeek(-390900321);}}

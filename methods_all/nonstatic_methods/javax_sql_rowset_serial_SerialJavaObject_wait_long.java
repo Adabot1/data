@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialJavaObject_wait_long{ public static void function() {javax.sql.rowset.serial.SerialJavaObject obj = new javax.sql.rowset.serial.SerialJavaObject();obj.wait(4960846487926508870);}}

@@ -1,0 +1,1 @@
+class jdk_jfr_ValueDescriptor_getTypeName{ public static void function() {jdk.jfr.ValueDescriptor obj = new jdk.jfr.ValueDescriptor();obj.getTypeName();}}

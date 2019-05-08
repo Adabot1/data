@@ -1,0 +1,1 @@
+class java_lang_Boolean_logicalXor_boolean_boolean{ public static void function() {java.lang.Boolean.logicalXor(true,false);}}

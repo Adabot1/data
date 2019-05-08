@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileCacheImageOutputStream_writeShort_int{ public static void function() {javax.imageio.stream.FileCacheImageOutputStream obj = new javax.imageio.stream.FileCacheImageOutputStream();obj.writeShort(-1841624631);}}

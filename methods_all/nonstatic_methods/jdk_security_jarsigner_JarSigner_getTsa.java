@@ -1,0 +1,1 @@
+class jdk_security_jarsigner_JarSigner_getTsa{ public static void function() {jdk.security.jarsigner.JarSigner obj = new jdk.security.jarsigner.JarSigner();obj.getTsa();}}

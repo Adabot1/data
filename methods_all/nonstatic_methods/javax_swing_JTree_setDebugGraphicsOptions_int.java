@@ -1,0 +1,1 @@
+class javax_swing_JTree_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.setDebugGraphicsOptions(-659366472);}}

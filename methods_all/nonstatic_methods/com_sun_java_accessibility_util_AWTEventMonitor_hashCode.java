@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_AWTEventMonitor_hashCode{ public static void function() {com.sun.java.accessibility.util.AWTEventMonitor obj = new com.sun.java.accessibility.util.AWTEventMonitor();obj.hashCode();}}

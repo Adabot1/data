@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicCheckBoxMenuItemUI_wait_long{ public static void function() {javax.swing.plaf.basic.BasicCheckBoxMenuItemUI obj = new javax.swing.plaf.basic.BasicCheckBoxMenuItemUI();obj.wait(-3096656083270236008);}}

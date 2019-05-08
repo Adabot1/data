@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_setBounds_int_int_int_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.setBounds(829181406,2003434797,-1719244790,-2136388606);}}

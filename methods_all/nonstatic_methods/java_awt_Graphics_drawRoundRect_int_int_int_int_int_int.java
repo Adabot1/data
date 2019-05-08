@@ -1,0 +1,1 @@
+class java_awt_Graphics_drawRoundRect_int_int_int_int_int_int{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.drawRoundRect(-1086182269,1118555635,1776153411,-411063781,-367517674,1051152590);}}

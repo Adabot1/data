@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextEvent_wait_long{ public static void function() {java.beans.beancontext.BeanContextEvent obj = new java.beans.beancontext.BeanContextEvent();obj.wait(4109592964151225127);}}

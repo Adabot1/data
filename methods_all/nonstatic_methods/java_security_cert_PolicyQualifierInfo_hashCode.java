@@ -1,0 +1,1 @@
+class java_security_cert_PolicyQualifierInfo_hashCode{ public static void function() {java.security.cert.PolicyQualifierInfo obj = new java.security.cert.PolicyQualifierInfo();obj.hashCode();}}

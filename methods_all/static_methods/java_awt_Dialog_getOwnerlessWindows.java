@@ -1,0 +1,1 @@
+class java_awt_Dialog_getOwnerlessWindows{ public static void function() {java.awt.Dialog.getOwnerlessWindows();}}

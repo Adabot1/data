@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_setAlignmentY_float{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.setAlignmentY(0.26086372);}}

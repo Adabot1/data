@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_reshape_int_int_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.reshape(1430263981,28343821,-145794887,395514926);}}

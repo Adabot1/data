@@ -1,0 +1,1 @@
+class java_awt_TextArea_locate_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.locate(402628755,1400431724);}}

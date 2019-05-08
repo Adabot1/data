@@ -1,0 +1,1 @@
+class java_awt_Canvas_setBounds_int_int_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.setBounds(1290440518,-451933509,-1768984830,1484591286);}}

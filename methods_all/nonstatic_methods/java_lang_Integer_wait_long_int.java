@@ -1,0 +1,1 @@
+class java_lang_Integer_wait_long_int{ public static void function() {java.lang.Integer obj = new java.lang.Integer();obj.wait(-803430036679469728,-980765003);}}

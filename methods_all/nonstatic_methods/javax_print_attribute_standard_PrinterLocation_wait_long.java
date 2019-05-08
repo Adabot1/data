@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterLocation_wait_long{ public static void function() {javax.print.attribute.standard.PrinterLocation obj = new javax.print.attribute.standard.PrinterLocation();obj.wait(-3820227644037847791);}}

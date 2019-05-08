@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_weakCompareAndSetRelease_int_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.weakCompareAndSetRelease(-843830904,2981319678143810561,995625028333527397);}}

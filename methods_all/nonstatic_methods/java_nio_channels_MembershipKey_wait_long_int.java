@@ -1,0 +1,1 @@
+class java_nio_channels_MembershipKey_wait_long_int{ public static void function() {java.nio.channels.MembershipKey obj = new java.nio.channels.MembershipKey();obj.wait(5650255053316100873,-342743974);}}

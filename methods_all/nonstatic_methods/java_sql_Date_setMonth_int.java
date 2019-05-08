@@ -1,0 +1,1 @@
+class java_sql_Date_setMonth_int{ public static void function() {java.sql.Date obj = new java.sql.Date();obj.setMonth(-844292113);}}

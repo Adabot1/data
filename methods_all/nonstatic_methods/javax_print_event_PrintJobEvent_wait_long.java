@@ -1,0 +1,1 @@
+class javax_print_event_PrintJobEvent_wait_long{ public static void function() {javax.print.event.PrintJobEvent obj = new javax.print.event.PrintJobEvent();obj.wait(-6893045366980725791);}}

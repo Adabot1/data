@@ -1,0 +1,1 @@
+class javax_smartcardio_CommandAPDU_wait_long{ public static void function() {javax.smartcardio.CommandAPDU obj = new javax.smartcardio.CommandAPDU();obj.wait(1649933535846719603);}}

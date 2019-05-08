@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_AttributeListImpl_wait_long_int{ public static void function() {org.xml.sax.helpers.AttributeListImpl obj = new org.xml.sax.helpers.AttributeListImpl();obj.wait(-1615564672778845115,-1886087130);}}

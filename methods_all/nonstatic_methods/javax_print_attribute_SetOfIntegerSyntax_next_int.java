@@ -1,0 +1,1 @@
+class javax_print_attribute_SetOfIntegerSyntax_next_int{ public static void function() {javax.print.attribute.SetOfIntegerSyntax obj = new javax.print.attribute.SetOfIntegerSyntax();obj.next(1922088272);}}

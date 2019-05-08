@@ -1,0 +1,1 @@
+class java_sql_SQLWarning_getClass{ public static void function() {java.sql.SQLWarning obj = new java.sql.SQLWarning();obj.getClass();}}

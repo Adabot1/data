@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_setAlignmentX_float{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.setAlignmentX(0.1670155);}}

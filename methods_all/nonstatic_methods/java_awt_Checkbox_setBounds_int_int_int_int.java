@@ -1,0 +1,1 @@
+class java_awt_Checkbox_setBounds_int_int_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.setBounds(-1956691465,-1434419080,-1174263715,1539875105);}}

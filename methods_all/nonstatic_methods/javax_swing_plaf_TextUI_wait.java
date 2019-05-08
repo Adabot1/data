@@ -1,0 +1,1 @@
+class javax_swing_plaf_TextUI_wait{ public static void function() {javax.swing.plaf.TextUI obj = new javax.swing.plaf.TextUI();obj.wait();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_setAlignmentX_float{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.setAlignmentX(0.8166882);}}

@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpsExchange_sendResponseHeaders_int_long{ public static void function() {com.sun.net.httpserver.HttpsExchange obj = new com.sun.net.httpserver.HttpsExchange();obj.sendResponseHeaders(1132856155,6362358011034598199);}}

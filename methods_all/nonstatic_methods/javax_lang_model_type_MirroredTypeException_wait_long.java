@@ -1,0 +1,1 @@
+class javax_lang_model_type_MirroredTypeException_wait_long{ public static void function() {javax.lang.model.type.MirroredTypeException obj = new javax.lang.model.type.MirroredTypeException();obj.wait(-4526059684710846152);}}

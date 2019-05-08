@@ -1,0 +1,1 @@
+class java_lang_Long_wait_long{ public static void function() {java.lang.Long obj = new java.lang.Long();obj.wait(-6130743690253926173);}}

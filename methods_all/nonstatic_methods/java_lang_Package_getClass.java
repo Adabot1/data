@@ -1,0 +1,1 @@
+class java_lang_Package_getClass{ public static void function() {java.lang.Package obj = new java.lang.Package();obj.getClass();}}

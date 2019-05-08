@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_getMinimumSpan_int{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.getMinimumSpan(-576864562);}}

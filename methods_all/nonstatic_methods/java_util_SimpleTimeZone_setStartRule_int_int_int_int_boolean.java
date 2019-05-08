@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_setStartRule_int_int_int_int_boolean{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.setStartRule(1486612515,2074065885,2046607889,1274300131,true);}}

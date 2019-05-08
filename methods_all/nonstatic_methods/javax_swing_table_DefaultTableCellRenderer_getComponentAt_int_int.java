@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_getComponentAt_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.getComponentAt(1727098869,1166935380);}}

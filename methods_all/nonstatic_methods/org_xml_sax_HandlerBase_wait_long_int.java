@@ -1,0 +1,1 @@
+class org_xml_sax_HandlerBase_wait_long_int{ public static void function() {org.xml.sax.HandlerBase obj = new org.xml.sax.HandlerBase();obj.wait(-752777835700266309,528373088);}}

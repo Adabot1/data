@@ -1,0 +1,1 @@
+class java_util_PropertyPermission_wait_long_int{ public static void function() {java.util.PropertyPermission obj = new java.util.PropertyPermission();obj.wait(-236704061078262501,71873008);}}

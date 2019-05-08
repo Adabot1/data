@@ -1,0 +1,1 @@
+class java_util_OptionalInt_toString{ public static void function() {java.util.OptionalInt obj = new java.util.OptionalInt();obj.toString();}}

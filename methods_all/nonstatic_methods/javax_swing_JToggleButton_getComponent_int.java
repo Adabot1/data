@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_getComponent_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.getComponent(1676482394);}}

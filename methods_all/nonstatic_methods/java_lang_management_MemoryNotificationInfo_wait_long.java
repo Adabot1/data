@@ -1,0 +1,1 @@
+class java_lang_management_MemoryNotificationInfo_wait_long{ public static void function() {java.lang.management.MemoryNotificationInfo obj = new java.lang.management.MemoryNotificationInfo();obj.wait(1561770586043597907);}}

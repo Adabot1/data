@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.paintImmediately(1742233868,1987038814,-946468595,-473613432);}}

@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_findComponentAt_int_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.findComponentAt(-1081824327,860759196);}}

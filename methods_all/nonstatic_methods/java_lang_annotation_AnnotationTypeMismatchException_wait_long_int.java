@@ -1,0 +1,1 @@
+class java_lang_annotation_AnnotationTypeMismatchException_wait_long_int{ public static void function() {java.lang.annotation.AnnotationTypeMismatchException obj = new java.lang.annotation.AnnotationTypeMismatchException();obj.wait(-6604485796861543978,1196059041);}}

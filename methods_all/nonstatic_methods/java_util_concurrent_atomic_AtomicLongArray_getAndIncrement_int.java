@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_getAndIncrement_int{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.getAndIncrement(-1250857257);}}

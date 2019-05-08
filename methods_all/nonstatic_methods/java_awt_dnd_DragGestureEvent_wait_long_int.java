@@ -1,0 +1,1 @@
+class java_awt_dnd_DragGestureEvent_wait_long_int{ public static void function() {java.awt.dnd.DragGestureEvent obj = new java.awt.dnd.DragGestureEvent();obj.wait(-4727530565988638554,-616372766);}}

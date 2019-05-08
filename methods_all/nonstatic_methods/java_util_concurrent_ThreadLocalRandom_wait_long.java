@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadLocalRandom_wait_long{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();obj.wait(-6178424094325797727);}}

@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_setRawOffset_int{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.setRawOffset(1173359620);}}

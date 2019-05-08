@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFField_getAsFloat_int{ public static void function() {javax.imageio.plugins.tiff.TIFFField obj = new javax.imageio.plugins.tiff.TIFFField();obj.getAsFloat(1014339752);}}

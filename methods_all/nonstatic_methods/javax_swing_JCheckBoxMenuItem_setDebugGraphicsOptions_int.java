@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.setDebugGraphicsOptions(1527353007);}}

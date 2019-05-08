@@ -1,0 +1,1 @@
+class javax_swing_text_PlainView_getMaximumSpan_int{ public static void function() {javax.swing.text.PlainView obj = new javax.swing.text.PlainView();obj.getMaximumSpan(550519845);}}

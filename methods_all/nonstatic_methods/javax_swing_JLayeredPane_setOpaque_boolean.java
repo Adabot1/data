@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_setOpaque_boolean{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.setOpaque(true);}}

@@ -1,0 +1,1 @@
+class java_awt_image_ReplicateScaleFilter_wait_long_int{ public static void function() {java.awt.image.ReplicateScaleFilter obj = new java.awt.image.ReplicateScaleFilter();obj.wait(5088974171714770056,-630701016);}}

@@ -1,0 +1,1 @@
+class javax_swing_DefaultSingleSelectionModel_hashCode{ public static void function() {javax.swing.DefaultSingleSelectionModel obj = new javax.swing.DefaultSingleSelectionModel();obj.hashCode();}}

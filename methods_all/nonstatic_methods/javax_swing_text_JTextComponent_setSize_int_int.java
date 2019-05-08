@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_setSize_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.setSize(1263095746,589500533);}}

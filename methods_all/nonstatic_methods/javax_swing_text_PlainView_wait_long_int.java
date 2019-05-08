@@ -1,0 +1,1 @@
+class javax_swing_text_PlainView_wait_long_int{ public static void function() {javax.swing.text.PlainView obj = new javax.swing.text.PlainView();obj.wait(-6657320967852903905,-1471618643);}}

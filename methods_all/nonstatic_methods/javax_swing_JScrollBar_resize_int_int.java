@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_resize_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.resize(1479969212,695223976);}}

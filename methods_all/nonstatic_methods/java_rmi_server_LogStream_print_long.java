@@ -1,0 +1,1 @@
+class java_rmi_server_LogStream_print_long{ public static void function() {java.rmi.server.LogStream obj = new java.rmi.server.LogStream();obj.print(7808260200454454093);}}

@@ -1,0 +1,1 @@
+class java_awt_Taskbar_notify{ public static void function() {java.awt.Taskbar obj = new java.awt.Taskbar();obj.notify();}}

@@ -1,0 +1,1 @@
+class java_awt_im_InputSubset_wait_long{ public static void function() {java.awt.im.InputSubset obj = new java.awt.im.InputSubset();obj.wait(6908847107022730097);}}

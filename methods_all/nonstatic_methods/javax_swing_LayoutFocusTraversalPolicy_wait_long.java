@@ -1,0 +1,1 @@
+class javax_swing_LayoutFocusTraversalPolicy_wait_long{ public static void function() {javax.swing.LayoutFocusTraversalPolicy obj = new javax.swing.LayoutFocusTraversalPolicy();obj.wait(4138837520927877330);}}

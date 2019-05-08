@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_repaint_int_int_int_int{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.repaint(-606543933,1661147511,-761096932,1647842615);}}

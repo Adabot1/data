@@ -1,0 +1,1 @@
+class javax_sql_rowset_RowSetWarning_fillInStackTrace{ public static void function() {javax.sql.rowset.RowSetWarning obj = new javax.sql.rowset.RowSetWarning();obj.fillInStackTrace();}}

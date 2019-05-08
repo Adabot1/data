@@ -1,0 +1,1 @@
+class javax_swing_border_AbstractBorder_wait_long{ public static void function() {javax.swing.border.AbstractBorder obj = new javax.swing.border.AbstractBorder();obj.wait(-3010573796657933796);}}

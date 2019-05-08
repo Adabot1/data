@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_ColorSupported_wait_long{ public static void function() {javax.print.attribute.standard.ColorSupported obj = new javax.print.attribute.standard.ColorSupported();obj.wait(-4319185055903026906);}}

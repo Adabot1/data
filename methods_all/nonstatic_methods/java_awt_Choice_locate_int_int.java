@@ -1,0 +1,1 @@
+class java_awt_Choice_locate_int_int{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.locate(-72586121,-413280680);}}

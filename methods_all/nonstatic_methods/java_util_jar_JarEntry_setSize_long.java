@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_setSize_long{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.setSize(-8543330385360669762);}}

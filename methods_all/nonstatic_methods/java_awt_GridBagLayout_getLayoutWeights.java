@@ -1,0 +1,1 @@
+class java_awt_GridBagLayout_getLayoutWeights{ public static void function() {java.awt.GridBagLayout obj = new java.awt.GridBagLayout();obj.getLayoutWeights();}}

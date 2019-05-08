@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_insert_int_float{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.insert(-150955025,0.7751966);}}

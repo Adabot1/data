@@ -1,0 +1,1 @@
+class java_awt_BufferCapabilities_wait_long{ public static void function() {java.awt.BufferCapabilities obj = new java.awt.BufferCapabilities();obj.wait(8099119699708954034);}}

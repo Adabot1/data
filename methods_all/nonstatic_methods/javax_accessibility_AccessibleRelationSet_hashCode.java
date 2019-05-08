@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleRelationSet_hashCode{ public static void function() {javax.accessibility.AccessibleRelationSet obj = new javax.accessibility.AccessibleRelationSet();obj.hashCode();}}

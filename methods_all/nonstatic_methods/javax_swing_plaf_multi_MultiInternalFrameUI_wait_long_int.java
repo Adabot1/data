@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiInternalFrameUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiInternalFrameUI obj = new javax.swing.plaf.multi.MultiInternalFrameUI();obj.wait(-2949304630787581166,1471647624);}}

@@ -1,0 +1,1 @@
+class javax_swing_Timer_wait_long_int{ public static void function() {javax.swing.Timer obj = new javax.swing.Timer();obj.wait(2792602478805396844,17023871);}}

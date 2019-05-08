@@ -1,0 +1,1 @@
+class java_util_concurrent_TimeUnit_values{ public static void function() {java.util.concurrent.TimeUnit.values();}}

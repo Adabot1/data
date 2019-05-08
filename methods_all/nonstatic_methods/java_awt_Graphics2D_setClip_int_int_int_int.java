@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_setClip_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.setClip(-1208758689,-541885665,1898182590,370171732);}}

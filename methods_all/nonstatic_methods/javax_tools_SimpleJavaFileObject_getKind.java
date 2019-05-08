@@ -1,0 +1,1 @@
+class javax_tools_SimpleJavaFileObject_getKind{ public static void function() {javax.tools.SimpleJavaFileObject obj = new javax.tools.SimpleJavaFileObject();obj.getKind();}}

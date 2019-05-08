@@ -1,0 +1,1 @@
+class java_lang_management_LockInfo_getIdentityHashCode{ public static void function() {java.lang.management.LockInfo obj = new java.lang.management.LockInfo();obj.getIdentityHashCode();}}

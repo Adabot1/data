@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_fillOval_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.fillOval(1284577395,1918206506,1434298253,174953296);}}

@@ -1,0 +1,1 @@
+class java_awt_print_Book_getPrintable_int{ public static void function() {java.awt.print.Book obj = new java.awt.print.Book();obj.getPrintable(916495833);}}

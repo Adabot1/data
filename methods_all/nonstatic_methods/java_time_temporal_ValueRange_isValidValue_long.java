@@ -1,0 +1,1 @@
+class java_time_temporal_ValueRange_isValidValue_long{ public static void function() {java.time.temporal.ValueRange obj = new java.time.temporal.ValueRange();obj.isValidValue(1250756080994748738);}}

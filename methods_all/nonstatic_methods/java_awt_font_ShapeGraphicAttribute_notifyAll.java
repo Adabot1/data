@@ -1,0 +1,1 @@
+class java_awt_font_ShapeGraphicAttribute_notifyAll{ public static void function() {java.awt.font.ShapeGraphicAttribute obj = new java.awt.font.ShapeGraphicAttribute();obj.notifyAll();}}

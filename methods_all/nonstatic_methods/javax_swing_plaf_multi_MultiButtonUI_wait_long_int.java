@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiButtonUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiButtonUI obj = new javax.swing.plaf.multi.MultiButtonUI();obj.wait(-3569355200218937397,-1476186514);}}

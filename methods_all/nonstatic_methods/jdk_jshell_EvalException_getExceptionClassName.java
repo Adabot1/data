@@ -1,0 +1,1 @@
+class jdk_jshell_EvalException_getExceptionClassName{ public static void function() {jdk.jshell.EvalException obj = new jdk.jshell.EvalException();obj.getExceptionClassName();}}

@@ -1,0 +1,1 @@
+class javax_swing_SwingUtilities_isEventDispatchThread{ public static void function() {javax.swing.SwingUtilities.isEventDispatchThread();}}

@@ -1,0 +1,1 @@
+class java_awt_Frame_getState{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.getState();}}

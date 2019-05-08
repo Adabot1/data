@@ -1,0 +1,1 @@
+class javax_swing_JPanel_setAlignmentX_float{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.setAlignmentX(0.84022933);}}

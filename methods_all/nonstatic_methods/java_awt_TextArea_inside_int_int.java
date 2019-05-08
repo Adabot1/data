@@ -1,0 +1,1 @@
+class java_awt_TextArea_inside_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.inside(-1668260440,94935961);}}

@@ -1,0 +1,1 @@
+class java_rmi_server_RMIClassLoader_wait{ public static void function() {java.rmi.server.RMIClassLoader obj = new java.rmi.server.RMIClassLoader();obj.wait();}}

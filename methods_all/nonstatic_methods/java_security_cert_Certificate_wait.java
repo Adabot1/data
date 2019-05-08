@@ -1,0 +1,1 @@
+class java_security_cert_Certificate_wait{ public static void function() {java.security.cert.Certificate obj = new java.security.cert.Certificate();obj.wait();}}

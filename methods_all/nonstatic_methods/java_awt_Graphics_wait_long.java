@@ -1,0 +1,1 @@
+class java_awt_Graphics_wait_long{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.wait(-7077905390047875976);}}

@@ -1,0 +1,1 @@
+class javax_swing_DefaultBoundedRangeModel_setRangeProperties_int_int_int_int_boolean{ public static void function() {javax.swing.DefaultBoundedRangeModel obj = new javax.swing.DefaultBoundedRangeModel();obj.setRangeProperties(1178735051,1640111368,-947306933,-1783127164,false);}}

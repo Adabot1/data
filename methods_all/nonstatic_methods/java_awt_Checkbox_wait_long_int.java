@@ -1,0 +1,1 @@
+class java_awt_Checkbox_wait_long_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.wait(-811349464494115371,1382909945);}}

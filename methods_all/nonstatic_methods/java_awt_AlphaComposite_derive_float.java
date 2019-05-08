@@ -1,0 +1,1 @@
+class java_awt_AlphaComposite_derive_float{ public static void function() {java.awt.AlphaComposite obj = new java.awt.AlphaComposite();obj.derive(0.12266582);}}

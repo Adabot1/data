@@ -1,0 +1,1 @@
+class java_lang_Short_reverseBytes_short{ public static void function() {java.lang.Short.reverseBytes(12532);}}

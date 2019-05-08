@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_repaint_long{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.repaint(-7939358011957095118);}}

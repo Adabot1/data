@@ -1,0 +1,1 @@
+class javax_swing_JMenu_repaint{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.repaint();}}

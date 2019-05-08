@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_getDefaultLocale{ public static void function() {javax.swing.JOptionPane.getDefaultLocale();}}

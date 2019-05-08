@@ -1,0 +1,1 @@
+class javax_xml_datatype_Duration_multiply_int{ public static void function() {javax.xml.datatype.Duration obj = new javax.xml.datatype.Duration();obj.multiply(-1616510010);}}

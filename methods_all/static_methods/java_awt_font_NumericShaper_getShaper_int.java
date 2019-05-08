@@ -1,0 +1,1 @@
+class java_awt_font_NumericShaper_getShaper_int{ public static void function() {java.awt.font.NumericShaper.getShaper(-1846665806);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_TimeUnit_sleep_long{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();obj.sleep(-4578872665801631748);}}

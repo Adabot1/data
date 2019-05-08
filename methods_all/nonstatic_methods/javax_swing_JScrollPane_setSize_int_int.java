@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_setSize_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.setSize(1028242892,-1589279768);}}

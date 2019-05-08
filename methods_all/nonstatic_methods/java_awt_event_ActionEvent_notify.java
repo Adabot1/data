@@ -1,0 +1,1 @@
+class java_awt_event_ActionEvent_notify{ public static void function() {java.awt.event.ActionEvent obj = new java.awt.event.ActionEvent();obj.notify();}}

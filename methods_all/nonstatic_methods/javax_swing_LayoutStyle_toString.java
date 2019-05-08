@@ -1,0 +1,1 @@
+class javax_swing_LayoutStyle_toString{ public static void function() {javax.swing.LayoutStyle obj = new javax.swing.LayoutStyle();obj.toString();}}

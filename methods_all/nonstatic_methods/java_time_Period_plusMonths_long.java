@@ -1,0 +1,1 @@
+class java_time_Period_plusMonths_long{ public static void function() {java.time.Period obj = new java.time.Period();obj.plusMonths(-3388711479670703461);}}

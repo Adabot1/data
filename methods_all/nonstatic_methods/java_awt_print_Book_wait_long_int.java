@@ -1,0 +1,1 @@
+class java_awt_print_Book_wait_long_int{ public static void function() {java.awt.print.Book obj = new java.awt.print.Book();obj.wait(2708751997696021307,718394321);}}

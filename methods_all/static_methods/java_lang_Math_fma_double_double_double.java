@@ -1,0 +1,1 @@
+class java_lang_Math_fma_double_double_double{ public static void function() {java.lang.Math.fma(0.9348542470776069,0.16287433981344468,0.10229700828247101);}}

@@ -1,0 +1,1 @@
+class java_net_URISyntaxException_fillInStackTrace{ public static void function() {java.net.URISyntaxException obj = new java.net.URISyntaxException();obj.fillInStackTrace();}}

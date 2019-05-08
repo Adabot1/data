@@ -1,0 +1,1 @@
+class java_text_ParsePosition_setIndex_int{ public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();obj.setIndex(2066302152);}}

@@ -1,0 +1,1 @@
+class java_awt_FocusTraversalPolicy_wait_long_int{ public static void function() {java.awt.FocusTraversalPolicy obj = new java.awt.FocusTraversalPolicy();obj.wait(1450486613753166890,-1430801474);}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_HandshakeCompletedEvent_getPeerPrincipal{ public static void function() {javax.net.ssl.HandshakeCompletedEvent obj = new javax.net.ssl.HandshakeCompletedEvent();obj.getPeerPrincipal();}}

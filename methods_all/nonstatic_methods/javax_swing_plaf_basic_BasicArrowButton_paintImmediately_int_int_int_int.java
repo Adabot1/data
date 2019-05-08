@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicArrowButton_paintImmediately_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicArrowButton obj = new javax.swing.plaf.basic.BasicArrowButton();obj.paintImmediately(625062443,2091935879,730593420,-760991602);}}

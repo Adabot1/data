@@ -1,0 +1,1 @@
+class java_rmi_RemoteException_getStackTrace{ public static void function() {java.rmi.RemoteException obj = new java.rmi.RemoteException();obj.getStackTrace();}}

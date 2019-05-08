@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLDocument_createPosition_int{ public static void function() {javax.swing.text.html.HTMLDocument obj = new javax.swing.text.html.HTMLDocument();obj.createPosition(-1086248487);}}

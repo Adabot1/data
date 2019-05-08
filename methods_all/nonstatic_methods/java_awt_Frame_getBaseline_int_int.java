@@ -1,0 +1,1 @@
+class java_awt_Frame_getBaseline_int_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.getBaseline(1107671461,-1569722871);}}

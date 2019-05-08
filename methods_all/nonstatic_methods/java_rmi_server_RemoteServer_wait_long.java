@@ -1,0 +1,1 @@
+class java_rmi_server_RemoteServer_wait_long{ public static void function() {java.rmi.server.RemoteServer obj = new java.rmi.server.RemoteServer();obj.wait(-6955622940426490622);}}

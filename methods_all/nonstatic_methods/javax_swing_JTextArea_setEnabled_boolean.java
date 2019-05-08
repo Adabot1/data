@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_setEnabled_boolean{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.setEnabled(false);}}

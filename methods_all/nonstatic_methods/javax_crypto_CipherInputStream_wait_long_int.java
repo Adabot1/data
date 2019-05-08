@@ -1,0 +1,1 @@
+class javax_crypto_CipherInputStream_wait_long_int{ public static void function() {javax.crypto.CipherInputStream obj = new javax.crypto.CipherInputStream();obj.wait(3984666217695062528,-1520463925);}}

@@ -1,0 +1,1 @@
+class java_io_StringWriter_wait_long_int{ public static void function() {java.io.StringWriter obj = new java.io.StringWriter();obj.wait(-441994757638268041,-28013634);}}

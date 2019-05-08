@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_createImage_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.createImage(1452796318,-584660415);}}

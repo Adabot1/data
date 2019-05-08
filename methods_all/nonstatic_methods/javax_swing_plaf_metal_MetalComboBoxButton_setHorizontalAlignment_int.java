@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_setHorizontalAlignment_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.setHorizontalAlignment(-1240318062);}}

@@ -1,0 +1,1 @@
+class java_io_StringReader_skip_long{ public static void function() {java.io.StringReader obj = new java.io.StringReader();obj.skip(-4639173167777768802);}}

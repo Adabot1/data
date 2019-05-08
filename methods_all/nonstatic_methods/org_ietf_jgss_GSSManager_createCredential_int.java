@@ -1,0 +1,1 @@
+class org_ietf_jgss_GSSManager_createCredential_int{ public static void function() {org.ietf.jgss.GSSManager obj = new org.ietf.jgss.GSSManager();obj.createCredential(1417225196);}}

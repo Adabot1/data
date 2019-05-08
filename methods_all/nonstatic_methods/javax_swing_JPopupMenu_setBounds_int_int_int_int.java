@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_setBounds_int_int_int_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.setBounds(-722145406,-1115258967,-1604737324,1934506730);}}

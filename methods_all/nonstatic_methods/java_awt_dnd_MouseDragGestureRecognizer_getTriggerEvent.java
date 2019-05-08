@@ -1,0 +1,1 @@
+class java_awt_dnd_MouseDragGestureRecognizer_getTriggerEvent{ public static void function() {java.awt.dnd.MouseDragGestureRecognizer obj = new java.awt.dnd.MouseDragGestureRecognizer();obj.getTriggerEvent();}}

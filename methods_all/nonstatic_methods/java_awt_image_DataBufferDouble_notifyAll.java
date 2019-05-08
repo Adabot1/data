@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferDouble_notifyAll{ public static void function() {java.awt.image.DataBufferDouble obj = new java.awt.image.DataBufferDouble();obj.notifyAll();}}

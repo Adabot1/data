@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_resize_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.resize(-2114998689,-733847839);}}

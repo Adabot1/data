@@ -1,0 +1,1 @@
+class java_net_InterfaceAddress_wait_long_int{ public static void function() {java.net.InterfaceAddress obj = new java.net.InterfaceAddress();obj.wait(-5724374907745760600,561547737);}}

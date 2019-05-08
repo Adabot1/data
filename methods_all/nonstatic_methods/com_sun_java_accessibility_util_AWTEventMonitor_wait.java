@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_AWTEventMonitor_wait{ public static void function() {com.sun.java.accessibility.util.AWTEventMonitor obj = new com.sun.java.accessibility.util.AWTEventMonitor();obj.wait();}}

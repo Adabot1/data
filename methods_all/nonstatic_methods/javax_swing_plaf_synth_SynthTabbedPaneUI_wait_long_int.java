@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTabbedPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthTabbedPaneUI obj = new javax.swing.plaf.synth.SynthTabbedPaneUI();obj.wait(1015330868723000479,-557763791);}}

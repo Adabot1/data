@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthRootPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthRootPaneUI obj = new javax.swing.plaf.synth.SynthRootPaneUI();obj.wait(8740163172876164100,-1280527578);}}

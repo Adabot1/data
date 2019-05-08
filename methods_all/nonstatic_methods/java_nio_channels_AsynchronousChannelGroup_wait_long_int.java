@@ -1,0 +1,1 @@
+class java_nio_channels_AsynchronousChannelGroup_wait_long_int{ public static void function() {java.nio.channels.AsynchronousChannelGroup obj = new java.nio.channels.AsynchronousChannelGroup();obj.wait(3919656517165277401,963773541);}}

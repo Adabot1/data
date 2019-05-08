@@ -1,0 +1,1 @@
+class java_awt_geom_Line2D_setLine_double_double_double_double{ public static void function() {java.awt.geom.Line2D obj = new java.awt.geom.Line2D();obj.setLine(0.22174221056681775,0.9426353888342481,0.8848045704478066,0.5940135003957508);}}

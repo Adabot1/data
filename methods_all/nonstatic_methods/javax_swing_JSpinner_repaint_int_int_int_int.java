@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_repaint_int_int_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.repaint(-580321370,2129162896,-1748050529,-19827598);}}

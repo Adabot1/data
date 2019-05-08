@@ -1,0 +1,1 @@
+class javax_swing_JWindow_setOpacity_float{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.setOpacity(0.05380988);}}

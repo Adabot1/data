@@ -1,0 +1,1 @@
+class java_net_Socket_wait_long{ public static void function() {java.net.Socket obj = new java.net.Socket();obj.wait(-7938305167477687328);}}

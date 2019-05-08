@@ -1,0 +1,1 @@
+class java_lang_Long_numberOfLeadingZeros_long{ public static void function() {java.lang.Long.numberOfLeadingZeros(-4345360926379214961);}}

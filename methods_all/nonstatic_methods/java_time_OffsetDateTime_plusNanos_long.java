@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_plusNanos_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.plusNanos(6481162099750554703);}}

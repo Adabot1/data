@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthColorChooserUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthColorChooserUI obj = new javax.swing.plaf.synth.SynthColorChooserUI();obj.wait(-6949072180920663961,426546047);}}

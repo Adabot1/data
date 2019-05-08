@@ -1,0 +1,1 @@
+class java_lang_StrictMath_copySign_float_float{ public static void function() {java.lang.StrictMath.copySign(0.079601645,0.5625993);}}

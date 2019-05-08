@@ -1,0 +1,1 @@
+class java_awt_image_PackedColorModel_getBlue_int{ public static void function() {java.awt.image.PackedColorModel obj = new java.awt.image.PackedColorModel();obj.getBlue(732807600);}}

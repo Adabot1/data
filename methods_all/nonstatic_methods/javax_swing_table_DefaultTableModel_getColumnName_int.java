@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableModel_getColumnName_int{ public static void function() {javax.swing.table.DefaultTableModel obj = new javax.swing.table.DefaultTableModel();obj.getColumnName(1990131318);}}

@@ -1,0 +1,1 @@
+class java_awt_List_repaint_long_int_int_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.repaint(454397557245534277,-1187071322,1695606306,310710346,-1258768381);}}

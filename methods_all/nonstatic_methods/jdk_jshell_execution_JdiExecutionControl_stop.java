@@ -1,0 +1,1 @@
+class jdk_jshell_execution_JdiExecutionControl_stop{ public static void function() {jdk.jshell.execution.JdiExecutionControl obj = new jdk.jshell.execution.JdiExecutionControl();obj.stop();}}

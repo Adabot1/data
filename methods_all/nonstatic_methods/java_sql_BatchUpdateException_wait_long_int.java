@@ -1,0 +1,1 @@
+class java_sql_BatchUpdateException_wait_long_int{ public static void function() {java.sql.BatchUpdateException obj = new java.sql.BatchUpdateException();obj.wait(-8327242780369585703,1818626791);}}

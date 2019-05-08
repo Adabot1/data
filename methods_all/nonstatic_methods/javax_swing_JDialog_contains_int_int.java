@@ -1,0 +1,1 @@
+class javax_swing_JDialog_contains_int_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.contains(1425860837,438797681);}}

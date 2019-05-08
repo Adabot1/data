@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_setPopupSize_int_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.setPopupSize(-1214117146,-492318265);}}

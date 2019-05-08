@@ -1,0 +1,1 @@
+class javax_swing_text_IconView_setSize_float_float{ public static void function() {javax.swing.text.IconView obj = new javax.swing.text.IconView();obj.setSize(0.46258467,0.3930853);}}

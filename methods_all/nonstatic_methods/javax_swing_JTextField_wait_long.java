@@ -1,0 +1,1 @@
+class javax_swing_JTextField_wait_long{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.wait(1196534825471866017);}}

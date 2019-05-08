@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_contains_double_double{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.contains(0.6290425631506971,0.637296680921818);}}

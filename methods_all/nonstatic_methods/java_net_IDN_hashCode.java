@@ -1,0 +1,1 @@
+class java_net_IDN_hashCode{ public static void function() {java.net.IDN obj = new java.net.IDN();obj.hashCode();}}

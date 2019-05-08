@@ -1,0 +1,1 @@
+class javax_crypto_ExemptionMechanismSpi_wait_long{ public static void function() {javax.crypto.ExemptionMechanismSpi obj = new javax.crypto.ExemptionMechanismSpi();obj.wait(432516771133505027);}}

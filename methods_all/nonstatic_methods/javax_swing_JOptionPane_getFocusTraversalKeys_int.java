@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_getFocusTraversalKeys_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.getFocusTraversalKeys(-318383200);}}

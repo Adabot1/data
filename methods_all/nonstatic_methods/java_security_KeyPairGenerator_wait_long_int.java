@@ -1,0 +1,1 @@
+class java_security_KeyPairGenerator_wait_long_int{ public static void function() {java.security.KeyPairGenerator obj = new java.security.KeyPairGenerator();obj.wait(-6684519224086386982,1146166233);}}

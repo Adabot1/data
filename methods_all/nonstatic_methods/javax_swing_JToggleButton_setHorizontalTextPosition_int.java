@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_setHorizontalTextPosition_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.setHorizontalTextPosition(-186466149);}}

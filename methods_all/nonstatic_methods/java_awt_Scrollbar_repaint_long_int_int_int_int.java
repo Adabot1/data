@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_repaint_long_int_int_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.repaint(9088656116117324462,-1704627474,1762182529,-160732831,-836168688);}}

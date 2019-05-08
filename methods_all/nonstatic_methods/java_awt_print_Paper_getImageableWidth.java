@@ -1,0 +1,1 @@
+class java_awt_print_Paper_getImageableWidth{ public static void function() {java.awt.print.Paper obj = new java.awt.print.Paper();obj.getImageableWidth();}}

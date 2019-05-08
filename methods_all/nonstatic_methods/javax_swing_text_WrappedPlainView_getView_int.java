@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_getView_int{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.getView(-608505056);}}

@@ -1,0 +1,1 @@
+class java_util_Observable_wait_long_int{ public static void function() {java.util.Observable obj = new java.util.Observable();obj.wait(-8176001121768300679,889080947);}}

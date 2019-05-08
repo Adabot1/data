@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalInternalFrameTitlePane_createVolatileImage_int_int{ public static void function() {javax.swing.plaf.metal.MetalInternalFrameTitlePane obj = new javax.swing.plaf.metal.MetalInternalFrameTitlePane();obj.createVolatileImage(1398395755,-523558525);}}

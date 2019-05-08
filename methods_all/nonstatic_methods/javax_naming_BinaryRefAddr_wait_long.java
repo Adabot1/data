@@ -1,0 +1,1 @@
+class javax_naming_BinaryRefAddr_wait_long{ public static void function() {javax.naming.BinaryRefAddr obj = new javax.naming.BinaryRefAddr();obj.wait(816517978755106669);}}

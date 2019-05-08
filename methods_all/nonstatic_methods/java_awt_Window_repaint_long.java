@@ -1,0 +1,1 @@
+class java_awt_Window_repaint_long{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.repaint(6120496835959374217);}}

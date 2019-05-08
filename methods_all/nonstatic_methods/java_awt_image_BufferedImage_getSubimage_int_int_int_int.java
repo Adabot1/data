@@ -1,0 +1,1 @@
+class java_awt_image_BufferedImage_getSubimage_int_int_int_int{ public static void function() {java.awt.image.BufferedImage obj = new java.awt.image.BufferedImage();obj.getSubimage(-1464240820,1978334723,1084400214,-776771053);}}

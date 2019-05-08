@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicDirectoryModel_getDirectories{ public static void function() {javax.swing.plaf.basic.BasicDirectoryModel obj = new javax.swing.plaf.basic.BasicDirectoryModel();obj.getDirectories();}}

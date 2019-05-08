@@ -1,0 +1,1 @@
+class javax_swing_border_CompoundBorder_getClass{ public static void function() {javax.swing.border.CompoundBorder obj = new javax.swing.border.CompoundBorder();obj.getClass();}}

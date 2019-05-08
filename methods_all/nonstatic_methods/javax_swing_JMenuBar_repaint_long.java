@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_repaint_long{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.repaint(-4363476116270654444);}}

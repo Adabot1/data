@@ -1,0 +1,1 @@
+class java_io_LineNumberReader_wait_long_int{ public static void function() {java.io.LineNumberReader obj = new java.io.LineNumberReader();obj.wait(9057195851048381372,1479943074);}}

@@ -1,0 +1,1 @@
+class javax_sound_sampled_spi_AudioFileWriter_wait_long_int{ public static void function() {javax.sound.sampled.spi.AudioFileWriter obj = new javax.sound.sampled.spi.AudioFileWriter();obj.wait(-7360430121639929793,732135599);}}

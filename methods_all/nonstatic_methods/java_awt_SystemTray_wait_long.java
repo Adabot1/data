@@ -1,0 +1,1 @@
+class java_awt_SystemTray_wait_long{ public static void function() {java.awt.SystemTray obj = new java.awt.SystemTray();obj.wait(7467067650082086927);}}

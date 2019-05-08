@@ -1,0 +1,1 @@
+class java_awt_Component_setSize_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.setSize(1419851736,1793273134);}}

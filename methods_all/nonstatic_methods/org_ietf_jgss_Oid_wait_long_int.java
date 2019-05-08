@@ -1,0 +1,1 @@
+class org_ietf_jgss_Oid_wait_long_int{ public static void function() {org.ietf.jgss.Oid obj = new org.ietf.jgss.Oid();obj.wait(6388096627613573880,-1580848336);}}

@@ -1,0 +1,1 @@
+class javax_swing_JComponent_wait_long{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.wait(-3747073101382455229);}}

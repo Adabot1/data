@@ -1,0 +1,1 @@
+class java_awt_image_BandCombineOp_wait_long_int{ public static void function() {java.awt.image.BandCombineOp obj = new java.awt.image.BandCombineOp();obj.wait(7086026468108033807,1179633703);}}

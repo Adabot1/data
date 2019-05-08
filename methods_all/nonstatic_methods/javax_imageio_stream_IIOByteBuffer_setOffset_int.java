@@ -1,0 +1,1 @@
+class javax_imageio_stream_IIOByteBuffer_setOffset_int{ public static void function() {javax.imageio.stream.IIOByteBuffer obj = new javax.imageio.stream.IIOByteBuffer();obj.setOffset(-330513515);}}

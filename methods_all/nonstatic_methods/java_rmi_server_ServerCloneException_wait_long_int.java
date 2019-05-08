@@ -1,0 +1,1 @@
+class java_rmi_server_ServerCloneException_wait_long_int{ public static void function() {java.rmi.server.ServerCloneException obj = new java.rmi.server.ServerCloneException();obj.wait(-6124967644522151202,-590072232);}}

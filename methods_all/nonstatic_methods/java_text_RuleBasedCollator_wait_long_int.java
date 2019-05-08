@@ -1,0 +1,1 @@
+class java_text_RuleBasedCollator_wait_long_int{ public static void function() {java.text.RuleBasedCollator obj = new java.text.RuleBasedCollator();obj.wait(5880706487140748154,969334021);}}

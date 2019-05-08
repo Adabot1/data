@@ -1,0 +1,1 @@
+class java_security_SignedObject_wait_long_int{ public static void function() {java.security.SignedObject obj = new java.security.SignedObject();obj.wait(-2326759081272482359,201274771);}}

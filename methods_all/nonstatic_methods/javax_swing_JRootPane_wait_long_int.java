@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_wait_long_int{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.wait(7671673391061020394,188708949);}}

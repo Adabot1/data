@@ -1,0 +1,1 @@
+class java_security_SecureRandom_doubles_double_double{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();obj.doubles(0.40520201020907354,0.3677888882859459);}}

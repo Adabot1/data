@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_getPreferredSize{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.getPreferredSize();}}

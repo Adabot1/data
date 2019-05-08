@@ -1,0 +1,1 @@
+class java_time_LocalDate_minusMonths_long{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();obj.minusMonths(6999499729865195058);}}

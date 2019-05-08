@@ -1,0 +1,1 @@
+class java_lang_Thread_getUncaughtExceptionHandler{ public static void function() {java.lang.Thread obj = new java.lang.Thread();obj.getUncaughtExceptionHandler();}}

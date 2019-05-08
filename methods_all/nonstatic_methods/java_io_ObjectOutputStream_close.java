@@ -1,0 +1,1 @@
+class java_io_ObjectOutputStream_close{ public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();obj.close();}}

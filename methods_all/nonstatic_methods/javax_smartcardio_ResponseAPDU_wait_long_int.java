@@ -1,0 +1,1 @@
+class javax_smartcardio_ResponseAPDU_wait_long_int{ public static void function() {javax.smartcardio.ResponseAPDU obj = new javax.smartcardio.ResponseAPDU();obj.wait(5165087290940281888,-646419640);}}

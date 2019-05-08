@@ -1,0 +1,1 @@
+class java_awt_TextField_getPreferredSize_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.getPreferredSize(-1000196664);}}

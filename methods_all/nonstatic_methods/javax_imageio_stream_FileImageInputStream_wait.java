@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileImageInputStream_wait{ public static void function() {javax.imageio.stream.FileImageInputStream obj = new javax.imageio.stream.FileImageInputStream();obj.wait();}}

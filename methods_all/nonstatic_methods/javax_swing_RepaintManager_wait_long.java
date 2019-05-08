@@ -1,0 +1,1 @@
+class javax_swing_RepaintManager_wait_long{ public static void function() {javax.swing.RepaintManager obj = new javax.swing.RepaintManager();obj.wait(228783976716009906);}}

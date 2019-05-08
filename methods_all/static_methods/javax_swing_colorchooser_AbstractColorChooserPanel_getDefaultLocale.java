@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_getDefaultLocale{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_set_int_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.set(-1346157530,-2461248732246311020);}}

@@ -1,0 +1,1 @@
+class java_awt_font_FontRenderContext_notifyAll{ public static void function() {java.awt.font.FontRenderContext obj = new java.awt.font.FontRenderContext();obj.notifyAll();}}

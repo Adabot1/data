@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_hitClip_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.hitClip(1982147651,-1493637030,1105993398,599486863);}}

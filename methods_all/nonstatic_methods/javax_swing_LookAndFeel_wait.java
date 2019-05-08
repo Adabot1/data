@@ -1,0 +1,1 @@
+class javax_swing_LookAndFeel_wait{ public static void function() {javax.swing.LookAndFeel obj = new javax.swing.LookAndFeel();obj.wait();}}

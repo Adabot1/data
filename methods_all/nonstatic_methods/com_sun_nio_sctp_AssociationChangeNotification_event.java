@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_AssociationChangeNotification_event{ public static void function() {com.sun.nio.sctp.AssociationChangeNotification obj = new com.sun.nio.sctp.AssociationChangeNotification();obj.event();}}

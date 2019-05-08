@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFField_getTypeName_int{ public static void function() {javax.imageio.plugins.tiff.TIFFField.getTypeName(1425871727);}}

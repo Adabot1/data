@@ -1,0 +1,1 @@
+class java_awt_TextComponent_setBounds_int_int_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.setBounds(-2058025325,-336825703,-2129629835,1347109964);}}

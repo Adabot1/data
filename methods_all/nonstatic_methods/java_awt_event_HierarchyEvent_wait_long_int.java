@@ -1,0 +1,1 @@
+class java_awt_event_HierarchyEvent_wait_long_int{ public static void function() {java.awt.event.HierarchyEvent obj = new java.awt.event.HierarchyEvent();obj.wait(-188122710503023927,-813665370);}}

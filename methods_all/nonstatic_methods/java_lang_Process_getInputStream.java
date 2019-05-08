@@ -1,0 +1,1 @@
+class java_lang_Process_getInputStream{ public static void function() {java.lang.Process obj = new java.lang.Process();obj.getInputStream();}}

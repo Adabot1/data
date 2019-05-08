@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_move_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.move(-1435144296,-454505746);}}

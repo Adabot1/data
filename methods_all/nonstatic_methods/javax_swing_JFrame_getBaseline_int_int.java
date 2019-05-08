@@ -1,0 +1,1 @@
+class javax_swing_JFrame_getBaseline_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.getBaseline(-1945219120,1472458772);}}

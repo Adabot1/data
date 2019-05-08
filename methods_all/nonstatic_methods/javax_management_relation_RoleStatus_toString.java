@@ -1,0 +1,1 @@
+class javax_management_relation_RoleStatus_toString{ public static void function() {javax.management.relation.RoleStatus obj = new javax.management.relation.RoleStatus();obj.toString();}}

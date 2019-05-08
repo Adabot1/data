@@ -1,0 +1,1 @@
+class java_awt_Label_setBounds_int_int_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.setBounds(-2025391599,-1026234919,797950388,-910457852);}}

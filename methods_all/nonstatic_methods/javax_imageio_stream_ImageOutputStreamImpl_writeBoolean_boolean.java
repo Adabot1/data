@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageOutputStreamImpl_writeBoolean_boolean{ public static void function() {javax.imageio.stream.ImageOutputStreamImpl obj = new javax.imageio.stream.ImageOutputStreamImpl();obj.writeBoolean(false);}}

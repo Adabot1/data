@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadPoolExecutor_getThreadFactory{ public static void function() {java.util.concurrent.ThreadPoolExecutor obj = new java.util.concurrent.ThreadPoolExecutor();obj.getThreadFactory();}}

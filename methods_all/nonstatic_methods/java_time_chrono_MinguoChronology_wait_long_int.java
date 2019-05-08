@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoChronology_wait_long_int{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();obj.wait(-4755936378572271787,-1081184337);}}

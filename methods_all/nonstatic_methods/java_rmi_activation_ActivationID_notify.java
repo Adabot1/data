@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationID_notify{ public static void function() {java.rmi.activation.ActivationID obj = new java.rmi.activation.ActivationID();obj.notify();}}

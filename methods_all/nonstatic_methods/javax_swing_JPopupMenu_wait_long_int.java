@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_wait_long_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.wait(7441160698654217833,20099836);}}

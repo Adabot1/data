@@ -1,0 +1,1 @@
+class java_time_LocalTime_ofSecondOfDay_long{ public static void function() {java.time.LocalTime.ofSecondOfDay(233640233070746508);}}

@@ -1,0 +1,1 @@
+class javax_imageio_stream_MemoryCacheImageOutputStream_wait_long_int{ public static void function() {javax.imageio.stream.MemoryCacheImageOutputStream obj = new javax.imageio.stream.MemoryCacheImageOutputStream();obj.wait(-7085897412267954622,-1108732414);}}

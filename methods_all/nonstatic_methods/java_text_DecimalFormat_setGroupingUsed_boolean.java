@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_setGroupingUsed_boolean{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.setGroupingUsed(true);}}

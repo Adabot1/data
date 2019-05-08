@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedStackTrace_wait_long{ public static void function() {jdk.jfr.consumer.RecordedStackTrace obj = new jdk.jfr.consumer.RecordedStackTrace();obj.wait(-4722395440601353386);}}

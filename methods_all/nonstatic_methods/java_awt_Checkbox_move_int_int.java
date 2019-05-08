@@ -1,0 +1,1 @@
+class java_awt_Checkbox_move_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.move(-1608964629,1926211199);}}

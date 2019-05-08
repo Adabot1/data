@@ -1,0 +1,1 @@
+class javax_swing_JMenuItem_wait_long{ public static void function() {javax.swing.JMenuItem obj = new javax.swing.JMenuItem();obj.wait(-8996349650060019276);}}

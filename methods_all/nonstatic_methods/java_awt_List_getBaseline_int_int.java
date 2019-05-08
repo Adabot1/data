@@ -1,0 +1,1 @@
+class java_awt_List_getBaseline_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.getBaseline(742561893,-326422689);}}

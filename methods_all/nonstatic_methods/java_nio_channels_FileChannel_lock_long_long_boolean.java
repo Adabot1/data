@@ -1,0 +1,1 @@
+class java_nio_channels_FileChannel_lock_long_long_boolean{ public static void function() {java.nio.channels.FileChannel obj = new java.nio.channels.FileChannel();obj.lock(4713346314838093694,1350304902253453570,true);}}

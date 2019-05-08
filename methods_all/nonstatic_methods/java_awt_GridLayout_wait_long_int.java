@@ -1,0 +1,1 @@
+class java_awt_GridLayout_wait_long_int{ public static void function() {java.awt.GridLayout obj = new java.awt.GridLayout();obj.wait(1774896298991025924,550765129);}}

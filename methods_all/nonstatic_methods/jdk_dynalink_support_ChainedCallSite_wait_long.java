@@ -1,0 +1,1 @@
+class jdk_dynalink_support_ChainedCallSite_wait_long{ public static void function() {jdk.dynalink.support.ChainedCallSite obj = new jdk.dynalink.support.ChainedCallSite();obj.wait(-9044361727689991978);}}

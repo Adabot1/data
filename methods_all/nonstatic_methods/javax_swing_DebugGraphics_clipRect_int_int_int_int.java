@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_clipRect_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.clipRect(467268620,1933785470,-1686613601,773752833);}}

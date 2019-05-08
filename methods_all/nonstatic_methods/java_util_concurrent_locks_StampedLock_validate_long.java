@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_validate_long{ public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();obj.validate(-7914535190449602974);}}

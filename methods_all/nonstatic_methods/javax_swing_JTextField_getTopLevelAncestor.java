@@ -1,0 +1,1 @@
+class javax_swing_JTextField_getTopLevelAncestor{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.getTopLevelAncestor();}}

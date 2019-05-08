@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthCheckBoxMenuItemUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthCheckBoxMenuItemUI obj = new javax.swing.plaf.synth.SynthCheckBoxMenuItemUI();obj.wait(-5953236885037531196,1779269022);}}

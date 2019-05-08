@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalLabelUI_notifyAll{ public static void function() {javax.swing.plaf.metal.MetalLabelUI obj = new javax.swing.plaf.metal.MetalLabelUI();obj.notifyAll();}}

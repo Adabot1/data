@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_findComponentAt_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.findComponentAt(-779581074,-743232093);}}

@@ -1,0 +1,1 @@
+class java_awt_MultipleGradientPaint_notifyAll{ public static void function() {java.awt.MultipleGradientPaint obj = new java.awt.MultipleGradientPaint();obj.notifyAll();}}

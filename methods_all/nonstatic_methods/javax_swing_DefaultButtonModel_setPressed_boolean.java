@@ -1,0 +1,1 @@
+class javax_swing_DefaultButtonModel_setPressed_boolean{ public static void function() {javax.swing.DefaultButtonModel obj = new javax.swing.DefaultButtonModel();obj.setPressed(false);}}

@@ -1,0 +1,1 @@
+class javax_swing_JApplet_getBaseline_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.getBaseline(813966526,130440581);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_compareAndExchangeAcquire_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.compareAndExchangeAcquire(-8375705883430193236,2855282071780058218);}}

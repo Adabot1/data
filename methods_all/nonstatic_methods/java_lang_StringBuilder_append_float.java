@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_append_float{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.append(0.075016916);}}

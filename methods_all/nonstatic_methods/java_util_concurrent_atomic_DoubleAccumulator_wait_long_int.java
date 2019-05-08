@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_DoubleAccumulator_wait_long_int{ public static void function() {java.util.concurrent.atomic.DoubleAccumulator obj = new java.util.concurrent.atomic.DoubleAccumulator();obj.wait(-2485377175068577573,-1239334838);}}

@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_setClip_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.setClip(780271776,1701767313,-733825433,-1792256414);}}

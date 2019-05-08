@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_reshape_int_int_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.reshape(-847635937,-21699306,-318136047,-616318077);}}

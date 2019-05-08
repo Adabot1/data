@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_setBounds_int_int_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.setBounds(-2037834664,-1545912558,262255633,1848243723);}}

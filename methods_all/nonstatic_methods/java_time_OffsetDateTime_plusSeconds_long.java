@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_plusSeconds_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.plusSeconds(-6147611700112688790);}}

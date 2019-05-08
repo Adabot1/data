@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_inside_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.inside(139497702,867404400);}}

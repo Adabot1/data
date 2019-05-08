@@ -1,0 +1,1 @@
+class java_awt_font_GlyphVector_wait_long{ public static void function() {java.awt.font.GlyphVector obj = new java.awt.font.GlyphVector();obj.wait(-4721288602569226079);}}

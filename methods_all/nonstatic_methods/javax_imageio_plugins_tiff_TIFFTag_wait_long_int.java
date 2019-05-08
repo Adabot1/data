@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFTag_wait_long_int{ public static void function() {javax.imageio.plugins.tiff.TIFFTag obj = new javax.imageio.plugins.tiff.TIFFTag();obj.wait(-5497520795093011691,-1852223698);}}

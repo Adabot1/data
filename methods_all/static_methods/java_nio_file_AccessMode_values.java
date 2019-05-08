@@ -1,0 +1,1 @@
+class java_nio_file_AccessMode_values{ public static void function() {java.nio.file.AccessMode.values();}}

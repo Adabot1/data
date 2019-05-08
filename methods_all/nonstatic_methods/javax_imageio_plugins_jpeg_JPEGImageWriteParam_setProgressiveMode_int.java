@@ -1,0 +1,1 @@
+class javax_imageio_plugins_jpeg_JPEGImageWriteParam_setProgressiveMode_int{ public static void function() {javax.imageio.plugins.jpeg.JPEGImageWriteParam obj = new javax.imageio.plugins.jpeg.JPEGImageWriteParam();obj.setProgressiveMode(1368948944);}}

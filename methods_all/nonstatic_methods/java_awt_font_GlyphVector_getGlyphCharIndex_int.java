@@ -1,0 +1,1 @@
+class java_awt_font_GlyphVector_getGlyphCharIndex_int{ public static void function() {java.awt.font.GlyphVector obj = new java.awt.font.GlyphVector();obj.getGlyphCharIndex(2140554896);}}

@@ -1,0 +1,1 @@
+class java_awt_Dialog_getBaseline_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.getBaseline(-584343257,1597554104);}}

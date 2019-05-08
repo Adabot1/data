@@ -1,0 +1,1 @@
+class java_awt_geom_RoundRectangle2D_setRoundRect_double_double_double_double_double_double{ public static void function() {java.awt.geom.RoundRectangle2D obj = new java.awt.geom.RoundRectangle2D();obj.setRoundRect(0.6496401438917234,0.7249330222957366,0.8375466888287898,0.9828435436229039,0.12658652269204684,0.17917335991244465);}}

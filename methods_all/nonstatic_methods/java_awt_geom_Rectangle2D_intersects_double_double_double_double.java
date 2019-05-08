@@ -1,0 +1,1 @@
+class java_awt_geom_Rectangle2D_intersects_double_double_double_double{ public static void function() {java.awt.geom.Rectangle2D obj = new java.awt.geom.Rectangle2D();obj.intersects(0.4841701659733708,0.13401645400204432,0.3959523104812157,0.12333436355637728);}}

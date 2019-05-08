@@ -1,0 +1,1 @@
+class javax_management_relation_RoleInfo_wait_long_int{ public static void function() {javax.management.relation.RoleInfo obj = new javax.management.relation.RoleInfo();obj.wait(8071237245242700203,-1073214615);}}

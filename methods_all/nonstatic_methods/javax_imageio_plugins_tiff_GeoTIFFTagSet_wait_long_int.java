@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_GeoTIFFTagSet_wait_long_int{ public static void function() {javax.imageio.plugins.tiff.GeoTIFFTagSet obj = new javax.imageio.plugins.tiff.GeoTIFFTagSet();obj.wait(8287482649302983519,-774265455);}}

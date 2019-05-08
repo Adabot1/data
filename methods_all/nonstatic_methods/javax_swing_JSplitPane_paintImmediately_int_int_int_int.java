@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.paintImmediately(-492064732,756987821,-1428010100,-176719662);}}

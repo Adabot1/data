@@ -1,0 +1,1 @@
+class javax_management_MBeanParameterInfo_wait_long{ public static void function() {javax.management.MBeanParameterInfo obj = new javax.management.MBeanParameterInfo();obj.wait(9047779773635407187);}}

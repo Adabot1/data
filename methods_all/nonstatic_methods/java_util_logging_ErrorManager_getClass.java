@@ -1,0 +1,1 @@
+class java_util_logging_ErrorManager_getClass{ public static void function() {java.util.logging.ErrorManager obj = new java.util.logging.ErrorManager();obj.getClass();}}

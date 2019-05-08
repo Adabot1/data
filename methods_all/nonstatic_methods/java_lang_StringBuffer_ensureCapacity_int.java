@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_ensureCapacity_int{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.ensureCapacity(-1846573320);}}

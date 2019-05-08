@@ -1,0 +1,1 @@
+class java_io_InvalidClassException_getLocalizedMessage{ public static void function() {java.io.InvalidClassException obj = new java.io.InvalidClassException();obj.getLocalizedMessage();}}

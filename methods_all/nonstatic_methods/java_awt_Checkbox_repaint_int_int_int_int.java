@@ -1,0 +1,1 @@
+class java_awt_Checkbox_repaint_int_int_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.repaint(1834907844,-648892942,595122681,-302781161);}}

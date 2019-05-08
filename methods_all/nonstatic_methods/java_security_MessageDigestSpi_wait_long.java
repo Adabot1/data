@@ -1,0 +1,1 @@
+class java_security_MessageDigestSpi_wait_long{ public static void function() {java.security.MessageDigestSpi obj = new java.security.MessageDigestSpi();obj.wait(-1106013101846011809);}}

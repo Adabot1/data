@@ -1,0 +1,1 @@
+class javax_swing_JComponent_contains_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.contains(-1151813966,409673365);}}

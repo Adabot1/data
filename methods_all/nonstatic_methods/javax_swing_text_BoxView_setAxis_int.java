@@ -1,0 +1,1 @@
+class javax_swing_text_BoxView_setAxis_int{ public static void function() {javax.swing.text.BoxView obj = new javax.swing.text.BoxView();obj.setAxis(-1856913626);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_repaint_long{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.repaint(1954531530342628597);}}

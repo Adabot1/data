@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_repaint_long_int_int_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.repaint(-137494045081034040,1147637285,1828460887,936687542,566894745);}}

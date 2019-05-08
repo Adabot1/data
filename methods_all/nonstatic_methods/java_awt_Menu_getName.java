@@ -1,0 +1,1 @@
+class java_awt_Menu_getName{ public static void function() {java.awt.Menu obj = new java.awt.Menu();obj.getName();}}

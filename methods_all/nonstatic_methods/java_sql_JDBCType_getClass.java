@@ -1,0 +1,1 @@
+class java_sql_JDBCType_getClass{ public static void function() {java.sql.JDBCType obj = new java.sql.JDBCType();obj.getClass();}}

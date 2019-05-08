@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeFactory_wait_long_int{ public static void function() {javax.xml.datatype.DatatypeFactory obj = new javax.xml.datatype.DatatypeFactory();obj.wait(-5970203895998295798,1834421696);}}

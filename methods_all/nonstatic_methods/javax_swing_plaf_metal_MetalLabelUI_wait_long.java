@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalLabelUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalLabelUI obj = new javax.swing.plaf.metal.MetalLabelUI();obj.wait(334286451907711471);}}

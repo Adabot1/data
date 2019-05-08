@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileImageOutputStream_write_int{ public static void function() {javax.imageio.stream.FileImageOutputStream obj = new javax.imageio.stream.FileImageOutputStream();obj.write(1858666296);}}

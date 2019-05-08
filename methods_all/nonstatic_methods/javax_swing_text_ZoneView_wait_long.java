@@ -1,0 +1,1 @@
+class javax_swing_text_ZoneView_wait_long{ public static void function() {javax.swing.text.ZoneView obj = new javax.swing.text.ZoneView();obj.wait(-1947533497200532679);}}

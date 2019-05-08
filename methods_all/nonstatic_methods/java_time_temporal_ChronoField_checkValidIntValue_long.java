@@ -1,0 +1,1 @@
+class java_time_temporal_ChronoField_checkValidIntValue_long{ public static void function() {java.time.temporal.ChronoField obj = new java.time.temporal.ChronoField();obj.checkValidIntValue(-4510239862626974680);}}

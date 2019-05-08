@@ -1,0 +1,1 @@
+class java_awt_geom_Dimension2D_wait_long_int{ public static void function() {java.awt.geom.Dimension2D obj = new java.awt.geom.Dimension2D();obj.wait(-4105444836534586869,-368851704);}}

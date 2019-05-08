@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableModel_setColumnCount_int{ public static void function() {javax.swing.table.DefaultTableModel obj = new javax.swing.table.DefaultTableModel();obj.setColumnCount(-1201569116);}}

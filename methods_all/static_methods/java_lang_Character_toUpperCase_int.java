@@ -1,0 +1,1 @@
+class java_lang_Character_toUpperCase_int{ public static void function() {java.lang.Character.toUpperCase(1335613080);}}

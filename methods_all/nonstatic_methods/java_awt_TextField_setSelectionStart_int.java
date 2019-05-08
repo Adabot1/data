@@ -1,0 +1,1 @@
+class java_awt_TextField_setSelectionStart_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.setSelectionStart(-1261208906);}}

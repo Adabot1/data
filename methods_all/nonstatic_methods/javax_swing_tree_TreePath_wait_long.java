@@ -1,0 +1,1 @@
+class javax_swing_tree_TreePath_wait_long{ public static void function() {javax.swing.tree.TreePath obj = new javax.swing.tree.TreePath();obj.wait(8291211632039808423);}}

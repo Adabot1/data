@@ -1,0 +1,1 @@
+class javax_swing_JTable_contains_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.contains(238613935,-421617348);}}

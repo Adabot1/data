@@ -1,0 +1,1 @@
+class javax_swing_text_TabSet_wait_long{ public static void function() {javax.swing.text.TabSet obj = new javax.swing.text.TabSet();obj.wait(-8036431872726145484);}}

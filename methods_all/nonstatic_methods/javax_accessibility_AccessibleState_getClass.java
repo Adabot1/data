@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleState_getClass{ public static void function() {javax.accessibility.AccessibleState obj = new javax.accessibility.AccessibleState();obj.getClass();}}

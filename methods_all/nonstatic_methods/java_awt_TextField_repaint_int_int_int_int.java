@@ -1,0 +1,1 @@
+class java_awt_TextField_repaint_int_int_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.repaint(-1070199238,1073341251,1886318464,-949601529);}}

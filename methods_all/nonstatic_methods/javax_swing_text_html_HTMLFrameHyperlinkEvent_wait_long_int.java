@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLFrameHyperlinkEvent_wait_long_int{ public static void function() {javax.swing.text.html.HTMLFrameHyperlinkEvent obj = new javax.swing.text.html.HTMLFrameHyperlinkEvent();obj.wait(-2135845880902640863,-87209996);}}

@@ -1,0 +1,1 @@
+class java_awt_PopupMenu_getActionCommand{ public static void function() {java.awt.PopupMenu obj = new java.awt.PopupMenu();obj.getActionCommand();}}

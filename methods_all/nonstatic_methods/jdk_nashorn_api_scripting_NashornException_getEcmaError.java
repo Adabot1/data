@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_NashornException_getEcmaError{ public static void function() {jdk.nashorn.api.scripting.NashornException obj = new jdk.nashorn.api.scripting.NashornException();obj.getEcmaError();}}

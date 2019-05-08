@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicInternalFrameTitlePane_repaint_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicInternalFrameTitlePane obj = new javax.swing.plaf.basic.BasicInternalFrameTitlePane();obj.repaint(-1151954141,-1572605640,839333425,-69320609);}}

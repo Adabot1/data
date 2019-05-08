@@ -1,0 +1,1 @@
+class javax_swing_JDialog_wait_long{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.wait(5072467894232664057);}}

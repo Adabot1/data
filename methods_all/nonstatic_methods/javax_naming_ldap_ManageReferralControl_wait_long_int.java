@@ -1,0 +1,1 @@
+class javax_naming_ldap_ManageReferralControl_wait_long_int{ public static void function() {javax.naming.ldap.ManageReferralControl obj = new javax.naming.ldap.ManageReferralControl();obj.wait(-393857012218097132,-1742054435);}}

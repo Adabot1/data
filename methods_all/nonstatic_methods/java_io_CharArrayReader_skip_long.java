@@ -1,0 +1,1 @@
+class java_io_CharArrayReader_skip_long{ public static void function() {java.io.CharArrayReader obj = new java.io.CharArrayReader();obj.skip(-3462596851629141020);}}

@@ -1,0 +1,1 @@
+class javax_swing_JDialog_createVolatileImage_int_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.createVolatileImage(-1916076263,-433562305);}}

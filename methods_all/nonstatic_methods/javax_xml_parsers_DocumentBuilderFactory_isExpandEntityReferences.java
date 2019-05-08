@@ -1,0 +1,1 @@
+class javax_xml_parsers_DocumentBuilderFactory_isExpandEntityReferences{ public static void function() {javax.xml.parsers.DocumentBuilderFactory obj = new javax.xml.parsers.DocumentBuilderFactory();obj.isExpandEntityReferences();}}

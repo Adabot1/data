@@ -1,0 +1,1 @@
+class javax_swing_JLabel_reshape_int_int_int_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.reshape(380999420,-1678554408,1951614759,-123282238);}}

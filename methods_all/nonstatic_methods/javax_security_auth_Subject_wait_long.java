@@ -1,0 +1,1 @@
+class javax_security_auth_Subject_wait_long{ public static void function() {javax.security.auth.Subject obj = new javax.security.auth.Subject();obj.wait(-8381047502774599051);}}

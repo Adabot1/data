@@ -1,0 +1,1 @@
+class javax_swing_JSlider_getComponent_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.getComponent(-665948953);}}

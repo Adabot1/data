@@ -1,0 +1,1 @@
+class javax_smartcardio_TerminalFactorySpi_hashCode{ public static void function() {javax.smartcardio.TerminalFactorySpi obj = new javax.smartcardio.TerminalFactorySpi();obj.hashCode();}}

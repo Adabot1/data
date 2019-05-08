@@ -1,0 +1,1 @@
+class javax_management_openmbean_TabularType_hashCode{ public static void function() {javax.management.openmbean.TabularType obj = new javax.management.openmbean.TabularType();obj.hashCode();}}

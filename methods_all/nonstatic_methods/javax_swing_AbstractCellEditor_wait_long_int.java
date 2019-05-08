@@ -1,0 +1,1 @@
+class javax_swing_AbstractCellEditor_wait_long_int{ public static void function() {javax.swing.AbstractCellEditor obj = new javax.swing.AbstractCellEditor();obj.wait(7764358081637449996,1568192576);}}

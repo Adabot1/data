@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSidPrimaryGroupPrincipal_notify{ public static void function() {com.sun.security.auth.NTSidPrimaryGroupPrincipal obj = new com.sun.security.auth.NTSidPrimaryGroupPrincipal();obj.notify();}}

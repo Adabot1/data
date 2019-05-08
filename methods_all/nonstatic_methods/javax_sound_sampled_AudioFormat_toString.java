@@ -1,0 +1,1 @@
+class javax_sound_sampled_AudioFormat_toString{ public static void function() {javax.sound.sampled.AudioFormat obj = new javax.sound.sampled.AudioFormat();obj.toString();}}

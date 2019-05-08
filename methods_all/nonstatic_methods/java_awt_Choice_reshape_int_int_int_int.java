@@ -1,0 +1,1 @@
+class java_awt_Choice_reshape_int_int_int_int{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.reshape(654859757,-1135977921,-576811211,-1488338794);}}

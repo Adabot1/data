@@ -1,0 +1,1 @@
+class javax_swing_DefaultCellEditor_toString{ public static void function() {javax.swing.DefaultCellEditor obj = new javax.swing.DefaultCellEditor();obj.toString();}}

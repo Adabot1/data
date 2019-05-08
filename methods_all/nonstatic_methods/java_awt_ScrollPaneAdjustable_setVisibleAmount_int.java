@@ -1,0 +1,1 @@
+class java_awt_ScrollPaneAdjustable_setVisibleAmount_int{ public static void function() {java.awt.ScrollPaneAdjustable obj = new java.awt.ScrollPaneAdjustable();obj.setVisibleAmount(451387407);}}

@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_contains_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.contains(1431826117,-192187525);}}

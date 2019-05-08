@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextServicesSupport_wait_long{ public static void function() {java.beans.beancontext.BeanContextServicesSupport obj = new java.beans.beancontext.BeanContextServicesSupport();obj.wait(7136057930322213348);}}

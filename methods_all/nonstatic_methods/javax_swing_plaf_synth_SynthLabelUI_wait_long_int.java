@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthLabelUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthLabelUI obj = new javax.swing.plaf.synth.SynthLabelUI();obj.wait(-4282556541008969629,-311535302);}}

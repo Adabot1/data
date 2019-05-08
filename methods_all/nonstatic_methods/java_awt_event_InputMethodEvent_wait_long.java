@@ -1,0 +1,1 @@
+class java_awt_event_InputMethodEvent_wait_long{ public static void function() {java.awt.event.InputMethodEvent obj = new java.awt.event.InputMethodEvent();obj.wait(8733639242266250370);}}

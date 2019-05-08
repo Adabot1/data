@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_setAlignmentX_float{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.setAlignmentX(0.8851598);}}

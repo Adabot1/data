@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_wait_long_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.wait(8887913941407433814,303874603);}}

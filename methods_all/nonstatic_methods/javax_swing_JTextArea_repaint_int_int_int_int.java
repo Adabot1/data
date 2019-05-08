@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_repaint_int_int_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.repaint(-2013403326,183763970,1703626465,-111773647);}}

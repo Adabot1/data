@@ -1,0 +1,1 @@
+class java_text_FieldPosition_toString{ public static void function() {java.text.FieldPosition obj = new java.text.FieldPosition();obj.toString();}}

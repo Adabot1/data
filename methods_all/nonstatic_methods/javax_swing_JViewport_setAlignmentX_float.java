@@ -1,0 +1,1 @@
+class javax_swing_JViewport_setAlignmentX_float{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.setAlignmentX(0.7867059);}}

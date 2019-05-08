@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_weakCompareAndSetPlain_int_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.weakCompareAndSetPlain(813069687,-8775613860119658615,182108949196634443);}}

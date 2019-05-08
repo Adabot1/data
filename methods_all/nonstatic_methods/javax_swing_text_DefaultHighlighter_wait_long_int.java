@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultHighlighter_wait_long_int{ public static void function() {javax.swing.text.DefaultHighlighter obj = new javax.swing.text.DefaultHighlighter();obj.wait(3882987661841160981,1937292256);}}

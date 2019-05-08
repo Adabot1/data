@@ -1,0 +1,1 @@
+class javax_swing_ComponentInputMap_wait{ public static void function() {javax.swing.ComponentInputMap obj = new javax.swing.ComponentInputMap();obj.wait();}}

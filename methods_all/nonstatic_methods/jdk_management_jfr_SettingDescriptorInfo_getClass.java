@@ -1,0 +1,1 @@
+class jdk_management_jfr_SettingDescriptorInfo_getClass{ public static void function() {jdk.management.jfr.SettingDescriptorInfo obj = new jdk.management.jfr.SettingDescriptorInfo();obj.getClass();}}

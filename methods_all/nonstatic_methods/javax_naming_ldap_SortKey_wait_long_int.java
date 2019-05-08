@@ -1,0 +1,1 @@
+class javax_naming_ldap_SortKey_wait_long_int{ public static void function() {javax.naming.ldap.SortKey obj = new javax.naming.ldap.SortKey();obj.wait(5171711418208492076,-917221742);}}

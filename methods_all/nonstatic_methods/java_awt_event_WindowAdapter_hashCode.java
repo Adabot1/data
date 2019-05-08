@@ -1,0 +1,1 @@
+class java_awt_event_WindowAdapter_hashCode{ public static void function() {java.awt.event.WindowAdapter obj = new java.awt.event.WindowAdapter();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_LayoutStyle_wait_long{ public static void function() {javax.swing.LayoutStyle obj = new javax.swing.LayoutStyle();obj.wait(1558161928187307799);}}

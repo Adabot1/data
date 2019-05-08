@@ -1,0 +1,1 @@
+class java_awt_Choice_repaint_long_int_int_int_int{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.repaint(-7338867289755485141,553255638,-657112003,-343842477,-695333080);}}

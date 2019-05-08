@@ -1,0 +1,1 @@
+class java_security_AccessControlException_wait_long_int{ public static void function() {java.security.AccessControlException obj = new java.security.AccessControlException();obj.wait(3177650399009827999,20282349);}}

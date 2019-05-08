@@ -1,0 +1,1 @@
+class java_awt_image_ColorModel_getRed_int{ public static void function() {java.awt.image.ColorModel obj = new java.awt.image.ColorModel();obj.getRed(-81401827);}}

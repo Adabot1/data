@@ -1,0 +1,1 @@
+class java_util_logging_Formatter_wait_long_int{ public static void function() {java.util.logging.Formatter obj = new java.util.logging.Formatter();obj.wait(7772347624102480782,-1825109895);}}

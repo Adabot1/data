@@ -1,0 +1,1 @@
+class javax_naming_ldap_LdapName_get_int{ public static void function() {javax.naming.ldap.LdapName obj = new javax.naming.ldap.LdapName();obj.get(422774888);}}

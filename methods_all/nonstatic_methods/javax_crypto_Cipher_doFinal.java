@@ -1,0 +1,1 @@
+class javax_crypto_Cipher_doFinal{ public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();obj.doFinal();}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_HandshakeCompletedEvent_wait_long_int{ public static void function() {javax.net.ssl.HandshakeCompletedEvent obj = new javax.net.ssl.HandshakeCompletedEvent();obj.wait(7479694623630758479,-895875644);}}

@@ -1,0 +1,1 @@
+class com_sun_security_auth_UnixNumericUserPrincipal_getName{ public static void function() {com.sun.security.auth.UnixNumericUserPrincipal obj = new com.sun.security.auth.UnixNumericUserPrincipal();obj.getName();}}

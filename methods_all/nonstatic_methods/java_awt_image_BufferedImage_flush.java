@@ -1,0 +1,1 @@
+class java_awt_image_BufferedImage_flush{ public static void function() {java.awt.image.BufferedImage obj = new java.awt.image.BufferedImage();obj.flush();}}

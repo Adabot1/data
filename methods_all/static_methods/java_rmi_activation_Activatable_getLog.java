@@ -1,0 +1,1 @@
+class java_rmi_activation_Activatable_getLog{ public static void function() {java.rmi.activation.Activatable.getLog();}}

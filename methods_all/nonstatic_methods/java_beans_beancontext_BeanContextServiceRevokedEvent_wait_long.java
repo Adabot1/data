@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextServiceRevokedEvent_wait_long{ public static void function() {java.beans.beancontext.BeanContextServiceRevokedEvent obj = new java.beans.beancontext.BeanContextServiceRevokedEvent();obj.wait(6812220036472218574);}}

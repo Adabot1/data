@@ -1,0 +1,1 @@
+class javax_smartcardio_TerminalFactory_wait_long{ public static void function() {javax.smartcardio.TerminalFactory obj = new javax.smartcardio.TerminalFactory();obj.wait(-2978170754791578656);}}

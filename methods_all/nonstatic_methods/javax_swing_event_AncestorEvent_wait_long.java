@@ -1,0 +1,1 @@
+class javax_swing_event_AncestorEvent_wait_long{ public static void function() {javax.swing.event.AncestorEvent obj = new javax.swing.event.AncestorEvent();obj.wait(3913071920342354732);}}

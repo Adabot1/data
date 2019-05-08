@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_createVolatileImage_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.createVolatileImage(1602017781,591660068);}}

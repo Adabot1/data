@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_repaint_long{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.repaint(-8403185691664944901);}}

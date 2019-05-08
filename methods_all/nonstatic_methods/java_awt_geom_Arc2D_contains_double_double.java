@@ -1,0 +1,1 @@
+class java_awt_geom_Arc2D_contains_double_double{ public static void function() {java.awt.geom.Arc2D obj = new java.awt.geom.Arc2D();obj.contains(0.13920651962868114,0.5569627870083936);}}

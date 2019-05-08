@@ -1,0 +1,1 @@
+class java_awt_image_AffineTransformOp_wait_long{ public static void function() {java.awt.image.AffineTransformOp obj = new java.awt.image.AffineTransformOp();obj.wait(-2082598157514943463);}}

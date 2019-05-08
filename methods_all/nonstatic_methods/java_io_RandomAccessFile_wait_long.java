@@ -1,0 +1,1 @@
+class java_io_RandomAccessFile_wait_long{ public static void function() {java.io.RandomAccessFile obj = new java.io.RandomAccessFile();obj.wait(2103927306837594743);}}

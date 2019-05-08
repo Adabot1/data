@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_repaint_long_int_int_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.repaint(6643062123604945327,1314884327,-1991080205,248114319,850259437);}}

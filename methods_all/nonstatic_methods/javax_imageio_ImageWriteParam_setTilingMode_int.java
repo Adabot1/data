@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriteParam_setTilingMode_int{ public static void function() {javax.imageio.ImageWriteParam obj = new javax.imageio.ImageWriteParam();obj.setTilingMode(117263254);}}

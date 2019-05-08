@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_setSize_float_float{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.setSize(0.8664618,0.15960461);}}

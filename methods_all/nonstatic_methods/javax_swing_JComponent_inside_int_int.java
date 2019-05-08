@@ -1,0 +1,1 @@
+class javax_swing_JComponent_inside_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.inside(-302244825,-1334370440);}}

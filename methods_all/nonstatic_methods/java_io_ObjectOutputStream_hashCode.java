@@ -1,0 +1,1 @@
+class java_io_ObjectOutputStream_hashCode{ public static void function() {java.io.ObjectOutputStream obj = new java.io.ObjectOutputStream();obj.hashCode();}}

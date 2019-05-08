@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_getDefaultLocale{ public static void function() {javax.swing.JPasswordField.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_FormView_wait_long{ public static void function() {javax.swing.text.html.FormView obj = new javax.swing.text.html.FormView();obj.wait(-2448620438894805184);}}

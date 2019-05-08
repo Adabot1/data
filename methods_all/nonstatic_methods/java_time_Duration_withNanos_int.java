@@ -1,0 +1,1 @@
+class java_time_Duration_withNanos_int{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.withNanos(1548321922);}}

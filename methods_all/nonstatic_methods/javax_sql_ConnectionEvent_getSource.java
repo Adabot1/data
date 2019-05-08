@@ -1,0 +1,1 @@
+class javax_sql_ConnectionEvent_getSource{ public static void function() {javax.sql.ConnectionEvent obj = new javax.sql.ConnectionEvent();obj.getSource();}}

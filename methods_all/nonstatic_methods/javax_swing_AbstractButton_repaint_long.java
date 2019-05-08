@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_repaint_long{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.repaint(2627921631047390402);}}

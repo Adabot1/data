@@ -1,0 +1,1 @@
+class java_awt_image_ComponentSampleModel_wait_long_int{ public static void function() {java.awt.image.ComponentSampleModel obj = new java.awt.image.ComponentSampleModel();obj.wait(-1524986986801928395,-956259556);}}

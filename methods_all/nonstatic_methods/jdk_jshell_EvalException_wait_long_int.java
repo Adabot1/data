@@ -1,0 +1,1 @@
+class jdk_jshell_EvalException_wait_long_int{ public static void function() {jdk.jshell.EvalException obj = new jdk.jshell.EvalException();obj.wait(-1364307093485856120,1754147932);}}

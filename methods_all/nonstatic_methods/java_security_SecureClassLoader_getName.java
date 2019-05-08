@@ -1,0 +1,1 @@
+class java_security_SecureClassLoader_getName{ public static void function() {java.security.SecureClassLoader obj = new java.security.SecureClassLoader();obj.getName();}}

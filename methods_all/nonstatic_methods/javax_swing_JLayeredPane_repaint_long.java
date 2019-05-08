@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_repaint_long{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.repaint(-2355257729293280940);}}

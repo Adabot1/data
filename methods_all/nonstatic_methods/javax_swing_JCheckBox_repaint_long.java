@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_repaint_long{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.repaint(1661470629174208831);}}

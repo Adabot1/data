@@ -1,0 +1,1 @@
+class java_lang_StrictMath_signum_float{ public static void function() {java.lang.StrictMath.signum(0.52833164);}}

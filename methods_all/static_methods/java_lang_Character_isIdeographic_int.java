@@ -1,0 +1,1 @@
+class java_lang_Character_isIdeographic_int{ public static void function() {java.lang.Character.isIdeographic(-479831498);}}

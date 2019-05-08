@@ -1,0 +1,1 @@
+class java_awt_geom_Area_contains_double_double_double_double{ public static void function() {java.awt.geom.Area obj = new java.awt.geom.Area();obj.contains(0.7308710072688087,0.42240754841322503,0.6393187624952966,0.7081458446696691);}}

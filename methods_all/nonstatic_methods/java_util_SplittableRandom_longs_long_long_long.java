@@ -1,0 +1,1 @@
+class java_util_SplittableRandom_longs_long_long_long{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();obj.longs(6542247667853417337,5083879220791184669,3321445220027660503);}}

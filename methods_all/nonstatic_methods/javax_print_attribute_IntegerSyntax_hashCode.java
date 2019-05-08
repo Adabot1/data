@@ -1,0 +1,1 @@
+class javax_print_attribute_IntegerSyntax_hashCode{ public static void function() {javax.print.attribute.IntegerSyntax obj = new javax.print.attribute.IntegerSyntax();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_BorderUIResource_getRaisedBevelBorderUIResource{ public static void function() {javax.swing.plaf.BorderUIResource.getRaisedBevelBorderUIResource();}}

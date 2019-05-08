@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOMetadata_hashCode{ public static void function() {javax.imageio.metadata.IIOMetadata obj = new javax.imageio.metadata.IIOMetadata();obj.hashCode();}}

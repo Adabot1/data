@@ -1,0 +1,1 @@
+class java_awt_Polygon_wait_long_int{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.wait(1771642683404139825,-945287729);}}

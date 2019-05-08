@@ -1,0 +1,1 @@
+class java_awt_Dialog_contains_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.contains(1846755222,1214454845);}}

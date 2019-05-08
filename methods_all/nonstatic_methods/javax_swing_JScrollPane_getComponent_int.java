@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_getComponent_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.getComponent(1170585362);}}

@@ -1,0 +1,1 @@
+class netscape_javascript_JSObject_wait{ public static void function() {netscape.javascript.JSObject obj = new netscape.javascript.JSObject();obj.wait();}}

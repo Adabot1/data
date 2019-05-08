@@ -1,0 +1,1 @@
+class java_sql_Time_setTime_long{ public static void function() {java.sql.Time obj = new java.sql.Time();obj.setTime(-453263543133187713);}}

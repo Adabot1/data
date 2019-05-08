@@ -1,0 +1,1 @@
+class java_nio_ByteOrder_wait_long{ public static void function() {java.nio.ByteOrder obj = new java.nio.ByteOrder();obj.wait(-4351392702559050674);}}

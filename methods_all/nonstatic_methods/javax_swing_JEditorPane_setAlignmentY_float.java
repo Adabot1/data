@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_setAlignmentY_float{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.setAlignmentY(0.90752727);}}

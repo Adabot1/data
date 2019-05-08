@@ -1,0 +1,1 @@
+class java_time_chrono_ThaiBuddhistChronology_wait_long{ public static void function() {java.time.chrono.ThaiBuddhistChronology obj = new java.time.chrono.ThaiBuddhistChronology();obj.wait(-5399650793352942885);}}

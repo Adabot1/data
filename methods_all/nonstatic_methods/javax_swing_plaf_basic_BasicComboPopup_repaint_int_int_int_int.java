@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_repaint_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.repaint(1438961425,1587530365,-747252030,370557805);}}

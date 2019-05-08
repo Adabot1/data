@@ -1,0 +1,1 @@
+class java_awt_image_MemoryImageSource_wait_long{ public static void function() {java.awt.image.MemoryImageSource obj = new java.awt.image.MemoryImageSource();obj.wait(-6565708275658401404);}}

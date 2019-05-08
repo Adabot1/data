@@ -1,0 +1,1 @@
+class java_awt_RadialGradientPaint_getFractions{ public static void function() {java.awt.RadialGradientPaint obj = new java.awt.RadialGradientPaint();obj.getFractions();}}

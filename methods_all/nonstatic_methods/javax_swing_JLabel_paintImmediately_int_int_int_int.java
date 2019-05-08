@@ -1,0 +1,1 @@
+class javax_swing_JLabel_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.paintImmediately(578885700,-1518718749,-1357082169,-681605134);}}

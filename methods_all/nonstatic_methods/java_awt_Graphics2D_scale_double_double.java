@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_scale_double_double{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.scale(0.5503100975502991,0.8241302716337864);}}

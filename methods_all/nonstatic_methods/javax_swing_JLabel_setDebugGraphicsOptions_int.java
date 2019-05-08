@@ -1,0 +1,1 @@
+class javax_swing_JLabel_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.setDebugGraphicsOptions(1857128713);}}

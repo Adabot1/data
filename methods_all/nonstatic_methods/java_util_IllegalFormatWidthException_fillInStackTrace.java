@@ -1,0 +1,1 @@
+class java_util_IllegalFormatWidthException_fillInStackTrace{ public static void function() {java.util.IllegalFormatWidthException obj = new java.util.IllegalFormatWidthException();obj.fillInStackTrace();}}

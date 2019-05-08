@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedClass_wait_long{ public static void function() {jdk.jfr.consumer.RecordedClass obj = new jdk.jfr.consumer.RecordedClass();obj.wait(6163969449930617752);}}

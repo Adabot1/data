@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_setSize_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.setSize(-654798903,-573452196);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_AbstractTableModel_fireTableRowsInserted_int_int{ public static void function() {javax.swing.table.AbstractTableModel obj = new javax.swing.table.AbstractTableModel();obj.fireTableRowsInserted(-903522805,1899993682);}}

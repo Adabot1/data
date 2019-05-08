@@ -1,0 +1,1 @@
+class java_awt_geom_Path2D_contains_double_double_double_double{ public static void function() {java.awt.geom.Path2D obj = new java.awt.geom.Path2D();obj.contains(0.8135722437821715,0.7277465780388799,0.05253322414206385,0.6658592441547896);}}

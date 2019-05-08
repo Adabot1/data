@@ -1,0 +1,1 @@
+class javax_sql_rowset_BaseRowSet_setLong_int_long{ public static void function() {javax.sql.rowset.BaseRowSet obj = new javax.sql.rowset.BaseRowSet();obj.setLong(636908294,1516870426929054947);}}

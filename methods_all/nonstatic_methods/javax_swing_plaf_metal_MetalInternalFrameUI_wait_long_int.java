@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalInternalFrameUI_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalInternalFrameUI obj = new javax.swing.plaf.metal.MetalInternalFrameUI();obj.wait(4768783825266669259,-1946763800);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicArrowButton_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicArrowButton obj = new javax.swing.plaf.basic.BasicArrowButton();obj.wait(211121019878379480,452516584);}}

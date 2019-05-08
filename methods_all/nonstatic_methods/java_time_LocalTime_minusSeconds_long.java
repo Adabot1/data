@@ -1,0 +1,1 @@
+class java_time_LocalTime_minusSeconds_long{ public static void function() {java.time.LocalTime obj = new java.time.LocalTime();obj.minusSeconds(-2840843500330660776);}}

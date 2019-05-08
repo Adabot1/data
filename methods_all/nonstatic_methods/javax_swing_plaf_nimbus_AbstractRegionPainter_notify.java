@@ -1,0 +1,1 @@
+class javax_swing_plaf_nimbus_AbstractRegionPainter_notify{ public static void function() {javax.swing.plaf.nimbus.AbstractRegionPainter obj = new javax.swing.plaf.nimbus.AbstractRegionPainter();obj.notify();}}

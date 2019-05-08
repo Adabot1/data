@@ -1,0 +1,1 @@
+class java_sql_PseudoColumnUsage_notify{ public static void function() {java.sql.PseudoColumnUsage obj = new java.sql.PseudoColumnUsage();obj.notify();}}

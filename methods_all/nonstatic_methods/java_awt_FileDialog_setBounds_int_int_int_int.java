@@ -1,0 +1,1 @@
+class java_awt_FileDialog_setBounds_int_int_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.setBounds(1326708155,38387037,1870540593,747032051);}}

@@ -1,0 +1,1 @@
+class java_time_format_TextStyle_wait_long{ public static void function() {java.time.format.TextStyle obj = new java.time.format.TextStyle();obj.wait(8426265914312828325);}}

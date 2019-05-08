@@ -1,0 +1,1 @@
+class javax_smartcardio_CardPermission_newPermissionCollection{ public static void function() {javax.smartcardio.CardPermission obj = new javax.smartcardio.CardPermission();obj.newPermissionCollection();}}

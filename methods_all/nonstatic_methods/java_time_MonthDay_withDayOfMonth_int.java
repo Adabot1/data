@@ -1,0 +1,1 @@
+class java_time_MonthDay_withDayOfMonth_int{ public static void function() {java.time.MonthDay obj = new java.time.MonthDay();obj.withDayOfMonth(1510772229);}}

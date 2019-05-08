@@ -1,0 +1,1 @@
+class jdk_jshell_execution_JdiInitiator_wait_long{ public static void function() {jdk.jshell.execution.JdiInitiator obj = new jdk.jshell.execution.JdiInitiator();obj.wait(8804203380935985477);}}

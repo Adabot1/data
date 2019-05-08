@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_repaint_int_int_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.repaint(-1502346501,1809924435,-1934264223,1443801806);}}

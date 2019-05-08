@@ -1,0 +1,1 @@
+class java_awt_font_TextMeasurer_getLayout_int_int{ public static void function() {java.awt.font.TextMeasurer obj = new java.awt.font.TextMeasurer();obj.getLayout(234001649,812890355);}}

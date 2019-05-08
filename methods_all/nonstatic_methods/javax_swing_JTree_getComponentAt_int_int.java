@@ -1,0 +1,1 @@
+class javax_swing_JTree_getComponentAt_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.getComponentAt(-1430811039,-758506577);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_ElementIterator_wait_long_int{ public static void function() {javax.swing.text.ElementIterator obj = new javax.swing.text.ElementIterator();obj.wait(-5854627968199021516,1072975381);}}

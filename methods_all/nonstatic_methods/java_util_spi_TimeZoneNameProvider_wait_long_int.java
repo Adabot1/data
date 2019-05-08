@@ -1,0 +1,1 @@
+class java_util_spi_TimeZoneNameProvider_wait_long_int{ public static void function() {java.util.spi.TimeZoneNameProvider obj = new java.util.spi.TimeZoneNameProvider();obj.wait(745292464728538150,-1407967400);}}

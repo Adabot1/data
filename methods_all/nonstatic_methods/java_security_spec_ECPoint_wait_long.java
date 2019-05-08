@@ -1,0 +1,1 @@
+class java_security_spec_ECPoint_wait_long{ public static void function() {java.security.spec.ECPoint obj = new java.security.spec.ECPoint();obj.wait(-4523962775872099464);}}

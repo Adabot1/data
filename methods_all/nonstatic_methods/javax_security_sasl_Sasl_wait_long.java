@@ -1,0 +1,1 @@
+class javax_security_sasl_Sasl_wait_long{ public static void function() {javax.security.sasl.Sasl obj = new javax.security.sasl.Sasl();obj.wait(-7841071646781436500);}}

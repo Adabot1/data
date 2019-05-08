@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_AbstractJSObject_wait_long_int{ public static void function() {jdk.nashorn.api.scripting.AbstractJSObject obj = new jdk.nashorn.api.scripting.AbstractJSObject();obj.wait(-4787251446076758078,477034962);}}

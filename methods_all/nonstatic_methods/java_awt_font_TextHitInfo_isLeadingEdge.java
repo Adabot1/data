@@ -1,0 +1,1 @@
+class java_awt_font_TextHitInfo_isLeadingEdge{ public static void function() {java.awt.font.TextHitInfo obj = new java.awt.font.TextHitInfo();obj.isLeadingEdge();}}

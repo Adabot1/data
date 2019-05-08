@@ -1,0 +1,1 @@
+class javax_rmi_ssl_SslRMIClientSocketFactory_notify{ public static void function() {javax.rmi.ssl.SslRMIClientSocketFactory obj = new javax.rmi.ssl.SslRMIClientSocketFactory();obj.notify();}}

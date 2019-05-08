@@ -1,0 +1,1 @@
+class java_beans_VetoableChangeSupport_getClass{ public static void function() {java.beans.VetoableChangeSupport obj = new java.beans.VetoableChangeSupport();obj.getClass();}}

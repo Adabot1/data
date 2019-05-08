@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_wait_long_int{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.wait(-5909990045991030604,-1131637371);}}

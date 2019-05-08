@@ -1,0 +1,1 @@
+class javax_sound_midi_spi_MidiDeviceProvider_wait_long_int{ public static void function() {javax.sound.midi.spi.MidiDeviceProvider obj = new javax.sound.midi.spi.MidiDeviceProvider();obj.wait(6374036854493452416,-1042632627);}}

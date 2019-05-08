@@ -1,0 +1,1 @@
+class java_util_concurrent_TimeUnit_toNanos_long{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();obj.toNanos(-4619919598338504299);}}

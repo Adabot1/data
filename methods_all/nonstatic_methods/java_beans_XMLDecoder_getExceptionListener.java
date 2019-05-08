@@ -1,0 +1,1 @@
+class java_beans_XMLDecoder_getExceptionListener{ public static void function() {java.beans.XMLDecoder obj = new java.beans.XMLDecoder();obj.getExceptionListener();}}

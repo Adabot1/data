@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_createVolatileImage_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.createVolatileImage(118523530,-1518009182);}}

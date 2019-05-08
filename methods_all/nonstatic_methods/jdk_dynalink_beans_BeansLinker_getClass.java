@@ -1,0 +1,1 @@
+class jdk_dynalink_beans_BeansLinker_getClass{ public static void function() {jdk.dynalink.beans.BeansLinker obj = new jdk.dynalink.beans.BeansLinker();obj.getClass();}}

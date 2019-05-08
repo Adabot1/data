@@ -1,0 +1,1 @@
+class javax_swing_text_NumberFormatter_wait_long_int{ public static void function() {javax.swing.text.NumberFormatter obj = new javax.swing.text.NumberFormatter();obj.wait(7641947047305835361,1037758015);}}

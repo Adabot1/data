@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_getDropTarget{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.getDropTarget();}}

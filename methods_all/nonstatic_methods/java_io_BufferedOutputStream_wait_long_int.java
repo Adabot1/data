@@ -1,0 +1,1 @@
+class java_io_BufferedOutputStream_wait_long_int{ public static void function() {java.io.BufferedOutputStream obj = new java.io.BufferedOutputStream();obj.wait(1440274037992115399,-956945433);}}

@@ -1,0 +1,1 @@
+class java_rmi_activation_Activatable_getClass{ public static void function() {java.rmi.activation.Activatable obj = new java.rmi.activation.Activatable();obj.getClass();}}

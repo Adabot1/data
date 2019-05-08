@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_getHideActionText{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.getHideActionText();}}

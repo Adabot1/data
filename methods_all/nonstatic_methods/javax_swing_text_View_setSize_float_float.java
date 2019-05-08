@@ -1,0 +1,1 @@
+class javax_swing_text_View_setSize_float_float{ public static void function() {javax.swing.text.View obj = new javax.swing.text.View();obj.setSize(0.19599658,0.6465732);}}

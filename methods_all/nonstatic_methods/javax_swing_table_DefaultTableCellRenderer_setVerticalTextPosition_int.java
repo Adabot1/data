@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_setVerticalTextPosition_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.setVerticalTextPosition(-1654994643);}}

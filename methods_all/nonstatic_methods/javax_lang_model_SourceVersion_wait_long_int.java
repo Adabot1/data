@@ -1,0 +1,1 @@
+class javax_lang_model_SourceVersion_wait_long_int{ public static void function() {javax.lang.model.SourceVersion obj = new javax.lang.model.SourceVersion();obj.wait(8830176949830479886,10603938);}}

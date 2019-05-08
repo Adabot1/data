@@ -1,0 +1,1 @@
+class java_time_MonthDay_wait_long{ public static void function() {java.time.MonthDay obj = new java.time.MonthDay();obj.wait(5584530177303454612);}}

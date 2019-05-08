@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiListUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiListUI obj = new javax.swing.plaf.multi.MultiListUI();obj.wait(7957451822457760900);}}

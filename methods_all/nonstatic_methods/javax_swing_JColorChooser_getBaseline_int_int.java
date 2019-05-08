@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_getBaseline_int_int{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.getBaseline(740236640,1889206852);}}

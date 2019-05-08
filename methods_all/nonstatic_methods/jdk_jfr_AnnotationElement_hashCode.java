@@ -1,0 +1,1 @@
+class jdk_jfr_AnnotationElement_hashCode{ public static void function() {jdk.jfr.AnnotationElement obj = new jdk.jfr.AnnotationElement();obj.hashCode();}}

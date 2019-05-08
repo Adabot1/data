@@ -1,0 +1,1 @@
+class com_sun_tools_jconsole_JConsolePlugin_wait_long{ public static void function() {com.sun.tools.jconsole.JConsolePlugin obj = new com.sun.tools.jconsole.JConsolePlugin();obj.wait(-3378753864862548196);}}

@@ -1,0 +1,1 @@
+class java_time_temporal_ChronoField_wait_long_int{ public static void function() {java.time.temporal.ChronoField obj = new java.time.temporal.ChronoField();obj.wait(3114670378123822036,876910061);}}

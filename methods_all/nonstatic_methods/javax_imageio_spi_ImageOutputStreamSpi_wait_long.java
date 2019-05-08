@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageOutputStreamSpi_wait_long{ public static void function() {javax.imageio.spi.ImageOutputStreamSpi obj = new javax.imageio.spi.ImageOutputStreamSpi();obj.wait(-4916703378483660187);}}

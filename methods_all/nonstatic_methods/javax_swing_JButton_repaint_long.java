@@ -1,0 +1,1 @@
+class javax_swing_JButton_repaint_long{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.repaint(1029232232710526887);}}

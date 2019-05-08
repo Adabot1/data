@@ -1,0 +1,1 @@
+class javax_swing_JTextField_getFocusTraversalKeys_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.getFocusTraversalKeys(-1271571082);}}

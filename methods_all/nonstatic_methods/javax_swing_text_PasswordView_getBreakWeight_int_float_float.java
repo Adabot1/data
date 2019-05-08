@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.getBreakWeight(1233243690,0.9426116,0.65149444);}}

@@ -1,0 +1,1 @@
+class javax_imageio_stream_MemoryCacheImageInputStream_seek_long{ public static void function() {javax.imageio.stream.MemoryCacheImageInputStream obj = new javax.imageio.stream.MemoryCacheImageInputStream();obj.seek(-7958930552851340568);}}

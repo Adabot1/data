@@ -1,0 +1,1 @@
+class java_awt_color_ICC_Profile_wait_long_int{ public static void function() {java.awt.color.ICC_Profile obj = new java.awt.color.ICC_Profile();obj.wait(431765038435040176,-1955334856);}}

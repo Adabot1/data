@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_setCrc_long{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.setCrc(-7582432006202498799);}}

@@ -1,0 +1,1 @@
+class javax_management_remote_TargetedNotification_wait{ public static void function() {javax.management.remote.TargetedNotification obj = new javax.management.remote.TargetedNotification();obj.wait();}}

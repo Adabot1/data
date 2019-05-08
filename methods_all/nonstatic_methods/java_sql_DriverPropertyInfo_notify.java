@@ -1,0 +1,1 @@
+class java_sql_DriverPropertyInfo_notify{ public static void function() {java.sql.DriverPropertyInfo obj = new java.sql.DriverPropertyInfo();obj.notify();}}

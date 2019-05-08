@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_getInputMap_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.getInputMap(-421839147);}}

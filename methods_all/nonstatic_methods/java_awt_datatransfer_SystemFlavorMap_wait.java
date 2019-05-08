@@ -1,0 +1,1 @@
+class java_awt_datatransfer_SystemFlavorMap_wait{ public static void function() {java.awt.datatransfer.SystemFlavorMap obj = new java.awt.datatransfer.SystemFlavorMap();obj.wait();}}

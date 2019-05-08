@@ -1,0 +1,1 @@
+class javax_management_MBeanServerPermission_wait_long{ public static void function() {javax.management.MBeanServerPermission obj = new javax.management.MBeanServerPermission();obj.wait(-6826787054871289887);}}

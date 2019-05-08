@@ -1,0 +1,1 @@
+class javax_swing_JPanel_inside_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.inside(571591957,-1009544742);}}

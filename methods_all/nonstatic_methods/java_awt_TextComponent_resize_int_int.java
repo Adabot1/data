@@ -1,0 +1,1 @@
+class java_awt_TextComponent_resize_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.resize(-135009941,-1702892838);}}

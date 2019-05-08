@@ -1,0 +1,1 @@
+class com_sun_tools_attach_spi_AttachProvider_wait_long_int{ public static void function() {com.sun.tools.attach.spi.AttachProvider obj = new com.sun.tools.attach.spi.AttachProvider();obj.wait(6184358375554068932,-271839246);}}

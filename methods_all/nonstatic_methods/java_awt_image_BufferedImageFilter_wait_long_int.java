@@ -1,0 +1,1 @@
+class java_awt_image_BufferedImageFilter_wait_long_int{ public static void function() {java.awt.image.BufferedImageFilter obj = new java.awt.image.BufferedImageFilter();obj.wait(8814498044028749533,1669547684);}}

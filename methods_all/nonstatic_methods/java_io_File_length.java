@@ -1,0 +1,1 @@
+class java_io_File_length{ public static void function() {java.io.File obj = new java.io.File();obj.length();}}

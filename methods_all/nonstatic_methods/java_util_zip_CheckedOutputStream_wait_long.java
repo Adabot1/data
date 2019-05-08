@@ -1,0 +1,1 @@
+class java_util_zip_CheckedOutputStream_wait_long{ public static void function() {java.util.zip.CheckedOutputStream obj = new java.util.zip.CheckedOutputStream();obj.wait(8025716877928674838);}}

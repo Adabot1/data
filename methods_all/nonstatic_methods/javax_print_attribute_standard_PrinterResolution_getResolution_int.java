@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterResolution_getResolution_int{ public static void function() {javax.print.attribute.standard.PrinterResolution obj = new javax.print.attribute.standard.PrinterResolution();obj.getResolution(2113199184);}}

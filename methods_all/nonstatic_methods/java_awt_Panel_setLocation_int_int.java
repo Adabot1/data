@@ -1,0 +1,1 @@
+class java_awt_Panel_setLocation_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.setLocation(2054047250,1801310851);}}

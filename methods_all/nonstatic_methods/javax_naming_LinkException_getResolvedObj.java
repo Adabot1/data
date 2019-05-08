@@ -1,0 +1,1 @@
+class javax_naming_LinkException_getResolvedObj{ public static void function() {javax.naming.LinkException obj = new javax.naming.LinkException();obj.getResolvedObj();}}

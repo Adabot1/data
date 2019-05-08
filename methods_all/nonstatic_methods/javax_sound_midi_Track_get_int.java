@@ -1,0 +1,1 @@
+class javax_sound_midi_Track_get_int{ public static void function() {javax.sound.midi.Track obj = new javax.sound.midi.Track();obj.get(-1426576398);}}

@@ -1,0 +1,1 @@
+class java_lang_Boolean_wait_long_int{ public static void function() {java.lang.Boolean obj = new java.lang.Boolean();obj.wait(7165478299688825851,-1202238142);}}

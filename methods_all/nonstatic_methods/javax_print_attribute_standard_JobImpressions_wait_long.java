@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobImpressions_wait_long{ public static void function() {javax.print.attribute.standard.JobImpressions obj = new javax.print.attribute.standard.JobImpressions();obj.wait(-916273064815638730);}}

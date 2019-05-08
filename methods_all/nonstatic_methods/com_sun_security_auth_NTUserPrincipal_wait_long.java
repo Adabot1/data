@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTUserPrincipal_wait_long{ public static void function() {com.sun.security.auth.NTUserPrincipal obj = new com.sun.security.auth.NTUserPrincipal();obj.wait(-6346729672261475316);}}

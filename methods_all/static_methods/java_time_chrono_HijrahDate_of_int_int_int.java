@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahDate_of_int_int_int{ public static void function() {java.time.chrono.HijrahDate.of(-1495422274,122849696,787604738);}}

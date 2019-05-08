@@ -1,0 +1,1 @@
+class java_sql_Timestamp_setHours_int{ public static void function() {java.sql.Timestamp obj = new java.sql.Timestamp();obj.setHours(1336805864);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_DateFormatter_setOverwriteMode_boolean{ public static void function() {javax.swing.text.DateFormatter obj = new javax.swing.text.DateFormatter();obj.setOverwriteMode(false);}}

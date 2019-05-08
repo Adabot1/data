@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_createImage_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.createImage(1416534345,-1169814212);}}

@@ -1,0 +1,1 @@
+class java_util_prefs_Preferences_userRoot{ public static void function() {java.util.prefs.Preferences.userRoot();}}

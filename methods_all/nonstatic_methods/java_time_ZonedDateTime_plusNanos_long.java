@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_plusNanos_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.plusNanos(9068424890701989323);}}

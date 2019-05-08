@@ -1,0 +1,1 @@
+class java_nio_IntBuffer_wait_long{ public static void function() {java.nio.IntBuffer obj = new java.nio.IntBuffer();obj.wait(934628711993033629);}}

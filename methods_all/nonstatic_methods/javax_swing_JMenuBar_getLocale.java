@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_getLocale{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.getLocale();}}

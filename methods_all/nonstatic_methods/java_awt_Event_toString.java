@@ -1,0 +1,1 @@
+class java_awt_Event_toString{ public static void function() {java.awt.Event obj = new java.awt.Event();obj.toString();}}

@@ -1,0 +1,1 @@
+class java_text_Bidi_wait_long_int{ public static void function() {java.text.Bidi obj = new java.text.Bidi();obj.wait(-3706553077492592562,265078724);}}

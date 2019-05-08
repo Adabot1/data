@@ -1,0 +1,1 @@
+class java_util_PropertyResourceBundle_wait_long_int{ public static void function() {java.util.PropertyResourceBundle obj = new java.util.PropertyResourceBundle();obj.wait(-6591034592487054532,-1475877798);}}

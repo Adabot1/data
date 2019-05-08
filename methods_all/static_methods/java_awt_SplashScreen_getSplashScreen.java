@@ -1,0 +1,1 @@
+class java_awt_SplashScreen_getSplashScreen{ public static void function() {java.awt.SplashScreen.getSplashScreen();}}

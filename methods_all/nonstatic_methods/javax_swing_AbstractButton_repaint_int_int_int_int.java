@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_repaint_int_int_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.repaint(-1734377694,1137949878,1049264046,-627932359);}}

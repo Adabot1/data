@@ -1,0 +1,1 @@
+class java_rmi_server_RMIClassLoaderSpi_wait_long_int{ public static void function() {java.rmi.server.RMIClassLoaderSpi obj = new java.rmi.server.RMIClassLoaderSpi();obj.wait(6593888695999348659,1103004657);}}

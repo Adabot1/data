@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_setVerticalTextPosition_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.setVerticalTextPosition(-1398966456);}}

@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_ScriptUtils_toString{ public static void function() {jdk.nashorn.api.scripting.ScriptUtils obj = new jdk.nashorn.api.scripting.ScriptUtils();obj.toString();}}

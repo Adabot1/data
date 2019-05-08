@@ -1,0 +1,1 @@
+class java_awt_TextField_getFocusTraversalKeys_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.getFocusTraversalKeys(-70948763);}}

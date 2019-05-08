@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthScrollBarUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthScrollBarUI obj = new javax.swing.plaf.synth.SynthScrollBarUI();obj.wait(2194870714714139197,1528553216);}}

@@ -1,0 +1,1 @@
+class java_nio_file_InvalidPathException_wait_long{ public static void function() {java.nio.file.InvalidPathException obj = new java.nio.file.InvalidPathException();obj.wait(-8790490682157522026);}}

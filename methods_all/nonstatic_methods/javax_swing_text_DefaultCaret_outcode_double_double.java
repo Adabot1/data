@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_outcode_double_double{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.outcode(0.9605074420991596,0.5524318036889821);}}

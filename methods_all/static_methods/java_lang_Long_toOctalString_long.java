@@ -1,0 +1,1 @@
+class java_lang_Long_toOctalString_long{ public static void function() {java.lang.Long.toOctalString(2430301429467044732);}}

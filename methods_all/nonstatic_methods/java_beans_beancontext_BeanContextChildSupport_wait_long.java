@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextChildSupport_wait_long{ public static void function() {java.beans.beancontext.BeanContextChildSupport obj = new java.beans.beancontext.BeanContextChildSupport();obj.wait(-5925506441720553093);}}

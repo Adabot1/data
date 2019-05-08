@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiComboBoxUI_getClass{ public static void function() {javax.swing.plaf.multi.MultiComboBoxUI obj = new javax.swing.plaf.multi.MultiComboBoxUI();obj.getClass();}}

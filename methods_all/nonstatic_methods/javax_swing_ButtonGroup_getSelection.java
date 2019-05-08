@@ -1,0 +1,1 @@
+class javax_swing_ButtonGroup_getSelection{ public static void function() {javax.swing.ButtonGroup obj = new javax.swing.ButtonGroup();obj.getSelection();}}

@@ -1,0 +1,1 @@
+class java_lang_ref_Cleaner_getClass{ public static void function() {java.lang.ref.Cleaner obj = new java.lang.ref.Cleaner();obj.getClass();}}

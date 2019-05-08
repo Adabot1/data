@@ -1,0 +1,1 @@
+class java_awt_image_SinglePixelPackedSampleModel_getOffset_int_int{ public static void function() {java.awt.image.SinglePixelPackedSampleModel obj = new java.awt.image.SinglePixelPackedSampleModel();obj.getOffset(-1815841922,-353378565);}}

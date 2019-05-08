@@ -1,0 +1,1 @@
+class java_security_cert_CertPathValidator_wait_long_int{ public static void function() {java.security.cert.CertPathValidator obj = new java.security.cert.CertPathValidator();obj.wait(6535761052133415201,-1155635320);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_remove_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.remove(1720974937);}}

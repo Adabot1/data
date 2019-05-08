@@ -1,0 +1,1 @@
+class java_beans_EventHandler_notify{ public static void function() {java.beans.EventHandler obj = new java.beans.EventHandler();obj.notify();}}

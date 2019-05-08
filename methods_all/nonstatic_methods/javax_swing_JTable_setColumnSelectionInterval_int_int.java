@@ -1,0 +1,1 @@
+class javax_swing_JTable_setColumnSelectionInterval_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.setColumnSelectionInterval(-1731419227,448385649);}}

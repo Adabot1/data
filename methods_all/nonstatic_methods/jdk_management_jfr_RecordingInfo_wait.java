@@ -1,0 +1,1 @@
+class jdk_management_jfr_RecordingInfo_wait{ public static void function() {jdk.management.jfr.RecordingInfo obj = new jdk.management.jfr.RecordingInfo();obj.wait();}}

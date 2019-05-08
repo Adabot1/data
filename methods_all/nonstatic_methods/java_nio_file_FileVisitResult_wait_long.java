@@ -1,0 +1,1 @@
+class java_nio_file_FileVisitResult_wait_long{ public static void function() {java.nio.file.FileVisitResult obj = new java.nio.file.FileVisitResult();obj.wait(-2239367208686306346);}}

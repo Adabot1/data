@@ -1,0 +1,1 @@
+class java_util_GregorianCalendar_get_int{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();obj.get(-632378192);}}

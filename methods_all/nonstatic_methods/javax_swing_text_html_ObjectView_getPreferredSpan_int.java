@@ -1,0 +1,1 @@
+class javax_swing_text_html_ObjectView_getPreferredSpan_int{ public static void function() {javax.swing.text.html.ObjectView obj = new javax.swing.text.html.ObjectView();obj.getPreferredSpan(-1075895580);}}

@@ -1,0 +1,1 @@
+class java_beans_Expression_wait_long_int{ public static void function() {java.beans.Expression obj = new java.beans.Expression();obj.wait(7944806875947314450,-2059900174);}}

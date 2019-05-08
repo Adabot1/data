@@ -1,0 +1,1 @@
+class java_sql_RowIdLifetime_ordinal{ public static void function() {java.sql.RowIdLifetime obj = new java.sql.RowIdLifetime();obj.ordinal();}}

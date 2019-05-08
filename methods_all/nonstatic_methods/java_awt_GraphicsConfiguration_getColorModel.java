@@ -1,0 +1,1 @@
+class java_awt_GraphicsConfiguration_getColorModel{ public static void function() {java.awt.GraphicsConfiguration obj = new java.awt.GraphicsConfiguration();obj.getColorModel();}}

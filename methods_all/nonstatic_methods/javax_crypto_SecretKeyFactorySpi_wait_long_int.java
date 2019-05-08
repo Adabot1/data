@@ -1,0 +1,1 @@
+class javax_crypto_SecretKeyFactorySpi_wait_long_int{ public static void function() {javax.crypto.SecretKeyFactorySpi obj = new javax.crypto.SecretKeyFactorySpi();obj.wait(-1724925690674891665,-2097056248);}}

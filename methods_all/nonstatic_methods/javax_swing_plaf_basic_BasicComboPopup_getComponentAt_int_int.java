@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_getComponentAt_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.getComponentAt(-882990912,-1287712782);}}

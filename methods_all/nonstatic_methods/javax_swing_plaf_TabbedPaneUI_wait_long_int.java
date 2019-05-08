@@ -1,0 +1,1 @@
+class javax_swing_plaf_TabbedPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.TabbedPaneUI obj = new javax.swing.plaf.TabbedPaneUI();obj.wait(-3672046534740197513,-1814627939);}}

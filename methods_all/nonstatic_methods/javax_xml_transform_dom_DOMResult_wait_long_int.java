@@ -1,0 +1,1 @@
+class javax_xml_transform_dom_DOMResult_wait_long_int{ public static void function() {javax.xml.transform.dom.DOMResult obj = new javax.xml.transform.dom.DOMResult();obj.wait(3914033969440196577,-326924001);}}

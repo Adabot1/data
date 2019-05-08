@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileCacheImageInputStream_wait_long{ public static void function() {javax.imageio.stream.FileCacheImageInputStream obj = new javax.imageio.stream.FileCacheImageInputStream();obj.wait(-4852119756718662360);}}

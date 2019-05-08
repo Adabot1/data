@@ -1,0 +1,1 @@
+class java_lang_reflect_InvocationTargetException_getMessage{ public static void function() {java.lang.reflect.InvocationTargetException obj = new java.lang.reflect.InvocationTargetException();obj.getMessage();}}

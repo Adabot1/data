@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageOutputStreamImpl_writeInt_int{ public static void function() {javax.imageio.stream.ImageOutputStreamImpl obj = new javax.imageio.stream.ImageOutputStreamImpl();obj.writeInt(-517945372);}}

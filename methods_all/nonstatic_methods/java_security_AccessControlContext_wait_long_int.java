@@ -1,0 +1,1 @@
+class java_security_AccessControlContext_wait_long_int{ public static void function() {java.security.AccessControlContext obj = new java.security.AccessControlContext();obj.wait(-6334679723884300805,1743052549);}}

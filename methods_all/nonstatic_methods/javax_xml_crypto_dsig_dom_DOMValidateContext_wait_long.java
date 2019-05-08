@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_dom_DOMValidateContext_wait_long{ public static void function() {javax.xml.crypto.dsig.dom.DOMValidateContext obj = new javax.xml.crypto.dsig.dom.DOMValidateContext();obj.wait(-478493415567596419);}}

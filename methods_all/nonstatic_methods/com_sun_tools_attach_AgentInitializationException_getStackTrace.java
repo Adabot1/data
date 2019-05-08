@@ -1,0 +1,1 @@
+class com_sun_tools_attach_AgentInitializationException_getStackTrace{ public static void function() {com.sun.tools.attach.AgentInitializationException obj = new com.sun.tools.attach.AgentInitializationException();obj.getStackTrace();}}

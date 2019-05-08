@@ -1,0 +1,1 @@
+class java_beans_BeanDescriptor_setHidden_boolean{ public static void function() {java.beans.BeanDescriptor obj = new java.beans.BeanDescriptor();obj.setHidden(false);}}

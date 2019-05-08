@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibilityProvider_hashCode{ public static void function() {javax.accessibility.AccessibilityProvider obj = new javax.accessibility.AccessibilityProvider();obj.hashCode();}}

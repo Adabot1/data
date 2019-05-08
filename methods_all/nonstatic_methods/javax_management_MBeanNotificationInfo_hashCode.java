@@ -1,0 +1,1 @@
+class javax_management_MBeanNotificationInfo_hashCode{ public static void function() {javax.management.MBeanNotificationInfo obj = new javax.management.MBeanNotificationInfo();obj.hashCode();}}

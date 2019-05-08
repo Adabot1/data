@@ -1,0 +1,1 @@
+class java_io_ObjectStreamClass_getSerialVersionUID{ public static void function() {java.io.ObjectStreamClass obj = new java.io.ObjectStreamClass();obj.getSerialVersionUID();}}

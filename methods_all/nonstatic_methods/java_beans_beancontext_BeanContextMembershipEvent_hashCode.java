@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextMembershipEvent_hashCode{ public static void function() {java.beans.beancontext.BeanContextMembershipEvent obj = new java.beans.beancontext.BeanContextMembershipEvent();obj.hashCode();}}

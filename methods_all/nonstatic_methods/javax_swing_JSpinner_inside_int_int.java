@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_inside_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.inside(-748819948,2027614829);}}

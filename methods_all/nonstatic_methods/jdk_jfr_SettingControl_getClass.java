@@ -1,0 +1,1 @@
+class jdk_jfr_SettingControl_getClass{ public static void function() {jdk.jfr.SettingControl obj = new jdk.jfr.SettingControl();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_awt_event_HierarchyBoundsAdapter_wait_long{ public static void function() {java.awt.event.HierarchyBoundsAdapter obj = new java.awt.event.HierarchyBoundsAdapter();obj.wait(570839345152762390);}}

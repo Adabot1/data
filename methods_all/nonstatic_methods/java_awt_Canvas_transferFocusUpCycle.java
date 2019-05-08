@@ -1,0 +1,1 @@
+class java_awt_Canvas_transferFocusUpCycle{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.transferFocusUpCycle();}}

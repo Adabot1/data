@@ -1,0 +1,1 @@
+class java_security_spec_RSAOtherPrimeInfo_getClass{ public static void function() {java.security.spec.RSAOtherPrimeInfo obj = new java.security.spec.RSAOtherPrimeInfo();obj.getClass();}}

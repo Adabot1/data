@@ -1,0 +1,1 @@
+class javax_naming_CompoundName_remove_int{ public static void function() {javax.naming.CompoundName obj = new javax.naming.CompoundName();obj.remove(-1884400297);}}

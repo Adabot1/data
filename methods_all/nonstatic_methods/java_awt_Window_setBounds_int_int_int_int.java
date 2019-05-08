@@ -1,0 +1,1 @@
+class java_awt_Window_setBounds_int_int_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.setBounds(-862937847,-665273426,-737962348,1345128043);}}

@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_repaint_int_int_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.repaint(1236785316,-1460325587,2016423844,-2023036655);}}

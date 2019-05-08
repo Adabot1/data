@@ -1,0 +1,1 @@
+class java_io_PrintWriter_wait_long_int{ public static void function() {java.io.PrintWriter obj = new java.io.PrintWriter();obj.wait(-2564833305879269743,1643923724);}}

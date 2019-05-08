@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_getComponentAt_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.getComponentAt(-1756640264,160625451);}}

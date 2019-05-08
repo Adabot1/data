@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_isOptimizedDrawingEnabled{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.isOptimizedDrawingEnabled();}}

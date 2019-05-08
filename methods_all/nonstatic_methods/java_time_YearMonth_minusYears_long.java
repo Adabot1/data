@@ -1,0 +1,1 @@
+class java_time_YearMonth_minusYears_long{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.minusYears(-7200005272728873375);}}

@@ -1,0 +1,1 @@
+class java_awt_AWTEvent_getID{ public static void function() {java.awt.AWTEvent obj = new java.awt.AWTEvent();obj.getID();}}

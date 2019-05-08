@@ -1,0 +1,1 @@
+class java_util_Objects_wait_long_int{ public static void function() {java.util.Objects obj = new java.util.Objects();obj.wait(2336806922506907215,1883402914);}}

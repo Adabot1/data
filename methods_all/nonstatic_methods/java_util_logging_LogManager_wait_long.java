@@ -1,0 +1,1 @@
+class java_util_logging_LogManager_wait_long{ public static void function() {java.util.logging.LogManager obj = new java.util.logging.LogManager();obj.wait(1869117014309289511);}}

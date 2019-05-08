@@ -1,0 +1,1 @@
+class java_awt_image_ShortLookupTable_wait_long_int{ public static void function() {java.awt.image.ShortLookupTable obj = new java.awt.image.ShortLookupTable();obj.wait(938671736747521228,1911309670);}}

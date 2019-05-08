@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_wait_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.wait(4315160233396376276);}}

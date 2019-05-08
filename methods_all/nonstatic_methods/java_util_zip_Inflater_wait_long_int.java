@@ -1,0 +1,1 @@
+class java_util_zip_Inflater_wait_long_int{ public static void function() {java.util.zip.Inflater obj = new java.util.zip.Inflater();obj.wait(5308614649746733231,1128858917);}}

@@ -1,0 +1,1 @@
+class org_ietf_jgss_GSSManager_hashCode{ public static void function() {org.ietf.jgss.GSSManager obj = new org.ietf.jgss.GSSManager();obj.hashCode();}}

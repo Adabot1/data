@@ -1,0 +1,1 @@
+class java_lang_StrictMath_hypot_double_double{ public static void function() {java.lang.StrictMath.hypot(0.7623251868031626,0.11699381269266396);}}

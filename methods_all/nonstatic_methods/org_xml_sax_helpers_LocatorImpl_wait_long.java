@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_LocatorImpl_wait_long{ public static void function() {org.xml.sax.helpers.LocatorImpl obj = new org.xml.sax.helpers.LocatorImpl();obj.wait(-2057123597015885276);}}

@@ -1,0 +1,1 @@
+class java_awt_RadialGradientPaint_getCenterPoint{ public static void function() {java.awt.RadialGradientPaint obj = new java.awt.RadialGradientPaint();obj.getCenterPoint();}}

@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_draw3DRect_int_int_int_int_boolean{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.draw3DRect(-26479671,-330309086,1443513829,607044679,false);}}

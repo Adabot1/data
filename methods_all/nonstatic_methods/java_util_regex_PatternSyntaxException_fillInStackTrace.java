@@ -1,0 +1,1 @@
+class java_util_regex_PatternSyntaxException_fillInStackTrace{ public static void function() {java.util.regex.PatternSyntaxException obj = new java.util.regex.PatternSyntaxException();obj.fillInStackTrace();}}

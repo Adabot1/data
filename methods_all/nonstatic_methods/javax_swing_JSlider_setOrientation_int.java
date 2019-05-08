@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setOrientation_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setOrientation(1698331635);}}

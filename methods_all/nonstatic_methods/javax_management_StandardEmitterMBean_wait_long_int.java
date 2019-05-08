@@ -1,0 +1,1 @@
+class javax_management_StandardEmitterMBean_wait_long_int{ public static void function() {javax.management.StandardEmitterMBean obj = new javax.management.StandardEmitterMBean();obj.wait(-973499016074498581,80235521);}}

@@ -1,0 +1,1 @@
+class java_util_logging_LogManager_getClass{ public static void function() {java.util.logging.LogManager obj = new java.util.logging.LogManager();obj.getClass();}}

@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_getBaseline_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.getBaseline(1275345361,-1357913026);}}

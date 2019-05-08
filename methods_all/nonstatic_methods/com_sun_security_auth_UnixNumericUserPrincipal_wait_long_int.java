@@ -1,0 +1,1 @@
+class com_sun_security_auth_UnixNumericUserPrincipal_wait_long_int{ public static void function() {com.sun.security.auth.UnixNumericUserPrincipal obj = new com.sun.security.auth.UnixNumericUserPrincipal();obj.wait(-9195194049993891218,-1423511937);}}

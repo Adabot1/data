@@ -1,0 +1,1 @@
+class java_awt_TextField_reshape_int_int_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.reshape(1044289515,182734905,508932782,-994804645);}}

@@ -1,0 +1,1 @@
+class javax_sound_sampled_spi_AudioFileReader_hashCode{ public static void function() {javax.sound.sampled.spi.AudioFileReader obj = new javax.sound.sampled.spi.AudioFileReader();obj.hashCode();}}

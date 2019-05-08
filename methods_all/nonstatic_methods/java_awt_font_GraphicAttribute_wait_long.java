@@ -1,0 +1,1 @@
+class java_awt_font_GraphicAttribute_wait_long{ public static void function() {java.awt.font.GraphicAttribute obj = new java.awt.font.GraphicAttribute();obj.wait(2263920890631510133);}}

@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_isFocusTraversalPolicySet{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.isFocusTraversalPolicySet();}}

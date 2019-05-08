@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpsParameters_setNeedClientAuth_boolean{ public static void function() {com.sun.net.httpserver.HttpsParameters obj = new com.sun.net.httpserver.HttpsParameters();obj.setNeedClientAuth(false);}}

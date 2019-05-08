@@ -1,0 +1,1 @@
+class java_sql_Date_setTime_long{ public static void function() {java.sql.Date obj = new java.sql.Date();obj.setTime(-3249647916179448552);}}

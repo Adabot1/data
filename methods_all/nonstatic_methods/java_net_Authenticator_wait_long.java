@@ -1,0 +1,1 @@
+class java_net_Authenticator_wait_long{ public static void function() {java.net.Authenticator obj = new java.net.Authenticator();obj.wait(5370591126476580695);}}

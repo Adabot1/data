@@ -1,0 +1,1 @@
+class javax_security_auth_login_Configuration_wait_long{ public static void function() {javax.security.auth.login.Configuration obj = new javax.security.auth.login.Configuration();obj.wait(6363988728161118184);}}

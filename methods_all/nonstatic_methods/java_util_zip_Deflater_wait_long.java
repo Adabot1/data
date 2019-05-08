@@ -1,0 +1,1 @@
+class java_util_zip_Deflater_wait_long{ public static void function() {java.util.zip.Deflater obj = new java.util.zip.Deflater();obj.wait(-1687983105421226286);}}

@@ -1,0 +1,1 @@
+class java_util_Formatter_ioException{ public static void function() {java.util.Formatter obj = new java.util.Formatter();obj.ioException();}}

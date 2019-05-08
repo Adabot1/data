@@ -1,0 +1,1 @@
+class java_util_PropertyPermission_getActions{ public static void function() {java.util.PropertyPermission obj = new java.util.PropertyPermission();obj.getActions();}}

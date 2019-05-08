@@ -1,0 +1,1 @@
+class javax_swing_PopupFactory_wait_long_int{ public static void function() {javax.swing.PopupFactory obj = new javax.swing.PopupFactory();obj.wait(-2336768254942720372,1521052711);}}

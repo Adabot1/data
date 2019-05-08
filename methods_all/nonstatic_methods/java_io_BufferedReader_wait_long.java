@@ -1,0 +1,1 @@
+class java_io_BufferedReader_wait_long{ public static void function() {java.io.BufferedReader obj = new java.io.BufferedReader();obj.wait(-6946737241824755003);}}

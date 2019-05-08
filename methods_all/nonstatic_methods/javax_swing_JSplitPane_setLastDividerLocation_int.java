@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_setLastDividerLocation_int{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.setLastDividerLocation(957739196);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_AbstractQueuedLongSynchronizer_releaseShared_long{ public static void function() {java.util.concurrent.locks.AbstractQueuedLongSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedLongSynchronizer();obj.releaseShared(1444314462838328227);}}

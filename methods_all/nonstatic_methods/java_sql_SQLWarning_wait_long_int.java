@@ -1,0 +1,1 @@
+class java_sql_SQLWarning_wait_long_int{ public static void function() {java.sql.SQLWarning obj = new java.sql.SQLWarning();obj.wait(383895281833156441,-1519175913);}}

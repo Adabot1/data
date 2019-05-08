@@ -1,0 +1,1 @@
+class java_awt_PageAttributes_wait_long_int{ public static void function() {java.awt.PageAttributes obj = new java.awt.PageAttributes();obj.wait(5686044758799856538,1557224098);}}

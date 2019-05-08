@@ -1,0 +1,1 @@
+class java_io_Writer_wait_long_int{ public static void function() {java.io.Writer obj = new java.io.Writer();obj.wait(7522351581909503033,1489461108);}}

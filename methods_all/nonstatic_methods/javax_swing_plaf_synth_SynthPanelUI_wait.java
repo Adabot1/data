@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthPanelUI_wait{ public static void function() {javax.swing.plaf.synth.SynthPanelUI obj = new javax.swing.plaf.synth.SynthPanelUI();obj.wait();}}

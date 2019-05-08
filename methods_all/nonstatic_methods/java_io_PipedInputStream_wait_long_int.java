@@ -1,0 +1,1 @@
+class java_io_PipedInputStream_wait_long_int{ public static void function() {java.io.PipedInputStream obj = new java.io.PipedInputStream();obj.wait(-653395311171759713,177826341);}}

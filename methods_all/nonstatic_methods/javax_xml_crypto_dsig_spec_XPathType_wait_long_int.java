@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_spec_XPathType_wait_long_int{ public static void function() {javax.xml.crypto.dsig.spec.XPathType obj = new javax.xml.crypto.dsig.spec.XPathType();obj.wait(-6753367626429732118,-1384399100);}}

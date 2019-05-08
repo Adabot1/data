@@ -1,0 +1,1 @@
+class java_awt_Window_getWindows{ public static void function() {java.awt.Window.getWindows();}}

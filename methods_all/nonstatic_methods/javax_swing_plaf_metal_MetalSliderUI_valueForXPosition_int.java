@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalSliderUI_valueForXPosition_int{ public static void function() {javax.swing.plaf.metal.MetalSliderUI obj = new javax.swing.plaf.metal.MetalSliderUI();obj.valueForXPosition(-1078654869);}}

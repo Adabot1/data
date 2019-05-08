@@ -1,0 +1,1 @@
+class java_net_http_HttpRequest_newBuilder{ public static void function() {java.net.http.HttpRequest.newBuilder();}}

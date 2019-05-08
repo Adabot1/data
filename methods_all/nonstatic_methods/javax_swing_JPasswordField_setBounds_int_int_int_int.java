@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_setBounds_int_int_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.setBounds(693561954,-1295709742,1494556871,609090834);}}

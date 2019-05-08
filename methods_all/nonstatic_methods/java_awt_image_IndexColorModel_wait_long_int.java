@@ -1,0 +1,1 @@
+class java_awt_image_IndexColorModel_wait_long_int{ public static void function() {java.awt.image.IndexColorModel obj = new java.awt.image.IndexColorModel();obj.wait(-2714877255391072115,1992708126);}}

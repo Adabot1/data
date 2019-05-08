@@ -1,0 +1,1 @@
+class javax_swing_ButtonGroup_wait_long{ public static void function() {javax.swing.ButtonGroup obj = new javax.swing.ButtonGroup();obj.wait(-5423742471389944429);}}

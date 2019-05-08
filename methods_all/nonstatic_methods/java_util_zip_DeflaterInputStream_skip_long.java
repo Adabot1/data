@@ -1,0 +1,1 @@
+class java_util_zip_DeflaterInputStream_skip_long{ public static void function() {java.util.zip.DeflaterInputStream obj = new java.util.zip.DeflaterInputStream();obj.skip(3395808859912664677);}}

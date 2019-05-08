@@ -1,0 +1,1 @@
+class javax_swing_JTable_findComponentAt_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.findComponentAt(-434376309,-131808549);}}

@@ -1,0 +1,1 @@
+class javax_management_relation_RoleList_ensureCapacity_int{ public static void function() {javax.management.relation.RoleList obj = new javax.management.relation.RoleList();obj.ensureCapacity(-856921041);}}

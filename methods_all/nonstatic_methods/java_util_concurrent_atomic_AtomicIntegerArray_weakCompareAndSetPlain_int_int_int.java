@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_weakCompareAndSetPlain_int_int_int{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.weakCompareAndSetPlain(-451423994,-2143105711,-949549529);}}

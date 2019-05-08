@@ -1,0 +1,1 @@
+class javax_imageio_spi_IIORegistry_wait_long_int{ public static void function() {javax.imageio.spi.IIORegistry obj = new javax.imageio.spi.IIORegistry();obj.wait(4997401130990485075,289666577);}}

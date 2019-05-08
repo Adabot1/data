@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_findComponentAt_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.findComponentAt(-433540333,-31183536);}}

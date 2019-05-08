@@ -1,0 +1,1 @@
+class java_rmi_dgc_Lease_hashCode{ public static void function() {java.rmi.dgc.Lease obj = new java.rmi.dgc.Lease();obj.hashCode();}}

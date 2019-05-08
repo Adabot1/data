@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileFilter_toString{ public static void function() {javax.swing.filechooser.FileFilter obj = new javax.swing.filechooser.FileFilter();obj.toString();}}

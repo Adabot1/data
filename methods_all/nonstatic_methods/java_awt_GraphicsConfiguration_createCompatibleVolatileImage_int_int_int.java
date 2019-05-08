@@ -1,0 +1,1 @@
+class java_awt_GraphicsConfiguration_createCompatibleVolatileImage_int_int_int{ public static void function() {java.awt.GraphicsConfiguration obj = new java.awt.GraphicsConfiguration();obj.createCompatibleVolatileImage(1187490634,130367659,1750416887);}}

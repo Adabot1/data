@@ -1,0 +1,1 @@
+class javax_swing_DefaultDesktopManager_wait_long{ public static void function() {javax.swing.DefaultDesktopManager obj = new javax.swing.DefaultDesktopManager();obj.wait(-414361698864162927);}}

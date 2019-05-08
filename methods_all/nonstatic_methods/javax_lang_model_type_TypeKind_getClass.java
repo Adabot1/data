@@ -1,0 +1,1 @@
+class javax_lang_model_type_TypeKind_getClass{ public static void function() {javax.lang.model.type.TypeKind obj = new javax.lang.model.type.TypeKind();obj.getClass();}}

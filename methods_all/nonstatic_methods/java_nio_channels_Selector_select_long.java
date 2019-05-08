@@ -1,0 +1,1 @@
+class java_nio_channels_Selector_select_long{ public static void function() {java.nio.channels.Selector obj = new java.nio.channels.Selector();obj.select(-8552355339957038486);}}

@@ -1,0 +1,1 @@
+class java_awt_image_DirectColorModel_createCompatibleSampleModel_int_int{ public static void function() {java.awt.image.DirectColorModel obj = new java.awt.image.DirectColorModel();obj.createCompatibleSampleModel(-674983747,-139676271);}}

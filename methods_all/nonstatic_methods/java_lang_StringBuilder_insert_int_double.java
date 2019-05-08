@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_insert_int_double{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.insert(-1339376022,0.858419103893112);}}

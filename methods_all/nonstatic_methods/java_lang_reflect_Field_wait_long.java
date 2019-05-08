@@ -1,0 +1,1 @@
+class java_lang_reflect_Field_wait_long{ public static void function() {java.lang.reflect.Field obj = new java.lang.reflect.Field();obj.wait(6976838392370668002);}}

@@ -1,0 +1,1 @@
+class java_util_BitSet_nextSetBit_int{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.nextSetBit(-1820850798);}}

@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_setSize_int_int{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.setSize(826387537,-715177948);}}

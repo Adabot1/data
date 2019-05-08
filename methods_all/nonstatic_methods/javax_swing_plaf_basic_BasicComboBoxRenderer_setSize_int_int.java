@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboBoxRenderer_setSize_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboBoxRenderer obj = new javax.swing.plaf.basic.BasicComboBoxRenderer();obj.setSize(-1746868031,681154671);}}

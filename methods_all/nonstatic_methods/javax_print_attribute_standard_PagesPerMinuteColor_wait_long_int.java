@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PagesPerMinuteColor_wait_long_int{ public static void function() {javax.print.attribute.standard.PagesPerMinuteColor obj = new javax.print.attribute.standard.PagesPerMinuteColor();obj.wait(-7693122231296266275,1557561218);}}

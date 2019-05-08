@@ -1,0 +1,1 @@
+class javax_swing_JSlider_wait_long_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.wait(9187675627224762746,-1414322837);}}

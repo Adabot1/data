@@ -1,0 +1,1 @@
+class java_awt_Graphics_hitClip_int_int_int_int{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.hitClip(-1473587494,726993760,-1291480206,1116960749);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_ContentModel_wait_long_int{ public static void function() {javax.swing.text.html.parser.ContentModel obj = new javax.swing.text.html.parser.ContentModel();obj.wait(-1648772356348051889,-866539341);}}

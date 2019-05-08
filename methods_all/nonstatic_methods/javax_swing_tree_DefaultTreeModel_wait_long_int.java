@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeModel_wait_long_int{ public static void function() {javax.swing.tree.DefaultTreeModel obj = new javax.swing.tree.DefaultTreeModel();obj.wait(-171422320918284007,305292714);}}

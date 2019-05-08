@@ -1,0 +1,1 @@
+class java_io_ByteArrayOutputStream_wait_long{ public static void function() {java.io.ByteArrayOutputStream obj = new java.io.ByteArrayOutputStream();obj.wait(-7109804578942546743);}}

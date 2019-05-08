@@ -1,0 +1,1 @@
+class java_io_InputStreamReader_hashCode{ public static void function() {java.io.InputStreamReader obj = new java.io.InputStreamReader();obj.hashCode();}}

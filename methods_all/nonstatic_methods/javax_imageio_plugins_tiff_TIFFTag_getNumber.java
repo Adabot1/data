@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFTag_getNumber{ public static void function() {javax.imageio.plugins.tiff.TIFFTag obj = new javax.imageio.plugins.tiff.TIFFTag();obj.getNumber();}}

@@ -1,0 +1,1 @@
+class com_sun_jdi_ClassNotLoadedException_className{ public static void function() {com.sun.jdi.ClassNotLoadedException obj = new com.sun.jdi.ClassNotLoadedException();obj.className();}}

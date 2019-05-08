@@ -1,0 +1,1 @@
+class java_rmi_server_RMIClassLoaderSpi_notify{ public static void function() {java.rmi.server.RMIClassLoaderSpi obj = new java.rmi.server.RMIClassLoaderSpi();obj.notify();}}

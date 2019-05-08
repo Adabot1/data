@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_getUnitIncrement_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.getUnitIncrement(1301116273);}}

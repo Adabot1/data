@@ -1,0 +1,1 @@
+class javax_swing_border_LineBorder_createGrayLineBorder{ public static void function() {javax.swing.border.LineBorder.createGrayLineBorder();}}

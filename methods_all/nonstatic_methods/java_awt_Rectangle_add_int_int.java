@@ -1,0 +1,1 @@
+class java_awt_Rectangle_add_int_int{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.add(-1766946653,423671063);}}

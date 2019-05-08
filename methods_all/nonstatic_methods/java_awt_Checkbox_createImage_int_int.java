@@ -1,0 +1,1 @@
+class java_awt_Checkbox_createImage_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.createImage(1583442063,2032768910);}}

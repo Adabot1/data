@@ -1,0 +1,1 @@
+class java_awt_Component_addNotify{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.addNotify();}}

@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_getTileHeight_int{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.getTileHeight(-1491710722);}}

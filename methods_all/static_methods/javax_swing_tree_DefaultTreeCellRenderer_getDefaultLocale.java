@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_getDefaultLocale{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer.getDefaultLocale();}}

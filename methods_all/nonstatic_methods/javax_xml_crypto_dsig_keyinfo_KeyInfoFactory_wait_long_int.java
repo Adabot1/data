@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_keyinfo_KeyInfoFactory_wait_long_int{ public static void function() {javax.xml.crypto.dsig.keyinfo.KeyInfoFactory obj = new javax.xml.crypto.dsig.keyinfo.KeyInfoFactory();obj.wait(-3660554746038643379,901768241);}}

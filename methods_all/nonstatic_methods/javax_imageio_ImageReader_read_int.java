@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_read_int{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.read(-1036003125);}}

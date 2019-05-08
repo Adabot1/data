@@ -1,0 +1,1 @@
+class javax_smartcardio_CardPermission_notify{ public static void function() {javax.smartcardio.CardPermission obj = new javax.smartcardio.CardPermission();obj.notify();}}

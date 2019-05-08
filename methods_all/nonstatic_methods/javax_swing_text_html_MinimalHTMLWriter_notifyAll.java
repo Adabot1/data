@@ -1,0 +1,1 @@
+class javax_swing_text_html_MinimalHTMLWriter_notifyAll{ public static void function() {javax.swing.text.html.MinimalHTMLWriter obj = new javax.swing.text.html.MinimalHTMLWriter();obj.notifyAll();}}

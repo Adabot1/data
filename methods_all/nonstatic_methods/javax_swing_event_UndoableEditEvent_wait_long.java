@@ -1,0 +1,1 @@
+class javax_swing_event_UndoableEditEvent_wait_long{ public static void function() {javax.swing.event.UndoableEditEvent obj = new javax.swing.event.UndoableEditEvent();obj.wait(-1100646430225825437);}}

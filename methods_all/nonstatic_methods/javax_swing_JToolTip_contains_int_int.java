@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_contains_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.contains(38895801,2052627262);}}

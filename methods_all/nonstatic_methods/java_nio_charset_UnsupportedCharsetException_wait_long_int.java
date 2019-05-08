@@ -1,0 +1,1 @@
+class java_nio_charset_UnsupportedCharsetException_wait_long_int{ public static void function() {java.nio.charset.UnsupportedCharsetException obj = new java.nio.charset.UnsupportedCharsetException();obj.wait(5273157458798639044,-292579837);}}

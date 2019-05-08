@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthDesktopIconUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthDesktopIconUI obj = new javax.swing.plaf.synth.SynthDesktopIconUI();obj.wait(870340985638389945,-933571549);}}

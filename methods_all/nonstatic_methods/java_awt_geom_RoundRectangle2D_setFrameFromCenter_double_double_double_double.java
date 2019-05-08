@@ -1,0 +1,1 @@
+class java_awt_geom_RoundRectangle2D_setFrameFromCenter_double_double_double_double{ public static void function() {java.awt.geom.RoundRectangle2D obj = new java.awt.geom.RoundRectangle2D();obj.setFrameFromCenter(0.6952279200013086,0.3460509185676931,0.3713277905556607,0.06708922309638299);}}

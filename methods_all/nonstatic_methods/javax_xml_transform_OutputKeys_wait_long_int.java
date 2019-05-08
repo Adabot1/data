@@ -1,0 +1,1 @@
+class javax_xml_transform_OutputKeys_wait_long_int{ public static void function() {javax.xml.transform.OutputKeys obj = new javax.xml.transform.OutputKeys();obj.wait(6353718657036888234,120078887);}}

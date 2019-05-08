@@ -1,0 +1,1 @@
+class java_io_PushbackInputStream_mark_int{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();obj.mark(1315156799);}}

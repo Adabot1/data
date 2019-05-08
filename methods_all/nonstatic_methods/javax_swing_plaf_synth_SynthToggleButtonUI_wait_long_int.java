@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthToggleButtonUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthToggleButtonUI obj = new javax.swing.plaf.synth.SynthToggleButtonUI();obj.wait(7600847620621709099,-1512929372);}}

@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedClass_getFields{ public static void function() {jdk.jfr.consumer.RecordedClass obj = new jdk.jfr.consumer.RecordedClass();obj.getFields();}}

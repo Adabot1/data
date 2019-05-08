@@ -1,0 +1,1 @@
+class java_sql_PseudoColumnUsage_wait_long_int{ public static void function() {java.sql.PseudoColumnUsage obj = new java.sql.PseudoColumnUsage();obj.wait(7968978181527649109,-998064589);}}

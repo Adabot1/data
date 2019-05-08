@@ -1,0 +1,1 @@
+class java_nio_file_attribute_UserPrincipalNotFoundException_wait_long{ public static void function() {java.nio.file.attribute.UserPrincipalNotFoundException obj = new java.nio.file.attribute.UserPrincipalNotFoundException();obj.wait(5349700021250708564);}}

@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_ScriptUtils_wait_long_int{ public static void function() {jdk.nashorn.api.scripting.ScriptUtils obj = new jdk.nashorn.api.scripting.ScriptUtils();obj.wait(-1615894991182010964,216246073);}}

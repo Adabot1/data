@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_contains_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.contains(-1996551420,-223633753);}}

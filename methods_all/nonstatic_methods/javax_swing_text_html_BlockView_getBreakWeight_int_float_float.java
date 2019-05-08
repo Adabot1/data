@@ -1,0 +1,1 @@
+class javax_swing_text_html_BlockView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.html.BlockView obj = new javax.swing.text.html.BlockView();obj.getBreakWeight(151790769,0.5959739,0.27586603);}}

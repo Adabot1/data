@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinPool_commonPool{ public static void function() {java.util.concurrent.ForkJoinPool.commonPool();}}

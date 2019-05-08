@@ -1,0 +1,1 @@
+class javax_swing_text_LabelView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.LabelView obj = new javax.swing.text.LabelView();obj.getBreakWeight(-605954695,0.30199766,0.052658916);}}

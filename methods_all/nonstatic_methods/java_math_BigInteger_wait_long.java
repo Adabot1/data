@@ -1,0 +1,1 @@
+class java_math_BigInteger_wait_long{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();obj.wait(-1997383812192331158);}}

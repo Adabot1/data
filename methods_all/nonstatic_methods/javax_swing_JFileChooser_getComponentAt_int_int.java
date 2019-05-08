@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_getComponentAt_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.getComponentAt(-406837291,-697438934);}}

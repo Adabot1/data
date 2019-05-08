@@ -1,0 +1,1 @@
+class javax_swing_JTable_getBaseline_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.getBaseline(-633751328,1397593744);}}

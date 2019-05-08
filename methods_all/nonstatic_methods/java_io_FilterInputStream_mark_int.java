@@ -1,0 +1,1 @@
+class java_io_FilterInputStream_mark_int{ public static void function() {java.io.FilterInputStream obj = new java.io.FilterInputStream();obj.mark(-1302805669);}}

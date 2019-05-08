@@ -1,0 +1,1 @@
+class javax_swing_DefaultBoundedRangeModel_setValueIsAdjusting_boolean{ public static void function() {javax.swing.DefaultBoundedRangeModel obj = new javax.swing.DefaultBoundedRangeModel();obj.setValueIsAdjusting(false);}}

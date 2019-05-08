@@ -1,0 +1,1 @@
+class javax_management_ReflectionException_wait_long{ public static void function() {javax.management.ReflectionException obj = new javax.management.ReflectionException();obj.wait(-8860970020567779513);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_setEnabled_boolean{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.setEnabled(false);}}

@@ -1,0 +1,1 @@
+class java_awt_FileDialog_reshape_int_int_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.reshape(682485438,-804039153,-956780110,-1408140041);}}

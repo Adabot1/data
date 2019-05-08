@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_removeAll{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.removeAll();}}

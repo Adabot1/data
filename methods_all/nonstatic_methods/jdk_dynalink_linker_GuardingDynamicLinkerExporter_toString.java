@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_GuardingDynamicLinkerExporter_toString{ public static void function() {jdk.dynalink.linker.GuardingDynamicLinkerExporter obj = new jdk.dynalink.linker.GuardingDynamicLinkerExporter();obj.toString();}}

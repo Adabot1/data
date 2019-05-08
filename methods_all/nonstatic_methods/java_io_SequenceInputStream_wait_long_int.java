@@ -1,0 +1,1 @@
+class java_io_SequenceInputStream_wait_long_int{ public static void function() {java.io.SequenceInputStream obj = new java.io.SequenceInputStream();obj.wait(8326283110323946162,-1217373302);}}

@@ -1,0 +1,1 @@
+class java_util_Random_longs_long_long_long{ public static void function() {java.util.Random obj = new java.util.Random();obj.longs(3491840014421226138,-8661286818726025620,-6422453286764721734);}}

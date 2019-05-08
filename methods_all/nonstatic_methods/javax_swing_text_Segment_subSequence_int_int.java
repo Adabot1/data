@@ -1,0 +1,1 @@
+class javax_swing_text_Segment_subSequence_int_int{ public static void function() {javax.swing.text.Segment obj = new javax.swing.text.Segment();obj.subSequence(-1508869953,-1484736830);}}

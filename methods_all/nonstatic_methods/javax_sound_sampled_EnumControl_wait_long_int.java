@@ -1,0 +1,1 @@
+class javax_sound_sampled_EnumControl_wait_long_int{ public static void function() {javax.sound.sampled.EnumControl obj = new javax.sound.sampled.EnumControl();obj.wait(-4384176774993801680,312484706);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_ObjectView_wait_long_int{ public static void function() {javax.swing.text.html.ObjectView obj = new javax.swing.text.html.ObjectView();obj.wait(6810730064671070931,-711253897);}}

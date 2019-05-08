@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicTreeUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicTreeUI obj = new javax.swing.plaf.basic.BasicTreeUI();obj.wait(5950106927105905990,1327689560);}}

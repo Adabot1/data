@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_createImage_int_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.createImage(-1297727303,418723552);}}

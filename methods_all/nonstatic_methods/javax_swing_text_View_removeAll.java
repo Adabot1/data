@@ -1,0 +1,1 @@
+class javax_swing_text_View_removeAll{ public static void function() {javax.swing.text.View obj = new javax.swing.text.View();obj.removeAll();}}

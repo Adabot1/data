@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTML_getAllTags{ public static void function() {javax.swing.text.html.HTML.getAllTags();}}

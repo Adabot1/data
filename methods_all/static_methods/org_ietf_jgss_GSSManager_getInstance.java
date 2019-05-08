@@ -1,0 +1,1 @@
+class org_ietf_jgss_GSSManager_getInstance{ public static void function() {org.ietf.jgss.GSSManager.getInstance();}}

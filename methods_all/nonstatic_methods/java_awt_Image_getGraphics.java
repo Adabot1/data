@@ -1,0 +1,1 @@
+class java_awt_Image_getGraphics{ public static void function() {java.awt.Image obj = new java.awt.Image();obj.getGraphics();}}

@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoEra_wait_long{ public static void function() {java.time.chrono.MinguoEra obj = new java.time.chrono.MinguoEra();obj.wait(-3228617257834520528);}}

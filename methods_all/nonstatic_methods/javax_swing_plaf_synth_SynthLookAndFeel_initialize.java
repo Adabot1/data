@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthLookAndFeel_initialize{ public static void function() {javax.swing.plaf.synth.SynthLookAndFeel obj = new javax.swing.plaf.synth.SynthLookAndFeel();obj.initialize();}}

@@ -1,0 +1,1 @@
+class java_util_jar_Manifest_wait_long{ public static void function() {java.util.jar.Manifest obj = new java.util.jar.Manifest();obj.wait(1631397858798894267);}}

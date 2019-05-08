@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_findComponentAt_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.findComponentAt(-6275814,585838757);}}

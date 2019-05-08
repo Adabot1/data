@@ -1,0 +1,1 @@
+class java_awt_SplashScreen_wait_long{ public static void function() {java.awt.SplashScreen obj = new java.awt.SplashScreen();obj.wait(1485912756121688763);}}

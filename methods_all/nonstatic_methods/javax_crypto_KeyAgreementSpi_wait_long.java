@@ -1,0 +1,1 @@
+class javax_crypto_KeyAgreementSpi_wait_long{ public static void function() {javax.crypto.KeyAgreementSpi obj = new javax.crypto.KeyAgreementSpi();obj.wait(-3414881685803491395);}}

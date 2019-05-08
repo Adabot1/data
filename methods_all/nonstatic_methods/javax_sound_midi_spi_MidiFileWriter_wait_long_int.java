@@ -1,0 +1,1 @@
+class javax_sound_midi_spi_MidiFileWriter_wait_long_int{ public static void function() {javax.sound.midi.spi.MidiFileWriter obj = new javax.sound.midi.spi.MidiFileWriter();obj.wait(3733445013699211451,896430330);}}

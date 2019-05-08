@@ -1,0 +1,1 @@
+class java_security_cert_PKIXBuilderParameters_setMaxPathLength_int{ public static void function() {java.security.cert.PKIXBuilderParameters obj = new java.security.cert.PKIXBuilderParameters();obj.setMaxPathLength(-2098189857);}}

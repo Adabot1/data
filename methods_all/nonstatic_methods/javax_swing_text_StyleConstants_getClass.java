@@ -1,0 +1,1 @@
+class javax_swing_text_StyleConstants_getClass{ public static void function() {javax.swing.text.StyleConstants obj = new javax.swing.text.StyleConstants();obj.getClass();}}

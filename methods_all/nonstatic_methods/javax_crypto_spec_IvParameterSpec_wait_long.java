@@ -1,0 +1,1 @@
+class javax_crypto_spec_IvParameterSpec_wait_long{ public static void function() {javax.crypto.spec.IvParameterSpec obj = new javax.crypto.spec.IvParameterSpec();obj.wait(-8531369377385223039);}}

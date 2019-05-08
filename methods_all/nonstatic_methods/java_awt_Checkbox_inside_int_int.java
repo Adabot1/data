@@ -1,0 +1,1 @@
+class java_awt_Checkbox_inside_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.inside(-829929490,1938805314);}}

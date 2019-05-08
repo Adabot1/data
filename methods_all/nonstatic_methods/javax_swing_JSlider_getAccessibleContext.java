@@ -1,0 +1,1 @@
+class javax_swing_JSlider_getAccessibleContext{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.getAccessibleContext();}}

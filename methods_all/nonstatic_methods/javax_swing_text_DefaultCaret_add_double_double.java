@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_add_double_double{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.add(0.6367870209530312,0.8257419252884807);}}

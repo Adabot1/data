@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_wait_long_int{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.wait(-3894896759083083291,1702847685);}}

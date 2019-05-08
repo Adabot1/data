@@ -1,0 +1,1 @@
+class javax_swing_border_LineBorder_hashCode{ public static void function() {javax.swing.border.LineBorder obj = new javax.swing.border.LineBorder();obj.hashCode();}}

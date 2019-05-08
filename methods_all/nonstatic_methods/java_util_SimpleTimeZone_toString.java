@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_toString{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.toString();}}

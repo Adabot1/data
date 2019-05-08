@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalSliderUI_scrollByUnit_int{ public static void function() {javax.swing.plaf.metal.MetalSliderUI obj = new javax.swing.plaf.metal.MetalSliderUI();obj.scrollByUnit(492828787);}}

@@ -1,0 +1,1 @@
+class jdk_jfr_AnnotationElement_getAnnotationElements{ public static void function() {jdk.jfr.AnnotationElement obj = new jdk.jfr.AnnotationElement();obj.getAnnotationElements();}}

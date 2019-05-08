@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_setLocation_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.setLocation(-755620106,-1995419579);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_createImage_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.createImage(-200264310,-827461107);}}

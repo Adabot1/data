@@ -1,0 +1,1 @@
+class java_nio_file_attribute_PosixFilePermissions_wait_long{ public static void function() {java.nio.file.attribute.PosixFilePermissions obj = new java.nio.file.attribute.PosixFilePermissions();obj.wait(-624404215886102436);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollButton_getComponentAt_int_int{ public static void function() {javax.swing.plaf.metal.MetalScrollButton obj = new javax.swing.plaf.metal.MetalScrollButton();obj.getComponentAt(1823001014,-1394146831);}}

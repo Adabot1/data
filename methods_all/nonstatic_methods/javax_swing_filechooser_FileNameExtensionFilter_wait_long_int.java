@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileNameExtensionFilter_wait_long_int{ public static void function() {javax.swing.filechooser.FileNameExtensionFilter obj = new javax.swing.filechooser.FileNameExtensionFilter();obj.wait(9092086688263574706,2104026321);}}

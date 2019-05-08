@@ -1,0 +1,1 @@
+class java_time_chrono_ThaiBuddhistChronology_dateYearDay_int_int{ public static void function() {java.time.chrono.ThaiBuddhistChronology obj = new java.time.chrono.ThaiBuddhistChronology();obj.dateYearDay(-1157823953,-569862322);}}

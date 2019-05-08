@@ -1,0 +1,1 @@
+class javax_naming_InitialContext_wait_long{ public static void function() {javax.naming.InitialContext obj = new javax.naming.InitialContext();obj.wait(7995704179328565954);}}

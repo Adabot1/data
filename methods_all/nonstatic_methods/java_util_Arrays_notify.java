@@ -1,0 +1,1 @@
+class java_util_Arrays_notify{ public static void function() {java.util.Arrays obj = new java.util.Arrays();obj.notify();}}

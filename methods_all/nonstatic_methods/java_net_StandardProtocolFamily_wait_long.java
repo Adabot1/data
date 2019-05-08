@@ -1,0 +1,1 @@
+class java_net_StandardProtocolFamily_wait_long{ public static void function() {java.net.StandardProtocolFamily obj = new java.net.StandardProtocolFamily();obj.wait(-4276142828855399819);}}

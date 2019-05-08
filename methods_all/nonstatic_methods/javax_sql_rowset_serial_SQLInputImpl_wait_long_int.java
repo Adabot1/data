@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SQLInputImpl_wait_long_int{ public static void function() {javax.sql.rowset.serial.SQLInputImpl obj = new javax.sql.rowset.serial.SQLInputImpl();obj.wait(-7138556852469008002,-164590267);}}

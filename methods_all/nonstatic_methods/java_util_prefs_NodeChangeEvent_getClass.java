@@ -1,0 +1,1 @@
+class java_util_prefs_NodeChangeEvent_getClass{ public static void function() {java.util.prefs.NodeChangeEvent obj = new java.util.prefs.NodeChangeEvent();obj.getClass();}}

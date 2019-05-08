@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_createImage_int_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.createImage(-423033237,462729568);}}

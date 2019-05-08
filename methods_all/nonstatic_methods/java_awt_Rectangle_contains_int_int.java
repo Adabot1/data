@@ -1,0 +1,1 @@
+class java_awt_Rectangle_contains_int_int{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.contains(785003942,-1331805645);}}

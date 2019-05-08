@@ -1,0 +1,1 @@
+class javax_swing_JTree_resize_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.resize(218624245,-1528145153);}}

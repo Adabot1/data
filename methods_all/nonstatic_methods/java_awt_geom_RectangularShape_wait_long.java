@@ -1,0 +1,1 @@
+class java_awt_geom_RectangularShape_wait_long{ public static void function() {java.awt.geom.RectangularShape obj = new java.awt.geom.RectangularShape();obj.wait(-7703330280024240770);}}

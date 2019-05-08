@@ -1,0 +1,1 @@
+class java_awt_Point_distanceSq_double_double_double_double{ public static void function() {java.awt.Point.distanceSq(0.4564155529565065,0.9527651799867927,0.5202997444061402,0.1595077084371167);}}

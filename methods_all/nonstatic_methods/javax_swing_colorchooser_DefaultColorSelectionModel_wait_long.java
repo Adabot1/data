@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_DefaultColorSelectionModel_wait_long{ public static void function() {javax.swing.colorchooser.DefaultColorSelectionModel obj = new javax.swing.colorchooser.DefaultColorSelectionModel();obj.wait(2024743302761236807);}}

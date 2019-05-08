@@ -1,0 +1,1 @@
+class java_lang_Double_isNaN_double{ public static void function() {java.lang.Double.isNaN(0.5729607698592285);}}

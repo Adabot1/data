@@ -1,0 +1,1 @@
+class javax_swing_text_View_getMaximumSpan_int{ public static void function() {javax.swing.text.View obj = new javax.swing.text.View();obj.getMaximumSpan(-969963589);}}

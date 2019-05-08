@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_createImage_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.createImage(-1083089725,2004305402);}}

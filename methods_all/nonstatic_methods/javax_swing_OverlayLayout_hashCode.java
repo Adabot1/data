@@ -1,0 +1,1 @@
+class javax_swing_OverlayLayout_hashCode{ public static void function() {javax.swing.OverlayLayout obj = new javax.swing.OverlayLayout();obj.hashCode();}}

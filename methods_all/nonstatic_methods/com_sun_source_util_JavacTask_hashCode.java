@@ -1,0 +1,1 @@
+class com_sun_source_util_JavacTask_hashCode{ public static void function() {com.sun.source.util.JavacTask obj = new com.sun.source.util.JavacTask();obj.hashCode();}}

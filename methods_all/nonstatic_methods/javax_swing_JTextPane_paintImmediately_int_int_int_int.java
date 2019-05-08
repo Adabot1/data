@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.paintImmediately(-1760062764,1388020136,1178998656,-341429582);}}

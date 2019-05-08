@@ -1,0 +1,1 @@
+class java_awt_Polygon_inside_int_int{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.inside(-516858155,-1915260369);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahChronology_dateEpochDay_long{ public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();obj.dateEpochDay(5959668388976144684);}}

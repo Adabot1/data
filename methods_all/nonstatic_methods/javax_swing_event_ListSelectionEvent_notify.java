@@ -1,0 +1,1 @@
+class javax_swing_event_ListSelectionEvent_notify{ public static void function() {javax.swing.event.ListSelectionEvent obj = new javax.swing.event.ListSelectionEvent();obj.notify();}}

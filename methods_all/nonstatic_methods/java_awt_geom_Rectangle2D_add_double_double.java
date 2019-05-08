@@ -1,0 +1,1 @@
+class java_awt_geom_Rectangle2D_add_double_double{ public static void function() {java.awt.geom.Rectangle2D obj = new java.awt.geom.Rectangle2D();obj.add(0.3861165354324121,0.0013436811225051581);}}

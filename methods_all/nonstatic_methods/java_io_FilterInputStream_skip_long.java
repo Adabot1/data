@@ -1,0 +1,1 @@
+class java_io_FilterInputStream_skip_long{ public static void function() {java.io.FilterInputStream obj = new java.io.FilterInputStream();obj.skip(-38585110415918133);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_nimbus_NimbusLookAndFeel_wait_long_int{ public static void function() {javax.swing.plaf.nimbus.NimbusLookAndFeel obj = new javax.swing.plaf.nimbus.NimbusLookAndFeel();obj.wait(-8374904506576336691,-544790611);}}

@@ -1,0 +1,1 @@
+class java_awt_geom_Ellipse2D_contains_double_double{ public static void function() {java.awt.geom.Ellipse2D obj = new java.awt.geom.Ellipse2D();obj.contains(0.08772293461333469,0.6944211240853729);}}

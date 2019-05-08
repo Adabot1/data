@@ -1,0 +1,1 @@
+class javax_management_AttributeList_wait{ public static void function() {javax.management.AttributeList obj = new javax.management.AttributeList();obj.wait();}}

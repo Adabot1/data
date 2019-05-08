@@ -1,0 +1,1 @@
+class java_awt_Dialog_getWindows{ public static void function() {java.awt.Dialog.getWindows();}}

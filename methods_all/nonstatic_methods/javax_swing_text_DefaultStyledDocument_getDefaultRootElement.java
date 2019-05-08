@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultStyledDocument_getDefaultRootElement{ public static void function() {javax.swing.text.DefaultStyledDocument obj = new javax.swing.text.DefaultStyledDocument();obj.getDefaultRootElement();}}

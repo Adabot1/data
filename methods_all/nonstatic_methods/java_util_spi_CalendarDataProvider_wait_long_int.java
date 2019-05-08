@@ -1,0 +1,1 @@
+class java_util_spi_CalendarDataProvider_wait_long_int{ public static void function() {java.util.spi.CalendarDataProvider obj = new java.util.spi.CalendarDataProvider();obj.wait(870080702235162843,2109103052);}}

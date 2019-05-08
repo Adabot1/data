@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_minusWeeks_long{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.minusWeeks(4125163590442038918);}}

@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_getComponentAtIndex_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.getComponentAtIndex(-177021091);}}

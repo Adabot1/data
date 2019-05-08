@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_drawLine_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.drawLine(-2065586779,1129532374,1803634802,-199113851);}}

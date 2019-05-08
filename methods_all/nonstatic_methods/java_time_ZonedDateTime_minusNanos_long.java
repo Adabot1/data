@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_minusNanos_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.minusNanos(-8899443990726848532);}}

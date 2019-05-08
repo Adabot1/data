@@ -1,0 +1,1 @@
+class javax_swing_border_EmptyBorder_wait_long{ public static void function() {javax.swing.border.EmptyBorder obj = new javax.swing.border.EmptyBorder();obj.wait(4074740790943536864);}}

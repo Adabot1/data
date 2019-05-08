@@ -1,0 +1,1 @@
+class javax_swing_JPanel_getBaseline_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.getBaseline(-1453930196,-1538051867);}}

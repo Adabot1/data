@@ -1,0 +1,1 @@
+class java_lang_StrictMath_max_int_int{ public static void function() {java.lang.StrictMath.max(978572441,1927677548);}}

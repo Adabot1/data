@@ -1,0 +1,1 @@
+class java_awt_EventQueue_peekEvent_int{ public static void function() {java.awt.EventQueue obj = new java.awt.EventQueue();obj.peekEvent(-2050061510);}}

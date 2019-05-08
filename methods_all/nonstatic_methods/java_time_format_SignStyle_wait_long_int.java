@@ -1,0 +1,1 @@
+class java_time_format_SignStyle_wait_long_int{ public static void function() {java.time.format.SignStyle obj = new java.time.format.SignStyle();obj.wait(574400934198394577,-1375163268);}}

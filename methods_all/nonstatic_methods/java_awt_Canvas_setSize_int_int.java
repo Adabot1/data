@@ -1,0 +1,1 @@
+class java_awt_Canvas_setSize_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.setSize(-170151260,485449420);}}

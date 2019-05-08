@@ -1,0 +1,1 @@
+class javax_management_NotificationBroadcasterSupport_wait_long{ public static void function() {javax.management.NotificationBroadcasterSupport obj = new javax.management.NotificationBroadcasterSupport();obj.wait(-3067713963761888110);}}

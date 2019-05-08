@@ -1,0 +1,1 @@
+class java_awt_dnd_DnDConstants_hashCode{ public static void function() {java.awt.dnd.DnDConstants obj = new java.awt.dnd.DnDConstants();obj.hashCode();}}

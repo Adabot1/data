@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTargetContext_wait{ public static void function() {java.awt.dnd.DropTargetContext obj = new java.awt.dnd.DropTargetContext();obj.wait();}}

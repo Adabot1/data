@@ -1,0 +1,1 @@
+class java_io_PushbackReader_skip_long{ public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();obj.skip(-7295038442041483127);}}

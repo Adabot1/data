@@ -1,0 +1,1 @@
+class javax_swing_DefaultListSelectionModel_setLeadAnchorNotificationEnabled_boolean{ public static void function() {javax.swing.DefaultListSelectionModel obj = new javax.swing.DefaultListSelectionModel();obj.setLeadAnchorNotificationEnabled(false);}}

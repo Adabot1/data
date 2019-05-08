@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_setBounds_int_int_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.setBounds(620474259,-173767273,10587972,264392143);}}

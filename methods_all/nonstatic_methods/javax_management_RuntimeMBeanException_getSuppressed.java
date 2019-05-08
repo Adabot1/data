@@ -1,0 +1,1 @@
+class javax_management_RuntimeMBeanException_getSuppressed{ public static void function() {javax.management.RuntimeMBeanException obj = new javax.management.RuntimeMBeanException();obj.getSuppressed();}}

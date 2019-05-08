@@ -1,0 +1,1 @@
+class java_awt_Component_getBaseline_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.getBaseline(103227341,171764207);}}

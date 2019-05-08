@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_DoubleAccumulator_shortValue{ public static void function() {java.util.concurrent.atomic.DoubleAccumulator obj = new java.util.concurrent.atomic.DoubleAccumulator();obj.shortValue();}}

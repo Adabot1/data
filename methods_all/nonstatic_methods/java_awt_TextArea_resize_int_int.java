@@ -1,0 +1,1 @@
+class java_awt_TextArea_resize_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.resize(-642048200,1875389024);}}

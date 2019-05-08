@@ -1,0 +1,1 @@
+class java_time_format_ResolverStyle_wait_long_int{ public static void function() {java.time.format.ResolverStyle obj = new java.time.format.ResolverStyle();obj.wait(8489556201482161108,-241402616);}}

@@ -1,0 +1,1 @@
+class java_io_FilterReader_skip_long{ public static void function() {java.io.FilterReader obj = new java.io.FilterReader();obj.skip(-185078008151053521);}}

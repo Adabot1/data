@@ -1,0 +1,1 @@
+class java_nio_file_FileStore_wait_long_int{ public static void function() {java.nio.file.FileStore obj = new java.nio.file.FileStore();obj.wait(7766762280135322751,-1064328846);}}

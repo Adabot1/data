@@ -1,0 +1,1 @@
+class javax_swing_text_PlainView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.PlainView obj = new javax.swing.text.PlainView();obj.getBreakWeight(771521864,0.4480515,0.59519434);}}

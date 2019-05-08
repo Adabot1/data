@@ -1,0 +1,1 @@
+class java_beans_IndexedPropertyDescriptor_wait_long_int{ public static void function() {java.beans.IndexedPropertyDescriptor obj = new java.beans.IndexedPropertyDescriptor();obj.wait(5942088456397506093,1734607297);}}

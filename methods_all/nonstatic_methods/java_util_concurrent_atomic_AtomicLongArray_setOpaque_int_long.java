@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_setOpaque_int_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.setOpaque(-235908297,7901167135798222199);}}

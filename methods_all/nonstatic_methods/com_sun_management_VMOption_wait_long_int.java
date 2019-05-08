@@ -1,0 +1,1 @@
+class com_sun_management_VMOption_wait_long_int{ public static void function() {com.sun.management.VMOption obj = new com.sun.management.VMOption();obj.wait(-1142642343025635663,927252174);}}

@@ -1,0 +1,1 @@
+class javax_swing_ProgressMonitorInputStream_hashCode{ public static void function() {javax.swing.ProgressMonitorInputStream obj = new javax.swing.ProgressMonitorInputStream();obj.hashCode();}}

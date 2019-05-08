@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_wait_long{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.wait(3719677139268774480);}}

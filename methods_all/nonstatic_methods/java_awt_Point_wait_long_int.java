@@ -1,0 +1,1 @@
+class java_awt_Point_wait_long_int{ public static void function() {java.awt.Point obj = new java.awt.Point();obj.wait(3053617799252259149,-1488099567);}}

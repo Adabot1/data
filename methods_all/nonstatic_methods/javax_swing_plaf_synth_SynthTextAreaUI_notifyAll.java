@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTextAreaUI_notifyAll{ public static void function() {javax.swing.plaf.synth.SynthTextAreaUI obj = new javax.swing.plaf.synth.SynthTextAreaUI();obj.notifyAll();}}

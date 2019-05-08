@@ -1,0 +1,1 @@
+class com_sun_security_auth_login_ConfigFile_wait_long_int{ public static void function() {com.sun.security.auth.login.ConfigFile obj = new com.sun.security.auth.login.ConfigFile();obj.wait(100749367089465947,-658124830);}}

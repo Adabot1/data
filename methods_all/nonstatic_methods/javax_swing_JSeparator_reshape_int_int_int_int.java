@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_reshape_int_int_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.reshape(-1836342302,1785975498,-1013279539,-1583445821);}}

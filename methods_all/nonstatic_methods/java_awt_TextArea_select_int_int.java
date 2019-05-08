@@ -1,0 +1,1 @@
+class java_awt_TextArea_select_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.select(-1314413566,-1602497750);}}

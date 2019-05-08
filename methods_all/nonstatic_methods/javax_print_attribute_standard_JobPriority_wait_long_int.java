@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobPriority_wait_long_int{ public static void function() {javax.print.attribute.standard.JobPriority obj = new javax.print.attribute.standard.JobPriority();obj.wait(3361869082530508573,-158663255);}}

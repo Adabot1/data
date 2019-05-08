@@ -1,0 +1,1 @@
+class java_security_PrivilegedActionException_wait_long{ public static void function() {java.security.PrivilegedActionException obj = new java.security.PrivilegedActionException();obj.wait(-608912272553715779);}}

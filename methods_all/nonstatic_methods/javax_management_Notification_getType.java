@@ -1,0 +1,1 @@
+class javax_management_Notification_getType{ public static void function() {javax.management.Notification obj = new javax.management.Notification();obj.getType();}}

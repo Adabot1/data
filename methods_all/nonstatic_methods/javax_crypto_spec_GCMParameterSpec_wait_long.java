@@ -1,0 +1,1 @@
+class javax_crypto_spec_GCMParameterSpec_wait_long{ public static void function() {javax.crypto.spec.GCMParameterSpec obj = new javax.crypto.spec.GCMParameterSpec();obj.wait(-7255311994493609685);}}

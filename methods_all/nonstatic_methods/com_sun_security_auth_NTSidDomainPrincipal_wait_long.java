@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSidDomainPrincipal_wait_long{ public static void function() {com.sun.security.auth.NTSidDomainPrincipal obj = new com.sun.security.auth.NTSidDomainPrincipal();obj.wait(-4575849877310931022);}}

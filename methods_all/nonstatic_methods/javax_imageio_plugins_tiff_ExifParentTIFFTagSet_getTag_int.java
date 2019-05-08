@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_ExifParentTIFFTagSet_getTag_int{ public static void function() {javax.imageio.plugins.tiff.ExifParentTIFFTagSet obj = new javax.imageio.plugins.tiff.ExifParentTIFFTagSet();obj.getTag(1314508536);}}

@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_URLReader_skip_long{ public static void function() {jdk.nashorn.api.scripting.URLReader obj = new jdk.nashorn.api.scripting.URLReader();obj.skip(685295245793730048);}}

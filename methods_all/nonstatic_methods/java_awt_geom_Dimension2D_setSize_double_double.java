@@ -1,0 +1,1 @@
+class java_awt_geom_Dimension2D_setSize_double_double{ public static void function() {java.awt.geom.Dimension2D obj = new java.awt.geom.Dimension2D();obj.setSize(0.37151818474821774,0.7678346598190372);}}

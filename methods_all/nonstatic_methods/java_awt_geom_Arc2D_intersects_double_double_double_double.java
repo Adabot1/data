@@ -1,0 +1,1 @@
+class java_awt_geom_Arc2D_intersects_double_double_double_double{ public static void function() {java.awt.geom.Arc2D obj = new java.awt.geom.Arc2D();obj.intersects(0.4669835908469634,0.30057245956576106,0.7664143692282444,0.33131265133578425);}}

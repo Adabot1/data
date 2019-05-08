@@ -1,0 +1,1 @@
+class java_time_Year_atMonth_int{ public static void function() {java.time.Year obj = new java.time.Year();obj.atMonth(-1285639808);}}

@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTNumericCredential_notifyAll{ public static void function() {com.sun.security.auth.NTNumericCredential obj = new com.sun.security.auth.NTNumericCredential();obj.notifyAll();}}

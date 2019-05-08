@@ -1,0 +1,1 @@
+class java_util_zip_CheckedInputStream_wait_long{ public static void function() {java.util.zip.CheckedInputStream obj = new java.util.zip.CheckedInputStream();obj.wait(-3026251855073418010);}}

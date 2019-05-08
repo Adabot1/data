@@ -1,0 +1,1 @@
+class java_awt_Panel_createImage_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.createImage(826398560,535272643);}}

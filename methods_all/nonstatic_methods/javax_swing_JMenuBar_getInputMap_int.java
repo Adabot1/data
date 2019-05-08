@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_getInputMap_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.getInputMap(1623137650);}}

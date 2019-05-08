@@ -1,0 +1,1 @@
+class javax_naming_ldap_PagedResultsControl_getID{ public static void function() {javax.naming.ldap.PagedResultsControl obj = new javax.naming.ldap.PagedResultsControl();obj.getID();}}

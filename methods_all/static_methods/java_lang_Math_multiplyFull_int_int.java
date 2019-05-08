@@ -1,0 +1,1 @@
+class java_lang_Math_multiplyFull_int_int{ public static void function() {java.lang.Math.multiplyFull(-1094710388,1150636554);}}

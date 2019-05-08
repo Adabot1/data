@@ -1,0 +1,1 @@
+class java_awt_geom_QuadCurve2D_contains_double_double_double_double{ public static void function() {java.awt.geom.QuadCurve2D obj = new java.awt.geom.QuadCurve2D();obj.contains(0.26797334118713345,0.8275231744302629,0.46845724136793765,0.40097726424235647);}}

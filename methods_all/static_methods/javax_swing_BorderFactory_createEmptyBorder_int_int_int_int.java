@@ -1,0 +1,1 @@
+class javax_swing_BorderFactory_createEmptyBorder_int_int_int_int{ public static void function() {javax.swing.BorderFactory.createEmptyBorder(1860356346,-1953799349,1452636901,-1426661906);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_setRelease_int_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.setRelease(987601530,4419806454913508631);}}

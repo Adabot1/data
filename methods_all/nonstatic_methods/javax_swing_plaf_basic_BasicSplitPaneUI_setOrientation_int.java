@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSplitPaneUI_setOrientation_int{ public static void function() {javax.swing.plaf.basic.BasicSplitPaneUI obj = new javax.swing.plaf.basic.BasicSplitPaneUI();obj.setOrientation(-1767567938);}}

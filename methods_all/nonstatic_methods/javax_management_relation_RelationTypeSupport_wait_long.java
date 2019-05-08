@@ -1,0 +1,1 @@
+class javax_management_relation_RelationTypeSupport_wait_long{ public static void function() {javax.management.relation.RelationTypeSupport obj = new javax.management.relation.RelationTypeSupport();obj.wait(3339688630784825282);}}

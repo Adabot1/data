@@ -1,0 +1,1 @@
+class java_awt_font_NumericShaper_toString{ public static void function() {java.awt.font.NumericShaper obj = new java.awt.font.NumericShaper();obj.toString();}}

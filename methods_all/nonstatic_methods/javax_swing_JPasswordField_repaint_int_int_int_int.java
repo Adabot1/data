@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_repaint_int_int_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.repaint(-308885477,-2110198885,-1523819339,300677079);}}

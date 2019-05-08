@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_GuardedInvocation_getClass{ public static void function() {jdk.dynalink.linker.GuardedInvocation obj = new jdk.dynalink.linker.GuardedInvocation();obj.getClass();}}

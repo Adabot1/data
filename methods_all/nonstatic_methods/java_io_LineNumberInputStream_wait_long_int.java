@@ -1,0 +1,1 @@
+class java_io_LineNumberInputStream_wait_long_int{ public static void function() {java.io.LineNumberInputStream obj = new java.io.LineNumberInputStream();obj.wait(-882707740863222046,-732496604);}}

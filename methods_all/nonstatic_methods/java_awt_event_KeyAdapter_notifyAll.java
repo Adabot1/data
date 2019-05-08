@@ -1,0 +1,1 @@
+class java_awt_event_KeyAdapter_notifyAll{ public static void function() {java.awt.event.KeyAdapter obj = new java.awt.event.KeyAdapter();obj.notifyAll();}}

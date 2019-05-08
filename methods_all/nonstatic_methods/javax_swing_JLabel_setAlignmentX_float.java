@@ -1,0 +1,1 @@
+class javax_swing_JLabel_setAlignmentX_float{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.setAlignmentX(0.16598177);}}

@@ -1,0 +1,1 @@
+class java_io_ObjectStreamField_getTypeCode{ public static void function() {java.io.ObjectStreamField obj = new java.io.ObjectStreamField();obj.getTypeCode();}}

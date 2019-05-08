@@ -1,0 +1,1 @@
+class java_text_ParseException_getMessage{ public static void function() {java.text.ParseException obj = new java.text.ParseException();obj.getMessage();}}

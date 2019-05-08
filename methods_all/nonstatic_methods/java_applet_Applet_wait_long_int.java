@@ -1,0 +1,1 @@
+class java_applet_Applet_wait_long_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.wait(-8791301082739540510,-226086217);}}

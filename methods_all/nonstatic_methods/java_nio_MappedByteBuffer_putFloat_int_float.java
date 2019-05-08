@@ -1,0 +1,1 @@
+class java_nio_MappedByteBuffer_putFloat_int_float{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();obj.putFloat(1374897819,0.2741896);}}

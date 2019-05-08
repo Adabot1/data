@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobState_wait_long_int{ public static void function() {javax.print.attribute.standard.JobState obj = new javax.print.attribute.standard.JobState();obj.wait(5207965657679887768,-425494928);}}

@@ -1,0 +1,1 @@
+class java_util_logging_LogRecord_setThreadID_int{ public static void function() {java.util.logging.LogRecord obj = new java.util.logging.LogRecord();obj.setThreadID(-201149832);}}

@@ -1,0 +1,1 @@
+class javax_naming_LinkException_wait_long_int{ public static void function() {javax.naming.LinkException obj = new javax.naming.LinkException();obj.wait(-5763382062898661970,-414850368);}}

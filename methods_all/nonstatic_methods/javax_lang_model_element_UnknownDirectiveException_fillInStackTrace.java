@@ -1,0 +1,1 @@
+class javax_lang_model_element_UnknownDirectiveException_fillInStackTrace{ public static void function() {javax.lang.model.element.UnknownDirectiveException obj = new javax.lang.model.element.UnknownDirectiveException();obj.fillInStackTrace();}}

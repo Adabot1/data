@@ -1,0 +1,1 @@
+class javax_swing_text_BoxView_setSize_float_float{ public static void function() {javax.swing.text.BoxView obj = new javax.swing.text.BoxView();obj.setSize(0.018164933,0.19268727);}}

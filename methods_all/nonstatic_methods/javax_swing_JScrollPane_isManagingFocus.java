@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_isManagingFocus{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.isManagingFocus();}}

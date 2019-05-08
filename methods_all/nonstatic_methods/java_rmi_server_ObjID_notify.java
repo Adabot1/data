@@ -1,0 +1,1 @@
+class java_rmi_server_ObjID_notify{ public static void function() {java.rmi.server.ObjID obj = new java.rmi.server.ObjID();obj.notify();}}

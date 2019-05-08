@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicInternalFrameTitlePane_setBounds_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicInternalFrameTitlePane obj = new javax.swing.plaf.basic.BasicInternalFrameTitlePane();obj.setBounds(-308894999,-168999224,667395143,-1854407762);}}

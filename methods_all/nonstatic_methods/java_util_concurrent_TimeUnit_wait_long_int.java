@@ -1,0 +1,1 @@
+class java_util_concurrent_TimeUnit_wait_long_int{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();obj.wait(8761865457067873857,95695003);}}

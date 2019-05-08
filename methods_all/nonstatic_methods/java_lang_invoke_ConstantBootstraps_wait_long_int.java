@@ -1,0 +1,1 @@
+class java_lang_invoke_ConstantBootstraps_wait_long_int{ public static void function() {java.lang.invoke.ConstantBootstraps obj = new java.lang.invoke.ConstantBootstraps();obj.wait(-3956895626129145328,220268079);}}

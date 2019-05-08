@@ -1,0 +1,1 @@
+class javax_swing_text_LayoutQueue_getClass{ public static void function() {javax.swing.text.LayoutQueue obj = new javax.swing.text.LayoutQueue();obj.getClass();}}

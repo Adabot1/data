@@ -1,0 +1,1 @@
+class java_sql_Time_setHours_int{ public static void function() {java.sql.Time obj = new java.sql.Time();obj.setHours(1257256358);}}

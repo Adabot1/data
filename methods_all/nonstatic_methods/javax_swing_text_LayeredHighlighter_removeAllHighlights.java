@@ -1,0 +1,1 @@
+class javax_swing_text_LayeredHighlighter_removeAllHighlights{ public static void function() {javax.swing.text.LayeredHighlighter obj = new javax.swing.text.LayeredHighlighter();obj.removeAllHighlights();}}

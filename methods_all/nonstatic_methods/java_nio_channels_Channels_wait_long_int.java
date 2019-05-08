@@ -1,0 +1,1 @@
+class java_nio_channels_Channels_wait_long_int{ public static void function() {java.nio.channels.Channels obj = new java.nio.channels.Channels();obj.wait(-4363626822225042913,-58671431);}}

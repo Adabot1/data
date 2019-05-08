@@ -1,0 +1,1 @@
+class java_awt_image_BandedSampleModel_wait_long_int{ public static void function() {java.awt.image.BandedSampleModel obj = new java.awt.image.BandedSampleModel();obj.wait(-221661584242736086,1600537060);}}

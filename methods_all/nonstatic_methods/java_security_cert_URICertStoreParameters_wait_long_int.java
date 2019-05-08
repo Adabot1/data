@@ -1,0 +1,1 @@
+class java_security_cert_URICertStoreParameters_wait_long_int{ public static void function() {java.security.cert.URICertStoreParameters obj = new java.security.cert.URICertStoreParameters();obj.wait(-4539538882340175148,1758980188);}}

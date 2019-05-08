@@ -1,0 +1,1 @@
+class java_awt_List_reshape_int_int_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.reshape(774082160,-1304945957,-2071360600,1347076101);}}

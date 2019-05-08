@@ -1,0 +1,1 @@
+class java_awt_EventQueue_wait_long{ public static void function() {java.awt.EventQueue obj = new java.awt.EventQueue();obj.wait(3613868440337905766);}}

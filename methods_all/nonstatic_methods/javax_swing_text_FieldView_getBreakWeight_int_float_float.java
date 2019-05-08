@@ -1,0 +1,1 @@
+class javax_swing_text_FieldView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.FieldView obj = new javax.swing.text.FieldView();obj.getBreakWeight(-1636251502,0.24848437,0.59740025);}}

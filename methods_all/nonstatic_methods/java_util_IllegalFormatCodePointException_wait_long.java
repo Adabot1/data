@@ -1,0 +1,1 @@
+class java_util_IllegalFormatCodePointException_wait_long{ public static void function() {java.util.IllegalFormatCodePointException obj = new java.util.IllegalFormatCodePointException();obj.wait(4014656853638100962);}}

@@ -1,0 +1,1 @@
+class java_security_AlgorithmParameters_wait_long_int{ public static void function() {java.security.AlgorithmParameters obj = new java.security.AlgorithmParameters();obj.wait(1604472837602354300,1527760004);}}

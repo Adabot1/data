@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_Finishings_wait_long_int{ public static void function() {javax.print.attribute.standard.Finishings obj = new javax.print.attribute.standard.Finishings();obj.wait(4357794162238948424,-1014737273);}}

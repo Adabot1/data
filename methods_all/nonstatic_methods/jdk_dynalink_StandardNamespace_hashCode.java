@@ -1,0 +1,1 @@
+class jdk_dynalink_StandardNamespace_hashCode{ public static void function() {jdk.dynalink.StandardNamespace obj = new jdk.dynalink.StandardNamespace();obj.hashCode();}}

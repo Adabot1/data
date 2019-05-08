@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_KerberosTicket_getClient{ public static void function() {javax.security.auth.kerberos.KerberosTicket obj = new javax.security.auth.kerberos.KerberosTicket();obj.getClient();}}

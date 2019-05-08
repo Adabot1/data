@@ -1,0 +1,1 @@
+class java_awt_GraphicsEnvironment_isHeadlessInstance{ public static void function() {java.awt.GraphicsEnvironment obj = new java.awt.GraphicsEnvironment();obj.isHeadlessInstance();}}

@@ -1,0 +1,1 @@
+class java_time_DayOfWeek_wait_long_int{ public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();obj.wait(-7902166969783339322,-1673061325);}}

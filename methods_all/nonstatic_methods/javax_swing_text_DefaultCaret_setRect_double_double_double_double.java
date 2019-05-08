@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_setRect_double_double_double_double{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.setRect(0.5622375185835053,0.3058413666625792,0.41852913647268064,0.8471222728463963);}}

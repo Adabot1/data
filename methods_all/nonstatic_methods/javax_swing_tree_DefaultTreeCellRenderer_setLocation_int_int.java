@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_setLocation_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.setLocation(-2424896,-533636064);}}

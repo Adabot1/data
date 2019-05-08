@@ -1,0 +1,1 @@
+class java_security_Security_getClass{ public static void function() {java.security.Security obj = new java.security.Security();obj.getClass();}}

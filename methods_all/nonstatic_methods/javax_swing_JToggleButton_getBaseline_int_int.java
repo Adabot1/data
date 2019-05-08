@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_getBaseline_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.getBaseline(-1384072266,-2102187553);}}

@@ -1,0 +1,1 @@
+class java_nio_LongBuffer_limit_int{ public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();obj.limit(-1644909547);}}

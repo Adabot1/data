@@ -1,0 +1,1 @@
+class javax_swing_JSlider_createVolatileImage_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.createVolatileImage(-134160768,185627530);}}

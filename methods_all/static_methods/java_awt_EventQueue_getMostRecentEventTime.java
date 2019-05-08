@@ -1,0 +1,1 @@
+class java_awt_EventQueue_getMostRecentEventTime{ public static void function() {java.awt.EventQueue.getMostRecentEventTime();}}

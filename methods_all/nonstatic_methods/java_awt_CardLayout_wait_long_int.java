@@ -1,0 +1,1 @@
+class java_awt_CardLayout_wait_long_int{ public static void function() {java.awt.CardLayout obj = new java.awt.CardLayout();obj.wait(6350189930840966072,-103665161);}}

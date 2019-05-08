@@ -1,0 +1,1 @@
+class javax_management_remote_JMXConnectorFactory_toString{ public static void function() {javax.management.remote.JMXConnectorFactory obj = new javax.management.remote.JMXConnectorFactory();obj.toString();}}

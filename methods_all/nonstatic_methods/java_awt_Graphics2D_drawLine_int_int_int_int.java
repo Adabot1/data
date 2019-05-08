@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_drawLine_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.drawLine(2095839865,-418507896,-1503091394,-1186658243);}}

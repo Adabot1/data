@@ -1,0 +1,1 @@
+class java_io_ObjectInputStream_readInt{ public static void function() {java.io.ObjectInputStream obj = new java.io.ObjectInputStream();obj.readInt();}}

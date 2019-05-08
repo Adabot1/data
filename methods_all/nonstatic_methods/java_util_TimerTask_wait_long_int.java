@@ -1,0 +1,1 @@
+class java_util_TimerTask_wait_long_int{ public static void function() {java.util.TimerTask obj = new java.util.TimerTask();obj.wait(-4914565906840346550,-172172924);}}

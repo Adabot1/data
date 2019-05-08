@@ -1,0 +1,1 @@
+class com_sun_management_GarbageCollectionNotificationInfo_getClass{ public static void function() {com.sun.management.GarbageCollectionNotificationInfo obj = new com.sun.management.GarbageCollectionNotificationInfo();obj.getClass();}}

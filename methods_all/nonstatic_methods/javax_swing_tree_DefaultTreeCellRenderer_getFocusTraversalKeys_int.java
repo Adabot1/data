@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_getFocusTraversalKeys_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.getFocusTraversalKeys(-759580040);}}

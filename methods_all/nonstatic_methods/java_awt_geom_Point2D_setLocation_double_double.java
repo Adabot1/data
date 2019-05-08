@@ -1,0 +1,1 @@
+class java_awt_geom_Point2D_setLocation_double_double{ public static void function() {java.awt.geom.Point2D obj = new java.awt.geom.Point2D();obj.setLocation(0.10283564440629456,0.40857664874007926);}}

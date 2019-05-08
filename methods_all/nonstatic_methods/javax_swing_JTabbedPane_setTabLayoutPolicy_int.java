@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_setTabLayoutPolicy_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.setTabLayoutPolicy(-458875312);}}

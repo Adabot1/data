@@ -1,0 +1,1 @@
+class java_util_BitSet_flip_int_int{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.flip(611260413,-597646567);}}

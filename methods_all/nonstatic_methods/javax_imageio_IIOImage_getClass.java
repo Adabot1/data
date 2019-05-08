@@ -1,0 +1,1 @@
+class javax_imageio_IIOImage_getClass{ public static void function() {javax.imageio.IIOImage obj = new javax.imageio.IIOImage();obj.getClass();}}

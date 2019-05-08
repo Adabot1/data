@@ -1,0 +1,1 @@
+class java_awt_TextArea_repaint_long{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.repaint(663664351618924368);}}

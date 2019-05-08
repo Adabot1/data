@@ -1,0 +1,1 @@
+class java_awt_geom_Line2D_ptSegDistSq_double_double{ public static void function() {java.awt.geom.Line2D obj = new java.awt.geom.Line2D();obj.ptSegDistSq(0.878367895143007,0.014449702132910636);}}

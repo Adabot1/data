@@ -1,0 +1,1 @@
+class java_security_spec_MGF1ParameterSpec_wait_long_int{ public static void function() {java.security.spec.MGF1ParameterSpec obj = new java.security.spec.MGF1ParameterSpec();obj.wait(-8784423988056364517,2020002794);}}

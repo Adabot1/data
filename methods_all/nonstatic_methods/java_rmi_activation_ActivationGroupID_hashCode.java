@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroupID_hashCode{ public static void function() {java.rmi.activation.ActivationGroupID obj = new java.rmi.activation.ActivationGroupID();obj.hashCode();}}

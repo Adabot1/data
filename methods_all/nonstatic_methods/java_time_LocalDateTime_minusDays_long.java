@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_minusDays_long{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.minusDays(-1201685427789290543);}}

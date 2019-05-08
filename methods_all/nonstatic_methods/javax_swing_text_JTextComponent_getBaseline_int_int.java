@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_getBaseline_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.getBaseline(-2047168347,-814872121);}}

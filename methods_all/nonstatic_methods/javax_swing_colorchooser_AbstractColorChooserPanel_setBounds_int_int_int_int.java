@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_setBounds_int_int_int_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.setBounds(-699384092,1849614358,1557953645,-1266807508);}}

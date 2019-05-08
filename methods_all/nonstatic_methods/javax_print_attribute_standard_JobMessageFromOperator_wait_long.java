@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobMessageFromOperator_wait_long{ public static void function() {javax.print.attribute.standard.JobMessageFromOperator obj = new javax.print.attribute.standard.JobMessageFromOperator();obj.wait(8192525614125857434);}}

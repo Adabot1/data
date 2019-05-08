@@ -1,0 +1,1 @@
+class javax_management_BadStringOperationException_wait{ public static void function() {javax.management.BadStringOperationException obj = new javax.management.BadStringOperationException();obj.wait();}}

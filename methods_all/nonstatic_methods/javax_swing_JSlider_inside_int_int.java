@@ -1,0 +1,1 @@
+class javax_swing_JSlider_inside_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.inside(2066302732,-1060764911);}}

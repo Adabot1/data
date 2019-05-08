@@ -1,0 +1,1 @@
+class java_lang_Byte_compare_byte_byte{ public static void function() {java.lang.Byte.compare([B@10dba097,[B@1786f9d5);}}

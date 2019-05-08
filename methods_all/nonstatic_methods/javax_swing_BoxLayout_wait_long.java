@@ -1,0 +1,1 @@
+class javax_swing_BoxLayout_wait_long{ public static void function() {javax.swing.BoxLayout obj = new javax.swing.BoxLayout();obj.wait(6553812718113677799);}}

@@ -1,0 +1,1 @@
+class javax_swing_DefaultListSelectionModel_setAnchorSelectionIndex_int{ public static void function() {javax.swing.DefaultListSelectionModel obj = new javax.swing.DefaultListSelectionModel();obj.setAnchorSelectionIndex(-120136272);}}

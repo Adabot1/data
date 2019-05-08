@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_createVolatileImage_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.createVolatileImage(-302970990,-1013081522);}}

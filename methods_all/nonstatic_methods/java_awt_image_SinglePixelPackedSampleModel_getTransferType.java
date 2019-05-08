@@ -1,0 +1,1 @@
+class java_awt_image_SinglePixelPackedSampleModel_getTransferType{ public static void function() {java.awt.image.SinglePixelPackedSampleModel obj = new java.awt.image.SinglePixelPackedSampleModel();obj.getTransferType();}}

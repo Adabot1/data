@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTargetAdapter_hashCode{ public static void function() {java.awt.dnd.DropTargetAdapter obj = new java.awt.dnd.DropTargetAdapter();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class org_xml_sax_ext_DefaultHandler2_wait_long{ public static void function() {org.xml.sax.ext.DefaultHandler2 obj = new org.xml.sax.ext.DefaultHandler2();obj.wait(-5047709308713198149);}}

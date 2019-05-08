@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_resize_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.resize(-356640188,-84135382);}}

@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_ParserAdapter_getContentHandler{ public static void function() {org.xml.sax.helpers.ParserAdapter obj = new org.xml.sax.helpers.ParserAdapter();obj.getContentHandler();}}

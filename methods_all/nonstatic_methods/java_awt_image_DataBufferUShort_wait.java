@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferUShort_wait{ public static void function() {java.awt.image.DataBufferUShort obj = new java.awt.image.DataBufferUShort();obj.wait();}}

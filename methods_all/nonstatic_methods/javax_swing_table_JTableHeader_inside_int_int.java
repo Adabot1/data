@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_inside_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.inside(1923172675,-776046690);}}

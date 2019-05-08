@@ -1,0 +1,1 @@
+class java_awt_FlowLayout_wait_long_int{ public static void function() {java.awt.FlowLayout obj = new java.awt.FlowLayout();obj.wait(2135342259718347782,1310436121);}}

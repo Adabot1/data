@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicArrowButton_getFocusTraversalKeys_int{ public static void function() {javax.swing.plaf.basic.BasicArrowButton obj = new javax.swing.plaf.basic.BasicArrowButton();obj.getFocusTraversalKeys(-724057771);}}

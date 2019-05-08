@@ -1,0 +1,1 @@
+class java_awt_event_AdjustmentEvent_toString{ public static void function() {java.awt.event.AdjustmentEvent obj = new java.awt.event.AdjustmentEvent();obj.toString();}}

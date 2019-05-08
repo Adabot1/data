@@ -1,0 +1,1 @@
+class javax_swing_JViewport_setScrollMode_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.setScrollMode(-848594365);}}

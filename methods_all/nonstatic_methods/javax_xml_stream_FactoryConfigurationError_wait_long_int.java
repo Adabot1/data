@@ -1,0 +1,1 @@
+class javax_xml_stream_FactoryConfigurationError_wait_long_int{ public static void function() {javax.xml.stream.FactoryConfigurationError obj = new javax.xml.stream.FactoryConfigurationError();obj.wait(-738485512467986857,-1282192244);}}

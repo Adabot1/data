@@ -1,0 +1,1 @@
+class java_time_Duration_plusNanos_long{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.plusNanos(-85397483308130045);}}

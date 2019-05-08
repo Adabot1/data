@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_setAlignmentY_float{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.setAlignmentY(0.88743174);}}

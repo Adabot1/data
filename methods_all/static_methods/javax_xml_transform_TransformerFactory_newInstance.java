@@ -1,0 +1,1 @@
+class javax_xml_transform_TransformerFactory_newInstance{ public static void function() {javax.xml.transform.TransformerFactory.newInstance();}}

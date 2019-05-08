@@ -1,0 +1,1 @@
+class java_awt_Label_createImage_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.createImage(-370446352,-1921941151);}}

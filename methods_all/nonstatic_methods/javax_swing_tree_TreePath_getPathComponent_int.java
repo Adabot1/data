@@ -1,0 +1,1 @@
+class javax_swing_tree_TreePath_getPathComponent_int{ public static void function() {javax.swing.tree.TreePath obj = new javax.swing.tree.TreePath();obj.getPathComponent(57110323);}}

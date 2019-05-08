@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_repaint_long_int_int_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.repaint(655505880659471518,1541229766,1400214450,-929067675,-1638095087);}}

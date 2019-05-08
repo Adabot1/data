@@ -1,0 +1,1 @@
+class java_security_KeyPair_wait_long_int{ public static void function() {java.security.KeyPair obj = new java.security.KeyPair();obj.wait(-8144534437770829160,597876752);}}

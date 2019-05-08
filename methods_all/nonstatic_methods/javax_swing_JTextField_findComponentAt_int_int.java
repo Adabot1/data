@@ -1,0 +1,1 @@
+class javax_swing_JTextField_findComponentAt_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.findComponentAt(-984712785,-419460399);}}

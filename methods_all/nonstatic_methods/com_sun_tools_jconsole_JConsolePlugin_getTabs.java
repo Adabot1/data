@@ -1,0 +1,1 @@
+class com_sun_tools_jconsole_JConsolePlugin_getTabs{ public static void function() {com.sun.tools.jconsole.JConsolePlugin obj = new com.sun.tools.jconsole.JConsolePlugin();obj.getTabs();}}

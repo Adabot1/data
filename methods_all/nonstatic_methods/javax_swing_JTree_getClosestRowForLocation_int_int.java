@@ -1,0 +1,1 @@
+class javax_swing_JTree_getClosestRowForLocation_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.getClosestRowForLocation(416529669,-628150024);}}

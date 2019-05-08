@@ -1,0 +1,1 @@
+class javax_sql_rowset_BaseRowSet_setShort_int_short{ public static void function() {javax.sql.rowset.BaseRowSet obj = new javax.sql.rowset.BaseRowSet();obj.setShort(-1987845304,4243);}}

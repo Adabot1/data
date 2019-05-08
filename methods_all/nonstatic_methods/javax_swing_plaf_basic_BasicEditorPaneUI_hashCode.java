@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicEditorPaneUI_hashCode{ public static void function() {javax.swing.plaf.basic.BasicEditorPaneUI obj = new javax.swing.plaf.basic.BasicEditorPaneUI();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_management_BadBinaryOpValueExpException_getCause{ public static void function() {javax.management.BadBinaryOpValueExpException obj = new javax.management.BadBinaryOpValueExpException();obj.getCause();}}

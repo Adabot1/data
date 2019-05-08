@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageInputStreamImpl_seek_long{ public static void function() {javax.imageio.stream.ImageInputStreamImpl obj = new javax.imageio.stream.ImageInputStreamImpl();obj.seek(-4203465203836080215);}}

@@ -1,0 +1,1 @@
+class com_sun_source_util_Trees_wait_long_int{ public static void function() {com.sun.source.util.Trees obj = new com.sun.source.util.Trees();obj.wait(-4046047852889114867,-1183831036);}}

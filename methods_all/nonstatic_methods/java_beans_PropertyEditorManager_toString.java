@@ -1,0 +1,1 @@
+class java_beans_PropertyEditorManager_toString{ public static void function() {java.beans.PropertyEditorManager obj = new java.beans.PropertyEditorManager();obj.toString();}}

@@ -1,0 +1,1 @@
+class javax_swing_JViewport_size{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.size();}}

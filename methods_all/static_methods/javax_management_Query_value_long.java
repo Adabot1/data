@@ -1,0 +1,1 @@
+class javax_management_Query_value_long{ public static void function() {javax.management.Query.value(-2724796638872256234);}}

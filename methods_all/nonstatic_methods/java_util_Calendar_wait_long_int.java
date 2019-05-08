@@ -1,0 +1,1 @@
+class java_util_Calendar_wait_long_int{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.wait(4944574156155995697,-1670884411);}}

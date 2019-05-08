@@ -1,0 +1,1 @@
+class java_util_concurrent_Semaphore_drainPermits{ public static void function() {java.util.concurrent.Semaphore obj = new java.util.concurrent.Semaphore();obj.drainPermits();}}

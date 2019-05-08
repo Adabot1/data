@@ -1,0 +1,1 @@
+class javax_swing_SizeSequence_getPosition_int{ public static void function() {javax.swing.SizeSequence obj = new javax.swing.SizeSequence();obj.getPosition(1332269753);}}

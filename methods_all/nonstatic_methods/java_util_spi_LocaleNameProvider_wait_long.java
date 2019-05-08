@@ -1,0 +1,1 @@
+class java_util_spi_LocaleNameProvider_wait_long{ public static void function() {java.util.spi.LocaleNameProvider obj = new java.util.spi.LocaleNameProvider();obj.wait(-6805755108586725569);}}

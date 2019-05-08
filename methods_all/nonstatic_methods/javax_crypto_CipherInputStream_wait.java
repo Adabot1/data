@@ -1,0 +1,1 @@
+class javax_crypto_CipherInputStream_wait{ public static void function() {javax.crypto.CipherInputStream obj = new javax.crypto.CipherInputStream();obj.wait();}}

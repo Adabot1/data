@@ -1,0 +1,1 @@
+class java_awt_event_PaintEvent_wait{ public static void function() {java.awt.event.PaintEvent obj = new java.awt.event.PaintEvent();obj.wait();}}

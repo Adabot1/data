@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_ReentrantReadWriteLock_getReadLockCount{ public static void function() {java.util.concurrent.locks.ReentrantReadWriteLock obj = new java.util.concurrent.locks.ReentrantReadWriteLock();obj.getReadLockCount();}}

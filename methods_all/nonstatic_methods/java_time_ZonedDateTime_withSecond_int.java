@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_withSecond_int{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.withSecond(1384162846);}}

@@ -1,0 +1,1 @@
+class javax_lang_model_element_UnknownAnnotationValueException_wait_long{ public static void function() {javax.lang.model.element.UnknownAnnotationValueException obj = new javax.lang.model.element.UnknownAnnotationValueException();obj.wait(4616256068071663627);}}

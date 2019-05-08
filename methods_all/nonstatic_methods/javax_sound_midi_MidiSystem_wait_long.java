@@ -1,0 +1,1 @@
+class javax_sound_midi_MidiSystem_wait_long{ public static void function() {javax.sound.midi.MidiSystem obj = new javax.sound.midi.MidiSystem();obj.wait(-5972159766760088816);}}

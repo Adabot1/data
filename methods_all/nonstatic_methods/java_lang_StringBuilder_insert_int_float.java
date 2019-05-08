@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_insert_int_float{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.insert(934986429,0.5134376);}}

@@ -1,0 +1,1 @@
+class javax_swing_JButton_getTransferHandler{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.getTransferHandler();}}

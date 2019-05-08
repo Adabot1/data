@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_MediaPrintableArea_getY_int{ public static void function() {javax.print.attribute.standard.MediaPrintableArea obj = new javax.print.attribute.standard.MediaPrintableArea();obj.getY(2022641087);}}

@@ -1,0 +1,1 @@
+class java_nio_channels_spi_AbstractSelector_select_long{ public static void function() {java.nio.channels.spi.AbstractSelector obj = new java.nio.channels.spi.AbstractSelector();obj.select(-6916290544344354582);}}

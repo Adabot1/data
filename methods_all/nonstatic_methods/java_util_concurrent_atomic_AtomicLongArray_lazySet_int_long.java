@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_lazySet_int_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.lazySet(86955354,-2359691553046993619);}}

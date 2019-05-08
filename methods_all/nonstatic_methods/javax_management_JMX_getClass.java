@@ -1,0 +1,1 @@
+class javax_management_JMX_getClass{ public static void function() {javax.management.JMX obj = new javax.management.JMX();obj.getClass();}}

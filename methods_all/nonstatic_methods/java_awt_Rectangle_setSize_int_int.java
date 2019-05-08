@@ -1,0 +1,1 @@
+class java_awt_Rectangle_setSize_int_int{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.setSize(-654171763,1562956837);}}

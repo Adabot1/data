@@ -1,0 +1,1 @@
+class javax_print_event_PrintJobAttributeEvent_hashCode{ public static void function() {javax.print.event.PrintJobAttributeEvent obj = new javax.print.event.PrintJobAttributeEvent();obj.hashCode();}}

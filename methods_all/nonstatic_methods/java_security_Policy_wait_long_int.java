@@ -1,0 +1,1 @@
+class java_security_Policy_wait_long_int{ public static void function() {java.security.Policy obj = new java.security.Policy();obj.wait(-9013061592718642766,235225966);}}

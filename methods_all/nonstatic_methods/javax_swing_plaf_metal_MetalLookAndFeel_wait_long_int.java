@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalLookAndFeel_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalLookAndFeel obj = new javax.swing.plaf.metal.MetalLookAndFeel();obj.wait(-5261191620637092671,-1161223186);}}

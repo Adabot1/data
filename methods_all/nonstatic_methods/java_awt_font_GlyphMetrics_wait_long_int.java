@@ -1,0 +1,1 @@
+class java_awt_font_GlyphMetrics_wait_long_int{ public static void function() {java.awt.font.GlyphMetrics obj = new java.awt.font.GlyphMetrics();obj.wait(-1037706024262582443,110928990);}}

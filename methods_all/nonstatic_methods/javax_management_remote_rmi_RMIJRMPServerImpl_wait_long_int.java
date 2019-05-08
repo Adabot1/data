@@ -1,0 +1,1 @@
+class javax_management_remote_rmi_RMIJRMPServerImpl_wait_long_int{ public static void function() {javax.management.remote.rmi.RMIJRMPServerImpl obj = new javax.management.remote.rmi.RMIJRMPServerImpl();obj.wait(-8454144219362781561,26884881);}}

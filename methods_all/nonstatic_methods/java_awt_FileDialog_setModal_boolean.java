@@ -1,0 +1,1 @@
+class java_awt_FileDialog_setModal_boolean{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.setModal(true);}}

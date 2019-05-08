@@ -1,0 +1,1 @@
+class java_awt_Checkbox_setSize_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.setSize(-1850678895,52941062);}}

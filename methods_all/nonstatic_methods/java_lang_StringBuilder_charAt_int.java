@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_charAt_int{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.charAt(-1781458638);}}

@@ -1,0 +1,1 @@
+class java_awt_Menu_wait_long{ public static void function() {java.awt.Menu obj = new java.awt.Menu();obj.wait(7740305305983846276);}}

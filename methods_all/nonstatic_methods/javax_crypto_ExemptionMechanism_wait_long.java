@@ -1,0 +1,1 @@
+class javax_crypto_ExemptionMechanism_wait_long{ public static void function() {javax.crypto.ExemptionMechanism obj = new javax.crypto.ExemptionMechanism();obj.wait(-4555496410210456874);}}

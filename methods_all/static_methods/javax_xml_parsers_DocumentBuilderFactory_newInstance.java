@@ -1,0 +1,1 @@
+class javax_xml_parsers_DocumentBuilderFactory_newInstance{ public static void function() {javax.xml.parsers.DocumentBuilderFactory.newInstance();}}

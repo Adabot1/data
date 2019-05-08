@@ -1,0 +1,1 @@
+class java_lang_module_Configuration_notify{ public static void function() {java.lang.module.Configuration obj = new java.lang.module.Configuration();obj.notify();}}

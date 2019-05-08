@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_compareAndExchange_int_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.compareAndExchange(1201706253,-1384283919755418192,2683461915079951695);}}

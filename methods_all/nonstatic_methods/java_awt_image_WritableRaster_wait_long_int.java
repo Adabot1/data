@@ -1,0 +1,1 @@
+class java_awt_image_WritableRaster_wait_long_int{ public static void function() {java.awt.image.WritableRaster obj = new java.awt.image.WritableRaster();obj.wait(361546623691502651,-177392949);}}

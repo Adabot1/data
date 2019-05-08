@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_setVerticalAlignment_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.setVerticalAlignment(-381864707);}}

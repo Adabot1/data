@@ -1,0 +1,1 @@
+class java_awt_Choice_setLocation_int_int{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.setLocation(-1182715266,265483786);}}

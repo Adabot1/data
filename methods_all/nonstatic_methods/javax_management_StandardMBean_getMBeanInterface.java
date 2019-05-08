@@ -1,0 +1,1 @@
+class javax_management_StandardMBean_getMBeanInterface{ public static void function() {javax.management.StandardMBean obj = new javax.management.StandardMBean();obj.getMBeanInterface();}}

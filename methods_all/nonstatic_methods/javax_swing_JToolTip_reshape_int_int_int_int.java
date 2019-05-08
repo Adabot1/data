@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_reshape_int_int_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.reshape(1264287290,1650367070,1608166658,-867942529);}}

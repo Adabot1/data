@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibilityProvider_wait_long_int{ public static void function() {javax.accessibility.AccessibilityProvider obj = new javax.accessibility.AccessibilityProvider();obj.wait(3218605745797725363,-1850490308);}}

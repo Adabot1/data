@@ -1,0 +1,1 @@
+class javax_swing_text_html_ImageView_breakView_int_int_float_float{ public static void function() {javax.swing.text.html.ImageView obj = new javax.swing.text.html.ImageView();obj.breakView(-1351018885,-990196721,0.66296494,0.99439645);}}

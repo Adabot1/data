@@ -1,0 +1,1 @@
+class javax_swing_Timer_getLogTimers{ public static void function() {javax.swing.Timer.getLogTimers();}}

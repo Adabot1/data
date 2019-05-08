@@ -1,0 +1,1 @@
+class jdk_jshell_execution_DirectExecutionControl_wait_long_int{ public static void function() {jdk.jshell.execution.DirectExecutionControl obj = new jdk.jshell.execution.DirectExecutionControl();obj.wait(-8069907379516392185,85180644);}}

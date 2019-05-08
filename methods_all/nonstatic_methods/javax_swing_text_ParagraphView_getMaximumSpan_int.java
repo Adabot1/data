@@ -1,0 +1,1 @@
+class javax_swing_text_ParagraphView_getMaximumSpan_int{ public static void function() {javax.swing.text.ParagraphView obj = new javax.swing.text.ParagraphView();obj.getMaximumSpan(2005071726);}}

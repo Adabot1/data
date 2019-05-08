@@ -1,0 +1,1 @@
+class javax_swing_text_AbstractDocument_wait_long_int{ public static void function() {javax.swing.text.AbstractDocument obj = new javax.swing.text.AbstractDocument();obj.wait(-3005838540070842955,-479731074);}}

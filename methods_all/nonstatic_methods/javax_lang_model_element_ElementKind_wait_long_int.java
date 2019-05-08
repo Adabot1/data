@@ -1,0 +1,1 @@
+class javax_lang_model_element_ElementKind_wait_long_int{ public static void function() {javax.lang.model.element.ElementKind obj = new javax.lang.model.element.ElementKind();obj.wait(-8700708815329736696,-992665326);}}

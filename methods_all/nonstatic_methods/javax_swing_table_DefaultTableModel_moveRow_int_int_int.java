@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableModel_moveRow_int_int_int{ public static void function() {javax.swing.table.DefaultTableModel obj = new javax.swing.table.DefaultTableModel();obj.moveRow(-214952482,1232360664,-1944746507);}}

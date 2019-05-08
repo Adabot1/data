@@ -1,0 +1,1 @@
+class javax_swing_plaf_nimbus_NimbusStyle_wait_long{ public static void function() {javax.swing.plaf.nimbus.NimbusStyle obj = new javax.swing.plaf.nimbus.NimbusStyle();obj.wait(-3447525230122801435);}}

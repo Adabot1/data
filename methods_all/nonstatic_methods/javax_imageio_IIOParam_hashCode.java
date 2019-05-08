@@ -1,0 +1,1 @@
+class javax_imageio_IIOParam_hashCode{ public static void function() {javax.imageio.IIOParam obj = new javax.imageio.IIOParam();obj.hashCode();}}

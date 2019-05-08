@@ -1,0 +1,1 @@
+class javax_swing_JMenu_createVolatileImage_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.createVolatileImage(-161330226,1626493540);}}

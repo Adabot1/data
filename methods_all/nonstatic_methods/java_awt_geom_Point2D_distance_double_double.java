@@ -1,0 +1,1 @@
+class java_awt_geom_Point2D_distance_double_double{ public static void function() {java.awt.geom.Point2D obj = new java.awt.geom.Point2D();obj.distance(0.4354570648112017,0.24108843141652325);}}

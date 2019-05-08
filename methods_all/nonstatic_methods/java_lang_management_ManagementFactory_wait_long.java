@@ -1,0 +1,1 @@
+class java_lang_management_ManagementFactory_wait_long{ public static void function() {java.lang.management.ManagementFactory obj = new java.lang.management.ManagementFactory();obj.wait(-9093102614313372375);}}

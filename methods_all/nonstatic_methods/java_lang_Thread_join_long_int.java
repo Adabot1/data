@@ -1,0 +1,1 @@
+class java_lang_Thread_join_long_int{ public static void function() {java.lang.Thread obj = new java.lang.Thread();obj.join(-3170413822579222254,-1787403103);}}

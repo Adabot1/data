@@ -1,0 +1,1 @@
+class java_awt_image_PixelInterleavedSampleModel_wait_long{ public static void function() {java.awt.image.PixelInterleavedSampleModel obj = new java.awt.image.PixelInterleavedSampleModel();obj.wait(8311973186884472124);}}

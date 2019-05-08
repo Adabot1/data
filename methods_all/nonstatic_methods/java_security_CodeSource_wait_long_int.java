@@ -1,0 +1,1 @@
+class java_security_CodeSource_wait_long_int{ public static void function() {java.security.CodeSource obj = new java.security.CodeSource();obj.wait(-8737333164971473835,2079515620);}}

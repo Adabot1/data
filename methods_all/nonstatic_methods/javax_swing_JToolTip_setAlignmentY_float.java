@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_setAlignmentY_float{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.setAlignmentY(0.24253929);}}

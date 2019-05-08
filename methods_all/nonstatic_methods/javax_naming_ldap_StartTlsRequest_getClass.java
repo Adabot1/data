@@ -1,0 +1,1 @@
+class javax_naming_ldap_StartTlsRequest_getClass{ public static void function() {javax.naming.ldap.StartTlsRequest obj = new javax.naming.ldap.StartTlsRequest();obj.getClass();}}

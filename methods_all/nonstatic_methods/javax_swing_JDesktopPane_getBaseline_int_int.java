@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_getBaseline_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.getBaseline(-528368727,-562002343);}}

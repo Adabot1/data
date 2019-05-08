@@ -1,0 +1,1 @@
+class javax_naming_spi_ResolveResult_wait_long_int{ public static void function() {javax.naming.spi.ResolveResult obj = new javax.naming.spi.ResolveResult();obj.wait(-3215112339320293786,-1112285592);}}

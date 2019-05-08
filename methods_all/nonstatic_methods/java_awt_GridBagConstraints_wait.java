@@ -1,0 +1,1 @@
+class java_awt_GridBagConstraints_wait{ public static void function() {java.awt.GridBagConstraints obj = new java.awt.GridBagConstraints();obj.wait();}}

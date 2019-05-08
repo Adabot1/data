@@ -1,0 +1,1 @@
+class java_awt_Cursor_wait_long_int{ public static void function() {java.awt.Cursor obj = new java.awt.Cursor();obj.wait(2869326894624176864,1461436299);}}

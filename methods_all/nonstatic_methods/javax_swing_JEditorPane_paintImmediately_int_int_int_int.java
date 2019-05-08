@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.paintImmediately(-1780667285,1592727661,144661095,2128407040);}}

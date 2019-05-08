@@ -1,0 +1,1 @@
+class java_awt_List_wait_long{ public static void function() {java.awt.List obj = new java.awt.List();obj.wait(3402734555767495162);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_AbstractChronology_dateYearDay_int_int{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();obj.dateYearDay(729928299,-1653138986);}}

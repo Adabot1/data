@@ -1,0 +1,1 @@
+class java_awt_List_createVolatileImage_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.createVolatileImage(-253316390,-741888832);}}

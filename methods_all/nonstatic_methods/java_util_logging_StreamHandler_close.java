@@ -1,0 +1,1 @@
+class java_util_logging_StreamHandler_close{ public static void function() {java.util.logging.StreamHandler obj = new java.util.logging.StreamHandler();obj.close();}}

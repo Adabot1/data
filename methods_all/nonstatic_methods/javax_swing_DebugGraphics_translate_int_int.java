@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_translate_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.translate(1524962372,1306265504);}}

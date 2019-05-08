@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_inside_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.inside(145931119,394942872);}}

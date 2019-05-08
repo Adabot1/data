@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_now{ public static void function() {java.time.OffsetDateTime.now();}}

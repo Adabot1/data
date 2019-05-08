@@ -1,0 +1,1 @@
+class javax_sound_midi_SysexMessage_wait_long_int{ public static void function() {javax.sound.midi.SysexMessage obj = new javax.sound.midi.SysexMessage();obj.wait(-7811379107041896801,-1317392164);}}

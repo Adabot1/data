@@ -1,0 +1,1 @@
+class javax_management_AttributeValueExp_wait{ public static void function() {javax.management.AttributeValueExp obj = new javax.management.AttributeValueExp();obj.wait();}}

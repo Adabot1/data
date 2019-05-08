@@ -1,0 +1,1 @@
+class javax_script_ScriptEngineManager_wait_long_int{ public static void function() {javax.script.ScriptEngineManager obj = new javax.script.ScriptEngineManager();obj.wait(5364188118958744824,-1383645041);}}

@@ -1,0 +1,1 @@
+class javax_script_CompiledScript_wait_long{ public static void function() {javax.script.CompiledScript obj = new javax.script.CompiledScript();obj.wait(-763873082647825839);}}

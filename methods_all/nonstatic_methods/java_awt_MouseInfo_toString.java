@@ -1,0 +1,1 @@
+class java_awt_MouseInfo_toString{ public static void function() {java.awt.MouseInfo obj = new java.awt.MouseInfo();obj.toString();}}

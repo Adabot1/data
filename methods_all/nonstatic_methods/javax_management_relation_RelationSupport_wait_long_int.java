@@ -1,0 +1,1 @@
+class javax_management_relation_RelationSupport_wait_long_int{ public static void function() {javax.management.relation.RelationSupport obj = new javax.management.relation.RelationSupport();obj.wait(-4788865541624913563,-1273919127);}}

@@ -1,0 +1,1 @@
+class java_sql_Time_wait_long_int{ public static void function() {java.sql.Time obj = new java.sql.Time();obj.wait(-5848754639214269310,824308202);}}

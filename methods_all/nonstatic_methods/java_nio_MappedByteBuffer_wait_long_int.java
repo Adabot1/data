@@ -1,0 +1,1 @@
+class java_nio_MappedByteBuffer_wait_long_int{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();obj.wait(-4587805570607113208,-329740887);}}

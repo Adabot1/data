@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_wait_long{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.wait(-4892758550234824499);}}

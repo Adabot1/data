@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobImpressionsSupported_contains_int{ public static void function() {javax.print.attribute.standard.JobImpressionsSupported obj = new javax.print.attribute.standard.JobImpressionsSupported();obj.contains(187994437);}}

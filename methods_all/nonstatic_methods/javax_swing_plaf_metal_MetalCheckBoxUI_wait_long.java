@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalCheckBoxUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalCheckBoxUI obj = new javax.swing.plaf.metal.MetalCheckBoxUI();obj.wait(-7698724990244158669);}}

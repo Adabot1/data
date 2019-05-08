@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicIconFactory_createEmptyFrameIcon{ public static void function() {javax.swing.plaf.basic.BasicIconFactory.createEmptyFrameIcon();}}

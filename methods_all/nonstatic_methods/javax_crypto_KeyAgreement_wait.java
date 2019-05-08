@@ -1,0 +1,1 @@
+class javax_crypto_KeyAgreement_wait{ public static void function() {javax.crypto.KeyAgreement obj = new javax.crypto.KeyAgreement();obj.wait();}}

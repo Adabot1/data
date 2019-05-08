@@ -1,0 +1,1 @@
+class java_security_cert_LDAPCertStoreParameters_wait_long_int{ public static void function() {java.security.cert.LDAPCertStoreParameters obj = new java.security.cert.LDAPCertStoreParameters();obj.wait(-6398583075292749087,-237113666);}}

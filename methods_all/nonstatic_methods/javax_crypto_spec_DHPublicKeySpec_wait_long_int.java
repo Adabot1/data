@@ -1,0 +1,1 @@
+class javax_crypto_spec_DHPublicKeySpec_wait_long_int{ public static void function() {javax.crypto.spec.DHPublicKeySpec obj = new javax.crypto.spec.DHPublicKeySpec();obj.wait(4419815644077754001,2067366621);}}

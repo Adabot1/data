@@ -1,0 +1,1 @@
+class java_io_ByteArrayOutputStream_notifyAll{ public static void function() {java.io.ByteArrayOutputStream obj = new java.io.ByteArrayOutputStream();obj.notifyAll();}}

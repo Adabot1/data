@@ -1,0 +1,1 @@
+class javax_swing_event_RowSorterEvent_getType{ public static void function() {javax.swing.event.RowSorterEvent obj = new javax.swing.event.RowSorterEvent();obj.getType();}}

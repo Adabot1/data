@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobHoldUntil_wait_long_int{ public static void function() {javax.print.attribute.standard.JobHoldUntil obj = new javax.print.attribute.standard.JobHoldUntil();obj.wait(-589875745367210740,1247314643);}}

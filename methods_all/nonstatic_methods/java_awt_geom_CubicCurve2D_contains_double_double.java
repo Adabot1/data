@@ -1,0 +1,1 @@
+class java_awt_geom_CubicCurve2D_contains_double_double{ public static void function() {java.awt.geom.CubicCurve2D obj = new java.awt.geom.CubicCurve2D();obj.contains(0.5123638215321749,0.6244555976047054);}}

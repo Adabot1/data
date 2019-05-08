@@ -1,0 +1,1 @@
+class javax_swing_AbstractCellEditor_getCellEditorListeners{ public static void function() {javax.swing.AbstractCellEditor obj = new javax.swing.AbstractCellEditor();obj.getCellEditorListeners();}}

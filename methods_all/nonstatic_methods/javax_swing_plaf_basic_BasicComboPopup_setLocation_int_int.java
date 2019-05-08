@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_setLocation_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.setLocation(230114237,-22344775);}}

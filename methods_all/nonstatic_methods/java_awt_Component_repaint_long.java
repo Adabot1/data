@@ -1,0 +1,1 @@
+class java_awt_Component_repaint_long{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.repaint(-3347151757550776206);}}

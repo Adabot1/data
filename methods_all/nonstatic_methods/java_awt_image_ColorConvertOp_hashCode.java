@@ -1,0 +1,1 @@
+class java_awt_image_ColorConvertOp_hashCode{ public static void function() {java.awt.image.ColorConvertOp obj = new java.awt.image.ColorConvertOp();obj.hashCode();}}

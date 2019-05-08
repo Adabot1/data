@@ -1,0 +1,1 @@
+class java_net_URISyntaxException_wait_long{ public static void function() {java.net.URISyntaxException obj = new java.net.URISyntaxException();obj.wait(-411968967771515699);}}

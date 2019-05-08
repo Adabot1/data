@@ -1,0 +1,1 @@
+class java_awt_Frame_invalidate{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.invalidate();}}

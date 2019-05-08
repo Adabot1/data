@@ -1,0 +1,1 @@
+class java_security_spec_RSAKeyGenParameterSpec_getKeyParams{ public static void function() {java.security.spec.RSAKeyGenParameterSpec obj = new java.security.spec.RSAKeyGenParameterSpec();obj.getKeyParams();}}

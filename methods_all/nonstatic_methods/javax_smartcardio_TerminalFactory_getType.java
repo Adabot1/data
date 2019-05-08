@@ -1,0 +1,1 @@
+class javax_smartcardio_TerminalFactory_getType{ public static void function() {javax.smartcardio.TerminalFactory obj = new javax.smartcardio.TerminalFactory();obj.getType();}}

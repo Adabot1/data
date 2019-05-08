@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalSliderUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalSliderUI obj = new javax.swing.plaf.metal.MetalSliderUI();obj.wait(-4450507065487637284);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_ParagraphView_getAlignment_int{ public static void function() {javax.swing.text.html.ParagraphView obj = new javax.swing.text.html.ParagraphView();obj.getAlignment(-842786742);}}

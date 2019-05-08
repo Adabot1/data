@@ -1,0 +1,1 @@
+class java_sql_ClientInfoStatus_name{ public static void function() {java.sql.ClientInfoStatus obj = new java.sql.ClientInfoStatus();obj.name();}}

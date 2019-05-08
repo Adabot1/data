@@ -1,0 +1,1 @@
+class com_sun_source_util_JavacTask_wait_long_int{ public static void function() {com.sun.source.util.JavacTask obj = new com.sun.source.util.JavacTask();obj.wait(9181101480783770062,522024667);}}

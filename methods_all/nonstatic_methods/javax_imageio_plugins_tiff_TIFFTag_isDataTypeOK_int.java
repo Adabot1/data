@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFTag_isDataTypeOK_int{ public static void function() {javax.imageio.plugins.tiff.TIFFTag obj = new javax.imageio.plugins.tiff.TIFFTag();obj.isDataTypeOK(-199316419);}}

@@ -1,0 +1,1 @@
+class javax_swing_SpinnerNumberModel_getValue{ public static void function() {javax.swing.SpinnerNumberModel obj = new javax.swing.SpinnerNumberModel();obj.getValue();}}

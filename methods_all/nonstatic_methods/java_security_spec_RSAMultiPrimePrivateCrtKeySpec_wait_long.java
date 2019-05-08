@@ -1,0 +1,1 @@
+class java_security_spec_RSAMultiPrimePrivateCrtKeySpec_wait_long{ public static void function() {java.security.spec.RSAMultiPrimePrivateCrtKeySpec obj = new java.security.spec.RSAMultiPrimePrivateCrtKeySpec();obj.wait(4417406850686327312);}}

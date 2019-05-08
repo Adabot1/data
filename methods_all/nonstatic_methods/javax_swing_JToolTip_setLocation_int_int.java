@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_setLocation_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.setLocation(-1804435612,-336222883);}}

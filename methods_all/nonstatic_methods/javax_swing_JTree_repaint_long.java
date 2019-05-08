@@ -1,0 +1,1 @@
+class javax_swing_JTree_repaint_long{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.repaint(966572478465992612);}}

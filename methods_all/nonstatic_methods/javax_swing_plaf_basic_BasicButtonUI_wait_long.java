@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicButtonUI_wait_long{ public static void function() {javax.swing.plaf.basic.BasicButtonUI obj = new javax.swing.plaf.basic.BasicButtonUI();obj.wait(-1453437106210720678);}}

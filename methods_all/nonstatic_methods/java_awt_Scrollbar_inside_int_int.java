@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_inside_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.inside(-1583894664,-263524644);}}

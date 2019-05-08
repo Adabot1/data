@@ -1,0 +1,1 @@
+class java_awt_ScrollPaneAdjustable_setValue_int{ public static void function() {java.awt.ScrollPaneAdjustable obj = new java.awt.ScrollPaneAdjustable();obj.setValue(-1599950575);}}

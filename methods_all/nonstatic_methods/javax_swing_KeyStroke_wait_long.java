@@ -1,0 +1,1 @@
+class javax_swing_KeyStroke_wait_long{ public static void function() {javax.swing.KeyStroke obj = new javax.swing.KeyStroke();obj.wait(2315021178572513808);}}

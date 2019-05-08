@@ -1,0 +1,1 @@
+class java_net_HttpRetryException_getMessage{ public static void function() {java.net.HttpRetryException obj = new java.net.HttpRetryException();obj.getMessage();}}

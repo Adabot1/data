@@ -1,0 +1,1 @@
+class java_security_cert_CRLReason_wait_long_int{ public static void function() {java.security.cert.CRLReason obj = new java.security.cert.CRLReason();obj.wait(2535779627241068556,210580515);}}

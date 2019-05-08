@@ -1,0 +1,1 @@
+class java_security_KeyStore_wait_long_int{ public static void function() {java.security.KeyStore obj = new java.security.KeyStore();obj.wait(-1281704567531289955,1390484170);}}

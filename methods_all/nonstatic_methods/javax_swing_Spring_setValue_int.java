@@ -1,0 +1,1 @@
+class javax_swing_Spring_setValue_int{ public static void function() {javax.swing.Spring obj = new javax.swing.Spring();obj.setValue(-782130667);}}

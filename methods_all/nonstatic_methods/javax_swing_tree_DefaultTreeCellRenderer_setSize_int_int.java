@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_setSize_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.setSize(-1363961149,1859076527);}}

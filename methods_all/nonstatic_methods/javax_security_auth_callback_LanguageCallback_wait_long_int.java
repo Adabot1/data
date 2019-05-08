@@ -1,0 +1,1 @@
+class javax_security_auth_callback_LanguageCallback_wait_long_int{ public static void function() {javax.security.auth.callback.LanguageCallback obj = new javax.security.auth.callback.LanguageCallback();obj.wait(5900938150942182895,1811938578);}}

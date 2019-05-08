@@ -1,0 +1,1 @@
+class javax_swing_text_LayeredHighlighter_wait_long_int{ public static void function() {javax.swing.text.LayeredHighlighter obj = new javax.swing.text.LayeredHighlighter();obj.wait(-1929896293410024505,848089859);}}

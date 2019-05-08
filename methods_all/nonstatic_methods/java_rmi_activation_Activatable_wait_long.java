@@ -1,0 +1,1 @@
+class java_rmi_activation_Activatable_wait_long{ public static void function() {java.rmi.activation.Activatable obj = new java.rmi.activation.Activatable();obj.wait(-3892533086404832786);}}

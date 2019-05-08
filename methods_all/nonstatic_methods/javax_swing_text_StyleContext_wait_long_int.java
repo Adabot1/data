@@ -1,0 +1,1 @@
+class javax_swing_text_StyleContext_wait_long_int{ public static void function() {javax.swing.text.StyleContext obj = new javax.swing.text.StyleContext();obj.wait(2385482759299302761,671216821);}}

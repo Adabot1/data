@@ -1,0 +1,1 @@
+class java_awt_Button_setSize_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.setSize(2020337699,700711617);}}

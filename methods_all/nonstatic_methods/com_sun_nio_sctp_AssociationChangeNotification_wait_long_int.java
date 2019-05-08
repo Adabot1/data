@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_AssociationChangeNotification_wait_long_int{ public static void function() {com.sun.nio.sctp.AssociationChangeNotification obj = new com.sun.nio.sctp.AssociationChangeNotification();obj.wait(1756397067732543892,1213644651);}}

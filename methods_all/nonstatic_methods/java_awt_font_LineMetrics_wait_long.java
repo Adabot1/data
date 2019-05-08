@@ -1,0 +1,1 @@
+class java_awt_font_LineMetrics_wait_long{ public static void function() {java.awt.font.LineMetrics obj = new java.awt.font.LineMetrics();obj.wait(8573809095913380951);}}

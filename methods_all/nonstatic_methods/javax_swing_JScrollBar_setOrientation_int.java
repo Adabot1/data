@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_setOrientation_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.setOrientation(-658511097);}}

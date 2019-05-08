@@ -1,0 +1,1 @@
+class javax_swing_plaf_BorderUIResource_wait_long{ public static void function() {javax.swing.plaf.BorderUIResource obj = new javax.swing.plaf.BorderUIResource();obj.wait(3545436531853265204);}}

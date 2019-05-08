@@ -1,0 +1,1 @@
+class java_security_AccessControlContext_hashCode{ public static void function() {java.security.AccessControlContext obj = new java.security.AccessControlContext();obj.hashCode();}}

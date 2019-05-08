@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_getBaseline_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.getBaseline(80560837,-906800874);}}

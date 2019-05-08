@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalLookAndFeel_getWindowTitleInactiveForeground{ public static void function() {javax.swing.plaf.metal.MetalLookAndFeel.getWindowTitleInactiveForeground();}}

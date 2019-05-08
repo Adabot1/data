@@ -1,0 +1,1 @@
+class java_security_cert_PKIXCertPathBuilderResult_wait_long_int{ public static void function() {java.security.cert.PKIXCertPathBuilderResult obj = new java.security.cert.PKIXCertPathBuilderResult();obj.wait(2638182301060316541,1277218121);}}

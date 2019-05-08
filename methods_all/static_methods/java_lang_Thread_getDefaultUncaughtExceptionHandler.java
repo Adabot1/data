@@ -1,0 +1,1 @@
+class java_lang_Thread_getDefaultUncaughtExceptionHandler{ public static void function() {java.lang.Thread.getDefaultUncaughtExceptionHandler();}}

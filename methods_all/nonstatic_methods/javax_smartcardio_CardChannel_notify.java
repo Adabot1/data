@@ -1,0 +1,1 @@
+class javax_smartcardio_CardChannel_notify{ public static void function() {javax.smartcardio.CardChannel obj = new javax.smartcardio.CardChannel();obj.notify();}}

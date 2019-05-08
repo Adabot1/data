@@ -1,0 +1,1 @@
+class java_math_RoundingMode_values{ public static void function() {java.math.RoundingMode.values();}}

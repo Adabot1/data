@@ -1,0 +1,1 @@
+class java_awt_dnd_DragSource_isDragImageSupported{ public static void function() {java.awt.dnd.DragSource.isDragImageSupported();}}

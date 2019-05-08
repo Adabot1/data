@@ -1,0 +1,1 @@
+class javax_sound_sampled_AudioInputStream_wait_long_int{ public static void function() {javax.sound.sampled.AudioInputStream obj = new javax.sound.sampled.AudioInputStream();obj.wait(2999149364101641755,-1510014044);}}

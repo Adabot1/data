@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_doClick_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.doClick(185308030);}}

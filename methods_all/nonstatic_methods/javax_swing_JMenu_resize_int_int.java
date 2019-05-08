@@ -1,0 +1,1 @@
+class javax_swing_JMenu_resize_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.resize(-2055035311,172443722);}}

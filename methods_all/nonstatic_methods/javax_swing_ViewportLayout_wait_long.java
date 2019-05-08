@@ -1,0 +1,1 @@
+class javax_swing_ViewportLayout_wait_long{ public static void function() {javax.swing.ViewportLayout obj = new javax.swing.ViewportLayout();obj.wait(-3129761840381928007);}}

@@ -1,0 +1,1 @@
+class com_sun_jdi_connect_VMStartException_wait_long_int{ public static void function() {com.sun.jdi.connect.VMStartException obj = new com.sun.jdi.connect.VMStartException();obj.wait(2754692401926311256,-127309490);}}

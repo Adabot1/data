@@ -1,0 +1,1 @@
+class java_rmi_Naming_notify{ public static void function() {java.rmi.Naming obj = new java.rmi.Naming();obj.notify();}}

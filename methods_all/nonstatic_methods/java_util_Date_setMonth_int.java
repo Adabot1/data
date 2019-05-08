@@ -1,0 +1,1 @@
+class java_util_Date_setMonth_int{ public static void function() {java.util.Date obj = new java.util.Date();obj.setMonth(31738044);}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_SNIMatcher_getClass{ public static void function() {javax.net.ssl.SNIMatcher obj = new javax.net.ssl.SNIMatcher();obj.getClass();}}

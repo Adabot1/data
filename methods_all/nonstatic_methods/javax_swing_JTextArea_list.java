@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_list{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.list();}}

@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_ServicePermission_wait_long{ public static void function() {javax.security.auth.kerberos.ServicePermission obj = new javax.security.auth.kerberos.ServicePermission();obj.wait(5506530216496066326);}}

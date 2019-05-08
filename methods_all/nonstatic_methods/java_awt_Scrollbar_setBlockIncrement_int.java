@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_setBlockIncrement_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.setBlockIncrement(536952526);}}

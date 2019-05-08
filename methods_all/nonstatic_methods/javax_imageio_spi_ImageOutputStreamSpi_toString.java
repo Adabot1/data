@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageOutputStreamSpi_toString{ public static void function() {javax.imageio.spi.ImageOutputStreamSpi obj = new javax.imageio.spi.ImageOutputStreamSpi();obj.toString();}}

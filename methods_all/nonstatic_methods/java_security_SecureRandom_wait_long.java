@@ -1,0 +1,1 @@
+class java_security_SecureRandom_wait_long{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();obj.wait(3892179730637789417);}}

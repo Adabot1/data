@@ -1,0 +1,1 @@
+class jdk_dynalink_DynamicLinkerFactory_setUnstableRelinkThreshold_int{ public static void function() {jdk.dynalink.DynamicLinkerFactory obj = new jdk.dynalink.DynamicLinkerFactory();obj.setUnstableRelinkThreshold(-1969454831);}}

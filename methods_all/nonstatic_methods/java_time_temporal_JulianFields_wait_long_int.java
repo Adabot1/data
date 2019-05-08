@@ -1,0 +1,1 @@
+class java_time_temporal_JulianFields_wait_long_int{ public static void function() {java.time.temporal.JulianFields obj = new java.time.temporal.JulianFields();obj.wait(6614206850429824803,-1624240072);}}

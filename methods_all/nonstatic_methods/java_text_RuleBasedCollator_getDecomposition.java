@@ -1,0 +1,1 @@
+class java_text_RuleBasedCollator_getDecomposition{ public static void function() {java.text.RuleBasedCollator obj = new java.text.RuleBasedCollator();obj.getDecomposition();}}

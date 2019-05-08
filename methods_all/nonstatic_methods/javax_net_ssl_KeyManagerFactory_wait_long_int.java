@@ -1,0 +1,1 @@
+class javax_net_ssl_KeyManagerFactory_wait_long_int{ public static void function() {javax.net.ssl.KeyManagerFactory obj = new javax.net.ssl.KeyManagerFactory();obj.wait(6204903978323767919,127760623);}}

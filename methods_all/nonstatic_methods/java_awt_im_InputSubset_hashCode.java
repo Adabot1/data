@@ -1,0 +1,1 @@
+class java_awt_im_InputSubset_hashCode{ public static void function() {java.awt.im.InputSubset obj = new java.awt.im.InputSubset();obj.hashCode();}}

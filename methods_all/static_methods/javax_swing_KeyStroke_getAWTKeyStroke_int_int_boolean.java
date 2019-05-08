@@ -1,0 +1,1 @@
+class javax_swing_KeyStroke_getAWTKeyStroke_int_int_boolean{ public static void function() {javax.swing.KeyStroke.getAWTKeyStroke(1375974243,222476461,true);}}

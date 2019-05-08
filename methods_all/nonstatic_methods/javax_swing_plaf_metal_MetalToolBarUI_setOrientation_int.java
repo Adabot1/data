@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalToolBarUI_setOrientation_int{ public static void function() {javax.swing.plaf.metal.MetalToolBarUI obj = new javax.swing.plaf.metal.MetalToolBarUI();obj.setOrientation(-1664995945);}}

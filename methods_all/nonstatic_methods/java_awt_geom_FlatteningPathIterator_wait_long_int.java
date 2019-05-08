@@ -1,0 +1,1 @@
+class java_awt_geom_FlatteningPathIterator_wait_long_int{ public static void function() {java.awt.geom.FlatteningPathIterator obj = new java.awt.geom.FlatteningPathIterator();obj.wait(4765640784436566580,1320704679);}}

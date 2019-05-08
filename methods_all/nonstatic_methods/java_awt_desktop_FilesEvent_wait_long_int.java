@@ -1,0 +1,1 @@
+class java_awt_desktop_FilesEvent_wait_long_int{ public static void function() {java.awt.desktop.FilesEvent obj = new java.awt.desktop.FilesEvent();obj.wait(7192209337986039404,1680247795);}}

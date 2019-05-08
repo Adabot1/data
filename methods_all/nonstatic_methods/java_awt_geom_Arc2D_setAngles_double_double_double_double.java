@@ -1,0 +1,1 @@
+class java_awt_geom_Arc2D_setAngles_double_double_double_double{ public static void function() {java.awt.geom.Arc2D obj = new java.awt.geom.Arc2D();obj.setAngles(0.08319548872721849,0.015826043473766815,0.34234674257011477,0.7666887616496889);}}

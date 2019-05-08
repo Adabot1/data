@@ -1,0 +1,1 @@
+class javax_swing_JComponent_repaint_long{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.repaint(-328831749911076098);}}

@@ -1,0 +1,1 @@
+class java_awt_font_TextMeasurer_notifyAll{ public static void function() {java.awt.font.TextMeasurer obj = new java.awt.font.TextMeasurer();obj.notifyAll();}}

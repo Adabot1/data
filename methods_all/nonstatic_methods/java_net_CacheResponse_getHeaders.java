@@ -1,0 +1,1 @@
+class java_net_CacheResponse_getHeaders{ public static void function() {java.net.CacheResponse obj = new java.net.CacheResponse();obj.getHeaders();}}

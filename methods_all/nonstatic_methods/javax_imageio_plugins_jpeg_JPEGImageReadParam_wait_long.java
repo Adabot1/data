@@ -1,0 +1,1 @@
+class javax_imageio_plugins_jpeg_JPEGImageReadParam_wait_long{ public static void function() {javax.imageio.plugins.jpeg.JPEGImageReadParam obj = new javax.imageio.plugins.jpeg.JPEGImageReadParam();obj.wait(3050323551983960487);}}

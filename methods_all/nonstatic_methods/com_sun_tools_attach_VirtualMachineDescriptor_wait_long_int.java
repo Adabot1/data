@@ -1,0 +1,1 @@
+class com_sun_tools_attach_VirtualMachineDescriptor_wait_long_int{ public static void function() {com.sun.tools.attach.VirtualMachineDescriptor obj = new com.sun.tools.attach.VirtualMachineDescriptor();obj.wait(-905073747824322321,1466840042);}}

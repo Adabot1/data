@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_translate_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.translate(1770057812,775116029);}}

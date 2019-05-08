@@ -1,0 +1,1 @@
+class javax_xml_transform_OutputKeys_notifyAll{ public static void function() {javax.xml.transform.OutputKeys obj = new javax.xml.transform.OutputKeys();obj.notifyAll();}}

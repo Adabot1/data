@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_repaint_long_int_int_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.repaint(-4713846298903040031,-956816694,1866460858,1382639233,2012814678);}}

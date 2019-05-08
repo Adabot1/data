@@ -1,0 +1,1 @@
+class java_security_Timestamp_getClass{ public static void function() {java.security.Timestamp obj = new java.security.Timestamp();obj.getClass();}}

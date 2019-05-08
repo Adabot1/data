@@ -1,0 +1,1 @@
+class java_lang_StackWalker_wait_long{ public static void function() {java.lang.StackWalker obj = new java.lang.StackWalker();obj.wait(5477130847791911553);}}

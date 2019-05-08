@@ -1,0 +1,1 @@
+class java_awt_desktop_UserSessionEvent_hashCode{ public static void function() {java.awt.desktop.UserSessionEvent obj = new java.awt.desktop.UserSessionEvent();obj.hashCode();}}

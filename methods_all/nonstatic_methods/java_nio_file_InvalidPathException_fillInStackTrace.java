@@ -1,0 +1,1 @@
+class java_nio_file_InvalidPathException_fillInStackTrace{ public static void function() {java.nio.file.InvalidPathException obj = new java.nio.file.InvalidPathException();obj.fillInStackTrace();}}

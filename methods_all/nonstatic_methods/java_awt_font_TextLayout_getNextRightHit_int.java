@@ -1,0 +1,1 @@
+class java_awt_font_TextLayout_getNextRightHit_int{ public static void function() {java.awt.font.TextLayout obj = new java.awt.font.TextLayout();obj.getNextRightHit(-1280036720);}}

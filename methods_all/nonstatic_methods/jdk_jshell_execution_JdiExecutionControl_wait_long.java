@@ -1,0 +1,1 @@
+class jdk_jshell_execution_JdiExecutionControl_wait_long{ public static void function() {jdk.jshell.execution.JdiExecutionControl obj = new jdk.jshell.execution.JdiExecutionControl();obj.wait(-7179829833411748034);}}

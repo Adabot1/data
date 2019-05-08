@@ -1,0 +1,1 @@
+class java_awt_geom_RectangularShape_contains_double_double_double_double{ public static void function() {java.awt.geom.RectangularShape obj = new java.awt.geom.RectangularShape();obj.contains(0.2952072848922278,0.7391420097794883,0.5075796473276094,0.8687665243627939);}}

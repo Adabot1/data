@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_support_TypeUtilities_hashCode{ public static void function() {jdk.dynalink.linker.support.TypeUtilities obj = new jdk.dynalink.linker.support.TypeUtilities();obj.hashCode();}}

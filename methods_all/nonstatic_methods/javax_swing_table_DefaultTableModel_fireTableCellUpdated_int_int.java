@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableModel_fireTableCellUpdated_int_int{ public static void function() {javax.swing.table.DefaultTableModel obj = new javax.swing.table.DefaultTableModel();obj.fireTableCellUpdated(1151510711,1191867287);}}

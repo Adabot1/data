@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_wait_long{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.wait(8850700814058407047);}}

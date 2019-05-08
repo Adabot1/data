@@ -1,0 +1,1 @@
+class javax_imageio_plugins_jpeg_JPEGQTable_wait_long{ public static void function() {javax.imageio.plugins.jpeg.JPEGQTable obj = new javax.imageio.plugins.jpeg.JPEGQTable();obj.wait(-3397773607017509191);}}

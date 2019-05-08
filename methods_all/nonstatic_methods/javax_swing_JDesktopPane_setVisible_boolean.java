@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_setVisible_boolean{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.setVisible(true);}}

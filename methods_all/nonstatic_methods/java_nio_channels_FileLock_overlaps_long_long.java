@@ -1,0 +1,1 @@
+class java_nio_channels_FileLock_overlaps_long_long{ public static void function() {java.nio.channels.FileLock obj = new java.nio.channels.FileLock();obj.overlaps(-8867837341995775158,980610684324223482);}}

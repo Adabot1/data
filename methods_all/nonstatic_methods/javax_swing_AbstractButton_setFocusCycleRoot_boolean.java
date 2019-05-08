@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_setFocusCycleRoot_boolean{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.setFocusCycleRoot(true);}}

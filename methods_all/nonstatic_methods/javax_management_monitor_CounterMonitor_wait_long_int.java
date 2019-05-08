@@ -1,0 +1,1 @@
+class javax_management_monitor_CounterMonitor_wait_long_int{ public static void function() {javax.management.monitor.CounterMonitor obj = new javax.management.monitor.CounterMonitor();obj.wait(6466566479805416799,597371241);}}

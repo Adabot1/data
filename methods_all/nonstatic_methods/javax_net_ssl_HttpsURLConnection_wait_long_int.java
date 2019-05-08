@@ -1,0 +1,1 @@
+class javax_net_ssl_HttpsURLConnection_wait_long_int{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();obj.wait(6870222830188075957,1599640382);}}

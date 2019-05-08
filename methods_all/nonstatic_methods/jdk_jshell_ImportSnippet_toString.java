@@ -1,0 +1,1 @@
+class jdk_jshell_ImportSnippet_toString{ public static void function() {jdk.jshell.ImportSnippet obj = new jdk.jshell.ImportSnippet();obj.toString();}}

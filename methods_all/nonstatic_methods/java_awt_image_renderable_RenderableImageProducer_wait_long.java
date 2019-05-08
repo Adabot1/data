@@ -1,0 +1,1 @@
+class java_awt_image_renderable_RenderableImageProducer_wait_long{ public static void function() {java.awt.image.renderable.RenderableImageProducer obj = new java.awt.image.renderable.RenderableImageProducer();obj.wait(5570540217231310325);}}

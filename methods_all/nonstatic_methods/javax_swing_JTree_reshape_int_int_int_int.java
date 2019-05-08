@@ -1,0 +1,1 @@
+class javax_swing_JTree_reshape_int_int_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.reshape(1722750610,656385884,206748641,-1467836644);}}

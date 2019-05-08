@@ -1,0 +1,1 @@
+class java_security_PrivilegedActionException_fillInStackTrace{ public static void function() {java.security.PrivilegedActionException obj = new java.security.PrivilegedActionException();obj.fillInStackTrace();}}

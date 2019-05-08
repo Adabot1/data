@@ -1,0 +1,1 @@
+class java_awt_image_IndexColorModel_getRed_int{ public static void function() {java.awt.image.IndexColorModel obj = new java.awt.image.IndexColorModel();obj.getRed(1676380421);}}

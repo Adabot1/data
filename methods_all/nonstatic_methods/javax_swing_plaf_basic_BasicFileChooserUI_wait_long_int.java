@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicFileChooserUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicFileChooserUI obj = new javax.swing.plaf.basic.BasicFileChooserUI();obj.wait(-1800722949579202107,-1661694912);}}

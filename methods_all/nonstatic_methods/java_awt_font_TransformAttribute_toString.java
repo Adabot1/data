@@ -1,0 +1,1 @@
+class java_awt_font_TransformAttribute_toString{ public static void function() {java.awt.font.TransformAttribute obj = new java.awt.font.TransformAttribute();obj.toString();}}

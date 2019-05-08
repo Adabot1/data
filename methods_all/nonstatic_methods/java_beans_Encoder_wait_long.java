@@ -1,0 +1,1 @@
+class java_beans_Encoder_wait_long{ public static void function() {java.beans.Encoder obj = new java.beans.Encoder();obj.wait(8454829956835983457);}}

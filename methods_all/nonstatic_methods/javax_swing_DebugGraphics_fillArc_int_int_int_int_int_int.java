@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_fillArc_int_int_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.fillArc(-942426260,-1625588857,-1641249078,228815857,-1840575318,1894043254);}}

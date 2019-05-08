@@ -1,0 +1,1 @@
+class java_sql_Time_toLocaleString{ public static void function() {java.sql.Time obj = new java.sql.Time();obj.toLocaleString();}}

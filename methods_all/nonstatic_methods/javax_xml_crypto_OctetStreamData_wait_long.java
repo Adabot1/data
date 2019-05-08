@@ -1,0 +1,1 @@
+class javax_xml_crypto_OctetStreamData_wait_long{ public static void function() {javax.xml.crypto.OctetStreamData obj = new javax.xml.crypto.OctetStreamData();obj.wait(-3960756772693767868);}}

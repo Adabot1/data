@@ -1,0 +1,1 @@
+class javax_xml_validation_SchemaFactoryLoader_notify{ public static void function() {javax.xml.validation.SchemaFactoryLoader obj = new javax.xml.validation.SchemaFactoryLoader();obj.notify();}}

@@ -1,0 +1,1 @@
+class javax_management_BadAttributeValueExpException_hashCode{ public static void function() {javax.management.BadAttributeValueExpException obj = new javax.management.BadAttributeValueExpException();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_naming_directory_BasicAttribute_get_int{ public static void function() {javax.naming.directory.BasicAttribute obj = new javax.naming.directory.BasicAttribute();obj.get(964599300);}}

@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSidGroupPrincipal_getClass{ public static void function() {com.sun.security.auth.NTSidGroupPrincipal obj = new com.sun.security.auth.NTSidGroupPrincipal();obj.getClass();}}

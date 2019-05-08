@@ -1,0 +1,1 @@
+class javax_smartcardio_Card_wait_long_int{ public static void function() {javax.smartcardio.Card obj = new javax.smartcardio.Card();obj.wait(1089049773805014362,-864842539);}}

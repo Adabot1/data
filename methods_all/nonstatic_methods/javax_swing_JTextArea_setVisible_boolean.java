@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_setVisible_boolean{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.setVisible(false);}}

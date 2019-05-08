@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_wait_long_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.wait(4329764995303591625,-1404397871);}}

@@ -1,0 +1,1 @@
+class javax_swing_SizeRequirements_hashCode{ public static void function() {javax.swing.SizeRequirements obj = new javax.swing.SizeRequirements();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_createImage_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.createImage(1652249241,1013028746);}}

@@ -1,0 +1,1 @@
+class java_security_AlgorithmParameterGenerator_init_int{ public static void function() {java.security.AlgorithmParameterGenerator obj = new java.security.AlgorithmParameterGenerator();obj.init(163132905);}}

@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_SendFailedNotification_wait_long_int{ public static void function() {com.sun.nio.sctp.SendFailedNotification obj = new com.sun.nio.sctp.SendFailedNotification();obj.wait(-2386764404052535725,-1425336653);}}

@@ -1,0 +1,1 @@
+class java_beans_XMLEncoder_hashCode{ public static void function() {java.beans.XMLEncoder obj = new java.beans.XMLEncoder();obj.hashCode();}}

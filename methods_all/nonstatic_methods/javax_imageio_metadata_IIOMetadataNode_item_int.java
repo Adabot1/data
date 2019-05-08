@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOMetadataNode_item_int{ public static void function() {javax.imageio.metadata.IIOMetadataNode obj = new javax.imageio.metadata.IIOMetadataNode();obj.item(188557300);}}

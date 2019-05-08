@@ -1,0 +1,1 @@
+class java_util_IllformedLocaleException_notifyAll{ public static void function() {java.util.IllformedLocaleException obj = new java.util.IllformedLocaleException();obj.notifyAll();}}

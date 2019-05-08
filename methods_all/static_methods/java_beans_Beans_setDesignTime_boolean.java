@@ -1,0 +1,1 @@
+class java_beans_Beans_setDesignTime_boolean{ public static void function() {java.beans.Beans.setDesignTime(true);}}

@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_getComponentAt_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.getComponentAt(1823545894,14570549);}}

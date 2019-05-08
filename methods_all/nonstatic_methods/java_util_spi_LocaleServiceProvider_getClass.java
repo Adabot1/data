@@ -1,0 +1,1 @@
+class java_util_spi_LocaleServiceProvider_getClass{ public static void function() {java.util.spi.LocaleServiceProvider obj = new java.util.spi.LocaleServiceProvider();obj.getClass();}}

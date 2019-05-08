@@ -1,0 +1,1 @@
+class java_util_prefs_NodeChangeEvent_wait_long{ public static void function() {java.util.prefs.NodeChangeEvent obj = new java.util.prefs.NodeChangeEvent();obj.wait(-8357221541602256512);}}

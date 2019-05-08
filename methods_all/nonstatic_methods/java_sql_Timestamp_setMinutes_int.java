@@ -1,0 +1,1 @@
+class java_sql_Timestamp_setMinutes_int{ public static void function() {java.sql.Timestamp obj = new java.sql.Timestamp();obj.setMinutes(307081614);}}

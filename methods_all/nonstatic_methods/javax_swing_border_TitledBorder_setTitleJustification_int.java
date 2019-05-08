@@ -1,0 +1,1 @@
+class javax_swing_border_TitledBorder_setTitleJustification_int{ public static void function() {javax.swing.border.TitledBorder obj = new javax.swing.border.TitledBorder();obj.setTitleJustification(-411677620);}}

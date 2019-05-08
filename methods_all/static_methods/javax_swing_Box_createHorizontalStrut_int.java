@@ -1,0 +1,1 @@
+class javax_swing_Box_createHorizontalStrut_int{ public static void function() {javax.swing.Box.createHorizontalStrut(-1461716404);}}

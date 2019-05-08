@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextServiceAvailableEvent_notifyAll{ public static void function() {java.beans.beancontext.BeanContextServiceAvailableEvent obj = new java.beans.beancontext.BeanContextServiceAvailableEvent();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class java_awt_Polygon_contains_double_double_double_double{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.contains(0.2595102018190668,0.13199458825938326,0.2590176526676019,0.8516863547652187);}}

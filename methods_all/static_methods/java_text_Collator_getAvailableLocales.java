@@ -1,0 +1,1 @@
+class java_text_Collator_getAvailableLocales{ public static void function() {java.text.Collator.getAvailableLocales();}}

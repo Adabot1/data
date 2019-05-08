@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollButton_inside_int_int{ public static void function() {javax.swing.plaf.metal.MetalScrollButton obj = new javax.swing.plaf.metal.MetalScrollButton();obj.inside(878320721,-920450258);}}

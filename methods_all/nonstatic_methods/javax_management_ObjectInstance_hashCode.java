@@ -1,0 +1,1 @@
+class javax_management_ObjectInstance_hashCode{ public static void function() {javax.management.ObjectInstance obj = new javax.management.ObjectInstance();obj.hashCode();}}

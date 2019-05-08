@@ -1,0 +1,1 @@
+class java_nio_file_spi_FileTypeDetector_hashCode{ public static void function() {java.nio.file.spi.FileTypeDetector obj = new java.nio.file.spi.FileTypeDetector();obj.hashCode();}}

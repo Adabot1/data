@@ -1,0 +1,1 @@
+class javax_swing_event_InternalFrameAdapter_wait_long{ public static void function() {javax.swing.event.InternalFrameAdapter obj = new javax.swing.event.InternalFrameAdapter();obj.wait(-4632336760587084823);}}

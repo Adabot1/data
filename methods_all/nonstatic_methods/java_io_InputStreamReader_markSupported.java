@@ -1,0 +1,1 @@
+class java_io_InputStreamReader_markSupported{ public static void function() {java.io.InputStreamReader obj = new java.io.InputStreamReader();obj.markSupported();}}

@@ -1,0 +1,1 @@
+class java_beans_PropertyEditorManager_wait_long{ public static void function() {java.beans.PropertyEditorManager obj = new java.beans.PropertyEditorManager();obj.wait(-2829585230972063196);}}

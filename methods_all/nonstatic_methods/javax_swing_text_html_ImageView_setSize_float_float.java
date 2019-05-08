@@ -1,0 +1,1 @@
+class javax_swing_text_html_ImageView_setSize_float_float{ public static void function() {javax.swing.text.html.ImageView obj = new javax.swing.text.html.ImageView();obj.setSize(0.60578614,0.98722845);}}

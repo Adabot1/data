@@ -1,0 +1,1 @@
+class javax_naming_spi_DirectoryManager_wait_long_int{ public static void function() {javax.naming.spi.DirectoryManager obj = new javax.naming.spi.DirectoryManager();obj.wait(4791937645837454269,320379513);}}

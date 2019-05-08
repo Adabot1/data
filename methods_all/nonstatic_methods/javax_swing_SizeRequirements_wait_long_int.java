@@ -1,0 +1,1 @@
+class javax_swing_SizeRequirements_wait_long_int{ public static void function() {javax.swing.SizeRequirements obj = new javax.swing.SizeRequirements();obj.wait(-3018067541633554794,969427917);}}

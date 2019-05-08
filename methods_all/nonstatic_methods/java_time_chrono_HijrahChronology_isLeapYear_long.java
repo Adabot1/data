@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahChronology_isLeapYear_long{ public static void function() {java.time.chrono.HijrahChronology obj = new java.time.chrono.HijrahChronology();obj.isLeapYear(-8755487449770627207);}}

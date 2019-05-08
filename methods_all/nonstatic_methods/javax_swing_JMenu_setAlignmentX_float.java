@@ -1,0 +1,1 @@
+class javax_swing_JMenu_setAlignmentX_float{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.setAlignmentX(0.58916956);}}

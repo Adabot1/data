@@ -1,0 +1,1 @@
+class javax_management_remote_JMXServiceURL_wait_long_int{ public static void function() {javax.management.remote.JMXServiceURL obj = new javax.management.remote.JMXServiceURL();obj.wait(8263547237754539010,-429360248);}}

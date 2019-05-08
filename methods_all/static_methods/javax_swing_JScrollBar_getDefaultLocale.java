@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_getDefaultLocale{ public static void function() {javax.swing.JScrollBar.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class javax_management_JMX_wait_long{ public static void function() {javax.management.JMX obj = new javax.management.JMX();obj.wait(3999491815439754107);}}

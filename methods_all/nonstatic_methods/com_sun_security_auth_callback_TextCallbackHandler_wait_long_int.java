@@ -1,0 +1,1 @@
+class com_sun_security_auth_callback_TextCallbackHandler_wait_long_int{ public static void function() {com.sun.security.auth.callback.TextCallbackHandler obj = new com.sun.security.auth.callback.TextCallbackHandler();obj.wait(3526745930451699168,-1887262656);}}

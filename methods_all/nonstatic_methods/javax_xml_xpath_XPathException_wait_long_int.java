@@ -1,0 +1,1 @@
+class javax_xml_xpath_XPathException_wait_long_int{ public static void function() {javax.xml.xpath.XPathException obj = new javax.xml.xpath.XPathException();obj.wait(-7451757325335596414,982092981);}}

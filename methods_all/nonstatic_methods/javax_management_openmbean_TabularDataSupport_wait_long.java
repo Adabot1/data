@@ -1,0 +1,1 @@
+class javax_management_openmbean_TabularDataSupport_wait_long{ public static void function() {javax.management.openmbean.TabularDataSupport obj = new javax.management.openmbean.TabularDataSupport();obj.wait(4703709683845952530);}}

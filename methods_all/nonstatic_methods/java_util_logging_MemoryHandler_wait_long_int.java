@@ -1,0 +1,1 @@
+class java_util_logging_MemoryHandler_wait_long_int{ public static void function() {java.util.logging.MemoryHandler obj = new java.util.logging.MemoryHandler();obj.wait(-71964613799615455,-1420966413);}}

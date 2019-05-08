@@ -1,0 +1,1 @@
+class org_w3c_dom_xpath_XPathException_wait_long_int{ public static void function() {org.w3c.dom.xpath.XPathException obj = new org.w3c.dom.xpath.XPathException();obj.wait(8104434589914426434,841028101);}}

@@ -1,0 +1,1 @@
+class java_awt_Dialog_setBounds_int_int_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.setBounds(-224354080,1752207093,-612295301,-1140407569);}}

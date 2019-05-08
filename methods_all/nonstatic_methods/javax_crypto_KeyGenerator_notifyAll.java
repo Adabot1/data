@@ -1,0 +1,1 @@
+class javax_crypto_KeyGenerator_notifyAll{ public static void function() {javax.crypto.KeyGenerator obj = new javax.crypto.KeyGenerator();obj.notifyAll();}}

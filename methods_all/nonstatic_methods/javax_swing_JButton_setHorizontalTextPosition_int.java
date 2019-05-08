@@ -1,0 +1,1 @@
+class javax_swing_JButton_setHorizontalTextPosition_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setHorizontalTextPosition(-1574538425);}}

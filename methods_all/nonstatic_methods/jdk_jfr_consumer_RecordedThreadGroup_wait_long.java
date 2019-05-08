@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedThreadGroup_wait_long{ public static void function() {jdk.jfr.consumer.RecordedThreadGroup obj = new jdk.jfr.consumer.RecordedThreadGroup();obj.wait(-510128988701998051);}}

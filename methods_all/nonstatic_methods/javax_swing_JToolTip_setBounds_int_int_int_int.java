@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_setBounds_int_int_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.setBounds(-2092946350,1633391773,-35122659,-1389541137);}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_acos_double{ public static void function() {java.lang.StrictMath.acos(0.5180139416812349);}}

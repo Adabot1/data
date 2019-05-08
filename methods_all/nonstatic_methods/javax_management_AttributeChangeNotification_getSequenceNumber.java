@@ -1,0 +1,1 @@
+class javax_management_AttributeChangeNotification_getSequenceNumber{ public static void function() {javax.management.AttributeChangeNotification obj = new javax.management.AttributeChangeNotification();obj.getSequenceNumber();}}

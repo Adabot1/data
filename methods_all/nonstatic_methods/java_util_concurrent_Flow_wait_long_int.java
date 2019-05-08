@@ -1,0 +1,1 @@
+class java_util_concurrent_Flow_wait_long_int{ public static void function() {java.util.concurrent.Flow obj = new java.util.concurrent.Flow();obj.wait(466473925942575737,1448851640);}}

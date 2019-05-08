@@ -1,0 +1,1 @@
+class java_security_GuardedObject_hashCode{ public static void function() {java.security.GuardedObject obj = new java.security.GuardedObject();obj.hashCode();}}

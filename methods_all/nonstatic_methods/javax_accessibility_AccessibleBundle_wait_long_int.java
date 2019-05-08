@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleBundle_wait_long_int{ public static void function() {javax.accessibility.AccessibleBundle obj = new javax.accessibility.AccessibleBundle();obj.wait(6435704753974458160,-870871606);}}

@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_setAlignmentX_float{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.setAlignmentX(0.32821023);}}

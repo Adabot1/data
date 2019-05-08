@@ -1,0 +1,1 @@
+class java_util_stream_StreamSupport_toString{ public static void function() {java.util.stream.StreamSupport obj = new java.util.stream.StreamSupport();obj.toString();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_ListUI_notify{ public static void function() {javax.swing.plaf.ListUI obj = new javax.swing.plaf.ListUI();obj.notify();}}

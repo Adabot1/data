@@ -1,0 +1,1 @@
+class javax_swing_ToolTipManager_wait_long{ public static void function() {javax.swing.ToolTipManager obj = new javax.swing.ToolTipManager();obj.wait(7365664965537902871);}}

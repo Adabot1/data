@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_contains_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.contains(-1122271449,-2121506951);}}

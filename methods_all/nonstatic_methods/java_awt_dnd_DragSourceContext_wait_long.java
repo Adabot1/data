@@ -1,0 +1,1 @@
+class java_awt_dnd_DragSourceContext_wait_long{ public static void function() {java.awt.dnd.DragSourceContext obj = new java.awt.dnd.DragSourceContext();obj.wait(-362374950703730118);}}

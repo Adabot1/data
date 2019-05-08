@@ -1,0 +1,1 @@
+class java_awt_event_TextEvent_wait_long{ public static void function() {java.awt.event.TextEvent obj = new java.awt.event.TextEvent();obj.wait(-2038140883263720815);}}

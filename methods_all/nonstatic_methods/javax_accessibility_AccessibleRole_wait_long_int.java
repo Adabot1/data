@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleRole_wait_long_int{ public static void function() {javax.accessibility.AccessibleRole obj = new javax.accessibility.AccessibleRole();obj.wait(-1446104329193094922,-1932054968);}}

@@ -1,0 +1,1 @@
+class javax_print_attribute_SetOfIntegerSyntax_contains_int{ public static void function() {javax.print.attribute.SetOfIntegerSyntax obj = new javax.print.attribute.SetOfIntegerSyntax();obj.contains(-1460229602);}}

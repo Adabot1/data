@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobSheets_wait_long{ public static void function() {javax.print.attribute.standard.JobSheets obj = new javax.print.attribute.standard.JobSheets();obj.wait(1661630356188925689);}}

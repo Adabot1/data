@@ -1,0 +1,1 @@
+class java_util_logging_Logger_getAnonymousLogger{ public static void function() {java.util.logging.Logger.getAnonymousLogger();}}

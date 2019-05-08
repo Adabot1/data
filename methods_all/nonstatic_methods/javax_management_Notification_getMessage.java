@@ -1,0 +1,1 @@
+class javax_management_Notification_getMessage{ public static void function() {javax.management.Notification obj = new javax.management.Notification();obj.getMessage();}}

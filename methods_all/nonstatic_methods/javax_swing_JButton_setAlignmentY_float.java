@@ -1,0 +1,1 @@
+class javax_swing_JButton_setAlignmentY_float{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setAlignmentY(0.5610773);}}

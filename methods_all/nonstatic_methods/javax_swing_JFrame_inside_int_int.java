@@ -1,0 +1,1 @@
+class javax_swing_JFrame_inside_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.inside(-1710761221,-1262490714);}}

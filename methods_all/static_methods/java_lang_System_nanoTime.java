@@ -1,0 +1,1 @@
+class java_lang_System_nanoTime{ public static void function() {java.lang.System.nanoTime();}}

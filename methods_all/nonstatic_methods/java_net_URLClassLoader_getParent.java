@@ -1,0 +1,1 @@
+class java_net_URLClassLoader_getParent{ public static void function() {java.net.URLClassLoader obj = new java.net.URLClassLoader();obj.getParent();}}

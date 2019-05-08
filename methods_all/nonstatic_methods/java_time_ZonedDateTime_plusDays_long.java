@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_plusDays_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.plusDays(-5819557148036467831);}}

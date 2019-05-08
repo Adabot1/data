@@ -1,0 +1,1 @@
+class java_lang_invoke_CallSite_wait_long_int{ public static void function() {java.lang.invoke.CallSite obj = new java.lang.invoke.CallSite();obj.wait(-5973886415492544377,-981237333);}}

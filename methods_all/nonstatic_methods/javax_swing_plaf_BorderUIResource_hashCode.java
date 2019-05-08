@@ -1,0 +1,1 @@
+class javax_swing_plaf_BorderUIResource_hashCode{ public static void function() {javax.swing.plaf.BorderUIResource obj = new javax.swing.plaf.BorderUIResource();obj.hashCode();}}

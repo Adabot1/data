@@ -1,0 +1,1 @@
+class java_awt_image_VolatileImage_wait_long{ public static void function() {java.awt.image.VolatileImage obj = new java.awt.image.VolatileImage();obj.wait(1005181145454941640);}}

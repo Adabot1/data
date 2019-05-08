@@ -1,0 +1,1 @@
+class org_ietf_jgss_ChannelBinding_getClass{ public static void function() {org.ietf.jgss.ChannelBinding obj = new org.ietf.jgss.ChannelBinding();obj.getClass();}}

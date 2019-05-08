@@ -1,0 +1,1 @@
+class javax_swing_JViewport_getColorModel{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.getColorModel();}}

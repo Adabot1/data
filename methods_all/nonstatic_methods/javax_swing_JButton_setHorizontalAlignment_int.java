@@ -1,0 +1,1 @@
+class javax_swing_JButton_setHorizontalAlignment_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setHorizontalAlignment(-1160698917);}}

@@ -1,0 +1,1 @@
+class javax_crypto_spec_DHPrivateKeySpec_wait_long{ public static void function() {javax.crypto.spec.DHPrivateKeySpec obj = new javax.crypto.spec.DHPrivateKeySpec();obj.wait(4173250545343784111);}}

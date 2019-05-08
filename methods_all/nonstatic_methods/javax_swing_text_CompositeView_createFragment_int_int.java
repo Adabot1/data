@@ -1,0 +1,1 @@
+class javax_swing_text_CompositeView_createFragment_int_int{ public static void function() {javax.swing.text.CompositeView obj = new javax.swing.text.CompositeView();obj.createFragment(1213910842,-677269516);}}

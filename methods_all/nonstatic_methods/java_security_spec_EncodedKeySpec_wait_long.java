@@ -1,0 +1,1 @@
+class java_security_spec_EncodedKeySpec_wait_long{ public static void function() {java.security.spec.EncodedKeySpec obj = new java.security.spec.EncodedKeySpec();obj.wait(-3550272228336709054);}}

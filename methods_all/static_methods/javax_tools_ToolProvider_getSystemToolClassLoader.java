@@ -1,0 +1,1 @@
+class javax_tools_ToolProvider_getSystemToolClassLoader{ public static void function() {javax.tools.ToolProvider.getSystemToolClassLoader();}}

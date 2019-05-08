@@ -1,0 +1,1 @@
+class javax_swing_DefaultBoundedRangeModel_setValue_int{ public static void function() {javax.swing.DefaultBoundedRangeModel obj = new javax.swing.DefaultBoundedRangeModel();obj.setValue(925466349);}}

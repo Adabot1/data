@@ -1,0 +1,1 @@
+class java_awt_Dialog_resize_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.resize(1501388326,-302627015);}}

@@ -1,0 +1,1 @@
+class javax_imageio_ImageIO_hashCode{ public static void function() {javax.imageio.ImageIO obj = new javax.imageio.ImageIO();obj.hashCode();}}

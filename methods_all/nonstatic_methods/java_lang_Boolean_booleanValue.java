@@ -1,0 +1,1 @@
+class java_lang_Boolean_booleanValue{ public static void function() {java.lang.Boolean obj = new java.lang.Boolean();obj.booleanValue();}}

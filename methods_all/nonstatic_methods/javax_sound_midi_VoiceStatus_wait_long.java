@@ -1,0 +1,1 @@
+class javax_sound_midi_VoiceStatus_wait_long{ public static void function() {javax.sound.midi.VoiceStatus obj = new javax.sound.midi.VoiceStatus();obj.wait(6921367442669816465);}}

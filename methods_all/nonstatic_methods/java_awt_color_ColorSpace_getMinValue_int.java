@@ -1,0 +1,1 @@
+class java_awt_color_ColorSpace_getMinValue_int{ public static void function() {java.awt.color.ColorSpace obj = new java.awt.color.ColorSpace();obj.getMinValue(-827923527);}}

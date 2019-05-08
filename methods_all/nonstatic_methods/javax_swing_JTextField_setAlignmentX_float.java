@@ -1,0 +1,1 @@
+class javax_swing_JTextField_setAlignmentX_float{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.setAlignmentX(0.736288);}}

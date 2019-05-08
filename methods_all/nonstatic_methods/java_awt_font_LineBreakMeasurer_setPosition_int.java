@@ -1,0 +1,1 @@
+class java_awt_font_LineBreakMeasurer_setPosition_int{ public static void function() {java.awt.font.LineBreakMeasurer obj = new java.awt.font.LineBreakMeasurer();obj.setPosition(1147716640);}}

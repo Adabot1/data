@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_getBaseline_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.getBaseline(1576511294,-1166820855);}}

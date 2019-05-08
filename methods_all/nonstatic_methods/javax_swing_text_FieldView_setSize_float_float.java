@@ -1,0 +1,1 @@
+class javax_swing_text_FieldView_setSize_float_float{ public static void function() {javax.swing.text.FieldView obj = new javax.swing.text.FieldView();obj.setSize(0.30420345,0.24056816);}}

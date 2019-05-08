@@ -1,0 +1,1 @@
+class java_util_UnknownFormatFlagsException_wait_long_int{ public static void function() {java.util.UnknownFormatFlagsException obj = new java.util.UnknownFormatFlagsException();obj.wait(-2783465676564662932,-48613673);}}

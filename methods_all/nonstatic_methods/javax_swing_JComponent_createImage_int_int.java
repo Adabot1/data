@@ -1,0 +1,1 @@
+class javax_swing_JComponent_createImage_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.createImage(-725852981,-1716936274);}}

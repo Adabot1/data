@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_ColorType_wait{ public static void function() {javax.swing.plaf.synth.ColorType obj = new javax.swing.plaf.synth.ColorType();obj.wait();}}

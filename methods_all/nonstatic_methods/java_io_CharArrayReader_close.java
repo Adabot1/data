@@ -1,0 +1,1 @@
+class java_io_CharArrayReader_close{ public static void function() {java.io.CharArrayReader obj = new java.io.CharArrayReader();obj.close();}}

@@ -1,0 +1,1 @@
+class java_awt_FileDialog_getComponentAt_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.getComponentAt(1241888899,18721494);}}

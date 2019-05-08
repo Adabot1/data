@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadLocalRandom_longs_long_long{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();obj.longs(-4379884857856800306,5468026571643278175);}}

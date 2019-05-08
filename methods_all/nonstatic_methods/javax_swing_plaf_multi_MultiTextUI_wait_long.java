@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiTextUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiTextUI obj = new javax.swing.plaf.multi.MultiTextUI();obj.wait(-6487853160300560462);}}

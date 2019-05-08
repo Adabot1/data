@@ -1,0 +1,1 @@
+class javax_swing_plaf_nimbus_AbstractRegionPainter_wait_long_int{ public static void function() {javax.swing.plaf.nimbus.AbstractRegionPainter obj = new javax.swing.plaf.nimbus.AbstractRegionPainter();obj.wait(-6965299390166386946,678834330);}}

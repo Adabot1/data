@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleRole_toString{ public static void function() {javax.accessibility.AccessibleRole obj = new javax.accessibility.AccessibleRole();obj.toString();}}

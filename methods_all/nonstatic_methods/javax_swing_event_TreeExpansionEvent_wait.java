@@ -1,0 +1,1 @@
+class javax_swing_event_TreeExpansionEvent_wait{ public static void function() {javax.swing.event.TreeExpansionEvent obj = new javax.swing.event.TreeExpansionEvent();obj.wait();}}

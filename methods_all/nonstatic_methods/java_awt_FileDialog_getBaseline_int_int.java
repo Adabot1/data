@@ -1,0 +1,1 @@
+class java_awt_FileDialog_getBaseline_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.getBaseline(-296998966,-638566065);}}

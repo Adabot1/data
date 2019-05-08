@@ -1,0 +1,1 @@
+class java_text_Format_wait_long{ public static void function() {java.text.Format obj = new java.text.Format();obj.wait(-3214509780536593434);}}

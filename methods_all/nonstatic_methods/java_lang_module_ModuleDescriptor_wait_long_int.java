@@ -1,0 +1,1 @@
+class java_lang_module_ModuleDescriptor_wait_long_int{ public static void function() {java.lang.module.ModuleDescriptor obj = new java.lang.module.ModuleDescriptor();obj.wait(3872057810083725529,-1997543697);}}

@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_OutputDeviceAssigned_notifyAll{ public static void function() {javax.print.attribute.standard.OutputDeviceAssigned obj = new javax.print.attribute.standard.OutputDeviceAssigned();obj.notifyAll();}}

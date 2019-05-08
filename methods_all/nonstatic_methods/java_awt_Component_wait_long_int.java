@@ -1,0 +1,1 @@
+class java_awt_Component_wait_long_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.wait(-5820257032702249214,-1396282950);}}

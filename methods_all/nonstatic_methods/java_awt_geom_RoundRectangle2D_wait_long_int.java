@@ -1,0 +1,1 @@
+class java_awt_geom_RoundRectangle2D_wait_long_int{ public static void function() {java.awt.geom.RoundRectangle2D obj = new java.awt.geom.RoundRectangle2D();obj.wait(3511874717902180822,88099735);}}

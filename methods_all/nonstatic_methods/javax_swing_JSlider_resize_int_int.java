@@ -1,0 +1,1 @@
+class javax_swing_JSlider_resize_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.resize(-331200834,-499084947);}}

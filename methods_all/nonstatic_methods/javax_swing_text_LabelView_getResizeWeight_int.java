@@ -1,0 +1,1 @@
+class javax_swing_text_LabelView_getResizeWeight_int{ public static void function() {javax.swing.text.LabelView obj = new javax.swing.text.LabelView();obj.getResizeWeight(1514521920);}}

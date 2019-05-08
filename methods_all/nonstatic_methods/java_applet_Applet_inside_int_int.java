@@ -1,0 +1,1 @@
+class java_applet_Applet_inside_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.inside(-1982092800,1756334413);}}

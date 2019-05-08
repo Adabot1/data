@@ -1,0 +1,1 @@
+class java_time_ZoneOffset_wait_long{ public static void function() {java.time.ZoneOffset obj = new java.time.ZoneOffset();obj.wait(-1322189415814405461);}}

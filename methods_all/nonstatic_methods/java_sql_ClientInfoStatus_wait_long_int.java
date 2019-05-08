@@ -1,0 +1,1 @@
+class java_sql_ClientInfoStatus_wait_long_int{ public static void function() {java.sql.ClientInfoStatus obj = new java.sql.ClientInfoStatus();obj.wait(8410447847452770526,933720121);}}

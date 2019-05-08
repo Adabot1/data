@@ -1,0 +1,1 @@
+class java_time_chrono_IsoChronology_isLeapYear_long{ public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();obj.isLeapYear(-2457327934855253262);}}

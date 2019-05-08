@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_contains_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.contains(590375288,1356793097);}}

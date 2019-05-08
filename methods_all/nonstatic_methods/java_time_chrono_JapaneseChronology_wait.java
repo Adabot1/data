@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_wait{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.wait();}}

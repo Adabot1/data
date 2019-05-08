@@ -1,0 +1,1 @@
+class java_nio_charset_MalformedInputException_wait_long{ public static void function() {java.nio.charset.MalformedInputException obj = new java.nio.charset.MalformedInputException();obj.wait(-7287262865904406673);}}

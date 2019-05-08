@@ -1,0 +1,1 @@
+class javax_script_SimpleScriptContext_wait_long_int{ public static void function() {javax.script.SimpleScriptContext obj = new javax.script.SimpleScriptContext();obj.wait(-4315401383420945504,403627684);}}

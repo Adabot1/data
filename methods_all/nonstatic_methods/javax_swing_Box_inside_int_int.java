@@ -1,0 +1,1 @@
+class javax_swing_Box_inside_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.inside(-2073358164,-1844881401);}}

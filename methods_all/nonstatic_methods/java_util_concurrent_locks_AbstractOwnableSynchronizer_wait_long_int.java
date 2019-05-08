@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_AbstractOwnableSynchronizer_wait_long_int{ public static void function() {java.util.concurrent.locks.AbstractOwnableSynchronizer obj = new java.util.concurrent.locks.AbstractOwnableSynchronizer();obj.wait(-6979313761529937409,-2061741771);}}

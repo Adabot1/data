@@ -1,0 +1,1 @@
+class java_rmi_registry_LocateRegistry_getRegistry{ public static void function() {java.rmi.registry.LocateRegistry.getRegistry();}}

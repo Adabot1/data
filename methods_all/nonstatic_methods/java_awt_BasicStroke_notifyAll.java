@@ -1,0 +1,1 @@
+class java_awt_BasicStroke_notifyAll{ public static void function() {java.awt.BasicStroke obj = new java.awt.BasicStroke();obj.notifyAll();}}

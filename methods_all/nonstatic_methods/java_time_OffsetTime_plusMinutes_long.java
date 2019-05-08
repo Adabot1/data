@@ -1,0 +1,1 @@
+class java_time_OffsetTime_plusMinutes_long{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();obj.plusMinutes(7965925431610029780);}}

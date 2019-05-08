@@ -1,0 +1,1 @@
+class java_util_Scanner_wait_long{ public static void function() {java.util.Scanner obj = new java.util.Scanner();obj.wait(-8537862921758630410);}}

@@ -1,0 +1,1 @@
+class java_sql_PseudoColumnUsage_getClass{ public static void function() {java.sql.PseudoColumnUsage obj = new java.sql.PseudoColumnUsage();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_rmi_server_LogStream_nullOutputStream{ public static void function() {java.rmi.server.LogStream.nullOutputStream();}}

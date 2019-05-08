@@ -1,0 +1,1 @@
+class java_awt_Panel_resize_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.resize(-1561371963,842172151);}}

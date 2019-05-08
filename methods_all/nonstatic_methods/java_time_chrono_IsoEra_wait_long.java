@@ -1,0 +1,1 @@
+class java_time_chrono_IsoEra_wait_long{ public static void function() {java.time.chrono.IsoEra obj = new java.time.chrono.IsoEra();obj.wait(-2903585412704172907);}}

@@ -1,0 +1,1 @@
+class java_lang_module_Configuration_wait_long_int{ public static void function() {java.lang.module.Configuration obj = new java.lang.module.Configuration();obj.wait(5888217445626481789,-100252629);}}

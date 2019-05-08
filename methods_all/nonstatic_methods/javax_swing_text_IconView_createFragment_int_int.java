@@ -1,0 +1,1 @@
+class javax_swing_text_IconView_createFragment_int_int{ public static void function() {javax.swing.text.IconView obj = new javax.swing.text.IconView();obj.createFragment(-1412757910,1673736370);}}

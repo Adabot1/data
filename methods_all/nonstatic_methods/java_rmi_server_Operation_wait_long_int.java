@@ -1,0 +1,1 @@
+class java_rmi_server_Operation_wait_long_int{ public static void function() {java.rmi.server.Operation obj = new java.rmi.server.Operation();obj.wait(5650247672543845491,44427230);}}

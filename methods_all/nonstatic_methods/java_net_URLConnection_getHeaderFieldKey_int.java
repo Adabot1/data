@@ -1,0 +1,1 @@
+class java_net_URLConnection_getHeaderFieldKey_int{ public static void function() {java.net.URLConnection obj = new java.net.URLConnection();obj.getHeaderFieldKey(528406844);}}

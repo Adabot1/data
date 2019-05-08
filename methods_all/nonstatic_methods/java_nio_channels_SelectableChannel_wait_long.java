@@ -1,0 +1,1 @@
+class java_nio_channels_SelectableChannel_wait_long{ public static void function() {java.nio.channels.SelectableChannel obj = new java.nio.channels.SelectableChannel();obj.wait(4015889624748999095);}}

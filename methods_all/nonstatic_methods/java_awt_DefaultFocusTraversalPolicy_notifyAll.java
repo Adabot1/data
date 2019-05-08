@@ -1,0 +1,1 @@
+class java_awt_DefaultFocusTraversalPolicy_notifyAll{ public static void function() {java.awt.DefaultFocusTraversalPolicy obj = new java.awt.DefaultFocusTraversalPolicy();obj.notifyAll();}}

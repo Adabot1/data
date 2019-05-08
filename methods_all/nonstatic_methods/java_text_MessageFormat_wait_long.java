@@ -1,0 +1,1 @@
+class java_text_MessageFormat_wait_long{ public static void function() {java.text.MessageFormat obj = new java.text.MessageFormat();obj.wait(-8324435189990969267);}}

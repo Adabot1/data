@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_setBounds_int_int_int_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.setBounds(955456051,-534049880,-1444652807,1773039792);}}

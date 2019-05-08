@@ -1,0 +1,1 @@
+class java_util_IllegalFormatConversionException_getSuppressed{ public static void function() {java.util.IllegalFormatConversionException obj = new java.util.IllegalFormatConversionException();obj.getSuppressed();}}

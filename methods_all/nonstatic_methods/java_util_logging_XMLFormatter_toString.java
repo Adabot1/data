@@ -1,0 +1,1 @@
+class java_util_logging_XMLFormatter_toString{ public static void function() {java.util.logging.XMLFormatter obj = new java.util.logging.XMLFormatter();obj.toString();}}

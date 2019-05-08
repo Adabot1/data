@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_contains_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.contains(323840074,574787296);}}

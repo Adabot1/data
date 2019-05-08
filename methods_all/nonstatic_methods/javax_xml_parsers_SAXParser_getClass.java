@@ -1,0 +1,1 @@
+class javax_xml_parsers_SAXParser_getClass{ public static void function() {javax.xml.parsers.SAXParser obj = new javax.xml.parsers.SAXParser();obj.getClass();}}

@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_reshape_int_int_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.reshape(1946963622,-1184367010,1522056151,-352231585);}}

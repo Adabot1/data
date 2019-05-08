@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriter_wait_long{ public static void function() {javax.imageio.ImageWriter obj = new javax.imageio.ImageWriter();obj.wait(7792330757573098453);}}

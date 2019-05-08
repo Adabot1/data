@@ -1,0 +1,1 @@
+class java_awt_Dialog_repaint_long{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.repaint(6404630979061303147);}}

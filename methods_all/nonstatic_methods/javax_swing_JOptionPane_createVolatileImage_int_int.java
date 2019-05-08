@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_createVolatileImage_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.createVolatileImage(-1220388233,274194856);}}

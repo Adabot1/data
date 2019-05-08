@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_createVolatileImage_int_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.createVolatileImage(1269769403,1150609655);}}

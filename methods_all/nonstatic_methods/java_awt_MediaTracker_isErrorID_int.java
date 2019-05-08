@@ -1,0 +1,1 @@
+class java_awt_MediaTracker_isErrorID_int{ public static void function() {java.awt.MediaTracker obj = new java.awt.MediaTracker();obj.isErrorID(-192969797);}}

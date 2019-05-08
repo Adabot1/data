@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedEvent_getStackTrace{ public static void function() {jdk.jfr.consumer.RecordedEvent obj = new jdk.jfr.consumer.RecordedEvent();obj.getStackTrace();}}

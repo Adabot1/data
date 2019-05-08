@@ -1,0 +1,1 @@
+class javax_naming_CompoundName_get_int{ public static void function() {javax.naming.CompoundName obj = new javax.naming.CompoundName();obj.get(-1044608821);}}

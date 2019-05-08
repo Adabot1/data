@@ -1,0 +1,1 @@
+class java_io_ByteArrayInputStream_wait_long_int{ public static void function() {java.io.ByteArrayInputStream obj = new java.io.ByteArrayInputStream();obj.wait(5007808581994713256,952871924);}}

@@ -1,0 +1,1 @@
+class java_security_KeyPairGenerator_notify{ public static void function() {java.security.KeyPairGenerator obj = new java.security.KeyPairGenerator();obj.notify();}}

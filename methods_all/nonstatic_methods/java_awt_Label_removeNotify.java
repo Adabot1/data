@@ -1,0 +1,1 @@
+class java_awt_Label_removeNotify{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.removeNotify();}}

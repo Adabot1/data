@@ -1,0 +1,1 @@
+class javax_print_event_PrintJobAttributeEvent_notifyAll{ public static void function() {javax.print.event.PrintJobAttributeEvent obj = new javax.print.event.PrintJobAttributeEvent();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class javax_swing_event_TableModelEvent_notify{ public static void function() {javax.swing.event.TableModelEvent obj = new javax.swing.event.TableModelEvent();obj.notify();}}

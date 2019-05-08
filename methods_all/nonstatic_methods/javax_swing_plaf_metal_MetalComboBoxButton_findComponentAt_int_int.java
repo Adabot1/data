@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_findComponentAt_int_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.findComponentAt(-856426922,-450355093);}}

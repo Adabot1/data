@@ -1,0 +1,1 @@
+class java_awt_Graphics_getFont{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.getFont();}}

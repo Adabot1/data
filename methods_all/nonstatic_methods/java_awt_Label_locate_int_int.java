@@ -1,0 +1,1 @@
+class java_awt_Label_locate_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.locate(87825693,-347590127);}}

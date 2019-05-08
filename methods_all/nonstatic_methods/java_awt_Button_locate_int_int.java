@@ -1,0 +1,1 @@
+class java_awt_Button_locate_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.locate(-605761415,1457482623);}}

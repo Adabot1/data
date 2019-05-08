@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_reshape_int_int_int_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.reshape(-682690919,-1236776834,-1829618370,990304564);}}

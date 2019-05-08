@@ -1,0 +1,1 @@
+class java_net_URL_wait_long{ public static void function() {java.net.URL obj = new java.net.URL();obj.wait(-4552685165491362788);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboBoxRenderer_repaint_long{ public static void function() {javax.swing.plaf.basic.BasicComboBoxRenderer obj = new javax.swing.plaf.basic.BasicComboBoxRenderer();obj.repaint(-624831897971423691);}}

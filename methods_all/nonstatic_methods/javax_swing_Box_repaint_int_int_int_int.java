@@ -1,0 +1,1 @@
+class javax_swing_Box_repaint_int_int_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.repaint(-896283098,1499469126,-184288055,-118557976);}}

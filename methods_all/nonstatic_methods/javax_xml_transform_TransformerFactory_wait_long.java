@@ -1,0 +1,1 @@
+class javax_xml_transform_TransformerFactory_wait_long{ public static void function() {javax.xml.transform.TransformerFactory obj = new javax.xml.transform.TransformerFactory();obj.wait(4609014015579255758);}}

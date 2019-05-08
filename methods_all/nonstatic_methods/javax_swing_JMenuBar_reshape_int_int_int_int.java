@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_reshape_int_int_int_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.reshape(-151108651,-1893807176,-363843976,34264184);}}

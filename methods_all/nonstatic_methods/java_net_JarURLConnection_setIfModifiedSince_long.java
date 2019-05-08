@@ -1,0 +1,1 @@
+class java_net_JarURLConnection_setIfModifiedSince_long{ public static void function() {java.net.JarURLConnection obj = new java.net.JarURLConnection();obj.setIfModifiedSince(-8019157448194783680);}}

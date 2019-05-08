@@ -1,0 +1,1 @@
+class java_awt_Checkbox_reshape_int_int_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.reshape(-1953965583,-550753205,-1100320681,-1174720552);}}

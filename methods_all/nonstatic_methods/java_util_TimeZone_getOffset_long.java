@@ -1,0 +1,1 @@
+class java_util_TimeZone_getOffset_long{ public static void function() {java.util.TimeZone obj = new java.util.TimeZone();obj.getOffset(-5962523159565746393);}}

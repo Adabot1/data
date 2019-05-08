@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_getDefaultLocale{ public static void function() {javax.swing.JToolTip.getDefaultLocale();}}

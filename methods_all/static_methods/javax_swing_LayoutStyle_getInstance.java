@@ -1,0 +1,1 @@
+class javax_swing_LayoutStyle_getInstance{ public static void function() {javax.swing.LayoutStyle.getInstance();}}

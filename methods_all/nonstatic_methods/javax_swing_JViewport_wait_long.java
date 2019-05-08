@@ -1,0 +1,1 @@
+class javax_swing_JViewport_wait_long{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.wait(8306710784837252057);}}

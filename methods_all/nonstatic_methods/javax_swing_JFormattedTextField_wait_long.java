@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_wait_long{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.wait(7506398290643538028);}}

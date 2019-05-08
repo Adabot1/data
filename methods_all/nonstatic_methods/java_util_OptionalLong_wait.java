@@ -1,0 +1,1 @@
+class java_util_OptionalLong_wait{ public static void function() {java.util.OptionalLong obj = new java.util.OptionalLong();obj.wait();}}

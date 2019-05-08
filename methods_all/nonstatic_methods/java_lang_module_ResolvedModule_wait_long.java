@@ -1,0 +1,1 @@
+class java_lang_module_ResolvedModule_wait_long{ public static void function() {java.lang.module.ResolvedModule obj = new java.lang.module.ResolvedModule();obj.wait(-2470463849721267442);}}

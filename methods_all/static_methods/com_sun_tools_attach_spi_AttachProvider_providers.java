@@ -1,0 +1,1 @@
+class com_sun_tools_attach_spi_AttachProvider_providers{ public static void function() {com.sun.tools.attach.spi.AttachProvider.providers();}}

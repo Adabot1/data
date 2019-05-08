@@ -1,0 +1,1 @@
+class java_util_prefs_Preferences_systemRoot{ public static void function() {java.util.prefs.Preferences.systemRoot();}}

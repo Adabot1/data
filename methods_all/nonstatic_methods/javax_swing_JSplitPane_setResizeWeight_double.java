@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_setResizeWeight_double{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.setResizeWeight(0.25422505003251383);}}

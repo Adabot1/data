@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_move_int_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.move(-1771268799,2137387197);}}

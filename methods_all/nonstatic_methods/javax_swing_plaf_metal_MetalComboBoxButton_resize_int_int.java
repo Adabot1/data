@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_resize_int_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.resize(-1956783144,1911417077);}}

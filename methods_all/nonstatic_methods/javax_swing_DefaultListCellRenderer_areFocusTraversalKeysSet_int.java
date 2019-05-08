@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.areFocusTraversalKeysSet(1882354462);}}

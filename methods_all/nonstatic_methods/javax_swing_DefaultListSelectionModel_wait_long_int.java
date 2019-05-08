@@ -1,0 +1,1 @@
+class javax_swing_DefaultListSelectionModel_wait_long_int{ public static void function() {javax.swing.DefaultListSelectionModel obj = new javax.swing.DefaultListSelectionModel();obj.wait(-1457035037097016950,-1275661612);}}

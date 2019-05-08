@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_repaint_long{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.repaint(-5417274090295400211);}}

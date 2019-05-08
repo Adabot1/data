@@ -1,0 +1,1 @@
+class javax_swing_JWindow_revalidate{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.revalidate();}}

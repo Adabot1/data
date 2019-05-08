@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_Sides_wait_long{ public static void function() {javax.print.attribute.standard.Sides obj = new javax.print.attribute.standard.Sides();obj.wait(-6951637186965515993);}}

@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_repaint_int_int_int_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.repaint(-755699020,1280237656,-1872233430,219180176);}}

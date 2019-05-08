@@ -1,0 +1,1 @@
+class javax_swing_JFrame_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.areFocusTraversalKeysSet(-1899734635);}}

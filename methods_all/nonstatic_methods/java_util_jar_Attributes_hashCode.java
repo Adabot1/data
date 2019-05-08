@@ -1,0 +1,1 @@
+class java_util_jar_Attributes_hashCode{ public static void function() {java.util.jar.Attributes obj = new java.util.jar.Attributes();obj.hashCode();}}

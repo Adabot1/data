@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_setFocusTraversalKeysEnabled_boolean{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.setFocusTraversalKeysEnabled(false);}}

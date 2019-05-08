@@ -1,0 +1,1 @@
+class java_awt_Container_repaint_long{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.repaint(3966435777382389201);}}

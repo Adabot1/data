@@ -1,0 +1,1 @@
+class javax_swing_JPanel_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.paintImmediately(-2140114958,1007128624,-647810117,-812249459);}}

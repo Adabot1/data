@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroup_getClientHost{ public static void function() {java.rmi.activation.ActivationGroup.getClientHost();}}

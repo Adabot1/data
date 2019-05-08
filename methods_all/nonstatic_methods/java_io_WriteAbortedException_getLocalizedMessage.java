@@ -1,0 +1,1 @@
+class java_io_WriteAbortedException_getLocalizedMessage{ public static void function() {java.io.WriteAbortedException obj = new java.io.WriteAbortedException();obj.getLocalizedMessage();}}

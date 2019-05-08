@@ -1,0 +1,1 @@
+class java_awt_TextComponent_wait_long{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.wait(4773175725264589893);}}

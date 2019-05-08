@@ -1,0 +1,1 @@
+class javax_swing_text_ZoneView_remove_int{ public static void function() {javax.swing.text.ZoneView obj = new javax.swing.text.ZoneView();obj.remove(1668247580);}}

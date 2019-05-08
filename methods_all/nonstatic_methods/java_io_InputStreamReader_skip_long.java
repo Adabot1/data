@@ -1,0 +1,1 @@
+class java_io_InputStreamReader_skip_long{ public static void function() {java.io.InputStreamReader obj = new java.io.InputStreamReader();obj.skip(-5355800268566166604);}}

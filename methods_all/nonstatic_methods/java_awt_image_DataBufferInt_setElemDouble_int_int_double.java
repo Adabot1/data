@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferInt_setElemDouble_int_int_double{ public static void function() {java.awt.image.DataBufferInt obj = new java.awt.image.DataBufferInt();obj.setElemDouble(414342871,264388454,0.7807003266200325);}}

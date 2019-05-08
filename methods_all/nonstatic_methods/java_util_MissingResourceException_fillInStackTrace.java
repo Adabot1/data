@@ -1,0 +1,1 @@
+class java_util_MissingResourceException_fillInStackTrace{ public static void function() {java.util.MissingResourceException obj = new java.util.MissingResourceException();obj.fillInStackTrace();}}

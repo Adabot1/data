@@ -1,0 +1,1 @@
+class java_text_spi_DateFormatSymbolsProvider_wait_long_int{ public static void function() {java.text.spi.DateFormatSymbolsProvider obj = new java.text.spi.DateFormatSymbolsProvider();obj.wait(-5633019779992025593,-1822516408);}}

@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_getFontMetrics{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.getFontMetrics();}}

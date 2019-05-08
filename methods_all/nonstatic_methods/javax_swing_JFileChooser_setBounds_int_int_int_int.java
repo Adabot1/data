@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_setBounds_int_int_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.setBounds(-1824065083,-898681466,-461889663,-873112312);}}

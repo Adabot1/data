@@ -1,0 +1,1 @@
+class java_lang_Compiler_wait_long{ public static void function() {java.lang.Compiler obj = new java.lang.Compiler();obj.wait(690495135359558613);}}

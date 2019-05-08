@@ -1,0 +1,1 @@
+class java_sql_Timestamp_UTC_int_int_int_int_int_int{ public static void function() {java.sql.Timestamp.UTC(-785429025,1753767381,-1684008949,1203730238,1390546730,1720548024);}}

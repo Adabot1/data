@@ -1,0 +1,1 @@
+class javax_imageio_ImageTypeSpecifier_wait_long{ public static void function() {javax.imageio.ImageTypeSpecifier obj = new javax.imageio.ImageTypeSpecifier();obj.wait(8242123048434440012);}}

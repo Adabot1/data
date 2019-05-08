@@ -1,0 +1,1 @@
+class jdk_jshell_ErroneousSnippet_wait_long{ public static void function() {jdk.jshell.ErroneousSnippet obj = new jdk.jshell.ErroneousSnippet();obj.wait(186069345528368963);}}

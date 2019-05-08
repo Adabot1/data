@@ -1,0 +1,1 @@
+class java_text_NumberFormat_format_long{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();obj.format(-8514250651355119503);}}

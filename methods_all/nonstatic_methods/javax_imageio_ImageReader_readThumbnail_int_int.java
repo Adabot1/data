@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_readThumbnail_int_int{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.readThumbnail(1846374029,1297708845);}}

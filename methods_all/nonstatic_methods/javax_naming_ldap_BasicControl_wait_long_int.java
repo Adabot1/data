@@ -1,0 +1,1 @@
+class javax_naming_ldap_BasicControl_wait_long_int{ public static void function() {javax.naming.ldap.BasicControl obj = new javax.naming.ldap.BasicControl();obj.wait(-9071446044801016529,1460305040);}}

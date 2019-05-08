@@ -1,0 +1,1 @@
+class java_util_jar_Pack200_wait_long_int{ public static void function() {java.util.jar.Pack200 obj = new java.util.jar.Pack200();obj.wait(-7157214481897218496,-1728931520);}}

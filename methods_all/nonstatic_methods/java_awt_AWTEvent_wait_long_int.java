@@ -1,0 +1,1 @@
+class java_awt_AWTEvent_wait_long_int{ public static void function() {java.awt.AWTEvent obj = new java.awt.AWTEvent();obj.wait(1612896547887252890,1753841972);}}

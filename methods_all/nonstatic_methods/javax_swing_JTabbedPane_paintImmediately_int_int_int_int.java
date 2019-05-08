@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.paintImmediately(-2020341013,1403406167,-47603945,-1013691475);}}

@@ -1,0 +1,1 @@
+class java_awt_SystemColor_wait_long_int{ public static void function() {java.awt.SystemColor obj = new java.awt.SystemColor();obj.wait(7581575479075986314,-1813202702);}}

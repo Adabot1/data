@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_wait_long{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.wait(-4275011935945559929);}}

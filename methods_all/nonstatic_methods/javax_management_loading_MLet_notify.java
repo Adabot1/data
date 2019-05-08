@@ -1,0 +1,1 @@
+class javax_management_loading_MLet_notify{ public static void function() {javax.management.loading.MLet obj = new javax.management.loading.MLet();obj.notify();}}

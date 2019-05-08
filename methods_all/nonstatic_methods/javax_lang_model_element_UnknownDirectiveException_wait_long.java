@@ -1,0 +1,1 @@
+class javax_lang_model_element_UnknownDirectiveException_wait_long{ public static void function() {javax.lang.model.element.UnknownDirectiveException obj = new javax.lang.model.element.UnknownDirectiveException();obj.wait(8988712216241994631);}}

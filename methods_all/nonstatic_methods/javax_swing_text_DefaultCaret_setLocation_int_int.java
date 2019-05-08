@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_setLocation_int_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.setLocation(-297055682,-134225987);}}

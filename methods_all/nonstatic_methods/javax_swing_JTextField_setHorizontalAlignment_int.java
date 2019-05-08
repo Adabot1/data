@@ -1,0 +1,1 @@
+class javax_swing_JTextField_setHorizontalAlignment_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.setHorizontalAlignment(2130130941);}}

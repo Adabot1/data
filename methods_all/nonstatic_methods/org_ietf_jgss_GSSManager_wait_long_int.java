@@ -1,0 +1,1 @@
+class org_ietf_jgss_GSSManager_wait_long_int{ public static void function() {org.ietf.jgss.GSSManager obj = new org.ietf.jgss.GSSManager();obj.wait(-7687243448685268074,-2108613156);}}

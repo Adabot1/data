@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_wait_long{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.wait(-7385137858666384529);}}

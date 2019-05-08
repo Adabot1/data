@@ -1,0 +1,1 @@
+class javax_swing_text_html_ImageView_setLoadsSynchronously_boolean{ public static void function() {javax.swing.text.html.ImageView obj = new javax.swing.text.html.ImageView();obj.setLoadsSynchronously(false);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalToolTipUI_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalToolTipUI obj = new javax.swing.plaf.metal.MetalToolTipUI();obj.wait(4030676486755672722,-1842767366);}}

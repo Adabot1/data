@@ -1,0 +1,1 @@
+class javax_management_remote_rmi_RMIConnectorServer_wait_long{ public static void function() {javax.management.remote.rmi.RMIConnectorServer obj = new javax.management.remote.rmi.RMIConnectorServer();obj.wait(-4939512258874666276);}}

@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_setEndRule_int_int_int{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.setEndRule(1412909734,-328159734,-120248853);}}

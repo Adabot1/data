@@ -1,0 +1,1 @@
+class java_awt_Font_deriveFont_int_float{ public static void function() {java.awt.Font obj = new java.awt.Font();obj.deriveFont(-316585306,0.36058712);}}

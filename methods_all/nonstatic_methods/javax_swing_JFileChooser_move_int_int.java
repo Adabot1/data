@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_move_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.move(265062917,2121630822);}}

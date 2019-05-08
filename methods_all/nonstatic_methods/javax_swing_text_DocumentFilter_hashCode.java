@@ -1,0 +1,1 @@
+class javax_swing_text_DocumentFilter_hashCode{ public static void function() {javax.swing.text.DocumentFilter obj = new javax.swing.text.DocumentFilter();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_DefaultSingleSelectionModel_wait_long{ public static void function() {javax.swing.DefaultSingleSelectionModel obj = new javax.swing.DefaultSingleSelectionModel();obj.wait(-8465175265916545524);}}

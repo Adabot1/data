@@ -1,0 +1,1 @@
+class javax_swing_JFrame_locate_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.locate(-608885110,-774557371);}}

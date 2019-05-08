@@ -1,0 +1,1 @@
+class java_awt_Rectangle_inside_int_int{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.inside(-900177086,1737050672);}}

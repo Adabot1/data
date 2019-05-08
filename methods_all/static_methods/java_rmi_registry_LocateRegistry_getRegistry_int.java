@@ -1,0 +1,1 @@
+class java_rmi_registry_LocateRegistry_getRegistry_int{ public static void function() {java.rmi.registry.LocateRegistry.getRegistry(2000863804);}}

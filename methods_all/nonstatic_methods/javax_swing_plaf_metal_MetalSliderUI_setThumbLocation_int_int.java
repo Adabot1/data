@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalSliderUI_setThumbLocation_int_int{ public static void function() {javax.swing.plaf.metal.MetalSliderUI obj = new javax.swing.plaf.metal.MetalSliderUI();obj.setThumbLocation(1802784658,642023255);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_LongAdder_wait_long{ public static void function() {java.util.concurrent.atomic.LongAdder obj = new java.util.concurrent.atomic.LongAdder();obj.wait(-2275044327909804765);}}

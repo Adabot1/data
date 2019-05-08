@@ -1,0 +1,1 @@
+class java_nio_file_attribute_AclEntryFlag_ordinal{ public static void function() {java.nio.file.attribute.AclEntryFlag obj = new java.nio.file.attribute.AclEntryFlag();obj.ordinal();}}

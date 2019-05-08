@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_MediaSize_getY_int{ public static void function() {javax.print.attribute.standard.MediaSize obj = new javax.print.attribute.standard.MediaSize();obj.getY(-883582699);}}

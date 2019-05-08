@@ -1,0 +1,1 @@
+class java_awt_RenderingHints_wait_long{ public static void function() {java.awt.RenderingHints obj = new java.awt.RenderingHints();obj.wait(-1199796841282206517);}}

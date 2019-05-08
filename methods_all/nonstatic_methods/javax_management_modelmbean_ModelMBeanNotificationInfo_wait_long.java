@@ -1,0 +1,1 @@
+class javax_management_modelmbean_ModelMBeanNotificationInfo_wait_long{ public static void function() {javax.management.modelmbean.ModelMBeanNotificationInfo obj = new javax.management.modelmbean.ModelMBeanNotificationInfo();obj.wait(3729322715893401492);}}

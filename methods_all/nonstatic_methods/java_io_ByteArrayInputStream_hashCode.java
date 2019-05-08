@@ -1,0 +1,1 @@
+class java_io_ByteArrayInputStream_hashCode{ public static void function() {java.io.ByteArrayInputStream obj = new java.io.ByteArrayInputStream();obj.hashCode();}}

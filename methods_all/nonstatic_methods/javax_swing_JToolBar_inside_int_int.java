@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_inside_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.inside(-209560625,-79103769);}}

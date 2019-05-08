@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiOptionPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiOptionPaneUI obj = new javax.swing.plaf.multi.MultiOptionPaneUI();obj.wait(5912803768075897204,1065173049);}}

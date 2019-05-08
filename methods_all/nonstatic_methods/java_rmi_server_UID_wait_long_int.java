@@ -1,0 +1,1 @@
+class java_rmi_server_UID_wait_long_int{ public static void function() {java.rmi.server.UID obj = new java.rmi.server.UID();obj.wait(5401613015099434799,908312670);}}

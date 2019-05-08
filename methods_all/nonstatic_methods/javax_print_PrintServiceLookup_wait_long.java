@@ -1,0 +1,1 @@
+class javax_print_PrintServiceLookup_wait_long{ public static void function() {javax.print.PrintServiceLookup obj = new javax.print.PrintServiceLookup();obj.wait(-2755170926522550817);}}

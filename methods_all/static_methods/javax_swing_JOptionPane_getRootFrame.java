@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_getRootFrame{ public static void function() {javax.swing.JOptionPane.getRootFrame();}}

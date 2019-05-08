@@ -1,0 +1,1 @@
+class java_beans_IndexedPropertyDescriptor_getWriteMethod{ public static void function() {java.beans.IndexedPropertyDescriptor obj = new java.beans.IndexedPropertyDescriptor();obj.getWriteMethod();}}

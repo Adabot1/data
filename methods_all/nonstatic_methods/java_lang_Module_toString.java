@@ -1,0 +1,1 @@
+class java_lang_Module_toString{ public static void function() {java.lang.Module obj = new java.lang.Module();obj.toString();}}

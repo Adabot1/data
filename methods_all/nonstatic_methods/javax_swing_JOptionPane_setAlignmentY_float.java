@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_setAlignmentY_float{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.setAlignmentY(0.0012239814);}}

@@ -1,0 +1,1 @@
+class java_io_Console_wait_long_int{ public static void function() {java.io.Console obj = new java.io.Console();obj.wait(8864541840748273796,-547475863);}}

@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageReaderSpi_getPluginClassName{ public static void function() {javax.imageio.spi.ImageReaderSpi obj = new javax.imageio.spi.ImageReaderSpi();obj.getPluginClassName();}}

@@ -1,0 +1,1 @@
+class java_awt_Button_repaint_long_int_int_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.repaint(3972063221207186530,624098223,1938052699,-2069902901,-515690775);}}

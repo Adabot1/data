@@ -1,0 +1,1 @@
+class java_awt_Window_resize_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.resize(1650383164,803365236);}}

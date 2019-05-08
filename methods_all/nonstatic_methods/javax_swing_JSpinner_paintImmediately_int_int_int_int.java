@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.paintImmediately(194023845,-879530184,-1729182944,1657364978);}}

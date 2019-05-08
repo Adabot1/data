@@ -1,0 +1,1 @@
+class java_util_logging_SocketHandler_wait_long_int{ public static void function() {java.util.logging.SocketHandler obj = new java.util.logging.SocketHandler();obj.wait(4898419447627043968,-300668109);}}

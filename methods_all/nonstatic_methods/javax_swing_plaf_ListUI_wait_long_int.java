@@ -1,0 +1,1 @@
+class javax_swing_plaf_ListUI_wait_long_int{ public static void function() {javax.swing.plaf.ListUI obj = new javax.swing.plaf.ListUI();obj.wait(-5888417585558309604,883305103);}}

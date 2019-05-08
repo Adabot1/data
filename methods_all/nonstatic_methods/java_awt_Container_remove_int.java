@@ -1,0 +1,1 @@
+class java_awt_Container_remove_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.remove(772243354);}}

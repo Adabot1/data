@@ -1,0 +1,1 @@
+class java_security_cert_X509CRL_wait_long{ public static void function() {java.security.cert.X509CRL obj = new java.security.cert.X509CRL();obj.wait(4213509260270099356);}}

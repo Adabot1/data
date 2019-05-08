@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiToolTipUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiToolTipUI obj = new javax.swing.plaf.multi.MultiToolTipUI();obj.wait(-461712608038702285);}}

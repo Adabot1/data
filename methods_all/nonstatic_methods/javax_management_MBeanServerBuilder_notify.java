@@ -1,0 +1,1 @@
+class javax_management_MBeanServerBuilder_notify{ public static void function() {javax.management.MBeanServerBuilder obj = new javax.management.MBeanServerBuilder();obj.notify();}}

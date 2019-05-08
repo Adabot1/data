@@ -1,0 +1,1 @@
+class javax_sql_rowset_spi_SyncFactory_wait_long{ public static void function() {javax.sql.rowset.spi.SyncFactory obj = new javax.sql.rowset.spi.SyncFactory();obj.wait(-3991544042980364306);}}

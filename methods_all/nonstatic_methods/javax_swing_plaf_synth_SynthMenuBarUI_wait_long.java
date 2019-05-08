@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthMenuBarUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthMenuBarUI obj = new javax.swing.plaf.synth.SynthMenuBarUI();obj.wait(618083630420128655);}}

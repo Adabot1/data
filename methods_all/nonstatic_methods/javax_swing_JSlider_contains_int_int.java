@@ -1,0 +1,1 @@
+class javax_swing_JSlider_contains_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.contains(1451206771,-117072888);}}

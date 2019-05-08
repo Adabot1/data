@@ -1,0 +1,1 @@
+class javax_tools_ToolProvider_notify{ public static void function() {javax.tools.ToolProvider obj = new javax.tools.ToolProvider();obj.notify();}}

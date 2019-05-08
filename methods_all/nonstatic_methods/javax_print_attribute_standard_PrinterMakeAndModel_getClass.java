@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterMakeAndModel_getClass{ public static void function() {javax.print.attribute.standard.PrinterMakeAndModel obj = new javax.print.attribute.standard.PrinterMakeAndModel();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_text_SimpleDateFormat_getDateInstance{ public static void function() {java.text.SimpleDateFormat.getDateInstance();}}

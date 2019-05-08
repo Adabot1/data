@@ -1,0 +1,1 @@
+class java_beans_MethodDescriptor_setHidden_boolean{ public static void function() {java.beans.MethodDescriptor obj = new java.beans.MethodDescriptor();obj.setHidden(true);}}

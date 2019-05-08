@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_remove_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.remove(2065874920);}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLSessionBindingEvent_wait_long{ public static void function() {javax.net.ssl.SSLSessionBindingEvent obj = new javax.net.ssl.SSLSessionBindingEvent();obj.wait(7898403277967358086);}}

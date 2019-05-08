@@ -1,0 +1,1 @@
+class javax_print_event_PrintJobEvent_toString{ public static void function() {javax.print.event.PrintJobEvent obj = new javax.print.event.PrintJobEvent();obj.toString();}}

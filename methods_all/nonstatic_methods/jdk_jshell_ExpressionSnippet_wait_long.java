@@ -1,0 +1,1 @@
+class jdk_jshell_ExpressionSnippet_wait_long{ public static void function() {jdk.jshell.ExpressionSnippet obj = new jdk.jshell.ExpressionSnippet();obj.wait(-7015722384250628373);}}

@@ -1,0 +1,1 @@
+class java_awt_image_PackedColorModel_createCompatibleWritableRaster_int_int{ public static void function() {java.awt.image.PackedColorModel obj = new java.awt.image.PackedColorModel();obj.createCompatibleWritableRaster(-210264001,1562925442);}}

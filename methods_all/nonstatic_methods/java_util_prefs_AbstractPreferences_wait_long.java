@@ -1,0 +1,1 @@
+class java_util_prefs_AbstractPreferences_wait_long{ public static void function() {java.util.prefs.AbstractPreferences obj = new java.util.prefs.AbstractPreferences();obj.wait(-4774018537826070381);}}

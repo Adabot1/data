@@ -1,0 +1,1 @@
+class java_text_spi_BreakIteratorProvider_wait_long{ public static void function() {java.text.spi.BreakIteratorProvider obj = new java.text.spi.BreakIteratorProvider();obj.wait(-5435323413265940606);}}

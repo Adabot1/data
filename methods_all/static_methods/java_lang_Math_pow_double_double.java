@@ -1,0 +1,1 @@
+class java_lang_Math_pow_double_double{ public static void function() {java.lang.Math.pow(0.061928366882535335,0.7059622295498444);}}

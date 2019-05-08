@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_setAlignmentY_float{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.setAlignmentY(0.46351272);}}

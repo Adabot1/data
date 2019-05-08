@@ -1,0 +1,1 @@
+class javax_net_ssl_KeyStoreBuilderParameters_wait_long_int{ public static void function() {javax.net.ssl.KeyStoreBuilderParameters obj = new javax.net.ssl.KeyStoreBuilderParameters();obj.wait(-2605876945916873051,-1843539466);}}

@@ -1,0 +1,1 @@
+class java_awt_TextField_getComponentAt_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.getComponentAt(-1412620654,211132860);}}

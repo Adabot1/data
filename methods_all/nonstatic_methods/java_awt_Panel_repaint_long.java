@@ -1,0 +1,1 @@
+class java_awt_Panel_repaint_long{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.repaint(-7757354391517140857);}}

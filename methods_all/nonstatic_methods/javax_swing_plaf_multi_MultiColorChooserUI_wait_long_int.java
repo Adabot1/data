@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiColorChooserUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiColorChooserUI obj = new javax.swing.plaf.multi.MultiColorChooserUI();obj.wait(7759979881952353826,1017990536);}}

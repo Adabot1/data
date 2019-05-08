@@ -1,0 +1,1 @@
+class javax_sound_sampled_spi_FormatConversionProvider_notify{ public static void function() {javax.sound.sampled.spi.FormatConversionProvider obj = new javax.sound.sampled.spi.FormatConversionProvider();obj.notify();}}

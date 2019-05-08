@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinWorkerThread_setDaemon_boolean{ public static void function() {java.util.concurrent.ForkJoinWorkerThread obj = new java.util.concurrent.ForkJoinWorkerThread();obj.setDaemon(true);}}

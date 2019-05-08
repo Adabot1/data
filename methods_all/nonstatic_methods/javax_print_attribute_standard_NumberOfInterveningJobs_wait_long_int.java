@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_NumberOfInterveningJobs_wait_long_int{ public static void function() {javax.print.attribute.standard.NumberOfInterveningJobs obj = new javax.print.attribute.standard.NumberOfInterveningJobs();obj.wait(3487842742216621847,561565843);}}

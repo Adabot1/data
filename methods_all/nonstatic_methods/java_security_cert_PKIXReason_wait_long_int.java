@@ -1,0 +1,1 @@
+class java_security_cert_PKIXReason_wait_long_int{ public static void function() {java.security.cert.PKIXReason obj = new java.security.cert.PKIXReason();obj.wait(3605641276053555570,-1641965009);}}

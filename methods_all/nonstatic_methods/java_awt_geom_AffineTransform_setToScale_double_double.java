@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_setToScale_double_double{ public static void function() {java.awt.geom.AffineTransform obj = new java.awt.geom.AffineTransform();obj.setToScale(0.8376060099050273,0.5145018016723569);}}

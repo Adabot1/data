@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_getFocusTraversalKeys_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.getFocusTraversalKeys(-523245132);}}

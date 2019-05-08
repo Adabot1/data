@@ -1,0 +1,1 @@
+class java_beans_Expression_getValue{ public static void function() {java.beans.Expression obj = new java.beans.Expression();obj.getValue();}}

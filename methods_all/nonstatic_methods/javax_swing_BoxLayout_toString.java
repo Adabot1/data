@@ -1,0 +1,1 @@
+class javax_swing_BoxLayout_toString{ public static void function() {javax.swing.BoxLayout obj = new javax.swing.BoxLayout();obj.toString();}}

@@ -1,0 +1,1 @@
+class com_sun_tools_attach_VirtualMachine_list{ public static void function() {com.sun.tools.attach.VirtualMachine.list();}}

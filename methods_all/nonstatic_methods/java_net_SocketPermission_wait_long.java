@@ -1,0 +1,1 @@
+class java_net_SocketPermission_wait_long{ public static void function() {java.net.SocketPermission obj = new java.net.SocketPermission();obj.wait(5000064276401343089);}}

@@ -1,0 +1,1 @@
+class java_awt_image_RGBImageFilter_setHints_int{ public static void function() {java.awt.image.RGBImageFilter obj = new java.awt.image.RGBImageFilter();obj.setHints(931252039);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_getAndDecrement_int{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.getAndDecrement(-744074334);}}

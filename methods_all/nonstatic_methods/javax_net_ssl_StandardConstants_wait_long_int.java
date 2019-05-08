@@ -1,0 +1,1 @@
+class javax_net_ssl_StandardConstants_wait_long_int{ public static void function() {javax.net.ssl.StandardConstants obj = new javax.net.ssl.StandardConstants();obj.wait(-744702293479157998,1254058377);}}

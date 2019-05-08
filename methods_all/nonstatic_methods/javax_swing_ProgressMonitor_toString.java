@@ -1,0 +1,1 @@
+class javax_swing_ProgressMonitor_toString{ public static void function() {javax.swing.ProgressMonitor obj = new javax.swing.ProgressMonitor();obj.toString();}}

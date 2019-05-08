@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultStyledDocument_remove_int_int{ public static void function() {javax.swing.text.DefaultStyledDocument obj = new javax.swing.text.DefaultStyledDocument();obj.remove(-1205019652,-1262908544);}}

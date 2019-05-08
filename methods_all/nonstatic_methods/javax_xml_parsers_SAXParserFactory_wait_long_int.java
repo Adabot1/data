@@ -1,0 +1,1 @@
+class javax_xml_parsers_SAXParserFactory_wait_long_int{ public static void function() {javax.xml.parsers.SAXParserFactory obj = new javax.xml.parsers.SAXParserFactory();obj.wait(1842208577117333317,1200342693);}}

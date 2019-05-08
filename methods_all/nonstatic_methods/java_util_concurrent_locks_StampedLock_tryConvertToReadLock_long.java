@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_tryConvertToReadLock_long{ public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();obj.tryConvertToReadLock(-5993245894313359117);}}

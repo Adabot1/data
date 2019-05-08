@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiToolBarUI_notifyAll{ public static void function() {javax.swing.plaf.multi.MultiToolBarUI obj = new javax.swing.plaf.multi.MultiToolBarUI();obj.notifyAll();}}

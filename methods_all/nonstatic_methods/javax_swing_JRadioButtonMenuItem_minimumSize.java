@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_minimumSize{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.minimumSize();}}

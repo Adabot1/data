@@ -1,0 +1,1 @@
+class javax_swing_text_PlainView_createFragment_int_int{ public static void function() {javax.swing.text.PlainView obj = new javax.swing.text.PlainView();obj.createFragment(1230764234,1466979472);}}

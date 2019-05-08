@@ -1,0 +1,1 @@
+class java_rmi_server_RemoteObjectInvocationHandler_wait_long_int{ public static void function() {java.rmi.server.RemoteObjectInvocationHandler obj = new java.rmi.server.RemoteObjectInvocationHandler();obj.wait(-5527412638851408207,-855498546);}}

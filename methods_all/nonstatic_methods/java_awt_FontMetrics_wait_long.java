@@ -1,0 +1,1 @@
+class java_awt_FontMetrics_wait_long{ public static void function() {java.awt.FontMetrics obj = new java.awt.FontMetrics();obj.wait(4549388416442864620);}}

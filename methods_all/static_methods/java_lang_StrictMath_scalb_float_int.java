@@ -1,0 +1,1 @@
+class java_lang_StrictMath_scalb_float_int{ public static void function() {java.lang.StrictMath.scalb(0.39200377,172871154);}}

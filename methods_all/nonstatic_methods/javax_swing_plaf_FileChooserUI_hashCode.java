@@ -1,0 +1,1 @@
+class javax_swing_plaf_FileChooserUI_hashCode{ public static void function() {javax.swing.plaf.FileChooserUI obj = new javax.swing.plaf.FileChooserUI();obj.hashCode();}}

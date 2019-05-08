@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicIconFactory_toString{ public static void function() {javax.swing.plaf.basic.BasicIconFactory obj = new javax.swing.plaf.basic.BasicIconFactory();obj.toString();}}

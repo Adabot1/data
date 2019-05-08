@@ -1,0 +1,1 @@
+class java_util_jar_JarFile_runtimeVersion{ public static void function() {java.util.jar.JarFile.runtimeVersion();}}

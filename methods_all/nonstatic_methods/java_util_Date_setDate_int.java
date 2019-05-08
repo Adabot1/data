@@ -1,0 +1,1 @@
+class java_util_Date_setDate_int{ public static void function() {java.util.Date obj = new java.util.Date();obj.setDate(-1248800486);}}

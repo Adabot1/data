@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_getFocusTraversalKeys_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.getFocusTraversalKeys(1113962028);}}

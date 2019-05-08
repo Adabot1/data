@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialArray_getResultSet_long_int{ public static void function() {javax.sql.rowset.serial.SerialArray obj = new javax.sql.rowset.serial.SerialArray();obj.getResultSet(1930163500044559158,199127455);}}

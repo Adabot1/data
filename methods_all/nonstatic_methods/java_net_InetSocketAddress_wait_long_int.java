@@ -1,0 +1,1 @@
+class java_net_InetSocketAddress_wait_long_int{ public static void function() {java.net.InetSocketAddress obj = new java.net.InetSocketAddress();obj.wait(622147500955315110,-1698537662);}}

@@ -1,0 +1,1 @@
+class javax_swing_InternalFrameFocusTraversalPolicy_toString{ public static void function() {javax.swing.InternalFrameFocusTraversalPolicy obj = new javax.swing.InternalFrameFocusTraversalPolicy();obj.toString();}}

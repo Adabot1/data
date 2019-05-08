@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterInfo_wait_long{ public static void function() {javax.print.attribute.standard.PrinterInfo obj = new javax.print.attribute.standard.PrinterInfo();obj.wait(2378282234387884473);}}

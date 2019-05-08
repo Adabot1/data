@@ -1,0 +1,1 @@
+class javax_swing_JFrame_setCursor_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.setCursor(-1740568086);}}

@@ -1,0 +1,1 @@
+class java_awt_image_AbstractMultiResolutionImage_notify{ public static void function() {java.awt.image.AbstractMultiResolutionImage obj = new java.awt.image.AbstractMultiResolutionImage();obj.notify();}}

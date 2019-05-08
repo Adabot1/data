@@ -1,0 +1,1 @@
+class javax_swing_text_ComponentView_getContainer{ public static void function() {javax.swing.text.ComponentView obj = new javax.swing.text.ComponentView();obj.getContainer();}}

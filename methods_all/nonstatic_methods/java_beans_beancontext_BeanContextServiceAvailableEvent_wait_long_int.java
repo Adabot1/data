@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextServiceAvailableEvent_wait_long_int{ public static void function() {java.beans.beancontext.BeanContextServiceAvailableEvent obj = new java.beans.beancontext.BeanContextServiceAvailableEvent();obj.wait(-3634559444409593151,-1414468865);}}

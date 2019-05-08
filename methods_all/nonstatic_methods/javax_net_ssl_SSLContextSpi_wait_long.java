@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLContextSpi_wait_long{ public static void function() {javax.net.ssl.SSLContextSpi obj = new javax.net.ssl.SSLContextSpi();obj.wait(-3991327632862953735);}}

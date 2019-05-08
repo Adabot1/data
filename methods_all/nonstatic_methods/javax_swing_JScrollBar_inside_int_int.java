@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_inside_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.inside(-264320870,-687409885);}}

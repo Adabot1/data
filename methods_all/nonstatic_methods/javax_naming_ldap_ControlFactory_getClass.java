@@ -1,0 +1,1 @@
+class javax_naming_ldap_ControlFactory_getClass{ public static void function() {javax.naming.ldap.ControlFactory obj = new javax.naming.ldap.ControlFactory();obj.getClass();}}

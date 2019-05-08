@@ -1,0 +1,1 @@
+class java_awt_dnd_DragGestureRecognizer_wait_long_int{ public static void function() {java.awt.dnd.DragGestureRecognizer obj = new java.awt.dnd.DragGestureRecognizer();obj.wait(7153150260392920134,-192318347);}}

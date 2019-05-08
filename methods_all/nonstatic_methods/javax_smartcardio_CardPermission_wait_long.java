@@ -1,0 +1,1 @@
+class javax_smartcardio_CardPermission_wait_long{ public static void function() {javax.smartcardio.CardPermission obj = new javax.smartcardio.CardPermission();obj.wait(-6865047113800990358);}}

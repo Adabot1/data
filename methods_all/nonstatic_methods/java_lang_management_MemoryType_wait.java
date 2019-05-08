@@ -1,0 +1,1 @@
+class java_lang_management_MemoryType_wait{ public static void function() {java.lang.management.MemoryType obj = new java.lang.management.MemoryType();obj.wait();}}

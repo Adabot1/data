@@ -1,0 +1,1 @@
+class java_nio_MappedByteBuffer_putShort_short{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();obj.putShort(7309);}}

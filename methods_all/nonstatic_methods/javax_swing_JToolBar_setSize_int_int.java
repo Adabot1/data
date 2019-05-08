@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_setSize_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.setSize(2083988121,1934388812);}}

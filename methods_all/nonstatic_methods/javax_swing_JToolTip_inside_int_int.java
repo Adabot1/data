@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_inside_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.inside(1270052243,1860435417);}}

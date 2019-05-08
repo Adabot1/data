@@ -1,0 +1,1 @@
+class java_util_zip_Adler32_wait_long_int{ public static void function() {java.util.zip.Adler32 obj = new java.util.zip.Adler32();obj.wait(7605493856736217801,-2056781991);}}

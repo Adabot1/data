@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_resize_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.resize(-1814271760,264921862);}}

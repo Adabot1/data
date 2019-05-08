@@ -1,0 +1,1 @@
+class java_io_FileInputStream_wait_long{ public static void function() {java.io.FileInputStream obj = new java.io.FileInputStream();obj.wait(-2464358764718844410);}}

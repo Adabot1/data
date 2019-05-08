@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_LongAdder_add_long{ public static void function() {java.util.concurrent.atomic.LongAdder obj = new java.util.concurrent.atomic.LongAdder();obj.add(820732056206314401);}}

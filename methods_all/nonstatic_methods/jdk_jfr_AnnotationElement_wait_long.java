@@ -1,0 +1,1 @@
+class jdk_jfr_AnnotationElement_wait_long{ public static void function() {jdk.jfr.AnnotationElement obj = new jdk.jfr.AnnotationElement();obj.wait(3503295426954863648);}}

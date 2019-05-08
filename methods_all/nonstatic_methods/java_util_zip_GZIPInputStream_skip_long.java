@@ -1,0 +1,1 @@
+class java_util_zip_GZIPInputStream_skip_long{ public static void function() {java.util.zip.GZIPInputStream obj = new java.util.zip.GZIPInputStream();obj.skip(47452643822524905);}}

@@ -1,0 +1,1 @@
+class java_awt_PointerInfo_wait{ public static void function() {java.awt.PointerInfo obj = new java.awt.PointerInfo();obj.wait();}}

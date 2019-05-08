@@ -1,0 +1,1 @@
+class java_time_chrono_ThaiBuddhistEra_wait_long_int{ public static void function() {java.time.chrono.ThaiBuddhistEra obj = new java.time.chrono.ThaiBuddhistEra();obj.wait(-3533390468149792685,1291250416);}}

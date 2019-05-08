@@ -1,0 +1,1 @@
+class javax_naming_ldap_LdapReferralException_fillInStackTrace{ public static void function() {javax.naming.ldap.LdapReferralException obj = new javax.naming.ldap.LdapReferralException();obj.fillInStackTrace();}}

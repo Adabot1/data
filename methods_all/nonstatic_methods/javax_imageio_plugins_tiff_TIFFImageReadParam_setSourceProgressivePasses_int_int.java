@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFImageReadParam_setSourceProgressivePasses_int_int{ public static void function() {javax.imageio.plugins.tiff.TIFFImageReadParam obj = new javax.imageio.plugins.tiff.TIFFImageReadParam();obj.setSourceProgressivePasses(-736955587,-1439118732);}}

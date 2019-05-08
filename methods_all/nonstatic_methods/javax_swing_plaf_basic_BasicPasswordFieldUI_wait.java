@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicPasswordFieldUI_wait{ public static void function() {javax.swing.plaf.basic.BasicPasswordFieldUI obj = new javax.swing.plaf.basic.BasicPasswordFieldUI();obj.wait();}}

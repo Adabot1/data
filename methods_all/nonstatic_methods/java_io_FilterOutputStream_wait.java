@@ -1,0 +1,1 @@
+class java_io_FilterOutputStream_wait{ public static void function() {java.io.FilterOutputStream obj = new java.io.FilterOutputStream();obj.wait();}}

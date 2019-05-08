@@ -1,0 +1,1 @@
+class java_util_MissingFormatWidthException_hashCode{ public static void function() {java.util.MissingFormatWidthException obj = new java.util.MissingFormatWidthException();obj.hashCode();}}

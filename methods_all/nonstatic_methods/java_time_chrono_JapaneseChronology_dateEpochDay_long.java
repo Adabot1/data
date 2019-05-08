@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_dateEpochDay_long{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.dateEpochDay(1011226697329766510);}}

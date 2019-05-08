@@ -1,0 +1,1 @@
+class javax_xml_crypto_KeySelectorException_wait_long{ public static void function() {javax.xml.crypto.KeySelectorException obj = new javax.xml.crypto.KeySelectorException();obj.wait(584073543141664895);}}

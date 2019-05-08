@@ -1,0 +1,1 @@
+class java_nio_file_StandardWatchEventKinds_wait_long_int{ public static void function() {java.nio.file.StandardWatchEventKinds obj = new java.nio.file.StandardWatchEventKinds();obj.wait(-9137269573550780255,-1223067358);}}

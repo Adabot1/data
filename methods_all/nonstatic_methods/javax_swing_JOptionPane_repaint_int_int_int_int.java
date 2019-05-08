@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_repaint_int_int_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.repaint(-1699846479,-789939539,29919454,130379500);}}

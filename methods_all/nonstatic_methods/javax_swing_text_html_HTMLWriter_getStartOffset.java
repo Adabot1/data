@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLWriter_getStartOffset{ public static void function() {javax.swing.text.html.HTMLWriter obj = new javax.swing.text.html.HTMLWriter();obj.getStartOffset();}}

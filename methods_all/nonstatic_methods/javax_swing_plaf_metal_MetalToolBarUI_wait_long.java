@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalToolBarUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalToolBarUI obj = new javax.swing.plaf.metal.MetalToolBarUI();obj.wait(-1930069065045902584);}}

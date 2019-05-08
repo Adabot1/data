@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_AttributesImpl_getURI_int{ public static void function() {org.xml.sax.helpers.AttributesImpl obj = new org.xml.sax.helpers.AttributesImpl();obj.getURI(221762350);}}

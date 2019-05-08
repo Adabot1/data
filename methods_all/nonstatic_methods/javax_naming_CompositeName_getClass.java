@@ -1,0 +1,1 @@
+class javax_naming_CompositeName_getClass{ public static void function() {javax.naming.CompositeName obj = new javax.naming.CompositeName();obj.getClass();}}

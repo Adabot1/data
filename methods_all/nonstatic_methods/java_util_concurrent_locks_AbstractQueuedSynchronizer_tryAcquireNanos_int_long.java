@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_AbstractQueuedSynchronizer_tryAcquireNanos_int_long{ public static void function() {java.util.concurrent.locks.AbstractQueuedSynchronizer obj = new java.util.concurrent.locks.AbstractQueuedSynchronizer();obj.tryAcquireNanos(-1182464706,-68037732477967500);}}

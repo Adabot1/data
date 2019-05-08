@@ -1,0 +1,1 @@
+class javax_smartcardio_TerminalFactory_wait{ public static void function() {javax.smartcardio.TerminalFactory obj = new javax.smartcardio.TerminalFactory();obj.wait();}}

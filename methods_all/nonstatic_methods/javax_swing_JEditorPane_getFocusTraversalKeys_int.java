@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_getFocusTraversalKeys_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.getFocusTraversalKeys(954350157);}}

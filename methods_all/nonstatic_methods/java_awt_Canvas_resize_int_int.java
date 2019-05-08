@@ -1,0 +1,1 @@
+class java_awt_Canvas_resize_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.resize(1342230371,-2047817648);}}

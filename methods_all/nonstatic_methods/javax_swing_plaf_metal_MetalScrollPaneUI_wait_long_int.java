@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalScrollPaneUI obj = new javax.swing.plaf.metal.MetalScrollPaneUI();obj.wait(5230489101941573842,1100594554);}}

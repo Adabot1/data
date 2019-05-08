@@ -1,0 +1,1 @@
+class javax_swing_JSlider_findComponentAt_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.findComponentAt(-1330094046,317734328);}}

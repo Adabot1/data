@@ -1,0 +1,1 @@
+class javax_swing_JApplet_repaint_int_int_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.repaint(686503032,1860368579,-727540513,51792078);}}

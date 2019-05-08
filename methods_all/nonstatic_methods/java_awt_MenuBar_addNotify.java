@@ -1,0 +1,1 @@
+class java_awt_MenuBar_addNotify{ public static void function() {java.awt.MenuBar obj = new java.awt.MenuBar();obj.addNotify();}}

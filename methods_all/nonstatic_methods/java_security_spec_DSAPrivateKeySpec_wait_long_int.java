@@ -1,0 +1,1 @@
+class java_security_spec_DSAPrivateKeySpec_wait_long_int{ public static void function() {java.security.spec.DSAPrivateKeySpec obj = new java.security.spec.DSAPrivateKeySpec();obj.wait(3943282293440261504,-1616177757);}}

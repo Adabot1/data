@@ -1,0 +1,1 @@
+class java_util_stream_LongStream_of_long{ public static void function() {java.util.stream.LongStream.of(-4485069885925761339);}}

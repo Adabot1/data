@@ -1,0 +1,1 @@
+class javax_management_timer_TimerNotification_wait_long_int{ public static void function() {javax.management.timer.TimerNotification obj = new javax.management.timer.TimerNotification();obj.wait(-8203270795338554627,-553533568);}}

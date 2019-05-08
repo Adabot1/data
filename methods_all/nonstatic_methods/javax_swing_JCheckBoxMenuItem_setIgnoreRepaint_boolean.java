@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_setIgnoreRepaint_boolean{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.setIgnoreRepaint(true);}}

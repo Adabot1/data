@@ -1,0 +1,1 @@
+class javax_swing_JTable_reshape_int_int_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.reshape(600846625,1761773321,-381537597,522797811);}}

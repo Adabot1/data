@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_getDefaultLocale{ public static void function() {javax.swing.JSplitPane.getDefaultLocale();}}

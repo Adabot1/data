@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_appendCodePoint_int{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.appendCodePoint(-388198827);}}

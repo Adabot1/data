@@ -1,0 +1,1 @@
+class java_beans_Beans_hashCode{ public static void function() {java.beans.Beans obj = new java.beans.Beans();obj.hashCode();}}

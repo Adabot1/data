@@ -1,0 +1,1 @@
+class javax_sql_StatementEvent_wait_long{ public static void function() {javax.sql.StatementEvent obj = new javax.sql.StatementEvent();obj.wait(3743519327340967528);}}

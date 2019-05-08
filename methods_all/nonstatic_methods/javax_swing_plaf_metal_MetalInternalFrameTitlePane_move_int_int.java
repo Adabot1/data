@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalInternalFrameTitlePane_move_int_int{ public static void function() {javax.swing.plaf.metal.MetalInternalFrameTitlePane obj = new javax.swing.plaf.metal.MetalInternalFrameTitlePane();obj.move(-1722491077,-1632264894);}}

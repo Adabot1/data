@@ -1,0 +1,1 @@
+class javax_print_attribute_IntegerSyntax_wait_long_int{ public static void function() {javax.print.attribute.IntegerSyntax obj = new javax.print.attribute.IntegerSyntax();obj.wait(-2175396153984564955,625347484);}}

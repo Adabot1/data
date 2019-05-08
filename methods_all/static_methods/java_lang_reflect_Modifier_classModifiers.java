@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_classModifiers{ public static void function() {java.lang.reflect.Modifier.classModifiers();}}

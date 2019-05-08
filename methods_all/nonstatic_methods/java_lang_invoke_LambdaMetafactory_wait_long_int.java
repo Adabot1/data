@@ -1,0 +1,1 @@
+class java_lang_invoke_LambdaMetafactory_wait_long_int{ public static void function() {java.lang.invoke.LambdaMetafactory obj = new java.lang.invoke.LambdaMetafactory();obj.wait(1470838311938876530,-672860168);}}

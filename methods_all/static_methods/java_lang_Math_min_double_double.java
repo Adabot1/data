@@ -1,0 +1,1 @@
+class java_lang_Math_min_double_double{ public static void function() {java.lang.Math.min(0.4381749876233032,0.04749471619259693);}}

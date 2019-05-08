@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextServicesSupport_setDesignTime_boolean{ public static void function() {java.beans.beancontext.BeanContextServicesSupport obj = new java.beans.beancontext.BeanContextServicesSupport();obj.setDesignTime(true);}}

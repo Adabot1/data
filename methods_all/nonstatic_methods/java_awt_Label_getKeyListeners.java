@@ -1,0 +1,1 @@
+class java_awt_Label_getKeyListeners{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.getKeyListeners();}}

@@ -1,0 +1,1 @@
+class javax_sound_sampled_ReverbType_wait_long_int{ public static void function() {javax.sound.sampled.ReverbType obj = new javax.sound.sampled.ReverbType();obj.wait(-5556408291672544906,247228798);}}

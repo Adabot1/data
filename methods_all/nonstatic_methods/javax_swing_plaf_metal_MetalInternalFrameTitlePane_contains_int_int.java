@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalInternalFrameTitlePane_contains_int_int{ public static void function() {javax.swing.plaf.metal.MetalInternalFrameTitlePane obj = new javax.swing.plaf.metal.MetalInternalFrameTitlePane();obj.contains(-1018916388,-1703654200);}}

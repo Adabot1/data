@@ -1,0 +1,1 @@
+class java_nio_charset_Charset_displayName{ public static void function() {java.nio.charset.Charset obj = new java.nio.charset.Charset();obj.displayName();}}

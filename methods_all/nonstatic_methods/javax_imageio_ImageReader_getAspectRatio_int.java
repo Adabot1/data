@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_getAspectRatio_int{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.getAspectRatio(-607746791);}}

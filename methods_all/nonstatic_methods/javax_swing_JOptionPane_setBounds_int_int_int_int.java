@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_setBounds_int_int_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.setBounds(-1666212824,-1120671150,1964404809,-1044191185);}}

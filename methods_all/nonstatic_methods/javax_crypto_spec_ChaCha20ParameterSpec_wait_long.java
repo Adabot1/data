@@ -1,0 +1,1 @@
+class javax_crypto_spec_ChaCha20ParameterSpec_wait_long{ public static void function() {javax.crypto.spec.ChaCha20ParameterSpec obj = new javax.crypto.spec.ChaCha20ParameterSpec();obj.wait(5180418884736539743);}}

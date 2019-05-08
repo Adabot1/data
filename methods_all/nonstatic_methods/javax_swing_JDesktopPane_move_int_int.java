@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_move_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.move(-607532729,2096085351);}}

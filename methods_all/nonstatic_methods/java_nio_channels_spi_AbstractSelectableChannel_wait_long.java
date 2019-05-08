@@ -1,0 +1,1 @@
+class java_nio_channels_spi_AbstractSelectableChannel_wait_long{ public static void function() {java.nio.channels.spi.AbstractSelectableChannel obj = new java.nio.channels.spi.AbstractSelectableChannel();obj.wait(8178329375712277675);}}

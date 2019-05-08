@@ -1,0 +1,1 @@
+class java_lang_Math_subtractExact_long_long{ public static void function() {java.lang.Math.subtractExact(-416202408289766490,-4179739852489103204);}}

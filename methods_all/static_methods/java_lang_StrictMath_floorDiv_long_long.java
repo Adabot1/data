@@ -1,0 +1,1 @@
+class java_lang_StrictMath_floorDiv_long_long{ public static void function() {java.lang.StrictMath.floorDiv(-4848654149553985221,8170356356505406860);}}

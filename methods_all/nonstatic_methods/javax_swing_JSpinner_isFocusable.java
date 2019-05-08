@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_isFocusable{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.isFocusable();}}

@@ -1,0 +1,1 @@
+class java_awt_DisplayMode_getWidth{ public static void function() {java.awt.DisplayMode obj = new java.awt.DisplayMode();obj.getWidth();}}

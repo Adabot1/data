@@ -1,0 +1,1 @@
+class com_sun_javadoc_LanguageVersion_notifyAll{ public static void function() {com.sun.javadoc.LanguageVersion obj = new com.sun.javadoc.LanguageVersion();obj.notifyAll();}}

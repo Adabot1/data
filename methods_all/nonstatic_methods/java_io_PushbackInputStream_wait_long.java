@@ -1,0 +1,1 @@
+class java_io_PushbackInputStream_wait_long{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();obj.wait(-3534365264483251054);}}

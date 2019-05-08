@@ -1,0 +1,1 @@
+class java_util_Scanner_hasNextShort_int{ public static void function() {java.util.Scanner obj = new java.util.Scanner();obj.hasNextShort(-1789623785);}}

@@ -1,0 +1,1 @@
+class javax_swing_JTable_isPaintingForPrint{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.isPaintingForPrint();}}

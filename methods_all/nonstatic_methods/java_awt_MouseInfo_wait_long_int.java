@@ -1,0 +1,1 @@
+class java_awt_MouseInfo_wait_long_int{ public static void function() {java.awt.MouseInfo obj = new java.awt.MouseInfo();obj.wait(2642192251363432917,1996414572);}}

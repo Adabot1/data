@@ -1,0 +1,1 @@
+class java_net_Authenticator_getDefault{ public static void function() {java.net.Authenticator.getDefault();}}

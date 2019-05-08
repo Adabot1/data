@@ -1,0 +1,1 @@
+class javax_swing_JTree_isExpanded_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.isExpanded(-1112084921);}}

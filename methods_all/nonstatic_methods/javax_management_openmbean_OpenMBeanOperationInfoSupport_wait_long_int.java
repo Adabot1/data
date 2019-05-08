@@ -1,0 +1,1 @@
+class javax_management_openmbean_OpenMBeanOperationInfoSupport_wait_long_int{ public static void function() {javax.management.openmbean.OpenMBeanOperationInfoSupport obj = new javax.management.openmbean.OpenMBeanOperationInfoSupport();obj.wait(-7861022821497350215,419081426);}}

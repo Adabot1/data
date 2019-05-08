@@ -1,0 +1,1 @@
+class java_awt_Font_canDisplay_int{ public static void function() {java.awt.Font obj = new java.awt.Font();obj.canDisplay(-1506704242);}}

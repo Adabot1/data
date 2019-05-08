@@ -1,0 +1,1 @@
+class java_net_HttpCookie_setMaxAge_long{ public static void function() {java.net.HttpCookie obj = new java.net.HttpCookie();obj.setMaxAge(-8006320842008111773);}}

@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_repaint_long{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.repaint(-840563787103381389);}}

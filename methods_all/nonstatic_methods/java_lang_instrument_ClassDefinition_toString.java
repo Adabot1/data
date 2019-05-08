@@ -1,0 +1,1 @@
+class java_lang_instrument_ClassDefinition_toString{ public static void function() {java.lang.instrument.ClassDefinition obj = new java.lang.instrument.ClassDefinition();obj.toString();}}

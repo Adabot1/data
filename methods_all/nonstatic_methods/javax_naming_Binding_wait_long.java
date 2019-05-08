@@ -1,0 +1,1 @@
+class javax_naming_Binding_wait_long{ public static void function() {javax.naming.Binding obj = new javax.naming.Binding();obj.wait(7032201137198693945);}}

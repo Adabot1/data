@@ -1,0 +1,1 @@
+class java_lang_management_ThreadInfo_wait_long{ public static void function() {java.lang.management.ThreadInfo obj = new java.lang.management.ThreadInfo();obj.wait(-8691733750689136621);}}

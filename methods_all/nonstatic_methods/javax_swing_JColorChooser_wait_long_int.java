@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_wait_long_int{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.wait(-5483276868249107624,2081997140);}}

@@ -1,0 +1,1 @@
+class javax_swing_event_TreeSelectionEvent_wait_long{ public static void function() {javax.swing.event.TreeSelectionEvent obj = new javax.swing.event.TreeSelectionEvent();obj.wait(-2557524749744498949);}}

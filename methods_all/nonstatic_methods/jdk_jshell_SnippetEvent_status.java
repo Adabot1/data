@@ -1,0 +1,1 @@
+class jdk_jshell_SnippetEvent_status{ public static void function() {jdk.jshell.SnippetEvent obj = new jdk.jshell.SnippetEvent();obj.status();}}

@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_inside_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.inside(880690958,2002076388);}}

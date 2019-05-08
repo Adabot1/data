@@ -1,0 +1,1 @@
+class javax_swing_JTree_getPathForLocation_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.getPathForLocation(1325704698,-1337925849);}}

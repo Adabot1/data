@@ -1,0 +1,1 @@
+class javax_crypto_spec_DESKeySpec_wait_long_int{ public static void function() {javax.crypto.spec.DESKeySpec obj = new javax.crypto.spec.DESKeySpec();obj.wait(-8861809825577032593,-1051358647);}}

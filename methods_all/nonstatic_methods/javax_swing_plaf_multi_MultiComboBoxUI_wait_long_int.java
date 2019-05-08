@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiComboBoxUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiComboBoxUI obj = new javax.swing.plaf.multi.MultiComboBoxUI();obj.wait(-8338782941622211581,2063374061);}}

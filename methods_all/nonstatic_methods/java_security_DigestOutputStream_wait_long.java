@@ -1,0 +1,1 @@
+class java_security_DigestOutputStream_wait_long{ public static void function() {java.security.DigestOutputStream obj = new java.security.DigestOutputStream();obj.wait(1050019760472767535);}}

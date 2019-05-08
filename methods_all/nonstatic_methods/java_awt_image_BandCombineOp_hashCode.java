@@ -1,0 +1,1 @@
+class java_awt_image_BandCombineOp_hashCode{ public static void function() {java.awt.image.BandCombineOp obj = new java.awt.image.BandCombineOp();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class java_util_Observable_wait{ public static void function() {java.util.Observable obj = new java.util.Observable();obj.wait();}}

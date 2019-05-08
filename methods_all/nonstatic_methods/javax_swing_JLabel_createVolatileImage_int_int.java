@@ -1,0 +1,1 @@
+class javax_swing_JLabel_createVolatileImage_int_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.createVolatileImage(155110987,2030794473);}}

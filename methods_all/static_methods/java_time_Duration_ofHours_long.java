@@ -1,0 +1,1 @@
+class java_time_Duration_ofHours_long{ public static void function() {java.time.Duration.ofHours(3579048676265630961);}}

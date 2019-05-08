@@ -1,0 +1,1 @@
+class javax_swing_text_ComponentView_getAlignment_int{ public static void function() {javax.swing.text.ComponentView obj = new javax.swing.text.ComponentView();obj.getAlignment(211958409);}}

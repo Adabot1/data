@@ -1,0 +1,1 @@
+class java_security_spec_RSAPublicKeySpec_wait_long_int{ public static void function() {java.security.spec.RSAPublicKeySpec obj = new java.security.spec.RSAPublicKeySpec();obj.wait(868006046302412998,1355170277);}}

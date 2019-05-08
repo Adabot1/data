@@ -1,0 +1,1 @@
+class javax_swing_JMenu_setBounds_int_int_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.setBounds(-1936775485,885190286,672645234,261333164);}}

@@ -1,0 +1,1 @@
+class javax_swing_SpringLayout_hashCode{ public static void function() {javax.swing.SpringLayout obj = new javax.swing.SpringLayout();obj.hashCode();}}

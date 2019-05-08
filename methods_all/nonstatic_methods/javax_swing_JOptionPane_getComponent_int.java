@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_getComponent_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.getComponent(-1893767097);}}

@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpPrincipal_wait_long_int{ public static void function() {com.sun.net.httpserver.HttpPrincipal obj = new com.sun.net.httpserver.HttpPrincipal();obj.wait(-6551317160934458776,-1501681803);}}

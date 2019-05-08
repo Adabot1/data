@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_setMaximumFractionDigits_int{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();obj.setMaximumFractionDigits(259634763);}}

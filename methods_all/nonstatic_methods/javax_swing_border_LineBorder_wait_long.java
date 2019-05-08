@@ -1,0 +1,1 @@
+class javax_swing_border_LineBorder_wait_long{ public static void function() {javax.swing.border.LineBorder obj = new javax.swing.border.LineBorder();obj.wait(-3423878149794546803);}}

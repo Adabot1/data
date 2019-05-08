@@ -1,0 +1,1 @@
+class java_awt_event_KeyAdapter_wait_long{ public static void function() {java.awt.event.KeyAdapter obj = new java.awt.event.KeyAdapter();obj.wait(5750933194694369230);}}

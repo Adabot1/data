@@ -1,0 +1,1 @@
+class javax_swing_BorderFactory_createEtchedBorder_int{ public static void function() {javax.swing.BorderFactory.createEtchedBorder(1821265920);}}

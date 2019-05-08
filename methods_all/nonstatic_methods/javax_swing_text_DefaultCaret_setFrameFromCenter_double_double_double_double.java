@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_setFrameFromCenter_double_double_double_double{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.setFrameFromCenter(0.7543142518096712,0.03674770159079799,0.41223980291857953,0.9937718019771774);}}

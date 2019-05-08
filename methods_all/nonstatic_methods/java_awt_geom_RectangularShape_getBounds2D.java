@@ -1,0 +1,1 @@
+class java_awt_geom_RectangularShape_getBounds2D{ public static void function() {java.awt.geom.RectangularShape obj = new java.awt.geom.RectangularShape();obj.getBounds2D();}}

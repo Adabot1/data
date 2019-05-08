@@ -1,0 +1,1 @@
+class javax_swing_event_EventListenerList_wait_long{ public static void function() {javax.swing.event.EventListenerList obj = new javax.swing.event.EventListenerList();obj.wait(5695573354843998364);}}

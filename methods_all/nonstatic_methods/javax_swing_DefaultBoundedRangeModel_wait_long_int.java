@@ -1,0 +1,1 @@
+class javax_swing_DefaultBoundedRangeModel_wait_long_int{ public static void function() {javax.swing.DefaultBoundedRangeModel obj = new javax.swing.DefaultBoundedRangeModel();obj.wait(-7328308326887772616,2093875534);}}

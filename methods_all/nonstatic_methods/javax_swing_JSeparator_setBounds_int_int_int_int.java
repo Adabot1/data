@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_setBounds_int_int_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.setBounds(825878456,1052207678,-757872582,516774696);}}

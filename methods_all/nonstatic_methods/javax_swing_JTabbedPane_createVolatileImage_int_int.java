@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_createVolatileImage_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.createVolatileImage(-1704904028,-1285749293);}}

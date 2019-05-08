@@ -1,0 +1,1 @@
+class java_lang_management_MonitorInfo_wait_long_int{ public static void function() {java.lang.management.MonitorInfo obj = new java.lang.management.MonitorInfo();obj.wait(-4334801004548805894,996568274);}}

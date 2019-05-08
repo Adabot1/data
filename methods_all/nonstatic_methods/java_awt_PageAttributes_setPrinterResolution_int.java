@@ -1,0 +1,1 @@
+class java_awt_PageAttributes_setPrinterResolution_int{ public static void function() {java.awt.PageAttributes obj = new java.awt.PageAttributes();obj.setPrinterResolution(1410912511);}}

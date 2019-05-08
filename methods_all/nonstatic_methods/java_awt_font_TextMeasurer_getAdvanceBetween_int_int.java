@@ -1,0 +1,1 @@
+class java_awt_font_TextMeasurer_getAdvanceBetween_int_int{ public static void function() {java.awt.font.TextMeasurer obj = new java.awt.font.TextMeasurer();obj.getAdvanceBetween(-1068170019,1798260734);}}

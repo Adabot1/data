@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthSplitPaneUI_setContinuousLayout_boolean{ public static void function() {javax.swing.plaf.synth.SynthSplitPaneUI obj = new javax.swing.plaf.synth.SynthSplitPaneUI();obj.setContinuousLayout(true);}}

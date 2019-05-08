@@ -1,0 +1,1 @@
+class java_text_NumberFormat_notify{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();obj.notify();}}

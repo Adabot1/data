@@ -1,0 +1,1 @@
+class java_awt_Toolkit_areExtraMouseButtonsEnabled{ public static void function() {java.awt.Toolkit obj = new java.awt.Toolkit();obj.areExtraMouseButtonsEnabled();}}

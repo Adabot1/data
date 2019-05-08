@@ -1,0 +1,1 @@
+class java_awt_Button_wait_long{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.wait(-8547464988887756577);}}

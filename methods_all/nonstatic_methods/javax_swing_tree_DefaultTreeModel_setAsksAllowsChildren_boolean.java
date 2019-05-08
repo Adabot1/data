@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeModel_setAsksAllowsChildren_boolean{ public static void function() {javax.swing.tree.DefaultTreeModel obj = new javax.swing.tree.DefaultTreeModel();obj.setAsksAllowsChildren(true);}}

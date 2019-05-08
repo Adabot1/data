@@ -1,0 +1,1 @@
+class java_sql_BatchUpdateException_notifyAll{ public static void function() {java.sql.BatchUpdateException obj = new java.sql.BatchUpdateException();obj.notifyAll();}}

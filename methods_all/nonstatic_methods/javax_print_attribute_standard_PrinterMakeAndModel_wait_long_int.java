@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterMakeAndModel_wait_long_int{ public static void function() {javax.print.attribute.standard.PrinterMakeAndModel obj = new javax.print.attribute.standard.PrinterMakeAndModel();obj.wait(2732850946911884960,1175411916);}}

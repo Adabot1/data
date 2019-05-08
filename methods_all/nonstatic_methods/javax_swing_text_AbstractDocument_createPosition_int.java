@@ -1,0 +1,1 @@
+class javax_swing_text_AbstractDocument_createPosition_int{ public static void function() {javax.swing.text.AbstractDocument obj = new javax.swing.text.AbstractDocument();obj.createPosition(1273848389);}}

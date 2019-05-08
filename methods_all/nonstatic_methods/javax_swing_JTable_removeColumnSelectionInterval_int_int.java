@@ -1,0 +1,1 @@
+class javax_swing_JTable_removeColumnSelectionInterval_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.removeColumnSelectionInterval(145428161,1457014235);}}

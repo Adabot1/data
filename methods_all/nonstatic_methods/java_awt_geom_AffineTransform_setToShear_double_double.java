@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_setToShear_double_double{ public static void function() {java.awt.geom.AffineTransform obj = new java.awt.geom.AffineTransform();obj.setToShear(0.25492688080183834,0.7109010289309325);}}

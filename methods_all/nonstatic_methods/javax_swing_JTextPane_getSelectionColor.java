@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_getSelectionColor{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.getSelectionColor();}}

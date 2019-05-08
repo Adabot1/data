@@ -1,0 +1,1 @@
+class java_awt_Label_getBaseline_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.getBaseline(1106792549,828334652);}}

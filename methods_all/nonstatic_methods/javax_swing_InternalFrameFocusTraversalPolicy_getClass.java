@@ -1,0 +1,1 @@
+class javax_swing_InternalFrameFocusTraversalPolicy_getClass{ public static void function() {javax.swing.InternalFrameFocusTraversalPolicy obj = new javax.swing.InternalFrameFocusTraversalPolicy();obj.getClass();}}

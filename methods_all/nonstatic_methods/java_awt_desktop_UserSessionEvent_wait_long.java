@@ -1,0 +1,1 @@
+class java_awt_desktop_UserSessionEvent_wait_long{ public static void function() {java.awt.desktop.UserSessionEvent obj = new java.awt.desktop.UserSessionEvent();obj.wait(-289054426718844707);}}

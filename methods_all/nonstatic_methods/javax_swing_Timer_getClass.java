@@ -1,0 +1,1 @@
+class javax_swing_Timer_getClass{ public static void function() {javax.swing.Timer obj = new javax.swing.Timer();obj.getClass();}}

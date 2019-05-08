@@ -1,0 +1,1 @@
+class javax_swing_text_IconView_getMaximumSpan_int{ public static void function() {javax.swing.text.IconView obj = new javax.swing.text.IconView();obj.getMaximumSpan(2140553692);}}

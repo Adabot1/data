@@ -1,0 +1,1 @@
+class java_net_URLPermission_wait_long_int{ public static void function() {java.net.URLPermission obj = new java.net.URLPermission();obj.wait(-7285247995269350846,-1029280918);}}

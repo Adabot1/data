@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.paintImmediately(-1324096542,49984359,2103505818,-1456480925);}}

@@ -1,0 +1,1 @@
+class java_awt_Canvas_wait_long{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.wait(-9094139931749445737);}}

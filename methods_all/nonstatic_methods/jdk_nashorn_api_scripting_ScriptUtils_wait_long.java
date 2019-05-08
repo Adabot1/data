@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_ScriptUtils_wait_long{ public static void function() {jdk.nashorn.api.scripting.ScriptUtils obj = new jdk.nashorn.api.scripting.ScriptUtils();obj.wait(3458408229685504012);}}

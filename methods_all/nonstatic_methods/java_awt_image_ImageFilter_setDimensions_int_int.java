@@ -1,0 +1,1 @@
+class java_awt_image_ImageFilter_setDimensions_int_int{ public static void function() {java.awt.image.ImageFilter obj = new java.awt.image.ImageFilter();obj.setDimensions(-395777470,-1204437013);}}

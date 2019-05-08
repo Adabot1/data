@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationDesc_wait_long{ public static void function() {java.rmi.activation.ActivationDesc obj = new java.rmi.activation.ActivationDesc();obj.wait(-200327831957546290);}}

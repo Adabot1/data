@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_setBounds_int_int_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.setBounds(-205072192,-1124916750,1996723169,1619692089);}}

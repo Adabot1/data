@@ -1,0 +1,1 @@
+class java_applet_Applet_repaint_long_int_int_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.repaint(-8452903215242883171,1001926229,156125931,-1838910996,-1821338949);}}

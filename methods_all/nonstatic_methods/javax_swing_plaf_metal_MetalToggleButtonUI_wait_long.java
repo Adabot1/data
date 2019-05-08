@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalToggleButtonUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalToggleButtonUI obj = new javax.swing.plaf.metal.MetalToggleButtonUI();obj.wait(6219319863765641034);}}

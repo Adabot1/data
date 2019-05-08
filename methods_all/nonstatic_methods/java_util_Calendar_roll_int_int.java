@@ -1,0 +1,1 @@
+class java_util_Calendar_roll_int_int{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.roll(-1159831762,-1916316607);}}

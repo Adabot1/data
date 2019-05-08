@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_Fidelity_wait_long{ public static void function() {javax.print.attribute.standard.Fidelity obj = new javax.print.attribute.standard.Fidelity();obj.wait(6703930790877735886);}}

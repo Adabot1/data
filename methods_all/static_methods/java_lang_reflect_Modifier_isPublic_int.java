@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isPublic_int{ public static void function() {java.lang.reflect.Modifier.isPublic(-1129645296);}}

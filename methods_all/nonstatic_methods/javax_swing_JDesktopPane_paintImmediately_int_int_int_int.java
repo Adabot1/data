@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.paintImmediately(-128639334,-969628009,947352232,-1001590287);}}

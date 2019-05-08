@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_setAlignmentY_float{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.setAlignmentY(0.5726129);}}

@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_isClosable{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.isClosable();}}

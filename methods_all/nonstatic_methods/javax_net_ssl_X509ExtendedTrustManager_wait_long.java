@@ -1,0 +1,1 @@
+class javax_net_ssl_X509ExtendedTrustManager_wait_long{ public static void function() {javax.net.ssl.X509ExtendedTrustManager obj = new javax.net.ssl.X509ExtendedTrustManager();obj.wait(8513685659849548577);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_nextTabStop_float_int{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.nextTabStop(0.7441997,-1826250119);}}

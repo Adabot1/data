@@ -1,0 +1,1 @@
+class jdk_jshell_execution_StreamingExecutionControl_wait_long_int{ public static void function() {jdk.jshell.execution.StreamingExecutionControl obj = new jdk.jshell.execution.StreamingExecutionControl();obj.wait(2587725921016642687,-375793017);}}

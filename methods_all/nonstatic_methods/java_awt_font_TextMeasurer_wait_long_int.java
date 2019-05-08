@@ -1,0 +1,1 @@
+class java_awt_font_TextMeasurer_wait_long_int{ public static void function() {java.awt.font.TextMeasurer obj = new java.awt.font.TextMeasurer();obj.wait(5337477753609349091,655863297);}}

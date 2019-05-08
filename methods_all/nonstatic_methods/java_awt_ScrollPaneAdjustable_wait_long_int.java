@@ -1,0 +1,1 @@
+class java_awt_ScrollPaneAdjustable_wait_long_int{ public static void function() {java.awt.ScrollPaneAdjustable obj = new java.awt.ScrollPaneAdjustable();obj.wait(6589185368602946591,259984813);}}

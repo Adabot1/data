@@ -1,0 +1,1 @@
+class java_beans_IndexedPropertyChangeEvent_getClass{ public static void function() {java.beans.IndexedPropertyChangeEvent obj = new java.beans.IndexedPropertyChangeEvent();obj.getClass();}}

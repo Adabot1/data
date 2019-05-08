@@ -1,0 +1,1 @@
+class javax_management_MBeanServerFactory_wait_long_int{ public static void function() {javax.management.MBeanServerFactory obj = new javax.management.MBeanServerFactory();obj.wait(6257845700838023054,1572029958);}}

@@ -1,0 +1,1 @@
+class java_lang_Short_toString_short{ public static void function() {java.lang.Short.toString(29974);}}

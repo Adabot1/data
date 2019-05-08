@@ -1,0 +1,1 @@
+class javax_print_attribute_URISyntax_hashCode{ public static void function() {javax.print.attribute.URISyntax obj = new javax.print.attribute.URISyntax();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class java_net_InterfaceAddress_getBroadcast{ public static void function() {java.net.InterfaceAddress obj = new java.net.InterfaceAddress();obj.getBroadcast();}}

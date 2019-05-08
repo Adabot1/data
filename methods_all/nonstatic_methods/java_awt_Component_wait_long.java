@@ -1,0 +1,1 @@
+class java_awt_Component_wait_long{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.wait(6794080269663238851);}}

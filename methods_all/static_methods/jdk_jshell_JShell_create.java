@@ -1,0 +1,1 @@
+class jdk_jshell_JShell_create{ public static void function() {jdk.jshell.JShell.create();}}

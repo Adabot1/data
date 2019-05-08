@@ -1,0 +1,1 @@
+class java_util_zip_DeflaterInputStream_wait_long_int{ public static void function() {java.util.zip.DeflaterInputStream obj = new java.util.zip.DeflaterInputStream();obj.wait(-531489034654818031,1113229568);}}

@@ -1,0 +1,1 @@
+class java_awt_Event_wait_long{ public static void function() {java.awt.Event obj = new java.awt.Event();obj.wait(-5106137551829962861);}}

@@ -1,0 +1,1 @@
+class java_security_spec_ECPublicKeySpec_wait_long_int{ public static void function() {java.security.spec.ECPublicKeySpec obj = new java.security.spec.ECPublicKeySpec();obj.wait(7076141614880505977,-1958345444);}}

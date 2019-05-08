@@ -1,0 +1,1 @@
+class java_lang_invoke_SerializedLambda_wait_long{ public static void function() {java.lang.invoke.SerializedLambda obj = new java.lang.invoke.SerializedLambda();obj.wait(-9005886235258151462);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_breakView_int_int_float_float{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.breakView(968312429,1515561082,0.56962955,0.9847374);}}

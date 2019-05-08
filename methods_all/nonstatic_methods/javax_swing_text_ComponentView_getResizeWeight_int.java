@@ -1,0 +1,1 @@
+class javax_swing_text_ComponentView_getResizeWeight_int{ public static void function() {javax.swing.text.ComponentView obj = new javax.swing.text.ComponentView();obj.getResizeWeight(-1144559973);}}

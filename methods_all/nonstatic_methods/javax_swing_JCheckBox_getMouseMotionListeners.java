@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_getMouseMotionListeners{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.getMouseMotionListeners();}}

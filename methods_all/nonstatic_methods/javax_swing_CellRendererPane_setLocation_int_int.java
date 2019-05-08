@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_setLocation_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.setLocation(-334498941,-792389604);}}

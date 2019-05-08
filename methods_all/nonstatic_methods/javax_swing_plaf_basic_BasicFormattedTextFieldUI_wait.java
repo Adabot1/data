@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicFormattedTextFieldUI_wait{ public static void function() {javax.swing.plaf.basic.BasicFormattedTextFieldUI obj = new javax.swing.plaf.basic.BasicFormattedTextFieldUI();obj.wait();}}

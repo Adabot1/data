@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_TagElement_wait_long_int{ public static void function() {javax.swing.text.html.parser.TagElement obj = new javax.swing.text.html.parser.TagElement();obj.wait(-5869264529937748853,1241143279);}}

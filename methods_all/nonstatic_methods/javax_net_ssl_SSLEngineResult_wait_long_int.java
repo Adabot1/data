@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLEngineResult_wait_long_int{ public static void function() {javax.net.ssl.SSLEngineResult obj = new javax.net.ssl.SSLEngineResult();obj.wait(-6818404930238814144,-834809822);}}

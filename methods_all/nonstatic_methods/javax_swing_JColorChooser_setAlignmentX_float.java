@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_setAlignmentX_float{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.setAlignmentX(0.97176236);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthMenuUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthMenuUI obj = new javax.swing.plaf.synth.SynthMenuUI();obj.wait(-4946413523538983098,126903130);}}

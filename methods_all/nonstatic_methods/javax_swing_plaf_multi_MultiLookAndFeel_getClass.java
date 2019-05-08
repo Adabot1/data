@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiLookAndFeel_getClass{ public static void function() {javax.swing.plaf.multi.MultiLookAndFeel obj = new javax.swing.plaf.multi.MultiLookAndFeel();obj.getClass();}}

@@ -1,0 +1,1 @@
+class javax_swing_Spring_wait_long_int{ public static void function() {javax.swing.Spring obj = new javax.swing.Spring();obj.wait(1222157333321370451,-162204586);}}

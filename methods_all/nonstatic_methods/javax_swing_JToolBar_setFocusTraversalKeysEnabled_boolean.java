@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_setFocusTraversalKeysEnabled_boolean{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.setFocusTraversalKeysEnabled(true);}}

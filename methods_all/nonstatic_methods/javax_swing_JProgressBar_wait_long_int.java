@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_wait_long_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.wait(-382856354188018498,895991988);}}

@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_wait_long{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.wait(-2311220780835928826);}}

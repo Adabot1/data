@@ -1,0 +1,1 @@
+class com_sun_javadoc_Doclet_notify{ public static void function() {com.sun.javadoc.Doclet obj = new com.sun.javadoc.Doclet();obj.notify();}}

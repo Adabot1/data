@@ -1,0 +1,1 @@
+class java_net_MulticastSocket_wait_long_int{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();obj.wait(5765447040498578896,-380442173);}}

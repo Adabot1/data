@@ -1,0 +1,1 @@
+class java_awt_TextComponent_createImage_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.createImage(-491891020,1336521360);}}

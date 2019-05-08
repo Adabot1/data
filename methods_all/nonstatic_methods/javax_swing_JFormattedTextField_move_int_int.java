@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_move_int_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.move(1407719408,-126455070);}}

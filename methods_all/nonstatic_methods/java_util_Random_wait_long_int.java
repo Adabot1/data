@@ -1,0 +1,1 @@
+class java_util_Random_wait_long_int{ public static void function() {java.util.Random obj = new java.util.Random();obj.wait(-3816221987092639800,-1541218438);}}

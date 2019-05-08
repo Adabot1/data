@@ -1,0 +1,1 @@
+class java_io_CharArrayWriter_wait_long_int{ public static void function() {java.io.CharArrayWriter obj = new java.io.CharArrayWriter();obj.wait(-6744648306788551074,1611208257);}}

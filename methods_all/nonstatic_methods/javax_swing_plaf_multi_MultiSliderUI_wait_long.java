@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiSliderUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiSliderUI obj = new javax.swing.plaf.multi.MultiSliderUI();obj.wait(8514640089720292141);}}

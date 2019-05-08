@@ -1,0 +1,1 @@
+class javax_naming_ldap_Rdn_wait_long_int{ public static void function() {javax.naming.ldap.Rdn obj = new javax.naming.ldap.Rdn();obj.wait(-1059648616520545501,-1982490331);}}

@@ -1,0 +1,1 @@
+class org_ietf_jgss_MessageProp_getMinorString{ public static void function() {org.ietf.jgss.MessageProp obj = new org.ietf.jgss.MessageProp();obj.getMinorString();}}

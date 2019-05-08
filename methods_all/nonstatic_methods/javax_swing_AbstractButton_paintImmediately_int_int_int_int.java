@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_paintImmediately_int_int_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.paintImmediately(294613019,725976444,1196159105,-1061283355);}}

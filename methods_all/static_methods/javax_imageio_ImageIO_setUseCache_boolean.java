@@ -1,0 +1,1 @@
+class javax_imageio_ImageIO_setUseCache_boolean{ public static void function() {javax.imageio.ImageIO.setUseCache(true);}}

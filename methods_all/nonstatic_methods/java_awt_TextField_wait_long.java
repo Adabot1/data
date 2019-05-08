@@ -1,0 +1,1 @@
+class java_awt_TextField_wait_long{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.wait(-5624867770805325574);}}

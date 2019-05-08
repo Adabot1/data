@@ -1,0 +1,1 @@
+class jdk_dynalink_CallSiteDescriptor_wait_long_int{ public static void function() {jdk.dynalink.CallSiteDescriptor obj = new jdk.dynalink.CallSiteDescriptor();obj.wait(-582557663354077035,-223602460);}}

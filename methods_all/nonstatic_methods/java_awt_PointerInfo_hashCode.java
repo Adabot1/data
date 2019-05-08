@@ -1,0 +1,1 @@
+class java_awt_PointerInfo_hashCode{ public static void function() {java.awt.PointerInfo obj = new java.awt.PointerInfo();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextField_getGraphics{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.getGraphics();}}

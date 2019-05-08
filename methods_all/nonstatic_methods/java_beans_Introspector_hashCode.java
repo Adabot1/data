@@ -1,0 +1,1 @@
+class java_beans_Introspector_hashCode{ public static void function() {java.beans.Introspector obj = new java.beans.Introspector();obj.hashCode();}}

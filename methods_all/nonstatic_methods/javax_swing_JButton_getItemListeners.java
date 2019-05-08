@@ -1,0 +1,1 @@
+class javax_swing_JButton_getItemListeners{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.getItemListeners();}}

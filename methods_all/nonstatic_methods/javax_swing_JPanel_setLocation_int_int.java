@@ -1,0 +1,1 @@
+class javax_swing_JPanel_setLocation_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.setLocation(-1475563634,1417676661);}}

@@ -1,0 +1,1 @@
+class java_util_zip_CRC32C_wait_long_int{ public static void function() {java.util.zip.CRC32C obj = new java.util.zip.CRC32C();obj.wait(-4505594624485302835,-1705717768);}}

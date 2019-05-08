@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_wait_long_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.wait(-5111533088266441685,968043052);}}

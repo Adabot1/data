@@ -1,0 +1,1 @@
+class com_sun_security_jgss_GSSUtil_toString{ public static void function() {com.sun.security.jgss.GSSUtil obj = new com.sun.security.jgss.GSSUtil();obj.toString();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSplitPaneDivider_inside_int_int{ public static void function() {javax.swing.plaf.basic.BasicSplitPaneDivider obj = new javax.swing.plaf.basic.BasicSplitPaneDivider();obj.inside(1467487751,566828816);}}

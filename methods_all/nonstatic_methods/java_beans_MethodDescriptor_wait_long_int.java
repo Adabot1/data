@@ -1,0 +1,1 @@
+class java_beans_MethodDescriptor_wait_long_int{ public static void function() {java.beans.MethodDescriptor obj = new java.beans.MethodDescriptor();obj.wait(3390501378909638482,1015243034);}}

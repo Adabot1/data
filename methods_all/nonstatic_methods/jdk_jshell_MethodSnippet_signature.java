@@ -1,0 +1,1 @@
+class jdk_jshell_MethodSnippet_signature{ public static void function() {jdk.jshell.MethodSnippet obj = new jdk.jshell.MethodSnippet();obj.signature();}}

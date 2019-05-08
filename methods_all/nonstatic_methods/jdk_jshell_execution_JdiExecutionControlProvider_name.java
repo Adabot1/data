@@ -1,0 +1,1 @@
+class jdk_jshell_execution_JdiExecutionControlProvider_name{ public static void function() {jdk.jshell.execution.JdiExecutionControlProvider obj = new jdk.jshell.execution.JdiExecutionControlProvider();obj.name();}}

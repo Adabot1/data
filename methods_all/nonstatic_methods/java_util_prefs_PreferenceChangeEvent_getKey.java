@@ -1,0 +1,1 @@
+class java_util_prefs_PreferenceChangeEvent_getKey{ public static void function() {java.util.prefs.PreferenceChangeEvent obj = new java.util.prefs.PreferenceChangeEvent();obj.getKey();}}

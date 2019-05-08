@@ -1,0 +1,1 @@
+class javax_print_attribute_EnumSyntax_wait_long_int{ public static void function() {javax.print.attribute.EnumSyntax obj = new javax.print.attribute.EnumSyntax();obj.wait(-772840057683323050,-1758433143);}}

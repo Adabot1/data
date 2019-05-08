@@ -1,0 +1,1 @@
+class java_math_BigDecimal_wait_long_int{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();obj.wait(763603714031187837,-1189700285);}}

@@ -1,0 +1,1 @@
+class jdk_jshell_execution_Util_hashCode{ public static void function() {jdk.jshell.execution.Util obj = new jdk.jshell.execution.Util();obj.hashCode();}}

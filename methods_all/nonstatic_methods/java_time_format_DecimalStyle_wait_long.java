@@ -1,0 +1,1 @@
+class java_time_format_DecimalStyle_wait_long{ public static void function() {java.time.format.DecimalStyle obj = new java.time.format.DecimalStyle();obj.wait(2441976390229021483);}}

@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_getTreeLock{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.getTreeLock();}}

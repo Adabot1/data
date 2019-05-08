@@ -1,0 +1,1 @@
+class javax_swing_plaf_TreeUI_wait_long_int{ public static void function() {javax.swing.plaf.TreeUI obj = new javax.swing.plaf.TreeUI();obj.wait(-3884359861163174871,-2103597947);}}

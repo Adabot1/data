@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_setLocation_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.setLocation(526177701,1926594857);}}

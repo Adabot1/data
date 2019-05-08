@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterMoreInfoManufacturer_wait_long_int{ public static void function() {javax.print.attribute.standard.PrinterMoreInfoManufacturer obj = new javax.print.attribute.standard.PrinterMoreInfoManufacturer();obj.wait(-4309883591192400336,1975778061);}}

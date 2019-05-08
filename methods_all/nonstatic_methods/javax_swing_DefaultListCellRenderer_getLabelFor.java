@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_getLabelFor{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.getLabelFor();}}

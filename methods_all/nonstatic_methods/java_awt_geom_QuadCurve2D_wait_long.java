@@ -1,0 +1,1 @@
+class java_awt_geom_QuadCurve2D_wait_long{ public static void function() {java.awt.geom.QuadCurve2D obj = new java.awt.geom.QuadCurve2D();obj.wait(3532645769736303977);}}

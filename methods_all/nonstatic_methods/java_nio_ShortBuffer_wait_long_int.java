@@ -1,0 +1,1 @@
+class java_nio_ShortBuffer_wait_long_int{ public static void function() {java.nio.ShortBuffer obj = new java.nio.ShortBuffer();obj.wait(-1137172917751126400,-430242002);}}

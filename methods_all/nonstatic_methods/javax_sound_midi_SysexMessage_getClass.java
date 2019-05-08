@@ -1,0 +1,1 @@
+class javax_sound_midi_SysexMessage_getClass{ public static void function() {javax.sound.midi.SysexMessage obj = new javax.sound.midi.SysexMessage();obj.getClass();}}

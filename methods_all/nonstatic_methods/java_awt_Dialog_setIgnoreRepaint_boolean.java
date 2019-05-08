@@ -1,0 +1,1 @@
+class java_awt_Dialog_setIgnoreRepaint_boolean{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.setIgnoreRepaint(true);}}

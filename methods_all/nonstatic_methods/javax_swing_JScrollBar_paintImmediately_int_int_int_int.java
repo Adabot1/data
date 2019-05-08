@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.paintImmediately(-36130278,-1720892315,362718778,1746855647);}}

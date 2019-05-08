@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalSeparatorUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalSeparatorUI obj = new javax.swing.plaf.metal.MetalSeparatorUI();obj.wait(-5822374847921251750);}}

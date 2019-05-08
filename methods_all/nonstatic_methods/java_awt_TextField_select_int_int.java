@@ -1,0 +1,1 @@
+class java_awt_TextField_select_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.select(-517204061,1787154871);}}

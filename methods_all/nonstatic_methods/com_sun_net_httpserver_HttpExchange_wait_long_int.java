@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpExchange_wait_long_int{ public static void function() {com.sun.net.httpserver.HttpExchange obj = new com.sun.net.httpserver.HttpExchange();obj.wait(-1973088843199582928,1248794816);}}

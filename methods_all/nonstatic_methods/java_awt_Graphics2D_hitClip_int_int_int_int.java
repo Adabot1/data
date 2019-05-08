@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_hitClip_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.hitClip(-1214688483,209720425,-1146701681,-326105776);}}

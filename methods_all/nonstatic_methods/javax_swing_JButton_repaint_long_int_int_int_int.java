@@ -1,0 +1,1 @@
+class javax_swing_JButton_repaint_long_int_int_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.repaint(7658800468848721626,-115973025,640269818,1341775444,-571693590);}}

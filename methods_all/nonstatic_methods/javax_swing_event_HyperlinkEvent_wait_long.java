@@ -1,0 +1,1 @@
+class javax_swing_event_HyperlinkEvent_wait_long{ public static void function() {javax.swing.event.HyperlinkEvent obj = new javax.swing.event.HyperlinkEvent();obj.wait(-8342671773663014203);}}

@@ -1,0 +1,1 @@
+class java_security_spec_PSSParameterSpec_wait_long_int{ public static void function() {java.security.spec.PSSParameterSpec obj = new java.security.spec.PSSParameterSpec();obj.wait(-5895918525367232094,509462248);}}

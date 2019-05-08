@@ -1,0 +1,1 @@
+class javax_swing_JMenu_createImage_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.createImage(-513059982,1376967368);}}

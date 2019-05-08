@@ -1,0 +1,1 @@
+class java_net_http_HttpClient_wait_long{ public static void function() {java.net.http.HttpClient obj = new java.net.http.HttpClient();obj.wait(-6760254393188969739);}}

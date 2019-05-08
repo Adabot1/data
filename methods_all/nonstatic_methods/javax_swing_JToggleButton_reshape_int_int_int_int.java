@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_reshape_int_int_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.reshape(2037675009,-548801214,-707784853,-1235207968);}}

@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.paintImmediately(-1366423805,-1956183011,229626814,475697504);}}

@@ -1,0 +1,1 @@
+class java_time_YearMonth_of_int_int{ public static void function() {java.time.YearMonth.of(490679752,-347033933);}}

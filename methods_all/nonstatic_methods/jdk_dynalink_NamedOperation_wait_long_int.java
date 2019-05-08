@@ -1,0 +1,1 @@
+class jdk_dynalink_NamedOperation_wait_long_int{ public static void function() {jdk.dynalink.NamedOperation obj = new jdk.dynalink.NamedOperation();obj.wait(8868869128643420853,-535871017);}}

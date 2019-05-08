@@ -1,0 +1,1 @@
+class java_awt_GraphicsConfigTemplate_wait_long{ public static void function() {java.awt.GraphicsConfigTemplate obj = new java.awt.GraphicsConfigTemplate();obj.wait(2111587900033139635);}}

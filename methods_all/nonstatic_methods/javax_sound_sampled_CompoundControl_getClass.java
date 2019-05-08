@@ -1,0 +1,1 @@
+class javax_sound_sampled_CompoundControl_getClass{ public static void function() {javax.sound.sampled.CompoundControl obj = new javax.sound.sampled.CompoundControl();obj.getClass();}}

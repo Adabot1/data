@@ -1,0 +1,1 @@
+class com_sun_jdi_ClassNotLoadedException_wait_long_int{ public static void function() {com.sun.jdi.ClassNotLoadedException obj = new com.sun.jdi.ClassNotLoadedException();obj.wait(6091584914172684903,914787302);}}

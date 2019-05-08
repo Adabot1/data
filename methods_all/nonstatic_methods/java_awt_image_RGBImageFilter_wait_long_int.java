@@ -1,0 +1,1 @@
+class java_awt_image_RGBImageFilter_wait_long_int{ public static void function() {java.awt.image.RGBImageFilter obj = new java.awt.image.RGBImageFilter();obj.wait(-7805494456576199236,-1488967059);}}

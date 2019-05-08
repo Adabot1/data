@@ -1,0 +1,1 @@
+class javax_swing_text_CompositeView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.CompositeView obj = new javax.swing.text.CompositeView();obj.getBreakWeight(-1520573409,0.17236888,0.129924);}}

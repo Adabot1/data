@@ -1,0 +1,1 @@
+class javax_management_openmbean_TabularType_wait_long{ public static void function() {javax.management.openmbean.TabularType obj = new javax.management.openmbean.TabularType();obj.wait(2157682517494758717);}}

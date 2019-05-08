@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoDate_lengthOfMonth{ public static void function() {java.time.chrono.MinguoDate obj = new java.time.chrono.MinguoDate();obj.lengthOfMonth();}}

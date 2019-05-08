@@ -1,0 +1,1 @@
+class javax_swing_text_GlyphView_getPartialSpan_int_int{ public static void function() {javax.swing.text.GlyphView obj = new javax.swing.text.GlyphView();obj.getPartialSpan(1020446147,-1916800020);}}

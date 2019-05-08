@@ -1,0 +1,1 @@
+class javax_lang_model_SourceVersion_latestSupported{ public static void function() {javax.lang.model.SourceVersion.latestSupported();}}

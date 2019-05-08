@@ -1,0 +1,1 @@
+class java_awt_image_ComponentSampleModel_getSampleSize_int{ public static void function() {java.awt.image.ComponentSampleModel obj = new java.awt.image.ComponentSampleModel();obj.getSampleSize(-1480796294);}}

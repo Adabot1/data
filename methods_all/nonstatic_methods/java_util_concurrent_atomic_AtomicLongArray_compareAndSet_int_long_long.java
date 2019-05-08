@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_compareAndSet_int_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.compareAndSet(-248855440,895492859663604991,2881711253850874681);}}

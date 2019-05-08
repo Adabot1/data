@@ -1,0 +1,1 @@
+class javax_management_MBeanException_wait_long_int{ public static void function() {javax.management.MBeanException obj = new javax.management.MBeanException();obj.wait(-2310779195075397012,-331102517);}}

@@ -1,0 +1,1 @@
+class java_util_SplittableRandom_doubles_double_double{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();obj.doubles(0.4175558990707191,0.28124798508122695);}}

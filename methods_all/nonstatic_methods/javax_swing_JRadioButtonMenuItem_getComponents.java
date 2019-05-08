@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_getComponents{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.getComponents();}}

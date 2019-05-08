@@ -1,0 +1,1 @@
+class java_awt_FileDialog_resize_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.resize(581613266,1126780233);}}

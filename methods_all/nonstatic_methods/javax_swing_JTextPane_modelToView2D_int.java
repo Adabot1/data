@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_modelToView2D_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.modelToView2D(72403084);}}

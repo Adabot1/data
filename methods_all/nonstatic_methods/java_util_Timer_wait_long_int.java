@@ -1,0 +1,1 @@
+class java_util_Timer_wait_long_int{ public static void function() {java.util.Timer obj = new java.util.Timer();obj.wait(1570663108259432683,864829394);}}

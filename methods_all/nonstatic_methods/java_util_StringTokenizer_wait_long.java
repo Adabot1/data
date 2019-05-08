@@ -1,0 +1,1 @@
+class java_util_StringTokenizer_wait_long{ public static void function() {java.util.StringTokenizer obj = new java.util.StringTokenizer();obj.wait(-7870399392115538092);}}

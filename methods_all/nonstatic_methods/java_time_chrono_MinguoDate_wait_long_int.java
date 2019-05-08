@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoDate_wait_long_int{ public static void function() {java.time.chrono.MinguoDate obj = new java.time.chrono.MinguoDate();obj.wait(166663588431548723,-609883957);}}

@@ -1,0 +1,1 @@
+class java_beans_BeanDescriptor_wait_long_int{ public static void function() {java.beans.BeanDescriptor obj = new java.beans.BeanDescriptor();obj.wait(-967440295091196491,-294067281);}}

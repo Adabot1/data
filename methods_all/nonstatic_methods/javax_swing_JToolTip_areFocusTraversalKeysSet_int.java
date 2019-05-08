@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.areFocusTraversalKeysSet(435653481);}}

@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroup_Stub_hashCode{ public static void function() {java.rmi.activation.ActivationGroup_Stub obj = new java.rmi.activation.ActivationGroup_Stub();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isFinal_int{ public static void function() {java.lang.reflect.Modifier.isFinal(-1247506013);}}

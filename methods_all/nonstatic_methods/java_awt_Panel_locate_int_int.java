@@ -1,0 +1,1 @@
+class java_awt_Panel_locate_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.locate(1929172880,-384555350);}}

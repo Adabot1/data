@@ -1,0 +1,1 @@
+class java_nio_charset_UnsupportedCharsetException_getCause{ public static void function() {java.nio.charset.UnsupportedCharsetException obj = new java.nio.charset.UnsupportedCharsetException();obj.getCause();}}

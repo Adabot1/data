@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicLabelUI_getClass{ public static void function() {javax.swing.plaf.basic.BasicLabelUI obj = new javax.swing.plaf.basic.BasicLabelUI();obj.getClass();}}

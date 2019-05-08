@@ -1,0 +1,1 @@
+class java_awt_AWTKeyStroke_getModifiers{ public static void function() {java.awt.AWTKeyStroke obj = new java.awt.AWTKeyStroke();obj.getModifiers();}}

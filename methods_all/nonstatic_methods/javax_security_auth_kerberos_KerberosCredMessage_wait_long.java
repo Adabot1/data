@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_KerberosCredMessage_wait_long{ public static void function() {javax.security.auth.kerberos.KerberosCredMessage obj = new javax.security.auth.kerberos.KerberosCredMessage();obj.wait(8528828416313831430);}}

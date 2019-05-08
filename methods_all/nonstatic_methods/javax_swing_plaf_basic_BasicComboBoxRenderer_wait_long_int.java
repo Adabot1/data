@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboBoxRenderer_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicComboBoxRenderer obj = new javax.swing.plaf.basic.BasicComboBoxRenderer();obj.wait(7034964102693833481,-606099506);}}

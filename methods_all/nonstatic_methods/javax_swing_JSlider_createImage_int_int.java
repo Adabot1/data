@@ -1,0 +1,1 @@
+class javax_swing_JSlider_createImage_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.createImage(812838943,-145437121);}}

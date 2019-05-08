@@ -1,0 +1,1 @@
+class javax_xml_namespace_QName_notifyAll{ public static void function() {javax.xml.namespace.QName obj = new javax.xml.namespace.QName();obj.notifyAll();}}

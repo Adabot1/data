@@ -1,0 +1,1 @@
+class javax_xml_validation_Schema_newValidatorHandler{ public static void function() {javax.xml.validation.Schema obj = new javax.xml.validation.Schema();obj.newValidatorHandler();}}

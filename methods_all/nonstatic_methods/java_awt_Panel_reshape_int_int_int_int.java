@@ -1,0 +1,1 @@
+class java_awt_Panel_reshape_int_int_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.reshape(1058364888,1783372291,555394457,1065393322);}}

@@ -1,0 +1,1 @@
+class java_awt_Component_reshape_int_int_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.reshape(402032307,1502449621,-1563582738,849588598);}}

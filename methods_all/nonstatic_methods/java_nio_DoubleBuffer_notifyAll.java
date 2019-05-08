@@ -1,0 +1,1 @@
+class java_nio_DoubleBuffer_notifyAll{ public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();obj.notifyAll();}}

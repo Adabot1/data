@@ -1,0 +1,1 @@
+class java_awt_Toolkit_getScreenSize{ public static void function() {java.awt.Toolkit obj = new java.awt.Toolkit();obj.getScreenSize();}}

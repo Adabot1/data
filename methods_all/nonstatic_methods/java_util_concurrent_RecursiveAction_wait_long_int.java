@@ -1,0 +1,1 @@
+class java_util_concurrent_RecursiveAction_wait_long_int{ public static void function() {java.util.concurrent.RecursiveAction obj = new java.util.concurrent.RecursiveAction();obj.wait(-1913553049322953690,1778074008);}}

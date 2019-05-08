@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_wait_long{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.wait(-8660967620025799681);}}

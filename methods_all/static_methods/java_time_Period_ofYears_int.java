@@ -1,0 +1,1 @@
+class java_time_Period_ofYears_int{ public static void function() {java.time.Period.ofYears(1810728812);}}

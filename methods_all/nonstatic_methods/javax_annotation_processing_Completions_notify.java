@@ -1,0 +1,1 @@
+class javax_annotation_processing_Completions_notify{ public static void function() {javax.annotation.processing.Completions obj = new javax.annotation.processing.Completions();obj.notify();}}

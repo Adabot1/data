@@ -1,0 +1,1 @@
+class java_awt_Panel_inside_int_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.inside(301106870,-1491635767);}}

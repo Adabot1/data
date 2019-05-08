@@ -1,0 +1,1 @@
+class javax_sound_midi_MidiFileFormat_wait_long{ public static void function() {javax.sound.midi.MidiFileFormat obj = new javax.sound.midi.MidiFileFormat();obj.wait(4441192839616160280);}}

@@ -1,0 +1,1 @@
+class java_awt_image_BufferStrategy_wait_long_int{ public static void function() {java.awt.image.BufferStrategy obj = new java.awt.image.BufferStrategy();obj.wait(479560948320482818,1288235444);}}

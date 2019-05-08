@@ -1,0 +1,1 @@
+class javax_lang_model_element_Modifier_wait_long{ public static void function() {javax.lang.model.element.Modifier obj = new javax.lang.model.element.Modifier();obj.wait(-4899861593303182220);}}

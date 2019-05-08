@@ -1,0 +1,1 @@
+class java_lang_Float_compare_float_float{ public static void function() {java.lang.Float.compare(0.6840368,0.08793312);}}

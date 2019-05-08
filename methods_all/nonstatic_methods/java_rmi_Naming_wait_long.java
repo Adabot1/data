@@ -1,0 +1,1 @@
+class java_rmi_Naming_wait_long{ public static void function() {java.rmi.Naming obj = new java.rmi.Naming();obj.wait(-125443076165882786);}}

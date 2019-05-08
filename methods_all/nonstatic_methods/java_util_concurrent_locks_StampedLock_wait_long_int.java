@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_wait_long_int{ public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();obj.wait(1026377779370932994,-1693823434);}}

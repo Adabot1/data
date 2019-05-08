@@ -1,0 +1,1 @@
+class javax_crypto_KeyGeneratorSpi_wait_long{ public static void function() {javax.crypto.KeyGeneratorSpi obj = new javax.crypto.KeyGeneratorSpi();obj.wait(-5341963305347799965);}}

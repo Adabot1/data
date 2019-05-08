@@ -1,0 +1,1 @@
+class java_lang_StackTraceElement_wait_long{ public static void function() {java.lang.StackTraceElement obj = new java.lang.StackTraceElement();obj.wait(662819101813213337);}}

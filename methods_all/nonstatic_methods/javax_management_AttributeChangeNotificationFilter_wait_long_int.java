@@ -1,0 +1,1 @@
+class javax_management_AttributeChangeNotificationFilter_wait_long_int{ public static void function() {javax.management.AttributeChangeNotificationFilter obj = new javax.management.AttributeChangeNotificationFilter();obj.wait(-8632612081448021235,1005368118);}}

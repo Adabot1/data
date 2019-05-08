@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_setIconTextGap_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.setIconTextGap(29041925);}}

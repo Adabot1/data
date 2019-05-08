@@ -1,0 +1,1 @@
+class javax_imageio_spi_IIOServiceProvider_wait_long{ public static void function() {javax.imageio.spi.IIOServiceProvider obj = new javax.imageio.spi.IIOServiceProvider();obj.wait(1795422623021706163);}}

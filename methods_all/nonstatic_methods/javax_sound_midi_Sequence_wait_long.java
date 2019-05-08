@@ -1,0 +1,1 @@
+class javax_sound_midi_Sequence_wait_long{ public static void function() {javax.sound.midi.Sequence obj = new javax.sound.midi.Sequence();obj.wait(814397404605910168);}}

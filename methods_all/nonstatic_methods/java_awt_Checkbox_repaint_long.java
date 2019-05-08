@@ -1,0 +1,1 @@
+class java_awt_Checkbox_repaint_long{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.repaint(5597253873485822689);}}

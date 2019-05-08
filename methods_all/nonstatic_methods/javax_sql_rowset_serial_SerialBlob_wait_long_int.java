@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialBlob_wait_long_int{ public static void function() {javax.sql.rowset.serial.SerialBlob obj = new javax.sql.rowset.serial.SerialBlob();obj.wait(5715048825771574644,2146434448);}}

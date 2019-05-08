@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiSeparatorUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiSeparatorUI obj = new javax.swing.plaf.multi.MultiSeparatorUI();obj.wait(3311442929855384387);}}

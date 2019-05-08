@@ -1,0 +1,1 @@
+class java_beans_SimpleBeanInfo_wait_long_int{ public static void function() {java.beans.SimpleBeanInfo obj = new java.beans.SimpleBeanInfo();obj.wait(9031870084983233512,992979694);}}

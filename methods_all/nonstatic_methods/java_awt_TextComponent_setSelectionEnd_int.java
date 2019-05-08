@@ -1,0 +1,1 @@
+class java_awt_TextComponent_setSelectionEnd_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.setSelectionEnd(-277940798);}}

@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_setAlignmentY_float{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.setAlignmentY(0.59137505);}}

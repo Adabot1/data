@@ -1,0 +1,1 @@
+class java_util_EventObject_wait_long{ public static void function() {java.util.EventObject obj = new java.util.EventObject();obj.wait(1462141277950273794);}}

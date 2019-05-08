@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.areFocusTraversalKeysSet(-1269848454);}}

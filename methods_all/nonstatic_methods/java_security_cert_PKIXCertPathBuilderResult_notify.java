@@ -1,0 +1,1 @@
+class java_security_cert_PKIXCertPathBuilderResult_notify{ public static void function() {java.security.cert.PKIXCertPathBuilderResult obj = new java.security.cert.PKIXCertPathBuilderResult();obj.notify();}}

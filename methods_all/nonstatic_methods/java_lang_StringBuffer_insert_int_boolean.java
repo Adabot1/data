@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_insert_int_boolean{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.insert(1924744081,false);}}

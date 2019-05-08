@@ -1,0 +1,1 @@
+class javax_management_AttributeList_wait_long_int{ public static void function() {javax.management.AttributeList obj = new javax.management.AttributeList();obj.wait(4363332298988947336,-1887811337);}}

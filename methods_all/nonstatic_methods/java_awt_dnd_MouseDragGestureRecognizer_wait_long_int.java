@@ -1,0 +1,1 @@
+class java_awt_dnd_MouseDragGestureRecognizer_wait_long_int{ public static void function() {java.awt.dnd.MouseDragGestureRecognizer obj = new java.awt.dnd.MouseDragGestureRecognizer();obj.wait(-6859411200759683523,141437320);}}

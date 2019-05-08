@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageOutputStreamImpl_writeBits_long_int{ public static void function() {javax.imageio.stream.ImageOutputStreamImpl obj = new javax.imageio.stream.ImageOutputStreamImpl();obj.writeBits(18121811638179501,1119806552);}}

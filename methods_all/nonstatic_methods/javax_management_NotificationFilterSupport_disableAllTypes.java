@@ -1,0 +1,1 @@
+class javax_management_NotificationFilterSupport_disableAllTypes{ public static void function() {javax.management.NotificationFilterSupport obj = new javax.management.NotificationFilterSupport();obj.disableAllTypes();}}

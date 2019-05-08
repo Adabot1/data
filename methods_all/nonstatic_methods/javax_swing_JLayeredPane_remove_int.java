@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_remove_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.remove(1977273296);}}

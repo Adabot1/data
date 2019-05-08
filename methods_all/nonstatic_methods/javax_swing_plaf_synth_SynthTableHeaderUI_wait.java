@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTableHeaderUI_wait{ public static void function() {javax.swing.plaf.synth.SynthTableHeaderUI obj = new javax.swing.plaf.synth.SynthTableHeaderUI();obj.wait();}}

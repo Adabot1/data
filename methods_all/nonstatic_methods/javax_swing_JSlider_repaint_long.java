@@ -1,0 +1,1 @@
+class javax_swing_JSlider_repaint_long{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.repaint(5865304483334326359);}}

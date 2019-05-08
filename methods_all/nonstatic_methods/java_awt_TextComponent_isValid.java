@@ -1,0 +1,1 @@
+class java_awt_TextComponent_isValid{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.isValid();}}

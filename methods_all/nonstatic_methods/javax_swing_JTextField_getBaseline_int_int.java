@@ -1,0 +1,1 @@
+class javax_swing_JTextField_getBaseline_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.getBaseline(917023797,747873188);}}

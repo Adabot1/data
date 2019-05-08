@@ -1,0 +1,1 @@
+class javax_smartcardio_CommandAPDU_notify{ public static void function() {javax.smartcardio.CommandAPDU obj = new javax.smartcardio.CommandAPDU();obj.notify();}}

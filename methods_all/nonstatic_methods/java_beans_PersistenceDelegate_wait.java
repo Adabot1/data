@@ -1,0 +1,1 @@
+class java_beans_PersistenceDelegate_wait{ public static void function() {java.beans.PersistenceDelegate obj = new java.beans.PersistenceDelegate();obj.wait();}}

@@ -1,0 +1,1 @@
+class javax_crypto_spec_DHGenParameterSpec_wait_long{ public static void function() {javax.crypto.spec.DHGenParameterSpec obj = new javax.crypto.spec.DHGenParameterSpec();obj.wait(5210730171698434722);}}

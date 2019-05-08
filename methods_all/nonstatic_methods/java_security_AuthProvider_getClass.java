@@ -1,0 +1,1 @@
+class java_security_AuthProvider_getClass{ public static void function() {java.security.AuthProvider obj = new java.security.AuthProvider();obj.getClass();}}

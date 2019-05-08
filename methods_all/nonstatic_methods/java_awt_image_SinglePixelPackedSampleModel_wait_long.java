@@ -1,0 +1,1 @@
+class java_awt_image_SinglePixelPackedSampleModel_wait_long{ public static void function() {java.awt.image.SinglePixelPackedSampleModel obj = new java.awt.image.SinglePixelPackedSampleModel();obj.wait(2452671000487948900);}}

@@ -1,0 +1,1 @@
+class java_awt_event_FocusEvent_notifyAll{ public static void function() {java.awt.event.FocusEvent obj = new java.awt.event.FocusEvent();obj.notifyAll();}}

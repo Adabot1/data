@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_NTSystem_hashCode{ public static void function() {com.sun.security.auth.module.NTSystem obj = new com.sun.security.auth.module.NTSystem();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_xml_stream_XMLInputFactory_getXMLResolver{ public static void function() {javax.xml.stream.XMLInputFactory obj = new javax.xml.stream.XMLInputFactory();obj.getXMLResolver();}}

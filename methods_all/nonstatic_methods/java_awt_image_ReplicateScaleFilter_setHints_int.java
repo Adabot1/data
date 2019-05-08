@@ -1,0 +1,1 @@
+class java_awt_image_ReplicateScaleFilter_setHints_int{ public static void function() {java.awt.image.ReplicateScaleFilter obj = new java.awt.image.ReplicateScaleFilter();obj.setHints(-1125117204);}}

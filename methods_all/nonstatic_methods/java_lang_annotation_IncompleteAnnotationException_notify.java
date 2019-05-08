@@ -1,0 +1,1 @@
+class java_lang_annotation_IncompleteAnnotationException_notify{ public static void function() {java.lang.annotation.IncompleteAnnotationException obj = new java.lang.annotation.IncompleteAnnotationException();obj.notify();}}

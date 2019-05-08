@@ -1,0 +1,1 @@
+class java_util_zip_GZIPOutputStream_wait_long{ public static void function() {java.util.zip.GZIPOutputStream obj = new java.util.zip.GZIPOutputStream();obj.wait(-1785064037989181261);}}

@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleState_wait_long_int{ public static void function() {javax.accessibility.AccessibleState obj = new javax.accessibility.AccessibleState();obj.wait(-4424777220764923408,388835874);}}

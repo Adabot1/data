@@ -1,0 +1,1 @@
+class javax_security_auth_login_ConfigurationSpi_wait_long{ public static void function() {javax.security.auth.login.ConfigurationSpi obj = new javax.security.auth.login.ConfigurationSpi();obj.wait(-5510404128733242819);}}

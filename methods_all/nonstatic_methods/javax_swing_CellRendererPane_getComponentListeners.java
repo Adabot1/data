@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_getComponentListeners{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.getComponentListeners();}}

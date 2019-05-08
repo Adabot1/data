@@ -1,0 +1,1 @@
+class java_awt_geom_Arc2D_setFrameFromCenter_double_double_double_double{ public static void function() {java.awt.geom.Arc2D obj = new java.awt.geom.Arc2D();obj.setFrameFromCenter(0.6050754009342715,0.6793499518879397,0.03472524838327096,0.8296746854980378);}}

@@ -1,0 +1,1 @@
+class javax_imageio_IIOImage_getThumbnail_int{ public static void function() {javax.imageio.IIOImage obj = new javax.imageio.IIOImage();obj.getThumbnail(-793873286);}}

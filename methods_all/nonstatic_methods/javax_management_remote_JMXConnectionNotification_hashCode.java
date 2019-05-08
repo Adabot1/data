@@ -1,0 +1,1 @@
+class javax_management_remote_JMXConnectionNotification_hashCode{ public static void function() {javax.management.remote.JMXConnectionNotification obj = new javax.management.remote.JMXConnectionNotification();obj.hashCode();}}

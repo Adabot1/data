@@ -1,0 +1,1 @@
+class java_awt_TextArea_getMinimumSize_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.getMinimumSize(920270716,879462593);}}

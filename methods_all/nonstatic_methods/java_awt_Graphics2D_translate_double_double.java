@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_translate_double_double{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.translate(0.715812788414041,0.3503847350377275);}}

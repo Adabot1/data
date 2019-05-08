@@ -1,0 +1,1 @@
+class java_awt_event_WindowEvent_paramString{ public static void function() {java.awt.event.WindowEvent obj = new java.awt.event.WindowEvent();obj.paramString();}}

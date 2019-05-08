@@ -1,0 +1,1 @@
+class javax_swing_JTable_inside_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.inside(271768165,1703934336);}}

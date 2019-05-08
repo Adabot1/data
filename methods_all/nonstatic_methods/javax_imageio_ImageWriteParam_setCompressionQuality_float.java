@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriteParam_setCompressionQuality_float{ public static void function() {javax.imageio.ImageWriteParam obj = new javax.imageio.ImageWriteParam();obj.setCompressionQuality(0.21577072);}}

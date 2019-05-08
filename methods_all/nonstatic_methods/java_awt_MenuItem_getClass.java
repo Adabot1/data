@@ -1,0 +1,1 @@
+class java_awt_MenuItem_getClass{ public static void function() {java.awt.MenuItem obj = new java.awt.MenuItem();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_awt_Checkbox_getHierarchyListeners{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.getHierarchyListeners();}}

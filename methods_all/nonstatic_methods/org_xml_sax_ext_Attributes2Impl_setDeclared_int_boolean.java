@@ -1,0 +1,1 @@
+class org_xml_sax_ext_Attributes2Impl_setDeclared_int_boolean{ public static void function() {org.xml.sax.ext.Attributes2Impl obj = new org.xml.sax.ext.Attributes2Impl();obj.setDeclared(1789296216,true);}}

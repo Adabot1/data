@@ -1,0 +1,1 @@
+class java_security_AlgorithmParameterGeneratorSpi_toString{ public static void function() {java.security.AlgorithmParameterGeneratorSpi obj = new java.security.AlgorithmParameterGeneratorSpi();obj.toString();}}

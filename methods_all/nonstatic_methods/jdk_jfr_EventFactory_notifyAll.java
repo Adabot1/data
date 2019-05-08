@@ -1,0 +1,1 @@
+class jdk_jfr_EventFactory_notifyAll{ public static void function() {jdk.jfr.EventFactory obj = new jdk.jfr.EventFactory();obj.notifyAll();}}

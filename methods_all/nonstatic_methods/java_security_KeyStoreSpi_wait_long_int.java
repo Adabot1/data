@@ -1,0 +1,1 @@
+class java_security_KeyStoreSpi_wait_long_int{ public static void function() {java.security.KeyStoreSpi obj = new java.security.KeyStoreSpi();obj.wait(-3110762837857960785,772366560);}}

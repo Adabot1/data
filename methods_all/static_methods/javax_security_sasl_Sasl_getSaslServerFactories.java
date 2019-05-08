@@ -1,0 +1,1 @@
+class javax_security_sasl_Sasl_getSaslServerFactories{ public static void function() {javax.security.sasl.Sasl.getSaslServerFactories();}}

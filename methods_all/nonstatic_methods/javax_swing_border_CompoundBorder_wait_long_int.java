@@ -1,0 +1,1 @@
+class javax_swing_border_CompoundBorder_wait_long_int{ public static void function() {javax.swing.border.CompoundBorder obj = new javax.swing.border.CompoundBorder();obj.wait(-6096795379111257847,1874781928);}}

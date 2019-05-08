@@ -1,0 +1,1 @@
+class javax_swing_JSlider_createStandardLabels_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.createStandardLabels(823725716,-505511357);}}

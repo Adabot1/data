@@ -1,0 +1,1 @@
+class java_awt_Container_createVolatileImage_int_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.createVolatileImage(829820595,547646972);}}

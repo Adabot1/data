@@ -1,0 +1,1 @@
+class java_sql_DataTruncation_wait_long_int{ public static void function() {java.sql.DataTruncation obj = new java.sql.DataTruncation();obj.wait(8548546543493980451,-1488829923);}}

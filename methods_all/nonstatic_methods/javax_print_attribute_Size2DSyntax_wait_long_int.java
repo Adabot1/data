@@ -1,0 +1,1 @@
+class javax_print_attribute_Size2DSyntax_wait_long_int{ public static void function() {javax.print.attribute.Size2DSyntax obj = new javax.print.attribute.Size2DSyntax();obj.wait(-765925826634769919,-1449409982);}}

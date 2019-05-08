@@ -1,0 +1,1 @@
+class java_awt_TextArea_getPreferredSize_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.getPreferredSize(143242621,-1229575074);}}

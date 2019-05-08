@@ -1,0 +1,1 @@
+class javax_annotation_processing_AbstractProcessor_wait_long{ public static void function() {javax.annotation.processing.AbstractProcessor obj = new javax.annotation.processing.AbstractProcessor();obj.wait(8637374007219836642);}}

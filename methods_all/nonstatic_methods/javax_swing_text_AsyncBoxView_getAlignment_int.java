@@ -1,0 +1,1 @@
+class javax_swing_text_AsyncBoxView_getAlignment_int{ public static void function() {javax.swing.text.AsyncBoxView obj = new javax.swing.text.AsyncBoxView();obj.getAlignment(1500512550);}}

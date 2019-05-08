@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_XMLReaderFactory_wait_long_int{ public static void function() {org.xml.sax.helpers.XMLReaderFactory obj = new org.xml.sax.helpers.XMLReaderFactory();obj.wait(7374602691644692170,1385588143);}}

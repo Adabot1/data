@@ -1,0 +1,1 @@
+class java_awt_event_InputEvent_getMaskForButton_int{ public static void function() {java.awt.event.InputEvent.getMaskForButton(92106525);}}

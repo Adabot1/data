@@ -1,0 +1,1 @@
+class java_awt_Button_createImage_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.createImage(1876759988,1388722512);}}

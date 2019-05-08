@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_reshape_int_int_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.reshape(1799370454,1207055759,-1233265806,-1407379521);}}

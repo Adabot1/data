@@ -1,0 +1,1 @@
+class javax_swing_text_GlyphView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.GlyphView obj = new javax.swing.text.GlyphView();obj.getBreakWeight(-1989462227,0.036096454,0.17864084);}}

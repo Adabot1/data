@@ -1,0 +1,1 @@
+class javax_naming_LinkRef_remove_int{ public static void function() {javax.naming.LinkRef obj = new javax.naming.LinkRef();obj.remove(-900802462);}}

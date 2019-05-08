@@ -1,0 +1,1 @@
+class javax_security_auth_x500_X500PrivateCredential_wait_long{ public static void function() {javax.security.auth.x500.X500PrivateCredential obj = new javax.security.auth.x500.X500PrivateCredential();obj.wait(508881939549611228);}}

@@ -1,0 +1,1 @@
+class jdk_jfr_Event_getClass{ public static void function() {jdk.jfr.Event obj = new jdk.jfr.Event();obj.getClass();}}

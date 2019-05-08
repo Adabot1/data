@@ -1,0 +1,1 @@
+class java_util_ListResourceBundle_wait_long_int{ public static void function() {java.util.ListResourceBundle obj = new java.util.ListResourceBundle();obj.wait(6839452742391532248,-1991031901);}}

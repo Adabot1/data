@@ -1,0 +1,1 @@
+class java_time_YearMonth_wait_long_int{ public static void function() {java.time.YearMonth obj = new java.time.YearMonth();obj.wait(-8794648001389717519,-1005835162);}}

@@ -1,0 +1,1 @@
+class javax_xml_stream_XMLOutputFactory_hashCode{ public static void function() {javax.xml.stream.XMLOutputFactory obj = new javax.xml.stream.XMLOutputFactory();obj.hashCode();}}

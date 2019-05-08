@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_ParserDelegator_wait_long{ public static void function() {javax.swing.text.html.parser.ParserDelegator obj = new javax.swing.text.html.parser.ParserDelegator();obj.wait(6196882839132214227);}}

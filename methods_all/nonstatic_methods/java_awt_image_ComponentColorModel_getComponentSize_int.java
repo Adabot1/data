@@ -1,0 +1,1 @@
+class java_awt_image_ComponentColorModel_getComponentSize_int{ public static void function() {java.awt.image.ComponentColorModel obj = new java.awt.image.ComponentColorModel();obj.getComponentSize(1640991499);}}

@@ -1,0 +1,1 @@
+class java_awt_GridBagLayout_location_int_int{ public static void function() {java.awt.GridBagLayout obj = new java.awt.GridBagLayout();obj.location(-1912631541,456013979);}}

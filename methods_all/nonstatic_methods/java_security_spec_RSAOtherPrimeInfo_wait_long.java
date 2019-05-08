@@ -1,0 +1,1 @@
+class java_security_spec_RSAOtherPrimeInfo_wait_long{ public static void function() {java.security.spec.RSAOtherPrimeInfo obj = new java.security.spec.RSAOtherPrimeInfo();obj.wait(8940503080246526398);}}

@@ -1,0 +1,1 @@
+class javax_swing_JApplet_setBounds_int_int_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.setBounds(-1089747265,494266120,-575629477,-141235950);}}

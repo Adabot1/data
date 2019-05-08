@@ -1,0 +1,1 @@
+class java_beans_SimpleBeanInfo_getIcon_int{ public static void function() {java.beans.SimpleBeanInfo obj = new java.beans.SimpleBeanInfo();obj.getIcon(88209916);}}

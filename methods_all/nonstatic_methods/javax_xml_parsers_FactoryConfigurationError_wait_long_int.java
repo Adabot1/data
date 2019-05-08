@@ -1,0 +1,1 @@
+class javax_xml_parsers_FactoryConfigurationError_wait_long_int{ public static void function() {javax.xml.parsers.FactoryConfigurationError obj = new javax.xml.parsers.FactoryConfigurationError();obj.wait(4824550278653233141,1161968006);}}

@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_minusNanos_long{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.minusNanos(-2330624759340533392);}}

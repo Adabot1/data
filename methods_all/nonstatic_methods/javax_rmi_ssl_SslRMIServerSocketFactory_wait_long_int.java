@@ -1,0 +1,1 @@
+class javax_rmi_ssl_SslRMIServerSocketFactory_wait_long_int{ public static void function() {javax.rmi.ssl.SslRMIServerSocketFactory obj = new javax.rmi.ssl.SslRMIServerSocketFactory();obj.wait(531339835133427617,-1305636173);}}

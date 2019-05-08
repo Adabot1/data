@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_TransformException_wait_long_int{ public static void function() {javax.xml.crypto.dsig.TransformException obj = new javax.xml.crypto.dsig.TransformException();obj.wait(6473957715336386666,-902766907);}}

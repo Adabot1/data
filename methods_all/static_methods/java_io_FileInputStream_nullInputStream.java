@@ -1,0 +1,1 @@
+class java_io_FileInputStream_nullInputStream{ public static void function() {java.io.FileInputStream.nullInputStream();}}

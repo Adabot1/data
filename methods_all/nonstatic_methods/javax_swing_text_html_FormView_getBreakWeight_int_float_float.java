@@ -1,0 +1,1 @@
+class javax_swing_text_html_FormView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.html.FormView obj = new javax.swing.text.html.FormView();obj.getBreakWeight(-1986341873,0.9958643,0.46987695);}}

@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_getScaleInstance_double_double{ public static void function() {java.awt.geom.AffineTransform.getScaleInstance(0.7466474754766398,0.04704755765021418);}}

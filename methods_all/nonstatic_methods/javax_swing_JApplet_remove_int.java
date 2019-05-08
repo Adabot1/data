@@ -1,0 +1,1 @@
+class javax_swing_JApplet_remove_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.remove(-1291886886);}}

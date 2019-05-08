@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_Sides_clone{ public static void function() {javax.print.attribute.standard.Sides obj = new javax.print.attribute.standard.Sides();obj.clone();}}

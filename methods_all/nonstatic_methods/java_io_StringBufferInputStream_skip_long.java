@@ -1,0 +1,1 @@
+class java_io_StringBufferInputStream_skip_long{ public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();obj.skip(6771466743916746097);}}

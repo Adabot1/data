@@ -1,0 +1,1 @@
+class javax_management_modelmbean_DescriptorSupport_toXMLString{ public static void function() {javax.management.modelmbean.DescriptorSupport obj = new javax.management.modelmbean.DescriptorSupport();obj.toXMLString();}}

@@ -1,0 +1,1 @@
+class java_time_Duration_minusDays_long{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.minusDays(-8106565113506248682);}}

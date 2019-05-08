@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.paintImmediately(-60049522,2073220292,-1163324793,-531998725);}}

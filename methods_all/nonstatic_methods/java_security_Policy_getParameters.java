@@ -1,0 +1,1 @@
+class java_security_Policy_getParameters{ public static void function() {java.security.Policy obj = new java.security.Policy();obj.getParameters();}}

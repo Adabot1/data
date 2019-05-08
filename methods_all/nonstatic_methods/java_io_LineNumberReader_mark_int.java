@@ -1,0 +1,1 @@
+class java_io_LineNumberReader_mark_int{ public static void function() {java.io.LineNumberReader obj = new java.io.LineNumberReader();obj.mark(810049549);}}

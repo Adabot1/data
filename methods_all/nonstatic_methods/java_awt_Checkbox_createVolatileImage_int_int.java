@@ -1,0 +1,1 @@
+class java_awt_Checkbox_createVolatileImage_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.createVolatileImage(896024059,1288574896);}}

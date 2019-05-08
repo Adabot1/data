@@ -1,0 +1,1 @@
+class javax_print_attribute_ResolutionSyntax_toString{ public static void function() {javax.print.attribute.ResolutionSyntax obj = new javax.print.attribute.ResolutionSyntax();obj.toString();}}

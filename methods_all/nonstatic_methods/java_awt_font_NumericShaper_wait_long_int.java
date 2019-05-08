@@ -1,0 +1,1 @@
+class java_awt_font_NumericShaper_wait_long_int{ public static void function() {java.awt.font.NumericShaper obj = new java.awt.font.NumericShaper();obj.wait(3031748718229615630,698491929);}}

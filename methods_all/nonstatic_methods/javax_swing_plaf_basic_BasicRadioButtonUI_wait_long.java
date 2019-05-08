@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicRadioButtonUI_wait_long{ public static void function() {javax.swing.plaf.basic.BasicRadioButtonUI obj = new javax.swing.plaf.basic.BasicRadioButtonUI();obj.wait(7361357675841910977);}}

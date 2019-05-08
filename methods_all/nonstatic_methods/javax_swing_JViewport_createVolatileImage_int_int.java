@@ -1,0 +1,1 @@
+class javax_swing_JViewport_createVolatileImage_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.createVolatileImage(-83062031,1886258387);}}

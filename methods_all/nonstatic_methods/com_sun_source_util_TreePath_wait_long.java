@@ -1,0 +1,1 @@
+class com_sun_source_util_TreePath_wait_long{ public static void function() {com.sun.source.util.TreePath obj = new com.sun.source.util.TreePath();obj.wait(-2077049086521607373);}}

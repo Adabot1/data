@@ -1,0 +1,1 @@
+class java_security_Identity_wait_long_int{ public static void function() {java.security.Identity obj = new java.security.Identity();obj.wait(-6031107591812834158,-521772077);}}

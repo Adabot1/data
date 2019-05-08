@@ -1,0 +1,1 @@
+class javax_security_auth_callback_PasswordCallback_wait_long_int{ public static void function() {javax.security.auth.callback.PasswordCallback obj = new javax.security.auth.callback.PasswordCallback();obj.wait(7658872985068047222,-1265229886);}}

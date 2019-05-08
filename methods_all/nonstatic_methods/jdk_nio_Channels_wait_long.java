@@ -1,0 +1,1 @@
+class jdk_nio_Channels_wait_long{ public static void function() {jdk.nio.Channels obj = new jdk.nio.Channels();obj.wait(7475611161332349897);}}

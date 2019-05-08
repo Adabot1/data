@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_findComponentAt_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.findComponentAt(-2018373060,755342115);}}

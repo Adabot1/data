@@ -1,0 +1,1 @@
+class javax_swing_text_PlainDocument_getParagraphElement_int{ public static void function() {javax.swing.text.PlainDocument obj = new javax.swing.text.PlainDocument();obj.getParagraphElement(-1164249722);}}

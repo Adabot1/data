@@ -1,0 +1,1 @@
+class java_awt_Container_wait_long{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.wait(-1537874857024196877);}}

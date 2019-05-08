@@ -1,0 +1,1 @@
+class javax_swing_text_html_ListView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.html.ListView obj = new javax.swing.text.html.ListView();obj.getBreakWeight(1166691202,0.19423598,0.44765627);}}

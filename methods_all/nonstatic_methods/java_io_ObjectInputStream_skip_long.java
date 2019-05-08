@@ -1,0 +1,1 @@
+class java_io_ObjectInputStream_skip_long{ public static void function() {java.io.ObjectInputStream obj = new java.io.ObjectInputStream();obj.skip(7742632581901171188);}}

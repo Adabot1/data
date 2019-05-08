@@ -1,0 +1,1 @@
+class javax_swing_border_EmptyBorder_isBorderOpaque{ public static void function() {javax.swing.border.EmptyBorder obj = new javax.swing.border.EmptyBorder();obj.isBorderOpaque();}}

@@ -1,0 +1,1 @@
+class java_awt_AWTEvent_toString{ public static void function() {java.awt.AWTEvent obj = new java.awt.AWTEvent();obj.toString();}}

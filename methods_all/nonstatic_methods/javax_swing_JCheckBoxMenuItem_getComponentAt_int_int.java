@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_getComponentAt_int_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.getComponentAt(-2130188068,1481815342);}}

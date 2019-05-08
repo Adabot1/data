@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_NamespaceSupport_wait_long_int{ public static void function() {org.xml.sax.helpers.NamespaceSupport obj = new org.xml.sax.helpers.NamespaceSupport();obj.wait(3212598405897293124,-1118351629);}}

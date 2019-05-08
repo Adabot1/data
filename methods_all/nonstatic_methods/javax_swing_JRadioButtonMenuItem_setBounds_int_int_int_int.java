@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_setBounds_int_int_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.setBounds(2001353737,-1452036321,237384581,1221039370);}}

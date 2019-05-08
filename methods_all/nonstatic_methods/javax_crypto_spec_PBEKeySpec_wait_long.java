@@ -1,0 +1,1 @@
+class javax_crypto_spec_PBEKeySpec_wait_long{ public static void function() {javax.crypto.spec.PBEKeySpec obj = new javax.crypto.spec.PBEKeySpec();obj.wait(6825076300064573433);}}

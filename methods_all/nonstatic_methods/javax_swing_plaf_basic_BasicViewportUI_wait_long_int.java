@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicViewportUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicViewportUI obj = new javax.swing.plaf.basic.BasicViewportUI();obj.wait(-4552087217759594191,4675712);}}

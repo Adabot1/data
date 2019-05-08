@@ -1,0 +1,1 @@
+class javax_crypto_SecretKeyFactory_wait_long{ public static void function() {javax.crypto.SecretKeyFactory obj = new javax.crypto.SecretKeyFactory();obj.wait(-3155695428121049687);}}

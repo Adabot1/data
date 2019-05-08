@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_setMultiClickThreshhold_long{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.setMultiClickThreshhold(8261232747066726498);}}

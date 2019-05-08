@@ -1,0 +1,1 @@
+class java_text_ParseException_getStackTrace{ public static void function() {java.text.ParseException obj = new java.text.ParseException();obj.getStackTrace();}}

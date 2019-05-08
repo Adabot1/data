@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_setBounds_int_int_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.setBounds(958158481,-2096994722,1885625732,-1587663367);}}

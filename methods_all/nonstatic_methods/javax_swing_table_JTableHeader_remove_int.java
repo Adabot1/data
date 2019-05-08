@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_remove_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.remove(-1681618274);}}

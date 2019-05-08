@@ -1,0 +1,1 @@
+class javax_management_relation_RoleUnresolved_wait_long_int{ public static void function() {javax.management.relation.RoleUnresolved obj = new javax.management.relation.RoleUnresolved();obj.wait(-3243726769504799245,1794127643);}}

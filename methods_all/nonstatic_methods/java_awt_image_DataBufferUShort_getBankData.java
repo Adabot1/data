@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferUShort_getBankData{ public static void function() {java.awt.image.DataBufferUShort obj = new java.awt.image.DataBufferUShort();obj.getBankData();}}

@@ -1,0 +1,1 @@
+class java_io_StringBufferInputStream_wait_long{ public static void function() {java.io.StringBufferInputStream obj = new java.io.StringBufferInputStream();obj.wait(3508971723056365072);}}

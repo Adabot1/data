@@ -1,0 +1,1 @@
+class javax_swing_ProgressMonitorInputStream_skip_long{ public static void function() {javax.swing.ProgressMonitorInputStream obj = new javax.swing.ProgressMonitorInputStream();obj.skip(6558341786821547111);}}

@@ -1,0 +1,1 @@
+class java_rmi_server_LogStream_print_double{ public static void function() {java.rmi.server.LogStream obj = new java.rmi.server.LogStream();obj.print(0.7070144650389258);}}

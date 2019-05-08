@@ -1,0 +1,1 @@
+class java_nio_file_FileSystems_wait_long_int{ public static void function() {java.nio.file.FileSystems obj = new java.nio.file.FileSystems();obj.wait(1837547414177345524,-1820600039);}}

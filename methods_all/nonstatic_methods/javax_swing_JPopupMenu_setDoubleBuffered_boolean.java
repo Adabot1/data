@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_setDoubleBuffered_boolean{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.setDoubleBuffered(false);}}

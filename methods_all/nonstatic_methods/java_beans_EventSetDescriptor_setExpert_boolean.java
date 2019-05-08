@@ -1,0 +1,1 @@
+class java_beans_EventSetDescriptor_setExpert_boolean{ public static void function() {java.beans.EventSetDescriptor obj = new java.beans.EventSetDescriptor();obj.setExpert(false);}}

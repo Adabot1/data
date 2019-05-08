@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_setBounds_int_int_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.setBounds(-1124285916,1495190975,1757345390,177145245);}}

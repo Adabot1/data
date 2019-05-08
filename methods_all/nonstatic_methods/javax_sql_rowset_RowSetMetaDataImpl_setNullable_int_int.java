@@ -1,0 +1,1 @@
+class javax_sql_rowset_RowSetMetaDataImpl_setNullable_int_int{ public static void function() {javax.sql.rowset.RowSetMetaDataImpl obj = new javax.sql.rowset.RowSetMetaDataImpl();obj.setNullable(650947789,1528767784);}}

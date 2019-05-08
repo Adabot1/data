@@ -1,0 +1,1 @@
+class javax_swing_text_ComponentView_setSize_float_float{ public static void function() {javax.swing.text.ComponentView obj = new javax.swing.text.ComponentView();obj.setSize(0.48540163,0.9986063);}}

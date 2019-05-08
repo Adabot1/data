@@ -1,0 +1,1 @@
+class javax_swing_plaf_TextUI_wait_long_int{ public static void function() {javax.swing.plaf.TextUI obj = new javax.swing.plaf.TextUI();obj.wait(4582740149007713402,294577098);}}

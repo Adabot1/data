@@ -1,0 +1,1 @@
+class java_beans_Introspector_getBeanInfoSearchPath{ public static void function() {java.beans.Introspector.getBeanInfoSearchPath();}}

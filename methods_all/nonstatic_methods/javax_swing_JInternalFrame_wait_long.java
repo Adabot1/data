@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_wait_long{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.wait(-4289582094008760572);}}

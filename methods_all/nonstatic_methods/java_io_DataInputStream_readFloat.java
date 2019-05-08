@@ -1,0 +1,1 @@
+class java_io_DataInputStream_readFloat{ public static void function() {java.io.DataInputStream obj = new java.io.DataInputStream();obj.readFloat();}}

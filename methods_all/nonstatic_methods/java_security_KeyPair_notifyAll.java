@@ -1,0 +1,1 @@
+class java_security_KeyPair_notifyAll{ public static void function() {java.security.KeyPair obj = new java.security.KeyPair();obj.notifyAll();}}

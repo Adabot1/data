@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobMediaSheetsSupported_contains_int{ public static void function() {javax.print.attribute.standard.JobMediaSheetsSupported obj = new javax.print.attribute.standard.JobMediaSheetsSupported();obj.contains(-374542833);}}

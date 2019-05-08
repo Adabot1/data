@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiDesktopPaneUI_getClass{ public static void function() {javax.swing.plaf.multi.MultiDesktopPaneUI obj = new javax.swing.plaf.multi.MultiDesktopPaneUI();obj.getClass();}}

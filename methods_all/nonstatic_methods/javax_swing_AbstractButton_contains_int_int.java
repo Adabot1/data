@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_contains_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.contains(-753197741,890965043);}}

@@ -1,0 +1,1 @@
+class java_security_cert_X509CRLEntry_wait_long_int{ public static void function() {java.security.cert.X509CRLEntry obj = new java.security.cert.X509CRLEntry();obj.wait(-8868281671589599356,1279345304);}}

@@ -1,0 +1,1 @@
+class java_awt_GridLayout_setColumns_int{ public static void function() {java.awt.GridLayout obj = new java.awt.GridLayout();obj.setColumns(-1089740338);}}

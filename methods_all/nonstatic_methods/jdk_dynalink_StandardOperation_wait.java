@@ -1,0 +1,1 @@
+class jdk_dynalink_StandardOperation_wait{ public static void function() {jdk.dynalink.StandardOperation obj = new jdk.dynalink.StandardOperation();obj.wait();}}

@@ -1,0 +1,1 @@
+class java_awt_Taskbar_requestUserAttention_boolean_boolean{ public static void function() {java.awt.Taskbar obj = new java.awt.Taskbar();obj.requestUserAttention(false,true);}}

@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_getInputContext{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.getInputContext();}}

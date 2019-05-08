@@ -1,0 +1,1 @@
+class javax_swing_border_TitledBorder_wait_long{ public static void function() {javax.swing.border.TitledBorder obj = new javax.swing.border.TitledBorder();obj.wait(8199280785674399490);}}

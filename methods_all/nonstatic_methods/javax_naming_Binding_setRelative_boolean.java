@@ -1,0 +1,1 @@
+class javax_naming_Binding_setRelative_boolean{ public static void function() {javax.naming.Binding obj = new javax.naming.Binding();obj.setRelative(false);}}

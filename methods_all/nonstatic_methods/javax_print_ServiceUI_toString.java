@@ -1,0 +1,1 @@
+class javax_print_ServiceUI_toString{ public static void function() {javax.print.ServiceUI obj = new javax.print.ServiceUI();obj.toString();}}

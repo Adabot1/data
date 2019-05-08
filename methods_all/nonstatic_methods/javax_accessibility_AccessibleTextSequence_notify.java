@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleTextSequence_notify{ public static void function() {javax.accessibility.AccessibleTextSequence obj = new javax.accessibility.AccessibleTextSequence();obj.notify();}}

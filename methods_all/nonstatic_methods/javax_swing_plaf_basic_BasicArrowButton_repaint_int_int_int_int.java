@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicArrowButton_repaint_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicArrowButton obj = new javax.swing.plaf.basic.BasicArrowButton();obj.repaint(-798164288,-1310816138,1572670419,-1478906531);}}

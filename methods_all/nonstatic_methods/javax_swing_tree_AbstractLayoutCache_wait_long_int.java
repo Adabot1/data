@@ -1,0 +1,1 @@
+class javax_swing_tree_AbstractLayoutCache_wait_long_int{ public static void function() {javax.swing.tree.AbstractLayoutCache obj = new javax.swing.tree.AbstractLayoutCache();obj.wait(-4035348541232343188,1550368212);}}

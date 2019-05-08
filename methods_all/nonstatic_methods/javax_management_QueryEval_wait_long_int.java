@@ -1,0 +1,1 @@
+class javax_management_QueryEval_wait_long_int{ public static void function() {javax.management.QueryEval obj = new javax.management.QueryEval();obj.wait(-1116008683534826916,2137702952);}}

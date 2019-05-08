@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthButtonUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthButtonUI obj = new javax.swing.plaf.synth.SynthButtonUI();obj.wait(8639377315151481134,718563720);}}

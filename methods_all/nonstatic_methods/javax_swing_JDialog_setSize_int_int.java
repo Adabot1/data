@@ -1,0 +1,1 @@
+class javax_swing_JDialog_setSize_int_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.setSize(1438593725,-284591237);}}

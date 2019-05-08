@@ -1,0 +1,1 @@
+class java_security_Permission_newPermissionCollection{ public static void function() {java.security.Permission obj = new java.security.Permission();obj.newPermissionCollection();}}

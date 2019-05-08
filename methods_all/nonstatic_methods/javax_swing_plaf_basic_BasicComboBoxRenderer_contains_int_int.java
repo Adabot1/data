@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboBoxRenderer_contains_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboBoxRenderer obj = new javax.swing.plaf.basic.BasicComboBoxRenderer();obj.contains(-1413379804,71549354);}}

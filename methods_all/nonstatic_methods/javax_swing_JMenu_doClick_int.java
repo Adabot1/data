@@ -1,0 +1,1 @@
+class javax_swing_JMenu_doClick_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.doClick(-49456423);}}

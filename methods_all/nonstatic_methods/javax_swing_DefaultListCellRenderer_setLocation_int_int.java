@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_setLocation_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.setLocation(1670409456,-1973528630);}}

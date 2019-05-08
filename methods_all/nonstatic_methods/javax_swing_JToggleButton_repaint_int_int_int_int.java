@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_repaint_int_int_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.repaint(250402002,2032869053,-1723760580,-795888813);}}

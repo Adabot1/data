@@ -1,0 +1,1 @@
+class java_text_Format_wait_long_int{ public static void function() {java.text.Format obj = new java.text.Format();obj.wait(-7252526778658409693,2070181329);}}

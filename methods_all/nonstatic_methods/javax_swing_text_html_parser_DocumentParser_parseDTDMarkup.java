@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_DocumentParser_parseDTDMarkup{ public static void function() {javax.swing.text.html.parser.DocumentParser obj = new javax.swing.text.html.parser.DocumentParser();obj.parseDTDMarkup();}}

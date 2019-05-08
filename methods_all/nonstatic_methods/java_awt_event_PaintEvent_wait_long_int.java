@@ -1,0 +1,1 @@
+class java_awt_event_PaintEvent_wait_long_int{ public static void function() {java.awt.event.PaintEvent obj = new java.awt.event.PaintEvent();obj.wait(8726479586237483684,1294258382);}}

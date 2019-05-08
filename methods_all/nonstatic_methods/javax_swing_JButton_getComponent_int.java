@@ -1,0 +1,1 @@
+class javax_swing_JButton_getComponent_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.getComponent(-1036359790);}}

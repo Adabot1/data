@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_wait_long_int{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.wait(-939526540052197687,688158561);}}

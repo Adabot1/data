@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_resize_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.resize(-1489395655,-509748275);}}

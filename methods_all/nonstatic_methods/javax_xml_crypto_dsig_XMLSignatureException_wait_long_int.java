@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_XMLSignatureException_wait_long_int{ public static void function() {javax.xml.crypto.dsig.XMLSignatureException obj = new javax.xml.crypto.dsig.XMLSignatureException();obj.wait(-2118495124659464115,-1787445988);}}

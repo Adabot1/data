@@ -1,0 +1,1 @@
+class java_security_spec_ECFieldFp_wait_long{ public static void function() {java.security.spec.ECFieldFp obj = new java.security.spec.ECFieldFp();obj.wait(-6715337901712463444);}}

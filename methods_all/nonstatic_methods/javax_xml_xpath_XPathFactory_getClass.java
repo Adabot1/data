@@ -1,0 +1,1 @@
+class javax_xml_xpath_XPathFactory_getClass{ public static void function() {javax.xml.xpath.XPathFactory obj = new javax.xml.xpath.XPathFactory();obj.getClass();}}

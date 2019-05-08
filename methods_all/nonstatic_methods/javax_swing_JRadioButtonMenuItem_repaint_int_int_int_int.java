@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_repaint_int_int_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.repaint(2138071902,-2139457106,2108096046,1188455767);}}

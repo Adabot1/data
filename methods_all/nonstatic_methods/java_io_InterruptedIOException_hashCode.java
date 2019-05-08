@@ -1,0 +1,1 @@
+class java_io_InterruptedIOException_hashCode{ public static void function() {java.io.InterruptedIOException obj = new java.io.InterruptedIOException();obj.hashCode();}}

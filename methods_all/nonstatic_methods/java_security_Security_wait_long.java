@@ -1,0 +1,1 @@
+class java_security_Security_wait_long{ public static void function() {java.security.Security obj = new java.security.Security();obj.wait(6451215737576800280);}}

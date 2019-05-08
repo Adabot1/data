@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthToolBarUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthToolBarUI obj = new javax.swing.plaf.synth.SynthToolBarUI();obj.wait(-9098748559571005008);}}

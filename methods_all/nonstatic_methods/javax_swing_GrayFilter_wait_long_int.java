@@ -1,0 +1,1 @@
+class javax_swing_GrayFilter_wait_long_int{ public static void function() {javax.swing.GrayFilter obj = new javax.swing.GrayFilter();obj.wait(-5331700127400583371,34706434);}}

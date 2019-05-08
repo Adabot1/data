@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_isOptimizedDrawingEnabled{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.isOptimizedDrawingEnabled();}}

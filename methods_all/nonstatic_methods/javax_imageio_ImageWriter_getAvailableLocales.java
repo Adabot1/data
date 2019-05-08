@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriter_getAvailableLocales{ public static void function() {javax.imageio.ImageWriter obj = new javax.imageio.ImageWriter();obj.getAvailableLocales();}}

@@ -1,0 +1,1 @@
+class javax_swing_table_TableColumn_setWidth_int{ public static void function() {javax.swing.table.TableColumn obj = new javax.swing.table.TableColumn();obj.setWidth(1619749523);}}

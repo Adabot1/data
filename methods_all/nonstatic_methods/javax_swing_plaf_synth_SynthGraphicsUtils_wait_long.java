@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthGraphicsUtils_wait_long{ public static void function() {javax.swing.plaf.synth.SynthGraphicsUtils obj = new javax.swing.plaf.synth.SynthGraphicsUtils();obj.wait(6205464917264070618);}}

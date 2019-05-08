@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_reshape_int_int_int_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.reshape(2095689332,1992234021,726727830,1446891021);}}

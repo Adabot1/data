@@ -1,0 +1,1 @@
+class java_util_FormattableFlags_wait_long{ public static void function() {java.util.FormattableFlags obj = new java.util.FormattableFlags();obj.wait(-3416433506220468861);}}

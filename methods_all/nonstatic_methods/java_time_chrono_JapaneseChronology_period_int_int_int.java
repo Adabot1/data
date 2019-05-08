@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_period_int_int_int{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.period(1772536030,-1418120045,1742774382);}}

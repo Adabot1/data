@@ -1,0 +1,1 @@
+class java_net_http_HttpHeaders_wait_long_int{ public static void function() {java.net.http.HttpHeaders obj = new java.net.http.HttpHeaders();obj.wait(4579377436228867307,366102606);}}

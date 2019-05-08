@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_findComponentAt_int_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.findComponentAt(1634453092,1361769884);}}

@@ -1,0 +1,1 @@
+class java_security_spec_X509EncodedKeySpec_wait_long_int{ public static void function() {java.security.spec.X509EncodedKeySpec obj = new java.security.spec.X509EncodedKeySpec();obj.wait(3089436522900640914,-1545418688);}}

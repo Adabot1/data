@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_createVolatileImage_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.createVolatileImage(1003326342,1747239491);}}

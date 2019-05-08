@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableColumnModel_moveColumn_int_int{ public static void function() {javax.swing.table.DefaultTableColumnModel obj = new javax.swing.table.DefaultTableColumnModel();obj.moveColumn(555002639,1492061140);}}

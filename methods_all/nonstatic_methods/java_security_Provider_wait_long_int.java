@@ -1,0 +1,1 @@
+class java_security_Provider_wait_long_int{ public static void function() {java.security.Provider obj = new java.security.Provider();obj.wait(4111740476136177369,1783833267);}}

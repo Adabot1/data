@@ -1,0 +1,1 @@
+class java_awt_geom_Rectangle2D_outcode_double_double{ public static void function() {java.awt.geom.Rectangle2D obj = new java.awt.geom.Rectangle2D();obj.outcode(0.25359501111505844,0.307757282962683);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthCheckBoxMenuItemUI_toString{ public static void function() {javax.swing.plaf.synth.SynthCheckBoxMenuItemUI obj = new javax.swing.plaf.synth.SynthCheckBoxMenuItemUI();obj.toString();}}

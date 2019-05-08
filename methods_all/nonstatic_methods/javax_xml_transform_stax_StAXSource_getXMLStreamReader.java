@@ -1,0 +1,1 @@
+class javax_xml_transform_stax_StAXSource_getXMLStreamReader{ public static void function() {javax.xml.transform.stax.StAXSource obj = new javax.xml.transform.stax.StAXSource();obj.getXMLStreamReader();}}

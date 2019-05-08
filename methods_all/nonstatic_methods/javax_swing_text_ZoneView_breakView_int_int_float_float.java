@@ -1,0 +1,1 @@
+class javax_swing_text_ZoneView_breakView_int_int_float_float{ public static void function() {javax.swing.text.ZoneView obj = new javax.swing.text.ZoneView();obj.breakView(569561355,-1926141514,0.5871386,0.18790156);}}

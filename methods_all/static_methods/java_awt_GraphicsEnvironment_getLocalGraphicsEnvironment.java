@@ -1,0 +1,1 @@
+class java_awt_GraphicsEnvironment_getLocalGraphicsEnvironment{ public static void function() {java.awt.GraphicsEnvironment.getLocalGraphicsEnvironment();}}

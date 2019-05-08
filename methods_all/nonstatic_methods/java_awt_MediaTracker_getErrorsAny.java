@@ -1,0 +1,1 @@
+class java_awt_MediaTracker_getErrorsAny{ public static void function() {java.awt.MediaTracker obj = new java.awt.MediaTracker();obj.getErrorsAny();}}

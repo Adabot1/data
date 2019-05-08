@@ -1,0 +1,1 @@
+class javax_swing_DefaultListSelectionModel_clone{ public static void function() {javax.swing.DefaultListSelectionModel obj = new javax.swing.DefaultListSelectionModel();obj.clone();}}

@@ -1,0 +1,1 @@
+class jdk_jshell_Snippet_notifyAll{ public static void function() {jdk.jshell.Snippet obj = new jdk.jshell.Snippet();obj.notifyAll();}}

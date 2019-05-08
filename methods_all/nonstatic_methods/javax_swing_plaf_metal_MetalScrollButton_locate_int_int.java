@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollButton_locate_int_int{ public static void function() {javax.swing.plaf.metal.MetalScrollButton obj = new javax.swing.plaf.metal.MetalScrollButton();obj.locate(-1028417231,2099569097);}}

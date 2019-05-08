@@ -1,0 +1,1 @@
+class java_awt_geom_Ellipse2D_intersects_double_double_double_double{ public static void function() {java.awt.geom.Ellipse2D obj = new java.awt.geom.Ellipse2D();obj.intersects(0.20183752487644702,0.3925110496439651,0.6576120257348909,0.7942933267011468);}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_setSize_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.setSize(1514548998,841015024);}}

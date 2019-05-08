@@ -1,0 +1,1 @@
+class java_net_SecureCacheResponse_getServerCertificateChain{ public static void function() {java.net.SecureCacheResponse obj = new java.net.SecureCacheResponse();obj.getServerCertificateChain();}}

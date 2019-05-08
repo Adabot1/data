@@ -1,0 +1,1 @@
+class java_awt_image_AbstractMultiResolutionImage_getResolutionVariant_double_double{ public static void function() {java.awt.image.AbstractMultiResolutionImage obj = new java.awt.image.AbstractMultiResolutionImage();obj.getResolutionVariant(0.2201424983573249,0.22874034389259656);}}

@@ -1,0 +1,1 @@
+class javax_management_openmbean_OpenMBeanOperationInfoSupport_clone{ public static void function() {javax.management.openmbean.OpenMBeanOperationInfoSupport obj = new javax.management.openmbean.OpenMBeanOperationInfoSupport();obj.clone();}}

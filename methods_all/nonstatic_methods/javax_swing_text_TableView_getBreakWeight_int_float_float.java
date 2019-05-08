@@ -1,0 +1,1 @@
+class javax_swing_text_TableView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.TableView obj = new javax.swing.text.TableView();obj.getBreakWeight(-1060282601,0.4570176,0.8404154);}}

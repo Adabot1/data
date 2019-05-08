@@ -1,0 +1,1 @@
+class java_awt_Robot_delay_int{ public static void function() {java.awt.Robot obj = new java.awt.Robot();obj.delay(2122267777);}}

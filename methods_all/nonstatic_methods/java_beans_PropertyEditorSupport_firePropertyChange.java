@@ -1,0 +1,1 @@
+class java_beans_PropertyEditorSupport_firePropertyChange{ public static void function() {java.beans.PropertyEditorSupport obj = new java.beans.PropertyEditorSupport();obj.firePropertyChange();}}

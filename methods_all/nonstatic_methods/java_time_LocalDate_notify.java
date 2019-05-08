@@ -1,0 +1,1 @@
+class java_time_LocalDate_notify{ public static void function() {java.time.LocalDate obj = new java.time.LocalDate();obj.notify();}}

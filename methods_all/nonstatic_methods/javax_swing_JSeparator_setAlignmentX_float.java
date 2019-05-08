@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_setAlignmentX_float{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.setAlignmentX(0.87150675);}}

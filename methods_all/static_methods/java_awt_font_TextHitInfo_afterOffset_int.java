@@ -1,0 +1,1 @@
+class java_awt_font_TextHitInfo_afterOffset_int{ public static void function() {java.awt.font.TextHitInfo.afterOffset(2085152802);}}

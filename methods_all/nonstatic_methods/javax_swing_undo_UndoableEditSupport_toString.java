@@ -1,0 +1,1 @@
+class javax_swing_undo_UndoableEditSupport_toString{ public static void function() {javax.swing.undo.UndoableEditSupport obj = new javax.swing.undo.UndoableEditSupport();obj.toString();}}

@@ -1,0 +1,1 @@
+class java_rmi_server_UnicastRemoteObject_wait_long{ public static void function() {java.rmi.server.UnicastRemoteObject obj = new java.rmi.server.UnicastRemoteObject();obj.wait(-1444279106379484331);}}

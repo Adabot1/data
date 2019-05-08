@@ -1,0 +1,1 @@
+class javax_swing_JLabel_getAlignmentX{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.getAlignmentX();}}

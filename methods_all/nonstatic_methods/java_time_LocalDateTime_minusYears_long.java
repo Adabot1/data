@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_minusYears_long{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.minusYears(-4487011314478945408);}}

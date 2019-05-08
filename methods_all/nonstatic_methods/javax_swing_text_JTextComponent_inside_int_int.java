@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_inside_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.inside(407056353,-1386698810);}}

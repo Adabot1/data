@@ -1,0 +1,1 @@
+class java_util_concurrent_Semaphore_wait_long{ public static void function() {java.util.concurrent.Semaphore obj = new java.util.concurrent.Semaphore();obj.wait(4279316486018367438);}}

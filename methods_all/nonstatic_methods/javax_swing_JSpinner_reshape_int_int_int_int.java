@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_reshape_int_int_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.reshape(-1948986914,-1390413083,-579716340,1121635019);}}

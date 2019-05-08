@@ -1,0 +1,1 @@
+class java_awt_image_LookupOp_notifyAll{ public static void function() {java.awt.image.LookupOp obj = new java.awt.image.LookupOp();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.paintImmediately(-801233679,-856838422,2105838125,925576797);}}

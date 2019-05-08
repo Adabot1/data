@@ -1,0 +1,1 @@
+class java_security_URIParameter_wait_long_int{ public static void function() {java.security.URIParameter obj = new java.security.URIParameter();obj.wait(-669478351510743431,-792145775);}}

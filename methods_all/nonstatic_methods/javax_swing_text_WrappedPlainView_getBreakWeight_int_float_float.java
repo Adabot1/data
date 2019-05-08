@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.getBreakWeight(-66905293,0.31630343,0.21907371);}}

@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOMetadata_reset{ public static void function() {javax.imageio.metadata.IIOMetadata obj = new javax.imageio.metadata.IIOMetadata();obj.reset();}}

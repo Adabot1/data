@@ -1,0 +1,1 @@
+class javax_management_openmbean_OpenMBeanConstructorInfoSupport_notifyAll{ public static void function() {javax.management.openmbean.OpenMBeanConstructorInfoSupport obj = new javax.management.openmbean.OpenMBeanConstructorInfoSupport();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_getAlignment_int{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.getAlignment(-386928499);}}

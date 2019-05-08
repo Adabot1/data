@@ -1,0 +1,1 @@
+class java_awt_Label_setSize_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.setSize(535402433,-287603590);}}

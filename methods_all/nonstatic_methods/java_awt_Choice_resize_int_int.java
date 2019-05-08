@@ -1,0 +1,1 @@
+class java_awt_Choice_resize_int_int{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.resize(-1773787344,390698240);}}

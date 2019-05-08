@@ -1,0 +1,1 @@
+class java_time_LocalTime_plusHours_long{ public static void function() {java.time.LocalTime obj = new java.time.LocalTime();obj.plusHours(9055313743094304816);}}

@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_remove_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.remove(-997324468);}}

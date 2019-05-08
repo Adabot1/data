@@ -1,0 +1,1 @@
+class java_awt_List_getLocale{ public static void function() {java.awt.List obj = new java.awt.List();obj.getLocale();}}

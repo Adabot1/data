@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalBorders_wait_long{ public static void function() {javax.swing.plaf.metal.MetalBorders obj = new javax.swing.plaf.metal.MetalBorders();obj.wait(2189295519715615753);}}

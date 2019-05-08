@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialClob_setCharacterStream_long{ public static void function() {javax.sql.rowset.serial.SerialClob obj = new javax.sql.rowset.serial.SerialClob();obj.setCharacterStream(7416082940875381105);}}

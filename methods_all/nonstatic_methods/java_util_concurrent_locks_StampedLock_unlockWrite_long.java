@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_unlockWrite_long{ public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();obj.unlockWrite(4717101295340442603);}}

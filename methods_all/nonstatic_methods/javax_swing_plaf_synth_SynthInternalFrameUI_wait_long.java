@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthInternalFrameUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthInternalFrameUI obj = new javax.swing.plaf.synth.SynthInternalFrameUI();obj.wait(8915778070830244941);}}

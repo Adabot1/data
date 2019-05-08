@@ -1,0 +1,1 @@
+class javax_security_cert_X509Certificate_wait_long_int{ public static void function() {javax.security.cert.X509Certificate obj = new javax.security.cert.X509Certificate();obj.wait(1516105474229694012,-603694951);}}

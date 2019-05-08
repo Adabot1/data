@@ -1,0 +1,1 @@
+class javax_swing_JTextField_createImage_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.createImage(-159765196,118815732);}}

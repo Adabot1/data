@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_put_int_byte{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.put(-92509083,[B@f4168b8);}}

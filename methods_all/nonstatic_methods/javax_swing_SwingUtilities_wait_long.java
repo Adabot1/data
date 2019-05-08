@@ -1,0 +1,1 @@
+class javax_swing_SwingUtilities_wait_long{ public static void function() {javax.swing.SwingUtilities obj = new javax.swing.SwingUtilities();obj.wait(8779355108341241425);}}

@@ -1,0 +1,1 @@
+class java_util_BitSet_set_int_int_boolean{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.set(1957814516,-467026606,false);}}

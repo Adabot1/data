@@ -1,0 +1,1 @@
+class javax_xml_parsers_DocumentBuilder_wait_long{ public static void function() {javax.xml.parsers.DocumentBuilder obj = new javax.xml.parsers.DocumentBuilder();obj.wait(-4802367736042359866);}}

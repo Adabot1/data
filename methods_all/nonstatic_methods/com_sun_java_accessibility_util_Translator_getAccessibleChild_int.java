@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_Translator_getAccessibleChild_int{ public static void function() {com.sun.java.accessibility.util.Translator obj = new com.sun.java.accessibility.util.Translator();obj.getAccessibleChild(204855655);}}

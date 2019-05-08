@@ -1,0 +1,1 @@
+class javax_naming_CompositeName_wait_long{ public static void function() {javax.naming.CompositeName obj = new javax.naming.CompositeName();obj.wait(6209333475572713975);}}

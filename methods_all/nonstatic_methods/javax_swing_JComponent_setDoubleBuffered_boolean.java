@@ -1,0 +1,1 @@
+class javax_swing_JComponent_setDoubleBuffered_boolean{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.setDoubleBuffered(true);}}

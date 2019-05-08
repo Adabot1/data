@@ -1,0 +1,1 @@
+class java_time_DayOfWeek_ordinal{ public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();obj.ordinal();}}

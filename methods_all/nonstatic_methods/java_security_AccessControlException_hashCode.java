@@ -1,0 +1,1 @@
+class java_security_AccessControlException_hashCode{ public static void function() {java.security.AccessControlException obj = new java.security.AccessControlException();obj.hashCode();}}

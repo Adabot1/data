@@ -1,0 +1,1 @@
+class javax_swing_text_html_ParagraphView_setSize_float_float{ public static void function() {javax.swing.text.html.ParagraphView obj = new javax.swing.text.html.ParagraphView();obj.setSize(0.105370164,0.9023216);}}

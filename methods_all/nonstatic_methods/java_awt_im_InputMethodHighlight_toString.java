@@ -1,0 +1,1 @@
+class java_awt_im_InputMethodHighlight_toString{ public static void function() {java.awt.im.InputMethodHighlight obj = new java.awt.im.InputMethodHighlight();obj.toString();}}

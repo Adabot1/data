@@ -1,0 +1,1 @@
+class javax_management_StringValueExp_wait{ public static void function() {javax.management.StringValueExp obj = new javax.management.StringValueExp();obj.wait();}}

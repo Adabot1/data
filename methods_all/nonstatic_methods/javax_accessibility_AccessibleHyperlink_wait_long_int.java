@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleHyperlink_wait_long_int{ public static void function() {javax.accessibility.AccessibleHyperlink obj = new javax.accessibility.AccessibleHyperlink();obj.wait(6667480241838501750,-1227204187);}}

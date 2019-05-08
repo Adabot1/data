@@ -1,0 +1,1 @@
+class java_awt_List_locate_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.locate(-145999057,875435938);}}

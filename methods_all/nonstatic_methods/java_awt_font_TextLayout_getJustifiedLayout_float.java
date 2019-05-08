@@ -1,0 +1,1 @@
+class java_awt_font_TextLayout_getJustifiedLayout_float{ public static void function() {java.awt.font.TextLayout obj = new java.awt.font.TextLayout();obj.getJustifiedLayout(0.9999802);}}

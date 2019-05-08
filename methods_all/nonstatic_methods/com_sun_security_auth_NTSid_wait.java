@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSid_wait{ public static void function() {com.sun.security.auth.NTSid obj = new com.sun.security.auth.NTSid();obj.wait();}}

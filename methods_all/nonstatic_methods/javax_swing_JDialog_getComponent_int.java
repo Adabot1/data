@@ -1,0 +1,1 @@
+class javax_swing_JDialog_getComponent_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.getComponent(349583668);}}

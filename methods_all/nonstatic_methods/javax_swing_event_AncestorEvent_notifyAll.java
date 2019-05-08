@@ -1,0 +1,1 @@
+class javax_swing_event_AncestorEvent_notifyAll{ public static void function() {javax.swing.event.AncestorEvent obj = new javax.swing.event.AncestorEvent();obj.notifyAll();}}

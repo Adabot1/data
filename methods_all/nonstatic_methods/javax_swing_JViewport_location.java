@@ -1,0 +1,1 @@
+class javax_swing_JViewport_location{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.location();}}

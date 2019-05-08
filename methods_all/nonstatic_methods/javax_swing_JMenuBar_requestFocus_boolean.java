@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_requestFocus_boolean{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.requestFocus(false);}}

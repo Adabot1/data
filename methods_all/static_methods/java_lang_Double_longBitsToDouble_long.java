@@ -1,0 +1,1 @@
+class java_lang_Double_longBitsToDouble_long{ public static void function() {java.lang.Double.longBitsToDouble(4898801459936258586);}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_locate_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.locate(-107076567,2019119117);}}

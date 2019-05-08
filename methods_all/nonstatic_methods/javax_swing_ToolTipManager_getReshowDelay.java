@@ -1,0 +1,1 @@
+class javax_swing_ToolTipManager_getReshowDelay{ public static void function() {javax.swing.ToolTipManager obj = new javax.swing.ToolTipManager();obj.getReshowDelay();}}

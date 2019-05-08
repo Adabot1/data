@@ -1,0 +1,1 @@
+class java_awt_image_VolatileImage_setAccelerationPriority_float{ public static void function() {java.awt.image.VolatileImage obj = new java.awt.image.VolatileImage();obj.setAccelerationPriority(0.7645157);}}

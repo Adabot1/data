@@ -1,0 +1,1 @@
+class java_applet_Applet_createImage_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.createImage(-994063759,-2006254043);}}

@@ -1,0 +1,1 @@
+class java_awt_event_MouseWheelEvent_translatePoint_int_int{ public static void function() {java.awt.event.MouseWheelEvent obj = new java.awt.event.MouseWheelEvent();obj.translatePoint(1761419282,-838200387);}}

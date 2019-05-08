@@ -1,0 +1,1 @@
+class jdk_dynalink_NamedOperation_getClass{ public static void function() {jdk.dynalink.NamedOperation obj = new jdk.dynalink.NamedOperation();obj.getClass();}}

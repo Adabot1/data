@@ -1,0 +1,1 @@
+class javax_swing_JLabel_setVerticalAlignment_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.setVerticalAlignment(840574175);}}

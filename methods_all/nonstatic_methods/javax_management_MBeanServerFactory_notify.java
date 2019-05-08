@@ -1,0 +1,1 @@
+class javax_management_MBeanServerFactory_notify{ public static void function() {javax.management.MBeanServerFactory obj = new javax.management.MBeanServerFactory();obj.notify();}}

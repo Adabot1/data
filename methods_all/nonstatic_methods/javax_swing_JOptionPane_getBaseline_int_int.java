@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_getBaseline_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.getBaseline(1056009489,-1585220742);}}

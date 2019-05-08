@@ -1,0 +1,1 @@
+class java_time_Instant_wait_long{ public static void function() {java.time.Instant obj = new java.time.Instant();obj.wait(-4363984086791701204);}}

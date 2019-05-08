@@ -1,0 +1,1 @@
+class java_awt_geom_Ellipse2D_setFrameFromCenter_double_double_double_double{ public static void function() {java.awt.geom.Ellipse2D obj = new java.awt.geom.Ellipse2D();obj.setFrameFromCenter(0.20173381738356322,0.9917703008584188,0.5858377605823731,0.7610015512886469);}}

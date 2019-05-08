@@ -1,0 +1,1 @@
+class java_lang_Byte_getClass{ public static void function() {java.lang.Byte obj = new java.lang.Byte();obj.getClass();}}

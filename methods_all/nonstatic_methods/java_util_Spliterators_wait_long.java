@@ -1,0 +1,1 @@
+class java_util_Spliterators_wait_long{ public static void function() {java.util.Spliterators obj = new java.util.Spliterators();obj.wait(1383883461897119289);}}

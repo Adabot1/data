@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_isPaintingTile{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.isPaintingTile();}}

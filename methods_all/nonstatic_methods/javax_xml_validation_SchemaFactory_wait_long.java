@@ -1,0 +1,1 @@
+class javax_xml_validation_SchemaFactory_wait_long{ public static void function() {javax.xml.validation.SchemaFactory obj = new javax.xml.validation.SchemaFactory();obj.wait(-7765040140539393427);}}

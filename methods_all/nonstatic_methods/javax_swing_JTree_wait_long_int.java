@@ -1,0 +1,1 @@
+class javax_swing_JTree_wait_long_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.wait(3197872046822569567,1497668932);}}

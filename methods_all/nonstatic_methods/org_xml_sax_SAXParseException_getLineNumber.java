@@ -1,0 +1,1 @@
+class org_xml_sax_SAXParseException_getLineNumber{ public static void function() {org.xml.sax.SAXParseException obj = new org.xml.sax.SAXParseException();obj.getLineNumber();}}

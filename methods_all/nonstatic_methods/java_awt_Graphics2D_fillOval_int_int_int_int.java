@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_fillOval_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.fillOval(-2066812306,-498256080,-438062375,-401090997);}}

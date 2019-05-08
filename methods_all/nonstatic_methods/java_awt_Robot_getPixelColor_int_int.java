@@ -1,0 +1,1 @@
+class java_awt_Robot_getPixelColor_int_int{ public static void function() {java.awt.Robot obj = new java.awt.Robot();obj.getPixelColor(558513852,-1943541310);}}

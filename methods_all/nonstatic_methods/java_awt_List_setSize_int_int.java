@@ -1,0 +1,1 @@
+class java_awt_List_setSize_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.setSize(-760348099,834528411);}}

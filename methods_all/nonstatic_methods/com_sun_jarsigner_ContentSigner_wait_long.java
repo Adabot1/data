@@ -1,0 +1,1 @@
+class com_sun_jarsigner_ContentSigner_wait_long{ public static void function() {com.sun.jarsigner.ContentSigner obj = new com.sun.jarsigner.ContentSigner();obj.wait(-501219903050810661);}}

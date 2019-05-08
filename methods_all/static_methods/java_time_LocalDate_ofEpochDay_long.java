@@ -1,0 +1,1 @@
+class java_time_LocalDate_ofEpochDay_long{ public static void function() {java.time.LocalDate.ofEpochDay(-3527995638758417095);}}

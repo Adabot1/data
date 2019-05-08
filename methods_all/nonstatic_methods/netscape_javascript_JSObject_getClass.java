@@ -1,0 +1,1 @@
+class netscape_javascript_JSObject_getClass{ public static void function() {netscape.javascript.JSObject obj = new netscape.javascript.JSObject();obj.getClass();}}

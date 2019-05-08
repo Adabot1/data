@@ -1,0 +1,1 @@
+class java_time_Period_wait_long{ public static void function() {java.time.Period obj = new java.time.Period();obj.wait(-2579428063318498445);}}

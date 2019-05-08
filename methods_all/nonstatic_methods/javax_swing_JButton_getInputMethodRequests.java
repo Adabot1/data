@@ -1,0 +1,1 @@
+class javax_swing_JButton_getInputMethodRequests{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.getInputMethodRequests();}}

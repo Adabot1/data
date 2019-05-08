@@ -1,0 +1,1 @@
+class javax_swing_text_GapContent_wait_long_int{ public static void function() {javax.swing.text.GapContent obj = new javax.swing.text.GapContent();obj.wait(-4099767865300089283,1389458986);}}

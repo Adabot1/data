@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_getFocusTraversalKeys_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.getFocusTraversalKeys(-1193730766);}}

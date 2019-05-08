@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultHighlighter_notify{ public static void function() {javax.swing.text.DefaultHighlighter obj = new javax.swing.text.DefaultHighlighter();obj.notify();}}

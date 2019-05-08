@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_addNotify{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.addNotify();}}

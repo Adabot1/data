@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLServerSocketFactory_getDefault{ public static void function() {javax.net.ssl.SSLServerSocketFactory.getDefault();}}

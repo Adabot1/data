@@ -1,0 +1,1 @@
+class java_io_InvalidClassException_wait_long{ public static void function() {java.io.InvalidClassException obj = new java.io.InvalidClassException();obj.wait(-809308195196725149);}}

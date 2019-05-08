@@ -1,0 +1,1 @@
+class javax_swing_JLabel_minimumSize{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.minimumSize();}}

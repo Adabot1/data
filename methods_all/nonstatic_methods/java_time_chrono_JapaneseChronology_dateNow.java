@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_dateNow{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.dateNow();}}

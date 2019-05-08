@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLSessionBindingEvent_getClass{ public static void function() {javax.net.ssl.SSLSessionBindingEvent obj = new javax.net.ssl.SSLSessionBindingEvent();obj.getClass();}}

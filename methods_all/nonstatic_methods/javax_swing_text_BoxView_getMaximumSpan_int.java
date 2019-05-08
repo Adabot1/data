@@ -1,0 +1,1 @@
+class javax_swing_text_BoxView_getMaximumSpan_int{ public static void function() {javax.swing.text.BoxView obj = new javax.swing.text.BoxView();obj.getMaximumSpan(-1374244763);}}

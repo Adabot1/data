@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollButton_wait_long{ public static void function() {javax.swing.plaf.metal.MetalScrollButton obj = new javax.swing.plaf.metal.MetalScrollButton();obj.wait(-2659727392179287405);}}

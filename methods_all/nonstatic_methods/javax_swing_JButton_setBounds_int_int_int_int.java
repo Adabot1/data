@@ -1,0 +1,1 @@
+class javax_swing_JButton_setBounds_int_int_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setBounds(601356098,-1980385713,-864555950,-1299023865);}}

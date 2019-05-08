@@ -1,0 +1,1 @@
+class java_awt_Rectangle_setFrameFromCenter_double_double_double_double{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.setFrameFromCenter(0.0620486016660331,0.11502687299719838,0.8635470587537007,0.5335698600820367);}}

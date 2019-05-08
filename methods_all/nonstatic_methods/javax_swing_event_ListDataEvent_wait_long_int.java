@@ -1,0 +1,1 @@
+class javax_swing_event_ListDataEvent_wait_long_int{ public static void function() {javax.swing.event.ListDataEvent obj = new javax.swing.event.ListDataEvent();obj.wait(1431999133490620401,-1215101967);}}

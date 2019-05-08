@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_repaint_int_int_int_int{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.repaint(1955936021,-393743820,1753950857,1946379152);}}

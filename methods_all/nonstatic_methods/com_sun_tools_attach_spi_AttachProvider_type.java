@@ -1,0 +1,1 @@
+class com_sun_tools_attach_spi_AttachProvider_type{ public static void function() {com.sun.tools.attach.spi.AttachProvider obj = new com.sun.tools.attach.spi.AttachProvider();obj.type();}}

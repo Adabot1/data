@@ -1,0 +1,1 @@
+class com_sun_security_jgss_GSSUtil_wait_long{ public static void function() {com.sun.security.jgss.GSSUtil obj = new com.sun.security.jgss.GSSUtil();obj.wait(6128443281262915240);}}

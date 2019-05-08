@@ -1,0 +1,1 @@
+class java_lang_reflect_Parameter_wait_long{ public static void function() {java.lang.reflect.Parameter obj = new java.lang.reflect.Parameter();obj.wait(1336077800833759255);}}

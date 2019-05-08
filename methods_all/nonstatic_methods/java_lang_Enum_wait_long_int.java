@@ -1,0 +1,1 @@
+class java_lang_Enum_wait_long_int{ public static void function() {java.lang.Enum obj = new java.lang.Enum();obj.wait(-612838918882784241,-779430213);}}

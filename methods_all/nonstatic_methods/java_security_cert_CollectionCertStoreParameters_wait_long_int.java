@@ -1,0 +1,1 @@
+class java_security_cert_CollectionCertStoreParameters_wait_long_int{ public static void function() {java.security.cert.CollectionCertStoreParameters obj = new java.security.cert.CollectionCertStoreParameters();obj.wait(-2130546359914321983,-537763163);}}

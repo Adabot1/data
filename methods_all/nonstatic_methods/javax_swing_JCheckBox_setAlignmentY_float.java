@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_setAlignmentY_float{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.setAlignmentY(0.6960149);}}

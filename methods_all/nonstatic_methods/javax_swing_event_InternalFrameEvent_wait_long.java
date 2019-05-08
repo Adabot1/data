@@ -1,0 +1,1 @@
+class javax_swing_event_InternalFrameEvent_wait_long{ public static void function() {javax.swing.event.InternalFrameEvent obj = new javax.swing.event.InternalFrameEvent();obj.wait(245186172620186288);}}

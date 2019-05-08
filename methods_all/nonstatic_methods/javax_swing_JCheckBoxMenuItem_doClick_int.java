@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_doClick_int{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.doClick(220257930);}}

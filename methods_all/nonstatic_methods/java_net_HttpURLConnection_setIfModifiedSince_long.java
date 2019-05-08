@@ -1,0 +1,1 @@
+class java_net_HttpURLConnection_setIfModifiedSince_long{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();obj.setIfModifiedSince(8763657500189707709);}}

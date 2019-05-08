@@ -1,0 +1,1 @@
+class java_security_PolicySpi_wait_long_int{ public static void function() {java.security.PolicySpi obj = new java.security.PolicySpi();obj.wait(-8765765493334461561,-963638066);}}

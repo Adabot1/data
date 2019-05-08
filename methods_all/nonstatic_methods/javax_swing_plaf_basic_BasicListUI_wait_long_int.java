@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicListUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicListUI obj = new javax.swing.plaf.basic.BasicListUI();obj.wait(1850347367137180923,-1570416675);}}

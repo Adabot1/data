@@ -1,0 +1,1 @@
+class jdk_dynalink_StandardOperation_wait_long_int{ public static void function() {jdk.dynalink.StandardOperation obj = new jdk.dynalink.StandardOperation();obj.wait(-1512184498182487027,-1179782115);}}

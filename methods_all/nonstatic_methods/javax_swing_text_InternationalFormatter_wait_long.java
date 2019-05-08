@@ -1,0 +1,1 @@
+class javax_swing_text_InternationalFormatter_wait_long{ public static void function() {javax.swing.text.InternationalFormatter obj = new javax.swing.text.InternationalFormatter();obj.wait(7537465546631195373);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_AbstractWriter_wait_long{ public static void function() {javax.swing.text.AbstractWriter obj = new javax.swing.text.AbstractWriter();obj.wait(-4006169485263621897);}}

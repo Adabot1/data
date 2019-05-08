@@ -1,0 +1,1 @@
+class javax_swing_JMenuItem_repaint_int_int_int_int{ public static void function() {javax.swing.JMenuItem obj = new javax.swing.JMenuItem();obj.repaint(-257636364,711767820,771432199,-1211367052);}}

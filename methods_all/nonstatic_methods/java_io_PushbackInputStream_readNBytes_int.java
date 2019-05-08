@@ -1,0 +1,1 @@
+class java_io_PushbackInputStream_readNBytes_int{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();obj.readNBytes(-251676848);}}

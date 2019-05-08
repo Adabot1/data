@@ -1,0 +1,1 @@
+class java_awt_geom_QuadCurve2D_setCurve_double_double_double_double_double_double{ public static void function() {java.awt.geom.QuadCurve2D obj = new java.awt.geom.QuadCurve2D();obj.setCurve(0.723510286379329,0.0031197230949070454,0.11182144542769168,0.7961601417265908,0.7248960173439704,0.5680680112565242);}}

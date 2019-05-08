@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicScrollBarUI_notify{ public static void function() {javax.swing.plaf.basic.BasicScrollBarUI obj = new javax.swing.plaf.basic.BasicScrollBarUI();obj.notify();}}

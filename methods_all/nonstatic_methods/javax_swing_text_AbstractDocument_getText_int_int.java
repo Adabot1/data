@@ -1,0 +1,1 @@
+class javax_swing_text_AbstractDocument_getText_int_int{ public static void function() {javax.swing.text.AbstractDocument obj = new javax.swing.text.AbstractDocument();obj.getText(479158234,2076842680);}}

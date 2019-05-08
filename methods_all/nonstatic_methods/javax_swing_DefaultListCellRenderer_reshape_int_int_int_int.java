@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_reshape_int_int_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.reshape(973061057,884506633,1399923160,1720639310);}}

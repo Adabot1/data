@@ -1,0 +1,1 @@
+class javax_naming_directory_BasicAttribute_remove_int{ public static void function() {javax.naming.directory.BasicAttribute obj = new javax.naming.directory.BasicAttribute();obj.remove(1661115419);}}

@@ -1,0 +1,1 @@
+class java_awt_Rectangle_outcode_double_double{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.outcode(0.2828563177159238,0.5710517868617329);}}

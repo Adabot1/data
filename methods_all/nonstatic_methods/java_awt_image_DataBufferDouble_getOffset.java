@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferDouble_getOffset{ public static void function() {java.awt.image.DataBufferDouble obj = new java.awt.image.DataBufferDouble();obj.getOffset();}}

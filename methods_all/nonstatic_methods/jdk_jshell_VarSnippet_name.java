@@ -1,0 +1,1 @@
+class jdk_jshell_VarSnippet_name{ public static void function() {jdk.jshell.VarSnippet obj = new jdk.jshell.VarSnippet();obj.name();}}

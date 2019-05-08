@@ -1,0 +1,1 @@
+class java_awt_FileDialog_setSize_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.setSize(-662222445,1875460629);}}

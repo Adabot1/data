@@ -1,0 +1,1 @@
+class java_time_temporal_ValueRange_wait_long{ public static void function() {java.time.temporal.ValueRange obj = new java.time.temporal.ValueRange();obj.wait(-1144701403217653340);}}

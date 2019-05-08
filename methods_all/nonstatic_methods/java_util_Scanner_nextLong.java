@@ -1,0 +1,1 @@
+class java_util_Scanner_nextLong{ public static void function() {java.util.Scanner obj = new java.util.Scanner();obj.nextLong();}}

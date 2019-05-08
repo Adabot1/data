@@ -1,0 +1,1 @@
+class java_net_MulticastSocket_setReuseAddress_boolean{ public static void function() {java.net.MulticastSocket obj = new java.net.MulticastSocket();obj.setReuseAddress(false);}}

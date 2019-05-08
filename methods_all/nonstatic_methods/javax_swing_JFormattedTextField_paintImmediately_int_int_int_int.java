@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.paintImmediately(-1257491265,514456577,56042538,378028657);}}

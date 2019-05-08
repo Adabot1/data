@@ -1,0 +1,1 @@
+class java_security_spec_EllipticCurve_wait{ public static void function() {java.security.spec.EllipticCurve obj = new java.security.spec.EllipticCurve();obj.wait();}}

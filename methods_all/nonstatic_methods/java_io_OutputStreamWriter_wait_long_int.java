@@ -1,0 +1,1 @@
+class java_io_OutputStreamWriter_wait_long_int{ public static void function() {java.io.OutputStreamWriter obj = new java.io.OutputStreamWriter();obj.wait(2272369101719792646,-193209755);}}

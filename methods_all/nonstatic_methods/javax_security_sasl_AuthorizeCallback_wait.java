@@ -1,0 +1,1 @@
+class javax_security_sasl_AuthorizeCallback_wait{ public static void function() {javax.security.sasl.AuthorizeCallback obj = new javax.security.sasl.AuthorizeCallback();obj.wait();}}

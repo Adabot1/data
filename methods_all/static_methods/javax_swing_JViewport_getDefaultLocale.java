@@ -1,0 +1,1 @@
+class javax_swing_JViewport_getDefaultLocale{ public static void function() {javax.swing.JViewport.getDefaultLocale();}}

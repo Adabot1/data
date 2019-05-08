@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultFormatter_wait_long_int{ public static void function() {javax.swing.text.DefaultFormatter obj = new javax.swing.text.DefaultFormatter();obj.wait(1002304483359690553,99369526);}}

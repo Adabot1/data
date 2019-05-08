@@ -1,0 +1,1 @@
+class java_awt_Component_createImage_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.createImage(1845699229,1815313336);}}

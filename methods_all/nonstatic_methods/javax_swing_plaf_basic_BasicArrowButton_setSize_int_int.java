@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicArrowButton_setSize_int_int{ public static void function() {javax.swing.plaf.basic.BasicArrowButton obj = new javax.swing.plaf.basic.BasicArrowButton();obj.setSize(-2141062883,-1967436587);}}

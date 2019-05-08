@@ -1,0 +1,1 @@
+class javax_swing_tree_VariableHeightLayoutCache_wait_long{ public static void function() {javax.swing.tree.VariableHeightLayoutCache obj = new javax.swing.tree.VariableHeightLayoutCache();obj.wait(1624418094600584603);}}

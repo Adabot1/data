@@ -1,0 +1,1 @@
+class javax_management_openmbean_CompositeDataSupport_toString{ public static void function() {javax.management.openmbean.CompositeDataSupport obj = new javax.management.openmbean.CompositeDataSupport();obj.toString();}}

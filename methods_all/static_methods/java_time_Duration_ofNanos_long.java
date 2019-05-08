@@ -1,0 +1,1 @@
+class java_time_Duration_ofNanos_long{ public static void function() {java.time.Duration.ofNanos(6992002254915736658);}}

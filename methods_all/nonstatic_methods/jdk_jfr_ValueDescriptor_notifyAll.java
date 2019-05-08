@@ -1,0 +1,1 @@
+class jdk_jfr_ValueDescriptor_notifyAll{ public static void function() {jdk.jfr.ValueDescriptor obj = new jdk.jfr.ValueDescriptor();obj.notifyAll();}}

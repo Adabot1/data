@@ -1,0 +1,1 @@
+class javax_management_RuntimeMBeanException_wait_long{ public static void function() {javax.management.RuntimeMBeanException obj = new javax.management.RuntimeMBeanException();obj.wait(-7902483469669314245);}}

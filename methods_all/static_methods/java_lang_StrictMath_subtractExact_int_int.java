@@ -1,0 +1,1 @@
+class java_lang_StrictMath_subtractExact_int_int{ public static void function() {java.lang.StrictMath.subtractExact(-1951151537,304438441);}}

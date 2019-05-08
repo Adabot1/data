@@ -1,0 +1,1 @@
+class javax_swing_MenuSelectionManager_getChangeListeners{ public static void function() {javax.swing.MenuSelectionManager obj = new javax.swing.MenuSelectionManager();obj.getChangeListeners();}}

@@ -1,0 +1,1 @@
+class jdk_jshell_PersistentSnippet_wait_long{ public static void function() {jdk.jshell.PersistentSnippet obj = new jdk.jshell.PersistentSnippet();obj.wait(-6578656851669830745);}}

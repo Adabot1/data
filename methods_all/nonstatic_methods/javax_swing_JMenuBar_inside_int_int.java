@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_inside_int_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.inside(-2046917767,-181551910);}}

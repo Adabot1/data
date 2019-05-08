@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_setMultiClickThreshhold_long{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.setMultiClickThreshhold(6648625695721878755);}}

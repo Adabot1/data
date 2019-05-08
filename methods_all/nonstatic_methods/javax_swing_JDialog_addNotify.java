@@ -1,0 +1,1 @@
+class javax_swing_JDialog_addNotify{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.addNotify();}}

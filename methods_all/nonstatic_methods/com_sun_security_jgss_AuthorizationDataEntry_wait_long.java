@@ -1,0 +1,1 @@
+class com_sun_security_jgss_AuthorizationDataEntry_wait_long{ public static void function() {com.sun.security.jgss.AuthorizationDataEntry obj = new com.sun.security.jgss.AuthorizationDataEntry();obj.wait(7885118153162121205);}}

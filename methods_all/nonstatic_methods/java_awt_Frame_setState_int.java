@@ -1,0 +1,1 @@
+class java_awt_Frame_setState_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.setState(-1927276567);}}

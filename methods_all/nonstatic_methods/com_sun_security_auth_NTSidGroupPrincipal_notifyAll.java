@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSidGroupPrincipal_notifyAll{ public static void function() {com.sun.security.auth.NTSidGroupPrincipal obj = new com.sun.security.auth.NTSidGroupPrincipal();obj.notifyAll();}}

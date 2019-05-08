@@ -1,0 +1,1 @@
+class jdk_jshell_execution_Util_wait_long{ public static void function() {jdk.jshell.execution.Util obj = new jdk.jshell.execution.Util();obj.wait(4244306587831642479);}}

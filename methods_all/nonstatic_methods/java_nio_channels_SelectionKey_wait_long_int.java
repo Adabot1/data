@@ -1,0 +1,1 @@
+class java_nio_channels_SelectionKey_wait_long_int{ public static void function() {java.nio.channels.SelectionKey obj = new java.nio.channels.SelectionKey();obj.wait(4577290218291193401,-53984801);}}

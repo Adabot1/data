@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTargetDropEvent_toString{ public static void function() {java.awt.dnd.DropTargetDropEvent obj = new java.awt.dnd.DropTargetDropEvent();obj.toString();}}

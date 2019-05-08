@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobHoldUntil_getValue{ public static void function() {javax.print.attribute.standard.JobHoldUntil obj = new javax.print.attribute.standard.JobHoldUntil();obj.getValue();}}

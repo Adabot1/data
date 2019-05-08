@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_ExifParentTIFFTagSet_getInstance{ public static void function() {javax.imageio.plugins.tiff.ExifParentTIFFTagSet.getInstance();}}

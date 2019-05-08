@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthInternalFrameUI_getClass{ public static void function() {javax.swing.plaf.synth.SynthInternalFrameUI obj = new javax.swing.plaf.synth.SynthInternalFrameUI();obj.getClass();}}

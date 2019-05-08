@@ -1,0 +1,1 @@
+class java_awt_List_getRows{ public static void function() {java.awt.List obj = new java.awt.List();obj.getRows();}}

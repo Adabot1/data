@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileNameExtensionFilter_hashCode{ public static void function() {javax.swing.filechooser.FileNameExtensionFilter obj = new javax.swing.filechooser.FileNameExtensionFilter();obj.hashCode();}}

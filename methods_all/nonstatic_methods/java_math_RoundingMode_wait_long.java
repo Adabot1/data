@@ -1,0 +1,1 @@
+class java_math_RoundingMode_wait_long{ public static void function() {java.math.RoundingMode obj = new java.math.RoundingMode();obj.wait(-3580940272417945764);}}

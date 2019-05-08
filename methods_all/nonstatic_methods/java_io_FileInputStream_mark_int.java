@@ -1,0 +1,1 @@
+class java_io_FileInputStream_mark_int{ public static void function() {java.io.FileInputStream obj = new java.io.FileInputStream();obj.mark(-356535154);}}

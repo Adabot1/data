@@ -1,0 +1,1 @@
+class java_awt_Container_reshape_int_int_int_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.reshape(-871666384,1845693140,-1948551778,-794005238);}}

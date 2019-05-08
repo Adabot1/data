@@ -1,0 +1,1 @@
+class java_nio_MappedByteBuffer_putLong_long{ public static void function() {java.nio.MappedByteBuffer obj = new java.nio.MappedByteBuffer();obj.putLong(8570707681714955656);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_StyleConstants_wait_long_int{ public static void function() {javax.swing.text.StyleConstants obj = new javax.swing.text.StyleConstants();obj.wait(-3417470044108719741,-1957828592);}}

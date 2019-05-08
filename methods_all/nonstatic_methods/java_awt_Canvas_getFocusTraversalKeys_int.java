@@ -1,0 +1,1 @@
+class java_awt_Canvas_getFocusTraversalKeys_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.getFocusTraversalKeys(433304928);}}

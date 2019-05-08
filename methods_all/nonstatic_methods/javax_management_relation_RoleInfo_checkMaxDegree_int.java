@@ -1,0 +1,1 @@
+class javax_management_relation_RoleInfo_checkMaxDegree_int{ public static void function() {javax.management.relation.RoleInfo obj = new javax.management.relation.RoleInfo();obj.checkMaxDegree(1281617045);}}

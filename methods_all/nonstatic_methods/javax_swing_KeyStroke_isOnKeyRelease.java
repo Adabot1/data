@@ -1,0 +1,1 @@
+class javax_swing_KeyStroke_isOnKeyRelease{ public static void function() {javax.swing.KeyStroke obj = new javax.swing.KeyStroke();obj.isOnKeyRelease();}}

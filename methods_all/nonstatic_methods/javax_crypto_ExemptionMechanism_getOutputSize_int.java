@@ -1,0 +1,1 @@
+class javax_crypto_ExemptionMechanism_getOutputSize_int{ public static void function() {javax.crypto.ExemptionMechanism obj = new javax.crypto.ExemptionMechanism();obj.getOutputSize(1606377876);}}

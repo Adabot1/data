@@ -1,0 +1,1 @@
+class javax_swing_Box_paintImmediately_int_int_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.paintImmediately(-695932763,-1949459750,-1084668823,-1399168066);}}

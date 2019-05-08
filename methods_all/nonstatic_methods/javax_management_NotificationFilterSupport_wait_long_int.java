@@ -1,0 +1,1 @@
+class javax_management_NotificationFilterSupport_wait_long_int{ public static void function() {javax.management.NotificationFilterSupport obj = new javax.management.NotificationFilterSupport();obj.wait(-5166790702460308919,-1137676816);}}

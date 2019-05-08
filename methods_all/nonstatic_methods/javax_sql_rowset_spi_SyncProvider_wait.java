@@ -1,0 +1,1 @@
+class javax_sql_rowset_spi_SyncProvider_wait{ public static void function() {javax.sql.rowset.spi.SyncProvider obj = new javax.sql.rowset.spi.SyncProvider();obj.wait();}}

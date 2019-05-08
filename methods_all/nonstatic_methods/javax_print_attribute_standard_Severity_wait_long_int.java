@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_Severity_wait_long_int{ public static void function() {javax.print.attribute.standard.Severity obj = new javax.print.attribute.standard.Severity();obj.wait(2118436664109136733,-789295584);}}

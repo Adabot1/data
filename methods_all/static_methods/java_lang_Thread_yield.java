@@ -1,0 +1,1 @@
+class java_lang_Thread_yield{ public static void function() {java.lang.Thread.yield();}}

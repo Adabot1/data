@@ -1,0 +1,1 @@
+class java_awt_print_Paper_setImageableArea_double_double_double_double{ public static void function() {java.awt.print.Paper obj = new java.awt.print.Paper();obj.setImageableArea(0.8371234339847319,0.1357469714733478,0.37111424795305625,0.09661510202608659);}}

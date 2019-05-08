@@ -1,0 +1,1 @@
+class javax_naming_Reference_toString{ public static void function() {javax.naming.Reference obj = new javax.naming.Reference();obj.toString();}}

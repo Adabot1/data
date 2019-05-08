@@ -1,0 +1,1 @@
+class javax_swing_JComponent_getInputMap_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.getInputMap(668485138);}}

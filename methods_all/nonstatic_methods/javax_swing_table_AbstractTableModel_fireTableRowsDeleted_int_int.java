@@ -1,0 +1,1 @@
+class javax_swing_table_AbstractTableModel_fireTableRowsDeleted_int_int{ public static void function() {javax.swing.table.AbstractTableModel obj = new javax.swing.table.AbstractTableModel();obj.fireTableRowsDeleted(1364083592,-13857345);}}

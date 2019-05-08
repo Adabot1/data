@@ -1,0 +1,1 @@
+class java_awt_font_TransformAttribute_getTransform{ public static void function() {java.awt.font.TransformAttribute obj = new java.awt.font.TransformAttribute();obj.getTransform();}}

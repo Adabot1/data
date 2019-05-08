@@ -1,0 +1,1 @@
+class javax_swing_JWindow_findComponentAt_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.findComponentAt(-921796570,513534264);}}

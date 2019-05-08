@@ -1,0 +1,1 @@
+class java_net_URLClassLoader_wait_long{ public static void function() {java.net.URLClassLoader obj = new java.net.URLClassLoader();obj.wait(8919726752315545514);}}

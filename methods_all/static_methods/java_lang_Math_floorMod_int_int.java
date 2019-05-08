@@ -1,0 +1,1 @@
+class java_lang_Math_floorMod_int_int{ public static void function() {java.lang.Math.floorMod(877458486,-1280847603);}}

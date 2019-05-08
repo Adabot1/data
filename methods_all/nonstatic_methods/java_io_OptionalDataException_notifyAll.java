@@ -1,0 +1,1 @@
+class java_io_OptionalDataException_notifyAll{ public static void function() {java.io.OptionalDataException obj = new java.io.OptionalDataException();obj.notifyAll();}}

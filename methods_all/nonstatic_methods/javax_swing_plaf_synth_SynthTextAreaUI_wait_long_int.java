@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTextAreaUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthTextAreaUI obj = new javax.swing.plaf.synth.SynthTextAreaUI();obj.wait(-5944001429572941811,-1730216477);}}

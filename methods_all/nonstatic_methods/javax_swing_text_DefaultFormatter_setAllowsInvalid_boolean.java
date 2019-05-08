@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultFormatter_setAllowsInvalid_boolean{ public static void function() {javax.swing.text.DefaultFormatter obj = new javax.swing.text.DefaultFormatter();obj.setAllowsInvalid(true);}}

@@ -1,0 +1,1 @@
+class java_beans_VetoableChangeListenerProxy_getPropertyName{ public static void function() {java.beans.VetoableChangeListenerProxy obj = new java.beans.VetoableChangeListenerProxy();obj.getPropertyName();}}

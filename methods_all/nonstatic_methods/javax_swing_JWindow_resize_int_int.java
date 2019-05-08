@@ -1,0 +1,1 @@
+class javax_swing_JWindow_resize_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.resize(-296217805,-894141585);}}

@@ -1,0 +1,1 @@
+class java_sql_SQLException_wait_long_int{ public static void function() {java.sql.SQLException obj = new java.sql.SQLException();obj.wait(-7056195270299581607,-1255466201);}}

@@ -1,0 +1,1 @@
+class java_time_Year_wait_long_int{ public static void function() {java.time.Year obj = new java.time.Year();obj.wait(7379407985195372874,552183424);}}

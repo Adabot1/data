@@ -1,0 +1,1 @@
+class java_awt_List_resize_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.resize(-837197987,1172884739);}}

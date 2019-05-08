@@ -1,0 +1,1 @@
+class javax_swing_JLabel_getBaseline_int_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.getBaseline(1426403969,1248520844);}}

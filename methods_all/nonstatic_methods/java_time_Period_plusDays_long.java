@@ -1,0 +1,1 @@
+class java_time_Period_plusDays_long{ public static void function() {java.time.Period obj = new java.time.Period();obj.plusDays(-4310598117367428597);}}

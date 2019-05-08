@@ -1,0 +1,1 @@
+class javax_swing_JButton_setVerticalAlignment_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setVerticalAlignment(1428320485);}}

@@ -1,0 +1,1 @@
+class java_awt_image_PixelInterleavedSampleModel_getOffset_int_int{ public static void function() {java.awt.image.PixelInterleavedSampleModel obj = new java.awt.image.PixelInterleavedSampleModel();obj.getOffset(1706071715,-1181496870);}}

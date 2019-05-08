@@ -1,0 +1,1 @@
+class com_sun_tools_attach_VirtualMachineDescriptor_displayName{ public static void function() {com.sun.tools.attach.VirtualMachineDescriptor obj = new com.sun.tools.attach.VirtualMachineDescriptor();obj.displayName();}}

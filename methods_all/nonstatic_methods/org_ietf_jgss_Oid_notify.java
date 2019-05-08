@@ -1,0 +1,1 @@
+class org_ietf_jgss_Oid_notify{ public static void function() {org.ietf.jgss.Oid obj = new org.ietf.jgss.Oid();obj.notify();}}

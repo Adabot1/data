@@ -1,0 +1,1 @@
+class javax_net_ssl_SNIHostName_wait_long{ public static void function() {javax.net.ssl.SNIHostName obj = new javax.net.ssl.SNIHostName();obj.wait(5402237950321378633);}}

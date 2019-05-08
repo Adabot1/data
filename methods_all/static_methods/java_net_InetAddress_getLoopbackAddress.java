@@ -1,0 +1,1 @@
+class java_net_InetAddress_getLoopbackAddress{ public static void function() {java.net.InetAddress.getLoopbackAddress();}}

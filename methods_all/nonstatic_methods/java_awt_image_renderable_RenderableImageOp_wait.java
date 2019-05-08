@@ -1,0 +1,1 @@
+class java_awt_image_renderable_RenderableImageOp_wait{ public static void function() {java.awt.image.renderable.RenderableImageOp obj = new java.awt.image.renderable.RenderableImageOp();obj.wait();}}

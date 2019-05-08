@@ -1,0 +1,1 @@
+class java_nio_DoubleBuffer_wait_long_int{ public static void function() {java.nio.DoubleBuffer obj = new java.nio.DoubleBuffer();obj.wait(8637834034027459887,-1142687780);}}

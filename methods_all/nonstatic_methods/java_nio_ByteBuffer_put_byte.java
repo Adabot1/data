@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_put_byte{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.put([B@3bd94634);}}

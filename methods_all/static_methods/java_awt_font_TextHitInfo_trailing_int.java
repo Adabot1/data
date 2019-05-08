@@ -1,0 +1,1 @@
+class java_awt_font_TextHitInfo_trailing_int{ public static void function() {java.awt.font.TextHitInfo.trailing(1997842027);}}

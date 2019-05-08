@@ -1,0 +1,1 @@
+class jdk_jshell_Diag_getClass{ public static void function() {jdk.jshell.Diag obj = new jdk.jshell.Diag();obj.getClass();}}

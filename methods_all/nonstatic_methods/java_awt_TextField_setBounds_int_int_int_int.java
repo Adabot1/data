@@ -1,0 +1,1 @@
+class java_awt_TextField_setBounds_int_int_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.setBounds(-858939142,1554699089,1292244035,-1525999767);}}

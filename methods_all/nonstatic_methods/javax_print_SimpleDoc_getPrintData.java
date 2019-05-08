@@ -1,0 +1,1 @@
+class javax_print_SimpleDoc_getPrintData{ public static void function() {javax.print.SimpleDoc obj = new javax.print.SimpleDoc();obj.getPrintData();}}

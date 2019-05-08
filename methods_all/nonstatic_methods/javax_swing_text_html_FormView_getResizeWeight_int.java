@@ -1,0 +1,1 @@
+class javax_swing_text_html_FormView_getResizeWeight_int{ public static void function() {javax.swing.text.html.FormView obj = new javax.swing.text.html.FormView();obj.getResizeWeight(-1814441514);}}

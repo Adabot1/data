@@ -1,0 +1,1 @@
+class java_awt_font_TextLayout_wait_long_int{ public static void function() {java.awt.font.TextLayout obj = new java.awt.font.TextLayout();obj.wait(-4039363984926353792,-1272118076);}}

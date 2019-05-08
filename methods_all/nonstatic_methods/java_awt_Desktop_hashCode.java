@@ -1,0 +1,1 @@
+class java_awt_Desktop_hashCode{ public static void function() {java.awt.Desktop obj = new java.awt.Desktop();obj.hashCode();}}

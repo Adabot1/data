@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_setSize_int_int{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.setSize(-130745840,1645166956);}}

@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_createImage_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.createImage(1597481518,-367784195);}}

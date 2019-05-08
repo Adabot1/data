@@ -1,0 +1,1 @@
+class javax_annotation_processing_AbstractProcessor_hashCode{ public static void function() {javax.annotation.processing.AbstractProcessor obj = new javax.annotation.processing.AbstractProcessor();obj.hashCode();}}

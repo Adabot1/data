@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_getMinimumSpan_int{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.getMinimumSpan(347651054);}}

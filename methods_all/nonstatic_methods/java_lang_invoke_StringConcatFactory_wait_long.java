@@ -1,0 +1,1 @@
+class java_lang_invoke_StringConcatFactory_wait_long{ public static void function() {java.lang.invoke.StringConcatFactory obj = new java.lang.invoke.StringConcatFactory();obj.wait(-8737724156101062753);}}

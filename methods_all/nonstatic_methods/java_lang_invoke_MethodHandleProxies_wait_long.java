@@ -1,0 +1,1 @@
+class java_lang_invoke_MethodHandleProxies_wait_long{ public static void function() {java.lang.invoke.MethodHandleProxies obj = new java.lang.invoke.MethodHandleProxies();obj.wait(-399207987249963573);}}

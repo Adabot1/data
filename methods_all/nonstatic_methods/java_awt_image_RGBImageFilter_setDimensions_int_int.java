@@ -1,0 +1,1 @@
+class java_awt_image_RGBImageFilter_setDimensions_int_int{ public static void function() {java.awt.image.RGBImageFilter obj = new java.awt.image.RGBImageFilter();obj.setDimensions(527663173,1635476616);}}

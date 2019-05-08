@@ -1,0 +1,1 @@
+class java_util_IllegalFormatFlagsException_wait_long_int{ public static void function() {java.util.IllegalFormatFlagsException obj = new java.util.IllegalFormatFlagsException();obj.wait(-952593187444800109,1871419308);}}

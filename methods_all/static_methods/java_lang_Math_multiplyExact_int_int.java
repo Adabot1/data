@@ -1,0 +1,1 @@
+class java_lang_Math_multiplyExact_int_int{ public static void function() {java.lang.Math.multiplyExact(798775809,1662492138);}}

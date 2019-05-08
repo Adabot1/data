@@ -1,0 +1,1 @@
+class javax_swing_JViewport_setLocation_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.setLocation(-382608741,-166300765);}}

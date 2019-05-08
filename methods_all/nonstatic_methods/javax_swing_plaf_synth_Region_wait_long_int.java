@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_Region_wait_long_int{ public static void function() {javax.swing.plaf.synth.Region obj = new javax.swing.plaf.synth.Region();obj.wait(4459786617170268346,274335974);}}

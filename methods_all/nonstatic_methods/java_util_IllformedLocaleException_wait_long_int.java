@@ -1,0 +1,1 @@
+class java_util_IllformedLocaleException_wait_long_int{ public static void function() {java.util.IllformedLocaleException obj = new java.util.IllformedLocaleException();obj.wait(-2011727281564424663,1846946132);}}

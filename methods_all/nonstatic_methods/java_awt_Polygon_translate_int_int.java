@@ -1,0 +1,1 @@
+class java_awt_Polygon_translate_int_int{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.translate(1068779026,195000435);}}

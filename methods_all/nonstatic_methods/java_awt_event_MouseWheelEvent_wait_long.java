@@ -1,0 +1,1 @@
+class java_awt_event_MouseWheelEvent_wait_long{ public static void function() {java.awt.event.MouseWheelEvent obj = new java.awt.event.MouseWheelEvent();obj.wait(-6068221497120587125);}}

@@ -1,0 +1,1 @@
+class java_awt_event_MouseAdapter_wait_long{ public static void function() {java.awt.event.MouseAdapter obj = new java.awt.event.MouseAdapter();obj.wait(-4420182342155300032);}}

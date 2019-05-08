@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_setAlignmentX_float{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.setAlignmentX(0.5185859);}}

@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_reshape_int_int_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.reshape(1160908126,1993550935,1059393321,2123158390);}}

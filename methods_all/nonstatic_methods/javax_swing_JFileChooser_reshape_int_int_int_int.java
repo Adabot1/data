@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_reshape_int_int_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.reshape(-1981220392,1882315313,-1585627049,-1589736374);}}

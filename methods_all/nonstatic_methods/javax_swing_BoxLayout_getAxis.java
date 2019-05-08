@@ -1,0 +1,1 @@
+class javax_swing_BoxLayout_getAxis{ public static void function() {javax.swing.BoxLayout obj = new javax.swing.BoxLayout();obj.getAxis();}}

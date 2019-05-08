@@ -1,0 +1,1 @@
+class java_awt_JobAttributes_setMinPage_int{ public static void function() {java.awt.JobAttributes obj = new java.awt.JobAttributes();obj.setMinPage(1451274227);}}

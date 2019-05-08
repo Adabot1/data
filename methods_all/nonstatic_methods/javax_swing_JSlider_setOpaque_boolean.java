@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setOpaque_boolean{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setOpaque(false);}}

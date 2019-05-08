@@ -1,0 +1,1 @@
+class java_awt_font_GlyphJustificationInfo_wait_long{ public static void function() {java.awt.font.GlyphJustificationInfo obj = new java.awt.font.GlyphJustificationInfo();obj.wait(6811807126406782496);}}

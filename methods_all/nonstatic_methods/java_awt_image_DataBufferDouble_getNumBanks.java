@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferDouble_getNumBanks{ public static void function() {java.awt.image.DataBufferDouble obj = new java.awt.image.DataBufferDouble();obj.getNumBanks();}}

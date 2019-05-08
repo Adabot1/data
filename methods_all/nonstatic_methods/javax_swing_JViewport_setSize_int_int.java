@@ -1,0 +1,1 @@
+class javax_swing_JViewport_setSize_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.setSize(315998856,41093995);}}

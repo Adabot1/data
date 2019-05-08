@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_ensureCapacity_int{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.ensureCapacity(1592042313);}}

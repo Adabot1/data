@@ -1,0 +1,1 @@
+class javax_swing_table_AbstractTableModel_getColumnClass_int{ public static void function() {javax.swing.table.AbstractTableModel obj = new javax.swing.table.AbstractTableModel();obj.getColumnClass(566826050);}}

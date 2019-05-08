@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeFactory_newDuration_boolean_int_int_int_int_int_int{ public static void function() {javax.xml.datatype.DatatypeFactory obj = new javax.xml.datatype.DatatypeFactory();obj.newDuration(false,-246302212,1253014566,-1261959397,11630324,377923027,-2107458279);}}

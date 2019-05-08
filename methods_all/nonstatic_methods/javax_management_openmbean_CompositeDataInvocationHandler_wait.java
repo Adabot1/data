@@ -1,0 +1,1 @@
+class javax_management_openmbean_CompositeDataInvocationHandler_wait{ public static void function() {javax.management.openmbean.CompositeDataInvocationHandler obj = new javax.management.openmbean.CompositeDataInvocationHandler();obj.wait();}}

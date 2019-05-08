@@ -1,0 +1,1 @@
+class javax_swing_JWindow_repaint_long_int_int_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.repaint(5201275471350780608,-87038683,-1184171394,-530511521,792653224);}}

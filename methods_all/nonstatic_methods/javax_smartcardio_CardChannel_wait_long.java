@@ -1,0 +1,1 @@
+class javax_smartcardio_CardChannel_wait_long{ public static void function() {javax.smartcardio.CardChannel obj = new javax.smartcardio.CardChannel();obj.wait(-4188368612632284304);}}

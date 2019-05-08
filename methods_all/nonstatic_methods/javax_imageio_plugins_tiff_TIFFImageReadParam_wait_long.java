@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFImageReadParam_wait_long{ public static void function() {javax.imageio.plugins.tiff.TIFFImageReadParam obj = new javax.imageio.plugins.tiff.TIFFImageReadParam();obj.wait(-8309920568886503680);}}

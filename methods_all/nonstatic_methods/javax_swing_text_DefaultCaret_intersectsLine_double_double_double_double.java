@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_intersectsLine_double_double_double_double{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.intersectsLine(0.5285995033954498,0.25374028407341453,0.608975483497753,0.4635379244491181);}}

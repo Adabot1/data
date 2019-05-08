@@ -1,0 +1,1 @@
+class java_util_logging_StreamHandler_wait_long_int{ public static void function() {java.util.logging.StreamHandler obj = new java.util.logging.StreamHandler();obj.wait(-7543324242209481889,-1024882312);}}

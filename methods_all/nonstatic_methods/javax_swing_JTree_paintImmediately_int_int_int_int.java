@@ -1,0 +1,1 @@
+class javax_swing_JTree_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.paintImmediately(-771596717,1966631574,-1698263777,1526377423);}}

@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLSocket_wait_long_int{ public static void function() {javax.net.ssl.SSLSocket obj = new javax.net.ssl.SSLSocket();obj.wait(1766779599345991898,-723679651);}}

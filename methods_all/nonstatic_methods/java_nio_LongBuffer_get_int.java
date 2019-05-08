@@ -1,0 +1,1 @@
+class java_nio_LongBuffer_get_int{ public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();obj.get(-1906099706);}}

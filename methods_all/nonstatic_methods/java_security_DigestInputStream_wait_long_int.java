@@ -1,0 +1,1 @@
+class java_security_DigestInputStream_wait_long_int{ public static void function() {java.security.DigestInputStream obj = new java.security.DigestInputStream();obj.wait(4790332827810274197,1782609562);}}

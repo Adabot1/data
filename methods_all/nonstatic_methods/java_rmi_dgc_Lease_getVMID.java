@@ -1,0 +1,1 @@
+class java_rmi_dgc_Lease_getVMID{ public static void function() {java.rmi.dgc.Lease obj = new java.rmi.dgc.Lease();obj.getVMID();}}

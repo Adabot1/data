@@ -1,0 +1,1 @@
+class java_time_chrono_AbstractChronology_wait_long_int{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();obj.wait(-6777753131711423988,-1846097759);}}

@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_format_long{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.format(-7097361427707904773);}}

@@ -1,0 +1,1 @@
+class java_awt_image_WritableRaster_getSampleFloat_int_int_int{ public static void function() {java.awt.image.WritableRaster obj = new java.awt.image.WritableRaster();obj.getSampleFloat(2128625531,2044163850,-1386966534);}}

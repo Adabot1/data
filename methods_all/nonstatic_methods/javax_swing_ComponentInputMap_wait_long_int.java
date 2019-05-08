@@ -1,0 +1,1 @@
+class javax_swing_ComponentInputMap_wait_long_int{ public static void function() {javax.swing.ComponentInputMap obj = new javax.swing.ComponentInputMap();obj.wait(-969140760689879371,-1936977084);}}

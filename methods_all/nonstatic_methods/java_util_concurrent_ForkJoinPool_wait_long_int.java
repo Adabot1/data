@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinPool_wait_long_int{ public static void function() {java.util.concurrent.ForkJoinPool obj = new java.util.concurrent.ForkJoinPool();obj.wait(-4223529328782598701,1153175306);}}

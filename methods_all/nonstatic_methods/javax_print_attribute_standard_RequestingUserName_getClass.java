@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_RequestingUserName_getClass{ public static void function() {javax.print.attribute.standard.RequestingUserName obj = new javax.print.attribute.standard.RequestingUserName();obj.getClass();}}

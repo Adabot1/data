@@ -1,0 +1,1 @@
+class javax_sound_midi_spi_MidiDeviceProvider_notify{ public static void function() {javax.sound.midi.spi.MidiDeviceProvider obj = new javax.sound.midi.spi.MidiDeviceProvider();obj.notify();}}

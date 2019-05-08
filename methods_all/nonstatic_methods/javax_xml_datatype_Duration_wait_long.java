@@ -1,0 +1,1 @@
+class javax_xml_datatype_Duration_wait_long{ public static void function() {javax.xml.datatype.Duration obj = new javax.xml.datatype.Duration();obj.wait(-6178848063923119728);}}

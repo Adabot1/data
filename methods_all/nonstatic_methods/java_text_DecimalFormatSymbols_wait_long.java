@@ -1,0 +1,1 @@
+class java_text_DecimalFormatSymbols_wait_long{ public static void function() {java.text.DecimalFormatSymbols obj = new java.text.DecimalFormatSymbols();obj.wait(-6080542175125352757);}}

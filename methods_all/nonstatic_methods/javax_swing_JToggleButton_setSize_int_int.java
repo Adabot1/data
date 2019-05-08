@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_setSize_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.setSize(1477047748,-1413477900);}}

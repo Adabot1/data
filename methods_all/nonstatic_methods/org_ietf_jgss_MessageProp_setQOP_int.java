@@ -1,0 +1,1 @@
+class org_ietf_jgss_MessageProp_setQOP_int{ public static void function() {org.ietf.jgss.MessageProp obj = new org.ietf.jgss.MessageProp();obj.setQOP(-2013262560);}}

@@ -1,0 +1,1 @@
+class java_net_PasswordAuthentication_wait_long_int{ public static void function() {java.net.PasswordAuthentication obj = new java.net.PasswordAuthentication();obj.wait(-736030386602034479,189376445);}}

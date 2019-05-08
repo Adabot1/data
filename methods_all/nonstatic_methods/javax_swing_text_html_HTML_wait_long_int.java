@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTML_wait_long_int{ public static void function() {javax.swing.text.html.HTML obj = new javax.swing.text.html.HTML();obj.wait(-103286174714989783,1107548694);}}

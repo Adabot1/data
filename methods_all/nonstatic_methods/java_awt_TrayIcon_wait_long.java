@@ -1,0 +1,1 @@
+class java_awt_TrayIcon_wait_long{ public static void function() {java.awt.TrayIcon obj = new java.awt.TrayIcon();obj.wait(-8720046979009078117);}}

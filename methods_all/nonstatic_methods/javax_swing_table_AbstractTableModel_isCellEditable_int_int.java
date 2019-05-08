@@ -1,0 +1,1 @@
+class javax_swing_table_AbstractTableModel_isCellEditable_int_int{ public static void function() {javax.swing.table.AbstractTableModel obj = new javax.swing.table.AbstractTableModel();obj.isCellEditable(-1971125774,1721060451);}}

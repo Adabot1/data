@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_Entity_wait_long{ public static void function() {javax.swing.text.html.parser.Entity obj = new javax.swing.text.html.parser.Entity();obj.wait(1201257030085998330);}}

@@ -1,0 +1,1 @@
+class java_nio_file_StandardCopyOption_wait_long{ public static void function() {java.nio.file.StandardCopyOption obj = new java.nio.file.StandardCopyOption();obj.wait(5955405235790733516);}}

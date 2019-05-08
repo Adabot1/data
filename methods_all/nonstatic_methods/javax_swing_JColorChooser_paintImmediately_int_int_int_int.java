@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.paintImmediately(1757604004,2046841716,-2047811495,843718335);}}

@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_XMLReaderFactory_toString{ public static void function() {org.xml.sax.helpers.XMLReaderFactory obj = new org.xml.sax.helpers.XMLReaderFactory();obj.toString();}}

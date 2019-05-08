@@ -1,0 +1,1 @@
+class java_security_PolicySpi_notify{ public static void function() {java.security.PolicySpi obj = new java.security.PolicySpi();obj.notify();}}

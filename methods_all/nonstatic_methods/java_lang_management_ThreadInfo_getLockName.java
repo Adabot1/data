@@ -1,0 +1,1 @@
+class java_lang_management_ThreadInfo_getLockName{ public static void function() {java.lang.management.ThreadInfo obj = new java.lang.management.ThreadInfo();obj.getLockName();}}

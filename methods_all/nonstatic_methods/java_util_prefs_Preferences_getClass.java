@@ -1,0 +1,1 @@
+class java_util_prefs_Preferences_getClass{ public static void function() {java.util.prefs.Preferences obj = new java.util.prefs.Preferences();obj.getClass();}}

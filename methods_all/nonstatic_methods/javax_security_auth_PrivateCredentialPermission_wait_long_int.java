@@ -1,0 +1,1 @@
+class javax_security_auth_PrivateCredentialPermission_wait_long_int{ public static void function() {javax.security.auth.PrivateCredentialPermission obj = new javax.security.auth.PrivateCredentialPermission();obj.wait(-7767741946608932733,366148126);}}

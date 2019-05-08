@@ -1,0 +1,1 @@
+class javax_naming_CompoundName_wait_long_int{ public static void function() {javax.naming.CompoundName obj = new javax.naming.CompoundName();obj.wait(-66947589059615634,-743511339);}}

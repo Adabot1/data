@@ -1,0 +1,1 @@
+class javax_sound_midi_Patch_wait{ public static void function() {javax.sound.midi.Patch obj = new javax.sound.midi.Patch();obj.wait();}}

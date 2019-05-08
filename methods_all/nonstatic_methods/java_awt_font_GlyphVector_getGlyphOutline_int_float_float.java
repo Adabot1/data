@@ -1,0 +1,1 @@
+class java_awt_font_GlyphVector_getGlyphOutline_int_float_float{ public static void function() {java.awt.font.GlyphVector obj = new java.awt.font.GlyphVector();obj.getGlyphOutline(1923531705,0.63662046,0.7280169);}}

@@ -1,0 +1,1 @@
+class javax_swing_JMenu_getComponent_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.getComponent(-1212095044);}}

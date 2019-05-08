@@ -1,0 +1,1 @@
+class java_awt_Window_wait_long{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.wait(310822715281300417);}}

@@ -1,0 +1,1 @@
+class javax_swing_GrayFilter_setDimensions_int_int{ public static void function() {javax.swing.GrayFilter obj = new javax.swing.GrayFilter();obj.setDimensions(465465666,-535001992);}}

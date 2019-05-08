@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultEditorKit_wait{ public static void function() {javax.swing.text.DefaultEditorKit obj = new javax.swing.text.DefaultEditorKit();obj.wait();}}

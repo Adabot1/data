@@ -1,0 +1,1 @@
+class java_awt_font_GlyphJustificationInfo_notify{ public static void function() {java.awt.font.GlyphJustificationInfo obj = new java.awt.font.GlyphJustificationInfo();obj.notify();}}

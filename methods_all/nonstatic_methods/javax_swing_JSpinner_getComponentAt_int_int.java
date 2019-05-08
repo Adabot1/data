@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_getComponentAt_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.getComponentAt(631228917,-1328735062);}}

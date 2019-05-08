@@ -1,0 +1,1 @@
+class java_nio_channels_Selector_wait_long{ public static void function() {java.nio.channels.Selector obj = new java.nio.channels.Selector();obj.wait(-1781770056333059691);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_DateFormatter_wait_long{ public static void function() {javax.swing.text.DateFormatter obj = new javax.swing.text.DateFormatter();obj.wait(-8222931658202058666);}}

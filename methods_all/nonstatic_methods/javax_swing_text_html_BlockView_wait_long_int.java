@@ -1,0 +1,1 @@
+class javax_swing_text_html_BlockView_wait_long_int{ public static void function() {javax.swing.text.html.BlockView obj = new javax.swing.text.html.BlockView();obj.wait(-2646076404573100809,-10428885);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_AbstractChronology_isLeapYear_long{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();obj.isLeapYear(-5941597711549192904);}}

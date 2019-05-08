@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileSystemView_getFileSystemView{ public static void function() {javax.swing.filechooser.FileSystemView.getFileSystemView();}}

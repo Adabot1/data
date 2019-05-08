@@ -1,0 +1,1 @@
+class java_awt_print_Paper_clone{ public static void function() {java.awt.print.Paper obj = new java.awt.print.Paper();obj.clone();}}

@@ -1,0 +1,1 @@
+class javax_xml_stream_XMLStreamException_wait_long_int{ public static void function() {javax.xml.stream.XMLStreamException obj = new javax.xml.stream.XMLStreamException();obj.wait(-916966214745031659,1511621181);}}

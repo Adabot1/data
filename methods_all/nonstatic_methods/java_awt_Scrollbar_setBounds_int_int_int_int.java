@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_setBounds_int_int_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.setBounds(457775286,375071812,-1388501920,-1724006839);}}

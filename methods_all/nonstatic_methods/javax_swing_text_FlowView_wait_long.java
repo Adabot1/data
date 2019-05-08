@@ -1,0 +1,1 @@
+class javax_swing_text_FlowView_wait_long{ public static void function() {javax.swing.text.FlowView obj = new javax.swing.text.FlowView();obj.wait(3040229041332751627);}}

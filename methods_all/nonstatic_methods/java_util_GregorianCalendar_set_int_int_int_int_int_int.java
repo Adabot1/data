@@ -1,0 +1,1 @@
+class java_util_GregorianCalendar_set_int_int_int_int_int_int{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();obj.set(-373680307,-87994293,305703203,2061201081,-1348518275,-969084852);}}

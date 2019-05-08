@@ -1,0 +1,1 @@
+class com_sun_tools_javadoc_Main_notify{ public static void function() {com.sun.tools.javadoc.Main obj = new com.sun.tools.javadoc.Main();obj.notify();}}

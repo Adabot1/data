@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_setBounds_int_int_int_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.setBounds(1405959558,-1806330898,-230772498,1504428727);}}

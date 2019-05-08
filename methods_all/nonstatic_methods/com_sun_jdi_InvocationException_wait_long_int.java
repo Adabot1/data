@@ -1,0 +1,1 @@
+class com_sun_jdi_InvocationException_wait_long_int{ public static void function() {com.sun.jdi.InvocationException obj = new com.sun.jdi.InvocationException();obj.wait(3785888206682334165,1510305444);}}

@@ -1,0 +1,1 @@
+class javax_smartcardio_ResponseAPDU_hashCode{ public static void function() {javax.smartcardio.ResponseAPDU obj = new javax.smartcardio.ResponseAPDU();obj.hashCode();}}

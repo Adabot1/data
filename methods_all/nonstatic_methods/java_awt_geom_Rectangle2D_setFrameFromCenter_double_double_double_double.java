@@ -1,0 +1,1 @@
+class java_awt_geom_Rectangle2D_setFrameFromCenter_double_double_double_double{ public static void function() {java.awt.geom.Rectangle2D obj = new java.awt.geom.Rectangle2D();obj.setFrameFromCenter(0.7044128182326177,0.015661514397834475,0.8491598938367547,0.19013481444190883);}}

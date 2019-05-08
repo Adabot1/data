@@ -1,0 +1,1 @@
+class java_awt_Robot_notify{ public static void function() {java.awt.Robot obj = new java.awt.Robot();obj.notify();}}

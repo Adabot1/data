@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageOutputStreamImpl_writeDouble_double{ public static void function() {javax.imageio.stream.ImageOutputStreamImpl obj = new javax.imageio.stream.ImageOutputStreamImpl();obj.writeDouble(0.9793096769628644);}}

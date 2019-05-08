@@ -1,0 +1,1 @@
+class javax_swing_JTextField_setLocation_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.setLocation(-1382031767,-1962579793);}}

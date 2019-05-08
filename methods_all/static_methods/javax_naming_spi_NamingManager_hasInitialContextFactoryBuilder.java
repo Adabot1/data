@@ -1,0 +1,1 @@
+class javax_naming_spi_NamingManager_hasInitialContextFactoryBuilder{ public static void function() {javax.naming.spi.NamingManager.hasInitialContextFactoryBuilder();}}

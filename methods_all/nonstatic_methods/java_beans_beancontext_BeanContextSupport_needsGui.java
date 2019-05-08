@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextSupport_needsGui{ public static void function() {java.beans.beancontext.BeanContextSupport obj = new java.beans.beancontext.BeanContextSupport();obj.needsGui();}}

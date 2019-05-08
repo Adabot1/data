@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_wait_long_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.wait(-5086999662175346642,1039129544);}}

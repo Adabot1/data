@@ -1,0 +1,1 @@
+class java_awt_Panel_getComponent_int{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.getComponent(-1959069267);}}

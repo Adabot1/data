@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_setAlignmentX_float{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.setAlignmentX(0.1558187);}}

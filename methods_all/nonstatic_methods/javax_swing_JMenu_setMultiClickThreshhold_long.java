@@ -1,0 +1,1 @@
+class javax_swing_JMenu_setMultiClickThreshhold_long{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.setMultiClickThreshhold(-5196878098630770250);}}

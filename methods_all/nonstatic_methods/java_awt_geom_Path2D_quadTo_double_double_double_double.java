@@ -1,0 +1,1 @@
+class java_awt_geom_Path2D_quadTo_double_double_double_double{ public static void function() {java.awt.geom.Path2D obj = new java.awt.geom.Path2D();obj.quadTo(0.4394757981981243,0.3905608415899724,0.681337300739845,0.9601312614966009);}}

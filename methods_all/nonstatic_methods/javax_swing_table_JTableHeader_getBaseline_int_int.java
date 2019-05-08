@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_getBaseline_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.getBaseline(-846177558,2022142942);}}

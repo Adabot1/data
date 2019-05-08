@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSliderUI_scrollByUnit_int{ public static void function() {javax.swing.plaf.basic.BasicSliderUI obj = new javax.swing.plaf.basic.BasicSliderUI();obj.scrollByUnit(743712569);}}

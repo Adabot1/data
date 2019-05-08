@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileImageInputStream_skipBytes_long{ public static void function() {javax.imageio.stream.FileImageInputStream obj = new javax.imageio.stream.FileImageInputStream();obj.skipBytes(7167669581723700230);}}

@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_wait_long_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.wait(8530798010953828669,661748826);}}

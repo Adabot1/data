@@ -1,0 +1,1 @@
+class javax_swing_text_GapContent_remove_int_int{ public static void function() {javax.swing.text.GapContent obj = new javax.swing.text.GapContent();obj.remove(1040367596,-202397315);}}

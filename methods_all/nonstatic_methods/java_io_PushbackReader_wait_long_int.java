@@ -1,0 +1,1 @@
+class java_io_PushbackReader_wait_long_int{ public static void function() {java.io.PushbackReader obj = new java.io.PushbackReader();obj.wait(3647752328119372662,362993251);}}

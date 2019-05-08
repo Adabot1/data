@@ -1,0 +1,1 @@
+class java_security_KeyPairGeneratorSpi_generateKeyPair{ public static void function() {java.security.KeyPairGeneratorSpi obj = new java.security.KeyPairGeneratorSpi();obj.generateKeyPair();}}

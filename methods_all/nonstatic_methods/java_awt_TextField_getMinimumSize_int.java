@@ -1,0 +1,1 @@
+class java_awt_TextField_getMinimumSize_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.getMinimumSize(-707236183);}}

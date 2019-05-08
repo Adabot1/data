@@ -1,0 +1,1 @@
+class java_awt_Window_contains_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.contains(469343102,-666611812);}}

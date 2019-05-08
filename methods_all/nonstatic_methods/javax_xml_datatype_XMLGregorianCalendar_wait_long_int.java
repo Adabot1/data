@@ -1,0 +1,1 @@
+class javax_xml_datatype_XMLGregorianCalendar_wait_long_int{ public static void function() {javax.xml.datatype.XMLGregorianCalendar obj = new javax.xml.datatype.XMLGregorianCalendar();obj.wait(-8787026829208184076,-1008014130);}}

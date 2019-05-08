@@ -1,0 +1,1 @@
+class javax_swing_JFrame_repaint_long_int_int_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.repaint(-6153083372199700504,961191521,-1720353230,842800508,-1038206186);}}

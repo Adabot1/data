@@ -1,0 +1,1 @@
+class javax_swing_SortOrder_wait_long_int{ public static void function() {javax.swing.SortOrder obj = new javax.swing.SortOrder();obj.wait(-254067891454351099,79768510);}}

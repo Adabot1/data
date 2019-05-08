@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseEra_wait_long_int{ public static void function() {java.time.chrono.JapaneseEra obj = new java.time.chrono.JapaneseEra();obj.wait(-1394554456580828984,-1165915704);}}

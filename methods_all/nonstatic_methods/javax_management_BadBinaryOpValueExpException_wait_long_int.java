@@ -1,0 +1,1 @@
+class javax_management_BadBinaryOpValueExpException_wait_long_int{ public static void function() {javax.management.BadBinaryOpValueExpException obj = new javax.management.BadBinaryOpValueExpException();obj.wait(8408936787560034061,-1698237653);}}

@@ -1,0 +1,1 @@
+class java_awt_ImageCapabilities_wait_long{ public static void function() {java.awt.ImageCapabilities obj = new java.awt.ImageCapabilities();obj.wait(-7201131174664989773);}}

@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_clearRect_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.clearRect(-1570906277,1734218596,-956760355,-828487110);}}

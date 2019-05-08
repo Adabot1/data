@@ -1,0 +1,1 @@
+class java_awt_FlowLayout_setAlignment_int{ public static void function() {java.awt.FlowLayout obj = new java.awt.FlowLayout();obj.setAlignment(1613818709);}}

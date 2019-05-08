@@ -1,0 +1,1 @@
+class java_nio_channels_DatagramChannel_wait_long{ public static void function() {java.nio.channels.DatagramChannel obj = new java.nio.channels.DatagramChannel();obj.wait(4831729990212469289);}}

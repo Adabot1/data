@@ -1,0 +1,1 @@
+class javax_swing_table_TableColumn_wait_long_int{ public static void function() {javax.swing.table.TableColumn obj = new javax.swing.table.TableColumn();obj.wait(3675157546865871474,-1800874825);}}

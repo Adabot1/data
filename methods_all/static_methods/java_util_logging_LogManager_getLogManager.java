@@ -1,0 +1,1 @@
+class java_util_logging_LogManager_getLogManager{ public static void function() {java.util.logging.LogManager.getLogManager();}}

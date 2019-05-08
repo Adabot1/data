@@ -1,0 +1,1 @@
+class java_util_stream_DoubleStream_of_double{ public static void function() {java.util.stream.DoubleStream.of(0.6157955637874998);}}

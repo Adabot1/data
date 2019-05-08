@@ -1,0 +1,1 @@
+class javax_xml_transform_dom_DOMSource_getClass{ public static void function() {javax.xml.transform.dom.DOMSource obj = new javax.xml.transform.dom.DOMSource();obj.getClass();}}

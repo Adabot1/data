@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_UnixSystem_wait{ public static void function() {com.sun.security.auth.module.UnixSystem obj = new com.sun.security.auth.module.UnixSystem();obj.wait();}}

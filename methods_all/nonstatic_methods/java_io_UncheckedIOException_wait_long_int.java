@@ -1,0 +1,1 @@
+class java_io_UncheckedIOException_wait_long_int{ public static void function() {java.io.UncheckedIOException obj = new java.io.UncheckedIOException();obj.wait(7645374172930971281,-1781748698);}}

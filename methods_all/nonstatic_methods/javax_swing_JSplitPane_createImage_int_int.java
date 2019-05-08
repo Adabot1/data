@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_createImage_int_int{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.createImage(-1077935623,-1214277672);}}

@@ -1,0 +1,1 @@
+class javax_swing_JViewport_repaint_long_int_int_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.repaint(4079806505358849328,-1150397391,1896482999,23195532,-1503448510);}}

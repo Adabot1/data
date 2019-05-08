@@ -1,0 +1,1 @@
+class java_awt_color_ICC_ColorSpace_getInstance_int{ public static void function() {java.awt.color.ICC_ColorSpace.getInstance(1830370711);}}

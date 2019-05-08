@@ -1,0 +1,1 @@
+class javax_swing_tree_ExpandVetoException_wait_long{ public static void function() {javax.swing.tree.ExpandVetoException obj = new javax.swing.tree.ExpandVetoException();obj.wait(-6179091037332099033);}}

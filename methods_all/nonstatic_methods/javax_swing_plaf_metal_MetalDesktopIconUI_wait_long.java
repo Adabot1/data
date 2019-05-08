@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalDesktopIconUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalDesktopIconUI obj = new javax.swing.plaf.metal.MetalDesktopIconUI();obj.wait(1518646678383243889);}}

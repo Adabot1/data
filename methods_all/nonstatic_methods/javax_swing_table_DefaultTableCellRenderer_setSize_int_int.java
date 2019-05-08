@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_setSize_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.setSize(1053253728,636149484);}}

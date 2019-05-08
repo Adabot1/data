@@ -1,0 +1,1 @@
+class java_io_PrintStream_println_boolean{ public static void function() {java.io.PrintStream obj = new java.io.PrintStream();obj.println(true);}}

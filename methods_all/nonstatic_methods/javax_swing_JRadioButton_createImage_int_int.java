@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_createImage_int_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.createImage(-1082956500,-997391391);}}

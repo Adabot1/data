@@ -1,0 +1,1 @@
+class java_awt_Dialog_createVolatileImage_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.createVolatileImage(-1869188122,324916413);}}

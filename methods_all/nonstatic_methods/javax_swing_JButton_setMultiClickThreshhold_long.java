@@ -1,0 +1,1 @@
+class javax_swing_JButton_setMultiClickThreshhold_long{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setMultiClickThreshhold(6334070036129759534);}}

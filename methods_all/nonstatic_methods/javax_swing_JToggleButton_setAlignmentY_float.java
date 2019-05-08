@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_setAlignmentY_float{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.setAlignmentY(0.8788333);}}

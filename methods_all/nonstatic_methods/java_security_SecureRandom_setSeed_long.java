@@ -1,0 +1,1 @@
+class java_security_SecureRandom_setSeed_long{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();obj.setSeed(-7552809073903033007);}}

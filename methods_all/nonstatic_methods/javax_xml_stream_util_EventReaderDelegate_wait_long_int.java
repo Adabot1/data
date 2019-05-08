@@ -1,0 +1,1 @@
+class javax_xml_stream_util_EventReaderDelegate_wait_long_int{ public static void function() {javax.xml.stream.util.EventReaderDelegate obj = new javax.xml.stream.util.EventReaderDelegate();obj.wait(5927004316460182270,-692539372);}}

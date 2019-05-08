@@ -1,0 +1,1 @@
+class java_io_OutputStream_write_int{ public static void function() {java.io.OutputStream obj = new java.io.OutputStream();obj.write(1573171991);}}

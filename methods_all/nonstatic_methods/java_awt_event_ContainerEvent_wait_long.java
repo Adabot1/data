@@ -1,0 +1,1 @@
+class java_awt_event_ContainerEvent_wait_long{ public static void function() {java.awt.event.ContainerEvent obj = new java.awt.event.ContainerEvent();obj.wait(237910236872768724);}}

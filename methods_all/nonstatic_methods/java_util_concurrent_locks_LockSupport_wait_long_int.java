@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_LockSupport_wait_long_int{ public static void function() {java.util.concurrent.locks.LockSupport obj = new java.util.concurrent.locks.LockSupport();obj.wait(-6328909820868612607,-452718868);}}

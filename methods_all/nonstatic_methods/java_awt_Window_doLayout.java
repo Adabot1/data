@@ -1,0 +1,1 @@
+class java_awt_Window_doLayout{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.doLayout();}}

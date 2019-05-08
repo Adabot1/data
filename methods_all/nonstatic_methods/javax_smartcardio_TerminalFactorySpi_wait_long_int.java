@@ -1,0 +1,1 @@
+class javax_smartcardio_TerminalFactorySpi_wait_long_int{ public static void function() {javax.smartcardio.TerminalFactorySpi obj = new javax.smartcardio.TerminalFactorySpi();obj.wait(-6791608155418807587,1093929540);}}

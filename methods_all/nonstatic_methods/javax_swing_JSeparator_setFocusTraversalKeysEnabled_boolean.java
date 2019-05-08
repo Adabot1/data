@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_setFocusTraversalKeysEnabled_boolean{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.setFocusTraversalKeysEnabled(true);}}

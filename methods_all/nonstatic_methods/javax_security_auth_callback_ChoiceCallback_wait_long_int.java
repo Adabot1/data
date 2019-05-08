@@ -1,0 +1,1 @@
+class javax_security_auth_callback_ChoiceCallback_wait_long_int{ public static void function() {javax.security.auth.callback.ChoiceCallback obj = new javax.security.auth.callback.ChoiceCallback();obj.wait(-5391667859796626652,-811923761);}}

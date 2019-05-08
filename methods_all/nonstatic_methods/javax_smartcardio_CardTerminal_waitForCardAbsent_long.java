@@ -1,0 +1,1 @@
+class javax_smartcardio_CardTerminal_waitForCardAbsent_long{ public static void function() {javax.smartcardio.CardTerminal obj = new javax.smartcardio.CardTerminal();obj.waitForCardAbsent(-4061422477576968148);}}

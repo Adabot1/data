@@ -1,0 +1,1 @@
+class javax_swing_FocusManager_isFocusManagerEnabled{ public static void function() {javax.swing.FocusManager.isFocusManagerEnabled();}}

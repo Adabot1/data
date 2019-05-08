@@ -1,0 +1,1 @@
+class java_util_concurrent_Phaser_wait_long{ public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();obj.wait(6576284535808826706);}}

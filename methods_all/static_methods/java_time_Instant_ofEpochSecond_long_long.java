@@ -1,0 +1,1 @@
+class java_time_Instant_ofEpochSecond_long_long{ public static void function() {java.time.Instant.ofEpochSecond(-1506104740495248108,-5888467027898405854);}}

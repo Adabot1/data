@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_wait_long{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.wait(4718622042780056911);}}

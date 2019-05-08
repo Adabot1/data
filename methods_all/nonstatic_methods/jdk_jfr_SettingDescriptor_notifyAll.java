@@ -1,0 +1,1 @@
+class jdk_jfr_SettingDescriptor_notifyAll{ public static void function() {jdk.jfr.SettingDescriptor obj = new jdk.jfr.SettingDescriptor();obj.notifyAll();}}

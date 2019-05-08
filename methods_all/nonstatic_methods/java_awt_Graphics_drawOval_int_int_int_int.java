@@ -1,0 +1,1 @@
+class java_awt_Graphics_drawOval_int_int_int_int{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.drawOval(1101228065,-2142218489,696761082,-200880637);}}

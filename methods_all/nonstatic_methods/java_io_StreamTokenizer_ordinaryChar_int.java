@@ -1,0 +1,1 @@
+class java_io_StreamTokenizer_ordinaryChar_int{ public static void function() {java.io.StreamTokenizer obj = new java.io.StreamTokenizer();obj.ordinaryChar(-248769391);}}

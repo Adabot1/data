@@ -1,0 +1,1 @@
+class javax_xml_parsers_SAXParser_wait_long{ public static void function() {javax.xml.parsers.SAXParser obj = new javax.xml.parsers.SAXParser();obj.wait(2925043240331862307);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicMenuBarUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicMenuBarUI obj = new javax.swing.plaf.basic.BasicMenuBarUI();obj.wait(-8723561231092947947,-1331065871);}}

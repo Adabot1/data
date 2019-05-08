@@ -1,0 +1,1 @@
+class javax_net_ssl_ExtendedSSLSession_wait_long{ public static void function() {javax.net.ssl.ExtendedSSLSession obj = new javax.net.ssl.ExtendedSSLSession();obj.wait(5888870968571909639);}}

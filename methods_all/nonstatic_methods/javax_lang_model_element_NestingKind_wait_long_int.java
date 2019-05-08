@@ -1,0 +1,1 @@
+class javax_lang_model_element_NestingKind_wait_long_int{ public static void function() {javax.lang.model.element.NestingKind obj = new javax.lang.model.element.NestingKind();obj.wait(3313755836521160432,-480177209);}}

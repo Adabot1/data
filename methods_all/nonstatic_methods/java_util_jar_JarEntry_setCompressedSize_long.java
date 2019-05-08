@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_setCompressedSize_long{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.setCompressedSize(6554092907878259890);}}

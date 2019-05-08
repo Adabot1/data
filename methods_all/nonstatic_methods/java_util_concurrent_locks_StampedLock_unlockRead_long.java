@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_unlockRead_long{ public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();obj.unlockRead(-6735095655078376817);}}

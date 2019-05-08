@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_getClass{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.getClass();}}

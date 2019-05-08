@@ -1,0 +1,1 @@
+class java_rmi_server_UID_getClass{ public static void function() {java.rmi.server.UID obj = new java.rmi.server.UID();obj.getClass();}}

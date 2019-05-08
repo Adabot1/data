@@ -1,0 +1,1 @@
+class java_lang_Byte_wait_long{ public static void function() {java.lang.Byte obj = new java.lang.Byte();obj.wait(5473690423784089837);}}

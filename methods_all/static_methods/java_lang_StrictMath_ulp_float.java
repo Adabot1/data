@@ -1,0 +1,1 @@
+class java_lang_StrictMath_ulp_float{ public static void function() {java.lang.StrictMath.ulp(0.7354017);}}

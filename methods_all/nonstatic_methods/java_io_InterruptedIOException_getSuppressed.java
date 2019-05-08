@@ -1,0 +1,1 @@
+class java_io_InterruptedIOException_getSuppressed{ public static void function() {java.io.InterruptedIOException obj = new java.io.InterruptedIOException();obj.getSuppressed();}}

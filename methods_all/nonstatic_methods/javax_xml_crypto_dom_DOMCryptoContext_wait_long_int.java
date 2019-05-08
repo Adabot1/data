@@ -1,0 +1,1 @@
+class javax_xml_crypto_dom_DOMCryptoContext_wait_long_int{ public static void function() {javax.xml.crypto.dom.DOMCryptoContext obj = new javax.xml.crypto.dom.DOMCryptoContext();obj.wait(1476280190571963083,1292291236);}}

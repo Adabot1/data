@@ -1,0 +1,1 @@
+class java_net_NetworkInterface_wait{ public static void function() {java.net.NetworkInterface obj = new java.net.NetworkInterface();obj.wait();}}

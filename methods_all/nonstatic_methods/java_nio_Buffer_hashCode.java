@@ -1,0 +1,1 @@
+class java_nio_Buffer_hashCode{ public static void function() {java.nio.Buffer obj = new java.nio.Buffer();obj.hashCode();}}

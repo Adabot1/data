@@ -1,0 +1,1 @@
+class javax_net_ServerSocketFactory_wait_long{ public static void function() {javax.net.ServerSocketFactory obj = new javax.net.ServerSocketFactory();obj.wait(-7045293574030773392);}}

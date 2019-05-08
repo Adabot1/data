@@ -1,0 +1,1 @@
+class java_lang_StringBuilder_wait_long_int{ public static void function() {java.lang.StringBuilder obj = new java.lang.StringBuilder();obj.wait(5541922398817492982,1425267168);}}

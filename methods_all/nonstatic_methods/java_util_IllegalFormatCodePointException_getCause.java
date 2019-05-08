@@ -1,0 +1,1 @@
+class java_util_IllegalFormatCodePointException_getCause{ public static void function() {java.util.IllegalFormatCodePointException obj = new java.util.IllegalFormatCodePointException();obj.getCause();}}

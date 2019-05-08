@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_plusWeeks_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.plusWeeks(-2040218486040287786);}}

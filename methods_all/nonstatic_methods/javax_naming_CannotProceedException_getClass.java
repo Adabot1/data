@@ -1,0 +1,1 @@
+class javax_naming_CannotProceedException_getClass{ public static void function() {javax.naming.CannotProceedException obj = new javax.naming.CannotProceedException();obj.getClass();}}

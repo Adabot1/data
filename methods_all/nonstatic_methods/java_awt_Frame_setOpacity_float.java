@@ -1,0 +1,1 @@
+class java_awt_Frame_setOpacity_float{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.setOpacity(0.9552924);}}

@@ -1,0 +1,1 @@
+class java_util_IllegalFormatPrecisionException_getLocalizedMessage{ public static void function() {java.util.IllegalFormatPrecisionException obj = new java.util.IllegalFormatPrecisionException();obj.getLocalizedMessage();}}

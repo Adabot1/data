@@ -1,0 +1,1 @@
+class java_text_NumberFormat_setParseIntegerOnly_boolean{ public static void function() {java.text.NumberFormat obj = new java.text.NumberFormat();obj.setParseIntegerOnly(false);}}

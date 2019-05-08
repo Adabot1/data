@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_XMLFilterImpl_wait_long{ public static void function() {org.xml.sax.helpers.XMLFilterImpl obj = new org.xml.sax.helpers.XMLFilterImpl();obj.wait(8424589366419307850);}}

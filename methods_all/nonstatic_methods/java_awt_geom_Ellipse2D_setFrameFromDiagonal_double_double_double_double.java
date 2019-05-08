@@ -1,0 +1,1 @@
+class java_awt_geom_Ellipse2D_setFrameFromDiagonal_double_double_double_double{ public static void function() {java.awt.geom.Ellipse2D obj = new java.awt.geom.Ellipse2D();obj.setFrameFromDiagonal(0.03657226495004373,0.785155226842671,0.9426332058085505,0.03582128869704915);}}

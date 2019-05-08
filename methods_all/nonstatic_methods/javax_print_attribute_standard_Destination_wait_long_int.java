@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_Destination_wait_long_int{ public static void function() {javax.print.attribute.standard.Destination obj = new javax.print.attribute.standard.Destination();obj.wait(8148903743307309351,-643844888);}}

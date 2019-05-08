@@ -1,0 +1,1 @@
+class java_awt_Button_areFocusTraversalKeysSet_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.areFocusTraversalKeysSet(148409557);}}

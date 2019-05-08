@@ -1,0 +1,1 @@
+class java_lang_Math_getClass{ public static void function() {java.lang.Math obj = new java.lang.Math();obj.getClass();}}

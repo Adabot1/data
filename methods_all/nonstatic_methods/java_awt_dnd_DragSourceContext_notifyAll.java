@@ -1,0 +1,1 @@
+class java_awt_dnd_DragSourceContext_notifyAll{ public static void function() {java.awt.dnd.DragSourceContext obj = new java.awt.dnd.DragSourceContext();obj.notifyAll();}}

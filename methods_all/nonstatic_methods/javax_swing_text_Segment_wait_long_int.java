@@ -1,0 +1,1 @@
+class javax_swing_text_Segment_wait_long_int{ public static void function() {javax.swing.text.Segment obj = new javax.swing.text.Segment();obj.wait(3806858594801652352,1830675099);}}

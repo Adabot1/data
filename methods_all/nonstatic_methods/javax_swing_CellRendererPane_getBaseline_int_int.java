@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_getBaseline_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.getBaseline(183658708,-890250070);}}

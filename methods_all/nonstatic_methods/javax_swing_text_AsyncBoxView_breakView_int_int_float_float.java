@@ -1,0 +1,1 @@
+class javax_swing_text_AsyncBoxView_breakView_int_int_float_float{ public static void function() {javax.swing.text.AsyncBoxView obj = new javax.swing.text.AsyncBoxView();obj.breakView(-451148369,-170157747,0.7352683,0.5265551);}}

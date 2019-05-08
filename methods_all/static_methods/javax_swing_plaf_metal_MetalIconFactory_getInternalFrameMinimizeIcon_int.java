@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalIconFactory_getInternalFrameMinimizeIcon_int{ public static void function() {javax.swing.plaf.metal.MetalIconFactory.getInternalFrameMinimizeIcon(-795920825);}}

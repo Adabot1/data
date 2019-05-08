@@ -1,0 +1,1 @@
+class java_util_UnknownFormatConversionException_wait_long{ public static void function() {java.util.UnknownFormatConversionException obj = new java.util.UnknownFormatConversionException();obj.wait(3651907966890613006);}}

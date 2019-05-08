@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_resize_int_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.resize(-377180777,-442517735);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_weakCompareAndSetPlain_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.weakCompareAndSetPlain(-4459556536673884135,-4912159844734287453);}}

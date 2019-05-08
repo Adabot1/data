@@ -1,0 +1,1 @@
+class java_awt_image_WritableRaster_createWritableTranslatedChild_int_int{ public static void function() {java.awt.image.WritableRaster obj = new java.awt.image.WritableRaster();obj.createWritableTranslatedChild(1596524918,-2074257966);}}

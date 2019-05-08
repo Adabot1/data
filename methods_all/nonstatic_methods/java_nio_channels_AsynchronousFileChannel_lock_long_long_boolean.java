@@ -1,0 +1,1 @@
+class java_nio_channels_AsynchronousFileChannel_lock_long_long_boolean{ public static void function() {java.nio.channels.AsynchronousFileChannel obj = new java.nio.channels.AsynchronousFileChannel();obj.lock(-5520991210296041976,-4394060434291938921,false);}}

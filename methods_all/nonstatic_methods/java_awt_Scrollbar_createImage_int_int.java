@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_createImage_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.createImage(267951068,1241012962);}}

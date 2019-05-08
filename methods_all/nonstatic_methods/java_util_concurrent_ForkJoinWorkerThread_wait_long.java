@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinWorkerThread_wait_long{ public static void function() {java.util.concurrent.ForkJoinWorkerThread obj = new java.util.concurrent.ForkJoinWorkerThread();obj.wait(6918266686681867544);}}

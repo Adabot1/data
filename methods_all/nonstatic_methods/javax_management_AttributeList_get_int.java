@@ -1,0 +1,1 @@
+class javax_management_AttributeList_get_int{ public static void function() {javax.management.AttributeList obj = new javax.management.AttributeList();obj.get(931901221);}}

@@ -1,0 +1,1 @@
+class java_util_spi_CalendarNameProvider_wait_long{ public static void function() {java.util.spi.CalendarNameProvider obj = new java.util.spi.CalendarNameProvider();obj.wait(6323757662831452560);}}

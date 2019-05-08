@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_wait_long{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.wait(1462318839479804420);}}

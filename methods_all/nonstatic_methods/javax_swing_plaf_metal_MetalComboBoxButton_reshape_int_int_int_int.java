@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_reshape_int_int_int_int{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.reshape(-469063089,-1175922914,-1086060585,179630836);}}

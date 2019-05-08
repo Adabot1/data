@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_createImage_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.createImage(-1010043562,-2103296091);}}

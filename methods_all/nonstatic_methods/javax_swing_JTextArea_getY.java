@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_getY{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.getY();}}

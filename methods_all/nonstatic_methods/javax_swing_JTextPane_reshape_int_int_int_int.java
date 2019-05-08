@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_reshape_int_int_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.reshape(-128564369,195121825,-723911486,-1161518579);}}

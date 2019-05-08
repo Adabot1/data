@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_getIgnoreRepaint{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.getIgnoreRepaint();}}

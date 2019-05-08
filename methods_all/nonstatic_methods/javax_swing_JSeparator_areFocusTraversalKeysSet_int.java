@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.areFocusTraversalKeysSet(-194450525);}}

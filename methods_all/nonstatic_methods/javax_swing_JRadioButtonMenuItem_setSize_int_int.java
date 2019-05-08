@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_setSize_int_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.setSize(-134051561,-543750563);}}

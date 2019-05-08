@@ -1,0 +1,1 @@
+class java_awt_image_renderable_ParameterBlock_wait_long{ public static void function() {java.awt.image.renderable.ParameterBlock obj = new java.awt.image.renderable.ParameterBlock();obj.wait(6092463011602221553);}}

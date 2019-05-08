@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthSeparatorUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthSeparatorUI obj = new javax.swing.plaf.synth.SynthSeparatorUI();obj.wait(-9047697873506579297);}}

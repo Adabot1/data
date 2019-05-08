@@ -1,0 +1,1 @@
+class javax_swing_text_TableView_getMinimumSpan_int{ public static void function() {javax.swing.text.TableView obj = new javax.swing.text.TableView();obj.getMinimumSpan(1699342857);}}

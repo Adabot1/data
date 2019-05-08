@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SQLOutputImpl_writeFloat_float{ public static void function() {javax.sql.rowset.serial.SQLOutputImpl obj = new javax.sql.rowset.serial.SQLOutputImpl();obj.writeFloat(0.84443647);}}

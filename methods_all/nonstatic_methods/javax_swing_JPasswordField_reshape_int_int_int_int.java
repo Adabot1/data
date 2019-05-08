@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_reshape_int_int_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.reshape(1147591108,-1046831497,286502531,1592112278);}}

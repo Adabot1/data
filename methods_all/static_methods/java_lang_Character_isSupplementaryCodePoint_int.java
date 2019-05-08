@@ -1,0 +1,1 @@
+class java_lang_Character_isSupplementaryCodePoint_int{ public static void function() {java.lang.Character.isSupplementaryCodePoint(-549064842);}}

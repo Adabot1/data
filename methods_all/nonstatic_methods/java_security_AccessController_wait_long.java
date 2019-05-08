@@ -1,0 +1,1 @@
+class java_security_AccessController_wait_long{ public static void function() {java.security.AccessController obj = new java.security.AccessController();obj.wait(-4629393731593441364);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_wait{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.wait();}}

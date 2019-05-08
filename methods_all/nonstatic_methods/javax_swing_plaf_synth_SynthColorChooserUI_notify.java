@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthColorChooserUI_notify{ public static void function() {javax.swing.plaf.synth.SynthColorChooserUI obj = new javax.swing.plaf.synth.SynthColorChooserUI();obj.notify();}}

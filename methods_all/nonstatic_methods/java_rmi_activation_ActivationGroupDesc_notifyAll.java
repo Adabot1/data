@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroupDesc_notifyAll{ public static void function() {java.rmi.activation.ActivationGroupDesc obj = new java.rmi.activation.ActivationGroupDesc();obj.notifyAll();}}

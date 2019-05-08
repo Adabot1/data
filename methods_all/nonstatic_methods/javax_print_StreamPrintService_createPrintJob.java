@@ -1,0 +1,1 @@
+class javax_print_StreamPrintService_createPrintJob{ public static void function() {javax.print.StreamPrintService obj = new javax.print.StreamPrintService();obj.createPrintJob();}}

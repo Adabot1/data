@@ -1,0 +1,1 @@
+class org_xml_sax_helpers_AttributeListImpl_getValue_int{ public static void function() {org.xml.sax.helpers.AttributeListImpl obj = new org.xml.sax.helpers.AttributeListImpl();obj.getValue(-1270303779);}}

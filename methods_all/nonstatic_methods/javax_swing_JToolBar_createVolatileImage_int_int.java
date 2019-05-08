@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_createVolatileImage_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.createVolatileImage(1660467287,887203407);}}

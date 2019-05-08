@@ -1,0 +1,1 @@
+class javax_swing_TransferHandler_wait_long_int{ public static void function() {javax.swing.TransferHandler obj = new javax.swing.TransferHandler();obj.wait(-4275771084018444274,-1156963325);}}

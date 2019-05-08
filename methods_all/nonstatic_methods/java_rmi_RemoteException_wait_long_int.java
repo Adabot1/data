@@ -1,0 +1,1 @@
+class java_rmi_RemoteException_wait_long_int{ public static void function() {java.rmi.RemoteException obj = new java.rmi.RemoteException();obj.wait(-6061139629826590791,2087516814);}}

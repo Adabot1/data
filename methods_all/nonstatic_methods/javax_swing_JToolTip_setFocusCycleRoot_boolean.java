@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_setFocusCycleRoot_boolean{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.setFocusCycleRoot(false);}}

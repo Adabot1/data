@@ -1,0 +1,1 @@
+class javax_print_DocFlavor_wait_long_int{ public static void function() {javax.print.DocFlavor obj = new javax.print.DocFlavor();obj.wait(5398535482460456506,-354583528);}}

@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_transferFocusBackward{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.transferFocusBackward();}}

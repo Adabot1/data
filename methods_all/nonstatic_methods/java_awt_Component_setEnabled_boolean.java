@@ -1,0 +1,1 @@
+class java_awt_Component_setEnabled_boolean{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.setEnabled(false);}}

@@ -1,0 +1,1 @@
+class javax_smartcardio_ATR_toString{ public static void function() {javax.smartcardio.ATR obj = new javax.smartcardio.ATR();obj.toString();}}

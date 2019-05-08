@@ -1,0 +1,1 @@
+class javax_management_ObjectInstance_wait_long_int{ public static void function() {javax.management.ObjectInstance obj = new javax.management.ObjectInstance();obj.wait(-1522185472263924951,-1753620252);}}

@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_findComponentAt_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.findComponentAt(-389549596,-206899998);}}

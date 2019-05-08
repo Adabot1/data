@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicProgressBarUI_wait_long{ public static void function() {javax.swing.plaf.basic.BasicProgressBarUI obj = new javax.swing.plaf.basic.BasicProgressBarUI();obj.wait(-7093323375917751209);}}

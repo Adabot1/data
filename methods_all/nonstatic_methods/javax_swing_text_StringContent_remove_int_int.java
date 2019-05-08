@@ -1,0 +1,1 @@
+class javax_swing_text_StringContent_remove_int_int{ public static void function() {javax.swing.text.StringContent obj = new javax.swing.text.StringContent();obj.remove(545767154,-200333019);}}

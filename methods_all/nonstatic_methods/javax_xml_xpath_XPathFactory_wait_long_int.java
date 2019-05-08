@@ -1,0 +1,1 @@
+class javax_xml_xpath_XPathFactory_wait_long_int{ public static void function() {javax.xml.xpath.XPathFactory obj = new javax.xml.xpath.XPathFactory();obj.wait(-8310787417020442350,-1164978403);}}

@@ -1,0 +1,1 @@
+class java_lang_Math_random{ public static void function() {java.lang.Math.random();}}

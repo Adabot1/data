@@ -1,0 +1,1 @@
+class java_util_OptionalInt_wait_long{ public static void function() {java.util.OptionalInt obj = new java.util.OptionalInt();obj.wait(-6220488950441783456);}}

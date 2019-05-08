@@ -1,0 +1,1 @@
+class java_awt_Component_repaint_int_int_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.repaint(-1358370357,-1593053246,-516603257,1881168340);}}

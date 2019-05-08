@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_BasicAuthenticator_wait_long{ public static void function() {com.sun.net.httpserver.BasicAuthenticator obj = new com.sun.net.httpserver.BasicAuthenticator();obj.wait(1801845427004321615);}}

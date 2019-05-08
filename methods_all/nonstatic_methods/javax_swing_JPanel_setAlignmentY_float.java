@@ -1,0 +1,1 @@
+class javax_swing_JPanel_setAlignmentY_float{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.setAlignmentY(0.42433894);}}

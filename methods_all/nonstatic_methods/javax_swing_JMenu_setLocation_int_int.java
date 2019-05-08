@@ -1,0 +1,1 @@
+class javax_swing_JMenu_setLocation_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.setLocation(-891385968,-1068292395);}}

@@ -1,0 +1,1 @@
+class javax_sql_rowset_BaseRowSet_setByte_int_byte{ public static void function() {javax.sql.rowset.BaseRowSet obj = new javax.sql.rowset.BaseRowSet();obj.setByte(1681532205,[B@7b50df34);}}

@@ -1,0 +1,1 @@
+class com_sun_jdi_connect_IllegalConnectorArgumentsException_wait_long_int{ public static void function() {com.sun.jdi.connect.IllegalConnectorArgumentsException obj = new com.sun.jdi.connect.IllegalConnectorArgumentsException();obj.wait(3588084991395823137,286377027);}}

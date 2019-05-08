@@ -1,0 +1,1 @@
+class java_awt_Color_wait{ public static void function() {java.awt.Color obj = new java.awt.Color();obj.wait();}}

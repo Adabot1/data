@@ -1,0 +1,1 @@
+class java_security_KeyFactorySpi_notifyAll{ public static void function() {java.security.KeyFactorySpi obj = new java.security.KeyFactorySpi();obj.notifyAll();}}

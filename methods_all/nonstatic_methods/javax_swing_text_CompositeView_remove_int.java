@@ -1,0 +1,1 @@
+class javax_swing_text_CompositeView_remove_int{ public static void function() {javax.swing.text.CompositeView obj = new javax.swing.text.CompositeView();obj.remove(1893848618);}}

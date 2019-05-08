@@ -1,0 +1,1 @@
+class javax_swing_JButton_createVolatileImage_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.createVolatileImage(-1126781713,-1642392170);}}

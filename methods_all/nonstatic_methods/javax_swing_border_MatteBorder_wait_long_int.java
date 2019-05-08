@@ -1,0 +1,1 @@
+class javax_swing_border_MatteBorder_wait_long_int{ public static void function() {javax.swing.border.MatteBorder obj = new javax.swing.border.MatteBorder();obj.wait(3430192987352454938,-525619571);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_ParagraphView_setSize_float_float{ public static void function() {javax.swing.text.ParagraphView obj = new javax.swing.text.ParagraphView();obj.setSize(0.10490751,0.5866605);}}

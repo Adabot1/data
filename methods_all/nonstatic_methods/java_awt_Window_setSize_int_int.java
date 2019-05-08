@@ -1,0 +1,1 @@
+class java_awt_Window_setSize_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.setSize(-611502240,2074844974);}}

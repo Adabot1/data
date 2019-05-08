@@ -1,0 +1,1 @@
+class javax_management_MBeanPermission_getName{ public static void function() {javax.management.MBeanPermission obj = new javax.management.MBeanPermission();obj.getName();}}

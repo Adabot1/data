@@ -1,0 +1,1 @@
+class javax_swing_JMenu_setHorizontalAlignment_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.setHorizontalAlignment(-903103818);}}

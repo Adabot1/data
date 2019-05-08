@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_inside_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.inside(-342893261,-644273626);}}

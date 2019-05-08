@@ -1,0 +1,1 @@
+class javax_swing_JButton_contains_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.contains(1434939552,842346264);}}

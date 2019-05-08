@@ -1,0 +1,1 @@
+class java_awt_dnd_DragSourceEvent_wait_long_int{ public static void function() {java.awt.dnd.DragSourceEvent obj = new java.awt.dnd.DragSourceEvent();obj.wait(-2507957240452967286,-1439434980);}}

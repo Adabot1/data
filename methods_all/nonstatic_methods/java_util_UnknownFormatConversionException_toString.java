@@ -1,0 +1,1 @@
+class java_util_UnknownFormatConversionException_toString{ public static void function() {java.util.UnknownFormatConversionException obj = new java.util.UnknownFormatConversionException();obj.toString();}}

@@ -1,0 +1,1 @@
+class java_awt_GridBagConstraints_wait_long_int{ public static void function() {java.awt.GridBagConstraints obj = new java.awt.GridBagConstraints();obj.wait(-6986530579838933187,-1394263871);}}

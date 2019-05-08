@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_quadrantRotate_int_double_double{ public static void function() {java.awt.geom.AffineTransform obj = new java.awt.geom.AffineTransform();obj.quadrantRotate(1326085429,0.05698119493199416,0.24926923594705652);}}

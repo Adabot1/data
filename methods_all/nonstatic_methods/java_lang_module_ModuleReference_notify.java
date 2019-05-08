@@ -1,0 +1,1 @@
+class java_lang_module_ModuleReference_notify{ public static void function() {java.lang.module.ModuleReference obj = new java.lang.module.ModuleReference();obj.notify();}}

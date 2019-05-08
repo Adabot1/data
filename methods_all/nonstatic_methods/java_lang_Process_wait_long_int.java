@@ -1,0 +1,1 @@
+class java_lang_Process_wait_long_int{ public static void function() {java.lang.Process obj = new java.lang.Process();obj.wait(1317520218827030263,-609318901);}}

@@ -1,0 +1,1 @@
+class javax_sql_rowset_RowSetMetaDataImpl_isDefinitelyWritable_int{ public static void function() {javax.sql.rowset.RowSetMetaDataImpl obj = new javax.sql.rowset.RowSetMetaDataImpl();obj.isDefinitelyWritable(1704775485);}}

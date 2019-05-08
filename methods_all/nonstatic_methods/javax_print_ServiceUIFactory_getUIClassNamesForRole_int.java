@@ -1,0 +1,1 @@
+class javax_print_ServiceUIFactory_getUIClassNamesForRole_int{ public static void function() {javax.print.ServiceUIFactory obj = new javax.print.ServiceUIFactory();obj.getUIClassNamesForRole(472810328);}}

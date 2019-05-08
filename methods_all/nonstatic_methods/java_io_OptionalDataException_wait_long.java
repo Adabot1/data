@@ -1,0 +1,1 @@
+class java_io_OptionalDataException_wait_long{ public static void function() {java.io.OptionalDataException obj = new java.io.OptionalDataException();obj.wait(-7411518090329651768);}}

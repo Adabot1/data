@@ -1,0 +1,1 @@
+class java_awt_CheckboxMenuItem_wait_long_int{ public static void function() {java.awt.CheckboxMenuItem obj = new java.awt.CheckboxMenuItem();obj.wait(-7194473877937432138,383647773);}}

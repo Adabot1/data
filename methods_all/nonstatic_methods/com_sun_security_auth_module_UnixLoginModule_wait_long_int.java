@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_UnixLoginModule_wait_long_int{ public static void function() {com.sun.security.auth.module.UnixLoginModule obj = new com.sun.security.auth.module.UnixLoginModule();obj.wait(6087840539358756989,230032458);}}

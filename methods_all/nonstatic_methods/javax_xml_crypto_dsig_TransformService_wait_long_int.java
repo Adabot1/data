@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_TransformService_wait_long_int{ public static void function() {javax.xml.crypto.dsig.TransformService obj = new javax.xml.crypto.dsig.TransformService();obj.wait(3759424606937767595,-1524092766);}}

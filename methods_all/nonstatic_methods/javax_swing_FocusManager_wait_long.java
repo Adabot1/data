@@ -1,0 +1,1 @@
+class javax_swing_FocusManager_wait_long{ public static void function() {javax.swing.FocusManager obj = new javax.swing.FocusManager();obj.wait(1852271117582378117);}}

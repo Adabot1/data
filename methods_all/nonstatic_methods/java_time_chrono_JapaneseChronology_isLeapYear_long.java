@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseChronology_isLeapYear_long{ public static void function() {java.time.chrono.JapaneseChronology obj = new java.time.chrono.JapaneseChronology();obj.isLeapYear(-8470619307290645788);}}

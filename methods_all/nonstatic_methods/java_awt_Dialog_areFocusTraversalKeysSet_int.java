@@ -1,0 +1,1 @@
+class java_awt_Dialog_areFocusTraversalKeysSet_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.areFocusTraversalKeysSet(2038489575);}}

@@ -1,0 +1,1 @@
+class javax_imageio_ImageReader_getThumbnailHeight_int_int{ public static void function() {javax.imageio.ImageReader obj = new javax.imageio.ImageReader();obj.getThumbnailHeight(1210097202,-1564363141);}}

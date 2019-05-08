@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileImageOutputStream_writeLong_long{ public static void function() {javax.imageio.stream.FileImageOutputStream obj = new javax.imageio.stream.FileImageOutputStream();obj.writeLong(1520938613280375452);}}

@@ -1,0 +1,1 @@
+class java_awt_SystemColor_getAlpha{ public static void function() {java.awt.SystemColor obj = new java.awt.SystemColor();obj.getAlpha();}}

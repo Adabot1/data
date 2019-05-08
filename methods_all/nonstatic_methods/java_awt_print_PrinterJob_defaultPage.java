@@ -1,0 +1,1 @@
+class java_awt_print_PrinterJob_defaultPage{ public static void function() {java.awt.print.PrinterJob obj = new java.awt.print.PrinterJob();obj.defaultPage();}}

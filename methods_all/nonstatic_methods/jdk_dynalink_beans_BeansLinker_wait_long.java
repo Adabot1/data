@@ -1,0 +1,1 @@
+class jdk_dynalink_beans_BeansLinker_wait_long{ public static void function() {jdk.dynalink.beans.BeansLinker obj = new jdk.dynalink.beans.BeansLinker();obj.wait(-6675639273345532454);}}

@@ -1,0 +1,1 @@
+class jdk_dynalink_DynamicLinker_toString{ public static void function() {jdk.dynalink.DynamicLinker obj = new jdk.dynalink.DynamicLinker();obj.toString();}}

@@ -1,0 +1,1 @@
+class javax_swing_event_InternalFrameEvent_hashCode{ public static void function() {javax.swing.event.InternalFrameEvent obj = new javax.swing.event.InternalFrameEvent();obj.hashCode();}}

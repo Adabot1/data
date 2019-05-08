@@ -1,0 +1,1 @@
+class java_time_chrono_Chronology_getAvailableChronologies{ public static void function() {java.time.chrono.Chronology.getAvailableChronologies();}}

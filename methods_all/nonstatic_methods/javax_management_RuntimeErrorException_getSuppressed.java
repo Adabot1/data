@@ -1,0 +1,1 @@
+class javax_management_RuntimeErrorException_getSuppressed{ public static void function() {javax.management.RuntimeErrorException obj = new javax.management.RuntimeErrorException();obj.getSuppressed();}}

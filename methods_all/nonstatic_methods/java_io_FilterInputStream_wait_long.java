@@ -1,0 +1,1 @@
+class java_io_FilterInputStream_wait_long{ public static void function() {java.io.FilterInputStream obj = new java.io.FilterInputStream();obj.wait(7663667515356906049);}}

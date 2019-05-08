@@ -1,0 +1,1 @@
+class java_awt_TrayIcon_hashCode{ public static void function() {java.awt.TrayIcon obj = new java.awt.TrayIcon();obj.hashCode();}}

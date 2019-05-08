@@ -1,0 +1,1 @@
+class javax_imageio_ImageReadParam_getController{ public static void function() {javax.imageio.ImageReadParam obj = new javax.imageio.ImageReadParam();obj.getController();}}

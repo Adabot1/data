@@ -1,0 +1,1 @@
+class jdk_jfr_FlightRecorder_notifyAll{ public static void function() {jdk.jfr.FlightRecorder obj = new jdk.jfr.FlightRecorder();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class java_awt_List_repaint_int_int_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.repaint(-1037439839,1154413075,-1089934657,-1535284015);}}

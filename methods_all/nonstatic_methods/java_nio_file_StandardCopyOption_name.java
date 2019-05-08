@@ -1,0 +1,1 @@
+class java_nio_file_StandardCopyOption_name{ public static void function() {java.nio.file.StandardCopyOption obj = new java.nio.file.StandardCopyOption();obj.name();}}

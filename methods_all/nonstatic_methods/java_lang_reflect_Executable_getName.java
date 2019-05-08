@@ -1,0 +1,1 @@
+class java_lang_reflect_Executable_getName{ public static void function() {java.lang.reflect.Executable obj = new java.lang.reflect.Executable();obj.getName();}}

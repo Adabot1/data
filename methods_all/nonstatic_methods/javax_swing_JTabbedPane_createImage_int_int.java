@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_createImage_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.createImage(-1424578383,-1192233602);}}

@@ -1,0 +1,1 @@
+class javax_xml_xpath_XPathFactory_hashCode{ public static void function() {javax.xml.xpath.XPathFactory obj = new javax.xml.xpath.XPathFactory();obj.hashCode();}}

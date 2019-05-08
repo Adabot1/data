@@ -1,0 +1,1 @@
+class javax_swing_event_TreeSelectionEvent_getClass{ public static void function() {javax.swing.event.TreeSelectionEvent obj = new javax.swing.event.TreeSelectionEvent();obj.getClass();}}

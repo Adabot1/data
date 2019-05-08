@@ -1,0 +1,1 @@
+class java_util_IntSummaryStatistics_wait_long{ public static void function() {java.util.IntSummaryStatistics obj = new java.util.IntSummaryStatistics();obj.wait(2978152025628653448);}}

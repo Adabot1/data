@@ -1,0 +1,1 @@
+class javax_security_cert_Certificate_wait_long{ public static void function() {javax.security.cert.Certificate obj = new javax.security.cert.Certificate();obj.wait(-2247277597088007475);}}

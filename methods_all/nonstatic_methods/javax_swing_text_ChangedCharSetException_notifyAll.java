@@ -1,0 +1,1 @@
+class javax_swing_text_ChangedCharSetException_notifyAll{ public static void function() {javax.swing.text.ChangedCharSetException obj = new javax.swing.text.ChangedCharSetException();obj.notifyAll();}}

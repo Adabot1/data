@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_contains_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.contains(457831394,-1897840319);}}

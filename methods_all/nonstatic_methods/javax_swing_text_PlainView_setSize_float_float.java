@@ -1,0 +1,1 @@
+class javax_swing_text_PlainView_setSize_float_float{ public static void function() {javax.swing.text.PlainView obj = new javax.swing.text.PlainView();obj.setSize(0.54868525,0.032473207);}}

@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageTranscoderSpi_wait_long_int{ public static void function() {javax.imageio.spi.ImageTranscoderSpi obj = new javax.imageio.spi.ImageTranscoderSpi();obj.wait(4649431883854972095,-32055140);}}

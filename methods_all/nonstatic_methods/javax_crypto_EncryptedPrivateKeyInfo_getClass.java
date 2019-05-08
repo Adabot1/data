@@ -1,0 +1,1 @@
+class javax_crypto_EncryptedPrivateKeyInfo_getClass{ public static void function() {javax.crypto.EncryptedPrivateKeyInfo obj = new javax.crypto.EncryptedPrivateKeyInfo();obj.getClass();}}

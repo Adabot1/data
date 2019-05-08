@@ -1,0 +1,1 @@
+class javax_crypto_Cipher_wait_long_int{ public static void function() {javax.crypto.Cipher obj = new javax.crypto.Cipher();obj.wait(5962955827648494838,-1023851477);}}

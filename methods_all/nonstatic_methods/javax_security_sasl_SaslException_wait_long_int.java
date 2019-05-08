@@ -1,0 +1,1 @@
+class javax_security_sasl_SaslException_wait_long_int{ public static void function() {javax.security.sasl.SaslException obj = new javax.security.sasl.SaslException();obj.wait(8048280246686451432,-284679962);}}

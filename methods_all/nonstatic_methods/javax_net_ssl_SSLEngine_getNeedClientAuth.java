@@ -1,0 +1,1 @@
+class javax_net_ssl_SSLEngine_getNeedClientAuth{ public static void function() {javax.net.ssl.SSLEngine obj = new javax.net.ssl.SSLEngine();obj.getNeedClientAuth();}}

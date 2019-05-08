@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiLabelUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiLabelUI obj = new javax.swing.plaf.multi.MultiLabelUI();obj.wait(8978957047392569285,1222269017);}}

@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_resize_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.resize(-1261881700,1821492529);}}

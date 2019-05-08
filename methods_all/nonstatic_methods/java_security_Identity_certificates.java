@@ -1,0 +1,1 @@
+class java_security_Identity_certificates{ public static void function() {java.security.Identity obj = new java.security.Identity();obj.certificates();}}

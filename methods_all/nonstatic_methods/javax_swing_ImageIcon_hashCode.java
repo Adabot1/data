@@ -1,0 +1,1 @@
+class javax_swing_ImageIcon_hashCode{ public static void function() {javax.swing.ImageIcon obj = new javax.swing.ImageIcon();obj.hashCode();}}

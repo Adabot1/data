@@ -1,0 +1,1 @@
+class javax_swing_text_html_ParagraphView_nextTabStop_float_int{ public static void function() {javax.swing.text.html.ParagraphView obj = new javax.swing.text.html.ParagraphView();obj.nextTabStop(0.58442515,-464251843);}}

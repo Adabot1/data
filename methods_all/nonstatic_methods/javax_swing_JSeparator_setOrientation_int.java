@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_setOrientation_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.setOrientation(-95687494);}}

@@ -1,0 +1,1 @@
+class java_io_InputStream_readAllBytes{ public static void function() {java.io.InputStream obj = new java.io.InputStream();obj.readAllBytes();}}

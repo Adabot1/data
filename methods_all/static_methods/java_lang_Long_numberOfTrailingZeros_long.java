@@ -1,0 +1,1 @@
+class java_lang_Long_numberOfTrailingZeros_long{ public static void function() {java.lang.Long.numberOfTrailingZeros(3403180690065891213);}}

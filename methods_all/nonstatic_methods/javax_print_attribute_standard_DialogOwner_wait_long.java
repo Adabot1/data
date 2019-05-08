@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_DialogOwner_wait_long{ public static void function() {javax.print.attribute.standard.DialogOwner obj = new javax.print.attribute.standard.DialogOwner();obj.wait(3256576440123000782);}}

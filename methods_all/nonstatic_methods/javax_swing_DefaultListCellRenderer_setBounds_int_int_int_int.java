@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_setBounds_int_int_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.setBounds(1138911050,-649162472,-616673419,-80737984);}}

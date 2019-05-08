@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_shear_double_double{ public static void function() {java.awt.geom.AffineTransform obj = new java.awt.geom.AffineTransform();obj.shear(0.11942766240854163,0.21915652874009284);}}

@@ -1,0 +1,1 @@
+class javax_sql_rowset_BaseRowSet_setNull_int_int{ public static void function() {javax.sql.rowset.BaseRowSet obj = new javax.sql.rowset.BaseRowSet();obj.setNull(1825542494,502600514);}}

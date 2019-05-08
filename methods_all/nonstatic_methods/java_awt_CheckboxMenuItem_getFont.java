@@ -1,0 +1,1 @@
+class java_awt_CheckboxMenuItem_getFont{ public static void function() {java.awt.CheckboxMenuItem obj = new java.awt.CheckboxMenuItem();obj.getFont();}}

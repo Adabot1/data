@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_minusSeconds_long{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.minusSeconds(-2926858061303266581);}}

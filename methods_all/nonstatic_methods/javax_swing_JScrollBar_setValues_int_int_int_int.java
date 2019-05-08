@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_setValues_int_int_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.setValues(1407115620,447634949,392493585,-743666495);}}

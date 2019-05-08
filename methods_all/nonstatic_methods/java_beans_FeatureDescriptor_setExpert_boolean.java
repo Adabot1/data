@@ -1,0 +1,1 @@
+class java_beans_FeatureDescriptor_setExpert_boolean{ public static void function() {java.beans.FeatureDescriptor obj = new java.beans.FeatureDescriptor();obj.setExpert(false);}}

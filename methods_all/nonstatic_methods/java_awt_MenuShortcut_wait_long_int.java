@@ -1,0 +1,1 @@
+class java_awt_MenuShortcut_wait_long_int{ public static void function() {java.awt.MenuShortcut obj = new java.awt.MenuShortcut();obj.wait(-7263274395678085748,1112166971);}}

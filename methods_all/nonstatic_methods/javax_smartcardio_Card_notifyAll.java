@@ -1,0 +1,1 @@
+class javax_smartcardio_Card_notifyAll{ public static void function() {javax.smartcardio.Card obj = new javax.smartcardio.Card();obj.notifyAll();}}

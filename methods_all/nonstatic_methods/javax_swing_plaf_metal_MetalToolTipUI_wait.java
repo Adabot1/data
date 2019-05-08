@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalToolTipUI_wait{ public static void function() {javax.swing.plaf.metal.MetalToolTipUI obj = new javax.swing.plaf.metal.MetalToolTipUI();obj.wait();}}

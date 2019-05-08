@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_setAlignmentY_float{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.setAlignmentY(0.080354154);}}

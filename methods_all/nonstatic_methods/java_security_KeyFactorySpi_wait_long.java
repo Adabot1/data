@@ -1,0 +1,1 @@
+class java_security_KeyFactorySpi_wait_long{ public static void function() {java.security.KeyFactorySpi obj = new java.security.KeyFactorySpi();obj.wait(8460597410182251218);}}

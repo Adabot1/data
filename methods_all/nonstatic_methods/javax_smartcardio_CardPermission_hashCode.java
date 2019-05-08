@@ -1,0 +1,1 @@
+class javax_smartcardio_CardPermission_hashCode{ public static void function() {javax.smartcardio.CardPermission obj = new javax.smartcardio.CardPermission();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_PopupMenuUI_getClass{ public static void function() {javax.swing.plaf.PopupMenuUI obj = new javax.swing.plaf.PopupMenuUI();obj.getClass();}}

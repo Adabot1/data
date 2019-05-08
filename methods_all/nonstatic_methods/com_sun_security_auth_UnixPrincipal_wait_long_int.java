@@ -1,0 +1,1 @@
+class com_sun_security_auth_UnixPrincipal_wait_long_int{ public static void function() {com.sun.security.auth.UnixPrincipal obj = new com.sun.security.auth.UnixPrincipal();obj.wait(6981695710222290167,1414329287);}}

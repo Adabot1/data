@@ -1,0 +1,1 @@
+class com_sun_source_util_DocTreePath_wait_long_int{ public static void function() {com.sun.source.util.DocTreePath obj = new com.sun.source.util.DocTreePath();obj.wait(8878425266028853108,976256661);}}

@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_move_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.move(-1914260485,1713037593);}}

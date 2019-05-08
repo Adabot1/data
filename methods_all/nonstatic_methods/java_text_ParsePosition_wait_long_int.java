@@ -1,0 +1,1 @@
+class java_text_ParsePosition_wait_long_int{ public static void function() {java.text.ParsePosition obj = new java.text.ParsePosition();obj.wait(-4627204814253123590,300014106);}}

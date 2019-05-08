@@ -1,0 +1,1 @@
+class javax_swing_JMenu_locate_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.locate(1711669276,1320861556);}}

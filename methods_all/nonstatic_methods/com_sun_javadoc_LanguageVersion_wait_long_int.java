@@ -1,0 +1,1 @@
+class com_sun_javadoc_LanguageVersion_wait_long_int{ public static void function() {com.sun.javadoc.LanguageVersion obj = new com.sun.javadoc.LanguageVersion();obj.wait(2058534268893507594,1661933933);}}

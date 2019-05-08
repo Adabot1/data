@@ -1,0 +1,1 @@
+class javax_management_relation_RelationNotification_wait_long_int{ public static void function() {javax.management.relation.RelationNotification obj = new javax.management.relation.RelationNotification();obj.wait(4747495272544408934,940559900);}}

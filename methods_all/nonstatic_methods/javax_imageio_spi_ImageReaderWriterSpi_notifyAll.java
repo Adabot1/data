@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageReaderWriterSpi_notifyAll{ public static void function() {javax.imageio.spi.ImageReaderWriterSpi obj = new javax.imageio.spi.ImageReaderWriterSpi();obj.notifyAll();}}

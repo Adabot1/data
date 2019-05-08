@@ -1,0 +1,1 @@
+class java_io_SequenceInputStream_read{ public static void function() {java.io.SequenceInputStream obj = new java.io.SequenceInputStream();obj.read();}}

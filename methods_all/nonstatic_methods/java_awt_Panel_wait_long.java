@@ -1,0 +1,1 @@
+class java_awt_Panel_wait_long{ public static void function() {java.awt.Panel obj = new java.awt.Panel();obj.wait(3843986061903873923);}}

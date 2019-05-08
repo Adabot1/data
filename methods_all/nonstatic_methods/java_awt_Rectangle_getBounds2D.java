@@ -1,0 +1,1 @@
+class java_awt_Rectangle_getBounds2D{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.getBounds2D();}}

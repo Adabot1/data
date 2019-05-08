@@ -1,0 +1,1 @@
+class javax_swing_JSlider_getFocusTraversalKeys_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.getFocusTraversalKeys(1905019070);}}

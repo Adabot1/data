@@ -1,0 +1,1 @@
+class javax_smartcardio_ATR_wait_long{ public static void function() {javax.smartcardio.ATR obj = new javax.smartcardio.ATR();obj.wait(-7094585023108373901);}}

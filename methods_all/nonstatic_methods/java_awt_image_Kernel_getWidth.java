@@ -1,0 +1,1 @@
+class java_awt_image_Kernel_getWidth{ public static void function() {java.awt.image.Kernel obj = new java.awt.image.Kernel();obj.getWidth();}}

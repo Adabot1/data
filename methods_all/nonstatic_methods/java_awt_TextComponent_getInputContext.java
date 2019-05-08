@@ -1,0 +1,1 @@
+class java_awt_TextComponent_getInputContext{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.getInputContext();}}

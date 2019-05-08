@@ -1,0 +1,1 @@
+class javax_swing_JWindow_setSize_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.setSize(1134681966,-1212723758);}}

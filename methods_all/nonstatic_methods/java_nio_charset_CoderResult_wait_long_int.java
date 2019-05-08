@@ -1,0 +1,1 @@
+class java_nio_charset_CoderResult_wait_long_int{ public static void function() {java.nio.charset.CoderResult obj = new java.nio.charset.CoderResult();obj.wait(-5163587966631992703,1893748798);}}

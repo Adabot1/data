@@ -1,0 +1,1 @@
+class javax_xml_crypto_NoSuchMechanismException_wait_long_int{ public static void function() {javax.xml.crypto.NoSuchMechanismException obj = new javax.xml.crypto.NoSuchMechanismException();obj.wait(3681846780075603201,126160199);}}

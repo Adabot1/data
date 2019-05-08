@@ -1,0 +1,1 @@
+class javax_xml_catalog_CatalogFeatures_wait_long_int{ public static void function() {javax.xml.catalog.CatalogFeatures obj = new javax.xml.catalog.CatalogFeatures();obj.wait(-4798007901348479786,-1070266921);}}

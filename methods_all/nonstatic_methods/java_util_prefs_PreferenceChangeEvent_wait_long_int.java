@@ -1,0 +1,1 @@
+class java_util_prefs_PreferenceChangeEvent_wait_long_int{ public static void function() {java.util.prefs.PreferenceChangeEvent obj = new java.util.prefs.PreferenceChangeEvent();obj.wait(5034477972488690825,-1900237833);}}

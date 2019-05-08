@@ -1,0 +1,1 @@
+class javax_lang_model_element_UnknownElementException_wait_long_int{ public static void function() {javax.lang.model.element.UnknownElementException obj = new javax.lang.model.element.UnknownElementException();obj.wait(3784783457517964443,362760651);}}

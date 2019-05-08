@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthToolTipUI_notify{ public static void function() {javax.swing.plaf.synth.SynthToolTipUI obj = new javax.swing.plaf.synth.SynthToolTipUI();obj.notify();}}

@@ -1,0 +1,1 @@
+class java_security_ProtectionDomain_wait_long_int{ public static void function() {java.security.ProtectionDomain obj = new java.security.ProtectionDomain();obj.wait(7216044904003400511,1308331792);}}

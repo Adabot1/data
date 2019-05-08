@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_setDisplayedMnemonicIndex_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.setDisplayedMnemonicIndex(1928863129);}}

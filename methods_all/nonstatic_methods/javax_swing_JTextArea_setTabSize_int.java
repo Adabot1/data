@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_setTabSize_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.setTabSize(-763411727);}}

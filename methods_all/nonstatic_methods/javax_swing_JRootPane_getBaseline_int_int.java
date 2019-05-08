@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_getBaseline_int_int{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.getBaseline(-1347409822,-361226504);}}

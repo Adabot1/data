@@ -1,0 +1,1 @@
+class java_awt_List_getFocusCycleRootAncestor{ public static void function() {java.awt.List obj = new java.awt.List();obj.getFocusCycleRootAncestor();}}

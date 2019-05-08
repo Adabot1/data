@@ -1,0 +1,1 @@
+class javax_swing_JMenu_setIconTextGap_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.setIconTextGap(743286174);}}

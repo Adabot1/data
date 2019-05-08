@@ -1,0 +1,1 @@
+class javax_swing_text_GlyphView_wait_long_int{ public static void function() {javax.swing.text.GlyphView obj = new javax.swing.text.GlyphView();obj.wait(2678913946514909741,-551112831);}}

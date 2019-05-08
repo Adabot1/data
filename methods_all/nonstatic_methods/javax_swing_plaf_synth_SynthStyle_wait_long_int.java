@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthStyle_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthStyle obj = new javax.swing.plaf.synth.SynthStyle();obj.wait(6955484988534042574,1358234358);}}

@@ -1,0 +1,1 @@
+class java_security_SecureRandomSpi_notifyAll{ public static void function() {java.security.SecureRandomSpi obj = new java.security.SecureRandomSpi();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class java_security_AllPermission_getActions{ public static void function() {java.security.AllPermission obj = new java.security.AllPermission();obj.getActions();}}

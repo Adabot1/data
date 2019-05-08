@@ -1,0 +1,1 @@
+class java_util_prefs_Preferences_wait_long{ public static void function() {java.util.prefs.Preferences obj = new java.util.prefs.Preferences();obj.wait(5714214096730684325);}}

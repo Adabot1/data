@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_getMaxX{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.getMaxX();}}

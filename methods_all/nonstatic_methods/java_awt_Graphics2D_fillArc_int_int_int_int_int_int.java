@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_fillArc_int_int_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.fillArc(340348889,137683639,-1459877035,-1169515303,-2021136907,-323349143);}}

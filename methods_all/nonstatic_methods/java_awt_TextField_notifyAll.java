@@ -1,0 +1,1 @@
+class java_awt_TextField_notifyAll{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.notifyAll();}}

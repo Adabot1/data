@@ -1,0 +1,1 @@
+class javax_sound_sampled_AudioFormat_wait_long{ public static void function() {javax.sound.sampled.AudioFormat obj = new javax.sound.sampled.AudioFormat();obj.wait(-1479968756118562160);}}

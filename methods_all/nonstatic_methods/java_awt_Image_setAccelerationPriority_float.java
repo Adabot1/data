@@ -1,0 +1,1 @@
+class java_awt_Image_setAccelerationPriority_float{ public static void function() {java.awt.Image obj = new java.awt.Image();obj.setAccelerationPriority(0.018990517);}}

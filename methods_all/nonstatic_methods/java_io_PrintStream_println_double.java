@@ -1,0 +1,1 @@
+class java_io_PrintStream_println_double{ public static void function() {java.io.PrintStream obj = new java.io.PrintStream();obj.println(0.5943392274943023);}}

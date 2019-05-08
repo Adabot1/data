@@ -1,0 +1,1 @@
+class javax_swing_tree_FixedHeightLayoutCache_wait_long_int{ public static void function() {javax.swing.tree.FixedHeightLayoutCache obj = new javax.swing.tree.FixedHeightLayoutCache();obj.wait(-1810108359524747514,-1083552459);}}

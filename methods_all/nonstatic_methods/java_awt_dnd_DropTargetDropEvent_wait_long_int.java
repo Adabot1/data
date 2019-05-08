@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTargetDropEvent_wait_long_int{ public static void function() {java.awt.dnd.DropTargetDropEvent obj = new java.awt.dnd.DropTargetDropEvent();obj.wait(-1159912811536392572,716826208);}}

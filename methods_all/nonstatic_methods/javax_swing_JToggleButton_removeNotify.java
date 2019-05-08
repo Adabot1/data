@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_removeNotify{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.removeNotify();}}

@@ -1,0 +1,1 @@
+class java_awt_font_TextHitInfo_wait_long_int{ public static void function() {java.awt.font.TextHitInfo obj = new java.awt.font.TextHitInfo();obj.wait(1064483120878887211,-113097426);}}

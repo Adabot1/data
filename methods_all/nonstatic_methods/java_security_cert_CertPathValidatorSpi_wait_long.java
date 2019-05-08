@@ -1,0 +1,1 @@
+class java_security_cert_CertPathValidatorSpi_wait_long{ public static void function() {java.security.cert.CertPathValidatorSpi obj = new java.security.cert.CertPathValidatorSpi();obj.wait(-8553723139701414606);}}

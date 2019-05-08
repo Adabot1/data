@@ -1,0 +1,1 @@
+class java_security_KeyRep_wait_long_int{ public static void function() {java.security.KeyRep obj = new java.security.KeyRep();obj.wait(5672879370774259169,-417811508);}}

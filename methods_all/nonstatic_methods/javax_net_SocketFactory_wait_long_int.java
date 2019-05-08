@@ -1,0 +1,1 @@
+class javax_net_SocketFactory_wait_long_int{ public static void function() {javax.net.SocketFactory obj = new javax.net.SocketFactory();obj.wait(7687479210729962560,1560362);}}

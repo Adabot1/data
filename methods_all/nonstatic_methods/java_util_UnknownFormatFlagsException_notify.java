@@ -1,0 +1,1 @@
+class java_util_UnknownFormatFlagsException_notify{ public static void function() {java.util.UnknownFormatFlagsException obj = new java.util.UnknownFormatFlagsException();obj.notify();}}

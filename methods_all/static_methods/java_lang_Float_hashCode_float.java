@@ -1,0 +1,1 @@
+class java_lang_Float_hashCode_float{ public static void function() {java.lang.Float.hashCode(0.4135868);}}

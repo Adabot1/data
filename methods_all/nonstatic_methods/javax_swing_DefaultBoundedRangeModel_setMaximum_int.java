@@ -1,0 +1,1 @@
+class javax_swing_DefaultBoundedRangeModel_setMaximum_int{ public static void function() {javax.swing.DefaultBoundedRangeModel obj = new javax.swing.DefaultBoundedRangeModel();obj.setMaximum(971460550);}}

@@ -1,0 +1,1 @@
+class java_awt_event_WindowAdapter_wait_long{ public static void function() {java.awt.event.WindowAdapter obj = new java.awt.event.WindowAdapter();obj.wait(1359607522273358529);}}

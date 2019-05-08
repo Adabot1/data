@@ -1,0 +1,1 @@
+class javax_naming_ldap_StartTlsRequest_wait_long{ public static void function() {javax.naming.ldap.StartTlsRequest obj = new javax.naming.ldap.StartTlsRequest();obj.wait(-4679313994842347588);}}

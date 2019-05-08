@@ -1,0 +1,1 @@
+class java_awt_MenuShortcut_wait{ public static void function() {java.awt.MenuShortcut obj = new java.awt.MenuShortcut();obj.wait();}}

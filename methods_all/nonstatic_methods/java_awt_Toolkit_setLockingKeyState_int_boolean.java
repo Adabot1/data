@@ -1,0 +1,1 @@
+class java_awt_Toolkit_setLockingKeyState_int_boolean{ public static void function() {java.awt.Toolkit obj = new java.awt.Toolkit();obj.setLockingKeyState(2073486109,false);}}

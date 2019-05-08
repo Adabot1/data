@@ -1,0 +1,1 @@
+class java_rmi_registry_LocateRegistry_wait_long{ public static void function() {java.rmi.registry.LocateRegistry obj = new java.rmi.registry.LocateRegistry();obj.wait(6782013391287818844);}}

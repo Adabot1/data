@@ -1,0 +1,1 @@
+class java_time_zone_ZoneOffsetTransitionRule_wait_long_int{ public static void function() {java.time.zone.ZoneOffsetTransitionRule obj = new java.time.zone.ZoneOffsetTransitionRule();obj.wait(-1818359568724214219,-910116793);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_compareAndSet_long_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.compareAndSet(-4916239011365155326,-4406482190443653088);}}

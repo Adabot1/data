@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpsServer_start{ public static void function() {com.sun.net.httpserver.HttpsServer obj = new com.sun.net.httpserver.HttpsServer();obj.start();}}

@@ -1,0 +1,1 @@
+class javax_swing_JLabel_repaint_int_int_int_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.repaint(-138577868,432215455,-355156514,1170512046);}}

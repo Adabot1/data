@@ -1,0 +1,1 @@
+class jdk_net_SocketFlow_getClass{ public static void function() {jdk.net.SocketFlow obj = new jdk.net.SocketFlow();obj.getClass();}}

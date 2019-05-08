@@ -1,0 +1,1 @@
+class java_nio_file_attribute_AclEntry_wait_long{ public static void function() {java.nio.file.attribute.AclEntry obj = new java.nio.file.attribute.AclEntry();obj.wait(-6180581118416471040);}}

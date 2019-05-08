@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_rotate_double_double_double{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.rotate(0.7024203159227267,0.2389014538139279,0.49672306707675584);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoChronology_period_int_int_int{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();obj.period(-1867489833,706190064,-1227137100);}}

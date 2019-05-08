@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_tryConvertToOptimisticRead_long{ public static void function() {java.util.concurrent.locks.StampedLock obj = new java.util.concurrent.locks.StampedLock();obj.tryConvertToOptimisticRead(-8161370559883581119);}}

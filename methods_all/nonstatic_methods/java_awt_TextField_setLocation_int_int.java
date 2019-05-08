@@ -1,0 +1,1 @@
+class java_awt_TextField_setLocation_int_int{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.setLocation(-2114799786,1648824911);}}

@@ -1,0 +1,1 @@
+class java_awt_Rectangle_add_double_double{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.add(0.8929082542268894,0.6860002150573334);}}

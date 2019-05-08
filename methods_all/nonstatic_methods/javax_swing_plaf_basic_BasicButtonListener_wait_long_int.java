@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicButtonListener_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicButtonListener obj = new javax.swing.plaf.basic.BasicButtonListener();obj.wait(-4887587534374327761,1863128770);}}

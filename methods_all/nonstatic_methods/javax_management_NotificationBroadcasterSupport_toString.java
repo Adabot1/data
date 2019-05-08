@@ -1,0 +1,1 @@
+class javax_management_NotificationBroadcasterSupport_toString{ public static void function() {javax.management.NotificationBroadcasterSupport obj = new javax.management.NotificationBroadcasterSupport();obj.toString();}}

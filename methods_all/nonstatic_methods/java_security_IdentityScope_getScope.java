@@ -1,0 +1,1 @@
+class java_security_IdentityScope_getScope{ public static void function() {java.security.IdentityScope obj = new java.security.IdentityScope();obj.getScope();}}

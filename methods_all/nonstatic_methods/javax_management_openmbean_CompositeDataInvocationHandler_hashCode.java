@@ -1,0 +1,1 @@
+class javax_management_openmbean_CompositeDataInvocationHandler_hashCode{ public static void function() {javax.management.openmbean.CompositeDataInvocationHandler obj = new javax.management.openmbean.CompositeDataInvocationHandler();obj.hashCode();}}

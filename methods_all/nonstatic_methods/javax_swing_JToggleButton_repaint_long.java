@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_repaint_long{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.repaint(960617765705559482);}}

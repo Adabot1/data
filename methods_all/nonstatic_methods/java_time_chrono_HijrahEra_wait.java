@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahEra_wait{ public static void function() {java.time.chrono.HijrahEra obj = new java.time.chrono.HijrahEra();obj.wait();}}

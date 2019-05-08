@@ -1,0 +1,1 @@
+class javax_sound_sampled_CompoundControl_wait_long{ public static void function() {javax.sound.sampled.CompoundControl obj = new javax.sound.sampled.CompoundControl();obj.wait(1467748059526951648);}}

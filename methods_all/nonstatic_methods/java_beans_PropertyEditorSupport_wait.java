@@ -1,0 +1,1 @@
+class java_beans_PropertyEditorSupport_wait{ public static void function() {java.beans.PropertyEditorSupport obj = new java.beans.PropertyEditorSupport();obj.wait();}}

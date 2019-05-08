@@ -1,0 +1,1 @@
+class jdk_jfr_Configuration_getClass{ public static void function() {jdk.jfr.Configuration obj = new jdk.jfr.Configuration();obj.getClass();}}

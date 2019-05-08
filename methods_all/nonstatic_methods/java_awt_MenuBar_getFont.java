@@ -1,0 +1,1 @@
+class java_awt_MenuBar_getFont{ public static void function() {java.awt.MenuBar obj = new java.awt.MenuBar();obj.getFont();}}

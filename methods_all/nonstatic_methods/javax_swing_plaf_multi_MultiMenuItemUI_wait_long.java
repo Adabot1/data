@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiMenuItemUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiMenuItemUI obj = new javax.swing.plaf.multi.MultiMenuItemUI();obj.wait(-1250817988841413505);}}

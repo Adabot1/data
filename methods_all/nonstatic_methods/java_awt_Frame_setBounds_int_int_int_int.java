@@ -1,0 +1,1 @@
+class java_awt_Frame_setBounds_int_int_int_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.setBounds(281119148,-1405212891,-262537244,2105372397);}}

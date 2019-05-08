@@ -1,0 +1,1 @@
+class java_awt_font_LineMetrics_getBaselineOffsets{ public static void function() {java.awt.font.LineMetrics obj = new java.awt.font.LineMetrics();obj.getBaselineOffsets();}}

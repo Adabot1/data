@@ -1,0 +1,1 @@
+class java_io_ObjectStreamClass_wait_long{ public static void function() {java.io.ObjectStreamClass obj = new java.io.ObjectStreamClass();obj.wait(-5172651534003099745);}}

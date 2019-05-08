@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseEra_toString{ public static void function() {java.time.chrono.JapaneseEra obj = new java.time.chrono.JapaneseEra();obj.toString();}}

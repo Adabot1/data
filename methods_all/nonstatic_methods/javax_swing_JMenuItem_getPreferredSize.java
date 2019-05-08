@@ -1,0 +1,1 @@
+class javax_swing_JMenuItem_getPreferredSize{ public static void function() {javax.swing.JMenuItem obj = new javax.swing.JMenuItem();obj.getPreferredSize();}}

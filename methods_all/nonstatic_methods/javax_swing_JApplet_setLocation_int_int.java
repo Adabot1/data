@@ -1,0 +1,1 @@
+class javax_swing_JApplet_setLocation_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.setLocation(231733831,2048627457);}}

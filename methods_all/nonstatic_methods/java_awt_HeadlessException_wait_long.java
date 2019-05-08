@@ -1,0 +1,1 @@
+class java_awt_HeadlessException_wait_long{ public static void function() {java.awt.HeadlessException obj = new java.awt.HeadlessException();obj.wait(6724348616686170709);}}

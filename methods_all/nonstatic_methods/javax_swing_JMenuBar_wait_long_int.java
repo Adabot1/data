@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_wait_long_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.wait(7239404248004703954,236320929);}}

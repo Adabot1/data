@@ -1,0 +1,1 @@
+class java_lang_reflect_UndeclaredThrowableException_wait_long_int{ public static void function() {java.lang.reflect.UndeclaredThrowableException obj = new java.lang.reflect.UndeclaredThrowableException();obj.wait(-2757272062437060886,-441243291);}}

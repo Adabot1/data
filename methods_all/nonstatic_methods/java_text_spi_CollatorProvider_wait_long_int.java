@@ -1,0 +1,1 @@
+class java_text_spi_CollatorProvider_wait_long_int{ public static void function() {java.text.spi.CollatorProvider obj = new java.text.spi.CollatorProvider();obj.wait(6196872266053388763,-164559731);}}

@@ -1,0 +1,1 @@
+class java_awt_event_AdjustmentEvent_wait_long_int{ public static void function() {java.awt.event.AdjustmentEvent obj = new java.awt.event.AdjustmentEvent();obj.wait(-3407002225523382248,-82431532);}}

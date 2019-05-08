@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseDate_wait_long{ public static void function() {java.time.chrono.JapaneseDate obj = new java.time.chrono.JapaneseDate();obj.wait(-1875688431514240488);}}

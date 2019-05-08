@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_setToTranslation_double_double{ public static void function() {java.awt.geom.AffineTransform obj = new java.awt.geom.AffineTransform();obj.setToTranslation(0.5239238544553331,0.04023274651545128);}}

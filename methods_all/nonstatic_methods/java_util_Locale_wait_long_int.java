@@ -1,0 +1,1 @@
+class java_util_Locale_wait_long_int{ public static void function() {java.util.Locale obj = new java.util.Locale();obj.wait(-8279146140974561445,811655152);}}

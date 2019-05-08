@@ -1,0 +1,1 @@
+class java_awt_Toolkit_getAWTEventListeners_long{ public static void function() {java.awt.Toolkit obj = new java.awt.Toolkit();obj.getAWTEventListeners(-7558234538596334020);}}

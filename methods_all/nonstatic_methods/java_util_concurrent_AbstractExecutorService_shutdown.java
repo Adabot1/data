@@ -1,0 +1,1 @@
+class java_util_concurrent_AbstractExecutorService_shutdown{ public static void function() {java.util.concurrent.AbstractExecutorService obj = new java.util.concurrent.AbstractExecutorService();obj.shutdown();}}

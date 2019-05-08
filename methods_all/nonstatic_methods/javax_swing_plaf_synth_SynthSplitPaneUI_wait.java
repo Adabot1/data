@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthSplitPaneUI_wait{ public static void function() {javax.swing.plaf.synth.SynthSplitPaneUI obj = new javax.swing.plaf.synth.SynthSplitPaneUI();obj.wait();}}

@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextEvent_toString{ public static void function() {java.beans.beancontext.BeanContextEvent obj = new java.beans.beancontext.BeanContextEvent();obj.toString();}}

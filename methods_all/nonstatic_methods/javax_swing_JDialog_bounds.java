@@ -1,0 +1,1 @@
+class javax_swing_JDialog_bounds{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.bounds();}}

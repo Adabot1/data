@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_GuardingDynamicLinkerExporter_wait_long_int{ public static void function() {jdk.dynalink.linker.GuardingDynamicLinkerExporter obj = new jdk.dynalink.linker.GuardingDynamicLinkerExporter();obj.wait(3073693370619411757,777417870);}}

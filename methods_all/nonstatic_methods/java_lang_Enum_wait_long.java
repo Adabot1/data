@@ -1,0 +1,1 @@
+class java_lang_Enum_wait_long{ public static void function() {java.lang.Enum obj = new java.lang.Enum();obj.wait(3283249635866835723);}}

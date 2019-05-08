@@ -1,0 +1,1 @@
+class javax_swing_JTree_setSelectionInterval_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.setSelectionInterval(-479978516,323986710);}}

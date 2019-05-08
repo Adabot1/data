@@ -1,0 +1,1 @@
+class javax_swing_JFrame_createImage_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.createImage(-1967703636,-1402187451);}}

@@ -1,0 +1,1 @@
+class java_lang_TypeNotPresentException_fillInStackTrace{ public static void function() {java.lang.TypeNotPresentException obj = new java.lang.TypeNotPresentException();obj.fillInStackTrace();}}

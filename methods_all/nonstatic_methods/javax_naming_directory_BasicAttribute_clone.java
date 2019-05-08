@@ -1,0 +1,1 @@
+class javax_naming_directory_BasicAttribute_clone{ public static void function() {javax.naming.directory.BasicAttribute obj = new javax.naming.directory.BasicAttribute();obj.clone();}}

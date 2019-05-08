@@ -1,0 +1,1 @@
+class javax_net_ServerSocketFactory_hashCode{ public static void function() {javax.net.ServerSocketFactory obj = new javax.net.ServerSocketFactory();obj.hashCode();}}

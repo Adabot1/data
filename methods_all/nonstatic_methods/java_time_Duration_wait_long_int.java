@@ -1,0 +1,1 @@
+class java_time_Duration_wait_long_int{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.wait(-5848214692444277266,625916386);}}

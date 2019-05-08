@@ -1,0 +1,1 @@
+class java_awt_Label_getAlignmentY{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.getAlignmentY();}}

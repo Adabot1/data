@@ -1,0 +1,1 @@
+class java_net_http_WebSocketHandshakeException_wait_long_int{ public static void function() {java.net.http.WebSocketHandshakeException obj = new java.net.http.WebSocketHandshakeException();obj.wait(-5481454008201230782,1791001848);}}

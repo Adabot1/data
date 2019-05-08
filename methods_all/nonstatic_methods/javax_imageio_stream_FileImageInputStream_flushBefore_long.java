@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileImageInputStream_flushBefore_long{ public static void function() {javax.imageio.stream.FileImageInputStream obj = new javax.imageio.stream.FileImageInputStream();obj.flushBefore(-1846348174190928872);}}

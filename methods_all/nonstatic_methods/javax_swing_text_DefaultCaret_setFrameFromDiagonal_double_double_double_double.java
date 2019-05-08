@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_setFrameFromDiagonal_double_double_double_double{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.setFrameFromDiagonal(0.29119762426154816,0.42637149710362365,0.9556552693108687,0.3692536920609354);}}

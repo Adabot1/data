@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_inside_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.inside(-1031531473,-1814834770);}}

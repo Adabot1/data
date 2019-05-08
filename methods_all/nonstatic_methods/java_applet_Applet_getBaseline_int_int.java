@@ -1,0 +1,1 @@
+class java_applet_Applet_getBaseline_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.getBaseline(843182025,-148490811);}}

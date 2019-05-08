@@ -1,0 +1,1 @@
+class javax_swing_JTextField_setScrollOffset_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.setScrollOffset(-142471194);}}

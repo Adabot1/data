@@ -1,0 +1,1 @@
+class javax_security_auth_callback_UnsupportedCallbackException_wait_long{ public static void function() {javax.security.auth.callback.UnsupportedCallbackException obj = new javax.security.auth.callback.UnsupportedCallbackException();obj.wait(2517463785037848914);}}

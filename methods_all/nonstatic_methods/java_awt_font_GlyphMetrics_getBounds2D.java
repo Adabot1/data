@@ -1,0 +1,1 @@
+class java_awt_font_GlyphMetrics_getBounds2D{ public static void function() {java.awt.font.GlyphMetrics obj = new java.awt.font.GlyphMetrics();obj.getBounds2D();}}

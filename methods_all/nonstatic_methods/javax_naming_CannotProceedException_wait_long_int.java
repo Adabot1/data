@@ -1,0 +1,1 @@
+class javax_naming_CannotProceedException_wait_long_int{ public static void function() {javax.naming.CannotProceedException obj = new javax.naming.CannotProceedException();obj.wait(-587877686015718988,1642405815);}}

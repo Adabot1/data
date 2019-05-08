@@ -1,0 +1,1 @@
+class javax_swing_JLabel_wait_long_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.wait(-6692839198285335762,798313167);}}

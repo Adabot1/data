@@ -1,0 +1,1 @@
+class java_awt_AWTKeyStroke_wait_long_int{ public static void function() {java.awt.AWTKeyStroke obj = new java.awt.AWTKeyStroke();obj.wait(4884479754149659857,199166012);}}

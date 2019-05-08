@@ -1,0 +1,1 @@
+class javax_swing_text_DocumentFilter_wait_long_int{ public static void function() {javax.swing.text.DocumentFilter obj = new javax.swing.text.DocumentFilter();obj.wait(-6337290100198440849,1062592847);}}

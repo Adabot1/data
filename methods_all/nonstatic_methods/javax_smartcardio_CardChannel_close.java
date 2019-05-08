@@ -1,0 +1,1 @@
+class javax_smartcardio_CardChannel_close{ public static void function() {javax.smartcardio.CardChannel obj = new javax.smartcardio.CardChannel();obj.close();}}

@@ -1,0 +1,1 @@
+class java_math_BigDecimal_setScale_int_int{ public static void function() {java.math.BigDecimal obj = new java.math.BigDecimal();obj.setScale(1788807536,-2088042053);}}

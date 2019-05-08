@@ -1,0 +1,1 @@
+class javax_swing_border_CompoundBorder_toString{ public static void function() {javax.swing.border.CompoundBorder obj = new javax.swing.border.CompoundBorder();obj.toString();}}

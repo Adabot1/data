@@ -1,0 +1,1 @@
+class javax_swing_JTable_wait_long_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.wait(-5283660918608752806,-84015687);}}

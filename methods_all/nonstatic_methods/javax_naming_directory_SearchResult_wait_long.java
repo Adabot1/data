@@ -1,0 +1,1 @@
+class javax_naming_directory_SearchResult_wait_long{ public static void function() {javax.naming.directory.SearchResult obj = new javax.naming.directory.SearchResult();obj.wait(-5636673847923804828);}}

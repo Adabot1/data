@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_repaint_long_int_int_int_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.repaint(7010043544633918795,32861672,-1183546401,1136985165,-2106693450);}}

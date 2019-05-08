@@ -1,0 +1,1 @@
+class java_awt_AWTKeyStroke_wait_long{ public static void function() {java.awt.AWTKeyStroke obj = new java.awt.AWTKeyStroke();obj.wait(-5827455180931303881);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_isDisplayable{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.isDisplayable();}}

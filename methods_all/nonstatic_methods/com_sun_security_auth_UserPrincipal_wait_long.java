@@ -1,0 +1,1 @@
+class com_sun_security_auth_UserPrincipal_wait_long{ public static void function() {com.sun.security.auth.UserPrincipal obj = new com.sun.security.auth.UserPrincipal();obj.wait(-17395652672428279);}}

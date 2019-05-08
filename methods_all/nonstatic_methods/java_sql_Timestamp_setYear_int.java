@@ -1,0 +1,1 @@
+class java_sql_Timestamp_setYear_int{ public static void function() {java.sql.Timestamp obj = new java.sql.Timestamp();obj.setYear(1972120397);}}

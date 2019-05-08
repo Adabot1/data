@@ -1,0 +1,1 @@
+class javax_swing_JTree_setVerifyInputWhenFocusTarget_boolean{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.setVerifyInputWhenFocusTarget(true);}}

@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_hashCode{ public static void function() {java.lang.reflect.Modifier obj = new java.lang.reflect.Modifier();obj.hashCode();}}

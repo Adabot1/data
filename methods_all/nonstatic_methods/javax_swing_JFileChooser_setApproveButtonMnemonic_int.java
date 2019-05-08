@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_setApproveButtonMnemonic_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.setApproveButtonMnemonic(-130956523);}}

@@ -1,0 +1,1 @@
+class java_util_Calendar_setWeekDate_int_int_int{ public static void function() {java.util.Calendar obj = new java.util.Calendar();obj.setWeekDate(-550664460,-1763005566,-198177461);}}

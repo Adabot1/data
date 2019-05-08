@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleAttributeSequence_toString{ public static void function() {javax.accessibility.AccessibleAttributeSequence obj = new javax.accessibility.AccessibleAttributeSequence();obj.toString();}}

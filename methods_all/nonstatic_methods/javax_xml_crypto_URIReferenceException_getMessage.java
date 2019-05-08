@@ -1,0 +1,1 @@
+class javax_xml_crypto_URIReferenceException_getMessage{ public static void function() {javax.xml.crypto.URIReferenceException obj = new javax.xml.crypto.URIReferenceException();obj.getMessage();}}

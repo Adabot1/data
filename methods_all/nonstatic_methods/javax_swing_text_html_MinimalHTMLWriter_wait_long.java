@@ -1,0 +1,1 @@
+class javax_swing_text_html_MinimalHTMLWriter_wait_long{ public static void function() {javax.swing.text.html.MinimalHTMLWriter obj = new javax.swing.text.html.MinimalHTMLWriter();obj.wait(9180538310927975639);}}

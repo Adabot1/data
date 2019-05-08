@@ -1,0 +1,1 @@
+class java_util_MissingFormatArgumentException_hashCode{ public static void function() {java.util.MissingFormatArgumentException obj = new java.util.MissingFormatArgumentException();obj.hashCode();}}

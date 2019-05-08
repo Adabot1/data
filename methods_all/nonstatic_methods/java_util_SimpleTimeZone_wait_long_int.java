@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_wait_long_int{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.wait(-4789029504962234328,181442337);}}

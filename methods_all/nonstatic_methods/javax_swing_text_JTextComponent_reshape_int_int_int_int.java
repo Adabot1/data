@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_reshape_int_int_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.reshape(-106169116,-1142893625,1612323679,-2023790135);}}

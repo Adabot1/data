@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_GeoTIFFTagSet_getTag_int{ public static void function() {javax.imageio.plugins.tiff.GeoTIFFTagSet obj = new javax.imageio.plugins.tiff.GeoTIFFTagSet();obj.getTag(-393513287);}}

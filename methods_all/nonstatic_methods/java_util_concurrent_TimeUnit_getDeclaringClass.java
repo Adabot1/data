@@ -1,0 +1,1 @@
+class java_util_concurrent_TimeUnit_getDeclaringClass{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();obj.getDeclaringClass();}}

@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_remove_int{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.remove(-637206632);}}

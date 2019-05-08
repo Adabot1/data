@@ -1,0 +1,1 @@
+class javax_sound_sampled_spi_MixerProvider_wait_long{ public static void function() {javax.sound.sampled.spi.MixerProvider obj = new javax.sound.sampled.spi.MixerProvider();obj.wait(4266267219709271872);}}

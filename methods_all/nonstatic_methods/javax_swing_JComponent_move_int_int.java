@@ -1,0 +1,1 @@
+class javax_swing_JComponent_move_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.move(1625556570,-1804797920);}}

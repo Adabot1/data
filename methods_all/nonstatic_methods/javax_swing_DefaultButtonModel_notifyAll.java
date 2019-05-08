@@ -1,0 +1,1 @@
+class javax_swing_DefaultButtonModel_notifyAll{ public static void function() {javax.swing.DefaultButtonModel obj = new javax.swing.DefaultButtonModel();obj.notifyAll();}}

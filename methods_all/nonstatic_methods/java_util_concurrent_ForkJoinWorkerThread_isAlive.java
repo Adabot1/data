@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinWorkerThread_isAlive{ public static void function() {java.util.concurrent.ForkJoinWorkerThread obj = new java.util.concurrent.ForkJoinWorkerThread();obj.isAlive();}}

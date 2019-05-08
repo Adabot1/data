@@ -1,0 +1,1 @@
+class com_sun_security_auth_NTSid_wait_long{ public static void function() {com.sun.security.auth.NTSid obj = new com.sun.security.auth.NTSid();obj.wait(1720224445676139466);}}

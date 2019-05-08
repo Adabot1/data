@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_resize_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.resize(1034335223,-80742545);}}

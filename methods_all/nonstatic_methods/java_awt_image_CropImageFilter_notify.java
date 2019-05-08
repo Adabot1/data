@@ -1,0 +1,1 @@
+class java_awt_image_CropImageFilter_notify{ public static void function() {java.awt.image.CropImageFilter obj = new java.awt.image.CropImageFilter();obj.notify();}}

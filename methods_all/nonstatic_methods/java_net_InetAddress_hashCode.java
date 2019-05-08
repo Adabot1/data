@@ -1,0 +1,1 @@
+class java_net_InetAddress_hashCode{ public static void function() {java.net.InetAddress obj = new java.net.InetAddress();obj.hashCode();}}

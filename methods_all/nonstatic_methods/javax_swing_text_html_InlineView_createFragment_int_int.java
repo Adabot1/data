@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_createFragment_int_int{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.createFragment(1049931084,609029441);}}

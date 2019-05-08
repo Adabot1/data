@@ -1,0 +1,1 @@
+class javax_swing_text_html_StyleSheet_wait_long_int{ public static void function() {javax.swing.text.html.StyleSheet obj = new javax.swing.text.html.StyleSheet();obj.wait(6903254549441966913,-334906125);}}

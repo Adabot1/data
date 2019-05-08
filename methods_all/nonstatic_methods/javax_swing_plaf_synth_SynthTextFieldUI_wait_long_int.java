@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTextFieldUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthTextFieldUI obj = new javax.swing.plaf.synth.SynthTextFieldUI();obj.wait(842488958410844028,800036888);}}

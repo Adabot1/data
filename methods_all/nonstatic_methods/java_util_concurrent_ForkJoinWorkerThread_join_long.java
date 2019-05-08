@@ -1,0 +1,1 @@
+class java_util_concurrent_ForkJoinWorkerThread_join_long{ public static void function() {java.util.concurrent.ForkJoinWorkerThread obj = new java.util.concurrent.ForkJoinWorkerThread();obj.join(-5638367148305804729);}}

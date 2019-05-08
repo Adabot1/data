@@ -1,0 +1,1 @@
+class java_lang_ClassLoader_wait{ public static void function() {java.lang.ClassLoader obj = new java.lang.ClassLoader();obj.wait();}}

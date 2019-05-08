@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_getComponentAt_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.getComponentAt(1070154240,1261404231);}}

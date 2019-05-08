@@ -1,0 +1,1 @@
+class javax_management_remote_rmi_RMIConnectionImpl_fetchNotifications_long_int_long{ public static void function() {javax.management.remote.rmi.RMIConnectionImpl obj = new javax.management.remote.rmi.RMIConnectionImpl();obj.fetchNotifications(6737937138611578467,-1679760186,-5625885559032104972);}}

@@ -1,0 +1,1 @@
+class java_time_zone_ZoneRulesProvider_wait_long{ public static void function() {java.time.zone.ZoneRulesProvider obj = new java.time.zone.ZoneRulesProvider();obj.wait(1339065678837918662);}}

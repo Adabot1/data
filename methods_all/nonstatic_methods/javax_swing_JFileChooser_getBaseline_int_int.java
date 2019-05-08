@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_getBaseline_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.getBaseline(-1413951007,-92421737);}}

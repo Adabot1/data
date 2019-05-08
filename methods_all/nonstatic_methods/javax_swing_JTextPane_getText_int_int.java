@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_getText_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.getText(-530964742,-625917781);}}

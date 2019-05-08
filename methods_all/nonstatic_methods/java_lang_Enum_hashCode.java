@@ -1,0 +1,1 @@
+class java_lang_Enum_hashCode{ public static void function() {java.lang.Enum obj = new java.lang.Enum();obj.hashCode();}}

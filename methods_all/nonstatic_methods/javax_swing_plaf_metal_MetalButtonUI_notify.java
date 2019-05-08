@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalButtonUI_notify{ public static void function() {javax.swing.plaf.metal.MetalButtonUI obj = new javax.swing.plaf.metal.MetalButtonUI();obj.notify();}}

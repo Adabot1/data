@@ -1,0 +1,1 @@
+class javax_swing_ComponentInputMap_notifyAll{ public static void function() {javax.swing.ComponentInputMap obj = new javax.swing.ComponentInputMap();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class javax_naming_spi_NamingManager_getClass{ public static void function() {javax.naming.spi.NamingManager obj = new javax.naming.spi.NamingManager();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_awt_geom_Point2D_distanceSq_double_double_double_double{ public static void function() {java.awt.geom.Point2D.distanceSq(0.523393249418873,0.37969869717290505,0.14048349467281473,0.8718071434263088);}}

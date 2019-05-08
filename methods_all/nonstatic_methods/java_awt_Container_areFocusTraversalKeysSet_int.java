@@ -1,0 +1,1 @@
+class java_awt_Container_areFocusTraversalKeysSet_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.areFocusTraversalKeysSet(-412829484);}}

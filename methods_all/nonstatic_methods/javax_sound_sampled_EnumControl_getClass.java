@@ -1,0 +1,1 @@
+class javax_sound_sampled_EnumControl_getClass{ public static void function() {javax.sound.sampled.EnumControl obj = new javax.sound.sampled.EnumControl();obj.getClass();}}

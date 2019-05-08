@@ -1,0 +1,1 @@
+class java_util_GregorianCalendar_isLeapYear_int{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();obj.isLeapYear(1524530668);}}

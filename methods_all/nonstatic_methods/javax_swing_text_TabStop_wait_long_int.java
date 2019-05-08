@@ -1,0 +1,1 @@
+class javax_swing_text_TabStop_wait_long_int{ public static void function() {javax.swing.text.TabStop obj = new javax.swing.text.TabStop();obj.wait(-4524042978343295020,-1474333751);}}

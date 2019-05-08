@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_support_TypeUtilities_wait_long_int{ public static void function() {jdk.dynalink.linker.support.TypeUtilities obj = new jdk.dynalink.linker.support.TypeUtilities();obj.wait(5718360422735008289,838868842);}}

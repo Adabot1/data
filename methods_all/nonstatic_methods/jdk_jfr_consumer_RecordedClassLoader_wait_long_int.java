@@ -1,0 +1,1 @@
+class jdk_jfr_consumer_RecordedClassLoader_wait_long_int{ public static void function() {jdk.jfr.consumer.RecordedClassLoader obj = new jdk.jfr.consumer.RecordedClassLoader();obj.wait(-5423894443762729693,-2058429478);}}

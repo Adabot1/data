@@ -1,0 +1,1 @@
+class javax_swing_text_html_BlockView_getMaximumSpan_int{ public static void function() {javax.swing.text.html.BlockView obj = new javax.swing.text.html.BlockView();obj.getMaximumSpan(-98349088);}}

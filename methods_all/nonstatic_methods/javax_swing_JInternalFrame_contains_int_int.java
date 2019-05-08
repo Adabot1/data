@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_contains_int_int{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.contains(1607623375,367590455);}}

@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_dom_DOMSignContext_wait_long_int{ public static void function() {javax.xml.crypto.dsig.dom.DOMSignContext obj = new javax.xml.crypto.dsig.dom.DOMSignContext();obj.wait(4707058630847789995,684538864);}}

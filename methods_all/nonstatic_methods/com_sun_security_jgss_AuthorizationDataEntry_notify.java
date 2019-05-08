@@ -1,0 +1,1 @@
+class com_sun_security_jgss_AuthorizationDataEntry_notify{ public static void function() {com.sun.security.jgss.AuthorizationDataEntry obj = new com.sun.security.jgss.AuthorizationDataEntry();obj.notify();}}

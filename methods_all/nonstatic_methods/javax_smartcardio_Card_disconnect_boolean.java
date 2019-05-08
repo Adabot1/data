@@ -1,0 +1,1 @@
+class javax_smartcardio_Card_disconnect_boolean{ public static void function() {javax.smartcardio.Card obj = new javax.smartcardio.Card();obj.disconnect(true);}}

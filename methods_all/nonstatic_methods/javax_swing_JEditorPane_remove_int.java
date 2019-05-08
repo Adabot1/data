@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_remove_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.remove(413675263);}}

@@ -1,0 +1,1 @@
+class java_sql_DriverManager_wait_long{ public static void function() {java.sql.DriverManager obj = new java.sql.DriverManager();obj.wait(-1253481386505011767);}}

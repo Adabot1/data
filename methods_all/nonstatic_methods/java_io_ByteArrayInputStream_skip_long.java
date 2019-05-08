@@ -1,0 +1,1 @@
+class java_io_ByteArrayInputStream_skip_long{ public static void function() {java.io.ByteArrayInputStream obj = new java.io.ByteArrayInputStream();obj.skip(296861667944773132);}}

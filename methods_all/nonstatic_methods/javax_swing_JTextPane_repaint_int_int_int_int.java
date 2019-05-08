@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_repaint_int_int_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.repaint(917675912,-515979859,1870551221,153033659);}}

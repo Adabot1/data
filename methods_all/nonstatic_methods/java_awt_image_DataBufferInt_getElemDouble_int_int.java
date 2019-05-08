@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferInt_getElemDouble_int_int{ public static void function() {java.awt.image.DataBufferInt obj = new java.awt.image.DataBufferInt();obj.getElemDouble(-1709709803,646050657);}}

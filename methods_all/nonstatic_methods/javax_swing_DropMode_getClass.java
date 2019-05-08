@@ -1,0 +1,1 @@
+class javax_swing_DropMode_getClass{ public static void function() {javax.swing.DropMode obj = new javax.swing.DropMode();obj.getClass();}}

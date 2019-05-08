@@ -1,0 +1,1 @@
+class javax_xml_crypto_MarshalException_wait_long{ public static void function() {javax.xml.crypto.MarshalException obj = new javax.xml.crypto.MarshalException();obj.wait(5943337855863504346);}}

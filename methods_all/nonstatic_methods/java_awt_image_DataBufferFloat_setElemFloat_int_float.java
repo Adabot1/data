@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferFloat_setElemFloat_int_float{ public static void function() {java.awt.image.DataBufferFloat obj = new java.awt.image.DataBufferFloat();obj.setElemFloat(424721021,0.41245443);}}

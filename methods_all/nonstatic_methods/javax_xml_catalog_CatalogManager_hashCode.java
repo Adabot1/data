@@ -1,0 +1,1 @@
+class javax_xml_catalog_CatalogManager_hashCode{ public static void function() {javax.xml.catalog.CatalogManager obj = new javax.xml.catalog.CatalogManager();obj.hashCode();}}

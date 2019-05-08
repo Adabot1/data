@@ -1,0 +1,1 @@
+class java_security_spec_ECPoint_notifyAll{ public static void function() {java.security.spec.ECPoint obj = new java.security.spec.ECPoint();obj.notifyAll();}}

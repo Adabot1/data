@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_NashornException_getSuppressed{ public static void function() {jdk.nashorn.api.scripting.NashornException obj = new jdk.nashorn.api.scripting.NashornException();obj.getSuppressed();}}

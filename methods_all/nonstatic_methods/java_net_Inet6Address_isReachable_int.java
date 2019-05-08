@@ -1,0 +1,1 @@
+class java_net_Inet6Address_isReachable_int{ public static void function() {java.net.Inet6Address obj = new java.net.Inet6Address();obj.isReachable(-1312564696);}}

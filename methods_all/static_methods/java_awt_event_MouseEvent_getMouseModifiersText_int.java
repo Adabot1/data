@@ -1,0 +1,1 @@
+class java_awt_event_MouseEvent_getMouseModifiersText_int{ public static void function() {java.awt.event.MouseEvent.getMouseModifiersText(685346962);}}

@@ -1,0 +1,1 @@
+class java_awt_TextComponent_getComponentAt_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.getComponentAt(191205626,-238418053);}}

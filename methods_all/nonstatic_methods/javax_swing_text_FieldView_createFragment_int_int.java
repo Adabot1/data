@@ -1,0 +1,1 @@
+class javax_swing_text_FieldView_createFragment_int_int{ public static void function() {javax.swing.text.FieldView obj = new javax.swing.text.FieldView();obj.createFragment(289649391,-2136311345);}}

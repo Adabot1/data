@@ -1,0 +1,1 @@
+class javax_naming_directory_SearchControls_setTimeLimit_int{ public static void function() {javax.naming.directory.SearchControls obj = new javax.naming.directory.SearchControls();obj.setTimeLimit(1035723786);}}

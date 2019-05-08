@@ -1,0 +1,1 @@
+class java_awt_image_MultiPixelPackedSampleModel_wait_long_int{ public static void function() {java.awt.image.MultiPixelPackedSampleModel obj = new java.awt.image.MultiPixelPackedSampleModel();obj.wait(5875591429625000251,-347908927);}}

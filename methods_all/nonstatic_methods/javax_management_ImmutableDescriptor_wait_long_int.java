@@ -1,0 +1,1 @@
+class javax_management_ImmutableDescriptor_wait_long_int{ public static void function() {javax.management.ImmutableDescriptor obj = new javax.management.ImmutableDescriptor();obj.wait(965675575073966438,-1391217307);}}

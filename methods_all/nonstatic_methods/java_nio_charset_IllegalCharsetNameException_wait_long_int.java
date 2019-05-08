@@ -1,0 +1,1 @@
+class java_nio_charset_IllegalCharsetNameException_wait_long_int{ public static void function() {java.nio.charset.IllegalCharsetNameException obj = new java.nio.charset.IllegalCharsetNameException();obj.wait(-526734611269762883,122569274);}}

@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_remove_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.remove(1262608941);}}

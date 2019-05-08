@@ -1,0 +1,1 @@
+class javax_sound_midi_Instrument_wait{ public static void function() {javax.sound.midi.Instrument obj = new javax.sound.midi.Instrument();obj.wait();}}

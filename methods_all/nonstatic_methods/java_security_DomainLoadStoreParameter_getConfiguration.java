@@ -1,0 +1,1 @@
+class java_security_DomainLoadStoreParameter_getConfiguration{ public static void function() {java.security.DomainLoadStoreParameter obj = new java.security.DomainLoadStoreParameter();obj.getConfiguration();}}

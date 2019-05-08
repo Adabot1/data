@@ -1,0 +1,1 @@
+class javax_swing_JDialog_setDefaultCloseOperation_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.setDefaultCloseOperation(1048055213);}}

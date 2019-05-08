@@ -1,0 +1,1 @@
+class javax_sound_sampled_AudioInputStream_skip_long{ public static void function() {javax.sound.sampled.AudioInputStream obj = new javax.sound.sampled.AudioInputStream();obj.skip(-5143852151960830494);}}

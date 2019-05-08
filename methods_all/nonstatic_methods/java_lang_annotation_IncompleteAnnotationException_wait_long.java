@@ -1,0 +1,1 @@
+class java_lang_annotation_IncompleteAnnotationException_wait_long{ public static void function() {java.lang.annotation.IncompleteAnnotationException obj = new java.lang.annotation.IncompleteAnnotationException();obj.wait(4724515704335468362);}}

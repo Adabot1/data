@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpsServer_wait_long_int{ public static void function() {com.sun.net.httpserver.HttpsServer obj = new com.sun.net.httpserver.HttpsServer();obj.wait(-7452676041015576137,2087086371);}}

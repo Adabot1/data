@@ -1,0 +1,1 @@
+class java_util_zip_ZipInputStream_wait_long_int{ public static void function() {java.util.zip.ZipInputStream obj = new java.util.zip.ZipInputStream();obj.wait(8785650976592902421,-629854998);}}

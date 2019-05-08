@@ -1,0 +1,1 @@
+class java_io_ObjectStreamField_wait_long{ public static void function() {java.io.ObjectStreamField obj = new java.io.ObjectStreamField();obj.wait(3831858227220939553);}}

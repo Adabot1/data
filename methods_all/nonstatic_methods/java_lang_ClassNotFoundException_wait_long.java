@@ -1,0 +1,1 @@
+class java_lang_ClassNotFoundException_wait_long{ public static void function() {java.lang.ClassNotFoundException obj = new java.lang.ClassNotFoundException();obj.wait(-5729335917110107913);}}

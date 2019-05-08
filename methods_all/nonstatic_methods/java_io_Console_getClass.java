@@ -1,0 +1,1 @@
+class java_io_Console_getClass{ public static void function() {java.io.Console obj = new java.io.Console();obj.getClass();}}

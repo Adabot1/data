@@ -1,0 +1,1 @@
+class javax_swing_JComponent_createVolatileImage_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.createVolatileImage(-1961823226,1760288574);}}

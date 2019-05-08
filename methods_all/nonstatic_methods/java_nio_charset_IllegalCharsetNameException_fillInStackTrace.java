@@ -1,0 +1,1 @@
+class java_nio_charset_IllegalCharsetNameException_fillInStackTrace{ public static void function() {java.nio.charset.IllegalCharsetNameException obj = new java.nio.charset.IllegalCharsetNameException();obj.fillInStackTrace();}}

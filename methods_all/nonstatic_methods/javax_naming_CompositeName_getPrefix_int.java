@@ -1,0 +1,1 @@
+class javax_naming_CompositeName_getPrefix_int{ public static void function() {javax.naming.CompositeName obj = new javax.naming.CompositeName();obj.getPrefix(1662703542);}}

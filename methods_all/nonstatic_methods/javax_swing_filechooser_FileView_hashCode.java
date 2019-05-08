@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileView_hashCode{ public static void function() {javax.swing.filechooser.FileView obj = new javax.swing.filechooser.FileView();obj.hashCode();}}

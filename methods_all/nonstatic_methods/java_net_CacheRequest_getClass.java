@@ -1,0 +1,1 @@
+class java_net_CacheRequest_getClass{ public static void function() {java.net.CacheRequest obj = new java.net.CacheRequest();obj.getClass();}}

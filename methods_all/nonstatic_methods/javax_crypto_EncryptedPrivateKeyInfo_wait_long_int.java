@@ -1,0 +1,1 @@
+class javax_crypto_EncryptedPrivateKeyInfo_wait_long_int{ public static void function() {javax.crypto.EncryptedPrivateKeyInfo obj = new javax.crypto.EncryptedPrivateKeyInfo();obj.wait(-4709675649248544898,-1784236675);}}

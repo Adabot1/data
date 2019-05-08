@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_setBounds_int_int_int_int{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.setBounds(1888386133,709615569,75781094,1140324133);}}

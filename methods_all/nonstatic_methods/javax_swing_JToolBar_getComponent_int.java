@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_getComponent_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.getComponent(1616809066);}}

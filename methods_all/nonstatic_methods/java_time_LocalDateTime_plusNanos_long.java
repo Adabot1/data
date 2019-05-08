@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_plusNanos_long{ public static void function() {java.time.LocalDateTime obj = new java.time.LocalDateTime();obj.plusNanos(5446567978109116811);}}

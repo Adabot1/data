@@ -1,0 +1,1 @@
+class javax_swing_JPasswordField_getBaseline_int_int{ public static void function() {javax.swing.JPasswordField obj = new javax.swing.JPasswordField();obj.getBaseline(-1582302429,-583012040);}}

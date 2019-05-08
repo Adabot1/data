@@ -1,0 +1,1 @@
+class java_nio_channels_AsynchronousSocketChannel_wait_long{ public static void function() {java.nio.channels.AsynchronousSocketChannel obj = new java.nio.channels.AsynchronousSocketChannel();obj.wait(-6832270779519477710);}}

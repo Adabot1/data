@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_getMousePosition_boolean{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.getMousePosition(true);}}

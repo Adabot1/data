@@ -1,0 +1,1 @@
+class jdk_dynalink_SecureLookupSupplier_wait_long_int{ public static void function() {jdk.dynalink.SecureLookupSupplier obj = new jdk.dynalink.SecureLookupSupplier();obj.wait(1460826637238590454,-300668587);}}

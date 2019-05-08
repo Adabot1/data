@@ -1,0 +1,1 @@
+class javax_management_openmbean_CompositeDataSupport_wait_long_int{ public static void function() {javax.management.openmbean.CompositeDataSupport obj = new javax.management.openmbean.CompositeDataSupport();obj.wait(802526889965559895,1260899244);}}

@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_allocateDirect_int{ public static void function() {java.nio.ByteBuffer.allocateDirect(-2035338125);}}

@@ -1,0 +1,1 @@
+class java_awt_desktop_OpenFilesEvent_getSearchTerm{ public static void function() {java.awt.desktop.OpenFilesEvent obj = new java.awt.desktop.OpenFilesEvent();obj.getSearchTerm();}}

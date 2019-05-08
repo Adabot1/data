@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadLocalRandom_nextDouble_double_double{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();obj.nextDouble(0.7121694040557002,0.5148215735752422);}}

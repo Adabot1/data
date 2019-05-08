@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.getBreakWeight(1884544788,0.030386925,0.83712876);}}

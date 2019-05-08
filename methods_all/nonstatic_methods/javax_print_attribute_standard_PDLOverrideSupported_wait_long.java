@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PDLOverrideSupported_wait_long{ public static void function() {javax.print.attribute.standard.PDLOverrideSupported obj = new javax.print.attribute.standard.PDLOverrideSupported();obj.wait(5511892059784535475);}}

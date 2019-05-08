@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroupID_wait_long{ public static void function() {java.rmi.activation.ActivationGroupID obj = new java.rmi.activation.ActivationGroupID();obj.wait(7483647592193925679);}}

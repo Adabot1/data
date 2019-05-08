@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_locate_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.locate(-956109471,1083157717);}}

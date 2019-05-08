@@ -1,0 +1,1 @@
+class javax_xml_crypto_dom_DOMStructure_wait_long_int{ public static void function() {javax.xml.crypto.dom.DOMStructure obj = new javax.xml.crypto.dom.DOMStructure();obj.wait(-1874813074817766206,-1133557726);}}

@@ -1,0 +1,1 @@
+class jdk_jfr_EventSettings_withStackTrace{ public static void function() {jdk.jfr.EventSettings obj = new jdk.jfr.EventSettings();obj.withStackTrace();}}

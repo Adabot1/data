@@ -1,0 +1,1 @@
+class java_awt_Checkbox_areFocusTraversalKeysSet_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.areFocusTraversalKeysSet(-1001070629);}}

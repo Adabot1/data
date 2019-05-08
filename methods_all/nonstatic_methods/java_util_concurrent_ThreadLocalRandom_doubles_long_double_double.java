@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadLocalRandom_doubles_long_double_double{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();obj.doubles(-9118808850367511358,0.8772247836596454,0.8088608811846625);}}

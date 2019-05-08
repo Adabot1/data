@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_setBounds_int_int_int_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.setBounds(-2128781732,-2059806868,-1775904263,-756266528);}}

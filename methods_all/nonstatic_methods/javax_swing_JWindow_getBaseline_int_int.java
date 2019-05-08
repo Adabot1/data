@@ -1,0 +1,1 @@
+class javax_swing_JWindow_getBaseline_int_int{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.getBaseline(1452811808,-1318398522);}}

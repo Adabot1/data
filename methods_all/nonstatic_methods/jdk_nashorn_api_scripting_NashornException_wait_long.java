@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_NashornException_wait_long{ public static void function() {jdk.nashorn.api.scripting.NashornException obj = new jdk.nashorn.api.scripting.NashornException();obj.wait(-6925785884214481250);}}

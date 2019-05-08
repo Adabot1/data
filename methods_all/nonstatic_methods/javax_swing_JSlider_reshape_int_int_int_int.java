@@ -1,0 +1,1 @@
+class javax_swing_JSlider_reshape_int_int_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.reshape(-378434085,-1566391546,319062591,-256781716);}}

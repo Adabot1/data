@@ -1,0 +1,1 @@
+class java_time_Instant_now{ public static void function() {java.time.Instant.now();}}

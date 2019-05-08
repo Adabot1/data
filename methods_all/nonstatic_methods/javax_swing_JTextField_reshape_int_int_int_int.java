@@ -1,0 +1,1 @@
+class javax_swing_JTextField_reshape_int_int_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.reshape(564972505,187574179,-499468324,1255742648);}}

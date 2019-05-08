@@ -1,0 +1,1 @@
+class java_text_CollationKey_wait_long_int{ public static void function() {java.text.CollationKey obj = new java.text.CollationKey();obj.wait(8948833905080838772,-1442978300);}}

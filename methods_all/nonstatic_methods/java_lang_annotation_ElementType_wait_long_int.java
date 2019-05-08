@@ -1,0 +1,1 @@
+class java_lang_annotation_ElementType_wait_long_int{ public static void function() {java.lang.annotation.ElementType obj = new java.lang.annotation.ElementType();obj.wait(-3175045928436444591,1412320995);}}

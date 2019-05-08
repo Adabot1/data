@@ -1,0 +1,1 @@
+class javax_swing_JWindow_repaint_long{ public static void function() {javax.swing.JWindow obj = new javax.swing.JWindow();obj.repaint(488407192736692528);}}

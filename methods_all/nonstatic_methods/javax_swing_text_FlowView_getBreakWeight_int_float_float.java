@@ -1,0 +1,1 @@
+class javax_swing_text_FlowView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.FlowView obj = new javax.swing.text.FlowView();obj.getBreakWeight(-630441243,0.23134136,0.92057824);}}

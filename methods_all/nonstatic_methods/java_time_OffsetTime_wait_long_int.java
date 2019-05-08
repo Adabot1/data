@@ -1,0 +1,1 @@
+class java_time_OffsetTime_wait_long_int{ public static void function() {java.time.OffsetTime obj = new java.time.OffsetTime();obj.wait(-3203117183102846590,-363472952);}}

@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_setLocation_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.setLocation(904915401,-1941778403);}}

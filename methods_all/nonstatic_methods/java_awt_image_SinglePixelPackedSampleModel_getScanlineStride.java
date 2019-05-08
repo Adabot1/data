@@ -1,0 +1,1 @@
+class java_awt_image_SinglePixelPackedSampleModel_getScanlineStride{ public static void function() {java.awt.image.SinglePixelPackedSampleModel obj = new java.awt.image.SinglePixelPackedSampleModel();obj.getScanlineStride();}}

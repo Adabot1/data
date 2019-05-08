@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_repaint_int_int_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.repaint(1143045098,-1240252253,1931875690,1149796645);}}

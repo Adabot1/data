@@ -1,0 +1,1 @@
+class javax_swing_text_StyledEditorKit_getContentType{ public static void function() {javax.swing.text.StyledEditorKit obj = new javax.swing.text.StyledEditorKit();obj.getContentType();}}

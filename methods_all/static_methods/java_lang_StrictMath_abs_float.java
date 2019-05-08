@@ -1,0 +1,1 @@
+class java_lang_StrictMath_abs_float{ public static void function() {java.lang.StrictMath.abs(0.90627027);}}

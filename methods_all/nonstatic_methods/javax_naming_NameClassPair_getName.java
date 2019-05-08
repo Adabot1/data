@@ -1,0 +1,1 @@
+class javax_naming_NameClassPair_getName{ public static void function() {javax.naming.NameClassPair obj = new javax.naming.NameClassPair();obj.getName();}}

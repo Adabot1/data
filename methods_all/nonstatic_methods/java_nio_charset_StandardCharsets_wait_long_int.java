@@ -1,0 +1,1 @@
+class java_nio_charset_StandardCharsets_wait_long_int{ public static void function() {java.nio.charset.StandardCharsets obj = new java.nio.charset.StandardCharsets();obj.wait(4930942553682172578,467513768);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_html_ObjectView_createFragment_int_int{ public static void function() {javax.swing.text.html.ObjectView obj = new javax.swing.text.html.ObjectView();obj.createFragment(-1174031248,-974686063);}}

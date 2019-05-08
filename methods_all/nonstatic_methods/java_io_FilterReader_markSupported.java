@@ -1,0 +1,1 @@
+class java_io_FilterReader_markSupported{ public static void function() {java.io.FilterReader obj = new java.io.FilterReader();obj.markSupported();}}

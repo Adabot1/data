@@ -1,0 +1,1 @@
+class javax_swing_JCheckBoxMenuItem_repaint_long{ public static void function() {javax.swing.JCheckBoxMenuItem obj = new javax.swing.JCheckBoxMenuItem();obj.repaint(-8280530645884853308);}}

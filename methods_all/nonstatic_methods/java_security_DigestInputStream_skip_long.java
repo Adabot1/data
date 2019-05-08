@@ -1,0 +1,1 @@
+class java_security_DigestInputStream_skip_long{ public static void function() {java.security.DigestInputStream obj = new java.security.DigestInputStream();obj.skip(845103205354442149);}}

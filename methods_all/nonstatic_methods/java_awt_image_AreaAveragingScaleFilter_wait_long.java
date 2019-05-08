@@ -1,0 +1,1 @@
+class java_awt_image_AreaAveragingScaleFilter_wait_long{ public static void function() {java.awt.image.AreaAveragingScaleFilter obj = new java.awt.image.AreaAveragingScaleFilter();obj.wait(63670711759458752);}}

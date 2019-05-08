@@ -1,0 +1,1 @@
+class java_time_Instant_minusMillis_long{ public static void function() {java.time.Instant obj = new java.time.Instant();obj.minusMillis(-4562158432240648356);}}

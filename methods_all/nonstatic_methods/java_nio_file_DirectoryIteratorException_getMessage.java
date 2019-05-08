@@ -1,0 +1,1 @@
+class java_nio_file_DirectoryIteratorException_getMessage{ public static void function() {java.nio.file.DirectoryIteratorException obj = new java.nio.file.DirectoryIteratorException();obj.getMessage();}}

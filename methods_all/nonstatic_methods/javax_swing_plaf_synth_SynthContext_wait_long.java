@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthContext_wait_long{ public static void function() {javax.swing.plaf.synth.SynthContext obj = new javax.swing.plaf.synth.SynthContext();obj.wait(1813945446160227863);}}

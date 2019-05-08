@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_setLocation_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.setLocation(-1043920177,-1159868328);}}

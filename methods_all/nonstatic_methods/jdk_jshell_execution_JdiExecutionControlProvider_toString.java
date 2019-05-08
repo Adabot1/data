@@ -1,0 +1,1 @@
+class jdk_jshell_execution_JdiExecutionControlProvider_toString{ public static void function() {jdk.jshell.execution.JdiExecutionControlProvider obj = new jdk.jshell.execution.JdiExecutionControlProvider();obj.toString();}}

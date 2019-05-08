@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiProgressBarUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiProgressBarUI obj = new javax.swing.plaf.multi.MultiProgressBarUI();obj.wait(-8595958807478335975);}}

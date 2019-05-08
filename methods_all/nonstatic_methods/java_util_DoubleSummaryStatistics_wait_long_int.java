@@ -1,0 +1,1 @@
+class java_util_DoubleSummaryStatistics_wait_long_int{ public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();obj.wait(6729955693033454201,1331441671);}}

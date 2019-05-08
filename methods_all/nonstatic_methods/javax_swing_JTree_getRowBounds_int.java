@@ -1,0 +1,1 @@
+class javax_swing_JTree_getRowBounds_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.getRowBounds(-1760590569);}}

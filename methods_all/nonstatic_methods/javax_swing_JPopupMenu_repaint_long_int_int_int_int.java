@@ -1,0 +1,1 @@
+class javax_swing_JPopupMenu_repaint_long_int_int_int_int{ public static void function() {javax.swing.JPopupMenu obj = new javax.swing.JPopupMenu();obj.repaint(-6795395486690018957,635033566,985217889,-507631429,-983432864);}}

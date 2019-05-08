@@ -1,0 +1,1 @@
+class javax_sound_sampled_AudioSystem_getClip{ public static void function() {javax.sound.sampled.AudioSystem.getClip();}}

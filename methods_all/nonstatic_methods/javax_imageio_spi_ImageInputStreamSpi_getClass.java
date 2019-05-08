@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageInputStreamSpi_getClass{ public static void function() {javax.imageio.spi.ImageInputStreamSpi obj = new javax.imageio.spi.ImageInputStreamSpi();obj.getClass();}}

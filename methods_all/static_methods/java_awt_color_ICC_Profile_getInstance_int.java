@@ -1,0 +1,1 @@
+class java_awt_color_ICC_Profile_getInstance_int{ public static void function() {java.awt.color.ICC_Profile.getInstance(950113647);}}

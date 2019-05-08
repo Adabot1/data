@@ -1,0 +1,1 @@
+class com_sun_jdi_connect_spi_Connection_wait_long_int{ public static void function() {com.sun.jdi.connect.spi.Connection obj = new com.sun.jdi.connect.spi.Connection();obj.wait(-4608455375644940270,138240899);}}

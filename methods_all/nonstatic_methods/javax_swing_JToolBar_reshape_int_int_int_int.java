@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_reshape_int_int_int_int{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.reshape(-216761815,674218212,579319889,1599173567);}}

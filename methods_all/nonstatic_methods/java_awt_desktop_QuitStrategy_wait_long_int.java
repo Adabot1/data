@@ -1,0 +1,1 @@
+class java_awt_desktop_QuitStrategy_wait_long_int{ public static void function() {java.awt.desktop.QuitStrategy obj = new java.awt.desktop.QuitStrategy();obj.wait(-2483855612359049243,-72053702);}}

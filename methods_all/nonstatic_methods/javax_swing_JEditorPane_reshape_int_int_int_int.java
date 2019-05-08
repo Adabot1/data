@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_reshape_int_int_int_int{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.reshape(-1313796101,-31956198,319173882,-2099544055);}}

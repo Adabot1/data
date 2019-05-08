@@ -1,0 +1,1 @@
+class javax_management_MBeanAttributeInfo_getDescription{ public static void function() {javax.management.MBeanAttributeInfo obj = new javax.management.MBeanAttributeInfo();obj.getDescription();}}

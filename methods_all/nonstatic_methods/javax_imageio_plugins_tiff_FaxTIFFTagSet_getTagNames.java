@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_FaxTIFFTagSet_getTagNames{ public static void function() {javax.imageio.plugins.tiff.FaxTIFFTagSet obj = new javax.imageio.plugins.tiff.FaxTIFFTagSet();obj.getTagNames();}}

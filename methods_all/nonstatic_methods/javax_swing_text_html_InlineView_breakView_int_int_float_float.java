@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_breakView_int_int_float_float{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.breakView(111887760,709411379,0.920428,0.9668812);}}

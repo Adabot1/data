@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_resize_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.resize(1921747153,132227143);}}

@@ -1,0 +1,1 @@
+class java_io_PrintStream_print_long{ public static void function() {java.io.PrintStream obj = new java.io.PrintStream();obj.print(1636559048505203686);}}

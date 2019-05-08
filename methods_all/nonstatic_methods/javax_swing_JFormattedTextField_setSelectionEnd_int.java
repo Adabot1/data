@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_setSelectionEnd_int{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.setSelectionEnd(85126295);}}

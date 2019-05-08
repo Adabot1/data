@@ -1,0 +1,1 @@
+class java_awt_event_TextEvent_getClass{ public static void function() {java.awt.event.TextEvent obj = new java.awt.event.TextEvent();obj.getClass();}}

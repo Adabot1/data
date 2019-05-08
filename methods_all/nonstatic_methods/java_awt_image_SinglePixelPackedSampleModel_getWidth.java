@@ -1,0 +1,1 @@
+class java_awt_image_SinglePixelPackedSampleModel_getWidth{ public static void function() {java.awt.image.SinglePixelPackedSampleModel obj = new java.awt.image.SinglePixelPackedSampleModel();obj.getWidth();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalComboBoxButton_setMultiClickThreshhold_long{ public static void function() {javax.swing.plaf.metal.MetalComboBoxButton obj = new javax.swing.plaf.metal.MetalComboBoxButton();obj.setMultiClickThreshhold(-9132102786078840793);}}

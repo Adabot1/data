@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollButton_paintImmediately_int_int_int_int{ public static void function() {javax.swing.plaf.metal.MetalScrollButton obj = new javax.swing.plaf.metal.MetalScrollButton();obj.paintImmediately(515967247,-619196040,-1377331271,427795423);}}

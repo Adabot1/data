@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_getBaseline_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.getBaseline(774744979,-1817707281);}}

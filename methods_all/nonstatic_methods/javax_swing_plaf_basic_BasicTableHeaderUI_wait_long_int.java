@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicTableHeaderUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicTableHeaderUI obj = new javax.swing.plaf.basic.BasicTableHeaderUI();obj.wait(8423773382636899220,-994662907);}}

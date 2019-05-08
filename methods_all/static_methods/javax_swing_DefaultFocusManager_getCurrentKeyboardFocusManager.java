@@ -1,0 +1,1 @@
+class javax_swing_DefaultFocusManager_getCurrentKeyboardFocusManager{ public static void function() {javax.swing.DefaultFocusManager.getCurrentKeyboardFocusManager();}}

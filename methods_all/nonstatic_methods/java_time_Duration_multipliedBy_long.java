@@ -1,0 +1,1 @@
+class java_time_Duration_multipliedBy_long{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.multipliedBy(-6725726560678080905);}}

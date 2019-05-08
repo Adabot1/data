@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_move_int_int{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.move(-1416976481,-258175580);}}

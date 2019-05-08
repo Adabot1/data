@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthViewportUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthViewportUI obj = new javax.swing.plaf.synth.SynthViewportUI();obj.wait(-8807975853035184462);}}

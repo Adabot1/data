@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_findComponentAt_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.findComponentAt(-631217220,-1330604567);}}

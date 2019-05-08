@@ -1,0 +1,1 @@
+class javax_swing_ScrollPaneLayout_setVerticalScrollBarPolicy_int{ public static void function() {javax.swing.ScrollPaneLayout obj = new javax.swing.ScrollPaneLayout();obj.setVerticalScrollBarPolicy(-1304222461);}}

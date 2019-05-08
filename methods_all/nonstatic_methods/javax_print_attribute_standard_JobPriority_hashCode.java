@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobPriority_hashCode{ public static void function() {javax.print.attribute.standard.JobPriority obj = new javax.print.attribute.standard.JobPriority();obj.hashCode();}}

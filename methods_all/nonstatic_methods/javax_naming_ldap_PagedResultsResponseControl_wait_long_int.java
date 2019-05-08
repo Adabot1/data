@@ -1,0 +1,1 @@
+class javax_naming_ldap_PagedResultsResponseControl_wait_long_int{ public static void function() {javax.naming.ldap.PagedResultsResponseControl obj = new javax.naming.ldap.PagedResultsResponseControl();obj.wait(2444708440142921446,-1053285931);}}

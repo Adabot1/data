@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_inside_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.inside(697109407,-1208939803);}}

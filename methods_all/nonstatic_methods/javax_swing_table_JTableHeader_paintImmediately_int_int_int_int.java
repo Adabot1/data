@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_paintImmediately_int_int_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.paintImmediately(-1997741074,915285127,676503085,-981926704);}}

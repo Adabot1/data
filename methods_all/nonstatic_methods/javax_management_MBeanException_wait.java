@@ -1,0 +1,1 @@
+class javax_management_MBeanException_wait{ public static void function() {javax.management.MBeanException obj = new javax.management.MBeanException();obj.wait();}}

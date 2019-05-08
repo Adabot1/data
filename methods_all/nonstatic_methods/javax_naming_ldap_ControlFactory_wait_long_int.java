@@ -1,0 +1,1 @@
+class javax_naming_ldap_ControlFactory_wait_long_int{ public static void function() {javax.naming.ldap.ControlFactory obj = new javax.naming.ldap.ControlFactory();obj.wait(-8197800490769939715,-751626058);}}

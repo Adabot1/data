@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_getComponentAt_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.getComponentAt(-1998167178,1716587520);}}

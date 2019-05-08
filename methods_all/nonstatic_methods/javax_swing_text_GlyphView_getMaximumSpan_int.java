@@ -1,0 +1,1 @@
+class javax_swing_text_GlyphView_getMaximumSpan_int{ public static void function() {javax.swing.text.GlyphView obj = new javax.swing.text.GlyphView();obj.getMaximumSpan(-1751251376);}}

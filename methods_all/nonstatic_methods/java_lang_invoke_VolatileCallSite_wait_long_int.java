@@ -1,0 +1,1 @@
+class java_lang_invoke_VolatileCallSite_wait_long_int{ public static void function() {java.lang.invoke.VolatileCallSite obj = new java.lang.invoke.VolatileCallSite();obj.wait(-8004213961424828995,-1616809795);}}

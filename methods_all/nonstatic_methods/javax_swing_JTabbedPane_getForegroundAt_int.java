@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_getForegroundAt_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.getForegroundAt(-1703645339);}}

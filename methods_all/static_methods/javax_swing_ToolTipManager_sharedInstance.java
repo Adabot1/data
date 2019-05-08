@@ -1,0 +1,1 @@
+class javax_swing_ToolTipManager_sharedInstance{ public static void function() {javax.swing.ToolTipManager.sharedInstance();}}

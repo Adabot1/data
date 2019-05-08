@@ -1,0 +1,1 @@
+class java_sql_SQLClientInfoException_wait_long_int{ public static void function() {java.sql.SQLClientInfoException obj = new java.sql.SQLClientInfoException();obj.wait(-6562827891252649562,-148473101);}}

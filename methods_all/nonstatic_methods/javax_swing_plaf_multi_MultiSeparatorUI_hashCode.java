@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiSeparatorUI_hashCode{ public static void function() {javax.swing.plaf.multi.MultiSeparatorUI obj = new javax.swing.plaf.multi.MultiSeparatorUI();obj.hashCode();}}

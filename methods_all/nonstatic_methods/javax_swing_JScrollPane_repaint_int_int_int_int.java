@@ -1,0 +1,1 @@
+class javax_swing_JScrollPane_repaint_int_int_int_int{ public static void function() {javax.swing.JScrollPane obj = new javax.swing.JScrollPane();obj.repaint(-1078695894,-341760356,-1267495177,2116599398);}}

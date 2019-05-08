@@ -1,0 +1,1 @@
+class javax_management_remote_JMXConnectorServerFactory_notifyAll{ public static void function() {javax.management.remote.JMXConnectorServerFactory obj = new javax.management.remote.JMXConnectorServerFactory();obj.notifyAll();}}

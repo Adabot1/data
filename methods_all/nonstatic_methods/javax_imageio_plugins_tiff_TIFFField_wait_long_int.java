@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFField_wait_long_int{ public static void function() {javax.imageio.plugins.tiff.TIFFField obj = new javax.imageio.plugins.tiff.TIFFField();obj.wait(-2977936552898389028,-1024141749);}}

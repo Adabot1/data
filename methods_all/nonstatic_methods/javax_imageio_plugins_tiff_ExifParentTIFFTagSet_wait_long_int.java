@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_ExifParentTIFFTagSet_wait_long_int{ public static void function() {javax.imageio.plugins.tiff.ExifParentTIFFTagSet obj = new javax.imageio.plugins.tiff.ExifParentTIFFTagSet();obj.wait(3220828832320589750,2024456698);}}

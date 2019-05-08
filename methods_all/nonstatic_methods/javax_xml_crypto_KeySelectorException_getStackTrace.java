@@ -1,0 +1,1 @@
+class javax_xml_crypto_KeySelectorException_getStackTrace{ public static void function() {javax.xml.crypto.KeySelectorException obj = new javax.xml.crypto.KeySelectorException();obj.getStackTrace();}}

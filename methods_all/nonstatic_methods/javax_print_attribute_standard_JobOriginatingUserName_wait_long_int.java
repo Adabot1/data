@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobOriginatingUserName_wait_long_int{ public static void function() {javax.print.attribute.standard.JobOriginatingUserName obj = new javax.print.attribute.standard.JobOriginatingUserName();obj.wait(3399549904048225332,-1826577273);}}

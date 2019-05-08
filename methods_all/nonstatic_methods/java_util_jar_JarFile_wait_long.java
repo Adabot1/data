@@ -1,0 +1,1 @@
+class java_util_jar_JarFile_wait_long{ public static void function() {java.util.jar.JarFile obj = new java.util.jar.JarFile();obj.wait(-1822609784559897830);}}

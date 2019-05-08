@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_setValues_int_int_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.setValues(-1710936269,-1025541795,748619242,-1440504511);}}

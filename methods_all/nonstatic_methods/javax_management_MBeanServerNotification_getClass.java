@@ -1,0 +1,1 @@
+class javax_management_MBeanServerNotification_getClass{ public static void function() {javax.management.MBeanServerNotification obj = new javax.management.MBeanServerNotification();obj.getClass();}}

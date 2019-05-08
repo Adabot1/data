@@ -1,0 +1,1 @@
+class java_awt_ImageCapabilities_getClass{ public static void function() {java.awt.ImageCapabilities obj = new java.awt.ImageCapabilities();obj.getClass();}}

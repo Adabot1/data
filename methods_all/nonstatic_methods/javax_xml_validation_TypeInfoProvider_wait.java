@@ -1,0 +1,1 @@
+class javax_xml_validation_TypeInfoProvider_wait{ public static void function() {javax.xml.validation.TypeInfoProvider obj = new javax.xml.validation.TypeInfoProvider();obj.wait();}}

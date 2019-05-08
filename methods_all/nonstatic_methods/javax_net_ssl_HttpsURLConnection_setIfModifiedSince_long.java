@@ -1,0 +1,1 @@
+class javax_net_ssl_HttpsURLConnection_setIfModifiedSince_long{ public static void function() {javax.net.ssl.HttpsURLConnection obj = new javax.net.ssl.HttpsURLConnection();obj.setIfModifiedSince(7288921358250071745);}}

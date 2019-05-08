@@ -1,0 +1,1 @@
+class javax_swing_JFrame_setVisible_boolean{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.setVisible(false);}}

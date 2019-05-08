@@ -1,0 +1,1 @@
+class jdk_jshell_ExpressionSnippet_name{ public static void function() {jdk.jshell.ExpressionSnippet obj = new jdk.jshell.ExpressionSnippet();obj.name();}}

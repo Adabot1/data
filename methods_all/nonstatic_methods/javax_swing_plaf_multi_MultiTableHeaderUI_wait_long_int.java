@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiTableHeaderUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiTableHeaderUI obj = new javax.swing.plaf.multi.MultiTableHeaderUI();obj.wait(3418315640382411268,-1288164115);}}

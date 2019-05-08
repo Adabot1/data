@@ -1,0 +1,1 @@
+class javax_print_attribute_AttributeSetUtilities_getClass{ public static void function() {javax.print.attribute.AttributeSetUtilities obj = new javax.print.attribute.AttributeSetUtilities();obj.getClass();}}

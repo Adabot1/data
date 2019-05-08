@@ -1,0 +1,1 @@
+class java_sql_Time_setSeconds_int{ public static void function() {java.sql.Time obj = new java.sql.Time();obj.setSeconds(-552764678);}}

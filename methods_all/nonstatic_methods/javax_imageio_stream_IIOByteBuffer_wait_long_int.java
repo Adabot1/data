@@ -1,0 +1,1 @@
+class javax_imageio_stream_IIOByteBuffer_wait_long_int{ public static void function() {javax.imageio.stream.IIOByteBuffer obj = new javax.imageio.stream.IIOByteBuffer();obj.wait(-2662290742008675864,108426954);}}

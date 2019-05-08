@@ -1,0 +1,1 @@
+class java_lang_ClassNotFoundException_getClass{ public static void function() {java.lang.ClassNotFoundException obj = new java.lang.ClassNotFoundException();obj.getClass();}}

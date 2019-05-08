@@ -1,0 +1,1 @@
+class java_text_Collator_wait_long{ public static void function() {java.text.Collator obj = new java.text.Collator();obj.wait(-1330830601593978377);}}

@@ -1,0 +1,1 @@
+class javax_swing_JDialog_isMaximumSizeSet{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.isMaximumSizeSet();}}

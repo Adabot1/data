@@ -1,0 +1,1 @@
+class java_awt_List_getMinimumSize_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.getMinimumSize(1976015692);}}

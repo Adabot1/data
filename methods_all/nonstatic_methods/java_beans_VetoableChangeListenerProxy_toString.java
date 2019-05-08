@@ -1,0 +1,1 @@
+class java_beans_VetoableChangeListenerProxy_toString{ public static void function() {java.beans.VetoableChangeListenerProxy obj = new java.beans.VetoableChangeListenerProxy();obj.toString();}}

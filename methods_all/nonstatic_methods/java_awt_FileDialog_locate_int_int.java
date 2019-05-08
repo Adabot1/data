@@ -1,0 +1,1 @@
+class java_awt_FileDialog_locate_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.locate(-769437065,965143602);}}

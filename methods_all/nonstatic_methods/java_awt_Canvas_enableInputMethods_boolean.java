@@ -1,0 +1,1 @@
+class java_awt_Canvas_enableInputMethods_boolean{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.enableInputMethods(true);}}

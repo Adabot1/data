@@ -1,0 +1,1 @@
+class javax_swing_JFrame_reshape_int_int_int_int{ public static void function() {javax.swing.JFrame obj = new javax.swing.JFrame();obj.reshape(243799258,1757361849,1166731935,-1900634302);}}

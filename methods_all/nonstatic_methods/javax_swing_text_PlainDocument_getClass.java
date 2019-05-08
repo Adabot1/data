@@ -1,0 +1,1 @@
+class javax_swing_text_PlainDocument_getClass{ public static void function() {javax.swing.text.PlainDocument obj = new javax.swing.text.PlainDocument();obj.getClass();}}

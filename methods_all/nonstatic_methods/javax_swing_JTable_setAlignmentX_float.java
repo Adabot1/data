@@ -1,0 +1,1 @@
+class javax_swing_JTable_setAlignmentX_float{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.setAlignmentX(0.76065195);}}

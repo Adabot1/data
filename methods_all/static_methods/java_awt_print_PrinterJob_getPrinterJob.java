@@ -1,0 +1,1 @@
+class java_awt_print_PrinterJob_getPrinterJob{ public static void function() {java.awt.print.PrinterJob.getPrinterJob();}}

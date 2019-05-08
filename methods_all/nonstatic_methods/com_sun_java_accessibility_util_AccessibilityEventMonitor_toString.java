@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_AccessibilityEventMonitor_toString{ public static void function() {com.sun.java.accessibility.util.AccessibilityEventMonitor obj = new com.sun.java.accessibility.util.AccessibilityEventMonitor();obj.toString();}}

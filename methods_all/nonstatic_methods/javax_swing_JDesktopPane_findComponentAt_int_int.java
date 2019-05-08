@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_findComponentAt_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.findComponentAt(825951166,1501562568);}}

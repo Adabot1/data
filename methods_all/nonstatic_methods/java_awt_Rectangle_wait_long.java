@@ -1,0 +1,1 @@
+class java_awt_Rectangle_wait_long{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.wait(1669943280893573446);}}

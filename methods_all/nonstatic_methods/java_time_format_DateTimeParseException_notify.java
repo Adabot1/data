@@ -1,0 +1,1 @@
+class java_time_format_DateTimeParseException_notify{ public static void function() {java.time.format.DateTimeParseException obj = new java.time.format.DateTimeParseException();obj.notify();}}

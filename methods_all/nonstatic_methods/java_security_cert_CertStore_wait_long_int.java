@@ -1,0 +1,1 @@
+class java_security_cert_CertStore_wait_long_int{ public static void function() {java.security.cert.CertStore obj = new java.security.cert.CertStore();obj.wait(1482256531123850147,-239993074);}}

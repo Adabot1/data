@@ -1,0 +1,1 @@
+class javax_swing_JViewport_contains_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.contains(-72158540,-790291388);}}

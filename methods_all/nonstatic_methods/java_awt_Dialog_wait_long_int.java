@@ -1,0 +1,1 @@
+class java_awt_Dialog_wait_long_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.wait(-7199350494393091129,529921441);}}

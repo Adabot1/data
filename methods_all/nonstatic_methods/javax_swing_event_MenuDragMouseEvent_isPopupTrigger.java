@@ -1,0 +1,1 @@
+class javax_swing_event_MenuDragMouseEvent_isPopupTrigger{ public static void function() {javax.swing.event.MenuDragMouseEvent obj = new javax.swing.event.MenuDragMouseEvent();obj.isPopupTrigger();}}

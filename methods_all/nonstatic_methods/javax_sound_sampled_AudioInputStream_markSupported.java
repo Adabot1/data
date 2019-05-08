@@ -1,0 +1,1 @@
+class javax_sound_sampled_AudioInputStream_markSupported{ public static void function() {javax.sound.sampled.AudioInputStream obj = new javax.sound.sampled.AudioInputStream();obj.markSupported();}}

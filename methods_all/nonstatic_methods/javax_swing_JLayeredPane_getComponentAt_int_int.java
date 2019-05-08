@@ -1,0 +1,1 @@
+class javax_swing_JLayeredPane_getComponentAt_int_int{ public static void function() {javax.swing.JLayeredPane obj = new javax.swing.JLayeredPane();obj.getComponentAt(3165899,1320247965);}}

@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.areFocusTraversalKeysSet(-1378465631);}}

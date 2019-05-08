@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_repaint_long{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.repaint(7406426474694680494);}}

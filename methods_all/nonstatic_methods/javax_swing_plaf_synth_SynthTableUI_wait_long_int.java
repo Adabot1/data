@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTableUI_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthTableUI obj = new javax.swing.plaf.synth.SynthTableUI();obj.wait(2843414310219948124,-1679264075);}}

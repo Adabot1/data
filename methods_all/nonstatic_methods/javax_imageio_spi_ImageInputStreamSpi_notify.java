@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageInputStreamSpi_notify{ public static void function() {javax.imageio.spi.ImageInputStreamSpi obj = new javax.imageio.spi.ImageInputStreamSpi();obj.notify();}}

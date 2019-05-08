@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_plusDays_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.plusDays(-2125437018674769412);}}

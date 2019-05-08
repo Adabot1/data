@@ -1,0 +1,1 @@
+class javax_swing_JApplet_wait_long_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.wait(3954603224686755131,-28409220);}}

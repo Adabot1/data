@@ -1,0 +1,1 @@
+class javax_security_sasl_Sasl_hashCode{ public static void function() {javax.security.sasl.Sasl obj = new javax.security.sasl.Sasl();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_JApplet_locate_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.locate(-252948887,-1807251165);}}

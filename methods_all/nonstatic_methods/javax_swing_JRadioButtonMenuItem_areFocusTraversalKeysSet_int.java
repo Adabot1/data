@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.areFocusTraversalKeysSet(-561542164);}}

@@ -1,0 +1,1 @@
+class javax_swing_undo_UndoableEditSupport_wait_long_int{ public static void function() {javax.swing.undo.UndoableEditSupport obj = new javax.swing.undo.UndoableEditSupport();obj.wait(-7397217676698055777,-2095815);}}

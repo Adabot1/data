@@ -1,0 +1,1 @@
+class javax_naming_LinkRef_wait_long{ public static void function() {javax.naming.LinkRef obj = new javax.naming.LinkRef();obj.wait(-6758501727768668199);}}

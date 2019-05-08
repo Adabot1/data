@@ -1,0 +1,1 @@
+class java_awt_datatransfer_SystemFlavorMap_getDefaultFlavorMap{ public static void function() {java.awt.datatransfer.SystemFlavorMap.getDefaultFlavorMap();}}

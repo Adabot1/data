@@ -1,0 +1,1 @@
+class java_awt_desktop_QuitStrategy_values{ public static void function() {java.awt.desktop.QuitStrategy.values();}}

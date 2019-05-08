@@ -1,0 +1,1 @@
+class java_awt_Window_setFocusable_boolean{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.setFocusable(true);}}

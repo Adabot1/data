@@ -1,0 +1,1 @@
+class javax_management_QueryEval_hashCode{ public static void function() {javax.management.QueryEval obj = new javax.management.QueryEval();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class javax_swing_FocusManager_getCurrentFocusCycleRoot{ public static void function() {javax.swing.FocusManager obj = new javax.swing.FocusManager();obj.getCurrentFocusCycleRoot();}}

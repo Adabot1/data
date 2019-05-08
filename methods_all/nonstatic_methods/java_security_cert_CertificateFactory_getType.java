@@ -1,0 +1,1 @@
+class java_security_cert_CertificateFactory_getType{ public static void function() {java.security.cert.CertificateFactory obj = new java.security.cert.CertificateFactory();obj.getType();}}

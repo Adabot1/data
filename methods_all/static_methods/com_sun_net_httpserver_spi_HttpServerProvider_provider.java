@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_spi_HttpServerProvider_provider{ public static void function() {com.sun.net.httpserver.spi.HttpServerProvider.provider();}}

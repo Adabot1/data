@@ -1,0 +1,1 @@
+class javax_swing_text_CompositeView_breakView_int_int_float_float{ public static void function() {javax.swing.text.CompositeView obj = new javax.swing.text.CompositeView();obj.breakView(185927129,26230859,0.8906561,0.105367005);}}

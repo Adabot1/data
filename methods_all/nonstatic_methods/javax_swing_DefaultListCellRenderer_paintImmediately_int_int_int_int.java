@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_paintImmediately_int_int_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.paintImmediately(1391390438,-468706216,-1231392573,1911802511);}}

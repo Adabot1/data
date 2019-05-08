@@ -1,0 +1,1 @@
+class java_awt_GraphicsConfiguration_getBufferCapabilities{ public static void function() {java.awt.GraphicsConfiguration obj = new java.awt.GraphicsConfiguration();obj.getBufferCapabilities();}}

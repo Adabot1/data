@@ -1,0 +1,1 @@
+class javax_swing_text_html_HTMLDocument_remove_int_int{ public static void function() {javax.swing.text.html.HTMLDocument obj = new javax.swing.text.html.HTMLDocument();obj.remove(-481121171,180588798);}}

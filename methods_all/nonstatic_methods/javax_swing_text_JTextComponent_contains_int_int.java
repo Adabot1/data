@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_contains_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.contains(1620891970,-528143563);}}

@@ -1,0 +1,1 @@
+class javax_swing_LookAndFeel_wait_long_int{ public static void function() {javax.swing.LookAndFeel obj = new javax.swing.LookAndFeel();obj.wait(-6315716988728856068,326315450);}}

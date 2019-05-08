@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSplitPaneDivider_locate_int_int{ public static void function() {javax.swing.plaf.basic.BasicSplitPaneDivider obj = new javax.swing.plaf.basic.BasicSplitPaneDivider();obj.locate(1003228035,812910187);}}

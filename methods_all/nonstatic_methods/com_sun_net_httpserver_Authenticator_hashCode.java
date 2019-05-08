@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_Authenticator_hashCode{ public static void function() {com.sun.net.httpserver.Authenticator obj = new com.sun.net.httpserver.Authenticator();obj.hashCode();}}

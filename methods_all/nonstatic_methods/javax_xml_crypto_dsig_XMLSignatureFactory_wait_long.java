@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_XMLSignatureFactory_wait_long{ public static void function() {javax.xml.crypto.dsig.XMLSignatureFactory obj = new javax.xml.crypto.dsig.XMLSignatureFactory();obj.wait(-6520551838844957946);}}

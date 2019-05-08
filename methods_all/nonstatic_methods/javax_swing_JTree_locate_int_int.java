@@ -1,0 +1,1 @@
+class javax_swing_JTree_locate_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.locate(-600628191,-1331493920);}}

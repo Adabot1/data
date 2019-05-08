@@ -1,0 +1,1 @@
+class java_security_SecureRandom_nextInt_int{ public static void function() {java.security.SecureRandom obj = new java.security.SecureRandom();obj.nextInt(-1504514675);}}

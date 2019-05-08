@@ -1,0 +1,1 @@
+class java_awt_AWTKeyStroke_getKeyChar{ public static void function() {java.awt.AWTKeyStroke obj = new java.awt.AWTKeyStroke();obj.getKeyChar();}}

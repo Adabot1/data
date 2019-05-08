@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiTreeUI_wait_long{ public static void function() {javax.swing.plaf.multi.MultiTreeUI obj = new javax.swing.plaf.multi.MultiTreeUI();obj.wait(1614976104577828201);}}

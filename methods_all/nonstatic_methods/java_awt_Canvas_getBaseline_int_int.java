@@ -1,0 +1,1 @@
+class java_awt_Canvas_getBaseline_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.getBaseline(-1394658733,-1382498795);}}

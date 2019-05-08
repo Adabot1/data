@@ -1,0 +1,1 @@
+class jdk_management_jfr_ConfigurationInfo_wait_long_int{ public static void function() {jdk.management.jfr.ConfigurationInfo obj = new jdk.management.jfr.ConfigurationInfo();obj.wait(5265048692070106877,-1835411451);}}

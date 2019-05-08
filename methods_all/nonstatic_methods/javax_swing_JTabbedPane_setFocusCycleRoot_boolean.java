@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_setFocusCycleRoot_boolean{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.setFocusCycleRoot(false);}}

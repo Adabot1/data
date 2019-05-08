@@ -1,0 +1,1 @@
+class java_beans_PropertyChangeEvent_notify{ public static void function() {java.beans.PropertyChangeEvent obj = new java.beans.PropertyChangeEvent();obj.notify();}}

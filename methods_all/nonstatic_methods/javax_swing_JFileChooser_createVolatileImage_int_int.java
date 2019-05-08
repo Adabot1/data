@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_createVolatileImage_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.createVolatileImage(-61666658,-165298381);}}

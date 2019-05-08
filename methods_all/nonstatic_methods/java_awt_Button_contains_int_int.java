@@ -1,0 +1,1 @@
+class java_awt_Button_contains_int_int{ public static void function() {java.awt.Button obj = new java.awt.Button();obj.contains(-1301137809,1040192355);}}

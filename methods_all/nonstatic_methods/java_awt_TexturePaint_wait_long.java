@@ -1,0 +1,1 @@
+class java_awt_TexturePaint_wait_long{ public static void function() {java.awt.TexturePaint obj = new java.awt.TexturePaint();obj.wait(5349607742315779188);}}

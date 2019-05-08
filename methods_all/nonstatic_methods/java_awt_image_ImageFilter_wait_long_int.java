@@ -1,0 +1,1 @@
+class java_awt_image_ImageFilter_wait_long_int{ public static void function() {java.awt.image.ImageFilter obj = new java.awt.image.ImageFilter();obj.wait(7180944375735392003,1710553909);}}

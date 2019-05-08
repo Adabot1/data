@@ -1,0 +1,1 @@
+class java_awt_Dimension_setSize_double_double{ public static void function() {java.awt.Dimension obj = new java.awt.Dimension();obj.setSize(0.9620887353592181,0.45357194328185724);}}

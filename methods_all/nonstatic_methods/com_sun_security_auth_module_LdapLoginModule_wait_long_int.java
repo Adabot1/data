@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_LdapLoginModule_wait_long_int{ public static void function() {com.sun.security.auth.module.LdapLoginModule obj = new com.sun.security.auth.module.LdapLoginModule();obj.wait(-390431511967642540,-847706351);}}

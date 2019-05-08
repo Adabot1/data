@@ -1,0 +1,1 @@
+class java_awt_dnd_DropTargetDragEvent_acceptDrag_int{ public static void function() {java.awt.dnd.DropTargetDragEvent obj = new java.awt.dnd.DropTargetDragEvent();obj.acceptDrag(1287516729);}}

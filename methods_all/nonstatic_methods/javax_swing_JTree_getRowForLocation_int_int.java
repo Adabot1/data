@@ -1,0 +1,1 @@
+class javax_swing_JTree_getRowForLocation_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.getRowForLocation(1687250290,-1258508292);}}

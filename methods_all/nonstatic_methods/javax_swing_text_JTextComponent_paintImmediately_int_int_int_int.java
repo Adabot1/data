@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_paintImmediately_int_int_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.paintImmediately(-1062144904,-162061792,-823502708,1329946954);}}

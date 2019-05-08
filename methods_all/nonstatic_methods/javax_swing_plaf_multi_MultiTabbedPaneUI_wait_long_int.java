@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiTabbedPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiTabbedPaneUI obj = new javax.swing.plaf.multi.MultiTabbedPaneUI();obj.wait(7529752912182439331,-1827864378);}}

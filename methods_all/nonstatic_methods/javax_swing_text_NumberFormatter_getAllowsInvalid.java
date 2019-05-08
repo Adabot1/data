@@ -1,0 +1,1 @@
+class javax_swing_text_NumberFormatter_getAllowsInvalid{ public static void function() {javax.swing.text.NumberFormatter obj = new javax.swing.text.NumberFormatter();obj.getAllowsInvalid();}}

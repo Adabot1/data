@@ -1,0 +1,1 @@
+class java_time_Duration_minusHours_long{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.minusHours(695347183343193203);}}

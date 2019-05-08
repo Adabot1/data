@@ -1,0 +1,1 @@
+class javax_swing_JDialog_setModal_boolean{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.setModal(false);}}

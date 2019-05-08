@@ -1,0 +1,1 @@
+class java_sql_ClientInfoStatus_values{ public static void function() {java.sql.ClientInfoStatus.values();}}

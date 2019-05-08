@@ -1,0 +1,1 @@
+class javax_management_MBeanServerInvocationHandler_notify{ public static void function() {javax.management.MBeanServerInvocationHandler obj = new javax.management.MBeanServerInvocationHandler();obj.notify();}}

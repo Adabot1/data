@@ -1,0 +1,1 @@
+class java_time_ZoneOffset_ofTotalSeconds_int{ public static void function() {java.time.ZoneOffset.ofTotalSeconds(-1963932402);}}

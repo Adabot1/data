@@ -1,0 +1,1 @@
+class java_awt_Image_getScaledInstance_int_int_int{ public static void function() {java.awt.Image obj = new java.awt.Image();obj.getScaledInstance(1079858479,922500354,-1070454151);}}

@@ -1,0 +1,1 @@
+class javax_swing_Box_getComponentAt_int_int{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.getComponentAt(1569018116,-52980565);}}

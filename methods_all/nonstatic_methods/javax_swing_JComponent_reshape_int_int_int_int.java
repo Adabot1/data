@@ -1,0 +1,1 @@
+class javax_swing_JComponent_reshape_int_int_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.reshape(1814876763,962078482,-585589295,509249705);}}

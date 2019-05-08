@@ -1,0 +1,1 @@
+class java_lang_Package_getPackages{ public static void function() {java.lang.Package.getPackages();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiDesktopPaneUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiDesktopPaneUI obj = new javax.swing.plaf.multi.MultiDesktopPaneUI();obj.wait(585616260888787471,-1822319874);}}

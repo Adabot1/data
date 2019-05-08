@@ -1,0 +1,1 @@
+class java_lang_Package_wait_long_int{ public static void function() {java.lang.Package obj = new java.lang.Package();obj.wait(-2896079120553174915,-101072570);}}

@@ -1,0 +1,1 @@
+class javax_swing_JApplet_reshape_int_int_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.reshape(930301810,1248401097,1598740068,1320621632);}}

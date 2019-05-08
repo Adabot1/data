@@ -1,0 +1,1 @@
+class java_util_FormatFlagsConversionMismatchException_wait_long_int{ public static void function() {java.util.FormatFlagsConversionMismatchException obj = new java.util.FormatFlagsConversionMismatchException();obj.wait(1366465144192447492,-1073796609);}}

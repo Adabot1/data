@@ -1,0 +1,1 @@
+class javax_management_NotificationFilterSupport_wait{ public static void function() {javax.management.NotificationFilterSupport obj = new javax.management.NotificationFilterSupport();obj.wait();}}

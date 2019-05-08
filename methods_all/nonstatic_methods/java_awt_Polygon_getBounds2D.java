@@ -1,0 +1,1 @@
+class java_awt_Polygon_getBounds2D{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.getBounds2D();}}

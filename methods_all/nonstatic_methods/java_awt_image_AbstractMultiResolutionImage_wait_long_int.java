@@ -1,0 +1,1 @@
+class java_awt_image_AbstractMultiResolutionImage_wait_long_int{ public static void function() {java.awt.image.AbstractMultiResolutionImage obj = new java.awt.image.AbstractMultiResolutionImage();obj.wait(-605031297196400295,1560395965);}}

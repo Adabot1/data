@@ -1,0 +1,1 @@
+class javax_imageio_plugins_bmp_BMPImageWriteParam_setSourceSubsampling_int_int_int_int{ public static void function() {javax.imageio.plugins.bmp.BMPImageWriteParam obj = new javax.imageio.plugins.bmp.BMPImageWriteParam();obj.setSourceSubsampling(277064572,760583180,1893469368,-710524604);}}

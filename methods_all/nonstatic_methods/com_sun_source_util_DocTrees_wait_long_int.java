@@ -1,0 +1,1 @@
+class com_sun_source_util_DocTrees_wait_long_int{ public static void function() {com.sun.source.util.DocTrees obj = new com.sun.source.util.DocTrees();obj.wait(2866525980866839775,-1791803320);}}

@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_wait_long_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.wait(403565591286518439,-1662688123);}}

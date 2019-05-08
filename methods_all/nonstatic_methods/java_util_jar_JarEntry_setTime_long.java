@@ -1,0 +1,1 @@
+class java_util_jar_JarEntry_setTime_long{ public static void function() {java.util.jar.JarEntry obj = new java.util.jar.JarEntry();obj.setTime(-932683293947426849);}}

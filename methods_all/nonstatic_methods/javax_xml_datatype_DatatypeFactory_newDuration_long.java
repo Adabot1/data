@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeFactory_newDuration_long{ public static void function() {javax.xml.datatype.DatatypeFactory obj = new javax.xml.datatype.DatatypeFactory();obj.newDuration(-2407316878850322911);}}

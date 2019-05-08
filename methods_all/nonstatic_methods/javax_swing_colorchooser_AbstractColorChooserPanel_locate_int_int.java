@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_locate_int_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.locate(-176198113,1330898708);}}

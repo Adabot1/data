@@ -1,0 +1,1 @@
+class jdk_jfr_EventSettings_wait_long_int{ public static void function() {jdk.jfr.EventSettings obj = new jdk.jfr.EventSettings();obj.wait(-317021303801267410,-1074978273);}}

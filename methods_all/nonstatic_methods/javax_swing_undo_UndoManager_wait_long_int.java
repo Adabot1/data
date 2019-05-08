@@ -1,0 +1,1 @@
+class javax_swing_undo_UndoManager_wait_long_int{ public static void function() {javax.swing.undo.UndoManager obj = new javax.swing.undo.UndoManager();obj.wait(7504192064260148359,-97755124);}}

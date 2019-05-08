@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicHTML_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicHTML obj = new javax.swing.plaf.basic.BasicHTML();obj.wait(-2740224536518607747,1833748165);}}

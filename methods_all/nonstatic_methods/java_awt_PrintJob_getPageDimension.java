@@ -1,0 +1,1 @@
+class java_awt_PrintJob_getPageDimension{ public static void function() {java.awt.PrintJob obj = new java.awt.PrintJob();obj.getPageDimension();}}

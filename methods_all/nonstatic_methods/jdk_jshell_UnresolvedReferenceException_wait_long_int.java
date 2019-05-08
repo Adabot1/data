@@ -1,0 +1,1 @@
+class jdk_jshell_UnresolvedReferenceException_wait_long_int{ public static void function() {jdk.jshell.UnresolvedReferenceException obj = new jdk.jshell.UnresolvedReferenceException();obj.wait(692417573673167686,2031069372);}}

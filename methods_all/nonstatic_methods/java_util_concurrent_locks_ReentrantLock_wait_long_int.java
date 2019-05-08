@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_ReentrantLock_wait_long_int{ public static void function() {java.util.concurrent.locks.ReentrantLock obj = new java.util.concurrent.locks.ReentrantLock();obj.wait(4196022103126645460,141095138);}}

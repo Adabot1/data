@@ -1,0 +1,1 @@
+class java_security_spec_DSAGenParameterSpec_wait_long_int{ public static void function() {java.security.spec.DSAGenParameterSpec obj = new java.security.spec.DSAGenParameterSpec();obj.wait(1487009666457984623,209700397);}}

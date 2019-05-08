@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_minusNanos_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.minusNanos(8428513563117892134);}}

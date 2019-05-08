@@ -1,0 +1,1 @@
+class java_sql_Date_wait_long_int{ public static void function() {java.sql.Date obj = new java.sql.Date();obj.wait(2098545043158799798,1425653520);}}

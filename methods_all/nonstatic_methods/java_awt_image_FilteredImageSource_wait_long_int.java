@@ -1,0 +1,1 @@
+class java_awt_image_FilteredImageSource_wait_long_int{ public static void function() {java.awt.image.FilteredImageSource obj = new java.awt.image.FilteredImageSource();obj.wait(-2579431787654302087,188901083);}}

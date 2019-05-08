@@ -1,0 +1,1 @@
+class java_awt_Component_move_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.move(-1111158900,-258962324);}}

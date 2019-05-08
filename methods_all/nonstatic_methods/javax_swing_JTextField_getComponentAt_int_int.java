@@ -1,0 +1,1 @@
+class javax_swing_JTextField_getComponentAt_int_int{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.getComponentAt(105771839,1772761165);}}

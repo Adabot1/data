@@ -1,0 +1,1 @@
+class java_awt_TextArea_wait_long{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.wait(3482712801551185865);}}

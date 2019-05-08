@@ -1,0 +1,1 @@
+class java_nio_file_FileSystemException_wait_long{ public static void function() {java.nio.file.FileSystemException obj = new java.nio.file.FileSystemException();obj.wait(5842863401110778397);}}

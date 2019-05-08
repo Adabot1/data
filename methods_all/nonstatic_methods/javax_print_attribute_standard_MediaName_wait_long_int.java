@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_MediaName_wait_long_int{ public static void function() {javax.print.attribute.standard.MediaName obj = new javax.print.attribute.standard.MediaName();obj.wait(5651444957785874791,-1309804367);}}

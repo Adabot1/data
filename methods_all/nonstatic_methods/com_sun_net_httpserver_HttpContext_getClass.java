@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpContext_getClass{ public static void function() {com.sun.net.httpserver.HttpContext obj = new com.sun.net.httpserver.HttpContext();obj.getClass();}}

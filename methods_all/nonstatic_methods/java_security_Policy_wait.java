@@ -1,0 +1,1 @@
+class java_security_Policy_wait{ public static void function() {java.security.Policy obj = new java.security.Policy();obj.wait();}}

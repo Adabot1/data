@@ -1,0 +1,1 @@
+class java_net_DatagramSocket_getSoTimeout{ public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();obj.getSoTimeout();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_SplitPaneUI_notifyAll{ public static void function() {javax.swing.plaf.SplitPaneUI obj = new javax.swing.plaf.SplitPaneUI();obj.notifyAll();}}

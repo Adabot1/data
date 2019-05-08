@@ -1,0 +1,1 @@
+class javax_swing_GroupLayout_wait_long_int{ public static void function() {javax.swing.GroupLayout obj = new javax.swing.GroupLayout();obj.wait(-5482114762111424494,1583250781);}}

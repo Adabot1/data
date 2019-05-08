@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFTagSet_getTag_int{ public static void function() {javax.imageio.plugins.tiff.TIFFTagSet obj = new javax.imageio.plugins.tiff.TIFFTagSet();obj.getTag(-886759574);}}

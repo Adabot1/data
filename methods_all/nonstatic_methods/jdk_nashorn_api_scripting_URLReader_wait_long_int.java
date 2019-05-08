@@ -1,0 +1,1 @@
+class jdk_nashorn_api_scripting_URLReader_wait_long_int{ public static void function() {jdk.nashorn.api.scripting.URLReader obj = new jdk.nashorn.api.scripting.URLReader();obj.wait(-7515313791860654085,1718967692);}}

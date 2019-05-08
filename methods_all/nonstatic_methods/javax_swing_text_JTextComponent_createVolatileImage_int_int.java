@@ -1,0 +1,1 @@
+class javax_swing_text_JTextComponent_createVolatileImage_int_int{ public static void function() {javax.swing.text.JTextComponent obj = new javax.swing.text.JTextComponent();obj.createVolatileImage(-1914436055,1309039199);}}

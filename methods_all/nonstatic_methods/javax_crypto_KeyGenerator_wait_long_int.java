@@ -1,0 +1,1 @@
+class javax_crypto_KeyGenerator_wait_long_int{ public static void function() {javax.crypto.KeyGenerator obj = new javax.crypto.KeyGenerator();obj.wait(1865713242652830345,572373307);}}

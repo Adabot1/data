@@ -1,0 +1,1 @@
+class java_sql_DriverManager_notify{ public static void function() {java.sql.DriverManager obj = new java.sql.DriverManager();obj.notify();}}

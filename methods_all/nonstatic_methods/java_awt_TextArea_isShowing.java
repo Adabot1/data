@@ -1,0 +1,1 @@
+class java_awt_TextArea_isShowing{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.isShowing();}}

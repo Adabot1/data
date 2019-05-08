@@ -1,0 +1,1 @@
+class javax_swing_OverlayLayout_wait_long{ public static void function() {javax.swing.OverlayLayout obj = new javax.swing.OverlayLayout();obj.wait(4094212118805016523);}}

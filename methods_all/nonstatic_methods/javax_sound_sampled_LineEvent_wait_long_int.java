@@ -1,0 +1,1 @@
+class javax_sound_sampled_LineEvent_wait_long_int{ public static void function() {javax.sound.sampled.LineEvent obj = new javax.sound.sampled.LineEvent();obj.wait(-8857625952053638090,263686294);}}

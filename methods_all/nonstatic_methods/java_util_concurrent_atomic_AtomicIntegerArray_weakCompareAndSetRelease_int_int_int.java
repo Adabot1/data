@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicIntegerArray_weakCompareAndSetRelease_int_int_int{ public static void function() {java.util.concurrent.atomic.AtomicIntegerArray obj = new java.util.concurrent.atomic.AtomicIntegerArray();obj.weakCompareAndSetRelease(301242007,381873820,774313437);}}

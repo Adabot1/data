@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferShort_setElem_int_int_int{ public static void function() {java.awt.image.DataBufferShort obj = new java.awt.image.DataBufferShort();obj.setElem(1737099348,2136038420,797388852);}}

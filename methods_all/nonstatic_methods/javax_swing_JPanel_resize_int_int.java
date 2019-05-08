@@ -1,0 +1,1 @@
+class javax_swing_JPanel_resize_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.resize(1927839640,207440086);}}

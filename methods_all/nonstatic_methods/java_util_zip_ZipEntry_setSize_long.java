@@ -1,0 +1,1 @@
+class java_util_zip_ZipEntry_setSize_long{ public static void function() {java.util.zip.ZipEntry obj = new java.util.zip.ZipEntry();obj.setSize(8684980449601329027);}}

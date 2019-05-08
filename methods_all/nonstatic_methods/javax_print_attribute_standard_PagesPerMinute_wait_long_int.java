@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PagesPerMinute_wait_long_int{ public static void function() {javax.print.attribute.standard.PagesPerMinute obj = new javax.print.attribute.standard.PagesPerMinute();obj.wait(-6243255072876281703,338469524);}}

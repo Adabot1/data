@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiDesktopIconUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiDesktopIconUI obj = new javax.swing.plaf.multi.MultiDesktopIconUI();obj.wait(-7025790836298889472,2017768055);}}

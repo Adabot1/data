@@ -1,0 +1,1 @@
+class java_lang_management_LockInfo_wait_long_int{ public static void function() {java.lang.management.LockInfo obj = new java.lang.management.LockInfo();obj.wait(6633931620113164472,1984775409);}}

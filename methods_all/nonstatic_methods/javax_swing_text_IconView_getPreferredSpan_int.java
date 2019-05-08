@@ -1,0 +1,1 @@
+class javax_swing_text_IconView_getPreferredSpan_int{ public static void function() {javax.swing.text.IconView obj = new javax.swing.text.IconView();obj.getPreferredSpan(1909143516);}}

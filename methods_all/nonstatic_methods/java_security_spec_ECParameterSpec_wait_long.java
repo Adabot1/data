@@ -1,0 +1,1 @@
+class java_security_spec_ECParameterSpec_wait_long{ public static void function() {java.security.spec.ECParameterSpec obj = new java.security.spec.ECParameterSpec();obj.wait(3597232481853068735);}}

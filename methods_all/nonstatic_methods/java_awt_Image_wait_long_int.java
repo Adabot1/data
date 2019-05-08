@@ -1,0 +1,1 @@
+class java_awt_Image_wait_long_int{ public static void function() {java.awt.Image obj = new java.awt.Image();obj.wait(484781022263902816,1230044711);}}

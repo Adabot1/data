@@ -1,0 +1,1 @@
+class java_awt_AWTEventMulticaster_wait{ public static void function() {java.awt.AWTEventMulticaster obj = new java.awt.AWTEventMulticaster();obj.wait();}}

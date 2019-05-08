@@ -1,0 +1,1 @@
+class javax_sql_rowset_spi_SyncProvider_wait_long_int{ public static void function() {javax.sql.rowset.spi.SyncProvider obj = new javax.sql.rowset.spi.SyncProvider();obj.wait(-3463011614305700167,-1666700850);}}

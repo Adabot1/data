@@ -1,0 +1,1 @@
+class java_time_LocalTime_withHour_int{ public static void function() {java.time.LocalTime obj = new java.time.LocalTime();obj.withHour(-821867348);}}

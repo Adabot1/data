@@ -1,0 +1,1 @@
+class javax_crypto_Mac_wait_long_int{ public static void function() {javax.crypto.Mac obj = new javax.crypto.Mac();obj.wait(8993880921486105168,1063315714);}}

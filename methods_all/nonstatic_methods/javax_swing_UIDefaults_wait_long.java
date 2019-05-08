@@ -1,0 +1,1 @@
+class javax_swing_UIDefaults_wait_long{ public static void function() {javax.swing.UIDefaults obj = new javax.swing.UIDefaults();obj.wait(-6960639945425730935);}}

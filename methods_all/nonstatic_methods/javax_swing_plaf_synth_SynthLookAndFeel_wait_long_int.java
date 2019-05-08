@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthLookAndFeel_wait_long_int{ public static void function() {javax.swing.plaf.synth.SynthLookAndFeel obj = new javax.swing.plaf.synth.SynthLookAndFeel();obj.wait(-2278675692513202179,1979262368);}}

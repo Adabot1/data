@@ -1,0 +1,1 @@
+class java_lang_Void_wait_long_int{ public static void function() {java.lang.Void obj = new java.lang.Void();obj.wait(3161415878602488019,-1141786765);}}

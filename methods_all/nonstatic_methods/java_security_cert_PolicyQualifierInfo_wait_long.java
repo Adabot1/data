@@ -1,0 +1,1 @@
+class java_security_cert_PolicyQualifierInfo_wait_long{ public static void function() {java.security.cert.PolicyQualifierInfo obj = new java.security.cert.PolicyQualifierInfo();obj.wait(-7136054728035239830);}}

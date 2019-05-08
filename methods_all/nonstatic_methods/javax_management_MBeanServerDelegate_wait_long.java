@@ -1,0 +1,1 @@
+class javax_management_MBeanServerDelegate_wait_long{ public static void function() {javax.management.MBeanServerDelegate obj = new javax.management.MBeanServerDelegate();obj.wait(2497516529836592);}}

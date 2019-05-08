@@ -1,0 +1,1 @@
+class javax_net_ssl_TrustManagerFactory_wait_long_int{ public static void function() {javax.net.ssl.TrustManagerFactory obj = new javax.net.ssl.TrustManagerFactory();obj.wait(2423224131164981280,-543918236);}}

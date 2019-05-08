@@ -1,0 +1,1 @@
+class java_awt_image_Kernel_wait_long_int{ public static void function() {java.awt.image.Kernel obj = new java.awt.image.Kernel();obj.wait(-582546730522460193,491693418);}}

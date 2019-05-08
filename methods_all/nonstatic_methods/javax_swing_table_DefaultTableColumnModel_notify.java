@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableColumnModel_notify{ public static void function() {javax.swing.table.DefaultTableColumnModel obj = new javax.swing.table.DefaultTableColumnModel();obj.notify();}}

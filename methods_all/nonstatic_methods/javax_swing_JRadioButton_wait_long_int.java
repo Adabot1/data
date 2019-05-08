@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_wait_long_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.wait(5121222809151401329,-334549546);}}

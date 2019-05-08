@@ -1,0 +1,1 @@
+class java_awt_event_AWTEventListenerProxy_wait_long_int{ public static void function() {java.awt.event.AWTEventListenerProxy obj = new java.awt.event.AWTEventListenerProxy();obj.wait(6600698160956734887,-423614988);}}

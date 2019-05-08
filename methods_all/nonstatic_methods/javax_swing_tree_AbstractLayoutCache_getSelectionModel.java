@@ -1,0 +1,1 @@
+class javax_swing_tree_AbstractLayoutCache_getSelectionModel{ public static void function() {javax.swing.tree.AbstractLayoutCache obj = new javax.swing.tree.AbstractLayoutCache();obj.getSelectionModel();}}

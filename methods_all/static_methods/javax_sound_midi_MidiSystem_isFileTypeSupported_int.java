@@ -1,0 +1,1 @@
+class javax_sound_midi_MidiSystem_isFileTypeSupported_int{ public static void function() {javax.sound.midi.MidiSystem.isFileTypeSupported(-1890157456);}}

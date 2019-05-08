@@ -1,0 +1,1 @@
+class javax_swing_text_LabelView_getPartialSpan_int_int{ public static void function() {javax.swing.text.LabelView obj = new javax.swing.text.LabelView();obj.getPartialSpan(-2051495695,1701756483);}}

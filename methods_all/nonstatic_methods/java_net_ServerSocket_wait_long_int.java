@@ -1,0 +1,1 @@
+class java_net_ServerSocket_wait_long_int{ public static void function() {java.net.ServerSocket obj = new java.net.ServerSocket();obj.wait(-6327261683187454971,1406497363);}}

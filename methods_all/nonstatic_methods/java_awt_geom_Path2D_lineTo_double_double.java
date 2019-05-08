@@ -1,0 +1,1 @@
+class java_awt_geom_Path2D_lineTo_double_double{ public static void function() {java.awt.geom.Path2D obj = new java.awt.geom.Path2D();obj.lineTo(0.5795515508694613,0.2918089094858144);}}

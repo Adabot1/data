@@ -1,0 +1,1 @@
+class java_awt_TextComponent_reshape_int_int_int_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.reshape(1207550589,837760452,1770804722,1760574712);}}

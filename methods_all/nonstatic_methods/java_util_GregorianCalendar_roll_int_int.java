@@ -1,0 +1,1 @@
+class java_util_GregorianCalendar_roll_int_int{ public static void function() {java.util.GregorianCalendar obj = new java.util.GregorianCalendar();obj.roll(1420835497,755478646);}}

@@ -1,0 +1,1 @@
+class java_net_SocketPermission_notifyAll{ public static void function() {java.net.SocketPermission obj = new java.net.SocketPermission();obj.notifyAll();}}

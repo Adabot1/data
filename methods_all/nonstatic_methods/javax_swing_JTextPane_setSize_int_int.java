@@ -1,0 +1,1 @@
+class javax_swing_JTextPane_setSize_int_int{ public static void function() {javax.swing.JTextPane obj = new javax.swing.JTextPane();obj.setSize(-1311243300,-44517873);}}

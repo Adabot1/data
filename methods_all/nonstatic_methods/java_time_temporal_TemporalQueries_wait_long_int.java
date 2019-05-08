@@ -1,0 +1,1 @@
+class java_time_temporal_TemporalQueries_wait_long_int{ public static void function() {java.time.temporal.TemporalQueries obj = new java.time.temporal.TemporalQueries();obj.wait(3937504223088752490,200196339);}}

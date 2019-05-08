@@ -1,0 +1,1 @@
+class javax_swing_SizeRequirements_notifyAll{ public static void function() {javax.swing.SizeRequirements obj = new javax.swing.SizeRequirements();obj.notifyAll();}}

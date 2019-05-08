@@ -1,0 +1,1 @@
+class javax_management_MBeanNotificationInfo_notifyAll{ public static void function() {javax.management.MBeanNotificationInfo obj = new javax.management.MBeanNotificationInfo();obj.notifyAll();}}

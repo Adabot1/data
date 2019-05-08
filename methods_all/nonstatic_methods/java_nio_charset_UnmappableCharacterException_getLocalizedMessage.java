@@ -1,0 +1,1 @@
+class java_nio_charset_UnmappableCharacterException_getLocalizedMessage{ public static void function() {java.nio.charset.UnmappableCharacterException obj = new java.nio.charset.UnmappableCharacterException();obj.getLocalizedMessage();}}

@@ -1,0 +1,1 @@
+class java_nio_charset_CodingErrorAction_notify{ public static void function() {java.nio.charset.CodingErrorAction obj = new java.nio.charset.CodingErrorAction();obj.notify();}}

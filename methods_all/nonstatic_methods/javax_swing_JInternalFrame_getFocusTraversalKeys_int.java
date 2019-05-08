@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_getFocusTraversalKeys_int{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.getFocusTraversalKeys(337085256);}}

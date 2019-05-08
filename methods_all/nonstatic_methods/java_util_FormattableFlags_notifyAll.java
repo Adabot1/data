@@ -1,0 +1,1 @@
+class java_util_FormattableFlags_notifyAll{ public static void function() {java.util.FormattableFlags obj = new java.util.FormattableFlags();obj.notifyAll();}}

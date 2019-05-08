@@ -1,0 +1,1 @@
+class java_util_concurrent_TimeUnit_toSeconds_long{ public static void function() {java.util.concurrent.TimeUnit obj = new java.util.concurrent.TimeUnit();obj.toSeconds(4799669836550971954);}}

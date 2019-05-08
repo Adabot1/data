@@ -1,0 +1,1 @@
+class java_util_DuplicateFormatFlagsException_fillInStackTrace{ public static void function() {java.util.DuplicateFormatFlagsException obj = new java.util.DuplicateFormatFlagsException();obj.fillInStackTrace();}}

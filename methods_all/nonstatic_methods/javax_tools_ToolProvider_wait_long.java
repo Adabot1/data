@@ -1,0 +1,1 @@
+class javax_tools_ToolProvider_wait_long{ public static void function() {javax.tools.ToolProvider obj = new javax.tools.ToolProvider();obj.wait(-9072012526135283712);}}

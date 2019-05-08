@@ -1,0 +1,1 @@
+class javax_xml_validation_TypeInfoProvider_isSpecified_int{ public static void function() {javax.xml.validation.TypeInfoProvider obj = new javax.xml.validation.TypeInfoProvider();obj.isSpecified(-1689700933);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_setLocation_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.setLocation(361073632,-1430760958);}}

@@ -1,0 +1,1 @@
+class javax_swing_border_EtchedBorder_wait_long_int{ public static void function() {javax.swing.border.EtchedBorder obj = new javax.swing.border.EtchedBorder();obj.wait(8286909500283739180,-689542678);}}

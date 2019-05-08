@@ -1,0 +1,1 @@
+class java_awt_Toolkit_wait_long{ public static void function() {java.awt.Toolkit obj = new java.awt.Toolkit();obj.wait(1471162338973913007);}}

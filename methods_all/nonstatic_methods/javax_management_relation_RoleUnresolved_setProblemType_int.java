@@ -1,0 +1,1 @@
+class javax_management_relation_RoleUnresolved_setProblemType_int{ public static void function() {javax.management.relation.RoleUnresolved obj = new javax.management.relation.RoleUnresolved();obj.setProblemType(-1778400322);}}

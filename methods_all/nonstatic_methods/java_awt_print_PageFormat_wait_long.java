@@ -1,0 +1,1 @@
+class java_awt_print_PageFormat_wait_long{ public static void function() {java.awt.print.PageFormat obj = new java.awt.print.PageFormat();obj.wait(1579951813339186630);}}

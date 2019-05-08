@@ -1,0 +1,1 @@
+class java_awt_Label_getFocusTraversalKeys_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.getFocusTraversalKeys(985315042);}}

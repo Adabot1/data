@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_setVerticalAlignment_int{ public static void function() {javax.swing.JRadioButton obj = new javax.swing.JRadioButton();obj.setVerticalAlignment(584795287);}}

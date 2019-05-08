@@ -1,0 +1,1 @@
+class javax_swing_text_TableView_getView_int{ public static void function() {javax.swing.text.TableView obj = new javax.swing.text.TableView();obj.getView(684735854);}}

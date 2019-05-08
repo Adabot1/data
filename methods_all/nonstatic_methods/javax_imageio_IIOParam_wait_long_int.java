@@ -1,0 +1,1 @@
+class javax_imageio_IIOParam_wait_long_int{ public static void function() {javax.imageio.IIOParam obj = new javax.imageio.IIOParam();obj.wait(6151778875708789027,-1943262507);}}

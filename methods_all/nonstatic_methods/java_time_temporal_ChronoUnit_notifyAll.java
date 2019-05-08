@@ -1,0 +1,1 @@
+class java_time_temporal_ChronoUnit_notifyAll{ public static void function() {java.time.temporal.ChronoUnit obj = new java.time.temporal.ChronoUnit();obj.notifyAll();}}

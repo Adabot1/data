@@ -1,0 +1,1 @@
+class java_time_zone_ZoneRules_wait_long{ public static void function() {java.time.zone.ZoneRules obj = new java.time.zone.ZoneRules();obj.wait(4885679150438360030);}}

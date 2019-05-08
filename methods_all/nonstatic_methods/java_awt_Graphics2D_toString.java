@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_toString{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.toString();}}

@@ -1,0 +1,1 @@
+class javax_xml_validation_ValidatorHandler_notify{ public static void function() {javax.xml.validation.ValidatorHandler obj = new javax.xml.validation.ValidatorHandler();obj.notify();}}

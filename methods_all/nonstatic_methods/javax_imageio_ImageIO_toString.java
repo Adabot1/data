@@ -1,0 +1,1 @@
+class javax_imageio_ImageIO_toString{ public static void function() {javax.imageio.ImageIO obj = new javax.imageio.ImageIO();obj.toString();}}

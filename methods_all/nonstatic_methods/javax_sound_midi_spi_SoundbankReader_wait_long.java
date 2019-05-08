@@ -1,0 +1,1 @@
+class javax_sound_midi_spi_SoundbankReader_wait_long{ public static void function() {javax.sound.midi.spi.SoundbankReader obj = new javax.sound.midi.spi.SoundbankReader();obj.wait(2320196444598588720);}}

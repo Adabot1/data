@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicIconFactory_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicIconFactory obj = new javax.swing.plaf.basic.BasicIconFactory();obj.wait(4617632590529860249,1093087300);}}

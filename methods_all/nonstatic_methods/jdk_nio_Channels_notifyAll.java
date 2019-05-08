@@ -1,0 +1,1 @@
+class jdk_nio_Channels_notifyAll{ public static void function() {jdk.nio.Channels obj = new jdk.nio.Channels();obj.notifyAll();}}

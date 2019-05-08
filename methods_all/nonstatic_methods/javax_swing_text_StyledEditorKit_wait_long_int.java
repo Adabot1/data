@@ -1,0 +1,1 @@
+class javax_swing_text_StyledEditorKit_wait_long_int{ public static void function() {javax.swing.text.StyledEditorKit obj = new javax.swing.text.StyledEditorKit();obj.wait(6181143323633353074,-893583885);}}

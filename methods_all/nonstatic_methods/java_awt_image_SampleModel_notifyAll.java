@@ -1,0 +1,1 @@
+class java_awt_image_SampleModel_notifyAll{ public static void function() {java.awt.image.SampleModel obj = new java.awt.image.SampleModel();obj.notifyAll();}}

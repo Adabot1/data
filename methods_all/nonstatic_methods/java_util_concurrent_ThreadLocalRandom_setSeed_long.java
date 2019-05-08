@@ -1,0 +1,1 @@
+class java_util_concurrent_ThreadLocalRandom_setSeed_long{ public static void function() {java.util.concurrent.ThreadLocalRandom obj = new java.util.concurrent.ThreadLocalRandom();obj.setSeed(2024801931464899238);}}

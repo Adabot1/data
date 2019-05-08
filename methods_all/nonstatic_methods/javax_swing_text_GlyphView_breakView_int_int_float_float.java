@@ -1,0 +1,1 @@
+class javax_swing_text_GlyphView_breakView_int_int_float_float{ public static void function() {javax.swing.text.GlyphView obj = new javax.swing.text.GlyphView();obj.breakView(431962447,802613493,0.15214986,0.049849987);}}

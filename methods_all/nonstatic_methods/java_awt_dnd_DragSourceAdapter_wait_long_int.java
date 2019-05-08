@@ -1,0 +1,1 @@
+class java_awt_dnd_DragSourceAdapter_wait_long_int{ public static void function() {java.awt.dnd.DragSourceAdapter obj = new java.awt.dnd.DragSourceAdapter();obj.wait(-7201836887027132216,-1146156221);}}

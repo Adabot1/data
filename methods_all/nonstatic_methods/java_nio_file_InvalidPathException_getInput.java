@@ -1,0 +1,1 @@
+class java_nio_file_InvalidPathException_getInput{ public static void function() {java.nio.file.InvalidPathException obj = new java.nio.file.InvalidPathException();obj.getInput();}}

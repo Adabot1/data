@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_setAlignmentY_float{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.setAlignmentY(0.040556073);}}

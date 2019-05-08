@@ -1,0 +1,1 @@
+class java_awt_Graphics_drawRect_int_int_int_int{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.drawRect(-1058999345,-47450092,1740601884,2076470467);}}

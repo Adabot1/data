@@ -1,0 +1,1 @@
+class javax_swing_JViewport_setOpaque_boolean{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.setOpaque(false);}}

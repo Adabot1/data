@@ -1,0 +1,1 @@
+class javax_swing_JTextArea_wait_long_int{ public static void function() {javax.swing.JTextArea obj = new javax.swing.JTextArea();obj.wait(-3039023327320789347,-1035802768);}}

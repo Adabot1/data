@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalScrollBarUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalScrollBarUI obj = new javax.swing.plaf.metal.MetalScrollBarUI();obj.wait(-2155073088023908753);}}

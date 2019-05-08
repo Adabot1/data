@@ -1,0 +1,1 @@
+class java_lang_Character_isSpaceChar_int{ public static void function() {java.lang.Character.isSpaceChar(1206688232);}}

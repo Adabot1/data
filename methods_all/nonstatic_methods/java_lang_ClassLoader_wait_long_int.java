@@ -1,0 +1,1 @@
+class java_lang_ClassLoader_wait_long_int{ public static void function() {java.lang.ClassLoader obj = new java.lang.ClassLoader();obj.wait(3226187021879901278,-222072073);}}

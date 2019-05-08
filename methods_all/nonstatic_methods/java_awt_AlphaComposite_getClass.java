@@ -1,0 +1,1 @@
+class java_awt_AlphaComposite_getClass{ public static void function() {java.awt.AlphaComposite obj = new java.awt.AlphaComposite();obj.getClass();}}

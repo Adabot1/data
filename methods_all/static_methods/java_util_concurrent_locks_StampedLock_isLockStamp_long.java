@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_isLockStamp_long{ public static void function() {java.util.concurrent.locks.StampedLock.isLockStamp(-4022325425843469308);}}

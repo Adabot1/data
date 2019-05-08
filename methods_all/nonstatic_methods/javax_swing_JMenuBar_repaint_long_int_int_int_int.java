@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_repaint_long_int_int_int_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.repaint(8383030300910071043,392256791,-1112580917,-37421697,775593639);}}

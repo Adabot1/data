@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_paintImmediately_int_int_int_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.paintImmediately(1670432593,-2043170199,1341273981,1668040184);}}

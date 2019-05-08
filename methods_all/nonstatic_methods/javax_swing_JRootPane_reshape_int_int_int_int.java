@@ -1,0 +1,1 @@
+class javax_swing_JRootPane_reshape_int_int_int_int{ public static void function() {javax.swing.JRootPane obj = new javax.swing.JRootPane();obj.reshape(-1001591609,-1014248522,1273819424,-365853639);}}

@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_reshape_int_int_int_int{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.reshape(-146929103,-251480015,-520312714,-1355581416);}}

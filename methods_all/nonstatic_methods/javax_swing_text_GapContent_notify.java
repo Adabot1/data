@@ -1,0 +1,1 @@
+class javax_swing_text_GapContent_notify{ public static void function() {javax.swing.text.GapContent obj = new javax.swing.text.GapContent();obj.notify();}}

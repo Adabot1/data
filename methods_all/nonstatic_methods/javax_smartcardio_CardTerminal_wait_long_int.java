@@ -1,0 +1,1 @@
+class javax_smartcardio_CardTerminal_wait_long_int{ public static void function() {javax.smartcardio.CardTerminal obj = new javax.smartcardio.CardTerminal();obj.wait(1428064819071401353,-1418527354);}}

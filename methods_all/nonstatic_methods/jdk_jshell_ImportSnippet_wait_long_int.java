@@ -1,0 +1,1 @@
+class jdk_jshell_ImportSnippet_wait_long_int{ public static void function() {jdk.jshell.ImportSnippet obj = new jdk.jshell.ImportSnippet();obj.wait(-5635339085754046294,968850604);}}

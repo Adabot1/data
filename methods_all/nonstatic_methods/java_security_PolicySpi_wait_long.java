@@ -1,0 +1,1 @@
+class java_security_PolicySpi_wait_long{ public static void function() {java.security.PolicySpi obj = new java.security.PolicySpi();obj.wait(3377334258500324872);}}

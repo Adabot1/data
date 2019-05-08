@@ -1,0 +1,1 @@
+class java_math_BigInteger_toString_int{ public static void function() {java.math.BigInteger obj = new java.math.BigInteger();obj.toString(-511299807);}}

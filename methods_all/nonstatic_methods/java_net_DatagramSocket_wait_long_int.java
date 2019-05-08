@@ -1,0 +1,1 @@
+class java_net_DatagramSocket_wait_long_int{ public static void function() {java.net.DatagramSocket obj = new java.net.DatagramSocket();obj.wait(7355914795991892111,-14583017);}}

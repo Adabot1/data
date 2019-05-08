@@ -1,0 +1,1 @@
+class javax_swing_GrayFilter_filterRGB_int_int_int{ public static void function() {javax.swing.GrayFilter obj = new javax.swing.GrayFilter();obj.filterRGB(-1184887562,-966771743,-1660802169);}}

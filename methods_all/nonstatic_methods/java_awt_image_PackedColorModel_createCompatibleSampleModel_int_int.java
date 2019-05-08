@@ -1,0 +1,1 @@
+class java_awt_image_PackedColorModel_createCompatibleSampleModel_int_int{ public static void function() {java.awt.image.PackedColorModel obj = new java.awt.image.PackedColorModel();obj.createCompatibleSampleModel(-1561777803,-1343266855);}}

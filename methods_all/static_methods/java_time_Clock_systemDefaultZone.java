@@ -1,0 +1,1 @@
+class java_time_Clock_systemDefaultZone{ public static void function() {java.time.Clock.systemDefaultZone();}}

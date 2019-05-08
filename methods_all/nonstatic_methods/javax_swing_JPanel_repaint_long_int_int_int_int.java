@@ -1,0 +1,1 @@
+class javax_swing_JPanel_repaint_long_int_int_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.repaint(2391232999074636910,-955363016,-868494405,705268791,230315858);}}

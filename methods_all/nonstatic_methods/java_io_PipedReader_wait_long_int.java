@@ -1,0 +1,1 @@
+class java_io_PipedReader_wait_long_int{ public static void function() {java.io.PipedReader obj = new java.io.PipedReader();obj.wait(-431224071523131250,-672282033);}}

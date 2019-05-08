@@ -1,0 +1,1 @@
+class javax_imageio_ImageWriter_canInsertEmpty_int{ public static void function() {javax.imageio.ImageWriter obj = new javax.imageio.ImageWriter();obj.canInsertEmpty(928958807);}}

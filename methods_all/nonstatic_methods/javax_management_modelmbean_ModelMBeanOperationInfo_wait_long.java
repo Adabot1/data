@@ -1,0 +1,1 @@
+class javax_management_modelmbean_ModelMBeanOperationInfo_wait_long{ public static void function() {javax.management.modelmbean.ModelMBeanOperationInfo obj = new javax.management.modelmbean.ModelMBeanOperationInfo();obj.wait(351982795311569311);}}

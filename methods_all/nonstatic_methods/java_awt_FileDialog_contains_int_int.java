@@ -1,0 +1,1 @@
+class java_awt_FileDialog_contains_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.contains(689377952,-696883022);}}

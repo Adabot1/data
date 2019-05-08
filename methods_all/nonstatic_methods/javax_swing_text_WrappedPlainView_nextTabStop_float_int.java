@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_nextTabStop_float_int{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.nextTabStop(0.07135278,802351774);}}

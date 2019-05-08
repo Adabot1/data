@@ -1,0 +1,1 @@
+class java_awt_ScrollPaneAdjustable_setMinimum_int{ public static void function() {java.awt.ScrollPaneAdjustable obj = new java.awt.ScrollPaneAdjustable();obj.setMinimum(378007896);}}

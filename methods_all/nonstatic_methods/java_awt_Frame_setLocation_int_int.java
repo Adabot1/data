@@ -1,0 +1,1 @@
+class java_awt_Frame_setLocation_int_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.setLocation(-1560691708,-319123637);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoChronology_isLeapYear_long{ public static void function() {java.time.chrono.MinguoChronology obj = new java.time.chrono.MinguoChronology();obj.isLeapYear(3261604221405874172);}}

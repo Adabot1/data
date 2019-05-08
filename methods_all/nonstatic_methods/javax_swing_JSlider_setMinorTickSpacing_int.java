@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setMinorTickSpacing_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setMinorTickSpacing(-1013397048);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_PlainDocument_wait_long_int{ public static void function() {javax.swing.text.PlainDocument obj = new javax.swing.text.PlainDocument();obj.wait(4531812868774387963,1010941652);}}

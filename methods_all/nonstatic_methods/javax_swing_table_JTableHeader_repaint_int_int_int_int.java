@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_repaint_int_int_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.repaint(180973178,1553927663,1195668955,1730738057);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_LabelView_breakView_int_int_float_float{ public static void function() {javax.swing.text.LabelView obj = new javax.swing.text.LabelView();obj.breakView(108382464,1453975108,0.57961583,0.57544607);}}

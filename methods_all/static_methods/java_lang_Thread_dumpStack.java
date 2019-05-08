@@ -1,0 +1,1 @@
+class java_lang_Thread_dumpStack{ public static void function() {java.lang.Thread.dumpStack();}}

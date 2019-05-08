@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultStyledDocument_wait_long_int{ public static void function() {javax.swing.text.DefaultStyledDocument obj = new javax.swing.text.DefaultStyledDocument();obj.wait(-2782515189526700753,-1252131340);}}

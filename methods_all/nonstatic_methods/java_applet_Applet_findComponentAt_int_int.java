@@ -1,0 +1,1 @@
+class java_applet_Applet_findComponentAt_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.findComponentAt(-650978647,-134559923);}}

@@ -1,0 +1,1 @@
+class java_util_concurrent_Phaser_notify{ public static void function() {java.util.concurrent.Phaser obj = new java.util.concurrent.Phaser();obj.notify();}}

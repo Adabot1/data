@@ -1,0 +1,1 @@
+class java_text_BreakIterator_previous{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();obj.previous();}}

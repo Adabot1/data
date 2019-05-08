@@ -1,0 +1,1 @@
+class java_awt_Point_distance_double_double{ public static void function() {java.awt.Point obj = new java.awt.Point();obj.distance(0.4433896778030859,0.6577682194518172);}}

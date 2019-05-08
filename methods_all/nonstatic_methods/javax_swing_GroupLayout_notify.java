@@ -1,0 +1,1 @@
+class javax_swing_GroupLayout_notify{ public static void function() {javax.swing.GroupLayout obj = new javax.swing.GroupLayout();obj.notify();}}

@@ -1,0 +1,1 @@
+class java_awt_font_TextAttribute_wait_long{ public static void function() {java.awt.font.TextAttribute obj = new java.awt.font.TextAttribute();obj.wait(1064806963615339894);}}

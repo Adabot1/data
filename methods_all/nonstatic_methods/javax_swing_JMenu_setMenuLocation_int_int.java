@@ -1,0 +1,1 @@
+class javax_swing_JMenu_setMenuLocation_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.setMenuLocation(394398974,2037992731);}}

@@ -1,0 +1,1 @@
+class java_net_URLDecoder_wait_long{ public static void function() {java.net.URLDecoder obj = new java.net.URLDecoder();obj.wait(-1291488662816488107);}}

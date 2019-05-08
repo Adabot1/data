@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_ServicePermission_notify{ public static void function() {javax.security.auth.kerberos.ServicePermission obj = new javax.security.auth.kerberos.ServicePermission();obj.notify();}}

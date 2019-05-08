@@ -1,0 +1,1 @@
+class javax_xml_datatype_XMLGregorianCalendar_setTimezone_int{ public static void function() {javax.xml.datatype.XMLGregorianCalendar obj = new javax.xml.datatype.XMLGregorianCalendar();obj.setTimezone(-128752261);}}

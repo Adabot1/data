@@ -1,0 +1,1 @@
+class javax_crypto_MacSpi_wait_long{ public static void function() {javax.crypto.MacSpi obj = new javax.crypto.MacSpi();obj.wait(4515170273338225615);}}

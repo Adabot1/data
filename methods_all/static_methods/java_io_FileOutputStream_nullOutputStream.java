@@ -1,0 +1,1 @@
+class java_io_FileOutputStream_nullOutputStream{ public static void function() {java.io.FileOutputStream.nullOutputStream();}}

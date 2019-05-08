@@ -1,0 +1,1 @@
+class java_lang_StrictMath_min_float_float{ public static void function() {java.lang.StrictMath.min(0.1932323,0.08772904);}}

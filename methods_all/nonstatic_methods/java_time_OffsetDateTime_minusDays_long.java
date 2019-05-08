@@ -1,0 +1,1 @@
+class java_time_OffsetDateTime_minusDays_long{ public static void function() {java.time.OffsetDateTime obj = new java.time.OffsetDateTime();obj.minusDays(-8946282768498845119);}}

@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_AccessibilityListenerList_wait_long_int{ public static void function() {com.sun.java.accessibility.util.AccessibilityListenerList obj = new com.sun.java.accessibility.util.AccessibilityListenerList();obj.wait(822389080419583466,1523561976);}}

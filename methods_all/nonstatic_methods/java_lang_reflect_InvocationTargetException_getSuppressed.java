@@ -1,0 +1,1 @@
+class java_lang_reflect_InvocationTargetException_getSuppressed{ public static void function() {java.lang.reflect.InvocationTargetException obj = new java.lang.reflect.InvocationTargetException();obj.getSuppressed();}}

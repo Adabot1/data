@@ -1,0 +1,1 @@
+class com_sun_tools_attach_VirtualMachine_wait_long_int{ public static void function() {com.sun.tools.attach.VirtualMachine obj = new com.sun.tools.attach.VirtualMachine();obj.wait(-6892085147562955600,-17905742);}}

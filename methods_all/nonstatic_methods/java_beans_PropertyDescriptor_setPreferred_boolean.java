@@ -1,0 +1,1 @@
+class java_beans_PropertyDescriptor_setPreferred_boolean{ public static void function() {java.beans.PropertyDescriptor obj = new java.beans.PropertyDescriptor();obj.setPreferred(false);}}

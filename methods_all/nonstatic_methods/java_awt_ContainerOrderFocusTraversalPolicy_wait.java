@@ -1,0 +1,1 @@
+class java_awt_ContainerOrderFocusTraversalPolicy_wait{ public static void function() {java.awt.ContainerOrderFocusTraversalPolicy obj = new java.awt.ContainerOrderFocusTraversalPolicy();obj.wait();}}

@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_wait_long_int{ public static void function() {java.time.ZonedDateTime obj = new java.time.ZonedDateTime();obj.wait(-8289204360187370309,107787257);}}

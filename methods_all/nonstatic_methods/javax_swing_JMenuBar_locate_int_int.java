@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_locate_int_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.locate(1061041160,29048907);}}

@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_createFragment_int_int{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.createFragment(345685375,-1412842760);}}

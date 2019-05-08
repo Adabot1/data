@@ -1,0 +1,1 @@
+class java_nio_channels_AsynchronousFileChannel_wait_long_int{ public static void function() {java.nio.channels.AsynchronousFileChannel obj = new java.nio.channels.AsynchronousFileChannel();obj.wait(-883237844664236676,-509062055);}}

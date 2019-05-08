@@ -1,0 +1,1 @@
+class java_time_Period_multipliedBy_int{ public static void function() {java.time.Period obj = new java.time.Period();obj.multipliedBy(402448225);}}

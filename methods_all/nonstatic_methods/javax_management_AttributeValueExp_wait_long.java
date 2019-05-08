@@ -1,0 +1,1 @@
+class javax_management_AttributeValueExp_wait_long{ public static void function() {javax.management.AttributeValueExp obj = new javax.management.AttributeValueExp();obj.wait(2383335591427744368);}}

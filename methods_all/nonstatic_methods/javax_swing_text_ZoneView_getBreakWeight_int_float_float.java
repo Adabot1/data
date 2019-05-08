@@ -1,0 +1,1 @@
+class javax_swing_text_ZoneView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.ZoneView obj = new javax.swing.text.ZoneView();obj.getBreakWeight(-883226174,0.4239797,0.12890744);}}

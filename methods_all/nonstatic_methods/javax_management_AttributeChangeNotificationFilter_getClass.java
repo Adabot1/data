@@ -1,0 +1,1 @@
+class javax_management_AttributeChangeNotificationFilter_getClass{ public static void function() {javax.management.AttributeChangeNotificationFilter obj = new javax.management.AttributeChangeNotificationFilter();obj.getClass();}}

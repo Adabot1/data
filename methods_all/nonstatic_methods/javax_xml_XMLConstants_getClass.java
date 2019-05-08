@@ -1,0 +1,1 @@
+class javax_xml_XMLConstants_getClass{ public static void function() {javax.xml.XMLConstants obj = new javax.xml.XMLConstants();obj.getClass();}}

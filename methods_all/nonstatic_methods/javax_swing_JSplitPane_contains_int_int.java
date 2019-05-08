@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_contains_int_int{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.contains(-2045199445,870880114);}}

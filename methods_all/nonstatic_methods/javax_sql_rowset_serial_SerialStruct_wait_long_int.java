@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialStruct_wait_long_int{ public static void function() {javax.sql.rowset.serial.SerialStruct obj = new javax.sql.rowset.serial.SerialStruct();obj.wait(1048301314621331781,796317666);}}

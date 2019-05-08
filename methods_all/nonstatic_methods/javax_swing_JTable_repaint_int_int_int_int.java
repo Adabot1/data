@@ -1,0 +1,1 @@
+class javax_swing_JTable_repaint_int_int_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.repaint(-1835781834,827237236,-891426830,2078642530);}}

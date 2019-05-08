@@ -1,0 +1,1 @@
+class javax_management_loading_MLetContent_getCodeBase{ public static void function() {javax.management.loading.MLetContent obj = new javax.management.loading.MLetContent();obj.getCodeBase();}}

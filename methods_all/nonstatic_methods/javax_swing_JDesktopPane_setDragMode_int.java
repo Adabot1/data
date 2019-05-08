@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_setDragMode_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.setDragMode(1629188698);}}

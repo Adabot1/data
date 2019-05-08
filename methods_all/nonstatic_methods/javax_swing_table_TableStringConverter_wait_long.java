@@ -1,0 +1,1 @@
+class javax_swing_table_TableStringConverter_wait_long{ public static void function() {javax.swing.table.TableStringConverter obj = new javax.swing.table.TableStringConverter();obj.wait(-1168507891574953429);}}

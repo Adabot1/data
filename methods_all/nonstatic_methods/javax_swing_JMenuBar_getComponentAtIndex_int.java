@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_getComponentAtIndex_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.getComponentAtIndex(-672684870);}}

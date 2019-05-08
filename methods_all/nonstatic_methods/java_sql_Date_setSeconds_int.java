@@ -1,0 +1,1 @@
+class java_sql_Date_setSeconds_int{ public static void function() {java.sql.Date obj = new java.sql.Date();obj.setSeconds(-1722822559);}}

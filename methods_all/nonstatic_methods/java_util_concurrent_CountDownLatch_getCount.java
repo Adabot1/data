@@ -1,0 +1,1 @@
+class java_util_concurrent_CountDownLatch_getCount{ public static void function() {java.util.concurrent.CountDownLatch obj = new java.util.concurrent.CountDownLatch();obj.getCount();}}

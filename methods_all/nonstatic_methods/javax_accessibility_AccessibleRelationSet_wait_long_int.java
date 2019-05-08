@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleRelationSet_wait_long_int{ public static void function() {javax.accessibility.AccessibleRelationSet obj = new javax.accessibility.AccessibleRelationSet();obj.wait(308367853295108104,-1245270886);}}

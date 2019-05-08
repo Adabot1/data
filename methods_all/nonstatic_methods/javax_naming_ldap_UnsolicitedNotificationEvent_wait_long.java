@@ -1,0 +1,1 @@
+class javax_naming_ldap_UnsolicitedNotificationEvent_wait_long{ public static void function() {javax.naming.ldap.UnsolicitedNotificationEvent obj = new javax.naming.ldap.UnsolicitedNotificationEvent();obj.wait(8962397603977666763);}}

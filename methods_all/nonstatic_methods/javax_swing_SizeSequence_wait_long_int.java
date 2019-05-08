@@ -1,0 +1,1 @@
+class javax_swing_SizeSequence_wait_long_int{ public static void function() {javax.swing.SizeSequence obj = new javax.swing.SizeSequence();obj.wait(1979662113636781259,60994768);}}

@@ -1,0 +1,1 @@
+class java_beans_Expression_execute{ public static void function() {java.beans.Expression obj = new java.beans.Expression();obj.execute();}}

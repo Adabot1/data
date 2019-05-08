@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_SctpStandardSocketOptions_wait_long_int{ public static void function() {com.sun.nio.sctp.SctpStandardSocketOptions obj = new com.sun.nio.sctp.SctpStandardSocketOptions();obj.wait(7432484024326400069,-637034456);}}

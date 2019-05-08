@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_wait_long_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.wait(2625288092451768006,1436176583);}}

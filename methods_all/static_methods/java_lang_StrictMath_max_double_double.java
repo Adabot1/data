@@ -1,0 +1,1 @@
+class java_lang_StrictMath_max_double_double{ public static void function() {java.lang.StrictMath.max(0.23277243895872424,0.6289721861595672);}}

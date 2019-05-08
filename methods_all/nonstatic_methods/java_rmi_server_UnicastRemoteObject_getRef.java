@@ -1,0 +1,1 @@
+class java_rmi_server_UnicastRemoteObject_getRef{ public static void function() {java.rmi.server.UnicastRemoteObject obj = new java.rmi.server.UnicastRemoteObject();obj.getRef();}}

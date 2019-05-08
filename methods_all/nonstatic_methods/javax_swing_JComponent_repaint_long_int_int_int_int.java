@@ -1,0 +1,1 @@
+class javax_swing_JComponent_repaint_long_int_int_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.repaint(8398071439091250320,978676295,-1574329796,-501144882,-1840971516);}}

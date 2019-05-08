@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setLocation_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setLocation(-1782712346,-1844345229);}}

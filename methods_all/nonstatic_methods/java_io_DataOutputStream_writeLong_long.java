@@ -1,0 +1,1 @@
+class java_io_DataOutputStream_writeLong_long{ public static void function() {java.io.DataOutputStream obj = new java.io.DataOutputStream();obj.writeLong(-2594114101414267743);}}

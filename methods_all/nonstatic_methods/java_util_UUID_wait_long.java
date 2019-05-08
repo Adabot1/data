@@ -1,0 +1,1 @@
+class java_util_UUID_wait_long{ public static void function() {java.util.UUID obj = new java.util.UUID();obj.wait(2488647342544670359);}}

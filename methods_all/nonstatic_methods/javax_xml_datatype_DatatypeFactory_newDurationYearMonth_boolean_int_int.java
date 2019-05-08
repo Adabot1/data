@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeFactory_newDurationYearMonth_boolean_int_int{ public static void function() {javax.xml.datatype.DatatypeFactory obj = new javax.xml.datatype.DatatypeFactory();obj.newDurationYearMonth(false,812904948,1335249998);}}

@@ -1,0 +1,1 @@
+class java_util_spi_CurrencyNameProvider_notifyAll{ public static void function() {java.util.spi.CurrencyNameProvider obj = new java.util.spi.CurrencyNameProvider();obj.notifyAll();}}

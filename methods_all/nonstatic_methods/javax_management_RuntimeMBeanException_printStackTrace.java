@@ -1,0 +1,1 @@
+class javax_management_RuntimeMBeanException_printStackTrace{ public static void function() {javax.management.RuntimeMBeanException obj = new javax.management.RuntimeMBeanException();obj.printStackTrace();}}

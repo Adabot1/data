@@ -1,0 +1,1 @@
+class java_awt_Rectangle_setLocation_int_int{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.setLocation(-1387069959,919085740);}}

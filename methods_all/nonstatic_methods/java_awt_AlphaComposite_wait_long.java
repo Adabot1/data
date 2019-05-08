@@ -1,0 +1,1 @@
+class java_awt_AlphaComposite_wait_long{ public static void function() {java.awt.AlphaComposite obj = new java.awt.AlphaComposite();obj.wait(4477788076945685581);}}

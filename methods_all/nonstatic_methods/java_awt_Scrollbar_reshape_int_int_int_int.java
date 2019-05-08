@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_reshape_int_int_int_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.reshape(608215729,1291262468,888883883,2147178655);}}

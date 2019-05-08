@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthTreeUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthTreeUI obj = new javax.swing.plaf.synth.SynthTreeUI();obj.wait(3758963174601477677);}}

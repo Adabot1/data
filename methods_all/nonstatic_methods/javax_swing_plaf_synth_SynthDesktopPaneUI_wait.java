@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthDesktopPaneUI_wait{ public static void function() {javax.swing.plaf.synth.SynthDesktopPaneUI obj = new javax.swing.plaf.synth.SynthDesktopPaneUI();obj.wait();}}

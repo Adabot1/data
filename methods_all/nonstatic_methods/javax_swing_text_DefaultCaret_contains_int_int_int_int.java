@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_contains_int_int_int_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.contains(147222235,-1841974717,-868731659,564640284);}}

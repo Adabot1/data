@@ -1,0 +1,1 @@
+class javax_swing_tree_DefaultTreeCellRenderer_setBounds_int_int_int_int{ public static void function() {javax.swing.tree.DefaultTreeCellRenderer obj = new javax.swing.tree.DefaultTreeCellRenderer();obj.setBounds(-1932491456,-1792837527,864243703,-767230976);}}

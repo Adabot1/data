@@ -1,0 +1,1 @@
+class java_net_NetworkInterface_wait_long_int{ public static void function() {java.net.NetworkInterface obj = new java.net.NetworkInterface();obj.wait(2777496599836915918,-1883963136);}}

@@ -1,0 +1,1 @@
+class java_awt_Frame_wait_long_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.wait(7393878781094849072,-1477214253);}}

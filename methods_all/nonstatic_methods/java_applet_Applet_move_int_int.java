@@ -1,0 +1,1 @@
+class java_applet_Applet_move_int_int{ public static void function() {java.applet.Applet obj = new java.applet.Applet();obj.move(487000600,-1568778096);}}

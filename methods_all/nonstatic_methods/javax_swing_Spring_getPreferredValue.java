@@ -1,0 +1,1 @@
+class javax_swing_Spring_getPreferredValue{ public static void function() {javax.swing.Spring obj = new javax.swing.Spring();obj.getPreferredValue();}}

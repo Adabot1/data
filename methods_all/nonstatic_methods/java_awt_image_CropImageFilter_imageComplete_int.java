@@ -1,0 +1,1 @@
+class java_awt_image_CropImageFilter_imageComplete_int{ public static void function() {java.awt.image.CropImageFilter obj = new java.awt.image.CropImageFilter();obj.imageComplete(453225211);}}

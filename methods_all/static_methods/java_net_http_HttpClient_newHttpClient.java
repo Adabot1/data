@@ -1,0 +1,1 @@
+class java_net_http_HttpClient_newHttpClient{ public static void function() {java.net.http.HttpClient.newHttpClient();}}

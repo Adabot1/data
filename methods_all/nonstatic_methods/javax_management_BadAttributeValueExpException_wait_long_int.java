@@ -1,0 +1,1 @@
+class javax_management_BadAttributeValueExpException_wait_long_int{ public static void function() {javax.management.BadAttributeValueExpException obj = new javax.management.BadAttributeValueExpException();obj.wait(2170939967195799744,-288956235);}}

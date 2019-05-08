@@ -1,0 +1,1 @@
+class java_lang_StrictMath_wait_long{ public static void function() {java.lang.StrictMath obj = new java.lang.StrictMath();obj.wait(3113919698786449775);}}

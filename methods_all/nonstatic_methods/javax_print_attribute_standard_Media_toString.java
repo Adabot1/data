@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_Media_toString{ public static void function() {javax.print.attribute.standard.Media obj = new javax.print.attribute.standard.Media();obj.toString();}}

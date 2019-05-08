@@ -1,0 +1,1 @@
+class java_util_BitSet_wait_long_int{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.wait(8034769070857530877,-2052869954);}}

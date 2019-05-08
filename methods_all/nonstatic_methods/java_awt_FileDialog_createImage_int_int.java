@@ -1,0 +1,1 @@
+class java_awt_FileDialog_createImage_int_int{ public static void function() {java.awt.FileDialog obj = new java.awt.FileDialog();obj.createImage(493565606,399422056);}}

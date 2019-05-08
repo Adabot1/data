@@ -1,0 +1,1 @@
+class javax_swing_SwingUtilities_notifyAll{ public static void function() {javax.swing.SwingUtilities obj = new javax.swing.SwingUtilities();obj.notifyAll();}}

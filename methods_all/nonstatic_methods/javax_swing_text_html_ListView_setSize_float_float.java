@@ -1,0 +1,1 @@
+class javax_swing_text_html_ListView_setSize_float_float{ public static void function() {javax.swing.text.html.ListView obj = new javax.swing.text.html.ListView();obj.setSize(0.45470607,0.024728835);}}

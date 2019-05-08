@@ -1,0 +1,1 @@
+class java_security_SignatureSpi_notify{ public static void function() {java.security.SignatureSpi obj = new java.security.SignatureSpi();obj.notify();}}

@@ -1,0 +1,1 @@
+class java_security_KeyPairGeneratorSpi_wait_long{ public static void function() {java.security.KeyPairGeneratorSpi obj = new java.security.KeyPairGeneratorSpi();obj.wait(-3572927227204304103);}}

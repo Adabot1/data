@@ -1,0 +1,1 @@
+class java_sql_DriverPropertyInfo_wait_long_int{ public static void function() {java.sql.DriverPropertyInfo obj = new java.sql.DriverPropertyInfo();obj.wait(-3078711021368202877,1243340720);}}

@@ -1,0 +1,1 @@
+class com_sun_management_GcInfo_wait_long_int{ public static void function() {com.sun.management.GcInfo obj = new com.sun.management.GcInfo();obj.wait(-7988104113152715659,-1045661214);}}

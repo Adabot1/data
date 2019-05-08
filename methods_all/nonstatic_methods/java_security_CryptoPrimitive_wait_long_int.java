@@ -1,0 +1,1 @@
+class java_security_CryptoPrimitive_wait_long_int{ public static void function() {java.security.CryptoPrimitive obj = new java.security.CryptoPrimitive();obj.wait(-4222094980162159049,1204472280);}}

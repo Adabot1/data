@@ -1,0 +1,1 @@
+class java_awt_MenuBar_wait{ public static void function() {java.awt.MenuBar obj = new java.awt.MenuBar();obj.wait();}}

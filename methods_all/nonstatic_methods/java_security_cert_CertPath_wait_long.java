@@ -1,0 +1,1 @@
+class java_security_cert_CertPath_wait_long{ public static void function() {java.security.cert.CertPath obj = new java.security.cert.CertPath();obj.wait(-6691838373065382002);}}

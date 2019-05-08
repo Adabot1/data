@@ -1,0 +1,1 @@
+class javax_swing_JViewport_findComponentAt_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.findComponentAt(-1744965511,318144557);}}

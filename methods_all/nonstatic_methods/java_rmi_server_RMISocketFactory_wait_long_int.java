@@ -1,0 +1,1 @@
+class java_rmi_server_RMISocketFactory_wait_long_int{ public static void function() {java.rmi.server.RMISocketFactory obj = new java.rmi.server.RMISocketFactory();obj.wait(5726784766970039712,-387946073);}}

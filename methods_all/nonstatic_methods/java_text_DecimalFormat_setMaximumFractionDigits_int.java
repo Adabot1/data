@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_setMaximumFractionDigits_int{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.setMaximumFractionDigits(-1871499169);}}

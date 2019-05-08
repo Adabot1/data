@@ -1,0 +1,1 @@
+class java_nio_channels_ServerSocketChannel_wait_long{ public static void function() {java.nio.channels.ServerSocketChannel obj = new java.nio.channels.ServerSocketChannel();obj.wait(-6324916462528042364);}}

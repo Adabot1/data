@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_setIgnoreRepaint_boolean{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.setIgnoreRepaint(true);}}

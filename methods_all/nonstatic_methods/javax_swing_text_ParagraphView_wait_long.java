@@ -1,0 +1,1 @@
+class javax_swing_text_ParagraphView_wait_long{ public static void function() {javax.swing.text.ParagraphView obj = new javax.swing.text.ParagraphView();obj.wait(1909277127793830197);}}

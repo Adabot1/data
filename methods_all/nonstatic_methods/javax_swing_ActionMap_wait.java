@@ -1,0 +1,1 @@
+class javax_swing_ActionMap_wait{ public static void function() {javax.swing.ActionMap obj = new javax.swing.ActionMap();obj.wait();}}

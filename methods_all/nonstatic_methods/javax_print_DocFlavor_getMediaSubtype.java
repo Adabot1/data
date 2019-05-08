@@ -1,0 +1,1 @@
+class javax_print_DocFlavor_getMediaSubtype{ public static void function() {javax.print.DocFlavor obj = new javax.print.DocFlavor();obj.getMediaSubtype();}}

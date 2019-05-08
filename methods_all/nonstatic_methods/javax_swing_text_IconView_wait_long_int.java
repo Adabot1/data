@@ -1,0 +1,1 @@
+class javax_swing_text_IconView_wait_long_int{ public static void function() {javax.swing.text.IconView obj = new javax.swing.text.IconView();obj.wait(4977524173497721123,522884696);}}

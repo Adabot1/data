@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.setDebugGraphicsOptions(556706489);}}

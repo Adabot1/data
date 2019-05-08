@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_setColor_int_int_int{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.setColor(-531684476,2031152170,1877462306);}}

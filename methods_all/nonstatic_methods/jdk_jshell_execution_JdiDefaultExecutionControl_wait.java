@@ -1,0 +1,1 @@
+class jdk_jshell_execution_JdiDefaultExecutionControl_wait{ public static void function() {jdk.jshell.execution.JdiDefaultExecutionControl obj = new jdk.jshell.execution.JdiDefaultExecutionControl();obj.wait();}}

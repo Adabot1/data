@@ -1,0 +1,1 @@
+class javax_print_attribute_AttributeSetUtilities_wait_long_int{ public static void function() {javax.print.attribute.AttributeSetUtilities obj = new javax.print.attribute.AttributeSetUtilities();obj.wait(-3469443630361482502,1568095648);}}

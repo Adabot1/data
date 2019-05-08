@@ -1,0 +1,1 @@
+class javax_imageio_stream_FileCacheImageOutputStream_writeInt_int{ public static void function() {javax.imageio.stream.FileCacheImageOutputStream obj = new javax.imageio.stream.FileCacheImageOutputStream();obj.writeInt(-2100531650);}}

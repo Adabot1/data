@@ -1,0 +1,1 @@
+class javax_imageio_ImageTypeSpecifier_createBufferedImage_int_int{ public static void function() {javax.imageio.ImageTypeSpecifier obj = new javax.imageio.ImageTypeSpecifier();obj.createBufferedImage(-1777920804,929119015);}}

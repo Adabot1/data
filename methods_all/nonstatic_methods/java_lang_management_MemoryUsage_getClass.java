@@ -1,0 +1,1 @@
+class java_lang_management_MemoryUsage_getClass{ public static void function() {java.lang.management.MemoryUsage obj = new java.lang.management.MemoryUsage();obj.getClass();}}

@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_getDefaultLocale{ public static void function() {javax.swing.JTabbedPane.getDefaultLocale();}}

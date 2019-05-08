@@ -1,0 +1,1 @@
+class java_awt_Canvas_repaint_long_int_int_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.repaint(-6731850276561701150,1265109549,9902078,-84853271,232133836);}}

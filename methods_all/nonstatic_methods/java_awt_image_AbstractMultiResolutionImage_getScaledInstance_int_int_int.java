@@ -1,0 +1,1 @@
+class java_awt_image_AbstractMultiResolutionImage_getScaledInstance_int_int_int{ public static void function() {java.awt.image.AbstractMultiResolutionImage obj = new java.awt.image.AbstractMultiResolutionImage();obj.getScaledInstance(-321980798,493705004,-502083317);}}

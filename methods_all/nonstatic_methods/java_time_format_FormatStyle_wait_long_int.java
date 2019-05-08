@@ -1,0 +1,1 @@
+class java_time_format_FormatStyle_wait_long_int{ public static void function() {java.time.format.FormatStyle obj = new java.time.format.FormatStyle();obj.wait(-6779399861313383845,-1401129338);}}

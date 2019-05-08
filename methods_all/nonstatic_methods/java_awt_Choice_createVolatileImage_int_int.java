@@ -1,0 +1,1 @@
+class java_awt_Choice_createVolatileImage_int_int{ public static void function() {java.awt.Choice obj = new java.awt.Choice();obj.createVolatileImage(-819841460,-1100077912);}}

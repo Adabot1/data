@@ -1,0 +1,1 @@
+class com_sun_tools_javac_Main_wait_long{ public static void function() {com.sun.tools.javac.Main obj = new com.sun.tools.javac.Main();obj.wait(-710848371395092634);}}

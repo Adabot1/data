@@ -1,0 +1,1 @@
+class javax_swing_AbstractAction_notifyAll{ public static void function() {javax.swing.AbstractAction obj = new javax.swing.AbstractAction();obj.notifyAll();}}

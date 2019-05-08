@@ -1,0 +1,1 @@
+class javax_swing_border_StrokeBorder_wait_long_int{ public static void function() {javax.swing.border.StrokeBorder obj = new javax.swing.border.StrokeBorder();obj.wait(7325265629769438610,635963893);}}

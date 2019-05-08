@@ -1,0 +1,1 @@
+class javax_management_relation_RelationNotification_setSequenceNumber_long{ public static void function() {javax.management.relation.RelationNotification obj = new javax.management.relation.RelationNotification();obj.setSequenceNumber(-7245390926475716406);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_setDraggedDistance_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.setDraggedDistance(-275659401);}}

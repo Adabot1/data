@@ -1,0 +1,1 @@
+class javax_swing_ProgressMonitorInputStream_wait_long_int{ public static void function() {javax.swing.ProgressMonitorInputStream obj = new javax.swing.ProgressMonitorInputStream();obj.wait(-4564958417380667805,-1135968013);}}

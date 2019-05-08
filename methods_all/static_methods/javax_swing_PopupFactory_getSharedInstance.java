@@ -1,0 +1,1 @@
+class javax_swing_PopupFactory_getSharedInstance{ public static void function() {javax.swing.PopupFactory.getSharedInstance();}}

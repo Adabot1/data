@@ -1,0 +1,1 @@
+class com_sun_security_auth_module_KeyStoreLoginModule_getClass{ public static void function() {com.sun.security.auth.module.KeyStoreLoginModule obj = new com.sun.security.auth.module.KeyStoreLoginModule();obj.getClass();}}

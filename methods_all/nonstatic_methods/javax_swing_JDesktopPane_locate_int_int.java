@@ -1,0 +1,1 @@
+class javax_swing_JDesktopPane_locate_int_int{ public static void function() {javax.swing.JDesktopPane obj = new javax.swing.JDesktopPane();obj.locate(859668142,2078562213);}}

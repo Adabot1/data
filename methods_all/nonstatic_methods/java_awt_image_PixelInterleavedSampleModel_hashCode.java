@@ -1,0 +1,1 @@
+class java_awt_image_PixelInterleavedSampleModel_hashCode{ public static void function() {java.awt.image.PixelInterleavedSampleModel obj = new java.awt.image.PixelInterleavedSampleModel();obj.hashCode();}}

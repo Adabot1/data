@@ -1,0 +1,1 @@
+class javax_swing_PopupFactory_notifyAll{ public static void function() {javax.swing.PopupFactory obj = new javax.swing.PopupFactory();obj.notifyAll();}}

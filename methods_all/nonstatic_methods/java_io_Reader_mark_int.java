@@ -1,0 +1,1 @@
+class java_io_Reader_mark_int{ public static void function() {java.io.Reader obj = new java.io.Reader();obj.mark(797002968);}}

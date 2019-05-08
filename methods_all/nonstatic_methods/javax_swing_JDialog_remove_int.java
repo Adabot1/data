@@ -1,0 +1,1 @@
+class javax_swing_JDialog_remove_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.remove(1440453792);}}

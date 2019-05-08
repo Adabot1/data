@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalTheme_wait_long_int{ public static void function() {javax.swing.plaf.metal.MetalTheme obj = new javax.swing.plaf.metal.MetalTheme();obj.wait(3083340717331734106,-1116077879);}}

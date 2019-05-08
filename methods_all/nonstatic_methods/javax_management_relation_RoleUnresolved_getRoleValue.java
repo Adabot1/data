@@ -1,0 +1,1 @@
+class javax_management_relation_RoleUnresolved_getRoleValue{ public static void function() {javax.management.relation.RoleUnresolved obj = new javax.management.relation.RoleUnresolved();obj.getRoleValue();}}

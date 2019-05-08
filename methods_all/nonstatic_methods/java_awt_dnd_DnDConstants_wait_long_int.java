@@ -1,0 +1,1 @@
+class java_awt_dnd_DnDConstants_wait_long_int{ public static void function() {java.awt.dnd.DnDConstants obj = new java.awt.dnd.DnDConstants();obj.wait(6797023421114540595,1964472004);}}

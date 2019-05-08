@@ -1,0 +1,1 @@
+class java_awt_Image_wait{ public static void function() {java.awt.Image obj = new java.awt.Image();obj.wait();}}

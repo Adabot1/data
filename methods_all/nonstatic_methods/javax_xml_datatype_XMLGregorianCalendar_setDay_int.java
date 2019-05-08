@@ -1,0 +1,1 @@
+class javax_xml_datatype_XMLGregorianCalendar_setDay_int{ public static void function() {javax.xml.datatype.XMLGregorianCalendar obj = new javax.xml.datatype.XMLGregorianCalendar();obj.setDay(-669087804);}}

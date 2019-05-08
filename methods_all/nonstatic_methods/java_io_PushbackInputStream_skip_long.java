@@ -1,0 +1,1 @@
+class java_io_PushbackInputStream_skip_long{ public static void function() {java.io.PushbackInputStream obj = new java.io.PushbackInputStream();obj.skip(9182264615248780332);}}

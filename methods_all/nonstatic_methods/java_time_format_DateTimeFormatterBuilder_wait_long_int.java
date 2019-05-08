@@ -1,0 +1,1 @@
+class java_time_format_DateTimeFormatterBuilder_wait_long_int{ public static void function() {java.time.format.DateTimeFormatterBuilder obj = new java.time.format.DateTimeFormatterBuilder();obj.wait(-371049733244134270,262393386);}}

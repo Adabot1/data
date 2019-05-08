@@ -1,0 +1,1 @@
+class javax_management_AttributeChangeNotification_wait{ public static void function() {javax.management.AttributeChangeNotification obj = new javax.management.AttributeChangeNotification();obj.wait();}}

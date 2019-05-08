@@ -1,0 +1,1 @@
+class javax_transaction_xa_XAException_fillInStackTrace{ public static void function() {javax.transaction.xa.XAException obj = new javax.transaction.xa.XAException();obj.fillInStackTrace();}}

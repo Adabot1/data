@@ -1,0 +1,1 @@
+class javax_swing_JDialog_getBaseline_int_int{ public static void function() {javax.swing.JDialog obj = new javax.swing.JDialog();obj.getBaseline(-436185756,358170504);}}

@@ -1,0 +1,1 @@
+class java_util_OptionalLong_of_long{ public static void function() {java.util.OptionalLong.of(-1642860155029177349);}}

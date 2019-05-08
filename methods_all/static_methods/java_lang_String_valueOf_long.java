@@ -1,0 +1,1 @@
+class java_lang_String_valueOf_long{ public static void function() {java.lang.String.valueOf(1838370613092116456);}}

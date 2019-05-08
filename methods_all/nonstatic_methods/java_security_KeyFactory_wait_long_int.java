@@ -1,0 +1,1 @@
+class java_security_KeyFactory_wait_long_int{ public static void function() {java.security.KeyFactory obj = new java.security.KeyFactory();obj.wait(-8790156813518719828,1017251280);}}

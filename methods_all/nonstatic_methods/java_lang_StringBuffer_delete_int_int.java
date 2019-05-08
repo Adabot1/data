@@ -1,0 +1,1 @@
+class java_lang_StringBuffer_delete_int_int{ public static void function() {java.lang.StringBuffer obj = new java.lang.StringBuffer();obj.delete(-526562521,1403947403);}}

@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextMembershipEvent_wait_long_int{ public static void function() {java.beans.beancontext.BeanContextMembershipEvent obj = new java.beans.beancontext.BeanContextMembershipEvent();obj.wait(6952136858659994948,-1471410922);}}

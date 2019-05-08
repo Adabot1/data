@@ -1,0 +1,1 @@
+class javax_management_ObjectName_wait_long_int{ public static void function() {javax.management.ObjectName obj = new javax.management.ObjectName();obj.wait(-1796681063665107387,-1051841086);}}

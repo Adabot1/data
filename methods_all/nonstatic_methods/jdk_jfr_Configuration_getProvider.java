@@ -1,0 +1,1 @@
+class jdk_jfr_Configuration_getProvider{ public static void function() {jdk.jfr.Configuration obj = new jdk.jfr.Configuration();obj.getProvider();}}

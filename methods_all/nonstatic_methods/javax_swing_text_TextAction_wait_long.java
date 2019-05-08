@@ -1,0 +1,1 @@
+class javax_swing_text_TextAction_wait_long{ public static void function() {javax.swing.text.TextAction obj = new javax.swing.text.TextAction();obj.wait(1435456603238599819);}}

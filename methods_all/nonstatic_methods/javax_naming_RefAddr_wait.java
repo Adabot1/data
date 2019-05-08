@@ -1,0 +1,1 @@
+class javax_naming_RefAddr_wait{ public static void function() {javax.naming.RefAddr obj = new javax.naming.RefAddr();obj.wait();}}

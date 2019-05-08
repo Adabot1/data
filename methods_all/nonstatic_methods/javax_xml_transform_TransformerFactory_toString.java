@@ -1,0 +1,1 @@
+class javax_xml_transform_TransformerFactory_toString{ public static void function() {javax.xml.transform.TransformerFactory obj = new javax.xml.transform.TransformerFactory();obj.toString();}}

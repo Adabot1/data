@@ -1,0 +1,1 @@
+class javax_sql_rowset_spi_SyncProviderException_wait_long{ public static void function() {javax.sql.rowset.spi.SyncProviderException obj = new javax.sql.rowset.spi.SyncProviderException();obj.wait(-8293655487565657858);}}

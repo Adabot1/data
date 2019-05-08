@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferShort_getElemFloat_int_int{ public static void function() {java.awt.image.DataBufferShort obj = new java.awt.image.DataBufferShort();obj.getElemFloat(-177595302,-107103101);}}

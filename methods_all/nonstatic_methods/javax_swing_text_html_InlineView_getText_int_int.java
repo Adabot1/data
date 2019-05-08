@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_getText_int_int{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.getText(232433652,1447681195);}}

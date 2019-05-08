@@ -1,0 +1,1 @@
+class java_io_WriteAbortedException_wait_long_int{ public static void function() {java.io.WriteAbortedException obj = new java.io.WriteAbortedException();obj.wait(-7551030067175889256,-1472628207);}}

@@ -1,0 +1,1 @@
+class java_security_UnresolvedPermission_wait_long{ public static void function() {java.security.UnresolvedPermission obj = new java.security.UnresolvedPermission();obj.wait(-6903424123348545647);}}

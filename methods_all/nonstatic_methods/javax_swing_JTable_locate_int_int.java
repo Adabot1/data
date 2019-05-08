@@ -1,0 +1,1 @@
+class javax_swing_JTable_locate_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.locate(1189301898,-1563949226);}}

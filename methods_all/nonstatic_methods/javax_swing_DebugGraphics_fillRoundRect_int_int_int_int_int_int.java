@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_fillRoundRect_int_int_int_int_int_int{ public static void function() {javax.swing.DebugGraphics obj = new javax.swing.DebugGraphics();obj.fillRoundRect(-1356390489,1061582098,737177921,-1669470511,1728362437,270450878);}}

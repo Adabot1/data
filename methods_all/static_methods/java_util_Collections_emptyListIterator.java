@@ -1,0 +1,1 @@
+class java_util_Collections_emptyListIterator{ public static void function() {java.util.Collections.emptyListIterator();}}

@@ -1,0 +1,1 @@
+class java_math_BigDecimal_valueOf_double{ public static void function() {java.math.BigDecimal.valueOf(0.5646351954710835);}}

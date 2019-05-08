@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobMediaSheetsCompleted_wait{ public static void function() {javax.print.attribute.standard.JobMediaSheetsCompleted obj = new javax.print.attribute.standard.JobMediaSheetsCompleted();obj.wait();}}

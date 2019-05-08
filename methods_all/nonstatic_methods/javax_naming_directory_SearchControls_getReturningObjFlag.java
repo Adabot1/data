@@ -1,0 +1,1 @@
+class javax_naming_directory_SearchControls_getReturningObjFlag{ public static void function() {javax.naming.directory.SearchControls obj = new javax.naming.directory.SearchControls();obj.getReturningObjFlag();}}

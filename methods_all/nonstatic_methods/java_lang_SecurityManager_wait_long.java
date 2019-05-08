@@ -1,0 +1,1 @@
+class java_lang_SecurityManager_wait_long{ public static void function() {java.lang.SecurityManager obj = new java.lang.SecurityManager();obj.wait(4893229560787428455);}}

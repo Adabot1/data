@@ -1,0 +1,1 @@
+class javax_lang_model_element_ElementKind_hashCode{ public static void function() {javax.lang.model.element.ElementKind obj = new javax.lang.model.element.ElementKind();obj.hashCode();}}

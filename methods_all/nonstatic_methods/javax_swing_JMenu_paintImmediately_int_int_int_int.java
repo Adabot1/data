@@ -1,0 +1,1 @@
+class javax_swing_JMenu_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JMenu obj = new javax.swing.JMenu();obj.paintImmediately(-759259266,1348984791,1114900196,1115907627);}}

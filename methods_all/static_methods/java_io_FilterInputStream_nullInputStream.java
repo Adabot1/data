@@ -1,0 +1,1 @@
+class java_io_FilterInputStream_nullInputStream{ public static void function() {java.io.FilterInputStream.nullInputStream();}}

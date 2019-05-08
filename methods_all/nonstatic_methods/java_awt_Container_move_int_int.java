@@ -1,0 +1,1 @@
+class java_awt_Container_move_int_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.move(512080195,-1202430093);}}

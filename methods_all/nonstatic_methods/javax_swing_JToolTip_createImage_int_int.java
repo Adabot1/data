@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_createImage_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.createImage(-903065683,961120293);}}

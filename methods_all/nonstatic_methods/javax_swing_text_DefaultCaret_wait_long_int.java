@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_wait_long_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.wait(3099219232272842537,-1184461382);}}

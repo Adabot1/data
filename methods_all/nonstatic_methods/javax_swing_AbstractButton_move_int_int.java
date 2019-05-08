@@ -1,0 +1,1 @@
+class javax_swing_AbstractButton_move_int_int{ public static void function() {javax.swing.AbstractButton obj = new javax.swing.AbstractButton();obj.move(-1887214112,-870880428);}}

@@ -1,0 +1,1 @@
+class javax_smartcardio_TerminalFactory_terminals{ public static void function() {javax.smartcardio.TerminalFactory obj = new javax.smartcardio.TerminalFactory();obj.terminals();}}

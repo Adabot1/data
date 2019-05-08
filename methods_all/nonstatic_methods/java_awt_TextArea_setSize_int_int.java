@@ -1,0 +1,1 @@
+class java_awt_TextArea_setSize_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.setSize(-479039374,-1101721296);}}

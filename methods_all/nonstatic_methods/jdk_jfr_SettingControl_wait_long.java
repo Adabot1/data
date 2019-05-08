@@ -1,0 +1,1 @@
+class jdk_jfr_SettingControl_wait_long{ public static void function() {jdk.jfr.SettingControl obj = new jdk.jfr.SettingControl();obj.wait(4216442179304555668);}}

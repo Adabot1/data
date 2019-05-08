@@ -1,0 +1,1 @@
+class java_awt_Rectangle_intersects_double_double_double_double{ public static void function() {java.awt.Rectangle obj = new java.awt.Rectangle();obj.intersects(0.01679350468228058,0.7252597968690772,0.796141429312233,0.8809626286727719);}}

@@ -1,0 +1,1 @@
+class java_io_FilterOutputStream_notify{ public static void function() {java.io.FilterOutputStream obj = new java.io.FilterOutputStream();obj.notify();}}

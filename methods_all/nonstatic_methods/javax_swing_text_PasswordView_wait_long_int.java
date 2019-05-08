@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_wait_long_int{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.wait(5138474561018100797,-677908689);}}

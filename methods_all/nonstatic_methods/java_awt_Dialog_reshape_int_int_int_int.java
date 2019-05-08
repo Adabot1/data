@@ -1,0 +1,1 @@
+class java_awt_Dialog_reshape_int_int_int_int{ public static void function() {java.awt.Dialog obj = new java.awt.Dialog();obj.reshape(1651342207,2095547445,787329024,2079402441);}}

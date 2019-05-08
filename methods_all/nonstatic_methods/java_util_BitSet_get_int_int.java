@@ -1,0 +1,1 @@
+class java_util_BitSet_get_int_int{ public static void function() {java.util.BitSet obj = new java.util.BitSet();obj.get(-1048615459,172680234);}}

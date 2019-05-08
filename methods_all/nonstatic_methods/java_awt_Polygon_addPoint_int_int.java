@@ -1,0 +1,1 @@
+class java_awt_Polygon_addPoint_int_int{ public static void function() {java.awt.Polygon obj = new java.awt.Polygon();obj.addPoint(-1119129454,2027130896);}}

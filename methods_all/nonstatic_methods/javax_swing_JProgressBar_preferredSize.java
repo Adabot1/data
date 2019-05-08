@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_preferredSize{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.preferredSize();}}

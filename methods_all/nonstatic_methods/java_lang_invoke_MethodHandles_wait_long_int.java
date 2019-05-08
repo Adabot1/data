@@ -1,0 +1,1 @@
+class java_lang_invoke_MethodHandles_wait_long_int{ public static void function() {java.lang.invoke.MethodHandles obj = new java.lang.invoke.MethodHandles();obj.wait(5343985998916259713,412319628);}}

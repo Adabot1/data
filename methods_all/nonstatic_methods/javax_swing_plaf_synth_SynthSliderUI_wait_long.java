@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthSliderUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthSliderUI obj = new javax.swing.plaf.synth.SynthSliderUI();obj.wait(-8165086684385200294);}}

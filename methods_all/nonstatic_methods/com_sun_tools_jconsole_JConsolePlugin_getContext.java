@@ -1,0 +1,1 @@
+class com_sun_tools_jconsole_JConsolePlugin_getContext{ public static void function() {com.sun.tools.jconsole.JConsolePlugin obj = new com.sun.tools.jconsole.JConsolePlugin();obj.getContext();}}

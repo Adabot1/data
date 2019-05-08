@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_areFocusTraversalKeysSet_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.areFocusTraversalKeysSet(-1567533940);}}

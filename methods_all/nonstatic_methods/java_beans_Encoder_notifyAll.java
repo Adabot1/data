@@ -1,0 +1,1 @@
+class java_beans_Encoder_notifyAll{ public static void function() {java.beans.Encoder obj = new java.beans.Encoder();obj.notifyAll();}}

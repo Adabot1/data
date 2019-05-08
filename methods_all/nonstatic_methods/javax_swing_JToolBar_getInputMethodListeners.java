@@ -1,0 +1,1 @@
+class javax_swing_JToolBar_getInputMethodListeners{ public static void function() {javax.swing.JToolBar obj = new javax.swing.JToolBar();obj.getInputMethodListeners();}}

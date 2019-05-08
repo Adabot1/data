@@ -1,0 +1,1 @@
+class java_beans_beancontext_BeanContextChildSupport_wait_long_int{ public static void function() {java.beans.beancontext.BeanContextChildSupport obj = new java.beans.beancontext.BeanContextChildSupport();obj.wait(-1843846103534426816,1651783348);}}

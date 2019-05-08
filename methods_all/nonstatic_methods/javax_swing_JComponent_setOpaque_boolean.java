@@ -1,0 +1,1 @@
+class javax_swing_JComponent_setOpaque_boolean{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.setOpaque(false);}}

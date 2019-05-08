@@ -1,0 +1,1 @@
+class javax_swing_JLabel_setSize_int_int{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.setSize(1745126221,-135521329);}}

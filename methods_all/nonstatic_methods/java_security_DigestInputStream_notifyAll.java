@@ -1,0 +1,1 @@
+class java_security_DigestInputStream_notifyAll{ public static void function() {java.security.DigestInputStream obj = new java.security.DigestInputStream();obj.notifyAll();}}

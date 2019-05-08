@@ -1,0 +1,1 @@
+class java_security_spec_RSAPrivateKeySpec_wait_long{ public static void function() {java.security.spec.RSAPrivateKeySpec obj = new java.security.spec.RSAPrivateKeySpec();obj.wait(-4699456751773184986);}}

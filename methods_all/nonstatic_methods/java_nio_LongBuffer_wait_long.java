@@ -1,0 +1,1 @@
+class java_nio_LongBuffer_wait_long{ public static void function() {java.nio.LongBuffer obj = new java.nio.LongBuffer();obj.wait(-5804793923680320492);}}

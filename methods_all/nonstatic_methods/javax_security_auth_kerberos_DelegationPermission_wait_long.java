@@ -1,0 +1,1 @@
+class javax_security_auth_kerberos_DelegationPermission_wait_long{ public static void function() {javax.security.auth.kerberos.DelegationPermission obj = new javax.security.auth.kerberos.DelegationPermission();obj.wait(26359165754270626);}}

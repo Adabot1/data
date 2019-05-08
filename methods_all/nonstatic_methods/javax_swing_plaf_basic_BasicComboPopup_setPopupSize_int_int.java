@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_setPopupSize_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.setPopupSize(2053023074,1873202189);}}

@@ -1,0 +1,1 @@
+class java_lang_Runtime_notify{ public static void function() {java.lang.Runtime obj = new java.lang.Runtime();obj.notify();}}

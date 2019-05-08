@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_shear_double_double{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.shear(0.18281111291929486,0.062483146511167154);}}

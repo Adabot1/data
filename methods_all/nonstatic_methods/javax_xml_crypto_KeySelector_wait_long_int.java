@@ -1,0 +1,1 @@
+class javax_xml_crypto_KeySelector_wait_long_int{ public static void function() {javax.xml.crypto.KeySelector obj = new javax.xml.crypto.KeySelector();obj.wait(4773881133579922661,-1930475789);}}

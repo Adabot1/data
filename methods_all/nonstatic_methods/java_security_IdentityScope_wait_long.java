@@ -1,0 +1,1 @@
+class java_security_IdentityScope_wait_long{ public static void function() {java.security.IdentityScope obj = new java.security.IdentityScope();obj.wait(3285435194494147933);}}

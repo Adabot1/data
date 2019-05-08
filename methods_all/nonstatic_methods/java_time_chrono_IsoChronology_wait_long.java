@@ -1,0 +1,1 @@
+class java_time_chrono_IsoChronology_wait_long{ public static void function() {java.time.chrono.IsoChronology obj = new java.time.chrono.IsoChronology();obj.wait(8159640345711458867);}}

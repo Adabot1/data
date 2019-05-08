@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageInputStreamImpl_readBits_int{ public static void function() {javax.imageio.stream.ImageInputStreamImpl obj = new javax.imageio.stream.ImageInputStreamImpl();obj.readBits(-1215863847);}}

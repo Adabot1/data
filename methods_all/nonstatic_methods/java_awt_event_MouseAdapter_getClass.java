@@ -1,0 +1,1 @@
+class java_awt_event_MouseAdapter_getClass{ public static void function() {java.awt.event.MouseAdapter obj = new java.awt.event.MouseAdapter();obj.getClass();}}

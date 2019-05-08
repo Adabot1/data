@@ -1,0 +1,1 @@
+class java_awt_desktop_OpenURIEvent_wait_long_int{ public static void function() {java.awt.desktop.OpenURIEvent obj = new java.awt.desktop.OpenURIEvent();obj.wait(-2210263859295927773,-266693716);}}

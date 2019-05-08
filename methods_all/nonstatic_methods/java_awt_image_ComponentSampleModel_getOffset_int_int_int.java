@@ -1,0 +1,1 @@
+class java_awt_image_ComponentSampleModel_getOffset_int_int_int{ public static void function() {java.awt.image.ComponentSampleModel obj = new java.awt.image.ComponentSampleModel();obj.getOffset(655587577,-1411113020,1846697347);}}

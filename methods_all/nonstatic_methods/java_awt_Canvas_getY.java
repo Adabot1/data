@@ -1,0 +1,1 @@
+class java_awt_Canvas_getY{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.getY();}}

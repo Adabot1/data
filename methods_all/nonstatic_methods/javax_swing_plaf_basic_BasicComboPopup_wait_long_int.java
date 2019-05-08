@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.wait(-545277136132210946,-674854992);}}

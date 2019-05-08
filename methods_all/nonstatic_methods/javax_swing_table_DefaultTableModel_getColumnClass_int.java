@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableModel_getColumnClass_int{ public static void function() {javax.swing.table.DefaultTableModel obj = new javax.swing.table.DefaultTableModel();obj.getColumnClass(-84919298);}}

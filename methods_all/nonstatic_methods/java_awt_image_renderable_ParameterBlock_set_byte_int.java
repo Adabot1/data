@@ -1,0 +1,1 @@
+class java_awt_image_renderable_ParameterBlock_set_byte_int{ public static void function() {java.awt.image.renderable.ParameterBlock obj = new java.awt.image.renderable.ParameterBlock();obj.set([B@6ed3ccb2,-887475872);}}

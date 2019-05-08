@@ -1,0 +1,1 @@
+class javax_xml_transform_stream_StreamResult_wait_long_int{ public static void function() {javax.xml.transform.stream.StreamResult obj = new javax.xml.transform.stream.StreamResult();obj.wait(-7634988851515290462,781277389);}}

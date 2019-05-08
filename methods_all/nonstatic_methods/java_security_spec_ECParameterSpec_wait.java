@@ -1,0 +1,1 @@
+class java_security_spec_ECParameterSpec_wait{ public static void function() {java.security.spec.ECParameterSpec obj = new java.security.spec.ECParameterSpec();obj.wait();}}

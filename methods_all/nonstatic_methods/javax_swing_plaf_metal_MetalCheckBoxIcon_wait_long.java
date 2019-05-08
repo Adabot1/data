@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalCheckBoxIcon_wait_long{ public static void function() {javax.swing.plaf.metal.MetalCheckBoxIcon obj = new javax.swing.plaf.metal.MetalCheckBoxIcon();obj.wait(205814375878534099);}}

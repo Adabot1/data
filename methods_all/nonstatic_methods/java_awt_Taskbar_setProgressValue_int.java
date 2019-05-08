@@ -1,0 +1,1 @@
+class java_awt_Taskbar_setProgressValue_int{ public static void function() {java.awt.Taskbar obj = new java.awt.Taskbar();obj.setProgressValue(1216076305);}}

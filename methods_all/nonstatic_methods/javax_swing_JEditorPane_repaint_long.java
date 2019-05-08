@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_repaint_long{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.repaint(1386031494065424446);}}

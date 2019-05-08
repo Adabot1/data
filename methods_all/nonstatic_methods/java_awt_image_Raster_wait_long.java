@@ -1,0 +1,1 @@
+class java_awt_image_Raster_wait_long{ public static void function() {java.awt.image.Raster obj = new java.awt.image.Raster();obj.wait(7603778542401252486);}}

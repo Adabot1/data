@@ -1,0 +1,1 @@
+class javax_sql_StatementEvent_notify{ public static void function() {javax.sql.StatementEvent obj = new javax.sql.StatementEvent();obj.notify();}}

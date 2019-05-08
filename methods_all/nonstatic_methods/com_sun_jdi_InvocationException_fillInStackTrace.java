@@ -1,0 +1,1 @@
+class com_sun_jdi_InvocationException_fillInStackTrace{ public static void function() {com.sun.jdi.InvocationException obj = new com.sun.jdi.InvocationException();obj.fillInStackTrace();}}

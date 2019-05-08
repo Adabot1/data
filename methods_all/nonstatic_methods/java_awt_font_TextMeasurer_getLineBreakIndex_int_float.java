@@ -1,0 +1,1 @@
+class java_awt_font_TextMeasurer_getLineBreakIndex_int_float{ public static void function() {java.awt.font.TextMeasurer obj = new java.awt.font.TextMeasurer();obj.getLineBreakIndex(1566572818,0.5551794);}}

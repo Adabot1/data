@@ -1,0 +1,1 @@
+class javax_swing_JButton_setDoubleBuffered_boolean{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.setDoubleBuffered(true);}}

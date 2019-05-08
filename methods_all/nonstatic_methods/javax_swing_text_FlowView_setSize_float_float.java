@@ -1,0 +1,1 @@
+class javax_swing_text_FlowView_setSize_float_float{ public static void function() {javax.swing.text.FlowView obj = new javax.swing.text.FlowView();obj.setSize(0.9580361,0.08553475);}}

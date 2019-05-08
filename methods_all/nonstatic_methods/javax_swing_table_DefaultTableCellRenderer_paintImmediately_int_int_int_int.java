@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableCellRenderer_paintImmediately_int_int_int_int{ public static void function() {javax.swing.table.DefaultTableCellRenderer obj = new javax.swing.table.DefaultTableCellRenderer();obj.paintImmediately(-282548977,-1950529122,1987440846,-1140441284);}}

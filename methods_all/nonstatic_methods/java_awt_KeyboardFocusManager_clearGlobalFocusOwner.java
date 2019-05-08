@@ -1,0 +1,1 @@
+class java_awt_KeyboardFocusManager_clearGlobalFocusOwner{ public static void function() {java.awt.KeyboardFocusManager obj = new java.awt.KeyboardFocusManager();obj.clearGlobalFocusOwner();}}

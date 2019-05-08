@@ -1,0 +1,1 @@
+class java_awt_Scrollbar_setMinimum_int{ public static void function() {java.awt.Scrollbar obj = new java.awt.Scrollbar();obj.setMinimum(578507163);}}

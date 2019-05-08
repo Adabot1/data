@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialClob_getSubString_long_int{ public static void function() {javax.sql.rowset.serial.SerialClob obj = new javax.sql.rowset.serial.SerialClob();obj.getSubString(8107968524616268156,5972383);}}

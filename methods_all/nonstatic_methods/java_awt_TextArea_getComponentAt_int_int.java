@@ -1,0 +1,1 @@
+class java_awt_TextArea_getComponentAt_int_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.getComponentAt(-145992961,-2021694869);}}

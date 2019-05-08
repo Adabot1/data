@@ -1,0 +1,1 @@
+class java_lang_Long_rotateRight_long_int{ public static void function() {java.lang.Long.rotateRight(8709115125911896640,-1165980426);}}

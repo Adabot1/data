@@ -1,0 +1,1 @@
+class java_awt_font_LayoutPath_wait_long{ public static void function() {java.awt.font.LayoutPath obj = new java.awt.font.LayoutPath();obj.wait(23413195200151289);}}

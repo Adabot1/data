@@ -1,0 +1,1 @@
+class javax_swing_ToolTipManager_setReshowDelay_int{ public static void function() {javax.swing.ToolTipManager obj = new javax.swing.ToolTipManager();obj.setReshowDelay(-415186662);}}

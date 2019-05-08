@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_setAlignmentX_float{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.setAlignmentX(0.48895437);}}

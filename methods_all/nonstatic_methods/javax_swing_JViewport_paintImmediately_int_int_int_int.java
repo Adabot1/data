@@ -1,0 +1,1 @@
+class javax_swing_JViewport_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.paintImmediately(-1233431150,1219719554,-220405784,1852446591);}}

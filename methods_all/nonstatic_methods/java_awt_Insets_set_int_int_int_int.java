@@ -1,0 +1,1 @@
+class java_awt_Insets_set_int_int_int_int{ public static void function() {java.awt.Insets obj = new java.awt.Insets();obj.set(2053020777,-680839280,-540534969,643336992);}}

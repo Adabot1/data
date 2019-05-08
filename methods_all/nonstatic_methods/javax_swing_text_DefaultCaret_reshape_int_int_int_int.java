@@ -1,0 +1,1 @@
+class javax_swing_text_DefaultCaret_reshape_int_int_int_int{ public static void function() {javax.swing.text.DefaultCaret obj = new javax.swing.text.DefaultCaret();obj.reshape(1299542776,-1182140021,643027722,1474445726);}}

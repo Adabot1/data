@@ -1,0 +1,1 @@
+class java_awt_GraphicsConfigTemplate_getClass{ public static void function() {java.awt.GraphicsConfigTemplate obj = new java.awt.GraphicsConfigTemplate();obj.getClass();}}

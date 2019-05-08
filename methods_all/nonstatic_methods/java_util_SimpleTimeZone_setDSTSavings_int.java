@@ -1,0 +1,1 @@
+class java_util_SimpleTimeZone_setDSTSavings_int{ public static void function() {java.util.SimpleTimeZone obj = new java.util.SimpleTimeZone();obj.setDSTSavings(-1732518713);}}

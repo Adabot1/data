@@ -1,0 +1,1 @@
+class javax_swing_plaf_FileChooserUI_wait_long{ public static void function() {javax.swing.plaf.FileChooserUI obj = new javax.swing.plaf.FileChooserUI();obj.wait(-1664786686176697057);}}

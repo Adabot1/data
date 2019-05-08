@@ -1,0 +1,1 @@
+class java_nio_file_DirectoryIteratorException_wait_long{ public static void function() {java.nio.file.DirectoryIteratorException obj = new java.nio.file.DirectoryIteratorException();obj.wait(1575740723149717242);}}

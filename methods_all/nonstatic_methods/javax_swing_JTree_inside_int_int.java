@@ -1,0 +1,1 @@
+class javax_swing_JTree_inside_int_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.inside(931318662,-744705289);}}

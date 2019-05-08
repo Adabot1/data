@@ -1,0 +1,1 @@
+class javax_net_ServerSocketFactory_getClass{ public static void function() {javax.net.ServerSocketFactory obj = new javax.net.ServerSocketFactory();obj.getClass();}}

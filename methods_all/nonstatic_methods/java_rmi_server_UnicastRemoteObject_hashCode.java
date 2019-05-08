@@ -1,0 +1,1 @@
+class java_rmi_server_UnicastRemoteObject_hashCode{ public static void function() {java.rmi.server.UnicastRemoteObject obj = new java.rmi.server.UnicastRemoteObject();obj.hashCode();}}

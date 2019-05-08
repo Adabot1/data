@@ -1,0 +1,1 @@
+class java_awt_image_ComponentColorModel_wait_long_int{ public static void function() {java.awt.image.ComponentColorModel obj = new java.awt.image.ComponentColorModel();obj.wait(664986211437657656,1661749649);}}

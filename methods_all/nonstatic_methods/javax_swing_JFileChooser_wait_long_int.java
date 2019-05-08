@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_wait_long_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.wait(-4474378707516609597,-317728783);}}

@@ -1,0 +1,1 @@
+class java_awt_List_createImage_int_int{ public static void function() {java.awt.List obj = new java.awt.List();obj.createImage(-1073619353,-1425061512);}}

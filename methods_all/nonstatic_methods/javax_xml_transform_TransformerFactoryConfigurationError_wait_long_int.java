@@ -1,0 +1,1 @@
+class javax_xml_transform_TransformerFactoryConfigurationError_wait_long_int{ public static void function() {javax.xml.transform.TransformerFactoryConfigurationError obj = new javax.xml.transform.TransformerFactoryConfigurationError();obj.wait(-5362314837402676930,-1710383124);}}

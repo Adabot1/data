@@ -1,0 +1,1 @@
+class java_awt_Insets_wait_long_int{ public static void function() {java.awt.Insets obj = new java.awt.Insets();obj.wait(6902639286358460003,-465443291);}}

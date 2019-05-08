@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_resize_int_int{ public static void function() {javax.swing.JMenuBar obj = new javax.swing.JMenuBar();obj.resize(1107041991,322626545);}}

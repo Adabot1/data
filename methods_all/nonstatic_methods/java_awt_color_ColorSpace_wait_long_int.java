@@ -1,0 +1,1 @@
+class java_awt_color_ColorSpace_wait_long_int{ public static void function() {java.awt.color.ColorSpace obj = new java.awt.color.ColorSpace();obj.wait(3494332659810409091,-923537369);}}

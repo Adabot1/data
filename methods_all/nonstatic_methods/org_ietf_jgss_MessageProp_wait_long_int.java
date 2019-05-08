@@ -1,0 +1,1 @@
+class org_ietf_jgss_MessageProp_wait_long_int{ public static void function() {org.ietf.jgss.MessageProp obj = new org.ietf.jgss.MessageProp();obj.wait(-6679741748498395795,-946015245);}}

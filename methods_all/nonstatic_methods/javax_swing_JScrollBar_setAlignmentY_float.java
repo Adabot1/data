@@ -1,0 +1,1 @@
+class javax_swing_JScrollBar_setAlignmentY_float{ public static void function() {javax.swing.JScrollBar obj = new javax.swing.JScrollBar();obj.setAlignmentY(0.41382486);}}

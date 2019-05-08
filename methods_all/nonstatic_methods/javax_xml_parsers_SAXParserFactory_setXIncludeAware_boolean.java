@@ -1,0 +1,1 @@
+class javax_xml_parsers_SAXParserFactory_setXIncludeAware_boolean{ public static void function() {javax.xml.parsers.SAXParserFactory obj = new javax.xml.parsers.SAXParserFactory();obj.setXIncludeAware(true);}}

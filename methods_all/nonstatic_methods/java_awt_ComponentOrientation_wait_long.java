@@ -1,0 +1,1 @@
+class java_awt_ComponentOrientation_wait_long{ public static void function() {java.awt.ComponentOrientation obj = new java.awt.ComponentOrientation();obj.wait(-644044453538204235);}}

@@ -1,0 +1,1 @@
+class java_awt_PageAttributes_setOrientationRequestedToDefault{ public static void function() {java.awt.PageAttributes obj = new java.awt.PageAttributes();obj.setOrientationRequestedToDefault();}}

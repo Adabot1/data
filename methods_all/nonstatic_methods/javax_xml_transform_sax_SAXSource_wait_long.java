@@ -1,0 +1,1 @@
+class javax_xml_transform_sax_SAXSource_wait_long{ public static void function() {javax.xml.transform.sax.SAXSource obj = new javax.xml.transform.sax.SAXSource();obj.wait(3829117051498322908);}}

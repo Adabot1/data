@@ -1,0 +1,1 @@
+class java_util_zip_DeflaterInputStream_mark_int{ public static void function() {java.util.zip.DeflaterInputStream obj = new java.util.zip.DeflaterInputStream();obj.mark(904052718);}}

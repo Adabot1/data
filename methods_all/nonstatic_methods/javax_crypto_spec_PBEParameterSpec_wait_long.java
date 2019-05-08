@@ -1,0 +1,1 @@
+class javax_crypto_spec_PBEParameterSpec_wait_long{ public static void function() {javax.crypto.spec.PBEParameterSpec obj = new javax.crypto.spec.PBEParameterSpec();obj.wait(-4323062201509750037);}}

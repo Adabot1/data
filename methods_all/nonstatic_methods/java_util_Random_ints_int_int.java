@@ -1,0 +1,1 @@
+class java_util_Random_ints_int_int{ public static void function() {java.util.Random obj = new java.util.Random();obj.ints(-703480757,-515334403);}}

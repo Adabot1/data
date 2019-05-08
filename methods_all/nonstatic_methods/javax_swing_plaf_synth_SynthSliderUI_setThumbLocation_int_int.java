@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthSliderUI_setThumbLocation_int_int{ public static void function() {javax.swing.plaf.synth.SynthSliderUI obj = new javax.swing.plaf.synth.SynthSliderUI();obj.setThumbLocation(-1047720257,978388385);}}

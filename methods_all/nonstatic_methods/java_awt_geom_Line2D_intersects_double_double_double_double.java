@@ -1,0 +1,1 @@
+class java_awt_geom_Line2D_intersects_double_double_double_double{ public static void function() {java.awt.geom.Line2D obj = new java.awt.geom.Line2D();obj.intersects(0.545590928857701,0.16083241775750767,0.7329587068573298,0.047956548773973706);}}

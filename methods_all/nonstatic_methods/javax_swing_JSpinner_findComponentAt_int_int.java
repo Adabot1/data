@@ -1,0 +1,1 @@
+class javax_swing_JSpinner_findComponentAt_int_int{ public static void function() {javax.swing.JSpinner obj = new javax.swing.JSpinner();obj.findComponentAt(2099734570,-1417632909);}}

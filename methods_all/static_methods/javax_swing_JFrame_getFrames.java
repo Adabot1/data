@@ -1,0 +1,1 @@
+class javax_swing_JFrame_getFrames{ public static void function() {javax.swing.JFrame.getFrames();}}

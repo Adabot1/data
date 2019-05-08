@@ -1,0 +1,1 @@
+class javax_swing_text_InternationalFormatter_getFields_int{ public static void function() {javax.swing.text.InternationalFormatter obj = new javax.swing.text.InternationalFormatter();obj.getFields(2085910992);}}

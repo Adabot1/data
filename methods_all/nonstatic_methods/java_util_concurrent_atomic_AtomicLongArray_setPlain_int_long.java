@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLongArray_setPlain_int_long{ public static void function() {java.util.concurrent.atomic.AtomicLongArray obj = new java.util.concurrent.atomic.AtomicLongArray();obj.setPlain(1604380924,-6375520798889721263);}}

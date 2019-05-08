@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiPopupMenuUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiPopupMenuUI obj = new javax.swing.plaf.multi.MultiPopupMenuUI();obj.wait(2526587690452243657,2113517546);}}

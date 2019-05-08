@@ -1,0 +1,1 @@
+class java_time_chrono_ThaiBuddhistDate_wait_long{ public static void function() {java.time.chrono.ThaiBuddhistDate obj = new java.time.chrono.ThaiBuddhistDate();obj.wait(-8607975288650077972);}}

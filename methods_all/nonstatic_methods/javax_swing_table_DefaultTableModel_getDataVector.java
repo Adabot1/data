@@ -1,0 +1,1 @@
+class javax_swing_table_DefaultTableModel_getDataVector{ public static void function() {javax.swing.table.DefaultTableModel obj = new javax.swing.table.DefaultTableModel();obj.getDataVector();}}

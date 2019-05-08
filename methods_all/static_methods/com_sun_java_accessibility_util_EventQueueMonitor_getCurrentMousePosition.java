@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_EventQueueMonitor_getCurrentMousePosition{ public static void function() {com.sun.java.accessibility.util.EventQueueMonitor.getCurrentMousePosition();}}

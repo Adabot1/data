@@ -1,0 +1,1 @@
+class javax_swing_JProgressBar_getComponentAt_int_int{ public static void function() {javax.swing.JProgressBar obj = new javax.swing.JProgressBar();obj.getComponentAt(570959503,-93557301);}}

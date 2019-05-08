@@ -1,0 +1,1 @@
+class javax_naming_NamingException_getSuppressed{ public static void function() {javax.naming.NamingException obj = new javax.naming.NamingException();obj.getSuppressed();}}

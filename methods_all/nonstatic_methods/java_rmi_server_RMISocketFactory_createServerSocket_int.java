@@ -1,0 +1,1 @@
+class java_rmi_server_RMISocketFactory_createServerSocket_int{ public static void function() {java.rmi.server.RMISocketFactory obj = new java.rmi.server.RMISocketFactory();obj.createServerSocket(818664028);}}

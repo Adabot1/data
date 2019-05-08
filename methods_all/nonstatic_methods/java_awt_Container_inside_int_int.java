@@ -1,0 +1,1 @@
+class java_awt_Container_inside_int_int{ public static void function() {java.awt.Container obj = new java.awt.Container();obj.inside(-1699061839,-1118505247);}}

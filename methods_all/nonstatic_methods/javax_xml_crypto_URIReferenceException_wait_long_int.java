@@ -1,0 +1,1 @@
+class javax_xml_crypto_URIReferenceException_wait_long_int{ public static void function() {javax.xml.crypto.URIReferenceException obj = new javax.xml.crypto.URIReferenceException();obj.wait(5422377315513240004,1980531412);}}

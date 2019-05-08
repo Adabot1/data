@@ -1,0 +1,1 @@
+class java_time_LocalDate_now{ public static void function() {java.time.LocalDate.now();}}

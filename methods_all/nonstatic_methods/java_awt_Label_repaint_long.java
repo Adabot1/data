@@ -1,0 +1,1 @@
+class java_awt_Label_repaint_long{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.repaint(-2705928228402563706);}}

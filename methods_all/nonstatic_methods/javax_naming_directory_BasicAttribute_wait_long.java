@@ -1,0 +1,1 @@
+class javax_naming_directory_BasicAttribute_wait_long{ public static void function() {javax.naming.directory.BasicAttribute obj = new javax.naming.directory.BasicAttribute();obj.wait(-6408974350266567957);}}

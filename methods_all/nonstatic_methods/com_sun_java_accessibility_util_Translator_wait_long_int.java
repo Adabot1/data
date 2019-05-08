@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_Translator_wait_long_int{ public static void function() {com.sun.java.accessibility.util.Translator obj = new com.sun.java.accessibility.util.Translator();obj.wait(-2711851235956360082,-629722170);}}

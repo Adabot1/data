@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroup_wait{ public static void function() {java.rmi.activation.ActivationGroup obj = new java.rmi.activation.ActivationGroup();obj.wait();}}

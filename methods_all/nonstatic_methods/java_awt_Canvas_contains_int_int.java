@@ -1,0 +1,1 @@
+class java_awt_Canvas_contains_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.contains(1584715285,-128519047);}}

@@ -1,0 +1,1 @@
+class javax_naming_BinaryRefAddr_getContent{ public static void function() {javax.naming.BinaryRefAddr obj = new javax.naming.BinaryRefAddr();obj.getContent();}}

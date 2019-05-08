@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiPanelUI_wait_long_int{ public static void function() {javax.swing.plaf.multi.MultiPanelUI obj = new javax.swing.plaf.multi.MultiPanelUI();obj.wait(-5480505493687290082,105771519);}}

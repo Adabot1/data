@@ -1,0 +1,1 @@
+class java_util_stream_Collectors_wait_long_int{ public static void function() {java.util.stream.Collectors obj = new java.util.stream.Collectors();obj.wait(-4419027643321681385,473466726);}}

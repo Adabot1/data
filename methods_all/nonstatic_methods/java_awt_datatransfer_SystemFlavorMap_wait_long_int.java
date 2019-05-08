@@ -1,0 +1,1 @@
+class java_awt_datatransfer_SystemFlavorMap_wait_long_int{ public static void function() {java.awt.datatransfer.SystemFlavorMap obj = new java.awt.datatransfer.SystemFlavorMap();obj.wait(-4983593931020066392,-1933246226);}}

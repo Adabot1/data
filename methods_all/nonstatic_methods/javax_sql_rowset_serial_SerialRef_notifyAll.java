@@ -1,0 +1,1 @@
+class javax_sql_rowset_serial_SerialRef_notifyAll{ public static void function() {javax.sql.rowset.serial.SerialRef obj = new javax.sql.rowset.serial.SerialRef();obj.notifyAll();}}

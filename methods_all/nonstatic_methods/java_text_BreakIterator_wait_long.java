@@ -1,0 +1,1 @@
+class java_text_BreakIterator_wait_long{ public static void function() {java.text.BreakIterator obj = new java.text.BreakIterator();obj.wait(7227167458507459071);}}

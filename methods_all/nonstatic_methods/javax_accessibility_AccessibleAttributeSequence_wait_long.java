@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleAttributeSequence_wait_long{ public static void function() {javax.accessibility.AccessibleAttributeSequence obj = new javax.accessibility.AccessibleAttributeSequence();obj.wait(-8171695330285529694);}}

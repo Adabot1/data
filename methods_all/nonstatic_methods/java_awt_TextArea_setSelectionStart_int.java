@@ -1,0 +1,1 @@
+class java_awt_TextArea_setSelectionStart_int{ public static void function() {java.awt.TextArea obj = new java.awt.TextArea();obj.setSelectionStart(1065147768);}}

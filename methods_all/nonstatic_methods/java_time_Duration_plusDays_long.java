@@ -1,0 +1,1 @@
+class java_time_Duration_plusDays_long{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.plusDays(7895413875637590942);}}

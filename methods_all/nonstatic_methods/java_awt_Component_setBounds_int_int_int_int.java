@@ -1,0 +1,1 @@
+class java_awt_Component_setBounds_int_int_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.setBounds(-93325360,-1622750130,-196128523,1667475976);}}

@@ -1,0 +1,1 @@
+class javax_swing_JRadioButtonMenuItem_getInputMap_int{ public static void function() {javax.swing.JRadioButtonMenuItem obj = new javax.swing.JRadioButtonMenuItem();obj.getInputMap(-90194103);}}

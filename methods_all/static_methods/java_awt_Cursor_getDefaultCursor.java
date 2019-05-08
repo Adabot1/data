@@ -1,0 +1,1 @@
+class java_awt_Cursor_getDefaultCursor{ public static void function() {java.awt.Cursor.getDefaultCursor();}}

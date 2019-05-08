@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterState_wait_long_int{ public static void function() {javax.print.attribute.standard.PrinterState obj = new javax.print.attribute.standard.PrinterState();obj.wait(-5600660727683659796,-563825277);}}

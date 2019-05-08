@@ -1,0 +1,1 @@
+class javax_swing_JSlider_setBounds_int_int_int_int{ public static void function() {javax.swing.JSlider obj = new javax.swing.JSlider();obj.setBounds(-263207706,1545679540,948095012,2027871261);}}

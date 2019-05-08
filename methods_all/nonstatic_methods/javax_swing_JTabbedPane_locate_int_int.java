@@ -1,0 +1,1 @@
+class javax_swing_JTabbedPane_locate_int_int{ public static void function() {javax.swing.JTabbedPane obj = new javax.swing.JTabbedPane();obj.locate(1163369821,1845681338);}}

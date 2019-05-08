@@ -1,0 +1,1 @@
+class java_awt_im_InputMethodHighlight_wait_long{ public static void function() {java.awt.im.InputMethodHighlight obj = new java.awt.im.InputMethodHighlight();obj.wait(-5089190661093814453);}}

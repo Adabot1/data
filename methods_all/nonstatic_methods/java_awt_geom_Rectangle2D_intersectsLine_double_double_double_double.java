@@ -1,0 +1,1 @@
+class java_awt_geom_Rectangle2D_intersectsLine_double_double_double_double{ public static void function() {java.awt.geom.Rectangle2D obj = new java.awt.geom.Rectangle2D();obj.intersectsLine(0.08794027812608574,0.8890926257086317,0.6481349272627023,0.8644256243655513);}}

@@ -1,0 +1,1 @@
+class javax_xml_transform_stax_StAXSource_wait_long_int{ public static void function() {javax.xml.transform.stax.StAXSource obj = new javax.xml.transform.stax.StAXSource();obj.wait(2352085773799877322,-2095970071);}}

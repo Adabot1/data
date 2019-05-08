@@ -1,0 +1,1 @@
+class javax_swing_JOptionPane_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JOptionPane obj = new javax.swing.JOptionPane();obj.paintImmediately(-910341924,-1637688955,1533139196,-229239018);}}

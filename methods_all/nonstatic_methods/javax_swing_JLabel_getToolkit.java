@@ -1,0 +1,1 @@
+class javax_swing_JLabel_getToolkit{ public static void function() {javax.swing.JLabel obj = new javax.swing.JLabel();obj.getToolkit();}}

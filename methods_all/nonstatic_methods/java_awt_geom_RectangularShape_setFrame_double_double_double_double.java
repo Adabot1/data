@@ -1,0 +1,1 @@
+class java_awt_geom_RectangularShape_setFrame_double_double_double_double{ public static void function() {java.awt.geom.RectangularShape obj = new java.awt.geom.RectangularShape();obj.setFrame(0.4828289531961196,0.8560344273754855,0.6724946578532794,0.8752319538321073);}}

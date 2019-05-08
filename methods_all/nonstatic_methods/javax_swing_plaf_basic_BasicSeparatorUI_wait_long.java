@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicSeparatorUI_wait_long{ public static void function() {javax.swing.plaf.basic.BasicSeparatorUI obj = new javax.swing.plaf.basic.BasicSeparatorUI();obj.wait(9219871190485585076);}}

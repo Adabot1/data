@@ -1,0 +1,1 @@
+class javax_swing_text_html_ImageView_getMinimumSpan_int{ public static void function() {javax.swing.text.html.ImageView obj = new javax.swing.text.html.ImageView();obj.getMinimumSpan(-1488009284);}}

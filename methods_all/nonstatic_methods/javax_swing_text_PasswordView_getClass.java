@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_getClass{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.getClass();}}

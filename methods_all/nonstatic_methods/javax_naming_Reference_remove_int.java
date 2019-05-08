@@ -1,0 +1,1 @@
+class javax_naming_Reference_remove_int{ public static void function() {javax.naming.Reference obj = new javax.naming.Reference();obj.remove(-1750116901);}}

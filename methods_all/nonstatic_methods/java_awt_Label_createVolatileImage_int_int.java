@@ -1,0 +1,1 @@
+class java_awt_Label_createVolatileImage_int_int{ public static void function() {java.awt.Label obj = new java.awt.Label();obj.createVolatileImage(633407804,-528490687);}}

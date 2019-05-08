@@ -1,0 +1,1 @@
+class javax_print_PrintServiceLookup_hashCode{ public static void function() {javax.print.PrintServiceLookup obj = new javax.print.PrintServiceLookup();obj.hashCode();}}

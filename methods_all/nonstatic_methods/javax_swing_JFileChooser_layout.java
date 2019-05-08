@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_layout{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.layout();}}

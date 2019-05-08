@@ -1,0 +1,1 @@
+class java_util_concurrent_ScheduledThreadPoolExecutor_wait_long_int{ public static void function() {java.util.concurrent.ScheduledThreadPoolExecutor obj = new java.util.concurrent.ScheduledThreadPoolExecutor();obj.wait(-3913638977226883840,-196068195);}}

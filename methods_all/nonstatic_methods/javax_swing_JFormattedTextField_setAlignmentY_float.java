@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_setAlignmentY_float{ public static void function() {javax.swing.JFormattedTextField obj = new javax.swing.JFormattedTextField();obj.setAlignmentY(0.28760856);}}

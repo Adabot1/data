@@ -1,0 +1,1 @@
+class jdk_dynalink_StandardNamespace_wait_long_int{ public static void function() {jdk.dynalink.StandardNamespace obj = new jdk.dynalink.StandardNamespace();obj.wait(2661254978730211515,824749559);}}

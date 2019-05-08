@@ -1,0 +1,1 @@
+class java_io_InterruptedIOException_wait_long_int{ public static void function() {java.io.InterruptedIOException obj = new java.io.InterruptedIOException();obj.wait(-3972703959408209048,-1253861465);}}

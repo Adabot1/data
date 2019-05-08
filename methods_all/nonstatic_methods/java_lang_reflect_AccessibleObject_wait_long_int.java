@@ -1,0 +1,1 @@
+class java_lang_reflect_AccessibleObject_wait_long_int{ public static void function() {java.lang.reflect.AccessibleObject obj = new java.lang.reflect.AccessibleObject();obj.wait(-7377393863699600511,605793084);}}

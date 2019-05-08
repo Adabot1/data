@@ -1,0 +1,1 @@
+class javax_swing_JViewport_locate_int_int{ public static void function() {javax.swing.JViewport obj = new javax.swing.JViewport();obj.locate(-2095744110,1606785294);}}

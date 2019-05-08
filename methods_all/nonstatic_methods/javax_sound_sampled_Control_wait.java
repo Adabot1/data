@@ -1,0 +1,1 @@
+class javax_sound_sampled_Control_wait{ public static void function() {javax.sound.sampled.Control obj = new javax.sound.sampled.Control();obj.wait();}}

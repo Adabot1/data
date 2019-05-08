@@ -1,0 +1,1 @@
+class java_text_DateFormat_wait_long_int{ public static void function() {java.text.DateFormat obj = new java.text.DateFormat();obj.wait(7772574349827673209,-518585689);}}

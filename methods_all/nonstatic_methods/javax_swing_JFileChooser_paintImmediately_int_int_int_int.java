@@ -1,0 +1,1 @@
+class javax_swing_JFileChooser_paintImmediately_int_int_int_int{ public static void function() {javax.swing.JFileChooser obj = new javax.swing.JFileChooser();obj.paintImmediately(1968044928,-2046698060,-902637488,-667611505);}}

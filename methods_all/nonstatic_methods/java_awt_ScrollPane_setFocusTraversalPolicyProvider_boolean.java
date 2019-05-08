@@ -1,0 +1,1 @@
+class java_awt_ScrollPane_setFocusTraversalPolicyProvider_boolean{ public static void function() {java.awt.ScrollPane obj = new java.awt.ScrollPane();obj.setFocusTraversalPolicyProvider(false);}}

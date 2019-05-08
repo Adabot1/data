@@ -1,0 +1,1 @@
+class java_awt_CheckboxGroup_wait_long_int{ public static void function() {java.awt.CheckboxGroup obj = new java.awt.CheckboxGroup();obj.wait(8866659917922384481,1648563800);}}

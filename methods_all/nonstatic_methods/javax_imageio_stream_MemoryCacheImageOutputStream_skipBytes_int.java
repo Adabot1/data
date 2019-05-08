@@ -1,0 +1,1 @@
+class javax_imageio_stream_MemoryCacheImageOutputStream_skipBytes_int{ public static void function() {javax.imageio.stream.MemoryCacheImageOutputStream obj = new javax.imageio.stream.MemoryCacheImageOutputStream();obj.skipBytes(-724237132);}}

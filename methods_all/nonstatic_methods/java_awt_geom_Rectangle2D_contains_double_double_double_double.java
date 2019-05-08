@@ -1,0 +1,1 @@
+class java_awt_geom_Rectangle2D_contains_double_double_double_double{ public static void function() {java.awt.geom.Rectangle2D obj = new java.awt.geom.Rectangle2D();obj.contains(0.34921139535459067,0.5550473748001654,0.8181706926129945,0.6436846210119365);}}

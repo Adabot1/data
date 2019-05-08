@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleStateSet_toString{ public static void function() {javax.accessibility.AccessibleStateSet obj = new javax.accessibility.AccessibleStateSet();obj.toString();}}

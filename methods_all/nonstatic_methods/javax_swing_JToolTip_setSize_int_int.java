@@ -1,0 +1,1 @@
+class javax_swing_JToolTip_setSize_int_int{ public static void function() {javax.swing.JToolTip obj = new javax.swing.JToolTip();obj.setSize(1278056466,713418817);}}

@@ -1,0 +1,1 @@
+class javax_script_SimpleBindings_keySet{ public static void function() {javax.script.SimpleBindings obj = new javax.script.SimpleBindings();obj.keySet();}}

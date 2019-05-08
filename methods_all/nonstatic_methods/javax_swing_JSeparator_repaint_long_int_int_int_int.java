@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_repaint_long_int_int_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.repaint(6290265913909006835,-1200849157,978306453,-148844930,1723236887);}}

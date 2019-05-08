@@ -1,0 +1,1 @@
+class java_awt_image_Raster_createTranslatedChild_int_int{ public static void function() {java.awt.image.Raster obj = new java.awt.image.Raster();obj.createTranslatedChild(-1323043386,180514855);}}

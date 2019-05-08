@@ -1,0 +1,1 @@
+class javax_swing_JSplitPane_setAlignmentY_float{ public static void function() {javax.swing.JSplitPane obj = new javax.swing.JSplitPane();obj.setAlignmentY(0.2409147);}}

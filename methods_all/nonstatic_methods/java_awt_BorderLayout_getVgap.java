@@ -1,0 +1,1 @@
+class java_awt_BorderLayout_getVgap{ public static void function() {java.awt.BorderLayout obj = new java.awt.BorderLayout();obj.getVgap();}}

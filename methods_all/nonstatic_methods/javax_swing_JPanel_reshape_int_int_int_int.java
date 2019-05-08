@@ -1,0 +1,1 @@
+class javax_swing_JPanel_reshape_int_int_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.reshape(-274980221,1230861004,-1872924553,-1702362316);}}

@@ -1,0 +1,1 @@
+class java_awt_desktop_OpenURIEvent_hashCode{ public static void function() {java.awt.desktop.OpenURIEvent obj = new java.awt.desktop.OpenURIEvent();obj.hashCode();}}

@@ -1,0 +1,1 @@
+class java_security_cert_CertificateFactorySpi_wait_long{ public static void function() {java.security.cert.CertificateFactorySpi obj = new java.security.cert.CertificateFactorySpi();obj.wait(3269135347126157037);}}

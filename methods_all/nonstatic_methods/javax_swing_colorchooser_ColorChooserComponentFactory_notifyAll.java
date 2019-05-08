@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_ColorChooserComponentFactory_notifyAll{ public static void function() {javax.swing.colorchooser.ColorChooserComponentFactory obj = new javax.swing.colorchooser.ColorChooserComponentFactory();obj.notifyAll();}}

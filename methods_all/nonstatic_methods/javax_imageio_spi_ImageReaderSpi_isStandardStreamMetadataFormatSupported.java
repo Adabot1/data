@@ -1,0 +1,1 @@
+class javax_imageio_spi_ImageReaderSpi_isStandardStreamMetadataFormatSupported{ public static void function() {javax.imageio.spi.ImageReaderSpi obj = new javax.imageio.spi.ImageReaderSpi();obj.isStandardStreamMetadataFormatSupported();}}

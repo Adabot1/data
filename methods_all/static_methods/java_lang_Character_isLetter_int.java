@@ -1,0 +1,1 @@
+class java_lang_Character_isLetter_int{ public static void function() {java.lang.Character.isLetter(-1135331181);}}

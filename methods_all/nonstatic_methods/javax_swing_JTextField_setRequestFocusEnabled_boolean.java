@@ -1,0 +1,1 @@
+class javax_swing_JTextField_setRequestFocusEnabled_boolean{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.setRequestFocusEnabled(true);}}

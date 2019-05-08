@@ -1,0 +1,1 @@
+class javax_print_event_PrintServiceAttributeEvent_getPrintService{ public static void function() {javax.print.event.PrintServiceAttributeEvent obj = new javax.print.event.PrintServiceAttributeEvent();obj.getPrintService();}}

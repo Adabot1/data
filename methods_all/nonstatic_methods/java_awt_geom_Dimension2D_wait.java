@@ -1,0 +1,1 @@
+class java_awt_geom_Dimension2D_wait{ public static void function() {java.awt.geom.Dimension2D obj = new java.awt.geom.Dimension2D();obj.wait();}}

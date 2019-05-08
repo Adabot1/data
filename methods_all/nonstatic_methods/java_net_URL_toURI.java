@@ -1,0 +1,1 @@
+class java_net_URL_toURI{ public static void function() {java.net.URL obj = new java.net.URL();obj.toURI();}}

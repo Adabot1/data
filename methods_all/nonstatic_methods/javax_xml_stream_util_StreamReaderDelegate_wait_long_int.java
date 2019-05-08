@@ -1,0 +1,1 @@
+class javax_xml_stream_util_StreamReaderDelegate_wait_long_int{ public static void function() {javax.xml.stream.util.StreamReaderDelegate obj = new javax.xml.stream.util.StreamReaderDelegate();obj.wait(3650872497501509105,2109507362);}}

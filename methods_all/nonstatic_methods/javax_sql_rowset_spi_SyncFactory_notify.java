@@ -1,0 +1,1 @@
+class javax_sql_rowset_spi_SyncFactory_notify{ public static void function() {javax.sql.rowset.spi.SyncFactory obj = new javax.sql.rowset.spi.SyncFactory();obj.notify();}}

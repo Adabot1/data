@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthSplitPaneUI_setLastDragLocation_int{ public static void function() {javax.swing.plaf.synth.SynthSplitPaneUI obj = new javax.swing.plaf.synth.SynthSplitPaneUI();obj.setLastDragLocation(-1866261050);}}

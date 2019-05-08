@@ -1,0 +1,1 @@
+class javax_sound_midi_Track_wait_long_int{ public static void function() {javax.sound.midi.Track obj = new javax.sound.midi.Track();obj.wait(-5319646359682783607,-2079942330);}}

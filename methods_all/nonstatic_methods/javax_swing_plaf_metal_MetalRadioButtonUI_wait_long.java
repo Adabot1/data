@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalRadioButtonUI_wait_long{ public static void function() {javax.swing.plaf.metal.MetalRadioButtonUI obj = new javax.swing.plaf.metal.MetalRadioButtonUI();obj.wait(-2811387671857053059);}}

@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_setLocation_int_int{ public static void function() {javax.swing.JToggleButton obj = new javax.swing.JToggleButton();obj.setLocation(1502568177,-678702409);}}

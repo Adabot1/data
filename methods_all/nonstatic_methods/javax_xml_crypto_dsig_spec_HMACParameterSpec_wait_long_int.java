@@ -1,0 +1,1 @@
+class javax_xml_crypto_dsig_spec_HMACParameterSpec_wait_long_int{ public static void function() {javax.xml.crypto.dsig.spec.HMACParameterSpec obj = new javax.xml.crypto.dsig.spec.HMACParameterSpec();obj.wait(6571932251877973567,-232369502);}}

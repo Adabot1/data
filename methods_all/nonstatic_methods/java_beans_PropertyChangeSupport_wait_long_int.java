@@ -1,0 +1,1 @@
+class java_beans_PropertyChangeSupport_wait_long_int{ public static void function() {java.beans.PropertyChangeSupport obj = new java.beans.PropertyChangeSupport();obj.wait(-8147392452994548536,-1782948786);}}

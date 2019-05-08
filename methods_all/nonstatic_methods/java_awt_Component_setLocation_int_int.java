@@ -1,0 +1,1 @@
+class java_awt_Component_setLocation_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.setLocation(-1895960040,311060902);}}

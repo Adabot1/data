@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_JobName_wait_long_int{ public static void function() {javax.print.attribute.standard.JobName obj = new javax.print.attribute.standard.JobName();obj.wait(1966381060604049625,-1633197135);}}

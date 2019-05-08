@@ -1,0 +1,1 @@
+class javax_swing_text_ComponentView_getBreakWeight_int_float_float{ public static void function() {javax.swing.text.ComponentView obj = new javax.swing.text.ComponentView();obj.getBreakWeight(1828860821,0.71545684,0.5975123);}}

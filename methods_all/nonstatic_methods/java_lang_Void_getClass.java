@@ -1,0 +1,1 @@
+class java_lang_Void_getClass{ public static void function() {java.lang.Void obj = new java.lang.Void();obj.getClass();}}

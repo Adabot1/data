@@ -1,0 +1,1 @@
+class javax_management_MBeanOperationInfo_wait_long_int{ public static void function() {javax.management.MBeanOperationInfo obj = new javax.management.MBeanOperationInfo();obj.wait(1137138279396041126,-1465846834);}}

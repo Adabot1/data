@@ -1,0 +1,1 @@
+class javax_swing_plaf_multi_MultiOptionPaneUI_hashCode{ public static void function() {javax.swing.plaf.multi.MultiOptionPaneUI obj = new javax.swing.plaf.multi.MultiOptionPaneUI();obj.hashCode();}}

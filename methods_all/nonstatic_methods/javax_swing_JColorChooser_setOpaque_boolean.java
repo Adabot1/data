@@ -1,0 +1,1 @@
+class javax_swing_JColorChooser_setOpaque_boolean{ public static void function() {javax.swing.JColorChooser obj = new javax.swing.JColorChooser();obj.setOpaque(true);}}

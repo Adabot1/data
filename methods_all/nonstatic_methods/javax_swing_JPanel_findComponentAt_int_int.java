@@ -1,0 +1,1 @@
+class javax_swing_JPanel_findComponentAt_int_int{ public static void function() {javax.swing.JPanel obj = new javax.swing.JPanel();obj.findComponentAt(-90311716,-1551449131);}}

@@ -1,0 +1,1 @@
+class java_awt_font_ImageGraphicAttribute_wait_long{ public static void function() {java.awt.font.ImageGraphicAttribute obj = new java.awt.font.ImageGraphicAttribute();obj.wait(-1720648176953372629);}}

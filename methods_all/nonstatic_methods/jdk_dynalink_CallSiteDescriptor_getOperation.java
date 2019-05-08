@@ -1,0 +1,1 @@
+class jdk_dynalink_CallSiteDescriptor_getOperation{ public static void function() {jdk.dynalink.CallSiteDescriptor obj = new jdk.dynalink.CallSiteDescriptor();obj.getOperation();}}

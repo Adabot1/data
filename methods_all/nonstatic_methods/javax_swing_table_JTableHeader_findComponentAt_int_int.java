@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_findComponentAt_int_int{ public static void function() {javax.swing.table.JTableHeader obj = new javax.swing.table.JTableHeader();obj.findComponentAt(1660850802,1075761244);}}

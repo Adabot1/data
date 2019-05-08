@@ -1,0 +1,1 @@
+class org_w3c_dom_events_EventException_wait_long_int{ public static void function() {org.w3c.dom.events.EventException obj = new org.w3c.dom.events.EventException();obj.wait(3417220483416239529,1929122122);}}

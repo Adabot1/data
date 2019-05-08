@@ -1,0 +1,1 @@
+class java_time_temporal_ValueRange_of_long_long_long{ public static void function() {java.time.temporal.ValueRange.of(2595998974329000578,2091290940822205285,-3094983286974304208);}}

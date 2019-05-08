@@ -1,0 +1,1 @@
+class java_awt_TextField_transferFocusUpCycle{ public static void function() {java.awt.TextField obj = new java.awt.TextField();obj.transferFocusUpCycle();}}

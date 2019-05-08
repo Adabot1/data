@@ -1,0 +1,1 @@
+class javax_swing_JMenuItem_setDebugGraphicsOptions_int{ public static void function() {javax.swing.JMenuItem obj = new javax.swing.JMenuItem();obj.setDebugGraphicsOptions(1823211094);}}

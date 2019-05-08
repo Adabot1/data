@@ -1,0 +1,1 @@
+class javax_swing_CellRendererPane_repaint_long{ public static void function() {javax.swing.CellRendererPane obj = new javax.swing.CellRendererPane();obj.repaint(-724315749394587239);}}

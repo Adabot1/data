@@ -1,0 +1,1 @@
+class java_util_DoubleSummaryStatistics_accept_double{ public static void function() {java.util.DoubleSummaryStatistics obj = new java.util.DoubleSummaryStatistics();obj.accept(0.6498954896354666);}}

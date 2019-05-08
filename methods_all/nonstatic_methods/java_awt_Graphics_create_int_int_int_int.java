@@ -1,0 +1,1 @@
+class java_awt_Graphics_create_int_int_int_int{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.create(-600966523,59228164,-1345128918,292380427);}}

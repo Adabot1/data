@@ -1,0 +1,1 @@
+class jdk_jshell_spi_SPIResolutionException_wait_long_int{ public static void function() {jdk.jshell.spi.SPIResolutionException obj = new jdk.jshell.spi.SPIResolutionException();obj.wait(-68836048161616566,-68192623);}}

@@ -1,0 +1,1 @@
+class java_lang_invoke_VarHandle_wait_long_int{ public static void function() {java.lang.invoke.VarHandle obj = new java.lang.invoke.VarHandle();obj.wait(-3456735434883259388,-1027781243);}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicComboPopup_paintImmediately_int_int_int_int{ public static void function() {javax.swing.plaf.basic.BasicComboPopup obj = new javax.swing.plaf.basic.BasicComboPopup();obj.paintImmediately(-431737798,-1760146046,-1321373708,593407322);}}

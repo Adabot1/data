@@ -1,0 +1,1 @@
+class java_awt_JobAttributes_setFromPage_int{ public static void function() {java.awt.JobAttributes obj = new java.awt.JobAttributes();obj.setFromPage(1432354520);}}

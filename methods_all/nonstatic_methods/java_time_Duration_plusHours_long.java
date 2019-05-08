@@ -1,0 +1,1 @@
+class java_time_Duration_plusHours_long{ public static void function() {java.time.Duration obj = new java.time.Duration();obj.plusHours(7759324219096620836);}}

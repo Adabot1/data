@@ -1,0 +1,1 @@
+class javax_swing_table_TableColumn_setModelIndex_int{ public static void function() {javax.swing.table.TableColumn obj = new javax.swing.table.TableColumn();obj.setModelIndex(404221210);}}

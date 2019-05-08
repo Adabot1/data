@@ -1,0 +1,1 @@
+class java_net_HttpURLConnection_setFixedLengthStreamingMode_long{ public static void function() {java.net.HttpURLConnection obj = new java.net.HttpURLConnection();obj.setFixedLengthStreamingMode(-842268889101856141);}}

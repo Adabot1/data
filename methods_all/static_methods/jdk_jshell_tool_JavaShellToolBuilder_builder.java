@@ -1,0 +1,1 @@
+class jdk_jshell_tool_JavaShellToolBuilder_builder{ public static void function() {jdk.jshell.tool.JavaShellToolBuilder.builder();}}

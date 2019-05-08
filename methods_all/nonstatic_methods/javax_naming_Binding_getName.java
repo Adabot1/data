@@ -1,0 +1,1 @@
+class javax_naming_Binding_getName{ public static void function() {javax.naming.Binding obj = new javax.naming.Binding();obj.getName();}}

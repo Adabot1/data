@@ -1,0 +1,1 @@
+class java_awt_dnd_DragGestureEvent_toArray{ public static void function() {java.awt.dnd.DragGestureEvent obj = new java.awt.dnd.DragGestureEvent();obj.toArray();}}

@@ -1,0 +1,1 @@
+class java_awt_event_KeyEvent_getModifiersExText_int{ public static void function() {java.awt.event.KeyEvent.getModifiersExText(534078178);}}

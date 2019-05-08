@@ -1,0 +1,1 @@
+class java_security_cert_CRL_wait_long{ public static void function() {java.security.cert.CRL obj = new java.security.cert.CRL();obj.wait(792672997373679258);}}

@@ -1,0 +1,1 @@
+class java_awt_Canvas_move_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.move(1308842597,-349207773);}}

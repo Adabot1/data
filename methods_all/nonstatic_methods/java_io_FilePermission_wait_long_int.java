@@ -1,0 +1,1 @@
+class java_io_FilePermission_wait_long_int{ public static void function() {java.io.FilePermission obj = new java.io.FilePermission();obj.wait(3099874452178460235,927642331);}}

@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_createVolatileImage_int_int{ public static void function() {javax.swing.JSeparator obj = new javax.swing.JSeparator();obj.createVolatileImage(-1505344782,2093858234);}}

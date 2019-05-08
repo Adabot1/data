@@ -1,0 +1,1 @@
+class java_awt_Window_findComponentAt_int_int{ public static void function() {java.awt.Window obj = new java.awt.Window();obj.findComponentAt(1537651077,-1903421297);}}

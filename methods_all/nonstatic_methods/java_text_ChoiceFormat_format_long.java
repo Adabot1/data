@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_format_long{ public static void function() {java.text.ChoiceFormat obj = new java.text.ChoiceFormat();obj.format(7955759664453227137);}}

@@ -1,0 +1,1 @@
+class java_awt_Graphics_getFontMetrics{ public static void function() {java.awt.Graphics obj = new java.awt.Graphics();obj.getFontMetrics();}}

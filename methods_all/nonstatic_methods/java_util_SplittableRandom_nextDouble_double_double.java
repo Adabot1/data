@@ -1,0 +1,1 @@
+class java_util_SplittableRandom_nextDouble_double_double{ public static void function() {java.util.SplittableRandom obj = new java.util.SplittableRandom();obj.nextDouble(0.7555935391692638,0.7605420544435931);}}

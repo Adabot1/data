@@ -1,0 +1,1 @@
+class javax_swing_JEditorPane_wait_long{ public static void function() {javax.swing.JEditorPane obj = new javax.swing.JEditorPane();obj.wait(6932090612789248900);}}

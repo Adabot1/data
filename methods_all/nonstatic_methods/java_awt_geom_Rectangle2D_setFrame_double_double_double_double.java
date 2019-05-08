@@ -1,0 +1,1 @@
+class java_awt_geom_Rectangle2D_setFrame_double_double_double_double{ public static void function() {java.awt.geom.Rectangle2D obj = new java.awt.geom.Rectangle2D();obj.setFrame(0.21770392078692313,0.829854839612328,0.7566881509075027,0.7749033596232513);}}

@@ -1,0 +1,1 @@
+class java_awt_geom_Point2D_wait_long_int{ public static void function() {java.awt.geom.Point2D obj = new java.awt.geom.Point2D();obj.wait(-704502294501818249,69152613);}}

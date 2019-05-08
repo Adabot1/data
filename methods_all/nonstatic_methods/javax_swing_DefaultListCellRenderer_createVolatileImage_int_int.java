@@ -1,0 +1,1 @@
+class javax_swing_DefaultListCellRenderer_createVolatileImage_int_int{ public static void function() {javax.swing.DefaultListCellRenderer obj = new javax.swing.DefaultListCellRenderer();obj.createVolatileImage(-1688976605,-1824587142);}}

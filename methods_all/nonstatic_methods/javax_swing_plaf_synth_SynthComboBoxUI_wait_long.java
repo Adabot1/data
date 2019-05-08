@@ -1,0 +1,1 @@
+class javax_swing_plaf_synth_SynthComboBoxUI_wait_long{ public static void function() {javax.swing.plaf.synth.SynthComboBoxUI obj = new javax.swing.plaf.synth.SynthComboBoxUI();obj.wait(-6621010955649306637);}}

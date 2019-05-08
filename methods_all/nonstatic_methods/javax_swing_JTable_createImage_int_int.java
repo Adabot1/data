@@ -1,0 +1,1 @@
+class javax_swing_JTable_createImage_int_int{ public static void function() {javax.swing.JTable obj = new javax.swing.JTable();obj.createImage(-592155967,-1048411101);}}

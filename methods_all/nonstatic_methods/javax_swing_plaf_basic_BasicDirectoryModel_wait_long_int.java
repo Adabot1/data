@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicDirectoryModel_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicDirectoryModel obj = new javax.swing.plaf.basic.BasicDirectoryModel();obj.wait(-8424255768997750694,1900152305);}}

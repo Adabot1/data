@@ -1,0 +1,1 @@
+class java_awt_image_VolatileImage_getScaledInstance_int_int_int{ public static void function() {java.awt.image.VolatileImage obj = new java.awt.image.VolatileImage();obj.getScaledInstance(-1219853580,1047799570,806695301);}}

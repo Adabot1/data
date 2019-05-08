@@ -1,0 +1,1 @@
+class javax_xml_transform_sax_SAXTransformerFactory_newDefaultInstance{ public static void function() {javax.xml.transform.sax.SAXTransformerFactory.newDefaultInstance();}}

@@ -1,0 +1,1 @@
+class java_awt_Canvas_reshape_int_int_int_int{ public static void function() {java.awt.Canvas obj = new java.awt.Canvas();obj.reshape(433708766,-198669611,909965575,-619829817);}}

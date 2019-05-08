@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_AtomicLong_wait_long{ public static void function() {java.util.concurrent.atomic.AtomicLong obj = new java.util.concurrent.atomic.AtomicLong();obj.wait(-8239254822381660941);}}

@@ -1,0 +1,1 @@
+class java_security_SignedObject_notify{ public static void function() {java.security.SignedObject obj = new java.security.SignedObject();obj.notify();}}

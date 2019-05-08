@@ -1,0 +1,1 @@
+class javax_swing_event_InternalFrameAdapter_notifyAll{ public static void function() {javax.swing.event.InternalFrameAdapter obj = new javax.swing.event.InternalFrameAdapter();obj.notifyAll();}}

@@ -1,0 +1,1 @@
+class java_util_logging_ConsoleHandler_notify{ public static void function() {java.util.logging.ConsoleHandler obj = new java.util.logging.ConsoleHandler();obj.notify();}}

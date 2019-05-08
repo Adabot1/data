@@ -1,0 +1,1 @@
+class java_util_regex_Matcher_wait_long_int{ public static void function() {java.util.regex.Matcher obj = new java.util.regex.Matcher();obj.wait(5711800645906196784,-1859228348);}}

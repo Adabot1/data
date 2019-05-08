@@ -1,0 +1,1 @@
+class java_awt_TextComponent_setSelectionStart_int{ public static void function() {java.awt.TextComponent obj = new java.awt.TextComponent();obj.setSelectionStart(35418430);}}

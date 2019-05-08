@@ -1,0 +1,1 @@
+class javax_naming_event_NamingEvent_wait_long{ public static void function() {javax.naming.event.NamingEvent obj = new javax.naming.event.NamingEvent();obj.wait(-8165145041878357629);}}

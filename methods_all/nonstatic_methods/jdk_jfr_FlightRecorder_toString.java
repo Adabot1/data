@@ -1,0 +1,1 @@
+class jdk_jfr_FlightRecorder_toString{ public static void function() {jdk.jfr.FlightRecorder obj = new jdk.jfr.FlightRecorder();obj.toString();}}

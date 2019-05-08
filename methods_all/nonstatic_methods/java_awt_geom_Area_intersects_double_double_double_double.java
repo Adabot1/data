@@ -1,0 +1,1 @@
+class java_awt_geom_Area_intersects_double_double_double_double{ public static void function() {java.awt.geom.Area obj = new java.awt.geom.Area();obj.intersects(0.08426747932273615,0.44779124516855684,0.05367295783528214,0.8644391122037426);}}

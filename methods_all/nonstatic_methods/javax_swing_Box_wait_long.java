@@ -1,0 +1,1 @@
+class javax_swing_Box_wait_long{ public static void function() {javax.swing.Box obj = new javax.swing.Box();obj.wait(-4538840595950607484);}}

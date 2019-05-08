@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_LongAccumulator_wait_long{ public static void function() {java.util.concurrent.atomic.LongAccumulator obj = new java.util.concurrent.atomic.LongAccumulator();obj.wait(1017512627346906644);}}

@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_wait_long{ public static void function() {java.text.DecimalFormat obj = new java.text.DecimalFormat();obj.wait(-2714822677543577324);}}

@@ -1,0 +1,1 @@
+class jdk_jfr_ValueDescriptor_wait_long{ public static void function() {jdk.jfr.ValueDescriptor obj = new jdk.jfr.ValueDescriptor();obj.wait(3914309543612101690);}}

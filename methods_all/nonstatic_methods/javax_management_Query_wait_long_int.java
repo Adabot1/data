@@ -1,0 +1,1 @@
+class javax_management_Query_wait_long_int{ public static void function() {javax.management.Query obj = new javax.management.Query();obj.wait(3101827522406634766,-1227613887);}}

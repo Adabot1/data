@@ -1,0 +1,1 @@
+class java_awt_Frame_getFrames{ public static void function() {java.awt.Frame.getFrames();}}

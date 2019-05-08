@@ -1,0 +1,1 @@
+class javax_security_auth_callback_ConfirmationCallback_wait_long_int{ public static void function() {javax.security.auth.callback.ConfirmationCallback obj = new javax.security.auth.callback.ConfirmationCallback();obj.wait(-3040883003683463591,1297509813);}}

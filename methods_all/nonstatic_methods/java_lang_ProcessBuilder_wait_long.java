@@ -1,0 +1,1 @@
+class java_lang_ProcessBuilder_wait_long{ public static void function() {java.lang.ProcessBuilder obj = new java.lang.ProcessBuilder();obj.wait(-1923361010026980767);}}

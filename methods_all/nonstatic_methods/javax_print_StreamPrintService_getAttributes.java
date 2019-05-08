@@ -1,0 +1,1 @@
+class javax_print_StreamPrintService_getAttributes{ public static void function() {javax.print.StreamPrintService obj = new javax.print.StreamPrintService();obj.getAttributes();}}

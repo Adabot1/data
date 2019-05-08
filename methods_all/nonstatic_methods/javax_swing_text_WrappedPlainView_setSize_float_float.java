@@ -1,0 +1,1 @@
+class javax_swing_text_WrappedPlainView_setSize_float_float{ public static void function() {javax.swing.text.WrappedPlainView obj = new javax.swing.text.WrappedPlainView();obj.setSize(0.75142246,0.040127397);}}

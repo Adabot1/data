@@ -1,0 +1,1 @@
+class java_beans_PropertyDescriptor_wait_long{ public static void function() {java.beans.PropertyDescriptor obj = new java.beans.PropertyDescriptor();obj.wait(1664666079532517501);}}

@@ -1,0 +1,1 @@
+class java_nio_ByteBuffer_getInt_int{ public static void function() {java.nio.ByteBuffer obj = new java.nio.ByteBuffer();obj.getInt(975547099);}}

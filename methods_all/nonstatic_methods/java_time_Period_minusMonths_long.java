@@ -1,0 +1,1 @@
+class java_time_Period_minusMonths_long{ public static void function() {java.time.Period obj = new java.time.Period();obj.minusMonths(8387129321190305548);}}

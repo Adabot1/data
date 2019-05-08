@@ -1,0 +1,1 @@
+class javax_swing_text_html_InlineView_getResizeWeight_int{ public static void function() {javax.swing.text.html.InlineView obj = new javax.swing.text.html.InlineView();obj.getResizeWeight(-375362265);}}

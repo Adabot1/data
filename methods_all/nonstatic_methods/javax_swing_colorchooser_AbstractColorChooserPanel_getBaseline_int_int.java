@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_AbstractColorChooserPanel_getBaseline_int_int{ public static void function() {javax.swing.colorchooser.AbstractColorChooserPanel obj = new javax.swing.colorchooser.AbstractColorChooserPanel();obj.getBaseline(223961865,1520041284);}}

@@ -1,0 +1,1 @@
+class javax_swing_filechooser_FileFilter_getClass{ public static void function() {javax.swing.filechooser.FileFilter obj = new javax.swing.filechooser.FileFilter();obj.getClass();}}

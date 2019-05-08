@@ -1,0 +1,1 @@
+class java_time_chrono_AbstractChronology_date_int_int_int{ public static void function() {java.time.chrono.AbstractChronology obj = new java.time.chrono.AbstractChronology();obj.date(-1266365036,-479843719,1214850465);}}

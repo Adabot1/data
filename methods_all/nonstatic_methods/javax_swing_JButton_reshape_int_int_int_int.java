@@ -1,0 +1,1 @@
+class javax_swing_JButton_reshape_int_int_int_int{ public static void function() {javax.swing.JButton obj = new javax.swing.JButton();obj.reshape(1695566413,-1027342925,-422467381,1956101362);}}

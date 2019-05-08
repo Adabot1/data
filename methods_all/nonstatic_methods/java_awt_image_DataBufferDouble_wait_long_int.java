@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferDouble_wait_long_int{ public static void function() {java.awt.image.DataBufferDouble obj = new java.awt.image.DataBufferDouble();obj.wait(-4925757326816884403,1505889563);}}

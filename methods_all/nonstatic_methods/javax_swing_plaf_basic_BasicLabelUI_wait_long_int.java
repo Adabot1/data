@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicLabelUI_wait_long_int{ public static void function() {javax.swing.plaf.basic.BasicLabelUI obj = new javax.swing.plaf.basic.BasicLabelUI();obj.wait(-5547623759273752144,-1009747393);}}

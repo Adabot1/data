@@ -1,0 +1,1 @@
+class javax_swing_JApplet_resize_int_int{ public static void function() {javax.swing.JApplet obj = new javax.swing.JApplet();obj.resize(-1325343967,-531155212);}}

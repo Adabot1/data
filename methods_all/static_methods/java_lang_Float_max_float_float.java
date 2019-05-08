@@ -1,0 +1,1 @@
+class java_lang_Float_max_float_float{ public static void function() {java.lang.Float.max(0.014893532,0.5270398);}}

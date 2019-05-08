@@ -1,0 +1,1 @@
+class javax_crypto_spec_DHParameterSpec_wait_long_int{ public static void function() {javax.crypto.spec.DHParameterSpec obj = new javax.crypto.spec.DHParameterSpec();obj.wait(4658378289903782232,-446804972);}}

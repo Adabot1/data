@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_OrientationRequested_wait_long_int{ public static void function() {javax.print.attribute.standard.OrientationRequested obj = new javax.print.attribute.standard.OrientationRequested();obj.wait(-1388831753144002585,-1775180026);}}

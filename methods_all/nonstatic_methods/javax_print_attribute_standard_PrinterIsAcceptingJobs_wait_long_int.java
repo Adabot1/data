@@ -1,0 +1,1 @@
+class javax_print_attribute_standard_PrinterIsAcceptingJobs_wait_long_int{ public static void function() {javax.print.attribute.standard.PrinterIsAcceptingJobs obj = new javax.print.attribute.standard.PrinterIsAcceptingJobs();obj.wait(-3408739886479780509,1066373318);}}

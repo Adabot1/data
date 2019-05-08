@@ -1,0 +1,1 @@
+class java_net_InterfaceAddress_getAddress{ public static void function() {java.net.InterfaceAddress obj = new java.net.InterfaceAddress();obj.getAddress();}}

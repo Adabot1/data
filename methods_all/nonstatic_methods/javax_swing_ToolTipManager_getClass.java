@@ -1,0 +1,1 @@
+class javax_swing_ToolTipManager_getClass{ public static void function() {javax.swing.ToolTipManager obj = new javax.swing.ToolTipManager();obj.getClass();}}

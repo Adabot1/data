@@ -1,0 +1,1 @@
+class javax_xml_namespace_QName_wait_long_int{ public static void function() {javax.xml.namespace.QName obj = new javax.xml.namespace.QName();obj.wait(-5137896626177801667,-1216377447);}}

@@ -1,0 +1,1 @@
+class javax_print_StreamPrintServiceFactory_wait_long{ public static void function() {javax.print.StreamPrintServiceFactory obj = new javax.print.StreamPrintServiceFactory();obj.wait(2157468859273315888);}}

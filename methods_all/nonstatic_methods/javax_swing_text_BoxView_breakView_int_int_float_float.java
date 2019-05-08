@@ -1,0 +1,1 @@
+class javax_swing_text_BoxView_breakView_int_int_float_float{ public static void function() {javax.swing.text.BoxView obj = new javax.swing.text.BoxView();obj.breakView(1111695747,-535928626,0.1512329,0.3408755);}}

@@ -1,0 +1,1 @@
+class java_time_chrono_HijrahDate_now{ public static void function() {java.time.chrono.HijrahDate.now();}}

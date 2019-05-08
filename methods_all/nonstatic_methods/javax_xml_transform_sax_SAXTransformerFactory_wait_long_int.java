@@ -1,0 +1,1 @@
+class javax_xml_transform_sax_SAXTransformerFactory_wait_long_int{ public static void function() {javax.xml.transform.sax.SAXTransformerFactory obj = new javax.xml.transform.sax.SAXTransformerFactory();obj.wait(1394848390158688321,-321960992);}}

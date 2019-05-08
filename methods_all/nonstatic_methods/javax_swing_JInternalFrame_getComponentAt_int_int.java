@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_getComponentAt_int_int{ public static void function() {javax.swing.JInternalFrame obj = new javax.swing.JInternalFrame();obj.getComponentAt(1629808648,-1770842311);}}

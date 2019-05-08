@@ -1,0 +1,1 @@
+class java_awt_Checkbox_getBaseline_int_int{ public static void function() {java.awt.Checkbox obj = new java.awt.Checkbox();obj.getBaseline(-1068548214,-2055099445);}}

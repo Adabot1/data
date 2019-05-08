@@ -1,0 +1,1 @@
+class java_awt_Component_contains_int_int{ public static void function() {java.awt.Component obj = new java.awt.Component();obj.contains(1351021303,249183429);}}

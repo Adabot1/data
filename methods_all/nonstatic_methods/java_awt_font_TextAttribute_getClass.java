@@ -1,0 +1,1 @@
+class java_awt_font_TextAttribute_getClass{ public static void function() {java.awt.font.TextAttribute obj = new java.awt.font.TextAttribute();obj.getClass();}}

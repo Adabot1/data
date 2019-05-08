@@ -1,0 +1,1 @@
+class java_beans_FeatureDescriptor_wait_long{ public static void function() {java.beans.FeatureDescriptor obj = new java.beans.FeatureDescriptor();obj.wait(7772723129129269733);}}

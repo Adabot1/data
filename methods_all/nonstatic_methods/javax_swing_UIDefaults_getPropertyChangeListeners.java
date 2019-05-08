@@ -1,0 +1,1 @@
+class javax_swing_UIDefaults_getPropertyChangeListeners{ public static void function() {javax.swing.UIDefaults obj = new javax.swing.UIDefaults();obj.getPropertyChangeListeners();}}

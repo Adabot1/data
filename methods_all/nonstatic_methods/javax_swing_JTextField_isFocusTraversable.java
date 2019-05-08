@@ -1,0 +1,1 @@
+class javax_swing_JTextField_isFocusTraversable{ public static void function() {javax.swing.JTextField obj = new javax.swing.JTextField();obj.isFocusTraversable();}}

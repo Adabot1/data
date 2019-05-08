@@ -1,0 +1,1 @@
+class java_util_Date_wait_long{ public static void function() {java.util.Date obj = new java.util.Date();obj.wait(-7516226333685800576);}}

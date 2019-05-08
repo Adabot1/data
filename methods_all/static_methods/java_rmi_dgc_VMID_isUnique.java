@@ -1,0 +1,1 @@
+class java_rmi_dgc_VMID_isUnique{ public static void function() {java.rmi.dgc.VMID.isUnique();}}

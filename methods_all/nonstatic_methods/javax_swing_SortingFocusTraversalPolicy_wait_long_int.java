@@ -1,0 +1,1 @@
+class javax_swing_SortingFocusTraversalPolicy_wait_long_int{ public static void function() {javax.swing.SortingFocusTraversalPolicy obj = new javax.swing.SortingFocusTraversalPolicy();obj.wait(1795952788270633785,-565174743);}}

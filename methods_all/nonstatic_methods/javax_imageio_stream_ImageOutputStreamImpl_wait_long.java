@@ -1,0 +1,1 @@
+class javax_imageio_stream_ImageOutputStreamImpl_wait_long{ public static void function() {javax.imageio.stream.ImageOutputStreamImpl obj = new javax.imageio.stream.ImageOutputStreamImpl();obj.wait(2403073479612057441);}}

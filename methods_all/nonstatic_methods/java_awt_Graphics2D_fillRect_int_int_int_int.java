@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_fillRect_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.fillRect(513566374,-1015810455,-1530016550,-1179654897);}}

@@ -1,0 +1,1 @@
+class java_time_DayOfWeek_plus_long{ public static void function() {java.time.DayOfWeek obj = new java.time.DayOfWeek();obj.plus(-4724879192596397629);}}

@@ -1,0 +1,1 @@
+class java_awt_CheckboxGroup_notifyAll{ public static void function() {java.awt.CheckboxGroup obj = new java.awt.CheckboxGroup();obj.notifyAll();}}

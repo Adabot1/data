@@ -1,0 +1,1 @@
+class java_text_AttributedString_wait_long_int{ public static void function() {java.text.AttributedString obj = new java.text.AttributedString();obj.wait(-4908828544291871530,854176526);}}

@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferFloat_wait_long_int{ public static void function() {java.awt.image.DataBufferFloat obj = new java.awt.image.DataBufferFloat();obj.wait(1148620883432111509,-2015795342);}}

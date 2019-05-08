@@ -1,0 +1,1 @@
+class jdk_management_jfr_EventTypeInfo_wait_long{ public static void function() {jdk.management.jfr.EventTypeInfo obj = new jdk.management.jfr.EventTypeInfo();obj.wait(-2831201005799948733);}}

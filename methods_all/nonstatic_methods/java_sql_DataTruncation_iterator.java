@@ -1,0 +1,1 @@
+class java_sql_DataTruncation_iterator{ public static void function() {java.sql.DataTruncation obj = new java.sql.DataTruncation();obj.iterator();}}

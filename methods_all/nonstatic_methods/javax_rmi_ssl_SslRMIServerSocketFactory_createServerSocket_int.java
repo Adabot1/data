@@ -1,0 +1,1 @@
+class javax_rmi_ssl_SslRMIServerSocketFactory_createServerSocket_int{ public static void function() {javax.rmi.ssl.SslRMIServerSocketFactory obj = new javax.rmi.ssl.SslRMIServerSocketFactory();obj.createServerSocket(-1793227696);}}

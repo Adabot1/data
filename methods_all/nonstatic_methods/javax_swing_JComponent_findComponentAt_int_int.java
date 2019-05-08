@@ -1,0 +1,1 @@
+class javax_swing_JComponent_findComponentAt_int_int{ public static void function() {javax.swing.JComponent obj = new javax.swing.JComponent();obj.findComponentAt(1499694816,-168193356);}}

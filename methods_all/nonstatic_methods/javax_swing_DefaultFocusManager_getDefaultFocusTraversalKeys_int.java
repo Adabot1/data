@@ -1,0 +1,1 @@
+class javax_swing_DefaultFocusManager_getDefaultFocusTraversalKeys_int{ public static void function() {javax.swing.DefaultFocusManager obj = new javax.swing.DefaultFocusManager();obj.getDefaultFocusTraversalKeys(-1347209199);}}

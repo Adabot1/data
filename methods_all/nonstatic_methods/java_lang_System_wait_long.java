@@ -1,0 +1,1 @@
+class java_lang_System_wait_long{ public static void function() {java.lang.System obj = new java.lang.System();obj.wait(3553951343287413973);}}

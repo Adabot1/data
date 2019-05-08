@@ -1,0 +1,1 @@
+class javax_swing_text_PasswordView_setSize_float_float{ public static void function() {javax.swing.text.PasswordView obj = new javax.swing.text.PasswordView();obj.setSize(0.72287315,0.83479184);}}

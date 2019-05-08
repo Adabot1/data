@@ -1,0 +1,1 @@
+class java_awt_Frame_resize_int_int{ public static void function() {java.awt.Frame obj = new java.awt.Frame();obj.resize(1468971430,-1646433874);}}

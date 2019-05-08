@@ -1,0 +1,1 @@
+class javax_swing_text_html_parser_Parser_wait_long_int{ public static void function() {javax.swing.text.html.parser.Parser obj = new javax.swing.text.html.parser.Parser();obj.wait(6795023515287562456,2039752361);}}

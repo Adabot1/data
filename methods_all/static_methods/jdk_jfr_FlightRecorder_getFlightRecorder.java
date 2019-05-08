@@ -1,0 +1,1 @@
+class jdk_jfr_FlightRecorder_getFlightRecorder{ public static void function() {jdk.jfr.FlightRecorder.getFlightRecorder();}}

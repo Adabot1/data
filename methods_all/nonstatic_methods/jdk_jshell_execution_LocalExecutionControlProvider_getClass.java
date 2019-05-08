@@ -1,0 +1,1 @@
+class jdk_jshell_execution_LocalExecutionControlProvider_getClass{ public static void function() {jdk.jshell.execution.LocalExecutionControlProvider obj = new jdk.jshell.execution.LocalExecutionControlProvider();obj.getClass();}}

@@ -1,0 +1,1 @@
+class java_awt_Graphics2D_clipRect_int_int_int_int{ public static void function() {java.awt.Graphics2D obj = new java.awt.Graphics2D();obj.clipRect(-859743559,1478317086,-1900412167,1447874763);}}

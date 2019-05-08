@@ -1,0 +1,1 @@
+class java_io_File_wait_long_int{ public static void function() {java.io.File obj = new java.io.File();obj.wait(-8707749191224301795,494521218);}}

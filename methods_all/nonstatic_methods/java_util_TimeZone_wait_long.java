@@ -1,0 +1,1 @@
+class java_util_TimeZone_wait_long{ public static void function() {java.util.TimeZone obj = new java.util.TimeZone();obj.wait(-934604454620589693);}}

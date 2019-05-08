@@ -1,0 +1,1 @@
+class java_beans_XMLEncoder_wait_long{ public static void function() {java.beans.XMLEncoder obj = new java.beans.XMLEncoder();obj.wait(-5191630922427846733);}}

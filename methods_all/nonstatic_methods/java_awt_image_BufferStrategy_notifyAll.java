@@ -1,0 +1,1 @@
+class java_awt_image_BufferStrategy_notifyAll{ public static void function() {java.awt.image.BufferStrategy obj = new java.awt.image.BufferStrategy();obj.notifyAll();}}

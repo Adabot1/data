@@ -1,0 +1,1 @@
+class javax_swing_JTree_collapseRow_int{ public static void function() {javax.swing.JTree obj = new javax.swing.JTree();obj.collapseRow(1632139912);}}

@@ -1,0 +1,1 @@
+class java_security_SignatureSpi_wait_long_int{ public static void function() {java.security.SignatureSpi obj = new java.security.SignatureSpi();obj.wait(-7813459614293960238,-1373224576);}}

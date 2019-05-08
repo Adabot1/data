@@ -1,0 +1,1 @@
+class javax_naming_CompositeName_toString{ public static void function() {javax.naming.CompositeName obj = new javax.naming.CompositeName();obj.toString();}}

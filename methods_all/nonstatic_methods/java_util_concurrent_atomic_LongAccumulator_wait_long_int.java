@@ -1,0 +1,1 @@
+class java_util_concurrent_atomic_LongAccumulator_wait_long_int{ public static void function() {java.util.concurrent.atomic.LongAccumulator obj = new java.util.concurrent.atomic.LongAccumulator();obj.wait(-3968886351509812539,-440944144);}}

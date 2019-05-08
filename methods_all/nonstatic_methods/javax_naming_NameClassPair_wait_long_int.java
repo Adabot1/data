@@ -1,0 +1,1 @@
+class javax_naming_NameClassPair_wait_long_int{ public static void function() {javax.naming.NameClassPair obj = new javax.naming.NameClassPair();obj.wait(8455222820456565486,1650385909);}}

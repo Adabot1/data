@@ -1,0 +1,1 @@
+class javax_swing_JCheckBox_locate_int_int{ public static void function() {javax.swing.JCheckBox obj = new javax.swing.JCheckBox();obj.locate(-865189110,1316794555);}}
