@@ -1,0 +1,1 @@
+[{"parameters":["interface javax.sql.RowSet"],"class":"javax.sql.rowset.Predicate","function":"evaluate"},{"parameters":["class java.lang.Object","int"],"class":"javax.sql.rowset.Predicate","function":"evaluate"},{"parameters":["class java.lang.Object","class java.lang.String"],"class":"javax.sql.rowset.Predicate","function":"evaluate"}]

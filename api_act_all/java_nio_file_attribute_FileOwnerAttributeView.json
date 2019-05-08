@@ -1,0 +1,1 @@
+[{"parameters":["interface java.nio.file.attribute.UserPrincipal"],"class":"java.nio.file.attribute.FileOwnerAttributeView","function":"setOwner"},{"parameters":[],"class":"java.nio.file.attribute.FileOwnerAttributeView","function":"name"},{"parameters":[],"class":"java.nio.file.attribute.FileOwnerAttributeView","function":"getOwner"}]

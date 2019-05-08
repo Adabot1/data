@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.jdi.MonitorInfo","function":"stackDepth"},{"parameters":[],"class":"com.sun.jdi.MonitorInfo","function":"monitor"},{"parameters":[],"class":"com.sun.jdi.MonitorInfo","function":"thread"},{"parameters":[],"class":"com.sun.jdi.MonitorInfo","function":"virtualMachine"},{"parameters":[],"class":"com.sun.jdi.MonitorInfo","function":"toString"}]

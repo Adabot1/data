@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.jdi.event.ThreadDeathEvent","function":"thread"},{"parameters":[],"class":"com.sun.jdi.event.ThreadDeathEvent","function":"request"},{"parameters":[],"class":"com.sun.jdi.event.ThreadDeathEvent","function":"virtualMachine"},{"parameters":[],"class":"com.sun.jdi.event.ThreadDeathEvent","function":"toString"}]

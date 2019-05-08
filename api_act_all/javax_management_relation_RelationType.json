@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.management.relation.RelationType","function":"getRelationTypeName"},{"parameters":[],"class":"javax.management.relation.RelationType","function":"getRoleInfos"},{"parameters":["class java.lang.String"],"class":"javax.management.relation.RelationType","function":"getRoleInfo"}]

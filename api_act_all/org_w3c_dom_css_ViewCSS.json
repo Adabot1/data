@@ -1,0 +1,1 @@
+[{"parameters":["interface org.w3c.dom.Element","class java.lang.String"],"class":"org.w3c.dom.css.ViewCSS","function":"getComputedStyle"},{"parameters":[],"class":"org.w3c.dom.css.ViewCSS","function":"getDocument"}]

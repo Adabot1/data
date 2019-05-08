@@ -1,0 +1,1 @@
+[{"parameters":["class javax.swing.event.MenuEvent"],"class":"javax.swing.event.MenuListener","function":"menuSelected"},{"parameters":["class javax.swing.event.MenuEvent"],"class":"javax.swing.event.MenuListener","function":"menuDeselected"},{"parameters":["class javax.swing.event.MenuEvent"],"class":"javax.swing.event.MenuListener","function":"menuCanceled"}]

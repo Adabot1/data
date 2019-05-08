@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"jdk.jfr.Timestamp","function":"value"},{"parameters":["class java.lang.Object"],"class":"jdk.jfr.Timestamp","function":"equals"},{"parameters":[],"class":"jdk.jfr.Timestamp","function":"toString"},{"parameters":[],"class":"jdk.jfr.Timestamp","function":"hashCode"},{"parameters":[],"class":"jdk.jfr.Timestamp","function":"annotationType"}]

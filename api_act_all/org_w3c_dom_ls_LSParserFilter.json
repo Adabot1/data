@@ -1,0 +1,1 @@
+[{"parameters":["interface org.w3c.dom.Node"],"class":"org.w3c.dom.ls.LSParserFilter","function":"acceptNode"},{"parameters":[],"class":"org.w3c.dom.ls.LSParserFilter","function":"getWhatToShow"},{"parameters":["interface org.w3c.dom.Element"],"class":"org.w3c.dom.ls.LSParserFilter","function":"startElement"}]

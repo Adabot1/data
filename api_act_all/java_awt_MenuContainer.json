@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.awt.MenuContainer","function":"getFont"},{"parameters":["class java.awt.Event"],"class":"java.awt.MenuContainer","function":"postEvent"},{"parameters":["class java.awt.MenuComponent"],"class":"java.awt.MenuContainer","function":"remove"}]

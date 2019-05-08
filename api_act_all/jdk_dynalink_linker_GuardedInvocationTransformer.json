@@ -1,0 +1,1 @@
+[{"parameters":["class jdk.dynalink.linker.GuardedInvocation","interface jdk.dynalink.linker.LinkRequest","interface jdk.dynalink.linker.LinkerServices"],"class":"jdk.dynalink.linker.GuardedInvocationTransformer","function":"filter"}]

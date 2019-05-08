@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.security.cert.Extension","function":"isCritical"},{"parameters":["class java.io.OutputStream"],"class":"java.security.cert.Extension","function":"encode"},{"parameters":[],"class":"java.security.cert.Extension","function":"getValue"},{"parameters":[],"class":"java.security.cert.Extension","function":"getId"}]

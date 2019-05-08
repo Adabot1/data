@@ -1,0 +1,1 @@
+[{"parameters":["class [Ljava.awt.datatransfer.DataFlavor;"],"class":"java.awt.datatransfer.FlavorMap","function":"getNativesForFlavors"},{"parameters":["class [Ljava.lang.String;"],"class":"java.awt.datatransfer.FlavorMap","function":"getFlavorsForNatives"}]

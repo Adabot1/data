@@ -1,0 +1,1 @@
+[{"parameters":["interface java.util.function.LongConsumer"],"class":"java.util.function.LongConsumer","function":"andThen"},{"parameters":["long"],"class":"java.util.function.LongConsumer","function":"accept"}]

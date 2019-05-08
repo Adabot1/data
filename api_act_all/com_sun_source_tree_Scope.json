@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.Scope","function":"getEnclosingScope"},{"parameters":[],"class":"com.sun.source.tree.Scope","function":"getLocalElements"},{"parameters":[],"class":"com.sun.source.tree.Scope","function":"getEnclosingMethod"},{"parameters":[],"class":"com.sun.source.tree.Scope","function":"getEnclosingClass"}]

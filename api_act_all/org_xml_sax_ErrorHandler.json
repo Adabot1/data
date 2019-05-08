@@ -1,0 +1,1 @@
+[{"parameters":["class org.xml.sax.SAXParseException"],"class":"org.xml.sax.ErrorHandler","function":"warning"},{"parameters":["class org.xml.sax.SAXParseException"],"class":"org.xml.sax.ErrorHandler","function":"fatalError"},{"parameters":["class org.xml.sax.SAXParseException"],"class":"org.xml.sax.ErrorHandler","function":"error"}]

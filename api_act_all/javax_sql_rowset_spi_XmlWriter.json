@@ -1,0 +1,1 @@
+[{"parameters":["interface javax.sql.rowset.WebRowSet","class java.io.Writer"],"class":"javax.sql.rowset.spi.XmlWriter","function":"writeXML"},{"parameters":["interface javax.sql.RowSetInternal"],"class":"javax.sql.rowset.spi.XmlWriter","function":"writeData"}]

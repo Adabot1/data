@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.Object"],"class":"javax.management.remote.rmi.RMIServer","function":"newClient"},{"parameters":[],"class":"javax.management.remote.rmi.RMIServer","function":"getVersion"}]

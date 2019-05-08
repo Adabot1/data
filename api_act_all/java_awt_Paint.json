@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.image.ColorModel","class java.awt.Rectangle","class java.awt.geom.Rectangle2D","class java.awt.geom.AffineTransform","class java.awt.RenderingHints"],"class":"java.awt.Paint","function":"createContext"},{"parameters":[],"class":"java.awt.Paint","function":"getTransparency"}]

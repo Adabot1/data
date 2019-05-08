@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.doctree.ReferenceTree","function":"getSignature"},{"parameters":[],"class":"com.sun.source.doctree.ReferenceTree","function":"getKind"},{"parameters":["com.sun.source.doctree.DocTreeVisitor<R, D>","D"],"class":"com.sun.source.doctree.ReferenceTree","function":"accept"}]

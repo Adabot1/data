@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.Object"],"class":"jdk.dynalink.Operation","function":"named"},{"parameters":["interface jdk.dynalink.Namespace"],"class":"jdk.dynalink.Operation","function":"withNamespace"},{"parameters":["class [Ljdk.dynalink.Namespace;"],"class":"jdk.dynalink.Operation","function":"withNamespaces"}]

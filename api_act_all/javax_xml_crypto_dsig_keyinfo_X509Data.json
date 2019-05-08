@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.xml.crypto.dsig.keyinfo.X509Data","function":"getContent"},{"parameters":["class java.lang.String"],"class":"javax.xml.crypto.dsig.keyinfo.X509Data","function":"isFeatureSupported"}]

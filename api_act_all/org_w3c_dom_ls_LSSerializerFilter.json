@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"org.w3c.dom.ls.LSSerializerFilter","function":"getWhatToShow"},{"parameters":["interface org.w3c.dom.Node"],"class":"org.w3c.dom.ls.LSSerializerFilter","function":"acceptNode"}]

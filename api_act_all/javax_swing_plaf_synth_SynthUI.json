@@ -1,0 +1,1 @@
+[{"parameters":["class javax.swing.plaf.synth.SynthContext","class java.awt.Graphics","int","int","int","int"],"class":"javax.swing.plaf.synth.SynthUI","function":"paintBorder"},{"parameters":["class javax.swing.JComponent"],"class":"javax.swing.plaf.synth.SynthUI","function":"getContext"}]

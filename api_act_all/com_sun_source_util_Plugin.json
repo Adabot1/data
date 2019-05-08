@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.util.Plugin","function":"getName"},{"parameters":["class com.sun.source.util.JavacTask","class [Ljava.lang.String;"],"class":"com.sun.source.util.Plugin","function":"init"}]

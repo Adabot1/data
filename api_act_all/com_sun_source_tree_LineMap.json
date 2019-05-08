@@ -1,0 +1,1 @@
+[{"parameters":["long"],"class":"com.sun.source.tree.LineMap","function":"getStartPosition"},{"parameters":["long","long"],"class":"com.sun.source.tree.LineMap","function":"getPosition"},{"parameters":["long"],"class":"com.sun.source.tree.LineMap","function":"getColumnNumber"},{"parameters":["long"],"class":"com.sun.source.tree.LineMap","function":"getLineNumber"}]

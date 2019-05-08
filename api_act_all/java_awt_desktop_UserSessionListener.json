@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.desktop.UserSessionEvent"],"class":"java.awt.desktop.UserSessionListener","function":"userSessionDeactivated"},{"parameters":["class java.awt.desktop.UserSessionEvent"],"class":"java.awt.desktop.UserSessionListener","function":"userSessionActivated"}]

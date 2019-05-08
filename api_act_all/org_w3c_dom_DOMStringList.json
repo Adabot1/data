@@ -1,0 +1,1 @@
+[{"parameters":["int"],"class":"org.w3c.dom.DOMStringList","function":"item"},{"parameters":[],"class":"org.w3c.dom.DOMStringList","function":"getLength"},{"parameters":["class java.lang.String"],"class":"org.w3c.dom.DOMStringList","function":"contains"}]

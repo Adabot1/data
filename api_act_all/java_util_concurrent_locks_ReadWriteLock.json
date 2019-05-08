@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.util.concurrent.locks.ReadWriteLock","function":"readLock"},{"parameters":[],"class":"java.util.concurrent.locks.ReadWriteLock","function":"writeLock"}]

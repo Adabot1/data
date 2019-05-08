@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.desktop.ScreenSleepEvent"],"class":"java.awt.desktop.ScreenSleepListener","function":"screenAboutToSleep"},{"parameters":["class java.awt.desktop.ScreenSleepEvent"],"class":"java.awt.desktop.ScreenSleepListener","function":"screenAwoke"}]

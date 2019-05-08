@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.String"],"class":"javax.script.Compilable","function":"compile"},{"parameters":["class java.io.Reader"],"class":"javax.script.Compilable","function":"compile"}]

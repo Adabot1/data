@@ -1,0 +1,1 @@
+[{"parameters":["class javax.management.remote.JMXServiceURL","java.util.Map<java.lang.String, ?>"],"class":"javax.management.remote.JMXConnectorProvider","function":"newJMXConnector"}]

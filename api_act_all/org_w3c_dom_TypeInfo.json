@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"org.w3c.dom.TypeInfo","function":"getTypeNamespace"},{"parameters":["class java.lang.String","class java.lang.String","int"],"class":"org.w3c.dom.TypeInfo","function":"isDerivedFrom"},{"parameters":[],"class":"org.w3c.dom.TypeInfo","function":"getTypeName"}]

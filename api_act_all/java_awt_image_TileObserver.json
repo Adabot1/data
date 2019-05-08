@@ -1,0 +1,1 @@
+[{"parameters":["interface java.awt.image.WritableRenderedImage","int","int","boolean"],"class":"java.awt.image.TileObserver","function":"tileUpdate"}]

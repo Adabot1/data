@@ -1,0 +1,1 @@
+[{"parameters":["interface javax.naming.Name","java.lang.Class<? extends javax.naming.Context>"],"class":"javax.naming.spi.Resolver","function":"resolveToClass"},{"parameters":["class java.lang.String","java.lang.Class<? extends javax.naming.Context>"],"class":"javax.naming.spi.Resolver","function":"resolveToClass"}]

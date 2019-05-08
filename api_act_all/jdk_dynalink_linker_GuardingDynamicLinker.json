@@ -1,0 +1,1 @@
+[{"parameters":["interface jdk.dynalink.linker.LinkRequest","interface jdk.dynalink.linker.LinkerServices"],"class":"jdk.dynalink.linker.GuardingDynamicLinker","function":"getGuardedInvocation"}]

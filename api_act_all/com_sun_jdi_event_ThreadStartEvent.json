@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.jdi.event.ThreadStartEvent","function":"thread"},{"parameters":[],"class":"com.sun.jdi.event.ThreadStartEvent","function":"request"},{"parameters":[],"class":"com.sun.jdi.event.ThreadStartEvent","function":"virtualMachine"},{"parameters":[],"class":"com.sun.jdi.event.ThreadStartEvent","function":"toString"}]

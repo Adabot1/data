@@ -1,0 +1,1 @@
+[{"parameters":["interface java.beans.PropertyChangeListener"],"class":"java.beans.Customizer","function":"addPropertyChangeListener"},{"parameters":["interface java.beans.PropertyChangeListener"],"class":"java.beans.Customizer","function":"removePropertyChangeListener"},{"parameters":["class java.lang.Object"],"class":"java.beans.Customizer","function":"setObject"}]

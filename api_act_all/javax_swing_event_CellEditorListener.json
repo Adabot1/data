@@ -1,0 +1,1 @@
+[{"parameters":["class javax.swing.event.ChangeEvent"],"class":"javax.swing.event.CellEditorListener","function":"editingStopped"},{"parameters":["class javax.swing.event.ChangeEvent"],"class":"javax.swing.event.CellEditorListener","function":"editingCanceled"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.xml.crypto.dsig.SignatureProperties","function":"getProperties"},{"parameters":[],"class":"javax.xml.crypto.dsig.SignatureProperties","function":"getId"},{"parameters":["class java.lang.String"],"class":"javax.xml.crypto.dsig.SignatureProperties","function":"isFeatureSupported"}]

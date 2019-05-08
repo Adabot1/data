@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.PrimitiveTypeTree","function":"getPrimitiveTypeKind"},{"parameters":[],"class":"com.sun.source.tree.PrimitiveTypeTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.PrimitiveTypeTree","function":"accept"}]

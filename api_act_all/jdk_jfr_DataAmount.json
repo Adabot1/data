@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"jdk.jfr.DataAmount","function":"value"},{"parameters":["class java.lang.Object"],"class":"jdk.jfr.DataAmount","function":"equals"},{"parameters":[],"class":"jdk.jfr.DataAmount","function":"toString"},{"parameters":[],"class":"jdk.jfr.DataAmount","function":"hashCode"},{"parameters":[],"class":"jdk.jfr.DataAmount","function":"annotationType"}]

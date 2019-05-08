@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.accessibility.AccessibleAction","function":"getAccessibleActionCount"},{"parameters":["int"],"class":"javax.accessibility.AccessibleAction","function":"getAccessibleActionDescription"},{"parameters":["int"],"class":"javax.accessibility.AccessibleAction","function":"doAccessibleAction"}]

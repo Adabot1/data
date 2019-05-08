@@ -1,0 +1,1 @@
+[{"parameters":["class java.util.prefs.NodeChangeEvent"],"class":"java.util.prefs.NodeChangeListener","function":"childAdded"},{"parameters":["class java.util.prefs.NodeChangeEvent"],"class":"java.util.prefs.NodeChangeListener","function":"childRemoved"}]

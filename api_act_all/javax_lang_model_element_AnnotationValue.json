@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.lang.model.element.AnnotationValue","function":"toString"},{"parameters":[],"class":"javax.lang.model.element.AnnotationValue","function":"getValue"},{"parameters":["javax.lang.model.element.AnnotationValueVisitor<R, P>","P"],"class":"javax.lang.model.element.AnnotationValue","function":"accept"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.beans.Visibility","function":"needsGui"},{"parameters":[],"class":"java.beans.Visibility","function":"dontUseGui"},{"parameters":[],"class":"java.beans.Visibility","function":"okToUseGui"},{"parameters":[],"class":"java.beans.Visibility","function":"avoidingGui"}]

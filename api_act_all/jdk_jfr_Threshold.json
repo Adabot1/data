@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"jdk.jfr.Threshold","function":"value"},{"parameters":["class java.lang.Object"],"class":"jdk.jfr.Threshold","function":"equals"},{"parameters":[],"class":"jdk.jfr.Threshold","function":"toString"},{"parameters":[],"class":"jdk.jfr.Threshold","function":"hashCode"},{"parameters":[],"class":"jdk.jfr.Threshold","function":"annotationType"}]

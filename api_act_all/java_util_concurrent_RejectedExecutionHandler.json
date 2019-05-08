@@ -1,0 +1,1 @@
+[{"parameters":["interface java.lang.Runnable","class java.util.concurrent.ThreadPoolExecutor"],"class":"java.util.concurrent.RejectedExecutionHandler","function":"rejectedExecution"}]

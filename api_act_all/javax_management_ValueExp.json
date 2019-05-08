@@ -1,0 +1,1 @@
+[{"parameters":["interface javax.management.MBeanServer"],"class":"javax.management.ValueExp","function":"setMBeanServer"},{"parameters":["class javax.management.ObjectName"],"class":"javax.management.ValueExp","function":"apply"}]

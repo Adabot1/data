@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"jdk.nashorn.api.tree.Tree","function":"getStartPosition"},{"parameters":[],"class":"jdk.nashorn.api.tree.Tree","function":"getEndPosition"},{"parameters":[],"class":"jdk.nashorn.api.tree.Tree","function":"getKind"},{"parameters":["jdk.nashorn.api.tree.TreeVisitor<R, D>","D"],"class":"jdk.nashorn.api.tree.Tree","function":"accept"}]

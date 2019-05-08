@@ -1,0 +1,1 @@
+[{"parameters":["interface org.w3c.dom.Element","class java.lang.String"],"class":"org.w3c.dom.css.DocumentCSS","function":"getOverrideStyle"},{"parameters":[],"class":"org.w3c.dom.css.DocumentCSS","function":"getStyleSheets"}]

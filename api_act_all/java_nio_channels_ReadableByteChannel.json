@@ -1,0 +1,1 @@
+[{"parameters":["class java.nio.ByteBuffer"],"class":"java.nio.channels.ReadableByteChannel","function":"read"},{"parameters":[],"class":"java.nio.channels.ReadableByteChannel","function":"isOpen"},{"parameters":[],"class":"java.nio.channels.ReadableByteChannel","function":"close"}]

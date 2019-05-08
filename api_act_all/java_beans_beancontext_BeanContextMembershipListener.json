@@ -1,0 +1,1 @@
+[{"parameters":["class java.beans.beancontext.BeanContextMembershipEvent"],"class":"java.beans.beancontext.BeanContextMembershipListener","function":"childrenAdded"},{"parameters":["class java.beans.beancontext.BeanContextMembershipEvent"],"class":"java.beans.beancontext.BeanContextMembershipListener","function":"childrenRemoved"}]

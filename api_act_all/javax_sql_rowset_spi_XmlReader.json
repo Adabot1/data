@@ -1,0 +1,1 @@
+[{"parameters":["interface javax.sql.rowset.WebRowSet","class java.io.Reader"],"class":"javax.sql.rowset.spi.XmlReader","function":"readXML"},{"parameters":["interface javax.sql.RowSetInternal"],"class":"javax.sql.rowset.spi.XmlReader","function":"readData"}]

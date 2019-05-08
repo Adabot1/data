@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.xml.crypto.dsig.keyinfo.X509IssuerSerial","function":"getSerialNumber"},{"parameters":[],"class":"javax.xml.crypto.dsig.keyinfo.X509IssuerSerial","function":"getIssuerName"},{"parameters":["class java.lang.String"],"class":"javax.xml.crypto.dsig.keyinfo.X509IssuerSerial","function":"isFeatureSupported"}]

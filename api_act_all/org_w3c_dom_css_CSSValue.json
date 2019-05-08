@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"org.w3c.dom.css.CSSValue","function":"getCssText"},{"parameters":["class java.lang.String"],"class":"org.w3c.dom.css.CSSValue","function":"setCssText"},{"parameters":[],"class":"org.w3c.dom.css.CSSValue","function":"getCssValueType"}]

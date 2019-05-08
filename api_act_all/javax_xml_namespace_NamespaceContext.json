@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.String"],"class":"javax.xml.namespace.NamespaceContext","function":"getPrefixes"},{"parameters":["class java.lang.String"],"class":"javax.xml.namespace.NamespaceContext","function":"getNamespaceURI"},{"parameters":["class java.lang.String"],"class":"javax.xml.namespace.NamespaceContext","function":"getPrefix"}]

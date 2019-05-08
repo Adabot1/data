@@ -1,0 +1,1 @@
+[{"parameters":["int","class java.lang.Object"],"class":"java.net.SocketOptions","function":"setOption"},{"parameters":["int"],"class":"java.net.SocketOptions","function":"getOption"}]

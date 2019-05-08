@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.event.ContainerEvent"],"class":"java.awt.event.ContainerListener","function":"componentAdded"},{"parameters":["class java.awt.event.ContainerEvent"],"class":"java.awt.event.ContainerListener","function":"componentRemoved"}]

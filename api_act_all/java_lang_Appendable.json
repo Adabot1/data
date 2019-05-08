@@ -1,0 +1,1 @@
+[{"parameters":["interface java.lang.CharSequence"],"class":"java.lang.Appendable","function":"append"},{"parameters":["interface java.lang.CharSequence","int","int"],"class":"java.lang.Appendable","function":"append"},{"parameters":["char"],"class":"java.lang.Appendable","function":"append"}]

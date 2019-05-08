@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.ContinueTree","function":"getLabel"},{"parameters":[],"class":"com.sun.source.tree.ContinueTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.ContinueTree","function":"accept"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.naming.ldap.Control","function":"getID"},{"parameters":[],"class":"javax.naming.ldap.Control","function":"getEncodedValue"},{"parameters":[],"class":"javax.naming.ldap.Control","function":"isCritical"}]

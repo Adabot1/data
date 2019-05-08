@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.Object","interface javax.naming.Name","interface javax.naming.Context","java.util.Hashtable<?, ?>"],"class":"javax.naming.spi.StateFactory","function":"getStateToBind"}]

@@ -1,0 +1,1 @@
+[{"parameters":["interface jdk.jshell.spi.ExecutionEnv","java.util.Map<java.lang.String, java.lang.String>"],"class":"jdk.jshell.spi.ExecutionControlProvider","function":"generate"},{"parameters":[],"class":"jdk.jshell.spi.ExecutionControlProvider","function":"defaultParameters"},{"parameters":[],"class":"jdk.jshell.spi.ExecutionControlProvider","function":"name"}]

@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.String","int"],"class":"java.rmi.registry.RegistryHandler","function":"registryStub"},{"parameters":["int"],"class":"java.rmi.registry.RegistryHandler","function":"registryImpl"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.CatchTree","function":"getParameter"},{"parameters":[],"class":"com.sun.source.tree.CatchTree","function":"getBlock"},{"parameters":[],"class":"com.sun.source.tree.CatchTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.CatchTree","function":"accept"}]

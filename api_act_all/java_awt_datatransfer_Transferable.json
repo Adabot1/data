@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.awt.datatransfer.Transferable","function":"getTransferDataFlavors"},{"parameters":["class java.awt.datatransfer.DataFlavor"],"class":"java.awt.datatransfer.Transferable","function":"isDataFlavorSupported"},{"parameters":["class java.awt.datatransfer.DataFlavor"],"class":"java.awt.datatransfer.Transferable","function":"getTransferData"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.jdi.event.EventQueue","function":"remove"},{"parameters":["long"],"class":"com.sun.jdi.event.EventQueue","function":"remove"},{"parameters":[],"class":"com.sun.jdi.event.EventQueue","function":"virtualMachine"},{"parameters":[],"class":"com.sun.jdi.event.EventQueue","function":"toString"}]

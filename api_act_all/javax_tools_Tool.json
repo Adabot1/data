@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.tools.Tool","function":"getSourceVersions"},{"parameters":[],"class":"javax.tools.Tool","function":"name"},{"parameters":["class java.io.InputStream","class java.io.OutputStream","class java.io.OutputStream","class [Ljava.lang.String;"],"class":"javax.tools.Tool","function":"run"}]

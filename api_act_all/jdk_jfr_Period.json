@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"jdk.jfr.Period","function":"value"},{"parameters":["class java.lang.Object"],"class":"jdk.jfr.Period","function":"equals"},{"parameters":[],"class":"jdk.jfr.Period","function":"toString"},{"parameters":[],"class":"jdk.jfr.Period","function":"hashCode"},{"parameters":[],"class":"jdk.jfr.Period","function":"annotationType"}]

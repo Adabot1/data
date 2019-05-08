@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.naming.ldap.ExtendedRequest","function":"getID"},{"parameters":[],"class":"javax.naming.ldap.ExtendedRequest","function":"getEncodedValue"},{"parameters":["class java.lang.String","class [B","int","int"],"class":"javax.naming.ldap.ExtendedRequest","function":"createExtendedResponse"}]

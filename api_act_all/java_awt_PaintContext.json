@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.awt.PaintContext","function":"dispose"},{"parameters":[],"class":"java.awt.PaintContext","function":"getColorModel"},{"parameters":["int","int","int","int"],"class":"java.awt.PaintContext","function":"getRaster"}]

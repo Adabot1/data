@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.xml.crypto.dsig.SignatureMethod","function":"getParameterSpec"},{"parameters":["class java.lang.String"],"class":"javax.xml.crypto.dsig.SignatureMethod","function":"isFeatureSupported"},{"parameters":[],"class":"javax.xml.crypto.dsig.SignatureMethod","function":"getAlgorithm"}]

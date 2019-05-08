@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.lang.management.MemoryManagerMXBean","function":"getMemoryPoolNames"},{"parameters":[],"class":"java.lang.management.MemoryManagerMXBean","function":"isValid"},{"parameters":[],"class":"java.lang.management.MemoryManagerMXBean","function":"getName"},{"parameters":[],"class":"java.lang.management.MemoryManagerMXBean","function":"getObjectName"}]

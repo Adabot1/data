@@ -1,0 +1,1 @@
+[{"parameters":["class jdk.jfr.FlightRecorder"],"class":"jdk.jfr.FlightRecorderListener","function":"recorderInitialized"},{"parameters":["class jdk.jfr.Recording"],"class":"jdk.jfr.FlightRecorderListener","function":"recordingStateChanged"}]

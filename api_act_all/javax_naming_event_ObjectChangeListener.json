@@ -1,0 +1,1 @@
+[{"parameters":["class javax.naming.event.NamingEvent"],"class":"javax.naming.event.ObjectChangeListener","function":"objectChanged"},{"parameters":["class javax.naming.event.NamingExceptionEvent"],"class":"javax.naming.event.ObjectChangeListener","function":"namingExceptionThrown"}]

@@ -1,0 +1,1 @@
+[{"parameters":["class java.beans.beancontext.BeanContextServiceAvailableEvent"],"class":"java.beans.beancontext.BeanContextServicesListener","function":"serviceAvailable"},{"parameters":["class java.beans.beancontext.BeanContextServiceRevokedEvent"],"class":"java.beans.beancontext.BeanContextServicesListener","function":"serviceRevoked"}]

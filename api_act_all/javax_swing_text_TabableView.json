@@ -1,0 +1,1 @@
+[{"parameters":["float","interface javax.swing.text.TabExpander"],"class":"javax.swing.text.TabableView","function":"getTabbedSpan"},{"parameters":["int","int"],"class":"javax.swing.text.TabableView","function":"getPartialSpan"}]

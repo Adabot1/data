@@ -1,0 +1,1 @@
+[{"parameters":["java.util.Hashtable<java.lang.Object, java.lang.Object>"],"class":"javax.swing.undo.StateEditable","function":"storeState"},{"parameters":["java.util.Hashtable<?, ?>"],"class":"javax.swing.undo.StateEditable","function":"restoreState"}]

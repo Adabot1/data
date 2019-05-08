@@ -1,0 +1,1 @@
+[{"parameters":["class javax.sql.ConnectionEvent"],"class":"javax.sql.ConnectionEventListener","function":"connectionClosed"},{"parameters":["class javax.sql.ConnectionEvent"],"class":"javax.sql.ConnectionEventListener","function":"connectionErrorOccurred"}]

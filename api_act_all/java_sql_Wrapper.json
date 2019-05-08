@@ -1,0 +1,1 @@
+[{"parameters":["java.lang.Class<?>"],"class":"java.sql.Wrapper","function":"isWrapperFor"},{"parameters":["java.lang.Class<T>"],"class":"java.sql.Wrapper","function":"unwrap"}]

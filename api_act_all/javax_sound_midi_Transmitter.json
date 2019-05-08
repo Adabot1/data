@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.sound.midi.Transmitter","function":"getReceiver"},{"parameters":["interface javax.sound.midi.Receiver"],"class":"javax.sound.midi.Transmitter","function":"setReceiver"},{"parameters":[],"class":"javax.sound.midi.Transmitter","function":"close"}]

@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.Window"],"class":"com.sun.java.accessibility.util.TopLevelWindowListener","function":"topLevelWindowCreated"},{"parameters":["class java.awt.Window"],"class":"com.sun.java.accessibility.util.TopLevelWindowListener","function":"topLevelWindowDestroyed"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"jdk.jfr.Timespan","function":"value"},{"parameters":["class java.lang.Object"],"class":"jdk.jfr.Timespan","function":"equals"},{"parameters":[],"class":"jdk.jfr.Timespan","function":"toString"},{"parameters":[],"class":"jdk.jfr.Timespan","function":"hashCode"},{"parameters":[],"class":"jdk.jfr.Timespan","function":"annotationType"}]

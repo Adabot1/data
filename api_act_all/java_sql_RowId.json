@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.Object"],"class":"java.sql.RowId","function":"equals"},{"parameters":[],"class":"java.sql.RowId","function":"toString"},{"parameters":[],"class":"java.sql.RowId","function":"hashCode"},{"parameters":[],"class":"java.sql.RowId","function":"getBytes"}]

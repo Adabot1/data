@@ -1,0 +1,1 @@
+[{"parameters":["class javax.sound.midi.MidiMessage","long"],"class":"javax.sound.midi.Receiver","function":"send"},{"parameters":[],"class":"javax.sound.midi.Receiver","function":"close"}]

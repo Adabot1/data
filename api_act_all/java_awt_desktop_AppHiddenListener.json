@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.desktop.AppHiddenEvent"],"class":"java.awt.desktop.AppHiddenListener","function":"appHidden"},{"parameters":["class java.awt.desktop.AppHiddenEvent"],"class":"java.awt.desktop.AppHiddenListener","function":"appUnhidden"}]

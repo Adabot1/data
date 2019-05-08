@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.xml.crypto.dsig.Manifest","function":"getReferences"},{"parameters":[],"class":"javax.xml.crypto.dsig.Manifest","function":"getId"},{"parameters":["class java.lang.String"],"class":"javax.xml.crypto.dsig.Manifest","function":"isFeatureSupported"}]

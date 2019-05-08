@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.UsesTree","function":"getServiceName"},{"parameters":[],"class":"com.sun.source.tree.UsesTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.UsesTree","function":"accept"}]

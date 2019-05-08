@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.PackageTree","function":"getPackageName"},{"parameters":[],"class":"com.sun.source.tree.PackageTree","function":"getAnnotations"},{"parameters":[],"class":"com.sun.source.tree.PackageTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.PackageTree","function":"accept"}]

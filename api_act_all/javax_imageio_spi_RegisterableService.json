@@ -1,0 +1,1 @@
+[{"parameters":["class javax.imageio.spi.ServiceRegistry","java.lang.Class<?>"],"class":"javax.imageio.spi.RegisterableService","function":"onRegistration"},{"parameters":["class javax.imageio.spi.ServiceRegistry","java.lang.Class<?>"],"class":"javax.imageio.spi.RegisterableService","function":"onDeregistration"}]

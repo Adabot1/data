@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.Component","class java.awt.Graphics","int","int"],"class":"javax.swing.Icon","function":"paintIcon"},{"parameters":[],"class":"javax.swing.Icon","function":"getIconWidth"},{"parameters":[],"class":"javax.swing.Icon","function":"getIconHeight"}]

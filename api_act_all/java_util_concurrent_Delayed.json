@@ -1,0 +1,1 @@
+[{"parameters":["class java.util.concurrent.TimeUnit"],"class":"java.util.concurrent.Delayed","function":"getDelay"},{"parameters":["T"],"class":"java.util.concurrent.Delayed","function":"compareTo"}]

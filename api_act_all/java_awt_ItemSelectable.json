@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.awt.ItemSelectable","function":"getSelectedObjects"},{"parameters":["interface java.awt.event.ItemListener"],"class":"java.awt.ItemSelectable","function":"addItemListener"},{"parameters":["interface java.awt.event.ItemListener"],"class":"java.awt.ItemSelectable","function":"removeItemListener"}]

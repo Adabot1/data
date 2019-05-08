@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.jdi.event.VMStartEvent","function":"thread"},{"parameters":[],"class":"com.sun.jdi.event.VMStartEvent","function":"request"},{"parameters":[],"class":"com.sun.jdi.event.VMStartEvent","function":"virtualMachine"},{"parameters":[],"class":"com.sun.jdi.event.VMStartEvent","function":"toString"}]

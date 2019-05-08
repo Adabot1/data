@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"jdk.jfr.StackTrace","function":"value"},{"parameters":["class java.lang.Object"],"class":"jdk.jfr.StackTrace","function":"equals"},{"parameters":[],"class":"jdk.jfr.StackTrace","function":"toString"},{"parameters":[],"class":"jdk.jfr.StackTrace","function":"hashCode"},{"parameters":[],"class":"jdk.jfr.StackTrace","function":"annotationType"}]

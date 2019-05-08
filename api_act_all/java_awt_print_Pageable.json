@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.awt.print.Pageable","function":"getNumberOfPages"},{"parameters":["int"],"class":"java.awt.print.Pageable","function":"getPageFormat"},{"parameters":["int"],"class":"java.awt.print.Pageable","function":"getPrintable"}]

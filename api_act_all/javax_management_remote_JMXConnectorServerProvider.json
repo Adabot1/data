@@ -1,0 +1,1 @@
+[{"parameters":["class javax.management.remote.JMXServiceURL","java.util.Map<java.lang.String, ?>","interface javax.management.MBeanServer"],"class":"javax.management.remote.JMXConnectorServerProvider","function":"newJMXConnectorServer"}]

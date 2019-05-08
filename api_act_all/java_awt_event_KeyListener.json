@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.event.KeyEvent"],"class":"java.awt.event.KeyListener","function":"keyTyped"},{"parameters":["class java.awt.event.KeyEvent"],"class":"java.awt.event.KeyListener","function":"keyPressed"},{"parameters":["class java.awt.event.KeyEvent"],"class":"java.awt.event.KeyListener","function":"keyReleased"}]

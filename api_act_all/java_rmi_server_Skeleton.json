@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.rmi.server.Skeleton","function":"getOperations"},{"parameters":["interface java.rmi.Remote","interface java.rmi.server.RemoteCall","int","long"],"class":"java.rmi.server.Skeleton","function":"dispatch"}]

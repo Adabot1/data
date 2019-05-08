@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.event.InputMethodEvent"],"class":"java.awt.event.InputMethodListener","function":"inputMethodTextChanged"},{"parameters":["class java.awt.event.InputMethodEvent"],"class":"java.awt.event.InputMethodListener","function":"caretPositionChanged"}]

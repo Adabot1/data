@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.ImportTree","function":"getQualifiedIdentifier"},{"parameters":[],"class":"com.sun.source.tree.ImportTree","function":"isStatic"},{"parameters":[],"class":"com.sun.source.tree.ImportTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.ImportTree","function":"accept"}]

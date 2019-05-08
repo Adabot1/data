@@ -1,0 +1,1 @@
+[{"parameters":["class java.applet.Applet"],"class":"java.beans.AppletInitializer","function":"activate"},{"parameters":["class java.applet.Applet","interface java.beans.beancontext.BeanContext"],"class":"java.beans.AppletInitializer","function":"initialize"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.security.cert.CertSelector","function":"clone"},{"parameters":["class java.security.cert.Certificate"],"class":"java.security.cert.CertSelector","function":"match"}]

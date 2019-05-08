@@ -1,0 +1,1 @@
+[{"parameters":["class javax.swing.event.TreeExpansionEvent"],"class":"javax.swing.event.TreeWillExpandListener","function":"treeWillExpand"},{"parameters":["class javax.swing.event.TreeExpansionEvent"],"class":"javax.swing.event.TreeWillExpandListener","function":"treeWillCollapse"}]

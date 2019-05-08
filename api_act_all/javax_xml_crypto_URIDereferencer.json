@@ -1,0 +1,1 @@
+[{"parameters":["interface javax.xml.crypto.URIReference","interface javax.xml.crypto.XMLCryptoContext"],"class":"javax.xml.crypto.URIDereferencer","function":"dereference"}]

@@ -1,0 +1,1 @@
+[{"parameters":["interface java.nio.file.WatchService","java.nio.file.WatchEvent$Kind<?>[]","class [Ljava.nio.file.WatchEvent$Modifier;"],"class":"java.nio.file.Watchable","function":"register"},{"parameters":["interface java.nio.file.WatchService","java.nio.file.WatchEvent$Kind<?>[]"],"class":"java.nio.file.Watchable","function":"register"}]

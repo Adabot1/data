@@ -1,0 +1,1 @@
+[{"parameters":["interface javax.management.Descriptor"],"class":"javax.management.DescriptorAccess","function":"setDescriptor"},{"parameters":[],"class":"javax.management.DescriptorAccess","function":"getDescriptor"}]

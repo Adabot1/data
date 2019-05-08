@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.print.Doc","function":"getReaderForText"},{"parameters":[],"class":"javax.print.Doc","function":"getDocFlavor"},{"parameters":[],"class":"javax.print.Doc","function":"getPrintData"},{"parameters":[],"class":"javax.print.Doc","function":"getStreamForBytes"},{"parameters":[],"class":"javax.print.Doc","function":"getAttributes"}]

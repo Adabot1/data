@@ -1,0 +1,1 @@
+[{"parameters":["interface java.util.function.DoubleConsumer"],"class":"java.util.function.DoubleConsumer","function":"andThen"},{"parameters":["double"],"class":"java.util.function.DoubleConsumer","function":"accept"}]

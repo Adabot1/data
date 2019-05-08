@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.TypeCastTree","function":"getExpression"},{"parameters":[],"class":"com.sun.source.tree.TypeCastTree","function":"getType"},{"parameters":[],"class":"com.sun.source.tree.TypeCastTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.TypeCastTree","function":"accept"}]

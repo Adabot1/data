@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.ErroneousTree","function":"getErrorTrees"},{"parameters":[],"class":"com.sun.source.tree.ErroneousTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.ErroneousTree","function":"accept"}]

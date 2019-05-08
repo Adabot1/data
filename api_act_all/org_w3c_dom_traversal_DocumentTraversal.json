@@ -1,0 +1,1 @@
+[{"parameters":["interface org.w3c.dom.Node","int","interface org.w3c.dom.traversal.NodeFilter","boolean"],"class":"org.w3c.dom.traversal.DocumentTraversal","function":"createNodeIterator"},{"parameters":["interface org.w3c.dom.Node","int","interface org.w3c.dom.traversal.NodeFilter","boolean"],"class":"org.w3c.dom.traversal.DocumentTraversal","function":"createTreeWalker"}]

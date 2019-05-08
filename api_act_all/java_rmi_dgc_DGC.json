@@ -1,0 +1,1 @@
+[{"parameters":["class [Ljava.rmi.server.ObjID;","long","class java.rmi.dgc.Lease"],"class":"java.rmi.dgc.DGC","function":"dirty"},{"parameters":["class [Ljava.rmi.server.ObjID;","long","class java.rmi.dgc.VMID","boolean"],"class":"java.rmi.dgc.DGC","function":"clean"}]

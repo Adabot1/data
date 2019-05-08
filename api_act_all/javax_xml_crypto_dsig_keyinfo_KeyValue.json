@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.xml.crypto.dsig.keyinfo.KeyValue","function":"getPublicKey"},{"parameters":["class java.lang.String"],"class":"javax.xml.crypto.dsig.keyinfo.KeyValue","function":"isFeatureSupported"}]

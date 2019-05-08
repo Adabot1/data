@@ -1,0 +1,1 @@
+[{"parameters":["interface java.util.function.IntConsumer"],"class":"java.util.function.IntConsumer","function":"andThen"},{"parameters":["int"],"class":"java.util.function.IntConsumer","function":"accept"}]

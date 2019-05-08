@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.String"],"class":"javax.xml.transform.Source","function":"setSystemId"},{"parameters":[],"class":"javax.xml.transform.Source","function":"getSystemId"},{"parameters":[],"class":"javax.xml.transform.Source","function":"isEmpty"}]

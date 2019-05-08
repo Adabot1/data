@@ -1,0 +1,1 @@
+[{"parameters":["class java.awt.event.HierarchyEvent"],"class":"java.awt.event.HierarchyBoundsListener","function":"ancestorMoved"},{"parameters":["class java.awt.event.HierarchyEvent"],"class":"java.awt.event.HierarchyBoundsListener","function":"ancestorResized"}]

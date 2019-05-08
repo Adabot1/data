@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.nio.file.WatchService","function":"take"},{"parameters":["long","class java.util.concurrent.TimeUnit"],"class":"java.nio.file.WatchService","function":"poll"},{"parameters":[],"class":"java.nio.file.WatchService","function":"poll"},{"parameters":[],"class":"java.nio.file.WatchService","function":"close"}]

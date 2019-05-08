@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.xml.crypto.dsig.DigestMethod","function":"getParameterSpec"},{"parameters":["class java.lang.String"],"class":"javax.xml.crypto.dsig.DigestMethod","function":"isFeatureSupported"},{"parameters":[],"class":"javax.xml.crypto.dsig.DigestMethod","function":"getAlgorithm"}]

@@ -1,0 +1,1 @@
+[{"parameters":["class javax.naming.ldap.UnsolicitedNotificationEvent"],"class":"javax.naming.ldap.UnsolicitedNotificationListener","function":"notificationReceived"},{"parameters":["class javax.naming.event.NamingExceptionEvent"],"class":"javax.naming.ldap.UnsolicitedNotificationListener","function":"namingExceptionThrown"}]

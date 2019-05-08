@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.awt.CompositeContext","function":"dispose"},{"parameters":["class java.awt.image.Raster","class java.awt.image.Raster","class java.awt.image.WritableRaster"],"class":"java.awt.CompositeContext","function":"compose"}]

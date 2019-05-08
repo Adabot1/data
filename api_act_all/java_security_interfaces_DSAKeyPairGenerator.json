@@ -1,0 +1,1 @@
+[{"parameters":["interface java.security.interfaces.DSAParams","class java.security.SecureRandom"],"class":"java.security.interfaces.DSAKeyPairGenerator","function":"initialize"},{"parameters":["int","boolean","class java.security.SecureRandom"],"class":"java.security.interfaces.DSAKeyPairGenerator","function":"initialize"}]

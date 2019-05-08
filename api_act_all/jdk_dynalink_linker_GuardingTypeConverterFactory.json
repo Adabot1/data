@@ -1,0 +1,1 @@
+[{"parameters":["java.lang.Class<?>","java.lang.Class<?>","java.util.function.Supplier<java.lang.invoke.MethodHandles$Lookup>"],"class":"jdk.dynalink.linker.GuardingTypeConverterFactory","function":"convertToType"}]

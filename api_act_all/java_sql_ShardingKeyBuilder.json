@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.Object","interface java.sql.SQLType"],"class":"java.sql.ShardingKeyBuilder","function":"subkey"},{"parameters":[],"class":"java.sql.ShardingKeyBuilder","function":"build"}]

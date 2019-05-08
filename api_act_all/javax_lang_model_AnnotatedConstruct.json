@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.lang.model.AnnotatedConstruct","function":"getAnnotationMirrors"},{"parameters":["java.lang.Class<A>"],"class":"javax.lang.model.AnnotatedConstruct","function":"getAnnotation"},{"parameters":["java.lang.Class<A>"],"class":"javax.lang.model.AnnotatedConstruct","function":"getAnnotationsByType"}]

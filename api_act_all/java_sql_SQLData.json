@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"java.sql.SQLData","function":"getSQLTypeName"},{"parameters":["interface java.sql.SQLInput","class java.lang.String"],"class":"java.sql.SQLData","function":"readSQL"},{"parameters":["interface java.sql.SQLOutput"],"class":"java.sql.SQLData","function":"writeSQL"}]

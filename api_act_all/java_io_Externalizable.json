@@ -1,0 +1,1 @@
+[{"parameters":["interface java.io.ObjectOutput"],"class":"java.io.Externalizable","function":"writeExternal"},{"parameters":["interface java.io.ObjectInput"],"class":"java.io.Externalizable","function":"readExternal"}]

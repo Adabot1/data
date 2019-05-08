@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.accessibility.AccessibleStreamable","function":"getMimeTypes"},{"parameters":["class java.awt.datatransfer.DataFlavor"],"class":"javax.accessibility.AccessibleStreamable","function":"getStream"}]

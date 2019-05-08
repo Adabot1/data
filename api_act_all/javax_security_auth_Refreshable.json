@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"javax.security.auth.Refreshable","function":"refresh"},{"parameters":[],"class":"javax.security.auth.Refreshable","function":"isCurrent"}]

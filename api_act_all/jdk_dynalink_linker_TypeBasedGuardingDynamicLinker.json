@@ -1,0 +1,1 @@
+[{"parameters":["java.lang.Class<?>"],"class":"jdk.dynalink.linker.TypeBasedGuardingDynamicLinker","function":"canLinkType"},{"parameters":["interface jdk.dynalink.linker.LinkRequest","interface jdk.dynalink.linker.LinkerServices"],"class":"jdk.dynalink.linker.TypeBasedGuardingDynamicLinker","function":"getGuardedInvocation"}]

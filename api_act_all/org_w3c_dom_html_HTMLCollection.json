@@ -1,0 +1,1 @@
+[{"parameters":["int"],"class":"org.w3c.dom.html.HTMLCollection","function":"item"},{"parameters":["class java.lang.String"],"class":"org.w3c.dom.html.HTMLCollection","function":"namedItem"},{"parameters":[],"class":"org.w3c.dom.html.HTMLCollection","function":"getLength"}]

@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.source.tree.SwitchTree","function":"getExpression"},{"parameters":[],"class":"com.sun.source.tree.SwitchTree","function":"getCases"},{"parameters":[],"class":"com.sun.source.tree.SwitchTree","function":"getKind"},{"parameters":["com.sun.source.tree.TreeVisitor<R, D>","D"],"class":"com.sun.source.tree.SwitchTree","function":"accept"}]

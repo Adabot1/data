@@ -1,0 +1,1 @@
+[{"parameters":["class java.lang.Object"],"class":"java.sql.Ref","function":"setObject"},{"parameters":[],"class":"java.sql.Ref","function":"getBaseTypeName"},{"parameters":["java.util.Map<java.lang.String, java.lang.Class<?>>"],"class":"java.sql.Ref","function":"getObject"},{"parameters":[],"class":"java.sql.Ref","function":"getObject"}]

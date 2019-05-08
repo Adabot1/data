@@ -1,0 +1,1 @@
+[{"parameters":[],"class":"com.sun.jdi.Accessible","function":"isPackagePrivate"},{"parameters":[],"class":"com.sun.jdi.Accessible","function":"modifiers"},{"parameters":[],"class":"com.sun.jdi.Accessible","function":"isPublic"},{"parameters":[],"class":"com.sun.jdi.Accessible","function":"isProtected"},{"parameters":[],"class":"com.sun.jdi.Accessible","function":"isPrivate"}]

@@ -1,0 +1,1 @@
+[{"parameters":["class java.nio.ByteBuffer"],"class":"java.nio.channels.WritableByteChannel","function":"write"},{"parameters":[],"class":"java.nio.channels.WritableByteChannel","function":"isOpen"},{"parameters":[],"class":"java.nio.channels.WritableByteChannel","function":"close"}]
