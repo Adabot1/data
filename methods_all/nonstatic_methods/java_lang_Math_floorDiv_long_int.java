@@ -1,0 +1,1 @@
+class java_lang_Math_floorDiv_long_int{ public static void function() {java.lang.Math.floorDiv(7964291758134423476,-1165508575);}}

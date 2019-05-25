@@ -1,0 +1,1 @@
+class java_time_Clock_systemUTC{ public static void function() {java.time.Clock.systemUTC();}}

@@ -1,0 +1,1 @@
+class java_lang_Long_sum_long_long{ public static void function() {java.lang.Long.sum(-6624076814854394079,566242978995096318);}}

@@ -1,0 +1,1 @@
+class java_time_ZoneOffset_getAvailableZoneIds{ public static void function() {java.time.ZoneOffset.getAvailableZoneIds();}}

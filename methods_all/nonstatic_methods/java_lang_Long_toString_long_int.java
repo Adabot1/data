@@ -1,0 +1,1 @@
+class java_lang_Long_toString_long_int{ public static void function() {java.lang.Long.toString(-2354417106205154065,1715283035);}}

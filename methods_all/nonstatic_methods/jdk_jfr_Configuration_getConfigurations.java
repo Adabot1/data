@@ -1,0 +1,1 @@
+class jdk_jfr_Configuration_getConfigurations{ public static void function() {jdk.jfr.Configuration.getConfigurations();}}

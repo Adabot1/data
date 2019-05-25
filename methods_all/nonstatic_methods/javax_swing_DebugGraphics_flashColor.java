@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_flashColor{ public static void function() {javax.swing.DebugGraphics.flashColor();}}

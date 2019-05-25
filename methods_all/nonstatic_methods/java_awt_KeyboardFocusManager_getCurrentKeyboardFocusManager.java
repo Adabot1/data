@@ -1,0 +1,1 @@
+class java_awt_KeyboardFocusManager_getCurrentKeyboardFocusManager{ public static void function() {java.awt.KeyboardFocusManager.getCurrentKeyboardFocusManager();}}

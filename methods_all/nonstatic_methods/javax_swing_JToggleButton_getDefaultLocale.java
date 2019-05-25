@@ -1,0 +1,1 @@
+class javax_swing_JToggleButton_getDefaultLocale{ public static void function() {javax.swing.JToggleButton.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class java_time_Month_values{ public static void function() {java.time.Month.values();}}

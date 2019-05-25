@@ -1,0 +1,1 @@
+class javax_swing_UIManager_getPropertyChangeListeners{ public static void function() {javax.swing.UIManager.getPropertyChangeListeners();}}

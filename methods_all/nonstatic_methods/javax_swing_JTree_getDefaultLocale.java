@@ -1,0 +1,1 @@
+class javax_swing_JTree_getDefaultLocale{ public static void function() {javax.swing.JTree.getDefaultLocale();}}

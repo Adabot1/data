@@ -1,0 +1,1 @@
+class java_lang_StrictMath_fma_float_float_float{ public static void function() {java.lang.StrictMath.fma(0.4206866,0.3177163,0.46195292);}}

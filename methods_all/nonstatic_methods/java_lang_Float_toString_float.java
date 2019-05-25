@@ -1,0 +1,1 @@
+class java_lang_Float_toString_float{ public static void function() {java.lang.Float.toString(0.08747703);}}

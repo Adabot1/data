@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_TIFFTag_getSizeOfType_int{ public static void function() {javax.imageio.plugins.tiff.TIFFTag.getSizeOfType(-1071131636);}}

@@ -1,0 +1,1 @@
+class java_lang_module_ModuleFinder_ofSystem{ public static void function() {java.lang.module.ModuleFinder.ofSystem();}}

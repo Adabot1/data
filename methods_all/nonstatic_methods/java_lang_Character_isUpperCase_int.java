@@ -1,0 +1,1 @@
+class java_lang_Character_isUpperCase_int{ public static void function() {java.lang.Character.isUpperCase(-1449044933);}}

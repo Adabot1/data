@@ -1,0 +1,1 @@
+class java_time_LocalDateTime_of_int_int_int_int_int_int{ public static void function() {java.time.LocalDateTime.of(2036775084,1053041340,826892125,596527184,2009579890,-1829592446);}}

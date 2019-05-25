@@ -1,0 +1,1 @@
+class java_awt_event_KeyEvent_getExtendedKeyCodeForChar_int{ public static void function() {java.awt.event.KeyEvent.getExtendedKeyCodeForChar(1988444539);}}

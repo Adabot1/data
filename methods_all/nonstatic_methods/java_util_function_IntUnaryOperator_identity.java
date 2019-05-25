@@ -1,0 +1,1 @@
+class java_util_function_IntUnaryOperator_identity{ public static void function() {java.util.function.IntUnaryOperator.identity();}}

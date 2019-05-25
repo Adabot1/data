@@ -1,0 +1,1 @@
+class javax_sql_rowset_RowSetProvider_newFactory{ public static void function() {javax.sql.rowset.RowSetProvider.newFactory();}}

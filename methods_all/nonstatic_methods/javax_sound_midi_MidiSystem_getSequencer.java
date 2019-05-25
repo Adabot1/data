@@ -1,0 +1,1 @@
+class javax_sound_midi_MidiSystem_getSequencer{ public static void function() {javax.sound.midi.MidiSystem.getSequencer();}}

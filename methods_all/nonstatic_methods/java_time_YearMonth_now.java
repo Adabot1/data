@@ -1,0 +1,1 @@
+class java_time_YearMonth_now{ public static void function() {java.time.YearMonth.now();}}

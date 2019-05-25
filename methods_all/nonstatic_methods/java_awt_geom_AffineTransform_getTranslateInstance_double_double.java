@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_getTranslateInstance_double_double{ public static void function() {java.awt.geom.AffineTransform.getTranslateInstance(0.31722647099004253,0.12170846252618572);}}

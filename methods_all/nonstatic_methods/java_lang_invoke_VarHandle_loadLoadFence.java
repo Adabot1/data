@@ -1,0 +1,1 @@
+class java_lang_invoke_VarHandle_loadLoadFence{ public static void function() {java.lang.invoke.VarHandle.loadLoadFence();}}

@@ -1,0 +1,1 @@
+class javax_imageio_metadata_IIOMetadataFormatImpl_getStandardFormatInstance{ public static void function() {javax.imageio.metadata.IIOMetadataFormatImpl.getStandardFormatInstance();}}

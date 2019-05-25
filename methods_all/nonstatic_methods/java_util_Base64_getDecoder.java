@@ -1,0 +1,1 @@
+class java_util_Base64_getDecoder{ public static void function() {java.util.Base64.getDecoder();}}

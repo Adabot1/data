@@ -1,0 +1,1 @@
+class java_time_chrono_ChronoLocalDate_timeLineOrder{ public static void function() {java.time.chrono.ChronoLocalDate.timeLineOrder();}}

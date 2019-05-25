@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_getShearInstance_double_double{ public static void function() {java.awt.geom.AffineTransform.getShearInstance(0.7215372423805533,0.41059419534167785);}}

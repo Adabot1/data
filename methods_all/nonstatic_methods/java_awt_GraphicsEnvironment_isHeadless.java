@@ -1,0 +1,1 @@
+class java_awt_GraphicsEnvironment_isHeadless{ public static void function() {java.awt.GraphicsEnvironment.isHeadless();}}

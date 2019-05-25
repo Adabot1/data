@@ -1,0 +1,1 @@
+class java_lang_Character_isWhitespace_int{ public static void function() {java.lang.Character.isWhitespace(1632678381);}}

@@ -1,0 +1,1 @@
+class java_awt_event_MouseWheelEvent_getModifiersExText_int{ public static void function() {java.awt.event.MouseWheelEvent.getModifiersExText(-485879474);}}

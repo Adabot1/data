@@ -1,0 +1,1 @@
+class java_awt_geom_AffineTransform_getRotateInstance_double_double{ public static void function() {java.awt.geom.AffineTransform.getRotateInstance(0.03618345908322229,0.949913737213072);}}

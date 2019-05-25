@@ -1,0 +1,1 @@
+class java_lang_StrictMath_floorMod_long_int{ public static void function() {java.lang.StrictMath.floorMod(8736320195777568733,-856565477);}}

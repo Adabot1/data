@@ -1,0 +1,1 @@
+class java_io_PipedReader_nullReader{ public static void function() {java.io.PipedReader.nullReader();}}

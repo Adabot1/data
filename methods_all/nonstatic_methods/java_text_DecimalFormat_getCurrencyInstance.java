@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_getCurrencyInstance{ public static void function() {java.text.DecimalFormat.getCurrencyInstance();}}

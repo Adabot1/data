@@ -1,0 +1,1 @@
+class java_lang_Math_min_long_long{ public static void function() {java.lang.Math.min(-5914141332113552764,-2673374355677528234);}}

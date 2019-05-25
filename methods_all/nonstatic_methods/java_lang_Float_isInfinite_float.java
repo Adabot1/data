@@ -1,0 +1,1 @@
+class java_lang_Float_isInfinite_float{ public static void function() {java.lang.Float.isInfinite(0.059177756);}}

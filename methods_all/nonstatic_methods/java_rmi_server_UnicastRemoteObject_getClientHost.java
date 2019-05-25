@@ -1,0 +1,1 @@
+class java_rmi_server_UnicastRemoteObject_getClientHost{ public static void function() {java.rmi.server.UnicastRemoteObject.getClientHost();}}

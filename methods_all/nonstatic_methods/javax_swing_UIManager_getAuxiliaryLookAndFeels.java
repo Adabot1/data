@@ -1,0 +1,1 @@
+class javax_swing_UIManager_getAuxiliaryLookAndFeels{ public static void function() {javax.swing.UIManager.getAuxiliaryLookAndFeels();}}

@@ -1,0 +1,1 @@
+class java_util_Currency_getAvailableCurrencies{ public static void function() {java.util.Currency.getAvailableCurrencies();}}

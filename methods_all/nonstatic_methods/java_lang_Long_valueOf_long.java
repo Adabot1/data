@@ -1,0 +1,1 @@
+class java_lang_Long_valueOf_long{ public static void function() {java.lang.Long.valueOf(-8590493500162500632);}}

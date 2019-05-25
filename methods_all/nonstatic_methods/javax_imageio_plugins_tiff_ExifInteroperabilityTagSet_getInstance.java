@@ -1,0 +1,1 @@
+class javax_imageio_plugins_tiff_ExifInteroperabilityTagSet_getInstance{ public static void function() {javax.imageio.plugins.tiff.ExifInteroperabilityTagSet.getInstance();}}

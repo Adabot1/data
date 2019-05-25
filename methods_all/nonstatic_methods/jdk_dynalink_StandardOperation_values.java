@@ -1,0 +1,1 @@
+class jdk_dynalink_StandardOperation_values{ public static void function() {jdk.dynalink.StandardOperation.values();}}

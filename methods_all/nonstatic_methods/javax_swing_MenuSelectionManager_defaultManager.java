@@ -1,0 +1,1 @@
+class javax_swing_MenuSelectionManager_defaultManager{ public static void function() {javax.swing.MenuSelectionManager.defaultManager();}}

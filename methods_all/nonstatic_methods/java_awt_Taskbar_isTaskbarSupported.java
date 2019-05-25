@@ -1,0 +1,1 @@
+class java_awt_Taskbar_isTaskbarSupported{ public static void function() {java.awt.Taskbar.isTaskbarSupported();}}

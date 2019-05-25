@@ -1,0 +1,1 @@
+class java_time_DayOfWeek_of_int{ public static void function() {java.time.DayOfWeek.of(1357911855);}}

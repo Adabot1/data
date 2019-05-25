@@ -1,0 +1,1 @@
+class java_lang_Character_digit_int_int{ public static void function() {java.lang.Character.digit(2114609822,-1542254471);}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_scalb_double_int{ public static void function() {java.lang.StrictMath.scalb(0.49655013458374164,270835456);}}

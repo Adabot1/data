@@ -1,0 +1,1 @@
+class java_lang_StrictMath_random{ public static void function() {java.lang.StrictMath.random();}}

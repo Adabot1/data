@@ -1,0 +1,1 @@
+class java_lang_management_ManagementFactory_getMemoryMXBean{ public static void function() {java.lang.management.ManagementFactory.getMemoryMXBean();}}

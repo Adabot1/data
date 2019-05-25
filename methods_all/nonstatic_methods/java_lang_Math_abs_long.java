@@ -1,0 +1,1 @@
+class java_lang_Math_abs_long{ public static void function() {java.lang.Math.abs(5924399188865165940);}}

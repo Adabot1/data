@@ -1,0 +1,1 @@
+class javax_smartcardio_TerminalFactory_getDefaultType{ public static void function() {javax.smartcardio.TerminalFactory.getDefaultType();}}

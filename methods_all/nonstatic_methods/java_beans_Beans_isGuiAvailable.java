@@ -1,0 +1,1 @@
+class java_beans_Beans_isGuiAvailable{ public static void function() {java.beans.Beans.isGuiAvailable();}}

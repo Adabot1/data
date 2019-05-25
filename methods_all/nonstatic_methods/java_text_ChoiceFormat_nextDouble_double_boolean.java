@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_nextDouble_double_boolean{ public static void function() {java.text.ChoiceFormat.nextDouble(0.886549397076474,true);}}

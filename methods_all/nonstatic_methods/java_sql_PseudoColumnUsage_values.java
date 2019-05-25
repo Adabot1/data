@@ -1,0 +1,1 @@
+class java_sql_PseudoColumnUsage_values{ public static void function() {java.sql.PseudoColumnUsage.values();}}

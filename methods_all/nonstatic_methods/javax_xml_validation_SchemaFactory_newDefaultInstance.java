@@ -1,0 +1,1 @@
+class javax_xml_validation_SchemaFactory_newDefaultInstance{ public static void function() {javax.xml.validation.SchemaFactory.newDefaultInstance();}}

@@ -1,0 +1,1 @@
+class java_lang_Float_toHexString_float{ public static void function() {java.lang.Float.toHexString(0.79798204);}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_pow_double_double{ public static void function() {java.lang.StrictMath.pow(0.6879906538135127,0.09542510017686723);}}

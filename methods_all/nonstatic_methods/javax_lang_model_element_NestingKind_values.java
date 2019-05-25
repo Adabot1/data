@@ -1,0 +1,1 @@
+class javax_lang_model_element_NestingKind_values{ public static void function() {javax.lang.model.element.NestingKind.values();}}

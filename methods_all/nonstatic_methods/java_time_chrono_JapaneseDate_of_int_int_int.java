@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseDate_of_int_int_int{ public static void function() {java.time.chrono.JapaneseDate.of(577493978,-910183232,753924677);}}

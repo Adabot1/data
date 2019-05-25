@@ -1,0 +1,1 @@
+class java_lang_ProcessHandle_of_long{ public static void function() {java.lang.ProcessHandle.of(1726322039724525504);}}

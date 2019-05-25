@@ -1,0 +1,1 @@
+class java_lang_Math_addExact_long_long{ public static void function() {java.lang.Math.addExact(2396249076046333676,-7668580794457223830);}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_abs_long{ public static void function() {java.lang.StrictMath.abs(4584895147040876682);}}

@@ -1,0 +1,1 @@
+class java_awt_AWTKeyStroke_getAWTKeyStroke_int_int{ public static void function() {java.awt.AWTKeyStroke.getAWTKeyStroke(1560690743,-325145926);}}

@@ -1,0 +1,1 @@
+class javax_swing_TransferHandler_getCutAction{ public static void function() {javax.swing.TransferHandler.getCutAction();}}

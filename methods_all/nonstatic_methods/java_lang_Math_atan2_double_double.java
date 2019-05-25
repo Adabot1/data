@@ -1,0 +1,1 @@
+class java_lang_Math_atan2_double_double{ public static void function() {java.lang.Math.atan2(0.1036132211224775,0.5678703380570754);}}

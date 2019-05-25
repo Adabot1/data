@@ -1,0 +1,1 @@
+class java_lang_Long_reverseBytes_long{ public static void function() {java.lang.Long.reverseBytes(-8285371649014481354);}}

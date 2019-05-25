@@ -1,0 +1,1 @@
+class java_lang_Math_toDegrees_double{ public static void function() {java.lang.Math.toDegrees(0.6987836247465538);}}

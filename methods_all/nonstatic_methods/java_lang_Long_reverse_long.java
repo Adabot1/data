@@ -1,0 +1,1 @@
+class java_lang_Long_reverse_long{ public static void function() {java.lang.Long.reverse(6053156655729941894);}}

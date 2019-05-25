@@ -1,0 +1,1 @@
+class java_time_ZoneOffset_systemDefault{ public static void function() {java.time.ZoneOffset.systemDefault();}}

@@ -1,0 +1,1 @@
+class java_awt_color_ColorSpace_getInstance_int{ public static void function() {java.awt.color.ColorSpace.getInstance(1307434776);}}

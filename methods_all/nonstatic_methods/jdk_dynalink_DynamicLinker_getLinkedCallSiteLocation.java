@@ -1,0 +1,1 @@
+class jdk_dynalink_DynamicLinker_getLinkedCallSiteLocation{ public static void function() {jdk.dynalink.DynamicLinker.getLinkedCallSiteLocation();}}

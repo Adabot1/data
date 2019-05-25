@@ -1,0 +1,1 @@
+class java_time_temporal_ChronoField_values{ public static void function() {java.time.temporal.ChronoField.values();}}

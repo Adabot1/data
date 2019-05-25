@@ -1,0 +1,1 @@
+class java_lang_Long_compare_long_long{ public static void function() {java.lang.Long.compare(9143082041868245679,-1219522945380852536);}}

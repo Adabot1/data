@@ -1,0 +1,1 @@
+class java_text_DateFormat_getDateTimeInstance{ public static void function() {java.text.DateFormat.getDateTimeInstance();}}

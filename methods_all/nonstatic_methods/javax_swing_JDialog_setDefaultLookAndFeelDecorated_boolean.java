@@ -1,0 +1,1 @@
+class javax_swing_JDialog_setDefaultLookAndFeelDecorated_boolean{ public static void function() {javax.swing.JDialog.setDefaultLookAndFeelDecorated(false);}}

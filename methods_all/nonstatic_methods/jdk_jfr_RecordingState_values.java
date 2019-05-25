@@ -1,0 +1,1 @@
+class jdk_jfr_RecordingState_values{ public static void function() {jdk.jfr.RecordingState.values();}}

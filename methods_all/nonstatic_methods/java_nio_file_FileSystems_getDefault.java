@@ -1,0 +1,1 @@
+class java_nio_file_FileSystems_getDefault{ public static void function() {java.nio.file.FileSystems.getDefault();}}

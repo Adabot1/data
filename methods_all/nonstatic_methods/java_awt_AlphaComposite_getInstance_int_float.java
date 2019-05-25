@@ -1,0 +1,1 @@
+class java_awt_AlphaComposite_getInstance_int_float{ public static void function() {java.awt.AlphaComposite.getInstance(-183124701,0.087522924);}}

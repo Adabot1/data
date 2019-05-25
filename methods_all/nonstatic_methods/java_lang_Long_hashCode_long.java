@@ -1,0 +1,1 @@
+class java_lang_Long_hashCode_long{ public static void function() {java.lang.Long.hashCode(-3062257850690800094);}}

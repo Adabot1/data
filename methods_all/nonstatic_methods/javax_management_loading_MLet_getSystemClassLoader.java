@@ -1,0 +1,1 @@
+class javax_management_loading_MLet_getSystemClassLoader{ public static void function() {javax.management.loading.MLet.getSystemClassLoader();}}

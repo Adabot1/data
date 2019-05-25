@@ -1,0 +1,1 @@
+class java_lang_Math_toIntExact_long{ public static void function() {java.lang.Math.toIntExact(1902458654432738777);}}

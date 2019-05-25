@@ -1,0 +1,1 @@
+class javax_management_relation_RoleStatus_isRoleStatus_int{ public static void function() {javax.management.relation.RoleStatus.isRoleStatus(1661392913);}}

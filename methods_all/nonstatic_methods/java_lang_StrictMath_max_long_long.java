@@ -1,0 +1,1 @@
+class java_lang_StrictMath_max_long_long{ public static void function() {java.lang.StrictMath.max(-6755139945112170170,2129699366703793114);}}

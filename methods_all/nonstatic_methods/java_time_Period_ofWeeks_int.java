@@ -1,0 +1,1 @@
+class java_time_Period_ofWeeks_int{ public static void function() {java.time.Period.ofWeeks(-1079270125);}}

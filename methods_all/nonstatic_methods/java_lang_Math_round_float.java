@@ -1,0 +1,1 @@
+class java_lang_Math_round_float{ public static void function() {java.lang.Math.round(0.3638624);}}

@@ -1,0 +1,1 @@
+class java_io_ByteArrayOutputStream_nullOutputStream{ public static void function() {java.io.ByteArrayOutputStream.nullOutputStream();}}

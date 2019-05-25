@@ -1,0 +1,1 @@
+class javax_swing_JComponent_getDefaultLocale{ public static void function() {javax.swing.JComponent.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class java_time_Duration_ofMinutes_long{ public static void function() {java.time.Duration.ofMinutes(-1086095423187760324);}}

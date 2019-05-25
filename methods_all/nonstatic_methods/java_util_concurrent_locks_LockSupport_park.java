@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_LockSupport_park{ public static void function() {java.util.concurrent.locks.LockSupport.park();}}

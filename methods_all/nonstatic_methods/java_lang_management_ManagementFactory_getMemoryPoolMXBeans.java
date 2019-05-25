@@ -1,0 +1,1 @@
+class java_lang_management_ManagementFactory_getMemoryPoolMXBeans{ public static void function() {java.lang.management.ManagementFactory.getMemoryPoolMXBeans();}}

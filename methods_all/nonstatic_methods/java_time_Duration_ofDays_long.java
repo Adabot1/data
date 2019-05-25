@@ -1,0 +1,1 @@
+class java_time_Duration_ofDays_long{ public static void function() {java.time.Duration.ofDays(2913776766941122185);}}

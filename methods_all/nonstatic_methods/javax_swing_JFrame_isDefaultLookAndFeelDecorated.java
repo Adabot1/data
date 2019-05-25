@@ -1,0 +1,1 @@
+class javax_swing_JFrame_isDefaultLookAndFeelDecorated{ public static void function() {javax.swing.JFrame.isDefaultLookAndFeelDecorated();}}

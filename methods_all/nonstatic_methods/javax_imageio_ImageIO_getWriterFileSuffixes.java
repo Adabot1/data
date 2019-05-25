@@ -1,0 +1,1 @@
+class javax_imageio_ImageIO_getWriterFileSuffixes{ public static void function() {javax.imageio.ImageIO.getWriterFileSuffixes();}}

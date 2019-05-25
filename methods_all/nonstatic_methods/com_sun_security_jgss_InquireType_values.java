@@ -1,0 +1,1 @@
+class com_sun_security_jgss_InquireType_values{ public static void function() {com.sun.security.jgss.InquireType.values();}}

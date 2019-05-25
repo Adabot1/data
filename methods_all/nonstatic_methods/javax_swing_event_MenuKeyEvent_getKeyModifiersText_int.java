@@ -1,0 +1,1 @@
+class javax_swing_event_MenuKeyEvent_getKeyModifiersText_int{ public static void function() {javax.swing.event.MenuKeyEvent.getKeyModifiersText(-1133826577);}}

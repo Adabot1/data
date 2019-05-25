@@ -1,0 +1,1 @@
+class java_time_Duration_ofSeconds_long_long{ public static void function() {java.time.Duration.ofSeconds(8874336733941011184,930041093811863781);}}

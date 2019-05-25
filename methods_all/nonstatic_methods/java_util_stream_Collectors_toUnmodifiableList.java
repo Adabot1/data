@@ -1,0 +1,1 @@
+class java_util_stream_Collectors_toUnmodifiableList{ public static void function() {java.util.stream.Collectors.toUnmodifiableList();}}

@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicBorders_getRadioButtonBorder{ public static void function() {javax.swing.plaf.basic.BasicBorders.getRadioButtonBorder();}}

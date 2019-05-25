@@ -1,0 +1,1 @@
+class javax_swing_KeyStroke_getKeyStroke_int_int{ public static void function() {javax.swing.KeyStroke.getKeyStroke(-2113371138,-144213739);}}

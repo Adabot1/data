@@ -1,0 +1,1 @@
+class java_text_ChoiceFormat_getNumberInstance{ public static void function() {java.text.ChoiceFormat.getNumberInstance();}}

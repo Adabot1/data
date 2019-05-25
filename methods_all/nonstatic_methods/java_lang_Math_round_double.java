@@ -1,0 +1,1 @@
+class java_lang_Math_round_double{ public static void function() {java.lang.Math.round(0.9281581742712115);}}

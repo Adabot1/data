@@ -1,0 +1,1 @@
+class com_sun_jdi_Bootstrap_virtualMachineManager{ public static void function() {com.sun.jdi.Bootstrap.virtualMachineManager();}}

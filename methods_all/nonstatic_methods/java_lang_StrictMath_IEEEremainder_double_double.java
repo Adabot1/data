@@ -1,0 +1,1 @@
+class java_lang_StrictMath_IEEEremainder_double_double{ public static void function() {java.lang.StrictMath.IEEEremainder(0.6947747735376449,0.11971589653715453);}}

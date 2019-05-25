@@ -1,0 +1,1 @@
+class java_time_chrono_MinguoDate_of_int_int_int{ public static void function() {java.time.chrono.MinguoDate.of(788744756,1012134128,1322551984);}}

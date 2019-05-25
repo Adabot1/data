@@ -1,0 +1,1 @@
+class javax_swing_Spring_constant_int_int_int{ public static void function() {javax.swing.Spring.constant(59222378,-760374609,-1742121115);}}

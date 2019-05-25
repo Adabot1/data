@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalBorders_getDesktopIconBorder{ public static void function() {javax.swing.plaf.metal.MetalBorders.getDesktopIconBorder();}}

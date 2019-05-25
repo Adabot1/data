@@ -1,0 +1,1 @@
+class java_sql_DriverManager_getDrivers{ public static void function() {java.sql.DriverManager.getDrivers();}}

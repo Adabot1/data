@@ -1,0 +1,1 @@
+class java_lang_Character_isIdentifierIgnorable_int{ public static void function() {java.lang.Character.isIdentifierIgnorable(-682495656);}}

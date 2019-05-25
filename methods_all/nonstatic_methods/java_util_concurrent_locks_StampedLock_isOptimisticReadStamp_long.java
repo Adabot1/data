@@ -1,0 +1,1 @@
+class java_util_concurrent_locks_StampedLock_isOptimisticReadStamp_long{ public static void function() {java.util.concurrent.locks.StampedLock.isOptimisticReadStamp(-3719445200917616386);}}

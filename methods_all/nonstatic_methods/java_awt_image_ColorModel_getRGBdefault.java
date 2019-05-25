@@ -1,0 +1,1 @@
+class java_awt_image_ColorModel_getRGBdefault{ public static void function() {java.awt.image.ColorModel.getRGBdefault();}}

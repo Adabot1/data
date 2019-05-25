@@ -1,0 +1,1 @@
+class java_lang_Short_toUnsignedLong_short{ public static void function() {java.lang.Short.toUnsignedLong(-24733);}}

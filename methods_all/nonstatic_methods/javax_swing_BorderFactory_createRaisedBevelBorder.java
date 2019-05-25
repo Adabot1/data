@@ -1,0 +1,1 @@
+class javax_swing_BorderFactory_createRaisedBevelBorder{ public static void function() {javax.swing.BorderFactory.createRaisedBevelBorder();}}

@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseEra_of_int{ public static void function() {java.time.chrono.JapaneseEra.of(2092752874);}}

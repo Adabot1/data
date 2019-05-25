@@ -1,0 +1,1 @@
+class java_security_SecureClassLoader_getSystemClassLoader{ public static void function() {java.security.SecureClassLoader.getSystemClassLoader();}}

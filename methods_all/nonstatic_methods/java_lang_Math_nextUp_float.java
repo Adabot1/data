@@ -1,0 +1,1 @@
+class java_lang_Math_nextUp_float{ public static void function() {java.lang.Math.nextUp(0.21796894);}}

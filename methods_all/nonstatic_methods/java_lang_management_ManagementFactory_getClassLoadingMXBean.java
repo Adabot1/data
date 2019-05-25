@@ -1,0 +1,1 @@
+class java_lang_management_ManagementFactory_getClassLoadingMXBean{ public static void function() {java.lang.management.ManagementFactory.getClassLoadingMXBean();}}

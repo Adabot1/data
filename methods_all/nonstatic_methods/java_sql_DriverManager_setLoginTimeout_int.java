@@ -1,0 +1,1 @@
+class java_sql_DriverManager_setLoginTimeout_int{ public static void function() {java.sql.DriverManager.setLoginTimeout(-64851028);}}

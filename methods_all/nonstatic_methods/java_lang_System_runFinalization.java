@@ -1,0 +1,1 @@
+class java_lang_System_runFinalization{ public static void function() {java.lang.System.runFinalization();}}

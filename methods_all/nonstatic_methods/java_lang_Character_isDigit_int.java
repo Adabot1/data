@@ -1,0 +1,1 @@
+class java_lang_Character_isDigit_int{ public static void function() {java.lang.Character.isDigit(1727994535);}}

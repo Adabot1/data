@@ -1,0 +1,1 @@
+class java_lang_Math_ceil_double{ public static void function() {java.lang.Math.ceil(0.7315466319188467);}}

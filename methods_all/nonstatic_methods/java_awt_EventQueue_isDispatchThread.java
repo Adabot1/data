@@ -1,0 +1,1 @@
+class java_awt_EventQueue_isDispatchThread{ public static void function() {java.awt.EventQueue.isDispatchThread();}}

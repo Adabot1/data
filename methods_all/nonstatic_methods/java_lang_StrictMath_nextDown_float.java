@@ -1,0 +1,1 @@
+class java_lang_StrictMath_nextDown_float{ public static void function() {java.lang.StrictMath.nextDown(0.4714719);}}

@@ -1,0 +1,1 @@
+class java_awt_event_MouseEvent_getMaskForButton_int{ public static void function() {java.awt.event.MouseEvent.getMaskForButton(262652453);}}

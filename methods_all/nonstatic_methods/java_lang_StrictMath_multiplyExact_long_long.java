@@ -1,0 +1,1 @@
+class java_lang_StrictMath_multiplyExact_long_long{ public static void function() {java.lang.StrictMath.multiplyExact(3232668955312092620,-4670642312785073292);}}

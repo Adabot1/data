@@ -1,0 +1,1 @@
+class java_io_DataOutputStream_nullOutputStream{ public static void function() {java.io.DataOutputStream.nullOutputStream();}}

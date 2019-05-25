@@ -1,0 +1,1 @@
+class com_sun_net_httpserver_HttpServer_create{ public static void function() {com.sun.net.httpserver.HttpServer.create();}}

@@ -1,0 +1,1 @@
+class java_lang_management_MemoryType_values{ public static void function() {java.lang.management.MemoryType.values();}}

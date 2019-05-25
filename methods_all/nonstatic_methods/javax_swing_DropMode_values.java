@@ -1,0 +1,1 @@
+class javax_swing_DropMode_values{ public static void function() {javax.swing.DropMode.values();}}

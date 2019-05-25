@@ -1,0 +1,1 @@
+class javax_management_Query_value_boolean{ public static void function() {javax.management.Query.value(false);}}

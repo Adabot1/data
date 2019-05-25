@@ -1,0 +1,1 @@
+class java_lang_Math_multiplyHigh_long_long{ public static void function() {java.lang.Math.multiplyHigh(-7806180170453564915,2694782157205778660);}}

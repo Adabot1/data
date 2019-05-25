@@ -1,0 +1,1 @@
+class javax_accessibility_AccessibleResourceBundle_clearCache{ public static void function() {javax.accessibility.AccessibleResourceBundle.clearCache();}}

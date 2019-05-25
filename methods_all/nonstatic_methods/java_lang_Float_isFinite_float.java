@@ -1,0 +1,1 @@
+class java_lang_Float_isFinite_float{ public static void function() {java.lang.Float.isFinite(0.09110582);}}

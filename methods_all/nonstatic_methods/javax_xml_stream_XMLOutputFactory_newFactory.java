@@ -1,0 +1,1 @@
+class javax_xml_stream_XMLOutputFactory_newFactory{ public static void function() {javax.xml.stream.XMLOutputFactory.newFactory();}}

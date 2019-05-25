@@ -1,0 +1,1 @@
+class java_time_chrono_IsoEra_of_int{ public static void function() {java.time.chrono.IsoEra.of(367564850);}}

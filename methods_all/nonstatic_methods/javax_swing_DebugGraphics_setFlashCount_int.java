@@ -1,0 +1,1 @@
+class javax_swing_DebugGraphics_setFlashCount_int{ public static void function() {javax.swing.DebugGraphics.setFlashCount(-1160576843);}}

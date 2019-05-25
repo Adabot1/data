@@ -1,0 +1,1 @@
+class javax_swing_plaf_basic_BasicBorders_getInternalFrameBorder{ public static void function() {javax.swing.plaf.basic.BasicBorders.getInternalFrameBorder();}}

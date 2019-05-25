@@ -1,0 +1,1 @@
+class javax_xml_datatype_DatatypeFactory_newDefaultInstance{ public static void function() {javax.xml.datatype.DatatypeFactory.newDefaultInstance();}}

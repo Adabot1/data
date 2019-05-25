@@ -1,0 +1,1 @@
+class java_time_chrono_JapaneseEra_values{ public static void function() {java.time.chrono.JapaneseEra.values();}}

@@ -1,0 +1,1 @@
+class java_text_NumberFormat_getAvailableLocales{ public static void function() {java.text.NumberFormat.getAvailableLocales();}}

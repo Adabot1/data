@@ -1,0 +1,1 @@
+class java_time_chrono_ThaiBuddhistDate_of_int_int_int{ public static void function() {java.time.chrono.ThaiBuddhistDate.of(1724415435,-1981331361,219627897);}}

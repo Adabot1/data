@@ -1,0 +1,1 @@
+class javax_swing_event_MenuKeyEvent_getExtendedKeyCodeForChar_int{ public static void function() {javax.swing.event.MenuKeyEvent.getExtendedKeyCodeForChar(-1664327387);}}

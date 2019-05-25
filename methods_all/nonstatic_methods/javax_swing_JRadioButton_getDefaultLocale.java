@@ -1,0 +1,1 @@
+class javax_swing_JRadioButton_getDefaultLocale{ public static void function() {javax.swing.JRadioButton.getDefaultLocale();}}

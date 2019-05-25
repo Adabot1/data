@@ -1,0 +1,1 @@
+class java_lang_Integer_divideUnsigned_int_int{ public static void function() {java.lang.Integer.divideUnsigned(-668793327,958689388);}}

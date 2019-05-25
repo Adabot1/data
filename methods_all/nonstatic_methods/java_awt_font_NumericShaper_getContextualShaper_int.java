@@ -1,0 +1,1 @@
+class java_awt_font_NumericShaper_getContextualShaper_int{ public static void function() {java.awt.font.NumericShaper.getContextualShaper(1980333119);}}

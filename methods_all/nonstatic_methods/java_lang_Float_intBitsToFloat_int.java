@@ -1,0 +1,1 @@
+class java_lang_Float_intBitsToFloat_int{ public static void function() {java.lang.Float.intBitsToFloat(-374474294);}}

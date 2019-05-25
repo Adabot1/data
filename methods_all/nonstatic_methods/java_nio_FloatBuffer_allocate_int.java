@@ -1,0 +1,1 @@
+class java_nio_FloatBuffer_allocate_int{ public static void function() {java.nio.FloatBuffer.allocate(-553912184);}}

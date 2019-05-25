@@ -1,0 +1,1 @@
+class java_awt_color_ICC_ProfileRGB_getInstance_int{ public static void function() {java.awt.color.ICC_ProfileRGB.getInstance(-985945028);}}

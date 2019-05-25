@@ -1,0 +1,1 @@
+class java_rmi_server_RMIClassLoader_getDefaultProviderInstance{ public static void function() {java.rmi.server.RMIClassLoader.getDefaultProviderInstance();}}

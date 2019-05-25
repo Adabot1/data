@@ -1,0 +1,1 @@
+class javax_xml_stream_XMLInputFactory_newInstance{ public static void function() {javax.xml.stream.XMLInputFactory.newInstance();}}

@@ -1,0 +1,1 @@
+class javax_imageio_spi_IIORegistry_getDefaultInstance{ public static void function() {javax.imageio.spi.IIORegistry.getDefaultInstance();}}

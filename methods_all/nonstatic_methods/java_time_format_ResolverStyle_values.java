@@ -1,0 +1,1 @@
+class java_time_format_ResolverStyle_values{ public static void function() {java.time.format.ResolverStyle.values();}}

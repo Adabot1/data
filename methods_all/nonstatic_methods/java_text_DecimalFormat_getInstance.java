@@ -1,0 +1,1 @@
+class java_text_DecimalFormat_getInstance{ public static void function() {java.text.DecimalFormat.getInstance();}}

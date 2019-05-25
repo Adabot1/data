@@ -1,0 +1,1 @@
+class java_net_URLClassLoader_getSystemClassLoader{ public static void function() {java.net.URLClassLoader.getSystemClassLoader();}}

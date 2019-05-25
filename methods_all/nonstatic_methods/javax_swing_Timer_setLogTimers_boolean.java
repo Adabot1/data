@@ -1,0 +1,1 @@
+class javax_swing_Timer_setLogTimers_boolean{ public static void function() {javax.swing.Timer.setLogTimers(false);}}

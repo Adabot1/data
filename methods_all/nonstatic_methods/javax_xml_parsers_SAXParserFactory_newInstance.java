@@ -1,0 +1,1 @@
+class javax_xml_parsers_SAXParserFactory_newInstance{ public static void function() {javax.xml.parsers.SAXParserFactory.newInstance();}}

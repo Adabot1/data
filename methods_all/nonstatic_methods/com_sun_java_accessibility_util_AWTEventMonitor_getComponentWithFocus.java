@@ -1,0 +1,1 @@
+class com_sun_java_accessibility_util_AWTEventMonitor_getComponentWithFocus{ public static void function() {com.sun.java.accessibility.util.AWTEventMonitor.getComponentWithFocus();}}

@@ -1,0 +1,1 @@
+class java_lang_reflect_Modifier_isTransient_int{ public static void function() {java.lang.reflect.Modifier.isTransient(-783075045);}}

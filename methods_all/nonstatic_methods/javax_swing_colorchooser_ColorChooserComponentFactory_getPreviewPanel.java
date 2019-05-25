@@ -1,0 +1,1 @@
+class javax_swing_colorchooser_ColorChooserComponentFactory_getPreviewPanel{ public static void function() {javax.swing.colorchooser.ColorChooserComponentFactory.getPreviewPanel();}}

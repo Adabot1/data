@@ -1,0 +1,1 @@
+class java_lang_Double_isInfinite_double{ public static void function() {java.lang.Double.isInfinite(0.20659038345381853);}}

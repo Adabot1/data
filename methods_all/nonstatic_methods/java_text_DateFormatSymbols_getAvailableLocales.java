@@ -1,0 +1,1 @@
+class java_text_DateFormatSymbols_getAvailableLocales{ public static void function() {java.text.DateFormatSymbols.getAvailableLocales();}}

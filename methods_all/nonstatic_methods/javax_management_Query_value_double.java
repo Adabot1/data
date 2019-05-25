@@ -1,0 +1,1 @@
+class javax_management_Query_value_double{ public static void function() {javax.management.Query.value(0.5752010040314902);}}

@@ -1,0 +1,1 @@
+class javax_swing_table_JTableHeader_getDefaultLocale{ public static void function() {javax.swing.table.JTableHeader.getDefaultLocale();}}

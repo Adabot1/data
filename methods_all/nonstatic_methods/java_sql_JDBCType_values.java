@@ -1,0 +1,1 @@
+class java_sql_JDBCType_values{ public static void function() {java.sql.JDBCType.values();}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_min_long_long{ public static void function() {java.lang.StrictMath.min(-6977624736458381619,-330162169314654103);}}

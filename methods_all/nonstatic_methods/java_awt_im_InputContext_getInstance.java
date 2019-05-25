@@ -1,0 +1,1 @@
+class java_awt_im_InputContext_getInstance{ public static void function() {java.awt.im.InputContext.getInstance();}}

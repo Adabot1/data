@@ -1,0 +1,1 @@
+class java_awt_SystemColor_getHSBColor_float_float_float{ public static void function() {java.awt.SystemColor.getHSBColor(0.28918886,0.7052881,0.68514216);}}

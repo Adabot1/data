@@ -1,0 +1,1 @@
+class java_io_BufferedOutputStream_nullOutputStream{ public static void function() {java.io.BufferedOutputStream.nullOutputStream();}}

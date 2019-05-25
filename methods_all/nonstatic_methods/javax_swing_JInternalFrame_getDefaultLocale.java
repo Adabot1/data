@@ -1,0 +1,1 @@
+class javax_swing_JInternalFrame_getDefaultLocale{ public static void function() {javax.swing.JInternalFrame.getDefaultLocale();}}

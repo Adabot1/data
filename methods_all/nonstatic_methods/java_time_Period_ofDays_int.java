@@ -1,0 +1,1 @@
+class java_time_Period_ofDays_int{ public static void function() {java.time.Period.ofDays(303450477);}}

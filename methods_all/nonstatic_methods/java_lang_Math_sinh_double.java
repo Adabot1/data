@@ -1,0 +1,1 @@
+class java_lang_Math_sinh_double{ public static void function() {java.lang.Math.sinh(0.9930510811852619);}}

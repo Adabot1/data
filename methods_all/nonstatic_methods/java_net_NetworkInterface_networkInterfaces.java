@@ -1,0 +1,1 @@
+class java_net_NetworkInterface_networkInterfaces{ public static void function() {java.net.NetworkInterface.networkInterfaces();}}

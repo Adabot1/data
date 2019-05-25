@@ -1,0 +1,1 @@
+class java_util_Collections_emptyNavigableMap{ public static void function() {java.util.Collections.emptyNavigableMap();}}

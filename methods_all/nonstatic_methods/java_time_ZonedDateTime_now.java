@@ -1,0 +1,1 @@
+class java_time_ZonedDateTime_now{ public static void function() {java.time.ZonedDateTime.now();}}

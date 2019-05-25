@@ -1,0 +1,1 @@
+class java_io_PipedWriter_nullWriter{ public static void function() {java.io.PipedWriter.nullWriter();}}

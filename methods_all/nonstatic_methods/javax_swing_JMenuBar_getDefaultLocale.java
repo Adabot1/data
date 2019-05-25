@@ -1,0 +1,1 @@
+class javax_swing_JMenuBar_getDefaultLocale{ public static void function() {javax.swing.JMenuBar.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class java_lang_Integer_toUnsignedLong_int{ public static void function() {java.lang.Integer.toUnsignedLong(-1801999839);}}

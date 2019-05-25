@@ -1,0 +1,1 @@
+class com_sun_javadoc_Doclet_languageVersion{ public static void function() {com.sun.javadoc.Doclet.languageVersion();}}

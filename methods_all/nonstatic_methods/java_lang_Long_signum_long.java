@@ -1,0 +1,1 @@
+class java_lang_Long_signum_long{ public static void function() {java.lang.Long.signum(-4096939014294475185);}}

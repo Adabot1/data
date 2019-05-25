@@ -1,0 +1,1 @@
+class java_rmi_server_RMISocketFactory_getFailureHandler{ public static void function() {java.rmi.server.RMISocketFactory.getFailureHandler();}}

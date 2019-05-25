@@ -1,0 +1,1 @@
+class com_sun_javadoc_LanguageVersion_values{ public static void function() {com.sun.javadoc.LanguageVersion.values();}}

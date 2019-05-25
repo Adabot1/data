@@ -1,0 +1,1 @@
+class javax_swing_SortOrder_values{ public static void function() {javax.swing.SortOrder.values();}}

@@ -1,0 +1,1 @@
+class javax_swing_JDialog_getOwnerlessWindows{ public static void function() {javax.swing.JDialog.getOwnerlessWindows();}}

@@ -1,0 +1,1 @@
+class java_beans_Beans_isDesignTime{ public static void function() {java.beans.Beans.isDesignTime();}}

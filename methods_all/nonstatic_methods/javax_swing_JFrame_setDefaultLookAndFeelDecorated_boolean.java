@@ -1,0 +1,1 @@
+class javax_swing_JFrame_setDefaultLookAndFeelDecorated_boolean{ public static void function() {javax.swing.JFrame.setDefaultLookAndFeelDecorated(true);}}

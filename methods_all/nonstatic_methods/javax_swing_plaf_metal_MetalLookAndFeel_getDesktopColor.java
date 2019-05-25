@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalLookAndFeel_getDesktopColor{ public static void function() {javax.swing.plaf.metal.MetalLookAndFeel.getDesktopColor();}}

@@ -1,0 +1,1 @@
+class javax_swing_event_MenuDragMouseEvent_getMouseModifiersText_int{ public static void function() {javax.swing.event.MenuDragMouseEvent.getMouseModifiersText(828757164);}}

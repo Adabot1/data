@@ -1,0 +1,1 @@
+class java_awt_dnd_DragSource_getDragThreshold{ public static void function() {java.awt.dnd.DragSource.getDragThreshold();}}

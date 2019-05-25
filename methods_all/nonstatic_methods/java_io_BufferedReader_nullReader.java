@@ -1,0 +1,1 @@
+class java_io_BufferedReader_nullReader{ public static void function() {java.io.BufferedReader.nullReader();}}

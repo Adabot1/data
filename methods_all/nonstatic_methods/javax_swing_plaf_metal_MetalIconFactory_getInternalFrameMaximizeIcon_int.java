@@ -1,0 +1,1 @@
+class javax_swing_plaf_metal_MetalIconFactory_getInternalFrameMaximizeIcon_int{ public static void function() {javax.swing.plaf.metal.MetalIconFactory.getInternalFrameMaximizeIcon(820477061);}}

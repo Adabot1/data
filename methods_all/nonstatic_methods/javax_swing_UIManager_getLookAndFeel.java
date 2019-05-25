@@ -1,0 +1,1 @@
+class javax_swing_UIManager_getLookAndFeel{ public static void function() {javax.swing.UIManager.getLookAndFeel();}}

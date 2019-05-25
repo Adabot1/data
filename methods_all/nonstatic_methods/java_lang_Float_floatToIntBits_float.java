@@ -1,0 +1,1 @@
+class java_lang_Float_floatToIntBits_float{ public static void function() {java.lang.Float.floatToIntBits(0.6804522);}}

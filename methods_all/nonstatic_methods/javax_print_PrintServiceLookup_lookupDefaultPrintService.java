@@ -1,0 +1,1 @@
+class javax_print_PrintServiceLookup_lookupDefaultPrintService{ public static void function() {javax.print.PrintServiceLookup.lookupDefaultPrintService();}}

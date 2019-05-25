@@ -1,0 +1,1 @@
+class java_lang_invoke_MethodType_genericMethodType_int{ public static void function() {java.lang.invoke.MethodType.genericMethodType(558933583);}}

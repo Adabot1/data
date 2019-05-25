@@ -1,0 +1,1 @@
+class java_text_CollationElementIterator_tertiaryOrder_int{ public static void function() {java.text.CollationElementIterator.tertiaryOrder(1264373980);}}

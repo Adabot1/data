@@ -1,0 +1,1 @@
+class com_sun_nio_sctp_HandlerResult_values{ public static void function() {com.sun.nio.sctp.HandlerResult.values();}}

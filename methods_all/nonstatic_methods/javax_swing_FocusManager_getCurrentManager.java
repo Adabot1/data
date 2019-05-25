@@ -1,0 +1,1 @@
+class javax_swing_FocusManager_getCurrentManager{ public static void function() {javax.swing.FocusManager.getCurrentManager();}}

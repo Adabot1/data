@@ -1,0 +1,1 @@
+class java_lang_Long_toBinaryString_long{ public static void function() {java.lang.Long.toBinaryString(-234494147532864302);}}

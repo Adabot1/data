@@ -1,0 +1,1 @@
+class javax_xml_catalog_CatalogFeatures_builder{ public static void function() {javax.xml.catalog.CatalogFeatures.builder();}}

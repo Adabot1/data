@@ -1,0 +1,1 @@
+class java_util_PropertyResourceBundle_clearCache{ public static void function() {java.util.PropertyResourceBundle.clearCache();}}

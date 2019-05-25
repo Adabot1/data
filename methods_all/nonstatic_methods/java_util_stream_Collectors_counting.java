@@ -1,0 +1,1 @@
+class java_util_stream_Collectors_counting{ public static void function() {java.util.stream.Collectors.counting();}}

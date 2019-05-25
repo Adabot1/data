@@ -1,0 +1,1 @@
+class javax_swing_JFormattedTextField_getDefaultLocale{ public static void function() {javax.swing.JFormattedTextField.getDefaultLocale();}}

@@ -1,0 +1,1 @@
+class java_awt_SystemTray_getSystemTray{ public static void function() {java.awt.SystemTray.getSystemTray();}}

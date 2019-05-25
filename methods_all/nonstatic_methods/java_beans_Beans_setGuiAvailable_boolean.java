@@ -1,0 +1,1 @@
+class java_beans_Beans_setGuiAvailable_boolean{ public static void function() {java.beans.Beans.setGuiAvailable(true);}}

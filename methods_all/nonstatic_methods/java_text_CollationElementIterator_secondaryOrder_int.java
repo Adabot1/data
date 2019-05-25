@@ -1,0 +1,1 @@
+class java_text_CollationElementIterator_secondaryOrder_int{ public static void function() {java.text.CollationElementIterator.secondaryOrder(-278359156);}}

@@ -1,0 +1,1 @@
+class java_lang_ClassLoader_getPlatformClassLoader{ public static void function() {java.lang.ClassLoader.getPlatformClassLoader();}}

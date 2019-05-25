@@ -1,0 +1,1 @@
+class java_lang_Math_nextAfter_float_double{ public static void function() {java.lang.Math.nextAfter(0.9709287,0.6575825610173945);}}

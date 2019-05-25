@@ -1,0 +1,1 @@
+class java_util_concurrent_Executors_newSingleThreadExecutor{ public static void function() {java.util.concurrent.Executors.newSingleThreadExecutor();}}

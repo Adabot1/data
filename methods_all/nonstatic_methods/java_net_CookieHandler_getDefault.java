@@ -1,0 +1,1 @@
+class java_net_CookieHandler_getDefault{ public static void function() {java.net.CookieHandler.getDefault();}}

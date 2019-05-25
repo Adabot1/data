@@ -1,0 +1,1 @@
+class java_awt_image_PackedColorModel_getRGBdefault{ public static void function() {java.awt.image.PackedColorModel.getRGBdefault();}}

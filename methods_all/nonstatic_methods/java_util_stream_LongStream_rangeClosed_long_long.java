@@ -1,0 +1,1 @@
+class java_util_stream_LongStream_rangeClosed_long_long{ public static void function() {java.util.stream.LongStream.rangeClosed(1053491858938477013,-3982358666595649714);}}

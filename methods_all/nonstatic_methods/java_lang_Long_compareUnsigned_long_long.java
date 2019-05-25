@@ -1,0 +1,1 @@
+class java_lang_Long_compareUnsigned_long_long{ public static void function() {java.lang.Long.compareUnsigned(7939079442327714481,8098165403135585051);}}

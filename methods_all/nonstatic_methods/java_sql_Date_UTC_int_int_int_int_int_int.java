@@ -1,0 +1,1 @@
+class java_sql_Date_UTC_int_int_int_int_int_int{ public static void function() {java.sql.Date.UTC(-1545353700,60288440,550601786,259291044,-1641396305,-724000813);}}

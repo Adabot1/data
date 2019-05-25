@@ -1,0 +1,1 @@
+class jdk_dynalink_linker_support_Guards_isNull{ public static void function() {jdk.dynalink.linker.support.Guards.isNull();}}

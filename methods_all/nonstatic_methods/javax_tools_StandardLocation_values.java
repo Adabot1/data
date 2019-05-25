@@ -1,0 +1,1 @@
+class javax_tools_StandardLocation_values{ public static void function() {javax.tools.StandardLocation.values();}}

@@ -1,0 +1,1 @@
+class java_lang_StrictMath_ceil_double{ public static void function() {java.lang.StrictMath.ceil(0.9381934560960777);}}

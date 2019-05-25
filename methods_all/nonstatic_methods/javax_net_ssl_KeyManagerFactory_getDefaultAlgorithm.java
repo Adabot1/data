@@ -1,0 +1,1 @@
+class javax_net_ssl_KeyManagerFactory_getDefaultAlgorithm{ public static void function() {javax.net.ssl.KeyManagerFactory.getDefaultAlgorithm();}}

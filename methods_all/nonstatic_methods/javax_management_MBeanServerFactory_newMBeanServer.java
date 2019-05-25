@@ -1,0 +1,1 @@
+class javax_management_MBeanServerFactory_newMBeanServer{ public static void function() {javax.management.MBeanServerFactory.newMBeanServer();}}

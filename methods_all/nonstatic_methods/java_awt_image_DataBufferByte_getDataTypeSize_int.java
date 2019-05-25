@@ -1,0 +1,1 @@
+class java_awt_image_DataBufferByte_getDataTypeSize_int{ public static void function() {java.awt.image.DataBufferByte.getDataTypeSize(915811503);}}

@@ -1,0 +1,1 @@
+class java_util_zip_CheckedOutputStream_nullOutputStream{ public static void function() {java.util.zip.CheckedOutputStream.nullOutputStream();}}

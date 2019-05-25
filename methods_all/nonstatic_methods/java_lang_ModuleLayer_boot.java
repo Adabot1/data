@@ -1,0 +1,1 @@
+class java_lang_ModuleLayer_boot{ public static void function() {java.lang.ModuleLayer.boot();}}

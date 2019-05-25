@@ -1,0 +1,1 @@
+class java_util_Spliterators_emptyLongSpliterator{ public static void function() {java.util.Spliterators.emptyLongSpliterator();}}

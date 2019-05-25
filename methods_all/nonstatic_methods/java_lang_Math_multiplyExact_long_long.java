@@ -1,0 +1,1 @@
+class java_lang_Math_multiplyExact_long_long{ public static void function() {java.lang.Math.multiplyExact(-2768998030837055358,-6711407937115535863);}}

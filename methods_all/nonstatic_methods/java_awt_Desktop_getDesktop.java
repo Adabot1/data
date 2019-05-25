@@ -1,0 +1,1 @@
+class java_awt_Desktop_getDesktop{ public static void function() {java.awt.Desktop.getDesktop();}}

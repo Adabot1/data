@@ -1,0 +1,1 @@
+class java_lang_Float_isNaN_float{ public static void function() {java.lang.Float.isNaN(0.7594524);}}

@@ -1,0 +1,1 @@
+class java_awt_geom_QuadCurve2D_getFlatness_double_double_double_double_double_double{ public static void function() {java.awt.geom.QuadCurve2D.getFlatness(0.1872918466580611,0.5090337006269261,0.7383984942558729,0.17633391264147935,0.9461457810125774,0.18431604660680123);}}

@@ -1,0 +1,1 @@
+class java_time_Period_of_int_int_int{ public static void function() {java.time.Period.of(1756320351,1865208311,1683596432);}}

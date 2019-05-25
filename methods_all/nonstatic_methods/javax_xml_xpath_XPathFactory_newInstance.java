@@ -1,0 +1,1 @@
+class javax_xml_xpath_XPathFactory_newInstance{ public static void function() {javax.xml.xpath.XPathFactory.newInstance();}}

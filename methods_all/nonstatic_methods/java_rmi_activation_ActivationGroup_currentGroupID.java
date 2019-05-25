@@ -1,0 +1,1 @@
+class java_rmi_activation_ActivationGroup_currentGroupID{ public static void function() {java.rmi.activation.ActivationGroup.currentGroupID();}}

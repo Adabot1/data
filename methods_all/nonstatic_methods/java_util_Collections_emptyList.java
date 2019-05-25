@@ -1,0 +1,1 @@
+class java_util_Collections_emptyList{ public static void function() {java.util.Collections.emptyList();}}

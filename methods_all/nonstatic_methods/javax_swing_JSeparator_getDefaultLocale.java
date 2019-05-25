@@ -1,0 +1,1 @@
+class javax_swing_JSeparator_getDefaultLocale{ public static void function() {javax.swing.JSeparator.getDefaultLocale();}}

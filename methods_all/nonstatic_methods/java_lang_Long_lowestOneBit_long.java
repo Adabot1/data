@@ -1,0 +1,1 @@
+class java_lang_Long_lowestOneBit_long{ public static void function() {java.lang.Long.lowestOneBit(2127362328156607069);}}
